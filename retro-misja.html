@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Retro Misja - Level Next</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --purple: #6a0dad;
+      --dark-purple: #330066;
+      --yellow: #fff200;
+      --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #000;
+      background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
+      color: var(--yellow);
+      font-family: 'Orbitron', 'Press Start 2P', monospace;
+      min-height: 100vh;
+      display: flex;
+    }
+
+    .logo {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 180px;
+      filter: drop-shadow(var(--neon-glow));
+      image-rendering: pixelated;
+      z-index: 100;
+    }
+
+    .social-sidebar {
+      position: fixed;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      z-index: 90;
+    }
+
+    .social-btn {
+      width: 50px;
+      height: 50px;
+      border: 3px solid var(--yellow);
+      border-radius: 50%;
+      background: rgba(106, 13, 173, 0.7);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s;
+      box-shadow: 0 0 5px var(--yellow);
+    }
+
+    .social-btn:hover {
+      transform: scale(1.2) skewX(-10deg);
+      background: var(--yellow);
+      box-shadow: var(--neon-glow);
+    }
+
+    .social-btn img {
+      width: 30px;
+      height: 30px;
+      object-fit: contain;
+    }
+
+    .main-content {
+      margin: auto;
+      text-align: center;
+      max-width: 600px;
+      padding: 40px;
+      background-color: rgba(0, 0, 0, 0.7);
+      border: 3px solid var(--yellow);
+    }
+
+    h1 {
+      font-size: 1.8em;
+      margin-bottom: 20px;
+      color: var(--yellow);
+    }
+
+    #retro-action {
+      margin: 20px 0;
+      font-size: 1em;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 1em;
+      background-color: var(--yellow);
+      color: var(--dark-purple);
+      border: none;
+      cursor: pointer;
+      font-family: 'Press Start 2P';
+    }
+
+    button:hover {
+      background-color: #ff0;
+    }
+  </style>
+</head>
+<body>
+  <img src="logo.png" alt="Level Next Logo" class="logo" />
+
+  <div class="social-sidebar">
+    <a href="https://discord.gg/sHZ5k9gJ" class="social-btn" target="_blank" title="Discord">
+      <img src="pngegg (1).png" alt="Discord" />
+    </a>
+    <a href="https://www.twitch.tv/xfirol" class="social-btn" target="_blank" title="Twitch">
+      <img src="pngegg.png" alt="Twitch" />
+    </a>
+    <a href="https://www.youtube.com/@LevelNext" class="social-btn" target="_blank" title="YouTube">
+      <img src="icons8-youtube-48.png" alt="YouTube" />
+    </a>
+    <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="TikTok">
+      <img src="icons8-tiktok-48.png" alt="TikTok" />
+    </a>
+    <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="Instagram">
+      <img src="icons8-instagram-48.png" alt="Instagram" />
+    </a>
+  </div>
+
+  <div class="main-content">
+    <h1>RETRO MISJA DNIA 🎲</h1>
+    <p id="retro-action">Kliknij przycisk, by wylosowac retro aktywnosc!</p>
+    <button onclick="getRetroAction()">🎮 LOSUJ MISJE</button>
+  </div>
+
+  <script>
+    const retroActions = [
+      "🎮 Zagraj w GTA San Andreas i zdobadz 5 gwiazdek!",
+      "💿 Wlacz plyte w Winampie i wlacz visualizacje.",
+      "🕹️ Odpal swoja konsole PS2 i zagraj w pierwsza gre z polki.",
+      "📼 Obejrz losowy VHS z kolekcji.",
+      "🎲 Zagraj w ulubiona gre z dziecinstwa na emulatorze.",
+      "📝 Napisz na blogu o swojej ostatniej retro rozgrywce.",
+      "📻 Wlacz oldschoolowe radio internetowe i chilluj.",
+      "🎤 Nagraj freestyle jak w 2006 przez mikrofon od Skype'a.",
+      "📸 Zrob screen z retro konsoli i wrzuc na swoja strone.",
+      "👾 Zagraj w Contre albo Mario i NIE rage'uj.",
+      "🖼️ Zrob fote swojego setupu i opisz jak na starym forum.",
+      "📚 Przeczytaj artykul z archiwalnego CD-Action.",
+      "🎵 Nagraj swoja wersje intra do anime z lat 90.",
+      "📂 Napisz list do siebie z przyszlosci w pliku .txt.",
+      "🎶 Odpal eJay lub FL Studio 3 i stworz bita jak w 2004.",
+      "🕰️ Zrob godzinny retro challenge – bez smartfona!"
+    ];
+
+    function getRetroAction() {
+      const random = retroActions[Math.floor(Math.random() * retroActions.length)];
+      document.getElementById("retro-action").textContent = random;
+    }
+  </script>
+</body>
+</html>
+

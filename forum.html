@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Forum - Level Next</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --purple: #6a0dad;
+      --dark-purple: #330066;
+      --yellow: #fff200;
+      --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #000;
+      background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
+      color: var(--yellow);
+      font-family: 'Orbitron', 'Press Start 2P', monospace;
+      min-height: 100vh;
+      display: flex;
+    }
+
+    .logo {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 180px;
+      filter: drop-shadow(var(--neon-glow));
+      image-rendering: pixelated;
+      z-index: 100;
+    }
+
+    .social-sidebar {
+      position: fixed;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      z-index: 90;
+    }
+
+    .social-btn {
+      width: 50px;
+      height: 50px;
+      border: 3px solid var(--yellow);
+      border-radius: 50%;
+      background: rgba(106, 13, 173, 0.7);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s;
+      box-shadow: 0 0 5px var(--yellow);
+    }
+
+    .social-btn:hover {
+      transform: scale(1.2) skewX(-10deg);
+      background: var(--yellow);
+      box-shadow: var(--neon-glow);
+    }
+
+    .social-btn img {
+      width: 30px;
+      height: 30px;
+      object-fit: contain;
+    }
+
+    .main-content {
+      margin: auto;
+      text-align: center;
+      max-width: 800px;
+      padding: 40px;
+      background-color: rgba(0, 0, 0, 0.7);
+      border: 3px solid var(--yellow);
+    }
+
+    h1 {
+      font-size: 1.8em;
+      margin-bottom: 20px;
+      color: var(--yellow);
+    }
+
+    input, textarea, button {
+      font-family: 'Press Start 2P', monospace;
+      background: black;
+      color: var(--yellow);
+      border: 2px solid var(--yellow);
+      padding: 10px;
+      width: 100%;
+      margin: 5px 0;
+    }
+
+    button {
+      background: var(--yellow);
+      color: var(--dark-purple);
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #ff0;
+    }
+
+    .thread {
+      border: 1px dashed var(--yellow);
+      margin-top: 20px;
+      padding: 10px;
+      text-align: left;
+    }
+
+    .thread h3 {
+      margin: 0 0 10px 0;
+    }
+
+    .thread p {
+      margin: 0 0 10px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="logo.png" alt="Level Next Logo" class="logo" />
+
+  <div class="social-sidebar">
+    <a href="https://discord.gg/sHZ5k9gJ" class="social-btn" target="_blank" title="Discord">
+      <img src="pngegg (1).png" alt="Discord" />
+    </a>
+    <a href="https://www.twitch.tv/xfirol" class="social-btn" target="_blank" title="Twitch">
+      <img src="pngegg.png" alt="Twitch" />
+    </a>
+    <a href="https://www.youtube.com/@LevelNext" class="social-btn" target="_blank" title="YouTube">
+      <img src="icons8-youtube-48.png" alt="YouTube" />
+    </a>
+    <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="TikTok">
+      <img src="icons8-tiktok-48.png" alt="TikTok" />
+    </a>
+    <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="Instagram">
+      <img src="icons8-instagram-48.png" alt="Instagram" />
+    </a>
+  </div>
+
+  <div class="main-content">
+    <h1>📡 FORUM</h1>
+
+    <h3>Nowy watek</h3>
+    <input id="nick" placeholder="Twoj nick">
+    <input id="title" placeholder="Tytul watku">
+    <textarea id="content" placeholder="Tresc watku"></textarea>
+    <button onclick="addThread()">Dodaj watek</button>
+
+    <div id="threads"></div>
+  </div>
+
+  <script type="module">
+    import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
+
+    const supabaseUrl = 'https://xxfsvqkvoybdyanmqnpq.supabase.co'
+    const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh4ZnN2cWt2b3liZHlhbm1xbnBnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM5MDg5NjAsImV4cCI6MjA2OTQ4NDk2MH0.1vzkild4JfMdvViTTJ3IggU6YwclZYbCcmuZ28JtF88'
+    const supabase = createClient(supabaseUrl, supabaseKey)
+
+    window.fetchThreads = async function () {
+      const { data, error } = await supabase
+        .from('threads')
+        .select('*')
+        .order('created_at', { ascending: false })
+
+      if (error) {
+        console.error('Błąd przy pobieraniu danych:', error)
+        return
+      }
+
+      const container = document.getElementById('threads')
+      container.innerHTML = ''
+
+      data.forEach(thread => {
+        const div = document.createElement('div')
+        div.className = 'thread'
+        div.innerHTML = `
+          <h3>${thread.title}</h3>
+          <p><b>${thread.nick}</b>: ${thread.content}</p>
+        `
+        container.appendChild(div)
+      })
+    }
+
+    window.addThread = async function () {
+      const nick = document.getElementById('nick').value.trim()
+      const title = document.getElementById('title').value.trim()
+      const content = document.getElementById('content').value.trim()
+
+      if (!nick || !title || !content) return alert('Uzupelnij wszystkie pola')
+
+      const { error } = await supabase.from('threads').insert([{ nick, title, content }])
+
+      if (error) {
+        console.error('Blad przy dodawaniu watku:', error)
+        alert('Wystapil blad przy dodawaniu watku')
+        return
+      }
+
+      document.getElementById('nick').value = ''
+      document.getElementById('title').value = ''
+      document.getElementById('content').value = ''
+      fetchThreads()
+    }
+
+    fetchThreads()
+  </script>
+</body>
+</html>
+
