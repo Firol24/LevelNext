@@ -89,12 +89,21 @@
   <img src="logo.png" alt="Level Next Logo" class="logo" />
 
   <div class="social-sidebar">
-    <!-- social buttons... -->
+    <a href="https://discord.gg/sHZ5k9gJ"    class="social-btn" target="_blank"><img src="pngegg (1).png" alt="Discord"></a>
+    <a href="https://www.twitch.tv/xfirol"   class="social-btn" target="_blank"><img src="pngegg.png"     alt="Twitch"></a>
+    <a href="https://www.youtube.com/@LevelNext" class="social-btn" target="_blank"><img src="icons8-youtube-48.png" alt="YouTube"></a>
+    <a href="https://www.tiktok.com/@tu_firol"     class="social-btn" target="_blank"><img src="icons8-tiktok-48.png"  alt="TikTok"></a>
+    <a href="https://www.instagram.com/tu_firol"  class="social-btn" target="_blank"><img src="icons8-instagram-48.png" alt="Instagram"></a>
   </div>
 
   <!-- formularz logowania/rejestracji -->
   <div id="auth" class="main-content">
-    <!-- auth form... -->
+    <h1>🔐 Forum Level Next</h1>
+    <h3>Zaloguj sie lub zarejestruj</h3>
+    <input id="email-input"    type="email"    placeholder="Email"   />
+    <input id="password-input" type="password" placeholder="Haslo"   />
+    <button onclick="signIn()">Zaloguj</button>
+    <button onclick="signUp()">Zarejestruj</button>
   </div>
 
   <!-- właściwe forum -->
@@ -115,20 +124,31 @@
   <script type="module">
     import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
     const supabaseUrl = 'https://xxfsvqkvoybdyanmqnpg.supabase.co'
-    const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5...TwYwclZYbCcmuZ28JtF88'
+    const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh4ZnN2cWt2b3liZHlhbm1xbnBnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM5MDg5NjAsImV4cCI6MjA2OTQ4NDk2MH0.1vzkild4JfMdvViTTJ3IggU6YwclZYbCcmuZ28JtF88'
     const supabase    = createClient(supabaseUrl, supabaseKey)
     const adminEmail  = 'filipiakr245@gmail.com'
     let currentUser = null
 
+    // Auth state change
     supabase.auth.onAuthStateChange((_, session) => {
-      if (session?.user) { currentUser = session.user; showForum() }
-      else               { currentUser = null;       showAuth()  }
+      if (session?.user) {
+        currentUser = session.user
+        showForum()
+      } else {
+        currentUser = null
+        showAuth()
+      }
     })
 
+    // Initial session check
     ;(async()=>{
       const { data:{ session } } = await supabase.auth.getSession()
-      if (session?.user) { currentUser = session.user; showForum() }
-      else               { showAuth() }
+      if (session?.user) {
+        currentUser = session.user
+        showForum()
+      } else {
+        showAuth()
+      }
     })()
 
     function showAuth(){
@@ -142,14 +162,27 @@
       fetchThreads()
     }
 
+    // Auth functions
     window.signUp = async ()=>{
-      /* signUp logic */
+      const email = document.getElementById('email-input').value
+      const pass  = document.getElementById('password-input').value
+      const { error } = await supabase.auth.signUp({ email, password: pass })
+      if (error) alert('Blad rejestracji: '+error.message)
+      else       alert('Sprawdz email i potwierdz konto!')
     }
-    window.signIn = async ()=>{
-      /* signIn logic */
-    }
-    window.signOut = async ()=>{ await supabase.auth.signOut() }
 
+    window.signIn = async ()=>{
+      const email = document.getElementById('email-input').value
+      const pass  = document.getElementById('password-input').value
+      const { error } = await supabase.auth.signInWithPassword({ email, password: pass })
+      if (error) alert('Blad logowania: '+error.message)
+    }
+
+    window.signOut = async ()=>{ 
+      await supabase.auth.signOut() 
+    }
+
+    // Fetch and display threads
     window.fetchThreads = async ()=>{
       const { data, error } = await supabase
         .from('threads')
@@ -159,19 +192,17 @@
         console.error('Błąd fetch:',error)
         return
       }
-      const c = document.getElementById('threads')
-      c.innerHTML=''
+      const container = document.getElementById('threads')
+      container.innerHTML = ''
       data.forEach(t=>{
         const dateStr = new Date(t.created_at)
           .toLocaleString('pl-PL',{hour12:false})
-        const div=document.createElement('div')
-        div.className='thread'
-        div.innerHTML=`
+        const div = document.createElement('div')
+        div.className = 'thread'
+        div.innerHTML = `
           <h3>${t.title}</h3>
           <p><b>${t.nick}</b>: ${t.content}</p>
-          <p style="font-size:0.8em;">
-            <i>${t.nick}</i> • ${dateStr}
-          </p>
+          <p style="font-size:0.8em;"><i>${t.nick}</i> • ${dateStr}</p>
           <div class="thread-actions">
             ${ (t.user_id===currentUser.id||currentUser.email===adminEmail)
                 ? `<button onclick="deleteThread(${t.id})">Usun</button>` : ''}
@@ -179,18 +210,59 @@
                 ? `<button onclick="editThread(${t.id})">Edytuj</button>` : ''}
           </div>
         `
-        c.appendChild(div)
+        container.appendChild(div)
       })
     }
 
+    // Add thread
     window.addThread = async ()=>{
-      /* addThread logic */
+      if(!currentUser) return alert('Musisz byc zalogowany!')
+      const nick    = document.getElementById('nick-input').value.trim()
+      const title   = document.getElementById('title-input').value.trim()
+      const content = document.getElementById('content-input').value.trim()
+      if(!nick||!title||!content) return alert('Uzupelnij nick, tytul i tresc!')
+      const { error } = await supabase
+        .from('threads')
+        .insert([{ nick, title, content, user_id: currentUser.id }])
+      if(error) alert('Blad przy dodawaniu: '+error.message)
+      else{
+        document.getElementById('nick-input').value   = ''
+        document.getElementById('title-input').value  = ''
+        document.getElementById('content-input').value= ''
+        fetchThreads()
+      }
     }
+
+    // Delete thread
     window.deleteThread = async id=>{
-      /* deleteThread logic */
+      if(!confirm('Na pewno usunac?')) return
+      const { error } = await supabase.from('threads')
+        .delete()
+        .eq('id',id)
+      if(error) alert('Blad usuwania:'+error.message)
+      else fetchThreads()
     }
+
+    // Edit thread
     window.editThread = async id=>{
-      /* editThread logic */
+      const { data, error } = await supabase
+        .from('threads')
+        .select('title,content,nick')
+        .eq('id',id)
+        .single()
+      if(error) return alert('Blad pobierania:'+error.message)
+      const newTitle   = prompt('Nowy tytul:',data.title)
+      if(newTitle===null) return
+      const newContent = prompt('Nowa tresc:',data.content)
+      if(newContent===null) return
+      const newNick    = prompt('Nowy nick:',data.nick)
+      if(newNick===null) return
+      const { error:ue } = await supabase
+        .from('threads')
+        .update({ title:newTitle, content:newContent, nick:newNick })
+        .eq('id',id)
+      if(ue) alert('Blad edycji:'+ue.message)
+      else fetchThreads()
     }
   </script>
 </body>
