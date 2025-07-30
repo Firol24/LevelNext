@@ -24,10 +24,56 @@
       display: flex;
     }
 
+    .logo {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 180px;
+      filter: drop-shadow(var(--neon-glow));
+      image-rendering: pixelated;
+      z-index: 100;
+    }
+
+    .social-sidebar {
+      position: fixed;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      z-index: 90;
+    }
+
+    .social-btn {
+      width: 50px;
+      height: 50px;
+      border: 3px solid var(--yellow);
+      border-radius: 50%;
+      background: rgba(106, 13, 173, 0.7);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s;
+      box-shadow: 0 0 5px var(--yellow);
+    }
+
+    .social-btn:hover {
+      transform: scale(1.2) skewX(-10deg);
+      background: var(--yellow);
+      box-shadow: var(--neon-glow);
+    }
+
+    .social-btn img {
+      width: 30px;
+      height: 30px;
+      object-fit: contain;
+    }
+
     .main-content {
       margin: auto;
       text-align: center;
-      max-width: 800px;
+      max-width: 600px;
       padding: 40px;
       background-color: rgba(0, 0, 0, 0.7);
       border: 3px solid var(--yellow);
@@ -47,21 +93,23 @@
       padding: 10px;
       width: 100%;
       margin: 5px 0;
+      box-sizing: border-box;
     }
 
     button {
       background: var(--yellow);
       color: var(--dark-purple);
       cursor: pointer;
+      text-transform: uppercase;
     }
 
     button:hover {
-      background: #ff0;
+      background-color: #ff0;
     }
 
     .thread {
       border: 1px dashed var(--yellow);
-      margin-top: 20px;
+      margin: 20px 0;
       padding: 10px;
       text-align: left;
     }
@@ -73,22 +121,66 @@
     .thread p {
       margin: 0 0 10px 0;
     }
+
+    .thread-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+
+    #auth, #forum {
+      display: none;
+      flex-direction: column;
+    }
   </style>
 </head>
 <body>
 
-  <div class="main-content">
-    <h1>📡 FORUM</h1>
+  <!-- Logo -->
+  <img src="logo.png" alt="Level Next Logo" class="logo" />
 
+  <!-- Social Sidebar -->
+  <div class="social-sidebar">
+    <a href="https://discord.gg/sHZ5k9gJ" class="social-btn" target="_blank" title="Discord">
+      <img src="pngegg (1).png" alt="Discord" />
+    </a>
+    <a href="https://www.twitch.tv/xfirol" class="social-btn" target="_blank" title="Twitch">
+      <img src="pngegg.png" alt="Twitch" />
+    </a>
+    <a href="https://www.youtube.com/@LevelNext" class="social-btn" target="_blank" title="YouTube">
+      <img src="icons8-youtube-48.png" alt="YouTube" />
+    </a>
+    <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="TikTok">
+      <img src="icons8-tiktok-48.png" alt="TikTok" />
+    </a>
+    <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="Instagram">
+      <img src="icons8-instagram-48.png" alt="Instagram" />
+    </a>
+  </div>
+
+  <!-- Auth Form -->
+  <div id="auth" class="main-content">
+    <h1>🔐 Forum Level Next</h1>
+    <h3>Zaloguj sie lub zarejestruj</h3>
+    <input id="email-input" type="email" placeholder="Email" />
+    <input id="password-input" type="password" placeholder="Haslo" />
+    <button onclick="signIn()">Zaloguj</button>
+    <button onclick="signUp()">Zarejestruj</button>
+  </div>
+
+  <!-- Forum -->
+  <div id="forum" class="main-content">
+    <h1>📡 Forum</h1>
+    <div id="user-info" style="margin-bottom: 10px;"></div>
+    <button onclick="signOut()">Wyloguj</button>
     <h3>Nowy watek</h3>
-    <input id="nick" placeholder="Twoj nick" />
-    <input id="title" placeholder="Tytul watku" />
-    <textarea id="content" placeholder="Tresc watku"></textarea>
+    <input id="title-input" placeholder="Tytul watku" />
+    <textarea id="content-input" placeholder="Tresc watku"></textarea>
     <button onclick="addThread()">Dodaj watek</button>
-
     <div id="threads"></div>
   </div>
 
+  <!-- Supabase & Logic -->
   <script type="module">
     import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
 
@@ -96,57 +188,138 @@
     const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh4ZnN2cWt2b3liZHlhbm1xbnBnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM5MDg5NjAsImV4cCI6MjA2OTQ4NDk2MH0.1vzkild4JfMdvViTTJ3IggU6YwclZYbCcmuZ28JtF88'
 
     const supabase = createClient(supabaseUrl, supabaseKey)
+    const adminEmail = 'filipiakr245@gmail.com'
+    let currentUser = null
 
-    window.fetchThreads = async function () {
+    // Initialize
+    checkUser()
+    supabase.auth.onAuthStateChange((_, session) => {
+      if (session && session.user) {
+        currentUser = session.user
+        showForum(session.user)
+      } else {
+        currentUser = null
+        showAuth()
+      }
+    })
+
+    // Check existing session
+    async function checkUser() {
+      const { data: { session } } = await supabase.auth.getSession()
+      if (session && session.user) {
+        currentUser = session.user
+        showForum(session.user)
+      } else {
+        showAuth()
+      }
+    }
+
+    function showAuth() {
+      document.getElementById('auth').style.display = 'flex'
+      document.getElementById('forum').style.display = 'none'
+    }
+    function showForum(user) {
+      document.getElementById('auth').style.display = 'none'
+      document.getElementById('forum').style.display = 'block'
+      document.getElementById('user-info').textContent = `Witaj, ${user.email}`
+      fetchThreads()
+    }
+
+    // Auth
+    async function signUp() {
+      const email = document.getElementById('email-input').value
+      const password = document.getElementById('password-input').value
+      const { error } = await supabase.auth.signUp({ email, password })
+      if (error) alert('Blad rejestracji: ' + error.message)
+      else alert('Sprawdz swoj email i potwierdz konto!')
+    }
+    async function signIn() {
+      const email = document.getElementById('email-input').value
+      const password = document.getElementById('password-input').value
+      const { error } = await supabase.auth.signInWithPassword({ email, password })
+      if (error) alert('Blad logowania: ' + error.message)
+    }
+    async function signOut() {
+      await supabase.auth.signOut()
+    }
+
+    // Threads
+    async function fetchThreads() {
       const { data, error } = await supabase
         .from('threads')
-        .select('nick, title, content')
+        .select('*')
         .order('created_at', { ascending: false })
-
       if (error) {
-        console.error('Blad przy pobieraniu danych:', error)
+        console.error('Blad przy pobieraniu wątków:', error)
         return
       }
-
       const container = document.getElementById('threads')
       container.innerHTML = ''
-
       data.forEach(thread => {
         const div = document.createElement('div')
         div.className = 'thread'
-        div.innerHTML = `
+        let html = `
           <h3>${thread.title}</h3>
-          <p><b>${thread.nick}</b>: ${thread.content}</p>
-        `
+          <p>${thread.content}</p>
+          <p style="font-size:0.8em;"><i>${thread.user_id}</i> • ${new Date(thread.created_at).toLocaleString()}</p>
+          <div class="thread-actions">`
+        if (thread.user_id === currentUser.id || currentUser.email === adminEmail) {
+          html += `<button onclick="deleteThread(${thread.id})">Usun</button>`
+        }
+        if (thread.user_id === currentUser.id) {
+          html += `<button onclick="editThread(${thread.id})">Edytuj</button>`
+        }
+        html += `</div>`
+        div.innerHTML = html
         container.appendChild(div)
       })
     }
 
-    window.addThread = async function () {
-      const nick = document.getElementById('nick').value.trim()
-      const title = document.getElementById('title').value.trim()
-      const content = document.getElementById('content').value.trim()
-
-      if (!nick || !title || !content) {
-        alert('Uzupelnij wszystkie pola')
-        return
+    async function addThread() {
+      if (!currentUser) return alert('Musisz byc zalogowany!')
+      const title = document.getElementById('title-input').value.trim()
+      const content = document.getElementById('content-input').value.trim()
+      if (!title || !content) return alert('Uzupelnij wszystkie pola!')
+      const { error } = await supabase
+        .from('threads')
+        .insert([{ title, content, user_id: currentUser.id }])
+      if (error) alert('Blad przy dodawaniu watku: ' + error.message)
+      else {
+        document.getElementById('title-input').value = ''
+        document.getElementById('content-input').value = ''
+        fetchThreads()
       }
-
-      const { error } = await supabase.from('threads').insert([{ nick, title, content }])
-
-      if (error) {
-        console.error('Blad przy dodawaniu watku:', error)
-        alert('Wystapil blad przy dodawaniu watku')
-        return
-      }
-
-      document.getElementById('nick').value = ''
-      document.getElementById('title').value = ''
-      document.getElementById('content').value = ''
-      fetchThreads()
     }
 
-    fetchThreads()
+    async function deleteThread(id) {
+      if (!confirm('Na pewno usunac watek?')) return
+      const { error } = await supabase
+        .from('threads')
+        .delete()
+        .eq('id', id)
+      if (error) alert('Blad przy usuwaniu: ' + error.message)
+      else fetchThreads()
+    }
+
+    async function editThread(id) {
+      // Pobierz aktualne dane
+      const { data, error } = await supabase
+        .from('threads')
+        .select('title, content')
+        .eq('id', id)
+        .single()
+      if (error) return alert('Blad przy pobieraniu danych: ' + error.message)
+      const newTitle = prompt('Nowy tytul watku:', data.title)
+      if (newTitle === null) return
+      const newContent = prompt('Nowa tresc watku:', data.content)
+      if (newContent === null) return
+      const { error: updateError } = await supabase
+        .from('threads')
+        .update({ title: newTitle, content: newContent })
+        .eq('id', id)
+      if (updateError) alert('Blad przy edycji: ' + updateError.message)
+      else fetchThreads()
+    }
   </script>
 </body>
 </html>
