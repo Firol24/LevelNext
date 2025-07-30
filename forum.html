@@ -24,52 +24,6 @@
       display: flex;
     }
 
-    .logo {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      width: 180px;
-      filter: drop-shadow(var(--neon-glow));
-      image-rendering: pixelated;
-      z-index: 100;
-    }
-
-    .social-sidebar {
-      position: fixed;
-      left: 10px;
-      top: 50%;
-      transform: translateY(-50%);
-      display: flex;
-      flex-direction: column;
-      gap: 15px;
-      z-index: 90;
-    }
-
-    .social-btn {
-      width: 50px;
-      height: 50px;
-      border: 3px solid var(--yellow);
-      border-radius: 50%;
-      background: rgba(106, 13, 173, 0.7);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: all 0.3s;
-      box-shadow: 0 0 5px var(--yellow);
-    }
-
-    .social-btn:hover {
-      transform: scale(1.2) skewX(-10deg);
-      background: var(--yellow);
-      box-shadow: var(--neon-glow);
-    }
-
-    .social-btn img {
-      width: 30px;
-      height: 30px;
-      object-fit: contain;
-    }
-
     .main-content {
       margin: auto;
       text-align: center;
@@ -123,32 +77,12 @@
 </head>
 <body>
 
-  <img src="logo.png" alt="Level Next Logo" class="logo" />
-
-  <div class="social-sidebar">
-    <a href="https://discord.gg/sHZ5k9gJ" class="social-btn" target="_blank" title="Discord">
-      <img src="pngegg (1).png" alt="Discord" />
-    </a>
-    <a href="https://www.twitch.tv/xfirol" class="social-btn" target="_blank" title="Twitch">
-      <img src="pngegg.png" alt="Twitch" />
-    </a>
-    <a href="https://www.youtube.com/@LevelNext" class="social-btn" target="_blank" title="YouTube">
-      <img src="icons8-youtube-48.png" alt="YouTube" />
-    </a>
-    <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="TikTok">
-      <img src="icons8-tiktok-48.png" alt="TikTok" />
-    </a>
-    <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="Instagram">
-      <img src="icons8-instagram-48.png" alt="Instagram" />
-    </a>
-  </div>
-
   <div class="main-content">
     <h1>📡 FORUM</h1>
 
     <h3>Nowy watek</h3>
-    <input id="nick" placeholder="Twoj nick">
-    <input id="title" placeholder="Tytul watku">
+    <input id="nick" placeholder="Twoj nick" />
+    <input id="title" placeholder="Tytul watku" />
     <textarea id="content" placeholder="Tresc watku"></textarea>
     <button onclick="addThread()">Dodaj watek</button>
 
@@ -158,18 +92,19 @@
   <script type="module">
     import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
 
-    const supabaseUrl = 'https://xxfsvqkvoybdyanmqnpq.supabase.co'
+    const supabaseUrl = 'https://xxfsvqkvoybdyanmqnpg.supabase.co'
     const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh4ZnN2cWt2b3liZHlhbm1xbnBnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM5MDg5NjAsImV4cCI6MjA2OTQ4NDk2MH0.1vzkild4JfMdvViTTJ3IggU6YwclZYbCcmuZ28JtF88'
+
     const supabase = createClient(supabaseUrl, supabaseKey)
 
     window.fetchThreads = async function () {
       const { data, error } = await supabase
         .from('threads')
-        .select('*')
+        .select('nick, title, content')
         .order('created_at', { ascending: false })
 
       if (error) {
-        console.error('Błąd przy pobieraniu danych:', error)
+        console.error('Blad przy pobieraniu danych:', error)
         return
       }
 
@@ -192,7 +127,10 @@
       const title = document.getElementById('title').value.trim()
       const content = document.getElementById('content').value.trim()
 
-      if (!nick || !title || !content) return alert('Uzupelnij wszystkie pola')
+      if (!nick || !title || !content) {
+        alert('Uzupelnij wszystkie pola')
+        return
+      }
 
       const { error } = await supabase.from('threads').insert([{ nick, title, content }])
 
@@ -212,4 +150,3 @@
   </script>
 </body>
 </html>
-
