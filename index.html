@@ -15,247 +15,60 @@
       --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
     }
     #intro {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background: black;
-  z-index: 99999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  animation: hideIntro 5.45s steps(1, end) forwards;
-  overflow: hidden;
-}
-#crt-flash {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background: white;
-  animation: flash 1s ease-out forwards;
-}
-#vhs-noise {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background: url('https://upload.wikimedia.org/wikipedia/commons/0/04/White-noise.gif') center/cover no-repeat;
-  opacity: 0.3;
-  mix-blend-mode: screen;
-  animation: noise 5.45s steps(1, end) forwards;
-}
-@keyframes flash {
-  0% { opacity: 1; }
-  30% { opacity: 0.8; }
-  70% { opacity: 0.4; }
-  100% { opacity: 0; }
-}
-@keyframes noise {
-  0% { opacity: 0.4; }
-  50% { opacity: 0.6; }
-  100% { opacity: 0; }
-}
-@keyframes hideIntro {
-  to { display: none; visibility: hidden; opacity: 0; z-index: -1; }
-}
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Orbitron', 'Press Start 2P', sans-serif;
-      background-color: #000;
-      background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
-      color: var(--yellow);
-      position: relative;
-      min-height: 100vh;
-      overflow-x: hidden;
-    }
-    .logo {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      width: 180px;
-      filter: drop-shadow(var(--neon-glow));
-      z-index: 100;
-      image-rendering: pixelated;
-    }
-    .social-sidebar {
       position: fixed;
-      left: 10px;
-      top: 50%;
-      transform: translateY(-50%);
-      display: flex;
-      flex-direction: column;
-      gap: 15px;
-      z-index: 90;
-    }
-    .social-btn {
-      width: 50px;
-      height: 50px;
-      border: 3px solid var(--yellow);
-      border-radius: 50%;
-      background: rgba(106, 13, 173, 0.7);
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: black;
+      z-index: 99999;
       display: flex;
       align-items: center;
       justify-content: center;
-      transition: all 0.3s;
-      box-shadow: 0 0 5px var(--yellow);
-    }
-    .social-btn:hover {
-      transform: scale(1.2) skewX(-10deg);
-      background: var(--yellow);
-      box-shadow: var(--neon-glow);
-    }
-    .social-btn img {
-      width: 30px;
-      height: 30px;
-      object-fit: contain;
-    }
-    .container {
-      max-width: 1000px;
-      margin: 0 auto;
-      padding: 100px 20px 50px 100px;
-      display: grid;
-      grid-template-columns: 1fr 300px;
-      gap: 30px;
-    }
-    .news-sidebar {
-      position: relative;
-      padding: 20px;
-      background: rgba(0, 0, 0, 0.7);
-      border: 3px solid var(--yellow);
-    }
-    .news-sidebar h3 {
-      color: var(--yellow);
-      border-bottom: 2px dashed var(--yellow);
-      padding-bottom: 10px;
-      margin-top: 0;
-    }
-    .twitch-embed, .tiktok-embed {
-      width: 100%;
-      height: 300px;
-      background: #000;
-      margin-bottom: 20px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      position: relative;
+      animation: hideIntro 5.45s steps(1, end) forwards;
       overflow: hidden;
-      border: 2px solid var(--purple);
     }
-    .no-signal {
+    #crt-flash {
       position: absolute;
       width: 100%;
       height: 100%;
-      background: var(--dark-purple);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: var(--purple);
-      font-size: 1.5em;
-      text-transform: uppercase;
-      font-weight: bold;
-      text-shadow: 0 0 5px #000;
+      background: white;
+      animation: flash 1s ease-out forwards;
     }
-    header {
-      text-align: center;
-      margin-bottom: 30px;
-      position: relative;
-      grid-column: 1 / -1;
-    }
-    h1 {
-      font-size: 3.5em;
-      margin: 0;
-      color: var(--yellow);
-      text-shadow: 0 0 10px var(--yellow), 0 0 20px var(--purple);
-      letter-spacing: 3px;
-      position: relative;
-    }
-    nav {
-      margin: 30px 0;
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      flex-wrap: wrap;
-      grid-column: 1 / -1;
-    }
-    nav a {
-      color: var(--yellow);
-      text-decoration: none;
-      font-size: 1em;
-      padding: 10px 15px;
-      border: 2px solid var(--yellow);
-      background: rgba(51, 0, 102, 0.5);
-      transition: all 0.3s;
-      text-transform: uppercase;
-    }
-    nav a:hover {
-      background: var(--yellow);
-      color: var(--dark-purple);
-      text-shadow: none;
-      box-shadow: var(--neon-glow);
-    }
-    .content {
-      background: rgba(0, 0, 0, 0.7);
-      border: 3px solid var(--yellow);
-      padding: 25px;
-      margin-bottom: 30px;
-      position: relative;
-    }
-    .content::before {
-      content: "";
+    #vhs-noise {
       position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: 
-        linear-gradient(90deg, transparent 50%, rgba(255, 242, 0, 0.1) 50%),
-        linear-gradient(transparent 50%, rgba(255, 242, 0, 0.1) 50%);
-      background-size: 5px 5px;
-      pointer-events: none;
+      width: 100%;
+      height: 100%;
+      background: url('https://upload.wikimedia.org/wikipedia/commons/0/04/White-noise.gif') center/cover no-repeat;
       opacity: 0.3;
+      mix-blend-mode: screen;
+      animation: noise 5.45s steps(1, end) forwards;
     }
-    .content h2 {
-      color: var(--yellow);
-      margin-top: 0;
-      font-size: 1.5em;
-      border-bottom: 2px dashed var(--yellow);
-      padding-bottom: 10px;
+    @keyframes flash {
+      0% { opacity: 1; }
+      30% { opacity: 0.8; }
+      70% { opacity: 0.4; }
+      100% { opacity: 0; }
     }
-    footer {
-      margin-top: 50px;
-      text-align: center;
-      font-size: 0.7em;
-      color: var(--yellow);
-      padding: 20px;
-      border-top: 1px dashed var(--yellow);
-      grid-column: 1 / -1;
+    @keyframes noise {
+      0% { opacity: 0.4; }
+      50% { opacity: 0.6; }
+      100% { opacity: 0; }
     }
-    @keyframes glitch {
-      0% { transform: translate(0); }
-      20% { transform: translate(-3px, 3px); }
-      40% { transform: translate(-3px, -3px); }
-      60% { transform: translate(3px, 3px); }
-      80% { transform: translate(3px, -3px); }
-      100% { transform: translate(0); }
-    }
-    .glitch-effect:hover {
-      animation: glitch 0.5s linear infinite;
-    }
-    marquee {
-      background: rgba(106, 13, 173, 0.5);
-      padding: 10px;
-      margin-bottom: 30px;
-      border-top: 1px solid var(--yellow);
-      border-bottom: 1px solid var(--yellow);
-      font-size: 1.2em;
-      letter-spacing: 1px;
-      grid-column: 1 / -1;
+    @keyframes hideIntro {
+      to { display: none; visibility: hidden; opacity: 0; z-index: -1; }
     }
   </style>
 </head>
 <body>
+  <div id="intro">
+    <div id="crt-flash"></div>
+    <div id="vhs-noise"></div>
+  </div>
+  <audio id="vhsSound" src="vhs.wav"></audio>
 
+  <!-- RESZTA TWOJEGO KODU -->
+  
 <a href="https://firol24.github.io/LevelNext">
   <img src="logo.png" alt="Level Next Logo" class="logo" />
 </a>
@@ -360,6 +173,17 @@
       header.classList.remove('glitch-effect');
     });
   </script>
+
+  <!-- ... pozostała treść strony bez zmian ... -->
+
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      const vhsSound = document.getElementById('vhsSound');
+      if (vhsSound) {
+        vhsSound.volume = 0.4;
+        vhsSound.play();
+      }
+    });
+  </script>
 </body>
 </html>
-
