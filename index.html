@@ -209,6 +209,66 @@
       grid-column: 1 / -1;
     }
   </style>
+  /* CRT efekt pionowych pasków */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    to bottom,
+    rgba(255,255,255,0.02),
+    rgba(255,255,255,0.02) 1px,
+    transparent 1px,
+    transparent 2px
+  );
+  z-index: 9999;
+}
+
+/* Flicker efekt */
+@keyframes flicker {
+  0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+    opacity: 1;
+  }
+  20%, 24%, 55% {
+    opacity: 0.9;
+  }
+}
+body {
+  animation: flicker 1.2s infinite;
+  filter: contrast(1.2) saturate(1.1);
+  image-rendering: pixelated;
+  font-smooth: never;
+  -webkit-font-smoothing: none;
+}
+
+/* Modyfikacja kontenera */
+.container {
+  max-width: 850px;
+  padding: 60px 10px 30px 80px;
+  gap: 20px;
+}
+
+/* Mniejsze przyciski */
+nav a {
+  font-size: 0.75em;
+  padding: 6px 10px;
+}
+
+/* Ciaśniejsze boxy */
+.content, .news-sidebar {
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+/* Mniejszy tytuł */
+h1 {
+  font-size: 2.8em;
+}
+
 </head>
 <body>
 
