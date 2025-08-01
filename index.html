@@ -14,6 +14,50 @@
       --yellow: #fff200;
       --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
     }
+    #intro {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: black;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: hideIntro 5.45s steps(1, end) forwards;
+  overflow: hidden;
+}
+#crt-flash {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: white;
+  animation: flash 1s ease-out forwards;
+}
+#vhs-noise {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: url('https://upload.wikimedia.org/wikipedia/commons/0/04/White-noise.gif') center/cover no-repeat;
+  opacity: 0.3;
+  mix-blend-mode: screen;
+  animation: noise 5.45s steps(1, end) forwards;
+}
+@keyframes flash {
+  0% { opacity: 1; }
+  30% { opacity: 0.8; }
+  70% { opacity: 0.4; }
+  100% { opacity: 0; }
+}
+@keyframes noise {
+  0% { opacity: 0.4; }
+  50% { opacity: 0.6; }
+  100% { opacity: 0; }
+}
+@keyframes hideIntro {
+  to { display: none; visibility: hidden; opacity: 0; z-index: -1; }
+}
     body {
       margin: 0;
       padding: 0;
