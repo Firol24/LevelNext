@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Level Next - Mój Sprzęt</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --purple: #6a0dad;
+      --dark-purple: #330066;
+      --yellow: #fff200;
+      --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Orbitron', 'Press Start 2P', sans-serif;
+      background-color: #000;
+      background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
+      color: var(--yellow);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+    .logo {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 180px;
+      filter: drop-shadow(var(--neon-glow));
+      z-index: 100;
+      image-rendering: pixelated;
+    }
+    .social-sidebar {
+      position: fixed;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      z-index: 90;
+    }
+    .social-btn {
+      width: 50px;
+      height: 50px;
+      border: 3px solid var(--yellow);
+      border-radius: 50%;
+      background: rgba(106, 13, 173, 0.7);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s;
+      box-shadow: 0 0 5px var(--yellow);
+    }
+    .social-btn:hover {
+      transform: scale(1.2) skewX(-10deg);
+      background: var(--yellow);
+      box-shadow: var(--neon-glow);
+    }
+    .social-btn img {
+      width: 30px;
+      height: 30px;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 100px 20px 50px 100px;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    h1 {
+      font-size: 3.5em;
+      margin: 0;
+      color: var(--yellow);
+      text-shadow: 0 0 10px var(--yellow), 0 0 20px var(--purple);
+      letter-spacing: 3px;
+    }
+    nav {
+      margin: 30px 0;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    nav a {
+      color: var(--yellow);
+      text-decoration: none;
+      font-size: 1em;
+      padding: 10px 15px;
+      border: 2px solid var(--yellow);
+      background: rgba(51, 0, 102, 0.5);
+      transition: all 0.3s;
+      text-transform: uppercase;
+    }
+    nav a:hover {
+      background: var(--yellow);
+      color: var(--dark-purple);
+      text-shadow: none;
+      box-shadow: var(--neon-glow);
+    }
+    .content {
+      background: rgba(0, 0, 0, 0.7);
+      border: 3px solid var(--yellow);
+      padding: 25px;
+      margin-bottom: 30px;
+      position: relative;
+    }
+    .content h2 {
+      margin-top: 0;
+      font-size: 1.5em;
+      border-bottom: 2px dashed var(--yellow);
+      padding-bottom: 10px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.7em;
+      color: var(--yellow);
+      padding: 20px;
+      border-top: 1px dashed var(--yellow);
+    }
+  </style>
+</head>
+<body>
+
+<a href="index.html">
+  <img src="logo.png" alt="Level Next Logo" class="logo" />
+</a>
+
+<div class="social-sidebar">
+  <a href="https://discord.gg/sHZ5k9gJ" class="social-btn" target="_blank"><img src="pngegg (1).png" alt="Discord" /></a>
+  <a href="https://www.twitch.tv/xfirol" class="social-btn" target="_blank"><img src="pngegg.png" alt="Twitch" /></a>
+  <a href="https://www.youtube.com/@tufirol9695" class="social-btn" target="_blank"><img src="icons8-youtube-48.png" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank"><img src="icons8-tiktok-48.png" alt="TikTok" /></a>
+  <a href="https://www.instagram.com/_firol_" class="social-btn" target="_blank"><img src="icons8-instagram-48.png" alt="Instagram" /></a>
+</div>
+
+<div class="container">
+  <header>
+    <h1>SPRZĘT</h1>
+    <p>MOJA KOLEKCJA I SETUP</p>
+  </header>
+
+  <nav>
+    <a href="index.html">STRONA GŁÓWNA</a>
+    <a href="retro-misja.html">RETRO MISJA</a>
+    <a href="forum.html">📡 FORUM</a>
+  </nav>
+
+  <div class="content">
+    <h2>Komputery i Telewizory</h2>
+    <ul>
+      <li>Asus F555LJ z zainstalowanym Lite Mint</li>
+      <li>Laptop Dell z lombardu, przerobiony na komputer z systemem Windows XP i monitorem CRT Samsung</li>
+      <li>Telewizor CRT Daewoo DC</li>
+      <li>Telewizor CRT Samsung</li>
+    </ul>
+  </div>
+
+  <div class="content">
+    <h2>Konsole i Handheldy</h2>
+    <ul>
+      <li>2x PlayStation 1 (Fat)</li>
+      <li>1x PlayStation 1 (Slim)</li>
+      <li>PlayStation 2 Slim z FunTuna</li>
+      <li>Xbox 360</li>
+      <li>PlayStation Portable (PSP)</li>
+      <li>Anbernic RG35XX SP w przezroczystej, czarnej obudowie</li>
+      <li>„Oryginalny” Pegasus z klawiaturą</li>
+    </ul>
+  </div>
+
+  <div class="content">
+    <h2>Inne</h2>
+    <ul>
+      <li>Sony Ericsson W580 – czarno-pomarańczowy</li>
+      <li>Wieża Philips F9500</li>
+    </ul>
+  </div>
+
+  <footer>
+    &copy; 2025 LEVEL NEXT | WSZELKIE PRAWA ZASTRZEŻONE
+  </footer>
+</div>
+
+</body>
+</html>
+
