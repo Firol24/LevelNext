@@ -333,20 +333,21 @@
     header.classList.remove('glitch-effect');
   });
 
-  // Fake retro marquee — działa od razu
+  // Fake retro marquee — działa natychmiast po załadowaniu layoutu
   const marquee = document.getElementById('marqueeText');
-  let pos = window.innerWidth;
+  let pos;
 
-  marquee.style.transform = `translateX(${pos}px)`;
-
-  function updateMarquee() {
-    pos -= 2;
+  // Czekaj aż przeglądarka wyrenderuje DOM i policzy szerokość tekstu
+  requestAnimationFrame(() => {
+    pos = window.innerWidth;
     marquee.style.transform = `translateX(${pos}px)`;
-    if (pos < -marquee.offsetWidth) pos = window.innerWidth;
-  }
 
-  // Odpal natychmiast
-  setInterval(updateMarquee, 80);
+    setInterval(() => {
+      pos -= 2;
+      marquee.style.transform = `translateX(${pos}px)`;
+      if (pos < -marquee.offsetWidth) pos = window.innerWidth;
+    }, 80);
+  });
 </script>
 
 </body>
