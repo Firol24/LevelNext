@@ -89,7 +89,10 @@
         image_url = publicUrl.publicUrl
       }
 
-      const { data, error } = await supabase.from('threads').insert([{ nick, title, content, image_url }]).select()
+      const { data: sessionData } = await supabase.auth.getSession()
+      const user_id = sessionData?.session?.user?.id || null
+
+      const { data, error } = await supabase.from('threads').insert([{ nick, title, content, image_url, user_id }]).select()
       if (error) {
         alert('Blad dodawania: ' + error.message)
       } else {
