@@ -5,167 +5,114 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Retro Misja - Level Next</title>
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
   <style>
-    :root {
-      --purple: #6a0dad;
-      --dark-purple: #330066;
-      --yellow: #fff200;
-      --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
-    }
-
-    body {
-      margin: 0;
-      padding: 0;
-      background-color: #000;
-      background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
-      color: var(--yellow);
-      font-family: 'Orbitron', 'Press Start 2P', monospace;
-      min-height: 100vh;
-      display: flex;
-    }
-
-    .logo {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      width: 180px;
-      filter: drop-shadow(var(--neon-glow));
-      image-rendering: pixelated;
-      z-index: 100;
-    }
-
-    .social-sidebar {
-      position: fixed;
-      left: 10px;
-      top: 50%;
-      transform: translateY(-50%);
-      display: flex;
-      flex-direction: column;
-      gap: 15px;
-      z-index: 90;
-    }
-
-    .social-btn {
-      width: 50px;
-      height: 50px;
-      border: 3px solid var(--yellow);
-      border-radius: 50%;
-      background: rgba(106, 13, 173, 0.7);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: all 0.3s;
-      box-shadow: 0 0 5px var(--yellow);
-    }
-
-    .social-btn:hover {
-      transform: scale(1.2) skewX(-10deg);
-      background: var(--yellow);
-      box-shadow: var(--neon-glow);
-    }
-
-    .social-btn img {
-      width: 30px;
+    .fake-marquee-wrapper {
+      overflow: hidden;
+      border-top: 1px solid var(--yellow);
+      border-bottom: 1px solid var(--yellow);
+      background: rgba(106, 13, 173, 0.5);
       height: 30px;
-      object-fit: contain;
+      position: relative;
+      grid-column: 1 / -1;
+      margin-bottom: 12px;
     }
-
-    .main-content {
-      margin: auto;
-      text-align: center;
-      max-width: 600px;
-      padding: 40px;
-      background-color: rgba(0, 0, 0, 0.7);
-      border: 3px solid var(--yellow);
+    .fake-marquee-track {
+      display: inline-block;
+      white-space: nowrap;
+      animation: scrollMarquee 20s linear infinite;
     }
-
-    h1 {
-      font-size: 1.8em;
-      margin-bottom: 20px;
-      color: var(--yellow);
-    }
-
-    #retro-action {
-      margin: 20px 0;
-      font-size: 1em;
-    }
-
-    button {
-      padding: 10px 20px;
-      font-size: 1em;
-      background-color: var(--yellow);
-      color: var(--dark-purple);
-      border: none;
-      cursor: pointer;
-      font-family: 'Press Start 2P';
-    }
-
-    button:hover {
-      background-color: #ff0;
+    @keyframes scrollMarquee {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
     }
   </style>
 </head>
 <body>
-  
-<a href="https://firol24.github.io/LevelNext">
+<a href="index.html">
   <img src="logo.png" alt="Level Next Logo" class="logo" />
 </a>
-
-  <div class="social-sidebar">
-    <a href="https://discord.gg/sHZ5k9gJ" class="social-btn" target="_blank" title="Discord">
-      <img src="pngegg (1).png" alt="Discord" />
-    </a>
-    <a href="https://www.twitch.tv/xfirol" class="social-btn" target="_blank" title="Twitch">
-      <img src="pngegg.png" alt="Twitch" />
-    </a>
-    <a href="https://www.youtube.com/@tufirol9695" class="social-btn" target="_blank" title="YouTube">
-      <img src="icons8-youtube-48.png" alt="YouTube" />
-    </a>
-    <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="TikTok">
-      <img src="icons8-tiktok-48.png" alt="TikTok" />
-    </a>
-    <a href="https://www.instagram.com/_firol_" class="social-btn" target="_blank" title="Instagram">
-      <img src="icons8-instagram-48.png" alt="Instagram" />
-    </a>
+<div class="social-sidebar">
+  <a href="https://discord.gg/sHZ5k9gJ" class="social-btn" target="_blank" title="Discord"><img src="pngegg (1).png" alt="Discord" /></a>
+  <a href="https://www.twitch.tv/xfirol" class="social-btn" target="_blank" title="Twitch"><img src="pngegg.png" alt="Twitch" /></a>
+  <a href="https://www.youtube.com/@tufirol9695" class="social-btn" target="_blank" title="YouTube"><img src="icons8-youtube-48.png" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="TikTok"><img src="icons8-tiktok-48.png" alt="TikTok" /></a>
+  <a href="https://www.instagram.com/_firol_" class="social-btn" target="_blank" title="Instagram"><img src="icons8-instagram-48.png" alt="Instagram" /></a>
+</div>
+<div class="container">
+  <header>
+    <h1>LEVEL NEXT</h1>
+    <p>RETRO GAMING CHANNEL</p>
+  </header>
+  <div class="fake-marquee-wrapper">
+    <div class="fake-marquee-track">
+      <span>🎮 NOWY FILM CO TYDZIEN! 🎮 SUBSCRIBE! 🎮 FOLLOW NA TWITCH! 🎮</span>
+      <span>🎮 NOWY FILM CO TYDZIEN! 🎮 SUBSCRIBE! 🎮 FOLLOW NA TWITCH! 🎮</span>
+    </div>
   </div>
-
-   <nav>
-    <a href="#about">📝 O KANALE</a>
-    <a href="#latest">📼 FILMY</a>
-    <a href="sprzet.html">🕹️ SPRZET</a>
+  <nav>
+    <a href="index.html">🏠 STRONA GŁÓWNA</a>
+    <a href="sprzet.html">🕹️ SPRZĘT</a>
+    <a href="retro-misja.html">🎲 RETRO MISJA</a>
     <a href="forum.html">📡 FORUM</a>
   </nav>
-  
-  <div class="main-content">
-    <h1>RETRO MISJA DNIA 🎲</h1>
-    <p id="retro-action">Kliknij przycisk, by wylosowac retro aktywnosc!</p>
-    <button onclick="getRetroAction()">🎮 LOSUJ MISJE</button>
-  </div>
+  <main>
+    <div class="content">
+      <h2>RETRO MISJA DNIA 🎲</h2>
+      <p id="retro-action">Kliknij przycisk, by wylosować retro aktywność!</p>
+      <button onclick="getRetroAction()">🎮 LOSUJ MISJĘ</button>
+    </div>
+  </main>
+  <footer>
+    &copy; 2025 LEVEL NEXT | WSZELKIE PRAWA ZASTRZEŻONE<br>
+    <span id="visitorCount">ODWIEDZIN: 0</span> | 
+    <span id="currentTime">00:00:00</span>
+  </footer>
+</div>
+<script>
+  const retroActions = [
+    "🎮 Zagraj w GTA San Andreas i zdobądź 5 gwiazdek!",
+    "💿 Włącz płytę w Winampie i odpal wizualizację.",
+    "🕹️ Odpal retro konsolę i zagraj w pierwszą grę z półki.",
+    "📼 Obejrzyj losowy VHS z kolekcji.",
+    "🎲 Zagraj w ulubioną grę z dzieciństwa na emulatorze.",
+    "📝 Napisz na forum o swojej ostatniej retro rozgrywce.",
+    "📻 Włącz oldschoolowe radio internetowe i chilluj.",
+    "🎤 Nagraj freestyle jak w 2006 przez mikrofon od Skype'a.",
+    "📸 Zrób screen z retro konsoli i wrzuć na swoją stronę.",
+    "🖼️ Zrób fotę swojego setupu i opisz ją na forum.",
+    "📚 Przeczytaj artykuł z archiwalnego CD-Action.",
+    "🎵 Nagraj swoją wersję intra do anime z lat 90.",
+    "📂 Napisz list do siebie z przyszłości w pliku .txt.",
+    "🎶 Odpal DAW i stwórz bita jak w 2004.",
+    "🕰️ Zrób godzinny retro challenge – bez smartfona!"
+  ];
 
-  <script>
-    const retroActions = [
-      "🎮 Zagraj w GTA San Andreas i zdobadz 5 gwiazdek!",
-      "💿 Wlacz plyte w Winampie i wlacz visualizacje.",
-      "🕹️ Odpal swoja retro konsole i zagraj w pierwsza gre z polki.",
-      "📼 Obejrzyj losowy VHS z kolekcji.",
-      "🎲 Zagraj w ulubiona gre z dziecinstwa na emulatorze.",
-      "📝 Napisz na forum o swojej ostatniej retro rozgrywce.",
-      "📻 Wlacz oldschoolowe radio internetowe i chilluj.",
-      "🎤 Nagraj freestyle jak w 2006 przez mikrofon od Skype'a.",
-      "📸 Zrob screen z retro konsoli i wrzuc na swoja strone.",
-      "🖼️ Zrob fote swojego setupu i opisz ja na forum.",
-      "📚 Przeczytaj artykul z archiwalnego CD-Action.",
-      "🎵 Nagraj swoja wersje intra do anime z lat 90.",
-      "📂 Napisz list do siebie z przyszlosci w pliku .txt.",
-      "🎶 Odpal daw i stworz bita jak w 2004.",
-      "🕰️ Zrob godzinny retro challenge – bez smartfona!"
-    ];
+  function getRetroAction() {
+    const random = retroActions[Math.floor(Math.random() * retroActions.length)];
+    document.getElementById("retro-action").textContent = random;
+  }
 
-    function getRetroAction() {
-      const random = retroActions[Math.floor(Math.random() * retroActions.length)];
-      document.getElementById("retro-action").textContent = random;
-    }
-  </script>
+  let visits = localStorage.getItem('visitCount') || 0;
+  visits++;
+  localStorage.setItem('visitCount', visits);
+  document.getElementById('visitorCount').textContent = `ODWIEDZIN: ${visits}`;
+
+  function updateClock() {
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString('pl-PL', { hour12: false });
+    document.getElementById('currentTime').textContent = timeStr;
+  }
+  setInterval(updateClock, 1000);
+  updateClock();
+
+  const header = document.querySelector('h1');
+  header.addEventListener('mouseover', () => {
+    header.classList.add('glitch-effect');
+  });
+  header.addEventListener('mouseout', () => {
+    header.classList.remove('glitch-effect');
+  });
+</script>
 </body>
 </html>
-
