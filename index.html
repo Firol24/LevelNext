@@ -309,6 +309,7 @@
 </div>
 
 <script>
+<script>
   // Licznik odwiedzin
   let visits = localStorage.getItem('visitCount') || 0;
   visits++;
@@ -333,15 +334,20 @@
     header.classList.remove('glitch-effect');
   });
 
-  // Fake retro marquee
+  // Fake retro marquee – start natychmiast + poszarpany ruch
   const marquee = document.getElementById('marqueeText');
-  let pos = window.innerWidth;
-  function updateMarquee() {
-    pos -= 2;
+  let pos;
+
+  window.addEventListener('load', () => {
+    pos = window.innerWidth;
     marquee.style.transform = `translateX(${pos}px)`;
-    if (pos < -marquee.offsetWidth) pos = window.innerWidth;
-  }
-  setInterval(updateMarquee, 80);
+
+    setInterval(() => {
+      pos -= 2; // większy skok = bardziej retro
+      marquee.style.transform = `translateX(${pos}px)`;
+      if (pos < -marquee.offsetWidth) pos = window.innerWidth;
+    }, 80); // niższy framerate = poszarpany efekt
+  });
 </script>
 </body>
 </html>
