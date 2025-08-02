@@ -48,38 +48,51 @@
       box-shadow:var(--neon-glow);
     }
     .social-btn img { width:30px; height:30px; }
+
     .main-content {
       display:flex; flex-direction:column; align-items:center;
       margin:100px auto 40px; text-align:center;
-      max-width:600px; width:90%; padding:40px;
+      max-width:1000px; width:90%; padding:40px;
       background:rgba(0,0,0,0.7); border:3px solid var(--yellow);
       box-sizing:border-box;
     }
-    input, textarea, button, label {
-      font-family:'Press Start 2P', monospace;
-      background:black; color:var(--yellow);
-      border:2px solid var(--yellow);
-      padding:10px; width:100%; margin:5px 0;
-      box-sizing:border-box;
-    }
-    button {
-      background:var(--yellow);
-      color:var(--dark-purple);
-      cursor:pointer;
-      text-transform:uppercase;
-    }
-    button:hover { background:#ff0; }
-    .thread {
-      border:1px dashed var(--yellow);
-      margin:20px 0; padding:10px;
-      text-align:left; width:100%; box-sizing:border-box;
-    }
-    .thread img {
-      max-width: 100%;
-      margin-top: 10px;
+
+    .thread-row {
+      display: flex;
       border: 2px solid var(--yellow);
+      margin: 8px 0;
+      padding: 10px;
+      background-color: rgba(0, 0, 0, 0.6);
     }
-    #auth, #forum { display:none; }
+    .thread-avatar {
+      width: 100px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    .thread-avatar img {
+      width: 64px;
+      height: 64px;
+      border: 2px solid var(--yellow);
+      margin-bottom: 5px;
+    }
+    .thread-title {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9em;
+      padding: 5px;
+      text-align: center;
+    }
+    .thread-meta {
+      width: 140px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75em;
+    }
   </style>
 </head>
 <body>
@@ -93,155 +106,34 @@
   <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank"><img src="icons8-tiktok-48.png" alt="TikTok"></a>
   <a href="https://www.instagram.com/_firol_" class="social-btn" target="_blank"><img src="icons8-instagram-48.png" alt="Instagram"></a>
 </div>
-<div id="auth" class="main-content">
-  <h1>🔐 Forum Level Next</h1>
-  <h3>Zaloguj sie lub zarejestruj</h3>
-  <input id="email-input" type="email" placeholder="Email" />
-  <input id="password-input" type="password" placeholder="Haslo" />
-  <button onclick="signIn()">Zaloguj</button>
-  <button onclick="signUp()">Zarejestruj</button>
-</div>
-<div id="forum" class="main-content">
+<div class="main-content">
   <h1>📡 Forum</h1>
-  <div id="user-info" style="margin-bottom:10px;"></div>
-  <button onclick="signOut()">Wyloguj</button>
-  <h3>Nowy watek</h3>
-  <input id="nick-input" placeholder="Twoj nick" />
-  <input id="title-input" placeholder="Tytul watku" />
-  <textarea id="content-input" placeholder="Tresc watku"></textarea>
-  <label>Dodaj zdjecie: <input type="file" id="image-input" accept="image/*" /></label>
-  <button onclick="addThread()">Dodaj watek</button>
-  <div id="threads"></div>
+  <div class="thread-row">
+    <div class="thread-avatar">
+      <img src="avatar1.png" alt="Avatar">
+      <div><b>Firol</b></div>
+      <div>⭐⭐⭐⭐☆</div>
+    </div>
+    <div class="thread-title">
+      <a href="post.html?id=1">Najlepsza retro gra na PS2?</a>
+    </div>
+    <div class="thread-meta">
+      02.08.2025 15:32
+    </div>
+  </div>
+  <div class="thread-row">
+    <div class="thread-avatar">
+      <img src="avatar2.png" alt="Avatar">
+      <div><b>PsychoFanka</b></div>
+      <div>⭐⭐⭐☆☆</div>
+    </div>
+    <div class="thread-title">
+      <a href="post.html?id=2">Monster High > Winx?</a>
+    </div>
+    <div class="thread-meta">
+      02.08.2025 16:01
+    </div>
+  </div>
 </div>
-<script type="module">
-  import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
-  const supabaseUrl = 'https://xxfsvqkvoybdyanmqnpg.supabase.co'
-  const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh4ZnN2cWt2b3liZHlhbm1xbnBnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM5MDg5NjAsImV4cCI6MjA2OTQ4NDk2MH0.1vzkild4JfMdvViTTJ3IggU6YwclZYbCcmuZ28JtF88'
-  const supabase = createClient(supabaseUrl, supabaseKey)
-  const adminEmail = 'filipiakr245@gmail.com'
-  let currentUser = null
-
-  supabase.auth.onAuthStateChange((_, session) => {
-    if (session?.user) {
-      currentUser = session.user
-      showForum()
-    } else {
-      currentUser = null
-      showAuth()
-    }
-  })
-
-  ;(async()=>{
-    const { data:{ session } } = await supabase.auth.getSession()
-    if (session?.user) {
-      currentUser = session.user
-      showForum()
-    } else {
-      showAuth()
-    }
-  })()
-
-  function showAuth(){
-    document.getElementById('auth').style.display = 'flex'
-    document.getElementById('forum').style.display = 'none'
-  }
-
-  function showForum(){
-    document.getElementById('auth').style.display = 'none'
-    document.getElementById('forum').style.display = 'flex'
-    document.getElementById('user-info').textContent = `Witaj, ${currentUser.email}`
-    fetchThreads()
-  }
-
-  window.signUp = async ()=>{
-    const email = document.getElementById('email-input').value
-    const pass  = document.getElementById('password-input').value
-    const { error } = await supabase.auth.signUp({ email, password: pass })
-    if (error) alert('Blad rejestracji: '+error.message)
-    else alert('Sprawdz email i potwierdz konto!')
-  }
-
-  window.signIn = async ()=>{
-    const email = document.getElementById('email-input').value
-    const pass  = document.getElementById('password-input').value
-    const { error } = await supabase.auth.signInWithPassword({ email, password: pass })
-    if (error) alert('Blad logowania: '+error.message)
-  }
-
-  window.signOut = async ()=>{ await supabase.auth.signOut() }
-
-  window.fetchThreads = async ()=>{
-    const { data, error } = await supabase
-      .from('threads')
-      .select('id,nick,title,content,created_at,image_url,user_id')
-      .order('created_at',{ascending:false})
-    if (error) {
-      console.error('Błąd fetch:',error)
-      return
-    }
-    const container = document.getElementById('threads')
-    container.innerHTML = ''
-    data.forEach(t=>{
-      const dateStr = new Date(t.created_at).toLocaleString('pl-PL',{hour12:false})
-      const div = document.createElement('div')
-      div.className = 'thread'
-      div.innerHTML = `
-        <h3>${t.title}</h3>
-        <p><b>${t.nick}</b>: ${t.content}</p>
-        ${t.image_url ? `<img src="${t.image_url}" alt="zalaczone zdjecie">` : ''}
-        <p style="font-size:0.8em;"><i>${t.nick}</i> • ${dateStr}</p>
-        <div class="thread-actions">
-          ${(t.user_id===currentUser.id||currentUser.email===adminEmail)
-            ? `<button onclick="deleteThread(${t.id})">Usun</button>` : ''}
-        </div>
-      `
-      container.appendChild(div)
-    })
-  }
-
-  window.addThread = async ()=>{
-    if(!currentUser) return alert('Musisz byc zalogowany!')
-    const nick = document.getElementById('nick-input').value.trim()
-    const title = document.getElementById('title-input').value.trim()
-    const content = document.getElementById('content-input').value.trim()
-    const file = document.getElementById('image-input').files[0]
-    if(!nick||!title||!content) return alert('Uzupelnij nick, tytul i tresc!')
-
-    let imageUrl = null
-    if (file) {
-      const fileName = `${Date.now()}_${file.name}`
-      const { data, error:uploadError } = await supabase.storage
-        .from('forum-uploads')
-        .upload(fileName, file)
-      if (uploadError) {
-        alert('Blad uploadu: '+uploadError.message)
-        return
-      }
-      const { data: publicUrl } = supabase.storage
-        .from('forum-uploads')
-        .getPublicUrl(fileName)
-      imageUrl = publicUrl.publicUrl
-    }
-
-    const { error } = await supabase
-      .from('threads')
-      .insert([{ nick, title, content, user_id: currentUser.id, image_url: imageUrl }])
-    if (error) alert('Blad przy dodawaniu: '+error.message)
-    else {
-      document.getElementById('nick-input').value = ''
-      document.getElementById('title-input').value = ''
-      document.getElementById('content-input').value = ''
-      document.getElementById('image-input').value = ''
-      fetchThreads()
-    }
-  }
-
-  window.deleteThread = async id=>{
-    if(!confirm('Na pewno usunac?')) return
-    const { error } = await supabase.from('threads').delete().eq('id',id)
-    if(error) alert('Blad usuwania:'+error.message)
-    else fetchThreads()
-  }
-</script>
 </body>
 </html>
