@@ -258,7 +258,7 @@
   <nav>
     <a href="#about">📝 O KANALE</a>
     <a href="#latest">📼 FILMY</a>
-    <a href="sprzet.html">🕹️ SPRZĘT</a>
+    <a href="sprzet.html">🕹️ SPRZET</a>
     <a href="retro-misja.html">🎲 RETRO MISJA</a>
     <a href="forum.html">📡 FORUM</a>
   </nav>
@@ -267,9 +267,9 @@
     <div id="about" class="content">
       <h2>O KANALE</h2>
       <p>
-        LEVEL NEXT to kanał poświęcony <strong>retro grom</strong>, <strong>lets playom</strong> i <strong>kulturze gamingowej lat 90/00</strong>.<br><br>
-        Znajdziesz tu recenzje starych gier, gameplaye z komentarzem i masę nostalgii!<br>
-        Wbijaj na streamy w każdy weekend!
+        LEVEL NEXT to strona poswiecona <strong>mojej tworczosci</strong>, <strong>zajawkom</strong> i <strong>kulturze gamingowej lat 90/00</strong>.<br><br>
+        Znajdziesz tu lifestyle, recenzje starych gier, muzyke, gameplaye z komentarzem i mase nostalgii!<br>
+        Wbijaj na streamy i sociale!
       </p>
     </div>
 
@@ -287,7 +287,7 @@
   </main>
 
   <div class="news-sidebar">
-    <h3>AKTUALNOŚCI</h3>
+    <h3>AKTUALNOSCI</h3>
     <div class="twitch-embed">
       <div class="no-signal">NO SIGNAL</div>
     </div>
@@ -302,7 +302,7 @@
   </div>
 
   <footer>
-    &copy; 2025 LEVEL NEXT | WSZELKIE PRAWA ZASTRZEŻONE<br>
+    &copy; 2025 LEVEL NEXT | WSZELKIE PRAWA ZASTRZEZONE<br>
     <span id="visitorCount">ODWIEDZIN: 0</span> | 
     <span id="currentTime">00:00:00</span>
   </footer>
@@ -337,11 +337,11 @@
   const marquee = document.getElementById('marqueeText');
   let pos = window.innerWidth;
   function updateMarquee() {
-    pos -= 1;
+    pos -= 2;
     marquee.style.transform = `translateX(${pos}px)`;
     if (pos < -marquee.offsetWidth) pos = window.innerWidth;
   }
-  setInterval(updateMarquee, 50);
+  setInterval(updateMarquee, 80);
 </script>
 </body>
 </html>
