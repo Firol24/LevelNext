@@ -14,6 +14,9 @@
       --yellow: #fff200;
       --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
     }
+    * {
+      box-sizing: border-box;
+    }
     body {
       margin: 0;
       padding: 0;
@@ -24,6 +27,22 @@
       position: relative;
       min-height: 100vh;
       overflow-x: hidden;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-image: repeating-linear-gradient(
+        to bottom,
+        rgba(255, 255, 255, 0.05),
+        rgba(255, 255, 255, 0.05) 1px,
+        transparent 1px,
+        transparent 2px
+      );
+      pointer-events: none;
+      opacity: 0.3;
+      z-index: 9999;
+      mix-blend-mode: overlay;
     }
     .logo {
       position: absolute;
@@ -41,7 +60,7 @@
       transform: translateY(-50%);
       display: flex;
       flex-direction: column;
-      gap: 15px;
+      gap: 12px;
       z-index: 90;
     }
     .social-btn {
@@ -69,28 +88,105 @@
     .container {
       max-width: 1000px;
       margin: 0 auto;
-      padding: 60px 15px 30px 80px;
+      padding: 50px 15px 30px 80px;
       display: grid;
       grid-template-columns: 1fr 300px;
-      gap: 20px;
+      gap: 15px;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 16px;
+      grid-column: 1 / -1;
+    }
+    h1 {
+      font-size: 3.2em;
+      margin: 0;
+      color: var(--yellow);
+      text-shadow: 0 0 10px var(--yellow), 0 0 20px var(--purple);
+      letter-spacing: 3px;
+    }
+    nav {
+      margin: 12px 0;
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      grid-column: 1 / -1;
+    }
+    nav a {
+      color: var(--yellow);
+      text-decoration: none;
+      font-size: 0.85em;
+      padding: 6px 10px;
+      border: 2px solid var(--yellow);
+      background: rgba(51, 0, 102, 0.5);
+      transition: all 0.3s;
+      text-transform: uppercase;
+    }
+    nav a:hover {
+      background: var(--yellow);
+      color: var(--dark-purple);
+      box-shadow: var(--neon-glow);
+    }
+    .fake-marquee-wrapper {
+      overflow: hidden;
+      border-top: 1px solid var(--yellow);
+      border-bottom: 1px solid var(--yellow);
+      background: rgba(106, 13, 173, 0.5);
+      height: 30px;
+      position: relative;
+      grid-column: 1 / -1;
+      margin-bottom: 12px;
+    }
+    .fake-marquee-text {
+      white-space: nowrap;
+      position: absolute;
+      will-change: transform;
+      font-size: 1.1em;
+      letter-spacing: 1px;
+      color: var(--yellow);
+    }
+    .content {
+      background: rgba(0, 0, 0, 0.7);
+      border: 3px solid var(--yellow);
+      padding: 14px;
+      margin-bottom: 1px;
+      position: relative;
+    }
+    .content::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: 
+        linear-gradient(90deg, transparent 50%, rgba(255, 242, 0, 0.1) 50%),
+        linear-gradient(transparent 50%, rgba(255, 242, 0, 0.1) 50%);
+      background-size: 5px 5px;
+      pointer-events: none;
+      opacity: 0.3;
+    }
+    .content h2 {
+      color: var(--yellow);
+      margin-top: 0;
+      font-size: 1.2em;
+      border-bottom: 2px dashed var(--yellow);
+      padding-bottom: 6px;
     }
     .news-sidebar {
-      position: relative;
-      padding: 15px;
+      padding: 14px;
       background: rgba(0, 0, 0, 0.7);
       border: 3px solid var(--yellow);
     }
     .news-sidebar h3 {
       color: var(--yellow);
       border-bottom: 2px dashed var(--yellow);
-      padding-bottom: 10px;
+      padding-bottom: 6px;
       margin-top: 0;
     }
     .twitch-embed, .tiktok-embed {
       width: 100%;
-      height: 250px;
+      height: 220px;
       background: #000;
-      margin-bottom: 15px;
+      margin-bottom: 10px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -107,83 +203,16 @@
       align-items: center;
       justify-content: center;
       color: var(--purple);
-      font-size: 1.5em;
-      text-transform: uppercase;
+      font-size: 1.2em;
       font-weight: bold;
       text-shadow: 0 0 5px #000;
     }
-    header {
-      text-align: center;
-      margin-bottom: 20px;
-      position: relative;
-      grid-column: 1 / -1;
-    }
-    h1 {
-      font-size: 3.5em;
-      margin: 0;
-      color: var(--yellow);
-      text-shadow: 0 0 10px var(--yellow), 0 0 20px var(--purple);
-      letter-spacing: 3px;
-      position: relative;
-    }
-    nav {
-      margin: 20px 0;
-      display: flex;
-      justify-content: center;
-      gap: 12px;
-      flex-wrap: wrap;
-      grid-column: 1 / -1;
-    }
-    nav a {
-      color: var(--yellow);
-      text-decoration: none;
-      font-size: 0.9em;
-      padding: 7px 12px;
-      border: 2px solid var(--yellow);
-      background: rgba(51, 0, 102, 0.5);
-      transition: all 0.3s;
-      text-transform: uppercase;
-    }
-    nav a:hover {
-      background: var(--yellow);
-      color: var(--dark-purple);
-      text-shadow: none;
-      box-shadow: var(--neon-glow);
-    }
-    .content {
-      background: rgba(0, 0, 0, 0.7);
-      border: 3px solid var(--yellow);
-      padding: 18px;
-      margin-bottom: 20px;
-      position: relative;
-    }
-    .content::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: 
-        linear-gradient(90deg, transparent 50%, rgba(255, 242, 0, 0.1) 50%),
-        linear-gradient(transparent 50%, rgba(255, 242, 0, 0.1) 50%);
-      background-size: 5px 5px;
-      pointer-events: none;
-      opacity: 0.3;
-    }
-    .content h2 {
-      color: var(--yellow);
-      margin-top: 0;
-      font-size: 1.3em;
-      border-bottom: 2px dashed var(--yellow);
-      padding-bottom: 8px;
-    }
     footer {
-      margin-top: 30px;
+      margin-top: 20px;
       text-align: center;
       font-size: 0.7em;
       color: var(--yellow);
-      padding: 15px;
+      padding: 10px;
       border-top: 1px dashed var(--yellow);
       grid-column: 1 / -1;
     }
@@ -197,16 +226,6 @@
     }
     .glitch-effect:hover {
       animation: glitch 0.5s linear infinite;
-    }
-    marquee {
-      background: rgba(106, 13, 173, 0.5);
-      padding: 10px;
-      margin-bottom: 20px;
-      border-top: 1px solid var(--yellow);
-      border-bottom: 1px solid var(--yellow);
-      font-size: 1.1em;
-      letter-spacing: 1px;
-      grid-column: 1 / -1;
     }
   </style>
 </head>
@@ -230,7 +249,11 @@
     <p>RETRO GAMING CHANNEL</p>
   </header>
 
-  <marquee behavior="scroll" direction="left">🎮 NOWY FILM CO TYDZIEN! 🎮 SUBSCRIBE! 🎮 FOLLOW NA TWITCH! 🎮</marquee>
+  <div class="fake-marquee-wrapper">
+    <div class="fake-marquee-text" id="marqueeText">
+      🎮 NOWY FILM CO TYDZIEN! 🎮 SUBSCRIBE! 🎮 FOLLOW NA TWITCH! 🎮
+    </div>
+  </div>
 
   <nav>
     <a href="#about">📝 O KANALE</a>
@@ -244,7 +267,7 @@
     <div id="about" class="content">
       <h2>O KANALE</h2>
       <p>
-        LEVEL NEXT to kanal poświęcony <strong>retro grom</strong>, <strong>lets playom</strong> i <strong>kulturze gamingowej lat 90/00</strong>.<br><br>
+        LEVEL NEXT to kanał poświęcony <strong>retro grom</strong>, <strong>lets playom</strong> i <strong>kulturze gamingowej lat 90/00</strong>.<br><br>
         Znajdziesz tu recenzje starych gier, gameplaye z komentarzem i masę nostalgii!<br>
         Wbijaj na streamy w każdy weekend!
       </p>
@@ -286,11 +309,13 @@
 </div>
 
 <script>
+  // Licznik odwiedzin
   let visits = localStorage.getItem('visitCount') || 0;
   visits++;
   localStorage.setItem('visitCount', visits);
   document.getElementById('visitorCount').textContent = `ODWIEDZIN: ${visits}`;
-  
+
+  // Zegar
   function updateClock() {
     const now = new Date();
     const timeStr = now.toLocaleTimeString('pl-PL', {hour12: false});
@@ -299,6 +324,7 @@
   setInterval(updateClock, 1000);
   updateClock();
 
+  // Glitch na hover
   const header = document.querySelector('h1');
   header.addEventListener('mouseover', () => {
     header.classList.add('glitch-effect');
@@ -306,6 +332,16 @@
   header.addEventListener('mouseout', () => {
     header.classList.remove('glitch-effect');
   });
+
+  // Fake retro marquee
+  const marquee = document.getElementById('marqueeText');
+  let pos = window.innerWidth;
+  function updateMarquee() {
+    pos -= 1;
+    marquee.style.transform = `translateX(${pos}px)`;
+    if (pos < -marquee.offsetWidth) pos = window.innerWidth;
+  }
+  setInterval(updateMarquee, 50);
 </script>
 </body>
 </html>
