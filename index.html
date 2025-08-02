@@ -14,9 +14,7 @@
       --yellow: #fff200;
       --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
     }
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
     body {
       margin: 0;
       padding: 0;
@@ -32,13 +30,7 @@
       content: "";
       position: fixed;
       top: 0; left: 0; right: 0; bottom: 0;
-      background-image: repeating-linear-gradient(
-        to bottom,
-        rgba(255, 255, 255, 0.05),
-        rgba(255, 255, 255, 0.05) 1px,
-        transparent 1px,
-        transparent 2px
-      );
+      background-image: repeating-linear-gradient(to bottom, rgba(255,255,255,0.05), rgba(255,255,255,0.05) 1px, transparent 1px, transparent 2px);
       pointer-events: none;
       opacity: 0.3;
       z-index: 9999;
@@ -138,13 +130,20 @@
       grid-column: 1 / -1;
       margin-bottom: 12px;
     }
-    .fake-marquee-text {
+    .fake-marquee-track {
+      display: flex;
       white-space: nowrap;
-      position: absolute;
-      will-change: transform;
+      animation: scroll-left 20s linear infinite;
+    }
+    .fake-marquee-track span {
+      color: var(--yellow);
       font-size: 1.1em;
       letter-spacing: 1px;
-      color: var(--yellow);
+      padding-right: 100px;
+    }
+    @keyframes scroll-left {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
     }
     .content {
       background: rgba(0, 0, 0, 0.7);
@@ -157,9 +156,8 @@
       content: "";
       position: absolute;
       top: 0; left: 0; right: 0; bottom: 0;
-      background: 
-        linear-gradient(90deg, transparent 50%, rgba(255, 242, 0, 0.1) 50%),
-        linear-gradient(transparent 50%, rgba(255, 242, 0, 0.1) 50%);
+      background: linear-gradient(90deg, transparent 50%, rgba(255, 242, 0, 0.1) 50%),
+                  linear-gradient(transparent 50%, rgba(255, 242, 0, 0.1) 50%);
       background-size: 5px 5px;
       pointer-events: none;
       opacity: 0.3;
@@ -230,11 +228,9 @@
   </style>
 </head>
 <body>
-
 <a href="https://firol24.github.io/LevelNext">
   <img src="logo.png" alt="Level Next Logo" class="logo" />
 </a>
-
 <div class="social-sidebar">
   <a href="https://discord.gg/sHZ5k9gJ" class="social-btn" target="_blank" title="Discord"><img src="pngegg (1).png" alt="Discord" /></a>
   <a href="https://www.twitch.tv/xfirol" class="social-btn" target="_blank" title="Twitch"><img src="pngegg.png" alt="Twitch" /></a>
@@ -242,19 +238,17 @@
   <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="TikTok"><img src="icons8-tiktok-48.png" alt="TikTok" /></a>
   <a href="https://www.instagram.com/_firol_" class="social-btn" target="_blank" title="Instagram"><img src="icons8-instagram-48.png" alt="Instagram" /></a>
 </div>
-
 <div class="container">
   <header>
     <h1>LEVEL NEXT</h1>
     <p>RETRO GAMING CHANNEL</p>
   </header>
-
   <div class="fake-marquee-wrapper">
-    <div class="fake-marquee-text" id="marqueeText">
-      🎮 NOWY FILM CO TYDZIEN! 🎮 SUBSCRIBE! 🎮 FOLLOW NA TWITCH! 🎮
+    <div class="fake-marquee-track">
+      <span>🎮 NOWY FILM CO TYDZIEN! 🎮 SUBSCRIBE! 🎮 FOLLOW NA TWITCH! 🎮</span>
+      <span>🎮 NOWY FILM CO TYDZIEN! 🎮 SUBSCRIBE! 🎮 FOLLOW NA TWITCH! 🎮</span>
     </div>
   </div>
-
   <nav>
     <a href="#about">📝 O KANALE</a>
     <a href="#latest">📼 FILMY</a>
@@ -262,7 +256,6 @@
     <a href="retro-misja.html">🎲 RETRO MISJA</a>
     <a href="forum.html">📡 FORUM</a>
   </nav>
-
   <main>
     <div id="about" class="content">
       <h2>O KANALE</h2>
@@ -272,20 +265,13 @@
         Wbijaj na streamy i sociale!
       </p>
     </div>
-
     <div id="latest" class="content">
       <h2>NAJNOWSZY FILM</h2>
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-        <iframe 
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 3px solid var(--yellow);" 
-          src="https://www.youtube.com/embed/EnJNaTO41Zo" 
-          frameborder="0" 
-          allowfullscreen>
-        </iframe>
+        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 3px solid var(--yellow);" src="https://www.youtube.com/embed/EnJNaTO41Zo" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
   </main>
-
   <div class="news-sidebar">
     <h3>AKTUALNOSCI</h3>
     <div class="twitch-embed">
@@ -293,29 +279,21 @@
     </div>
     <h3>OSTATNIE NA TIKTOK</h3>
     <div class="tiktok-embed">
-      <iframe
-        style="width:100%;height:100%;border:none;"
-        src="https://www.tiktok.com/@tu_firol/video/7477515867710852385"
-        allowfullscreen>
-      </iframe>
+      <iframe style="width:100%;height:100%;border:none;" src="https://www.tiktok.com/@tu_firol/video/7477515867710852385" allowfullscreen></iframe>
     </div>
   </div>
-
   <footer>
     &copy; 2025 LEVEL NEXT | WSZELKIE PRAWA ZASTRZEZONE<br>
     <span id="visitorCount">ODWIEDZIN: 0</span> | 
     <span id="currentTime">00:00:00</span>
   </footer>
 </div>
-
 <script>
-  // Licznik odwiedzin
   let visits = localStorage.getItem('visitCount') || 0;
   visits++;
   localStorage.setItem('visitCount', visits);
   document.getElementById('visitorCount').textContent = `ODWIEDZIN: ${visits}`;
 
-  // Zegar
   function updateClock() {
     const now = new Date();
     const timeStr = now.toLocaleTimeString('pl-PL', { hour12: false });
@@ -324,7 +302,6 @@
   setInterval(updateClock, 1000);
   updateClock();
 
-  // Glitch na hover
   const header = document.querySelector('h1');
   header.addEventListener('mouseover', () => {
     header.classList.add('glitch-effect');
@@ -332,32 +309,6 @@
   header.addEventListener('mouseout', () => {
     header.classList.remove('glitch-effect');
   });
-
-  // Fake retro marquee — poprawiony reset i instant start
-  const marquee = document.getElementById('marqueeText');
-  let pos;
-
-  function startMarquee() {
-    const marqueeWidth = marquee.offsetWidth;
-    pos = window.innerWidth;
-    marquee.style.transform = `translateX(${pos}px)`;
-
-    setInterval(() => {
-      pos -= 2;
-      marquee.style.transform = `translateX(${pos}px)`;
-      // Reset wcześniej – np. gdy 1/4 tekstu jest poza ekranem
-      if (pos < -marqueeWidth + 100) {
-        pos = window.innerWidth;
-      }
-    }, 80);
-  }
-
-  // Poczekaj aż DOM się załaduje i tekst się wyrenderuje
-  window.addEventListener("DOMContentLoaded", () => {
-    startMarquee();
-  });
 </script>
-
-
 </body>
 </html>
