@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Post - Level Next</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --purple: #6a0dad;
+      --dark-purple: #330066;
+      --yellow: #fff200;
+      --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Orbitron', 'Press Start 2P', monospace;
+      background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
+      color: var(--yellow);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .post-container {
+      margin-top: 100px;
+      padding: 20px;
+      max-width: 900px;
+      width: 90%;
+      border: 3px solid var(--yellow);
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+    .post-header {
+      display: flex;
+      margin-bottom: 20px;
+    }
+    .post-avatar {
+      width: 100px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .post-avatar img {
+      width: 64px;
+      height: 64px;
+      border: 2px solid var(--yellow);
+    }
+    .post-meta {
+      flex: 1;
+      padding-left: 20px;
+    }
+    .post-title {
+      font-size: 1em;
+      margin-bottom: 10px;
+    }
+    .post-date {
+      font-size: 0.7em;
+      opacity: 0.8;
+    }
+    .post-content {
+      font-size: 0.9em;
+      white-space: pre-wrap;
+    }
+    .post-image {
+      margin-top: 15px;
+      max-width: 100%;
+      border: 2px solid var(--yellow);
+    }
+  </style>
+</head>
+<body>
+  <div class="post-container" id="post"></div>
+
+  <script type="module">
+    import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
+    const supabaseUrl = 'https://xxfsvqkvoybdyanmqnpg.supabase.co'
+    const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...'
+    const supabase = createClient(supabaseUrl, supabaseKey)
+
+    const params = new URLSearchParams(window.location.search)
+    const id = params.get("id")
+
+    const container = document.getElementById("post")
+
+    if (!id) {
+      container.innerHTML = "<p>Nie podano ID posta!</p>"
+    } else {
+      const { data, error } = await supabase
+        .from("threads")
+        .select("id, nick, title, content, created_at, image_url")
+        .eq("id", id)
+        .single()
+
+      if (error || !data) {
+        container.innerHTML = "<p>Nie znaleziono posta!</p>"
+      } else {
+        const postHtml = `
+          <div class="post-header">
+            <div class="post-avatar">
+              <img src="avatar_placeholder.png" alt="avatar">
+              <div><b>${data.nick}</b></div>
+              <div>⭐⭐⭐☆☆</div>
+            </div>
+            <div class="post-meta">
+              <div class="post-title">${data.title}</div>
+              <div class="post-date">${new Date(data.created_at).toLocaleString("pl-PL")}</div>
+            </div>
+          </div>
+          <div class="post-content">${data.content}</div>
+          ${data.image_url ? `<img class="post-image" src="${data.image_url}" alt="obrazek">` : ''}
+        `
+        container.innerHTML = postHtml
+      }
+    }
+  </script>
+</body>
+</html>
