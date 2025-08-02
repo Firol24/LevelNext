@@ -318,7 +318,7 @@
   // Zegar
   function updateClock() {
     const now = new Date();
-    const timeStr = now.toLocaleTimeString('pl-PL', {hour12: false});
+    const timeStr = now.toLocaleTimeString('pl-PL', { hour12: false });
     document.getElementById('currentTime').textContent = timeStr;
   }
   setInterval(updateClock, 1000);
@@ -333,22 +333,31 @@
     header.classList.remove('glitch-effect');
   });
 
-  // Fake retro marquee — działa natychmiast po załadowaniu layoutu
+  // Fake retro marquee — poprawiony reset i instant start
   const marquee = document.getElementById('marqueeText');
   let pos;
 
-  // Czekaj aż przeglądarka wyrenderuje DOM i policzy szerokość tekstu
-  requestAnimationFrame(() => {
+  function startMarquee() {
+    const marqueeWidth = marquee.offsetWidth;
     pos = window.innerWidth;
     marquee.style.transform = `translateX(${pos}px)`;
 
     setInterval(() => {
       pos -= 2;
       marquee.style.transform = `translateX(${pos}px)`;
-      if (pos < -marquee.offsetWidth) pos = window.innerWidth;
+      // Reset wcześniej – np. gdy 1/4 tekstu jest poza ekranem
+      if (pos < -marqueeWidth + 100) {
+        pos = window.innerWidth;
+      }
     }, 80);
+  }
+
+  // Poczekaj aż DOM się załaduje i tekst się wyrenderuje
+  window.addEventListener("DOMContentLoaded", () => {
+    startMarquee();
   });
 </script>
+
 
 </body>
 </html>
