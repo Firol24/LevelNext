@@ -5,8 +5,127 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Retro Misja - Level Next</title>
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css" />
   <style>
+    :root {
+      --purple: #6a0dad;
+      --dark-purple: #330066;
+      --yellow: #fff200;
+      --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Orbitron', 'Press Start 2P', sans-serif;
+      background-color: #000;
+      background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
+      color: var(--yellow);
+      position: relative;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-image: repeating-linear-gradient(
+        to bottom,
+        rgba(255, 255, 255, 0.05),
+        rgba(255, 255, 255, 0.05) 1px,
+        transparent 1px,
+        transparent 2px
+      );
+      pointer-events: none;
+      opacity: 0.3;
+      z-index: 9999;
+      mix-blend-mode: overlay;
+    }
+    .logo {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      width: 180px;
+      filter: drop-shadow(var(--neon-glow));
+      z-index: 100;
+      image-rendering: pixelated;
+    }
+    .social-sidebar {
+      position: fixed;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      z-index: 90;
+    }
+    .social-btn {
+      width: 50px;
+      height: 50px;
+      border: 3px solid var(--yellow);
+      border-radius: 50%;
+      background: rgba(106, 13, 173, 0.7);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s;
+      box-shadow: 0 0 5px var(--yellow);
+    }
+    .social-btn:hover {
+      transform: scale(1.2) skewX(-10deg);
+      background: var(--yellow);
+      box-shadow: var(--neon-glow);
+    }
+    .social-btn img {
+      width: 30px;
+      height: 30px;
+      object-fit: contain;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 50px 15px 30px 80px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 15px;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 16px;
+      grid-column: 1 / -1;
+    }
+    h1 {
+      font-size: 3.2em;
+      margin: 0;
+      color: var(--yellow);
+      text-shadow: 0 0 10px var(--yellow), 0 0 20px var(--purple);
+      letter-spacing: 3px;
+    }
+    nav {
+      margin: 12px 0;
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      grid-column: 1 / -1;
+    }
+    nav a {
+      color: var(--yellow);
+      text-decoration: none;
+      font-size: 0.85em;
+      padding: 6px 10px;
+      border: 2px solid var(--yellow);
+      background: rgba(51, 0, 102, 0.5);
+      transition: all 0.3s;
+      text-transform: uppercase;
+    }
+    nav a:hover {
+      background: var(--yellow);
+      color: var(--dark-purple);
+      box-shadow: var(--neon-glow);
+    }
     .fake-marquee-wrapper {
       overflow: hidden;
       border-top: 1px solid var(--yellow);
@@ -25,6 +144,52 @@
     @keyframes scrollMarquee {
       0% { transform: translateX(0); }
       100% { transform: translateX(-50%); }
+    }
+    .content {
+      background: rgba(0, 0, 0, 0.7);
+      border: 3px solid var(--yellow);
+      padding: 14px;
+      margin-bottom: 1px;
+      position: relative;
+    }
+    .content h2 {
+      color: var(--yellow);
+      margin-top: 0;
+      font-size: 1.2em;
+      border-bottom: 2px dashed var(--yellow);
+      padding-bottom: 6px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 1em;
+      background-color: var(--yellow);
+      color: var(--dark-purple);
+      border: none;
+      cursor: pointer;
+      font-family: 'Press Start 2P';
+    }
+    button:hover {
+      background-color: #ff0;
+    }
+    footer {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 0.7em;
+      color: var(--yellow);
+      padding: 10px;
+      border-top: 1px dashed var(--yellow);
+      grid-column: 1 / -1;
+    }
+    @keyframes glitch {
+      0% { transform: translate(0); }
+      20% { transform: translate(-3px, 3px); }
+      40% { transform: translate(-3px, -3px); }
+      60% { transform: translate(3px, 3px); }
+      80% { transform: translate(3px, -3px); }
+      100% { transform: translate(0); }
+    }
+    .glitch-effect:hover {
+      animation: glitch 0.5s linear infinite;
     }
   </style>
 </head>
