@@ -53,7 +53,7 @@
     const SUPABASE_KEY = window.SUPABASE_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsImlhdCI6MTcwMDAwMDAwMCwiZXhwIjoyMDY5NDg0OTYwfQ.1vzkild4JfMdvViTTJ3IggU6YwclZYbCcmuZ28JtF88'
     const supabase = createClient(SUPABASE_URL, SUPABASE_KEY)
 
-    const postId = new URLSearchParams(location.search).get('id')
+    const postId = Number(new URLSearchParams(location.search).get('id'))
     const postWrap = document.getElementById('postWrap')
     const commentsList = document.getElementById('commentsList')
     const commentForm = document.getElementById('commentForm')
