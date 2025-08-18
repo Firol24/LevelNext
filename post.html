@@ -1,118 +1,144 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Post - Level Next</title>
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
   <style>
-    :root {
-      --purple: #6a0dad;
-      --dark-purple: #330066;
-      --yellow: #fff200;
-      --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
-    }
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Orbitron', 'Press Start 2P', monospace;
-      background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
-      color: var(--yellow);
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    .post-container {
-      margin-top: 100px;
-      padding: 20px;
-      max-width: 900px;
-      width: 90%;
-      border: 3px solid var(--yellow);
-      background-color: rgba(0, 0, 0, 0.6);
-    }
-    .post-header {
-      display: flex;
-      margin-bottom: 20px;
-    }
-    .post-avatar {
-      width: 100px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    .post-avatar img {
-      width: 64px;
-      height: 64px;
-      border: 2px solid var(--yellow);
-    }
-    .post-meta {
-      flex: 1;
-      padding-left: 20px;
-    }
-    .post-title {
-      font-size: 1em;
-      margin-bottom: 10px;
-    }
-    .post-date {
-      font-size: 0.7em;
-      opacity: 0.8;
-    }
-    .post-content {
-      font-size: 0.9em;
-      white-space: pre-wrap;
-    }
-    .post-image {
-      margin-top: 15px;
-      max-width: 100%;
-      border: 2px solid var(--yellow);
-    }
+    :root { --yellow:#fff200 }
+    body{ margin:0; background:#0b0014; color:var(--yellow); font-family:'Press Start 2P', monospace }
+    header{ border-bottom:1px solid var(--yellow); padding:12px 16px; display:flex; gap:12px; align-items:center; justify-content:space-between }
+    .btn{ border:1px solid var(--yellow); background:transparent; color:var(--yellow); padding:8px 10px; font-size:.65rem; cursor:pointer }
+    main{ max-width: 1100px; margin:0 auto; padding:16px 12px }
+    .wrap{ border:1px solid var(--yellow); background:rgba(0,0,0,.55); padding:12px }
+    .head{ display:flex; gap:12px; align-items:center }
+    .avatar{ width:64px; height:64px; border:1px solid var(--yellow); background:#000; object-fit:cover }
+    .usercol{ display:flex; flex-direction:column; gap:6px; font-size:.65rem }
+    .title{ font-size:.9rem; text-align:center }
+    .date{ font-size:.6rem; text-align:right }
+    .content{ margin-top:12px; line-height:1.6 }
+    .image{ margin-top:12px; max-width:100%; border:1px solid var(--yellow) }
+    .comments{ margin-top:16px; display:flex; flex-direction:column; gap:10px }
+    .comment{ display:grid; grid-template-columns:200px 1fr; gap:10px; border:1px solid var(--yellow); padding:10px; background:rgba(0,0,0,.4) }
+    .comment .avatar{ width:48px; height:48px }
+    .right { display:flex; justify-content:space-between; align-items:center }
   </style>
 </head>
 <body>
-  <div class="post-container" id="post"></div>
+  <header>
+    <div>LEVEL NEXT — POST</div>
+    <div>
+      <a class="btn" href="forum.html">← POWRÓT</a>
+    </div>
+  </header>
+  <main>
+    <div class="wrap" id="postWrap">Ładowanie…</div>
+    <div class="comments" id="commentsList"></div>
+    <div style="margin-top:12px">
+      <form id="commentForm" class="wrap">
+        <div style="margin-bottom:8px">Dodaj komentarz</div>
+        <textarea id="commentText" rows="4" style="width:100%; background:#000; color:var(--yellow); border:1px solid var(--yellow); font-family:'Press Start 2P', monospace; font-size:.7rem"></textarea>
+        <div class="right" style="margin-top:8px">
+          <div style="font-size:.6rem">Tylko zalogowani</div>
+          <button class="btn">WYŚLIJ</button>
+        </div>
+      </form>
+    </div>
+  </main>
 
   <script type="module">
     import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
-    const supabaseUrl = 'https://xxfsvqkvoybdyanmqnpg.supabase.co'
-    const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...'
-    const supabase = createClient(supabaseUrl, supabaseKey)
+    const SUPABASE_URL = window.SUPABASE_URL || 'https://xxfsvqkvoybdyanmqnpg.supabase.co'
+    const SUPABASE_KEY = window.SUPABASE_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsImlhdCI6MTcwMDAwMDAwMCwiZXhwIjoyMDY5NDg0OTYwfQ.1vzkild4JfMdvViTTJ3IggU6YwclZYbCcmuZ28JtF88'
+    const supabase = createClient(SUPABASE_URL, SUPABASE_KEY)
 
-    const params = new URLSearchParams(window.location.search)
-    const id = params.get("id")
+    const postId = new URLSearchParams(location.search).get('id')
+    const postWrap = document.getElementById('postWrap')
+    const commentsList = document.getElementById('commentsList')
+    const commentForm = document.getElementById('commentForm')
 
-    const container = document.getElementById("post")
-
-    if (!id) {
-      container.innerHTML = "<p>Nie podano ID posta!</p>"
-    } else {
-      const { data, error } = await supabase
-        .from("threads")
-        .select("id, nick, title, content, created_at, image_url")
-        .eq("id", id)
-        .single()
-
-      if (error || !data) {
-        container.innerHTML = "<p>Nie znaleziono posta!</p>"
-      } else {
-        const postHtml = `
-          <div class="post-header">
-            <div class="post-avatar">
-              <img src="avatar_placeholder.png" alt="avatar">
-              <div><b>${data.nick}</b></div>
-              <div>⭐⭐⭐☆☆</div>
-            </div>
-            <div class="post-meta">
-              <div class="post-title">${data.title}</div>
-              <div class="post-date">${new Date(data.created_at).toLocaleString("pl-PL")}</div>
-            </div>
-          </div>
-          <div class="post-content">${data.content}</div>
-          ${data.image_url ? `<img class="post-image" src="${data.image_url}" alt="obrazek">` : ''}
-        `
-        container.innerHTML = postHtml
-      }
+    function stars(avg){ if(avg==null) return '☆☆☆☆☆'; const f=Math.floor(avg); const h=(avg-f)>=.5?1:0; const e=5-f-h; return '★'.repeat(f)+(h?'☆':'')+'☆'.repeat(e) }
+    async function getProfile(user_id){
+      try{
+        const { data } = await supabase.from('profiles').select('display_name, avatar_url').eq('id', user_id).single()
+        return data || {}
+      }catch{ return {} }
     }
+    async function getAvg(user_id){
+      try{
+        const { data } = await supabase.from('ratings').select('value').eq('ratee_user_id', user_id)
+        if(!data?.length) return null
+        const s = data.reduce((a,b)=>a+(b.value||0),0)
+        return s / data.length
+      }catch{ return null }
+    }
+
+    async function renderPost(){
+      const { data, error } = await supabase.from('threads').select('*').eq('id', postId).single()
+      if(error || !data){ postWrap.textContent = 'Nie znaleziono posta.'; return }
+      const prof = data.user_id ? await getProfile(data.user_id) : { display_name: data.nick }
+      const avg = data.user_id ? await getAvg(data.user_id) : null
+      const avatar = prof?.avatar_url || 'pngegg.png'
+      const name = prof?.display_name || data.nick || 'Anon'
+      const when = new Date(data.created_at).toLocaleString('pl-PL')
+      postWrap.innerHTML = `
+        <div class="head">
+          <img class="avatar" src="${avatar}" alt="avatar">
+          <div class="usercol">
+            <div><b>${name}</b></div>
+            <div>${stars(avg)}</div>
+          </div>
+          <div style="flex:1"></div>
+          <div class="title">${data.title}</div>
+          <div style="flex:1"></div>
+          <div class="date">${when}</div>
+        </div>
+        <div class="content">${data.content}</div>
+        ${data.image_url ? `<img class="image" src="${data.image_url}" alt="">` : ''}
+      `
+    }
+
+    async function renderComments(){
+      commentsList.innerHTML = ''
+      try{
+        const { data, error } = await supabase.from('comments').select('id, content, created_at, user_id').eq('thread_id', postId).order('created_at', { ascending: true })
+        if(error || !data?.length){ return }
+        const parts = []
+        for(const c of data){
+          const prof = c.user_id ? await getProfile(c.user_id) : {}
+          const avatar = prof?.avatar_url || 'pngegg.png'
+          const name = prof?.display_name || 'Użytkownik'
+          const when = new Date(c.created_at).toLocaleString('pl-PL')
+          parts.push(`
+            <div class="comment">
+              <div style="display:flex; gap:10px; align-items:center">
+                <img class="avatar" src="${avatar}" alt="a">
+                <div class="usercol"><div><b>${name}</b></div><div style="font-size:.55rem">${when}</div></div>
+              </div>
+              <div class="content">${c.content}</div>
+            </div>
+          `)
+        }
+        commentsList.innerHTML = parts.join('')
+      }catch{ /* ignore */ }
+    }
+
+    commentForm.addEventListener('submit', async (e)=>{
+      e.preventDefault()
+      const txt = (document.getElementById('commentText').value||'').trim()
+      if(!txt) return
+      const { data: s } = await supabase.auth.getSession()
+      const user = s?.session?.user
+      if(!user) { alert('Zaloguj się.'); return }
+      const { error } = await supabase.from('comments').insert([{ thread_id: postId, content: txt, user_id: user.id }])
+      if(error) { alert(error.message); return }
+      document.getElementById('commentText').value = ''
+      renderComments()
+    })
+
+    await renderPost()
+    await renderComments()
   </script>
 </body>
 </html>
