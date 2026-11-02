@@ -165,18 +165,17 @@
       const password = (document.getElementById('password').value || '').trim()
       if (!email || !password) return
       try {
-        if (authMode === 'login') {
-          const { error } = await supabase.auth.signInWithPassword({ email, password })
-          if (error) alert(error.message)
-        } else {
-          const { error } = await supabase.auth.signUp({ email, password })
-          if (error) alert(error.message)
+        const result = authMode === 'login'
+          ? await supabase.auth.signInWithPassword({ email, password })
+          : await supabase.auth.signUp({ email, password })
+        if (result.error) {
+          alert(result.error.message)
+          return
         }
+        authDialog.close()
+        await renderAuth()
       } catch (err) {
         alert(err.message || err)
-      } finally {
-        authDialog.close()
-        renderAuth()
       }
     })
 
