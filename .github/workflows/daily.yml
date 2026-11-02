@@ -1,5 +1,10 @@
 name: LEVEL NEXT DAILY — free RSS edition
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/daily.yml'
+      - 'scripts/generate_daily.py'
   workflow_dispatch:
   schedule:
     # Dwa uruchomienia UTC, aby trafić w 08:00 czasu polskiego zimą i latem.
