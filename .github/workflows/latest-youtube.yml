@@ -1,0 +1,39 @@
+name: LEVEL NEXT — latest YouTube upload
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'scripts/update_latest_youtube.py'
+      - '.github/workflows/latest-youtube.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */2 * * *"
+permissions:
+  contents: write
+concurrency:
+  group: level-next-latest-youtube
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Resolve channel and fetch newest upload
+        run: python scripts/update_latest_youtube.py
+      - name: Publish latest video data
+        run: |
+          if git diff --quiet -- data/latest_video.json; then
+            echo "Dane najnowszego filmu są aktualne."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest_video.json
+          git commit -m "Update latest YouTube upload"
+          git push
