@@ -14,7 +14,13 @@
     form{ border:1px solid var(--yellow); background:rgba(0,0,0,.55); padding:12px; display:flex; flex-direction:column; gap:10px }
     input[type="text"], textarea{ width:100%; background:#000; color:var(--yellow); border:1px solid var(--yellow); padding:10px; font-family:'Press Start 2P', monospace; font-size:.7rem }
     input[type="file"]{ color:var(--yellow) }
-  </style>
+  
+    @media (max-width: 650px) {
+      header { align-items: flex-start; flex-wrap: wrap; gap: 8px; }
+      header > div:last-child { display: flex; flex-wrap: wrap; gap: 6px; }
+      main { padding: 12px 8px; }
+    }
+</style>
 </head>
 <body>
   <header>
