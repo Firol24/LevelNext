@@ -27,7 +27,7 @@ def main():
         raise RuntimeError("Nie znaleziono publicznego filmu na profilu TikTok @tu_firol.")
 
     video_id = str(video.get("id", ""))
-    if not re.fullmatch(r"\\d{15,25}", video_id):
+    if not re.fullmatch(r"\d{15,25}", video_id):
         raise RuntimeError(f"Nieprawidłowe ID najnowszego TikToka: {video_id!r}")
 
     result = {
@@ -38,7 +38,7 @@ def main():
     }
     output = ROOT / "data" / "latest_tiktok.json"
     output.parent.mkdir(exist_ok=True)
-    output.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    output.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Latest TikTok: {result['url']}")
 
 if __name__ == "__main__":
