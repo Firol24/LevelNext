@@ -59,6 +59,14 @@
     .story-meta{font:9px var(--mono);color:var(--muted);text-transform:uppercase}
     .side-section{border-top:4px solid var(--ink);padding-top:12px;margin-bottom:26px}
     .side-section h2{font:27px var(--serif);margin:0 0 14px}
+    .item-meta{font:9px/1.5 var(--mono);color:var(--purple);text-transform:uppercase;margin:7px 0}
+    .cinema-section{margin-top:30px;padding-top:20px;border-top:4px double var(--ink)}
+    .cinema-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 22px}
+    .cinema-card{padding:16px 0;border-top:1px solid var(--line);min-width:0}
+    .cinema-card h3{font:23px/1.05 var(--serif);margin:8px 0}
+    .cinema-card p{font:12px/1.55 var(--sans);color:#554d57;margin:0 0 10px}
+    .cinema-card .item-meta{color:#6a0dad}
+    .section-note{font:10px/1.5 var(--mono);color:var(--muted);margin:-4px 0 12px}
     .indie-item,.release-item{padding:12px 0;border-top:1px solid var(--line)}
     .indie-item h3,.release-item h3{font:19px/1.1 var(--serif);margin:7px 0}
     .indie-item p,.release-item p{font:12px/1.5 var(--sans);color:#554d57;margin:0}
@@ -80,7 +88,8 @@
     .footer a{color:var(--yellow);text-decoration:none}
     .error{color:#8a1a34}
     .hidden{display:none!important}
-    @media(max-width:780px){.masthead{padding:14px 14px 0}.topline{align-items:flex-start}.toplinks{gap:10px;font-size:9px}.paper{margin:16px 10px 60px}.title-row{align-items:flex-start;flex-direction:column}.title-side{text-align:left;max-width:none}.lead-grid,.columns{grid-template-columns:1fr}.side-note{border-left:0;border-top:1px solid var(--line);padding:16px 0 0}.news-list{grid-template-columns:1fr}.paper-inner{padding:20px}.ticker{margin:15px 0 20px}}
+    @media(max-width:980px){.cinema-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+    @media(max-width:780px){.cinema-grid{grid-template-columns:1fr}.masthead{padding:14px 14px 0}.topline{align-items:flex-start}.toplinks{gap:10px;font-size:9px}.paper{margin:16px 10px 60px}.title-row{align-items:flex-start;flex-direction:column}.title-side{text-align:left;max-width:none}.lead-grid,.columns{grid-template-columns:1fr}.side-note{border-left:0;border-top:1px solid var(--line);padding:16px 0 0}.news-list{grid-template-columns:1fr}.paper-inner{padding:20px}.ticker{margin:15px 0 20px}}
     @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.ticker-track{animation:none}*{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
   </style>
 </head>
@@ -124,6 +133,11 @@
           <section class="side-section"><div class="section-kicker">04 / Film dnia</div><div id="film-box" class="empty">Film dnia pojawi się wyłącznie wtedy, gdy uda się potwierdzić dostępność w polskiej subskrypcji.</div></section>
         </aside>
       </div>
+      <section class="cinema-section">
+        <div class="section-kicker">05 / Na dużym ekranie — najbliższe premiery kinowe</div>
+        <p class="section-note">Daty polskich premier. Repertuar i terminy mogą się zmienić — przed wyjściem sprawdź seanse w swoim kinie.</p>
+        <div id="cinema-list" class="cinema-grid"><div class="empty">Wczytywanie kalendarza kinowego…</div></div>
+      </section>
       <section class="archive">
         <div class="section-kicker">Archiwum wydań</div>
         <div id="archive-list" class="archive-list"><span class="story-meta">Archiwum będzie rosnąć wraz z kolejnymi numerami.</span></div>
@@ -162,11 +176,13 @@
     const news=$('news-list');
     if(Array.isArray(data.news)&&data.news.length) news.replaceChildren(...data.news.map(renderStory));
     const indie=$('indie-list');
-    if(Array.isArray(data.indie)&&data.indie.length){ indie.replaceChildren(...data.indie.map(item=>{const el=node('article','indie-item');el.append(node('span','tag','INDIE RADAR'),node('h3','',item.title),node('p','',item.summary||''));const a=link(item.sourceUrl,'Sprawdź grę ↗');if(a)el.append(a);return el;}));}
+    if(Array.isArray(data.indie)&&data.indie.length){ indie.replaceChildren(...data.indie.map(item=>{const el=node('article','indie-item');el.append(node('span','tag','INDIE RADAR'),node('h3','',item.title),node('div','item-meta',[item.date,item.platform].filter(Boolean).join(' · ')),node('p','',item.summary||''));const a=link(item.sourceUrl,'Sprawdź grę ↗');if(a)el.append(a);return el;}));}
     const releases=$('release-list');
-    if(Array.isArray(data.releases)&&data.releases.length){ releases.replaceChildren(...data.releases.map(item=>{const el=node('article','release-item');el.append(node('div','release-date',(item.date||'Data nieustalona')+' · '+(item.status==='confirmed'?'POTWIERDZONA':'NIEPOTWIERDZONA')),node('h3','',item.title),node('p','',[item.platform,item.note].filter(Boolean).join(' — ')));const a=link(item.sourceUrl,'Źródło daty ↗');if(a)el.append(a);return el;}));}
+    if(Array.isArray(data.releases)&&data.releases.length){ releases.replaceChildren(...data.releases.map(item=>{const el=node('article','release-item');const d=item.date?new Date(item.date+'T12:00:00').toLocaleDateString('pl-PL',{day:'numeric',month:'short'}):'Data nieustalona';el.append(node('div','release-date',d+' · '+(item.status==='confirmed'?'POTWIERDZONA':'TERMIN W KALENDARZACH')),node('h3','',item.title),node('p','',[item.platform,item.note].filter(Boolean).join(' — ')));const a=link(item.sourceUrl,'Źródło daty ↗');if(a)el.append(a);return el;}));}
+    const cinema=$('cinema-list');
+    if(Array.isArray(data.cinema)&&data.cinema.length){cinema.replaceChildren(...data.cinema.map(item=>{const el=node('article','cinema-card');const d=item.date?new Date(item.date+'T12:00:00').toLocaleDateString('pl-PL',{day:'numeric',month:'long'}):'Termin do potwierdzenia';el.append(node('div','release-date',d+' · POLSKA PREMIERA'),node('h3','',item.title),node('div','item-meta',item.genre||''),node('p','',item.summary||''));const a=link(item.sourceUrl,'Sprawdź szczegóły ↗');if(a)el.append(a);return el;}));}
     const film=$('film-box');
-    if(data.film && data.film.title && data.film.platform){film.className='film-box';film.replaceChildren(node('span','tag','FILM DNIA'),node('h3','',data.film.title+(data.film.year?' ('+data.film.year+')':'')),node('p','',data.film.summary||''),node('p','', 'Dostępność: '+data.film.platform+' · '+(data.film.availabilityNote||'Zweryfikowano dla Polski')));const a=link(data.film.availabilityUrl,'Sprawdź dostępność ↗','');if(a)film.append(a);}
+    if(data.film && data.film.title && data.film.platform){film.className='film-box';film.replaceChildren(node('span','tag','FILM DNIA'),node('h3','',data.film.title+(data.film.year?' ('+data.film.year+')':'')),node('p','',data.film.summary||''),node('p','', 'Dostępność: '+data.film.platform+' · '+(data.film.availabilityNote||'Zweryfikowano dla Polski')));const a=link(data.film.availabilityUrl,'Sprawdź potwierdzenie ↗','');if(a)film.append(a);}
     const search=$('news-search');
     search.addEventListener('input',()=>{const q=search.value.trim().toLocaleLowerCase('pl');[...news.children].forEach(el=>el.classList.toggle('hidden',!el.textContent.toLocaleLowerCase('pl').includes(q)));},{once:false});
   }
