@@ -144,7 +144,7 @@
       "platform": "PC (Steam)",
       "status": "confirmed",
       "note": "Mroczna metroidvania; termin ogłoszony przez twórców.",
-      "sourceUrl": "https://www.gamespress.com/en-US/Flame-wielding-Metroidvania-Nocturnal-2-launches-on-Steam-November-10th"
+      "sourceUrl": "https://www.gamespress.com/en-US/Flame-wielding-Metroidvania-Nocturnal-2-launches-on-Steam-November-10t"
     },
     {
       "date": "2026-11-10",
@@ -209,5 +209,5 @@
     }
   ],
   "editorialUpdatedAt": "2026-11-02",
-  "editorialHash": "71c764aef38e40755e5479b261568167b2a696229c67f47624647df008359a58"
+  "editorialHash": "f473c8908b896b82f2fb738f0c5c73211fd35bef579deb398ad786bbbfad3872"
 }
