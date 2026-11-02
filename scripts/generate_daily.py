@@ -166,7 +166,7 @@ def main():
         archive = {"editions": []}
     editions = [x for x in archive.get("editions", []) if x.get("date") != issue_date]
     editions.insert(0, {"date": issue_date, "headline": issue["headline"], "path": f"{issue_date}.json"})
-    index_path.write_text(json.dumps({"editions": editions[:180]}, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    index_path.write_text(json.dumps({"editions": editions[:180]}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Opublikowano RSS-only LEVEL NEXT DAILY: {issue_date} ({len(news)} materiałów).")
 
 if __name__ == "__main__":
