@@ -1,10 +1,112 @@
 {
-  "status": "waiting",
-  "date": null,
-  "headline": "Pierwsze wydanie w przygotowaniu",
-  "editorNote": "LEVEL NEXT DAILY stawia na selekcję, źródła i klimat starej cyfrowej prasy. Pierwszy numer ukaże się po skonfigurowaniu automatycznej redakcji.",
-  "lead": null,
-  "news": [],
+  "status": "rss-only",
+  "date": "2026-11-02",
+  "headline": "Świeże sygnały ze świata gier",
+  "editorNote": "Wydanie zbudowane automatycznie z kanałów RSS. Tytuły i opisy pochodzą ze źródeł — kliknij, aby przeczytać oryginalne materiały.",
+  "lead": {
+    "category": "WIADOMOŚCI",
+    "title": "Połowa gier wydanych na Steam w październiku wykorzystuje AI. To absolutny rekord w historii platformy Valve",
+    "summary": "Sztuczna inteligencja coraz śmielej podbija Steama. Najnowsze statystyki pokazują, że skala jej wykorzystania w grach rośnie w błyskawicznym tempie. Informacja Połowa gier wydanych na Steam w październiku wykorzystuje AI. To absolutny rekord w historii platformy Valve została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/polowa-gier-wydanych-na-steam-w-pazdzierniku-wykorzystywala-ai-to/ze321bf"
+  },
+  "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Połowa gier wydanych na Steam w październiku wykorzystuje AI. To absolutny rekord w historii platformy Valve",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/polowa-gier-wydanych-na-steam-w-pazdzierniku-wykorzystywala-ai-to/ze321bf",
+      "publishedAt": "2026-11-02T21:32+01:00",
+      "summary": "Sztuczna inteligencja coraz śmielej podbija Steama. Najnowsze statystyki pokazują, że skala jej wykorzystania w grach rośnie w błyskawicznym tempie. Informacja Połowa gier wydanych na Steam w październiku wykorzystuje AI. To absolutny rekord w historii platformy Valve została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy Wiedźmina 4 rosną w siłę. Do CD Projekt Red dołączył czwarty już deweloper Kingdom Come: Deliverance 2",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-wiedzmina-4-rosna-w-sile-do-cd-projekt-red-dolaczyl-czwart/zd321be",
+      "publishedAt": "2026-11-02T20:22+01:00",
+      "summary": "Studio CD Projekt Red ściągnęło do siebie kolejnego twórcę Kingdom Come 2: Deliverance. Były deweloper Warhorse Studios zajął stanowisko starszego projektanta rozgrywki w polskiej firmie. Informacja Twórcy Wiedźmina 4 rosną w siłę. Do CD Projekt Red dołączył czwarty już deweloper Kingdom Come: Deliverance 2 została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracz z Polski traci konto PlayStation, w które zainwestował ponad 10 tysięcy złotych. Sony nie jest w stanie mu pomóc",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-z-polski-traci-konto-playstation-w-ktore-zainwestowal-ponad/zc321bd",
+      "publishedAt": "2026-11-02T20:06+01:00",
+      "summary": "Kolejny polski gracz walczy o odzyskanie skradzionego konta PlayStation Network. Mimo licznych dowodów własności i wielu godzin spędzonych na infolinii Sony wciąż nie może odzyskać dostępu do kolekcji gier wartej kilkanaście tysięcy złotych. Informacja Gracz z Polski traci konto PlayStation, w które zainwestował ponad 10 tysięcy złotych. Sony nie jest w stanie mu pomóc została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Przez 10 lat fan Alien: Isolation tworzył potwora. Teraz oddaje go za darmo i mówi, że „możliwości są wręcz nieograniczone”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/przez-10-lat-fan-alien-isolation-tworzyl-potwora-teraz-oddaje-go/zb321bc",
+      "publishedAt": "2026-11-02T19:22+01:00",
+      "summary": "Programista po prawie 10 latach wypuścił pełną wersję narzędzia moderskiego do gry Alien: Isolation. Fani otrzymali ogromną liczbę opcji, aby jeszcze lepiej bawić się w survival horrorze. Informacja Przez 10 lat fan Alien: Isolation tworzył potwora. Teraz oddaje go za darmo i mówi, że „możliwości są wręcz nieograniczone” została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W odstępie 2 dni popularny symulator ciężarówki dostanie aż dwa duże dodatki. ETS2: Coaches ujawnia pierwsze autobusy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-odstepie-2-dni-popularny-symulator-ciezarowki-dostanie-az-dwa-d/za321bb",
+      "publishedAt": "2026-11-02T18:33+01:00",
+      "summary": "Twórcy gry Euro Truck Simulator 2 ujawnili datę premiery wyczekiwanego dodatku Coaches. Informacja W odstępie 2 dni popularny symulator ciężarówki dostanie aż dwa duże dodatki. ETS2: Coaches ujawnia pierwsze autobusy została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 i The Legend of Zelda rozpoczęły walkę na ulicach polskich miast. Remake Ocarina of Time ma ukryty cel",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-i-the-legend-of-zelda-rozpoczely-walke-na-ulicach-polskich/z9321ba",
+      "publishedAt": "2026-11-02T17:36+01:00",
+      "summary": "Premiery GTA 6 i The Legend of Zelda: Ocarina of Time zbliżają się wielkimi krokami. Kampanie promocyjne obu gier zawitały do Polski, przyciągając uwagę mieszkańców naszych miast. Informacja GTA 6 i The Legend of Zelda rozpoczęły walkę na ulicach polskich miast. Remake Ocarina of Time ma ukryty cel została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "23 bomby atomowe dziennie. Fizyk ostrzega przed gigantycznym centrum danych, które ma powstać w Kanadzie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/23-bomby-atomowe-dziennie-fizyk-ostrzega-przed-gigantycznym-centr/ze321b6",
+      "publishedAt": "2026-11-02T17:00+01:00",
+      "summary": "W Kanadzie ma powstać jedno z największych centrów danych na świecie. Szacuje się, że każdego dnia będzie ono uwalniać ilość ciepła odpowiadającą energii 23 bomb atomowych takich jak ta zrzucona na Hiroszimę. Informacja 23 bomby atomowe dziennie. Fizyk ostrzega przed gigantycznym centrum danych, które ma powstać w Kanadzie została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy numer 1 Netflixa w Polsce i na świecie. Hiszpański thriller akcji jest liderem w ponad 60 krajach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-numer-1-netflixa-w-polsce-i-na-swiecie-hiszpanski-thriller-a/zd321b5",
+      "publishedAt": "2026-11-02T17:00+01:00",
+      "summary": "Netflix wyprodukował kolejny cieszący się popularnością thriller. Debiutujące pod koniec października hiszpańskie widowisko stało się najchętniej wybieranym filmem w ponad 60 krajach, w tym w Polsce. Informacja Nowy numer 1 Netflixa w Polsce i na świecie. Hiszpański thriller akcji jest liderem w ponad 60 krajach została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Najlepsze gry w Xbox Game Pass - 2026",
+      "sourceUrl": "https://www.gry-online.pl/opinie/najlepsze-gry-w-xbox-game-pass-2023/zcb9a",
+      "publishedAt": "2026-11-02T16:48+01:00",
+      "summary": "„Netflix dla gier”, czyli abonament Xbox Game Pass pozwala wybierać wśród setek świetnych tytułów. Czasem od przybytku aż głowa boli, więc prezentujemy najciekawsze produkcje dostępne w usłudze Microsoftu na PC i na konsole Xbox. Informacja Najlepsze gry w Xbox Game Pass - 2026 została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jeden z największych hitów Prime Video wraca po raz ostatni. Premiera 3. sezonu już za miesiąc",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najwiekszych-hitow-prime-video-wraca-po-raz-ostatni-premi/zc321ae",
+      "publishedAt": "2026-11-02T16:02+01:00",
+      "summary": "Na Prime Video z nowymi odcinkami wraca przebojowy serial. Nadchodzący trzeci sezon będzie ostatnim. Informacja Jeden z największych hitów Prime Video wraca po raz ostatni. Premiera 3. sezonu już za miesiąc została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Fan oferuje Ubisoftowi 5 mln euro za dokończenie remake’u Prince of Persia",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/fan-oferuje-ubisoftowi-5-mln-euro-za-dokonczenie-remakeu-prince-o/zf321b7",
+      "publishedAt": "2026-11-02T15:36+01:00",
+      "summary": "Jeden z graczy twierdzi, że jest w stanie wydać co najmniej 5 mln euro na wznowienie produkcji Prince of Persia: The Sands of Time Remake. Informacja Fan oferuje Ubisoftowi 5 mln euro za dokończenie remake’u Prince of Persia została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Na Prime Video trafił jeden z największych seriali lat 2000. Już można obejrzeć wszystkie 180 odcinków",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-prime-video-trafil-jeden-z-najwiekszych-seriali-lat-2000-juz-m/zd321a6",
+      "publishedAt": "2026-11-02T15:02+01:00",
+      "summary": "Prime Video dodał do swojego katalogu 8-częściowy serial, który zapewni rozrywkę na wiele godzin. To jeden z największych hitów lat 2000. Informacja Na Prime Video trafił jeden z największych seriali lat 2000. Już można obejrzeć wszystkie 180 odcinków została opublikowana przez GRYOnline.pl 2 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    }
+  ],
   "indie": [],
   "releases": [],
   "film": null
