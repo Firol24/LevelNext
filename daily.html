@@ -171,13 +171,15 @@
   }
   async function load(){
     try{
-      const response=await fetch('data/daily.json?ts='+Date.now(),{cache:'no-store'});
+      const requestedDate=new URLSearchParams(location.search).get('date');
+      const editionPath=requestedDate && /^\d{4}-\d{2}-\d{2}$/.test(requestedDate) ? 'archive/'+requestedDate+'.json' : 'data/daily.json';
+      const response=await fetch(editionPath+'?ts='+Date.now(),{cache:'no-store'});
       if(!response.ok) throw new Error('Nie udało się pobrać wydania.');
       const data=await response.json(); render(data);
     }catch(error){ $('edition-status').textContent='TRYB OFFLINE'; $('lead-content').replaceChildren(node('div','empty error',error.message+' Spróbuj odświeżyć stronę później.')); }
     try{
       const response=await fetch('archive/index.json?ts='+Date.now(),{cache:'no-store'});
-      if(response.ok){const archive=await response.json();if(Array.isArray(archive.editions)&&archive.editions.length){const list=$('archive-list');list.replaceChildren(...archive.editions.slice(0,12).map(item=>{const a=node('a','',item.date+' · '+(item.headline||'Wydanie'));a.href=item.path;return a;}));}}
+      if(response.ok){const archive=await response.json();if(Array.isArray(archive.editions)&&archive.editions.length){const list=$('archive-list');list.replaceChildren(...archive.editions.slice(0,12).map(item=>{const a=node('a','',item.date+' · '+(item.headline||'Wydanie'));a.href='daily.html?date='+encodeURIComponent(item.date);return a;}));}}
     }catch{}
   }
   load();
