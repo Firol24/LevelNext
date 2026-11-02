@@ -6,7 +6,7 @@
   <title>Level Next - Retro Gaming Channel</title>
   <meta name="description" content="Oficjalna strona kanalu Level Next - gry retro, lets play, recenzje i pasja do gamingu!" />
   <meta name="keywords" content="Level Next, polski kanal gamingowy, retro gry, lets play PL, recenzje gier" />
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <style>
     :root {
       --purple: #6a0dad;
@@ -18,7 +18,7 @@
     body {
       margin: 0;
       padding: 0;
-      font-family: 'Orbitron', 'Press Start 2P', sans-serif;
+      font-family: 'IBM Plex Mono', 'Courier New', monospace;
       background-color: #000;
       background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
       color: var(--yellow);
@@ -91,7 +91,7 @@
       grid-column: 1 / -1;
     }
     h1 {
-      font-size: 3.2em;
+      font-size: 3.2em;\n      font-weight: 700;
       margin: 0;
       color: var(--yellow);
       text-shadow: 0 0 10px var(--yellow), 0 0 20px var(--purple);
@@ -234,7 +234,14 @@
     .latest-video-frame { width: 100%; aspect-ratio: 16 / 9; background: #090611; border: 2px solid #f0e500; display: grid; place-items: center; overflow: hidden; }
     .latest-video-frame iframe { width: 100%; height: 100%; border: 0; display: block; }
     .latest-video-frame p { color: #f0e500; text-align: center; padding: 12px; }
-    .tiktok-clips-panel { height:auto; min-height:650px; overflow:visible; justify-content:flex-start; padding:14px 8px; }\n    .tiktok-clips-panel .tiktok-embed { width:100%; max-width:100%; min-height:560px; height:auto; display:block; overflow:visible; background:transparent; border:0; margin:12px auto !important; }
+    .latest-video-panel { align-items:stretch; }
+    .latest-video-frame { width:100%; aspect-ratio:16 / 9; background:#090611; border:2px solid var(--yellow); overflow:hidden; }
+    .latest-video-frame iframe { width:100%; height:100%; border:0; display:block; }
+    .latest-video-frame p { color:var(--yellow); text-align:center; padding:12px; }
+    .tiktok-clips-panel { height:auto; min-height:0; overflow:visible; display:flex; flex-direction:column; align-items:center; gap:10px; padding:14px 8px; }
+    .tiktok-video-frame { width:100%; max-width:340px; aspect-ratio:9 / 16; background:#090611; border:2px solid var(--purple); overflow:hidden; }
+    .tiktok-video-frame iframe { width:100%; height:100%; border:0; display:block; }
+    .tiktok-clips-panel .clips-copy { text-align:center; }
 </style>
 </head>
 <body>
@@ -290,9 +297,9 @@
     <div class="twitch-embed tiktok-clips-panel">
       <p class="clips-label">SHOTY ZE STREAMÓW</p>
       <p class="clips-copy">Najnowsze klipy z mojego TikToka</p>
-      <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@tu_firol" data-unique-id="tu_firol" data-embed-type="creator" style="max-width: 100%; min-width: 288px;">
-        <section><a target="_blank" href="https://www.tiktok.com/@tu_firol?refer=creator_embed">@tu_firol</a></section>
-      </blockquote>
+      <div id="latestTikTok" class="tiktok-video-frame">
+        <p>ŁADOWANIE NAJNOWSZEGO TIKTOKA...</p>
+      </div>
       <a class="channel-link" href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener">▶ OGLĄDAJ NA TIKTOKU</a>
     </div>
     <h3>DOLACZ NA DISCORDA</h3>
@@ -355,6 +362,26 @@
       target.innerHTML = '<p>NAJNOWSZY FILM POJAWI SIĘ PO PIERWSZYM ODCZYTANIU KANAŁU.<br>Sprawdź materiały bezpośrednio na YouTube.</p>';
     });
 </script>
-<script async src="https://www.tiktok.com/embed.js"></script>
+<script>
+  // Latest public TikTok upload is resolved by GitHub Actions via yt-dlp.
+  fetch('data/latest_tiktok.json', { cache: 'no-store' })
+    .then(response => {
+      if (!response.ok) throw new Error('Brak danych najnowszego TikToka');
+      return response.json();
+    })
+    .then(video => {
+      if (!/^\\d+$/.test(String(video.videoId || ''))) throw new Error('Nieprawidłowe ID TikToka');
+      const frame = document.createElement('iframe');
+      frame.src = 'https://www.tiktok.com/player/v1/' + encodeURIComponent(video.videoId) + '?controls=1&description=1&music_info=1';
+      frame.title = video.title || 'Najnowszy TikTok @tu_firol';
+      frame.loading = 'lazy';
+      frame.allow = 'encrypted-media; fullscreen; picture-in-picture';
+      frame.allowFullscreen = true;
+      document.getElementById('latestTikTok').replaceChildren(frame);
+    })
+    .catch(() => {
+      document.getElementById('latestTikTok').innerHTML = '<p>NAJNOWSZY KLIP POJAWI SIĘ PO PIERWSZYM ODCZYTANIU PROFILU.<br>Otwórz profil na TikToku.</p>';
+    });
+</script>
 </body>
 </html>
