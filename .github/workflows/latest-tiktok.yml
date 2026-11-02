@@ -30,7 +30,7 @@ jobs:
         run: python scripts/update_latest_tiktok.py
       - name: Publish latest TikTok data
         run: |
-          if git diff --quiet -- data/latest_tiktok.json; then
+          if [ -z "$(git status --porcelain -- data/latest_tiktok.json)" ]; then
             echo "Dane najnowszego TikToka są aktualne."
             exit 0
           fi
