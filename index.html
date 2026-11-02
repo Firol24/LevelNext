@@ -192,19 +192,11 @@
       overflow: hidden;
       border: 2px solid var(--purple);
     }
-    .no-signal {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      background: var(--dark-purple);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: var(--purple);
-      font-size: 1.2em;
-      font-weight: bold;
-      text-shadow: 0 0 5px #000;
-    }
+    .clips-panel, .channel-panel, .discord-panel { width:100%; min-height:190px; padding:18px 12px; background:linear-gradient(135deg,#160028,#050008); border:2px solid var(--purple); display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center; gap:12px; }
+    .clips-label { color:var(--yellow); font-size:1rem; margin:0; text-shadow:0 0 8px var(--purple); }
+    .clips-copy, .channel-panel p, .discord-panel p { color:#ddd; font-size:.78rem; line-height:1.6; margin:0; }
+    .channel-link { display:inline-block; color:var(--yellow); border:1px solid var(--yellow); padding:10px 12px; text-decoration:none; font-size:.72rem; line-height:1.5; box-shadow:0 0 8px rgba(255,242,0,.2); }
+    .channel-link:hover { background:var(--yellow); color:#000; }
     footer {
       margin-top: 20px;
       text-align: center;
@@ -245,8 +237,8 @@
   <img src="logo.png" alt="Level Next Logo" class="logo" />
 </a>
 <div class="social-sidebar">
-  <a href="https://discord.com/invite/mp56FgwR?utm_source=Discord%20Widget&utm_medium=Connect" class="social-btn" target="_blank" title="Discord"><img src="pngegg (1).png" alt="Discord" /></a>
-  <a href="https://www.twitch.tv/xfirol" class="social-btn" target="_blank" title="Twitch"><img src="pngegg.png" alt="Twitch" /></a>
+  <a href="https://discord.gg/vtQ72NDNZb" class="social-btn" target="_blank" title="Discord"><img src="pngegg (1).png" alt="Discord" /></a>
+  <a href="https://www.twitch.tv/tu_firol" class="social-btn" target="_blank" title="Twitch"><img src="pngegg.png" alt="Twitch" /></a>
   <a href="https://www.youtube.com/@tufirol9695" class="social-btn" target="_blank" title="YouTube"><img src="icons8-youtube-48.png" alt="YouTube" /></a>
   <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="TikTok"><img src="icons8-tiktok-48.png" alt="TikTok" /></a>
   <a href="https://www.instagram.com/_firol_" class="social-btn" target="_blank" title="Instagram"><img src="icons8-instagram-48.png" alt="Instagram" /></a>
@@ -267,7 +259,6 @@
     <a href="#latest">📼 FILMY</a>
     <a href="sprzet.html">🕹️ SPRZET</a>
     <a href="retro-misja.html">🎲 RETRO MISJA</a>
-    <a href="forum.html">📡 FORUM</a>
     <a href="daily.html">📰 DAILY</a>
   </nav>
   <main>
@@ -281,26 +272,26 @@
     </div>
     <div id="latest" class="content">
       <h2>NAJNOWSZY FILM</h2>
-      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-        <iframe title="Najnowszy film Level Next" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 3px solid var(--yellow);" src="https://www.youtube-nocookie.com/embed/8IVOqGQkvVw" frameborder="0" allowfullscreen></iframe>
+      <div class="channel-panel">
+        <p>NAJNOWSZE MATERIAŁY Z KANAŁU</p>
+        <a class="channel-link" href="https://www.youtube.com/@tufirol9695/videos" target="_blank" rel="noopener">▶ OTWÓRZ KANAŁ YOUTUBE</a>
       </div>
     </div>
   </main>
   <div class="news-sidebar">
     <h3>AKTUALNOSCI</h3>
     <div class="twitch-embed">
-      <div class="no-signal">NO SIGNAL</div>
+      <div class="clips-panel">
+        <p class="clips-label">SHOTY Z TWITCHA</p>
+        <p class="clips-copy">Najlepsze momenty ze streamów</p>
+        <a class="channel-link" href="https://www.twitch.tv/tu_firol/clips?filter=clips&range=7d" target="_blank" rel="noopener">▶ OGLĄDAJ KLIPY</a>
+      </div>
     </div>
     <h3>DOLACZ NA DISCORDA</h3>
-    <div class="tiktok-embed" style="height:500px;">
-      <iframe src="https://discord.com/widget?id=1133716700446068827&theme=dark"
-        width="100%"
-        height="100%"
-        allowtransparency="true"
-        frameborder="0"
-        sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-      </iframe>
-    </div>
+    <div class="discord-panel">
+        <p>WPADAJ NA SERWER LEVEL NEXT</p>
+        <a class="channel-link" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">✦ DOŁĄCZ DO DISCORDA</a>
+      </div>
   </div>
   <footer>
     &copy; 2025 LEVEL NEXT | WSZELKIE PRAWA ZASTRZEZONE<br>
