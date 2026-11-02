@@ -23,7 +23,17 @@
     .comment{ display:grid; grid-template-columns:200px 1fr; gap:10px; border:1px solid var(--yellow); padding:10px; background:rgba(0,0,0,.4) }
     .comment .avatar{ width:48px; height:48px }
     .right { display:flex; justify-content:space-between; align-items:center }
-  </style>
+  
+    @media (max-width: 650px) {
+      header { align-items: flex-start; flex-wrap: wrap; gap: 8px; }
+      header > div { max-width: 100%; }
+      main { padding: 12px 8px; }
+      .head { flex-wrap: wrap; align-items: flex-start; }
+      .title { width: 100%; text-align: left; }
+      .date { margin-left: auto; }
+      .comment { grid-template-columns: minmax(0, 1fr); }
+    }
+</style>
 </head>
 <body>
   <header>
