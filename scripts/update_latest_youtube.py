@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Resolve a YouTube @handle and publish its newest public upload using YouTube's free Atom feed."""
+# Ensure the corrected workflow reruns after its publishing-step fix.
 import json
 import re
 import sys
