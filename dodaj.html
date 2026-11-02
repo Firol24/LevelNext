@@ -1,85 +1,27 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Dodaj wątek - Level Next</title>
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
-  <style>
-    :root { --yellow:#fff200 }
-    body{ margin:0; background:#0b0014; color:var(--yellow); font-family:'Press Start 2P', monospace }
-    header{ border-bottom:1px solid var(--yellow); padding:12px 16px; display:flex; gap:12px; align-items:center; justify-content:space-between }
-    .btn{ border:1px solid var(--yellow); background:transparent; color:var(--yellow); padding:8px 10px; font-size:.65rem; cursor:pointer }
-    main{ max-width: 800px; margin:0 auto; padding:16px 12px }
-    form{ border:1px solid var(--yellow); background:rgba(0,0,0,.55); padding:12px; display:flex; flex-direction:column; gap:10px }
-    input[type="text"], textarea{ width:100%; background:#000; color:var(--yellow); border:1px solid var(--yellow); padding:10px; font-family:'Press Start 2P', monospace; font-size:.7rem }
-    input[type="file"]{ color:var(--yellow) }
-  
-    @media (max-width: 650px) {
-      header { align-items: flex-start; flex-wrap: wrap; gap: 8px; }
-      header > div:last-child { display: flex; flex-wrap: wrap; gap: 6px; }
-      main { padding: 12px 8px; }
-    }
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DODAWANIE WĄTKÓW WYŁĄCZONE — LEVEL NEXT</title>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--yellow:#fff200;--purple:#6a0dad}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;display:grid;place-items:center;padding:22px;background:radial-gradient(circle at 50% 20%,#260044,#08000f 65%);color:var(--yellow);font-family:'Press Start 2P',monospace;text-align:center}
+main{width:min(760px,100%);padding:clamp(22px,5vw,48px);border:2px solid var(--yellow);background:rgba(0,0,0,.78);box-shadow:0 0 28px rgba(106,13,173,.55)}
+h1{font-size:clamp(1.1rem,4vw,1.8rem);line-height:1.7;text-shadow:0 0 12px var(--purple)}
+p{font: bold 13px/2 'Orbitron',sans-serif;color:#ddd;margin:24px 0}
+nav{display:flex;justify-content:center;flex-wrap:wrap;gap:12px;margin-top:28px}
+a{color:var(--yellow);border:1px solid var(--yellow);padding:12px;text-decoration:none;font-size:10px;line-height:1.6}
+a:hover{background:var(--yellow);color:#000}
+.small{font-size:9px;color:#999}
 </style>
 </head>
-<body>
-  <header>
-    <div>LEVEL NEXT — DODAJ WĄTEK</div>
-    <div><a class="btn" href="index.html">🏠 HOME</a> <a class="btn" href="daily.html">📰 DAILY</a> <a class="btn" href="forum.html">← FORUM</a></div>
-  </header>
-  <main>
-    <form id="form">
-      <input type="text" id="title" placeholder="Tytuł wątku" required />
-      <textarea id="content" rows="6" placeholder="Treść" required></textarea>
-      <label>Obrazek (opcjonalnie): <input type="file" id="image" accept="image/*" /></label>
-      <button class="btn">OPUBLIKUJ</button>
-      <div style="font-size:.6rem">Dodawać mogą tylko zalogowani. Obrazki lecą do bucketu <i>thread-images</i>.</div>
-    </form>
-  </main>
-
-  <script type="module">
-    import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
-    const SUPABASE_URL = window.SUPABASE_URL || 'https://xxfsvqkvoybdyanmqnpg.supabase.co'
-    const SUPABASE_KEY = window.SUPABASE_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsImlhdCI6MTcwMDAwMDAwMCwiZXhwIjoyMDY5NDg0OTYwfQ.1vzkild4JfMdvViTTJ3IggU6YwclZYbCcmuZ28JtF88'
-    const supabase = createClient(SUPABASE_URL, SUPABASE_KEY)
-
-    async function ensurePublicURL(bucket, path){
-      const { data } = supabase.storage.from(bucket).getPublicUrl(path)
-      return data?.publicUrl
-    }
-
-    document.getElementById('form').addEventListener('submit', async (e)=>{
-      e.preventDefault()
-      const { data: s } = await supabase.auth.getSession()
-      const user = s?.session?.user
-      if(!user){ alert('Zaloguj się, aby dodać wątek.'); return }
-
-      const title = (document.getElementById('title').value||'').trim()
-      const content = (document.getElementById('content').value||'').trim()
-      if(!title || !content) return
-
-      let image_url = null
-      const file = document.getElementById('image').files[0]
-      if(file){
-        const ext = file.name.split('.').pop()
-        const path = `${user.id}/${Date.now()}.${ext}`
-        const { error: upErr } = await supabase.storage.from('thread-images').upload(path, file, { upsert: true })
-        if(upErr){ alert('Błąd uploadu: '+upErr.message); return }
-        image_url = await ensurePublicURL('thread-images', path)
-      }
-
-      // Spróbuj pobrać nick z profilu
-      let nick = null
-      try{
-        const { data: prof } = await supabase.from('profiles').select('display_name').eq('id', user.id).single()
-        nick = prof?.display_name || null
-      }catch{}
-
-      const { data, error } = await supabase.from('threads').insert([{ title, content, image_url, user_id: user.id, nick }]).select()
-      if(error){ alert(error.message); return }
-      const id = data?.[0]?.id
-      if(id) location.href = `post.html?id=${id}`
-    })
-  </script>
-</body>
-</html>
+<body><main>
+<div class="small">LEVEL NEXT // SYSTEM MESSAGE</div>
+<h1>DODAWANIE WĄTKÓW WYŁĄCZONE</h1>
+<p>Ten dział jest chwilowo wyłączony. Wracamy do niego, kiedy będzie gotowy.</p>
+<p class="small">Nie można się teraz rejestrować, publikować postów ani dodawać komentarzy.</p>
+<nav><a href="index.html">← STRONA GŁÓWNA</a><a href="daily.html">DAILY</a><a href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">DISCORD</a></nav>
+</main></body></html>
