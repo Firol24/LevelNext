@@ -27,7 +27,7 @@ jobs:
           python-version: "3.12"
       - name: Generate RSS-only edition (no API key)
         env:
-          FORCE_PUBLISH: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+          FORCE_PUBLISH: ${{ github.event_name != 'schedule' && '1' || '0' }}
         run: python scripts/generate_daily.py
       - name: Publish to GitHub Pages
         if: success()
