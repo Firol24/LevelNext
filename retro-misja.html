@@ -167,7 +167,20 @@
       border-top: 1px dashed var(--yellow);
       grid-column: 1 / -1;
     }
-  </style>
+  
+    @media (max-width: 760px) {
+      .container { grid-template-columns: minmax(0, 1fr); width: 100%; padding: 104px 14px 24px; gap: 12px; }
+      .social-sidebar { left: auto; right: 10px; top: 12px; transform: none; flex-direction: row; gap: 6px; }
+      .social-btn { width: 36px; height: 36px; }
+      .social-btn img { width: 22px; height: 22px; }
+      .logo { top: 10px; left: 10px; width: 110px; }
+      h1 { font-size: clamp(1.7rem, 8vw, 2.8rem); letter-spacing: 1px; }
+      nav { gap: 6px; }
+      nav a { font-size: .72em; padding: 7px 8px; }
+      .content, .news-sidebar { min-width: 0; }
+      .tiktok-embed { max-width: 100%; }
+    }
+</style>
 </head>
 <body>
 <a href="index.html">
