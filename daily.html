@@ -152,6 +152,7 @@
     const date=data.date || data.editionDate;
     if(date){ const d=new Date(date+'T12:00:00'); $('edition-date').textContent='Wydanie z '+d.toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'}); }
     if(data.status==='published') $('edition-status').textContent='WYDANIE OPUBLIKOWANE';
+    else if(data.status==='rss-only') $('edition-status').textContent='RSS / BEZ AI';
     if(data.lead && data.lead.title){
       const lead=$('lead-content'); lead.replaceChildren();
       lead.append(node('span','lead-label',data.lead.category||'Na okładce'),node('h2','',data.lead.title),node('p','',data.lead.summary||''));
