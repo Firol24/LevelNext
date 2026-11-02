@@ -139,6 +139,19 @@ def main():
         "film": None
     }
 
+    # Curated editorial blocks are maintained separately so the RSS job never erases them.
+    editorial_path = ROOT / "data" / "editorial.json"
+    try:
+        editorial = json.loads(editorial_path.read_text(encoding="utf-8"))
+    except Exception as error:
+        print(f"Editorial data warning: {error}", file=sys.stderr)
+        editorial = {}
+    issue["indie"] = editorial.get("indie", [])
+    issue["releases"] = editorial.get("releases", [])
+    issue["cinema"] = editorial.get("cinema", [])
+    issue["film"] = editorial.get("film")
+    issue["editorialUpdatedAt"] = editorial.get("updatedAt", "")
+
     data_dir, archive_dir = ROOT / "data", ROOT / "archive"
     data_dir.mkdir(exist_ok=True)
     archive_dir.mkdir(exist_ok=True)
