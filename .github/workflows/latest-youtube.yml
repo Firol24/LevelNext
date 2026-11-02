@@ -28,7 +28,7 @@ jobs:
         run: python scripts/update_latest_youtube.py
       - name: Publish latest video data
         run: |
-          if git diff --quiet -- data/latest_video.json; then
+          if [ -z "$(git status --porcelain -- data/latest_video.json)" ]; then
             echo "Dane najnowszego filmu są aktualne."
             exit 0
           fi
