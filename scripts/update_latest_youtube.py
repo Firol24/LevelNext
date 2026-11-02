@@ -21,7 +21,7 @@ def local(tag):
 
 def main():
     page = fetch(HANDLE_URL).decode("utf-8", "replace")
-    matches = re.findall(r'"(?:channelId|externalId)"\\s*:\\s*"(UC[A-Za-z0-9_-]{22})"', page)
+    matches = re.findall(r'"(?:channelId|externalId)":"(UC[A-Za-z0-9_-]{22})"', page)
     if not matches:
         matches = re.findall(r'/channel/(UC[A-Za-z0-9_-]{22})', page)
     if not matches:
@@ -53,7 +53,7 @@ def main():
     }
     output = ROOT / "data" / "latest_video.json"
     output.parent.mkdir(exist_ok=True)
-    output.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    output.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Latest video: {title} ({video_id})")
 
 if __name__ == "__main__":
