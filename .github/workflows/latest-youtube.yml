@@ -12,7 +12,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: level-next-latest-youtube
+  group: level-next-social-feed-refresh
   cancel-in-progress: false
 jobs:
   update:
