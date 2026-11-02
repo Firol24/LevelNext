@@ -23,8 +23,6 @@ def main():
     page = fetch(HANDLE_URL).decode("utf-8", "replace")
     matches = re.findall(r'"(?:channelId|externalId)"\s*:\s*"(UC[A-Za-z0-9_-]{22})"', page)
     if not matches:
-    matches = re.findall(r'"(?:channelId|externalId)"\s*:\s*"(UC[A-Za-z0-9_-]{22})"', page)
-    if not matches:
         raise RuntimeError("Nie udało się odczytać ID kanału z publicznej strony YouTube.")
     channel_id = matches[0]
 
