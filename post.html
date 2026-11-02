@@ -17,7 +17,7 @@
     .usercol{ display:flex; flex-direction:column; gap:6px; font-size:.65rem }
     .title{ font-size:.9rem; text-align:center }
     .date{ font-size:.6rem; text-align:right }
-    .content{ margin-top:12px; line-height:1.6 }
+    .content{ margin-top:12px; line-height:1.6; overflow-wrap:anywhere }
     .image{ margin-top:12px; max-width:100%; border:1px solid var(--yellow) }
     .comments{ margin-top:16px; display:flex; flex-direction:column; gap:10px }
     .comment{ display:grid; grid-template-columns:200px 1fr; gap:10px; border:1px solid var(--yellow); padding:10px; background:rgba(0,0,0,.4) }
@@ -54,6 +54,15 @@
     const SUPABASE_KEY = window.SUPABASE_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsImlhdCI6MTcwMDAwMDAwMCwiZXhwIjoyMDY5NDg0OTYwfQ.1vzkild4JfMdvViTTJ3IggU6YwclZYbCcmuZ28JtF88'
     const supabase = createClient(SUPABASE_URL, SUPABASE_KEY)
 
+    // Dane z forum są treścią użytkowników — zawsze traktuj je jako zwykły tekst.
+    const escapeHtml = (value) => String(value ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#39;");
+    const safeImage = (value) => {
+      try {
+        const url = new URL(value, location.href);
+        return ['http:', 'https:'].includes(url.protocol) ? url.href : 'pngegg.png';
+      } catch { return 'pngegg.png'; }
+    };
+
     const postId = Number(new URLSearchParams(location.search).get('id'))
     const postWrap = document.getElementById('postWrap')
     const commentsList = document.getElementById('commentsList')
@@ -80,23 +89,26 @@
       if(error || !data){ postWrap.textContent = 'Nie znaleziono posta.'; return }
       const prof = data.user_id ? await getProfile(data.user_id) : { display_name: data.nick }
       const avg = data.user_id ? await getAvg(data.user_id) : null
-      const avatar = prof?.avatar_url || 'pngegg.png'
-      const name = prof?.display_name || data.nick || 'Anon'
+      const avatar = safeImage(prof?.avatar_url)
+      const name = escapeHtml(prof?.display_name || data.nick || 'Anon')
+      const postTitle = escapeHtml(data.title)
+      const postContent = escapeHtml(data.content).replaceAll('\n', '<br>')
+      const postImage = data.image_url ? safeImage(data.image_url) : ''
       const when = new Date(data.created_at).toLocaleString('pl-PL')
       postWrap.innerHTML = `
         <div class="head">
-          <img class="avatar" src="${avatar}" alt="avatar">
+          <img class="avatar" src="${escapeHtml(avatar)}" alt="avatar">
           <div class="usercol">
             <div><b>${name}</b></div>
             <div>${stars(avg)}</div>
           </div>
           <div style="flex:1"></div>
-          <div class="title">${data.title}</div>
+          <div class="title">${postTitle}</div>
           <div style="flex:1"></div>
           <div class="date">${when}</div>
         </div>
-        <div class="content">${data.content}</div>
-        ${data.image_url ? `<img class="image" src="${data.image_url}" alt="">` : ''}
+        <div class="content">${postContent}</div>
+        ${postImage ? `<img class="image" src="${escapeHtml(postImage)}" alt="" loading="lazy">` : ''}
       `
     }
 
@@ -108,16 +120,17 @@
         const parts = []
         for(const c of data){
           const prof = c.user_id ? await getProfile(c.user_id) : {}
-          const avatar = prof?.avatar_url || 'pngegg.png'
-          const name = prof?.display_name || 'Użytkownik'
+          const avatar = safeImage(prof?.avatar_url)
+          const name = escapeHtml(prof?.display_name || 'Użytkownik')
+          const commentContent = escapeHtml(c.content).replaceAll('\n', '<br>')
           const when = new Date(c.created_at).toLocaleString('pl-PL')
           parts.push(`
             <div class="comment">
               <div style="display:flex; gap:10px; align-items:center">
-                <img class="avatar" src="${avatar}" alt="a">
+                <img class="avatar" src="${escapeHtml(avatar)}" alt="a">
                 <div class="usercol"><div><b>${name}</b></div><div style="font-size:.55rem">${when}</div></div>
               </div>
-              <div class="content">${c.content}</div>
+              <div class="content">${commentContent}</div>
             </div>
           `)
         }
