@@ -1,104 +1,157 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "indie": [
     {
-      "title": "Nocturnal II",
-      "date": "2026-11-10",
+      "title": "Abashed",
+      "date": "2026-11-04",
       "platform": "PC (Steam)",
-      "summary": "Mroczna metroidvania w ręcznie rysowanym mieście Ytash. Ogień rozświetla drogę, a kolejne umiejętności otwierają przejścia i sekrety świata — najmocniejszy typ do obserwowania, jeśli lubisz gęsty klimat.",
-      "sourceUrl": "https://www.gamespress.com/en-US/Flame-wielding-Metroidvania-Nocturnal-2-launches-on-Steam-November-10t"
+      "summary": "Psychologiczna przygodówka 2.5D o człowieku szukającym prawdy o zaginionej partnerce. Pikselowa oprawa, łamigłówki i rzeczywistość, którą można naginać — mocny kandydat dla fanów niepokojących historii.",
+      "sourceUrl": "https://store.steampowered.com/app/3116230/Abashed/"
     },
     {
-      "title": "Hillthorn",
-      "date": "2026-11-10",
-      "platform": "PC, Nintendo Switch, iOS, Android",
-      "summary": "Zapowiadana jako lovecraftowska, pozbawiona słów detektywistyczna przygodówka. Warto mieć na radarze ze względu na tajemnicę i atmosferę, nie tylko samą datę.",
-      "sourceUrl": "https://thegg.net/press-releases/the-dark-card-based-investigation-game-hillthorn-is-coming-to-pc-nintendo-switch-and-mobile-on-november-10th/"
-    },
-    {
-      "title": "Neo Junk City",
+      "title": "Casualties: Unknown",
       "date": "2026-11-09",
-      "platform": "PC",
-      "summary": "Niezależna przygodówka z elementami point-and-click i RPG. Retro-futurystyczny tytuł dla tych, którzy wolą eksplorację i klimat od kolejnego wielkiego open worlda.",
-      "sourceUrl": "https://store.steampowered.com/app/2378230/Neo_Junk_City/"
+      "platform": "PC (Steam)",
+      "summary": "Surowy symulator eksploracji jaskiń na obcej planecie. Schodzenie coraz głębiej łączy się z zarządzaniem obrażeniami, krwawieniem i zasobami — survival bez taryfy ulgowej.",
+      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
     },
     {
-      "title": "Trees Hate You",
-      "date": "2026-11-16",
-      "platform": "PC",
-      "summary": "Niezależna przygodówka z listopadowego kalendarza premier. Tytuł brzmi jak mały, złośliwy chaos — sprawdzimy, czy kryje się za nim coś więcej.",
-      "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/"
+      "title": "Theos: Cities of Myth",
+      "date": "2026-11-04",
+      "platform": "PC (Steam)",
+      "summary": "Indie city-builder inspirowany klasycznymi strategiami ekonomicznymi. Rozwijasz greckie miasto pod patronatem jednego z siedmiu bóstw, dbając o mieszkańców i monumentalne sanktuaria.",
+      "sourceUrl": "https://store.steampowered.com/app/3002130/Theos_Cities_Of_Myth/"
+    },
+    {
+      "title": "Tattie Bogle",
+      "date": "2026-11-11",
+      "platform": "PC (Steam)",
+      "summary": "Folklorystyczny roguelite o zaczarowanym strachu na wróble: za dnia rozwijasz farmę, a po zmroku bronisz jej przed stworami. Można grać solo lub w kooperacji do czterech osób.",
+      "sourceUrl": "https://www.gamespress.com/it/Tattie-Bogle-Launches-November-11th-on-Steam-Demo-Out-Now"
+    },
+    {
+      "title": "DERELIKT",
+      "date": "2026-11-13",
+      "platform": "PC (Steam, GOG, Epic Games Store)",
+      "summary": "Narracyjny FPS w klimacie klaustrofobicznego, kosmicznego horroru ery PS1. Twórcy wprost celują w retro estetykę i lovecraftowski niepokój.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/"
+    },
+    {
+      "title": "Demon Bluff",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Jednoosobowa gra dedukcyjna z demonami ukrytymi wśród mieszkańców wioski. Łączy blef, rozpoznawanie sojuszników i roguelike'ową talię; twórcy potwierdzili listopadowe okno, ale jeszcze bez dnia.",
+      "sourceUrl": "https://store.steampowered.com/app/3522600/"
     }
   ],
   "releases": [
     {
-      "date": "2026-11-10",
-      "title": "Nocturnal II",
+      "date": "2026-11-03",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Remaster arenowej bijatyki kaiju z 2002 roku; Atari potwierdziło premierę na 3 listopada.",
+      "sourceUrl": "https://www.gamespress.com/en-US/Atari-and-Pipeworks-Unleash-Godzilla-Destroy-All-Monsters-Melee-Remast"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Abashed",
       "platform": "PC (Steam)",
       "status": "confirmed",
-      "note": "Mroczna metroidvania; termin ogłoszony przez twórców.",
-      "sourceUrl": "https://www.gamespress.com/en-US/Flame-wielding-Metroidvania-Nocturnal-2-launches-on-Steam-November-10t"
+      "note": "Psychologiczna przygodówka 2.5D; data premiery potwierdzona na karcie Steam i w komunikacie twórcy.",
+      "sourceUrl": "https://store.steampowered.com/app/3116230/Abashed/"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Theos: Cities of Myth",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Strategiczny city-builder w realiach mitologii greckiej; data widnieje na karcie Steam.",
+      "sourceUrl": "https://store.steampowered.com/app/3002130/Theos_Cities_Of_Myth/"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Casualties: Unknown",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Podziemny survival na obcej planecie; termin ogłosili deweloper Orsoniks i wydawca Oro Interactive.",
+      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
     },
     {
       "date": "2026-11-10",
-      "title": "Warhammer Survivors",
-      "platform": "PC, PlayStation, Xbox, Switch",
+      "title": "Ashes of the Singularity II",
+      "platform": "PC (Steam)",
       "status": "confirmed",
-      "note": "Wydawca potwierdza 10 listopada 2026; dostępność platform może różnić się regionalnie.",
-      "sourceUrl": "https://warhammersurvivors.com/news/"
+      "note": "Wielkoskalowa strategia RTS; Stardock ogłosił premierę na 10 listopada 2026.",
+      "sourceUrl": "https://www.gamespress.com/nl/Ashes-of-the-Singularity-II-Launches-November-10-2026"
     },
     {
-      "date": "2026-11-19",
-      "title": "Grand Theft Auto VI",
-      "platform": "PlayStation 5, Xbox Series X|S",
+      "date": "2026-11-11",
+      "title": "Tattie Bogle",
+      "platform": "PC (Steam)",
       "status": "confirmed",
-      "note": "Rockstar potwierdza premierę 19 listopada 2026.",
-      "sourceUrl": "https://www.rockstargames.com/pl/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026"
+      "note": "Folklorystyczny roguelite z obroną farmy; PineFog Studios potwierdziło datę w komunikacie prasowym.",
+      "sourceUrl": "https://www.gamespress.com/it/Tattie-Bogle-Launches-November-11th-on-Steam-Demo-Out-Now"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "DERELIKT",
+      "platform": "PC (Steam, GOG, Epic Games Store)",
+      "status": "confirmed",
+      "note": "Retro FPS science-fiction z atmosferą horroru; deweloper potwierdził premierę na PC 13 listopada.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/"
     }
   ],
   "cinema": [
     {
       "date": "2026-11-06",
-      "title": "Godzilla Minus Zero",
-      "genre": "Sci-fi / kaiju",
-      "summary": "Powrót do świata japońskiej Godzilli po świetnie przyjętym Minus One. Duży ekran i potworny rozmach — zdecydowanie jedna z najciekawszych premier miesiąca.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/godzilla-minus-zero/8389s2r"
+      "title": "Lachtara. Tęsknota",
+      "genre": "Dramat / kino drogi",
+      "summary": "Ojciec i dorosły syn ruszają starym Polonezem z Aten do Wałbrzycha. Podróż przez Europę staje się próbą zmierzenia z rodzinną pamięcią i latami niewypowiedzianych pretensji.",
+      "sourceUrl": "https://www.tvp.info/95625912/premiera-filmu-lachtara-tesknota-opis-oraz-obsada"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Przepis na święta",
+      "genre": "Komedia / familijny",
+      "summary": "Polska świąteczna komedia o bliskości, akceptacji i sekretnym przepisie na prawdziwe relacje. Lekka propozycja na początek listopadowego sezonu.",
+      "sourceUrl": "https://kinoswiat.pl/film/przepis-na-swieta/"
     },
     {
       "date": "2026-11-11",
-      "title": "Victorian Psycho",
-      "genre": "Horror / thriller",
-      "summary": "Guwernantka trafia do posępnej posiadłości Ensor House. Kostiumowy horror z Maiką Monroe i Thomasin McKenzie — pozycja szczególnie warta sprawdzenia dla fanów niepokojącego klimatu.",
-      "sourceUrl": "https://www.filmweb.pl/film/Victorian%2BPsycho-2026-10069378"
+      "title": "Nasza rewolucja",
+      "genre": "Dramat / historyczny",
+      "summary": "Piotr Domalewski opowiada o Jacku i Grażynie Kuroniach oraz ludziach współtworzących drogę Polski do demokracji. Historia prywatnych wyborów spleciona z przełomem politycznym.",
+      "sourceUrl": "https://next-film.pl/2026/06/16/zobacz-plakat-do-filmu-nasza-rewolucja-film-piotra-domalewskiego-o-jacku-i-grazynie-kuroniach/"
     },
     {
       "date": "2026-11-13",
-      "title": "Ebenezer Scrooge. Opowieść wigilijna",
-      "genre": "Fantasy / horror",
-      "summary": "Nowa wersja klasycznej opowieści Dickensa w reżyserii Ti Westa, z Johnnym Deppem i Ianem McKellenem. Świąteczna historia w nieco mroczniejszym wydaniu.",
-      "sourceUrl": "https://paramountglobalcontent.com/title/ebenezer-christmas-carol-a"
+      "title": "Jak obrabować bank",
+      "genre": "Thriller / kryminał / akcja",
+      "summary": "Grupa rabusiów transmituje napady w mediach społecznościowych i szybko przyciąga uwagę FBI. Kryminalna rozgrywka o sławę, pieniądze i coraz większe ryzyko.",
+      "sourceUrl": "https://www.filmweb.pl/film/Jak%2Bobrabowa%C4%87%2Bbank-2026-10104752"
     },
     {
       "date": "2026-11-20",
-      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-      "genre": "Sci-fi / akcja",
-      "summary": "Prequel skupiony na młodym Haymitchu i Głodowych Igrzyskach rozgrywających się wiele lat przed historią Katniss.",
-      "sourceUrl": "https://www.filmweb.pl/film/Igrzyska%2B%C5%9Bmierci%3A%2BWsch%C3%B3d%2Bs%C5%82o%C5%84ca%2Bw%2Bdniu%2Bdo%C5%BCynek-2026-10077927"
+      "title": "Jestem Rocky",
+      "genre": "Biograficzny / dramat",
+      "summary": "Kulisy powstania „Rocky’ego”: nieznany Sylvester Stallone ryzykuje karierę i przyszłość, by zagrać bohatera, którego sam wymyślił. Historia uporu stojącego za narodzinami filmowej legendy.",
+      "sourceUrl": "https://kinoswiat.pl/film/jestem-rocky/"
     },
     {
       "date": "2026-11-27",
-      "title": "Papierowy tygrys",
-      "genre": "Dramat / kryminał",
-      "summary": "James Gray wraca z historią dwóch braci wplątanych w niebezpieczny interes. Propozycja dla widzów szukających cięższego, kryminalnego kina.",
-      "sourceUrl": "https://helios.pl/filmy/papierowy-tygrys-4757"
+      "title": "Violetta Villas",
+      "genre": "Dramat biograficzny",
+      "summary": "Portret polskiej divy opowiedziany z perspektywy jej syna — świadka narodzin wielkiej kariery i jej osobistych kosztów. W roli tytułowej Sandra Drzymalska.",
+      "sourceUrl": "https://kinoswiat.pl/film/violetta-villas/"
     }
   ],
   "film": {
-    "title": "Ciche miejsce",
-    "year": "2018",
-    "platform": "Disney+",
-    "summary": "Rodzina próbuje przetrwać w świecie, w którym najmniejszy dźwięk może sprowadzić śmiertelne niebezpieczeństwo. Oszczędny, napięty horror z pomysłem na ciszę jako źródło grozy — dobry seans na wieczór.",
-    "availabilityNote": "Dodany do polskiej oferty 1 listopada 2026; dostępność subskrypcyjna według zapowiedzi Disney+.",
-    "availabilityUrl": "https://press.disney.pl/aktualnosci/listopad-disney%2B-premiery-seriale-filmy-2026"
+    "title": "Bulbbul",
+    "year": "2020",
+    "platform": "Netflix",
+    "summary": "W bengalskiej wiosce dochodzi do nadnaturalnych zbrodni, a tajemnicza kobieta skrywa bolesną przeszłość. Gotycki horror folklorystyczny, który buduje grozę atmosferą, obrazem i opowieścią o zemście.",
+    "availabilityNote": "JustWatch potwierdził dostępność w polskim Netflixie 23 października 2026; film ma też aktywną kartę w polskim katalogu Netflix.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/bulbbul"
   }
 }
