@@ -74,7 +74,13 @@
     @media(max-width:760px){.row{grid-template-columns:1fr;gap:8px}.title{text-align:left;white-space:normal;overflow-wrap:anywhere}.meta{text-align:left}.bar{align-items:flex-start;flex-direction:column}.auth{flex-wrap:wrap}.brand .t{font-size:.75rem}}
     .profile { display:flex; align-items:center; gap:10px }
     .profile img { width:28px; height:28px; border:1px solid var(--yellow); object-fit:cover }
-  </style>
+  
+    @media (max-width: 650px) {
+      header { align-items: flex-start; flex-wrap: wrap; gap: 10px; }
+      .auth { flex-wrap: wrap; }
+      main { padding: 12px 8px; }
+    }
+</style>
 </head>
 <body>
   <div class="grid-overlay"></div>
