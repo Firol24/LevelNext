@@ -71,6 +71,7 @@
       width: 100%; padding: 10px; margin: 6px 0; background:#000; color:var(--yellow); border:1px solid var(--yellow); font-family:'Press Start 2P', monospace; font-size:.65rem
     }
     .hint { font-size:.55rem; opacity:.85 }
+    @media(max-width:760px){.row{grid-template-columns:1fr;gap:8px}.title{text-align:left;white-space:normal;overflow-wrap:anywhere}.meta{text-align:left}.bar{align-items:flex-start;flex-direction:column}.auth{flex-wrap:wrap}.brand .t{font-size:.75rem}}
     .profile { display:flex; align-items:center; gap:10px }
     .profile img { width:28px; height:28px; border:1px solid var(--yellow); object-fit:cover }
   </style>
@@ -91,7 +92,7 @@
   <main>
     <div class="bar">
       <div class="hint">Wątki najnowsze na górze</div>
-      <a href="dodaj.html" class="btn new">➕ DODAJ WĄTEK</a>
+      <div style="display:flex;gap:8px;flex-wrap:wrap"><a href="daily.html" class="btn new">📰 DAILY</a><a href="dodaj.html" class="btn new">➕ DODAJ WĄTEK</a></div>
     </div>
     <div class="list" id="threadsList"></div>
   </main>
@@ -136,6 +137,8 @@
     const loginBtn = document.getElementById('loginBtn')
     const signupBtn = document.getElementById('signupBtn')
 
+    const escapeHtml = (value) => String(value ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#39;");
+    const safeImage = (value) => { try { const u = new URL(value, location.href); return ['http:','https:'].includes(u.protocol) ? u.href : 'pngegg.png'; } catch { return 'pngegg.png'; } };
     let authMode = 'login'
 
     loginBtn.addEventListener('click', () => {
@@ -216,8 +219,8 @@
       for (const th of (data || [])) {
         const prof = th.user_id ? await getProfile(th.user_id) : { display_name: th.nick }
         const avg = th.user_id ? await getAvgRating(th.user_id) : null
-        const avatar = prof?.avatar_url || 'pngegg.png'
-        const name = prof?.display_name || th.nick || 'Anon'
+        const avatar = safeImage(prof?.avatar_url)
+        const name = escapeHtml(prof?.display_name || th.nick || 'Anon')
         const when = new Date(th.created_at).toLocaleString('pl-PL')
         rows.push(`
           <a class="row" href="post.html?id=${th.id}">
@@ -228,7 +231,7 @@
                 <div class="stars">${avg ? starString(avg) : '☆☆☆☆☆'}</div>
               </div>
             </div>
-            <div class="title">${th.title}</div>
+            <div class="title">${escapeHtml(th.title)}</div>
             <div class="meta">${when}</div>
           </a>
         `)
@@ -249,8 +252,8 @@
       } else {
         // pobierz profil
         const prof = await getProfile(user.id)
-        const avatar = prof?.avatar_url || 'pngegg.png'
-        const name = prof?.display_name || user.email
+        const avatar = safeImage(prof?.avatar_url)
+        const name = escapeHtml(prof?.display_name || user.email)
         authBar.innerHTML = `
           <div class="profile">
             <img src="${avatar}" alt="me" />

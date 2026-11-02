@@ -1,0 +1,44 @@
+name: LEVEL NEXT DAILY — daily edition
+on:
+  workflow_dispatch:
+  schedule:
+    # Summer: 06:00 UTC = 08:00 Warsaw; winter: 07:00 UTC = 08:00 Warsaw.
+    - cron: "0 6,7 * * *"
+permissions:
+  contents: write
+concurrency:
+  group: level-next-daily-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate today's edition
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-6' }}
+          FORCE_PUBLISH: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::notice::Brak OPENAI_API_KEY. Dodaj sekret repozytorium, aby włączyć automatyczne wydania."
+            exit 0
+          fi
+          python scripts/generate_daily.py
+      - name: Publish to GitHub Pages
+        if: success()
+        run: |
+          if git diff --quiet; then
+            echo "Brak zmian do opublikowania."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/daily.json archive/
+          git commit -m "Publish LEVEL NEXT DAILY edition"
+          git push

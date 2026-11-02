@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#16002d">
+  <meta name="description" content="LEVEL NEXT DAILY — cyfrowa gazeta o grach, retro, indie i popkulturze.">
+  <title>LEVEL NEXT DAILY — Cyfrowe wydanie</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{--ink:#100b17;--night:#08040e;--purple:#6a0dad;--deep:#260044;--yellow:#fff200;--paper:#f1eedf;--paper2:#e7e1ce;--muted:#655d69;--line:#c9c0a9;--mono:'IBM Plex Mono',monospace;--sans:'Space Grotesk',sans-serif;--serif:'DM Serif Display',Georgia,serif}
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;background:radial-gradient(ellipse at 50% -10%,#341052 0,var(--night) 52%);color:var(--paper);font-family:var(--sans);min-height:100vh}
+    a{color:inherit}
+    .masthead{max-width:1240px;margin:auto;padding:20px 28px 0}
+    .topline{display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px solid rgba(255,242,0,.45);padding-bottom:13px;font:11px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:#d9cbe8}
+    .brand{display:flex;align-items:center;gap:12px;text-decoration:none}
+    .brand img{width:48px;height:48px;object-fit:contain;filter:drop-shadow(0 0 8px rgba(255,242,0,.35))}
+    .brand strong{font:700 14px var(--mono);color:var(--yellow);letter-spacing:.08em}
+    .brand span{display:block;color:#bba5d0;font:9px var(--mono);margin-top:4px}
+    .toplinks{display:flex;gap:18px;flex-wrap:wrap}
+    .toplinks a{text-decoration:none;color:#e6dced}
+    .toplinks a:hover{color:var(--yellow)}
+    .paper{max-width:1180px;margin:26px auto 70px;background:var(--paper);color:var(--ink);box-shadow:0 18px 70px #0009;border-top:7px solid var(--yellow);position:relative;overflow:hidden}
+    .paper:before{content:"";position:absolute;inset:0;pointer-events:none;opacity:.18;background-image:radial-gradient(#6d5a3a .55px,transparent .55px);background-size:5px 5px}
+    .paper-inner{position:relative;padding:clamp(18px,4vw,44px)}
+    .edition-line{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-bottom:12px;border-bottom:1px solid var(--ink);font:10px var(--mono);text-transform:uppercase;letter-spacing:.1em}
+    .edition-line span:last-child{color:var(--purple);font-weight:700}
+    .title-row{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;padding:20px 0 15px;border-bottom:4px double var(--ink)}
+    .title-row h1{margin:0;font:clamp(40px,8vw,92px)/.86 var(--serif);letter-spacing:-.055em}
+    .title-row h1 span{color:var(--purple)}
+    .title-side{max-width:205px;text-align:right;font:11px/1.55 var(--mono);text-transform:uppercase;color:var(--muted)}
+    .dek{font:15px/1.5 var(--sans);max-width:700px;margin:16px 0 0;color:#413947}
+    .ticker{margin:20px 0 26px;background:var(--deep);color:var(--yellow);overflow:hidden;border:1px solid var(--purple);font:10px var(--mono);letter-spacing:.1em;text-transform:uppercase}
+    .ticker-track{display:flex;gap:34px;width:max-content;padding:9px 0;animation:ticker 32s linear infinite}
+    .ticker-track span{white-space:nowrap}
+    @keyframes ticker{to{transform:translateX(-50%)}}
+    .section-kicker{display:flex;align-items:center;gap:10px;margin:0 0 14px;font:700 11px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--purple)}
+    .section-kicker:after{content:"";height:1px;background:var(--line);flex:1}
+    .lead-grid{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(230px,.8fr);gap:28px;padding-bottom:28px;border-bottom:1px solid var(--line)}
+    .lead{min-width:0}
+    .lead-label,.tag{display:inline-block;background:var(--yellow);color:var(--ink);padding:5px 8px;font:700 9px var(--mono);letter-spacing:.08em;text-transform:uppercase}
+    .lead h2{font:clamp(30px,4.6vw,54px)/.98 var(--serif);letter-spacing:-.025em;margin:14px 0 12px}
+    .lead p{font:16px/1.6 var(--sans);color:#49414c;margin:0 0 15px;max-width:760px}
+    .read-link{display:inline-flex;gap:8px;align-items:center;color:var(--purple);font:700 11px var(--mono);text-transform:uppercase;text-decoration:none;border-bottom:1px solid var(--purple);padding-bottom:4px}
+    .read-link:hover{color:#3b0065}
+    .side-note{border-left:1px solid var(--line);padding-left:22px}
+    .side-note h3{font:24px/1.05 var(--serif);margin:0 0 10px}
+    .side-note p{font:13px/1.55 var(--sans);color:#544c56}
+    .stamp{display:inline-block;border:2px solid var(--purple);color:var(--purple);padding:7px 10px;font:700 10px var(--mono);text-transform:uppercase;transform:rotate(-3deg);margin-top:8px}
+    .columns{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(260px,.8fr);gap:30px;padding-top:28px}
+    .news-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 20px}
+    .story{padding:15px 0;border-top:1px solid var(--line);min-width:0}
+    .story h3{font:22px/1.08 var(--serif);margin:9px 0}
+    .story p{font:13px/1.55 var(--sans);color:#554d57;margin:0 0 10px}
+    .story-meta{font:9px var(--mono);color:var(--muted);text-transform:uppercase}
+    .side-section{border-top:4px solid var(--ink);padding-top:12px;margin-bottom:26px}
+    .side-section h2{font:27px var(--serif);margin:0 0 14px}
+    .indie-item,.release-item{padding:12px 0;border-top:1px solid var(--line)}
+    .indie-item h3,.release-item h3{font:19px/1.1 var(--serif);margin:7px 0}
+    .indie-item p,.release-item p{font:12px/1.5 var(--sans);color:#554d57;margin:0}
+    .release-date{font:700 10px var(--mono);color:var(--purple);text-transform:uppercase}
+    .film-box{background:var(--deep);color:var(--paper);padding:18px;position:relative}
+    .film-box .tag{background:var(--yellow)}
+    .film-box h3{font:29px/1 var(--serif);margin:12px 0 8px}
+    .film-box p{font:12px/1.5 var(--sans);color:#e0d5e8}
+    .film-box a{color:var(--yellow);font:10px var(--mono);text-transform:uppercase}
+    .empty{padding:18px;border:1px dashed #a89db0;color:#655d69;font:12px/1.6 var(--mono);background:#fff9}
+    .archive{margin-top:34px;padding-top:18px;border-top:4px double var(--ink)}
+    .archive-list{display:flex;gap:10px;flex-wrap:wrap}
+    .archive-list a{display:block;padding:9px 12px;border:1px solid var(--line);color:var(--purple);font:10px var(--mono);text-decoration:none}
+    .archive-list a:hover{background:var(--yellow);border-color:var(--yellow)}
+    .searchbar{display:flex;gap:8px;align-items:center;margin:0 0 14px}
+    .searchbar input{width:100%;padding:11px 12px;border:1px solid var(--line);background:#fff9;color:var(--ink);font:12px var(--mono);outline-offset:2px}
+    .searchbar input:focus{outline:2px solid var(--purple)}
+    .footer{max-width:1180px;margin:-45px auto 30px;text-align:center;color:#9b89a8;font:10px/1.6 var(--mono);letter-spacing:.08em}
+    .footer a{color:var(--yellow);text-decoration:none}
+    .error{color:#8a1a34}
+    .hidden{display:none!important}
+    @media(max-width:780px){.masthead{padding:14px 14px 0}.topline{align-items:flex-start}.toplinks{gap:10px;font-size:9px}.paper{margin:16px 10px 60px}.title-row{align-items:flex-start;flex-direction:column}.title-side{text-align:left;max-width:none}.lead-grid,.columns{grid-template-columns:1fr}.side-note{border-left:0;border-top:1px solid var(--line);padding:16px 0 0}.news-list{grid-template-columns:1fr}.paper-inner{padding:20px}.ticker{margin:15px 0 20px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.ticker-track{animation:none}*{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+  </style>
+</head>
+<body>
+  <header class="masthead">
+    <div class="topline">
+      <a class="brand" href="index.html"><img src="logo.png" alt=""><span><strong>LEVEL NEXT</strong><span>RETRO GAMING CHANNEL</span></span></a>
+      <nav class="toplinks" aria-label="Nawigacja"><a href="index.html">Strona główna</a><a href="forum.html">Forum</a><a href="sprzet.html">Sprzęt</a></nav>
+    </div>
+  </header>
+  <main class="paper">
+    <div class="paper-inner">
+      <div class="edition-line"><span id="edition-date">Wydanie cyfrowe · codziennie</span><span id="edition-status">Redakcja online</span></div>
+      <div class="title-row">
+        <h1>LEVEL NEXT<br><span>DAILY</span></h1>
+        <div class="title-side">Gry. Kultura. Technologie.<br>Bez szumu. Bez clickbaitów.<br><span style="color:var(--purple)">Wydanie dla graczy.</span></div>
+      </div>
+      <p class="dek">Codzienny przegląd świata gier i popkultury. Najważniejsze informacje, niezależne perełki, premiery i film na wieczór — wybrane, nie wyplute przez algorytm.</p>
+      <div class="ticker" aria-label="Pasek informacyjny"><div class="ticker-track"><span>LEVEL NEXT DAILY ✦ WIADOMOŚCI ✦ INDIE RADAR ✦ PREMIERY ✦ FILM DNIA ✦</span><span>LEVEL NEXT DAILY ✦ WIADOMOŚCI ✦ INDIE RADAR ✦ PREMIERY ✦ FILM DNIA ✦</span></div></div>
+      <section class="lead-grid">
+        <article class="lead">
+          <div class="section-kicker">Temat wydania</div>
+          <div id="lead-content"><div class="empty">Pierwsze wydanie jest w przygotowaniu. Redakcja zbiera świeże wiadomości — wróć po publikacji pierwszego numeru.</div></div>
+        </article>
+        <aside class="side-note">
+          <div class="section-kicker">Od redakcji</div>
+          <h3>Więcej konkretów. Mniej scrollowania.</h3>
+          <p id="editor-note">LEVEL NEXT DAILY stawia na selekcję, źródła i klimat starej cyfrowej prasy. Każdy tekst prowadzi do oryginalnego materiału.</p>
+          <div class="stamp">PRESS START</div>
+        </aside>
+      </section>
+      <div class="columns">
+        <section>
+          <div class="section-kicker">01 / Wiadomości</div>
+          <div class="searchbar"><input id="news-search" type="search" placeholder="Szukaj w dzisiejszym wydaniu…" aria-label="Szukaj w wydaniu"></div>
+          <div id="news-list" class="news-list"><div class="empty">Brak opublikowanych wiadomości.</div></div>
+        </section>
+        <aside>
+          <section class="side-section"><div class="section-kicker">02 / Indie Radar</div><div id="indie-list"><div class="empty">Indie Radar pojawi się w pierwszym wydaniu.</div></div></section>
+          <section class="side-section"><div class="section-kicker">03 / Kalendarz premier</div><div id="release-list"><div class="empty">Daty premier będą publikowane z oznaczeniem, czy są potwierdzone.</div></div></section>
+          <section class="side-section"><div class="section-kicker">04 / Film dnia</div><div id="film-box" class="empty">Film dnia pojawi się wyłącznie wtedy, gdy uda się potwierdzić dostępność w polskiej subskrypcji.</div></section>
+        </aside>
+      </div>
+      <section class="archive">
+        <div class="section-kicker">Archiwum wydań</div>
+        <div id="archive-list" class="archive-list"><span class="story-meta">Archiwum będzie rosnąć wraz z kolejnymi numerami.</span></div>
+      </section>
+    </div>
+  </main>
+  <footer class="footer">LEVEL NEXT DAILY · CZĘŚĆ PROJEKTU <a href="index.html">LEVEL NEXT</a><br>Treści są aktualizowane automatycznie. Sprawdzaj źródła przed dalszym udostępnianiem.</footer>
+<script>
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const safeUrl = (value) => { try { const u = new URL(value); return ['https:','http:'].includes(u.protocol) ? u.href : ''; } catch { return ''; } };
+  const node = (tag, cls, text) => { const el=document.createElement(tag); if(cls) el.className=cls; if(text!==undefined) el.textContent=String(text); return el; };
+  const link = (url, label, cls='read-link') => { const href=safeUrl(url); if(!href) return null; const a=node('a',cls,label); a.href=href; a.target='_blank'; a.rel='noopener noreferrer'; return a; };
+  const empty = (target, message) => { target.replaceChildren(node('div','empty',message)); };
+  function renderStory(item) {
+    const article=node('article','story');
+    if(item.category) article.append(node('span','tag',item.category));
+    article.append(node('h3','',item.title||'Bez tytułu'));
+    article.append(node('p','',item.summary||''));
+    const meta=node('div','story-meta',[item.sourceName,item.publishedAt].filter(Boolean).join(' · '));
+    article.append(meta);
+    const a=link(item.sourceUrl,'Czytaj źródło ↗'); if(a) article.append(a);
+    return article;
+  }
+  function render(data) {
+    const date=data.date || data.editionDate;
+    if(date){ const d=new Date(date+'T12:00:00'); $('edition-date').textContent='Wydanie z '+d.toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'}); }
+    if(data.status==='published') $('edition-status').textContent='WYDANIE OPUBLIKOWANE';
+    if(data.lead && data.lead.title){
+      const lead=$('lead-content'); lead.replaceChildren();
+      lead.append(node('span','lead-label',data.lead.category||'Na okładce'),node('h2','',data.lead.title),node('p','',data.lead.summary||''));
+      const a=link(data.lead.sourceUrl,'Czytaj materiał ↗'); if(a) lead.append(a);
+    }
+    if(data.editorNote) $('editor-note').textContent=data.editorNote;
+    const news=$('news-list');
+    if(Array.isArray(data.news)&&data.news.length) news.replaceChildren(...data.news.map(renderStory));
+    const indie=$('indie-list');
+    if(Array.isArray(data.indie)&&data.indie.length){ indie.replaceChildren(...data.indie.map(item=>{const el=node('article','indie-item');el.append(node('span','tag','INDIE RADAR'),node('h3','',item.title),node('p','',item.summary||''));const a=link(item.sourceUrl,'Sprawdź grę ↗');if(a)el.append(a);return el;}));}
+    const releases=$('release-list');
+    if(Array.isArray(data.releases)&&data.releases.length){ releases.replaceChildren(...data.releases.map(item=>{const el=node('article','release-item');el.append(node('div','release-date',(item.date||'Data nieustalona')+' · '+(item.status==='confirmed'?'POTWIERDZONA':'NIEPOTWIERDZONA')),node('h3','',item.title),node('p','',[item.platform,item.note].filter(Boolean).join(' — ')));const a=link(item.sourceUrl,'Źródło daty ↗');if(a)el.append(a);return el;}));}
+    const film=$('film-box');
+    if(data.film && data.film.title && data.film.platform){film.className='film-box';film.replaceChildren(node('span','tag','FILM DNIA'),node('h3','',data.film.title+(data.film.year?' ('+data.film.year+')':'')),node('p','',data.film.summary||''),node('p','', 'Dostępność: '+data.film.platform+' · '+(data.film.availabilityNote||'Zweryfikowano dla Polski')));const a=link(data.film.availabilityUrl,'Sprawdź dostępność ↗','');if(a)film.append(a);}
+    const search=$('news-search');
+    search.addEventListener('input',()=>{const q=search.value.trim().toLocaleLowerCase('pl');[...news.children].forEach(el=>el.classList.toggle('hidden',!el.textContent.toLocaleLowerCase('pl').includes(q)));},{once:false});
+  }
+  async function load(){
+    try{
+      const response=await fetch('data/daily.json?ts='+Date.now(),{cache:'no-store'});
+      if(!response.ok) throw new Error('Nie udało się pobrać wydania.');
+      const data=await response.json(); render(data);
+    }catch(error){ $('edition-status').textContent='TRYB OFFLINE'; $('lead-content').replaceChildren(node('div','empty error',error.message+' Spróbuj odświeżyć stronę później.')); }
+    try{
+      const response=await fetch('archive/index.json?ts='+Date.now(),{cache:'no-store'});
+      if(response.ok){const archive=await response.json();if(Array.isArray(archive.editions)&&archive.editions.length){const list=$('archive-list');list.replaceChildren(...archive.editions.slice(0,12).map(item=>{const a=node('a','',item.date+' · '+(item.headline||'Wydanie'));a.href=item.path;return a;}));}}
+    }catch{}
+  }
+  load();
+})();
+</script>
+</body>
+</html>
