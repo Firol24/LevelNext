@@ -33,7 +33,7 @@ def clean_html(value):
         value = " ".join(parser.parts)
     except Exception:
         pass
-    return re.sub(r"\\s+", " ", value or "").strip()[:700]
+    return re.sub(r"\s+", " ", value or "").strip()[:700]
 
 def local_name(tag):
     return tag.rsplit("}", 1)[-1].lower()
