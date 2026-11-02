@@ -92,6 +92,12 @@ def main():
     now = datetime.now(WARSAW)
     force = __import__("os").environ.get("FORCE_PUBLISH") == "1"
     issue_date = now.date().isoformat()
+    editorial_path = ROOT / "data" / "editorial.json"
+    try:
+        editorial = json.loads(editorial_path.read_text(encoding="utf-8"))
+    except Exception as error:
+        print(f"Editorial data warning: {error}", file=sys.stderr)
+        editorial = {}
     if not force and now.hour < 8:
         print(f"Pominięto uruchomienie o {now:%H:%M}; wydanie powstaje od 08:00.")
         return
@@ -100,7 +106,9 @@ def main():
     if not force:
         try:
             current = json.loads(current_path.read_text(encoding="utf-8"))
-            if current.get("date") == issue_date and current.get("status") in ("published", "rss-only"):
+            if (current.get("date") == issue_date
+                    and current.get("status") in ("published", "rss-only")
+                    and current.get("editorialUpdatedAt") == editorial.get("updatedAt", "")):
                 print(f"Wydanie {issue_date} już istnieje — pomijam duplikat.")
                 return
         except Exception:
@@ -140,12 +148,6 @@ def main():
     }
 
     # Curated editorial blocks are maintained separately so the RSS job never erases them.
-    editorial_path = ROOT / "data" / "editorial.json"
-    try:
-        editorial = json.loads(editorial_path.read_text(encoding="utf-8"))
-    except Exception as error:
-        print(f"Editorial data warning: {error}", file=sys.stderr)
-        editorial = {}
     issue["indie"] = editorial.get("indie", [])
     issue["releases"] = editorial.get("releases", [])
     issue["cinema"] = editorial.get("cinema", [])
