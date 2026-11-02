@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Build a free, RSS-only LEVEL NEXT DAILY issue (no API keys required)."""
+import hashlib
 import json
 import re
 import sys
@@ -103,12 +104,15 @@ def main():
         return
 
     current_path = ROOT / "data" / "daily.json"
+    editorial_hash = hashlib.sha256(
+        json.dumps(editorial, ensure_ascii=False, sort_keys=True).encode("utf-8")
+    ).hexdigest()
     if not force:
         try:
             current = json.loads(current_path.read_text(encoding="utf-8"))
             if (current.get("date") == issue_date
                     and current.get("status") in ("published", "rss-only")
-                    and current.get("editorialUpdatedAt") == editorial.get("updatedAt", "")):
+                    and current.get("editorialHash") == editorial_hash):
                 print(f"Wydanie {issue_date} już istnieje — pomijam duplikat.")
                 return
         except Exception:
@@ -153,6 +157,7 @@ def main():
     issue["cinema"] = editorial.get("cinema", [])
     issue["film"] = editorial.get("film")
     issue["editorialUpdatedAt"] = editorial.get("updatedAt", "")
+    issue["editorialHash"] = editorial_hash
 
     data_dir, archive_dir = ROOT / "data", ROOT / "archive"
     data_dir.mkdir(exist_ok=True)
