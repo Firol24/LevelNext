@@ -20,6 +20,16 @@ def fetch(url):
 def local(tag):
     return tag.rsplit("}", 1)[-1]
 
+def is_short(video_id):
+    # Ordinary videos redirect away from /shorts/<id>; Shorts stay there.
+    request = urllib.request.Request(
+        f"https://www.youtube.com/shorts/{video_id}",
+        headers=HEADERS,
+    )
+    with urllib.request.urlopen(request, timeout=30) as response:
+        final_url = response.geturl()
+    return "/shorts/" in final_url
+
 def main():
     page = fetch(HANDLE_URL).decode("utf-8", "replace")
     matches = re.findall(r'"(?:channelId|externalId)"\s*:\s*"(UC[A-Za-z0-9_-]{22})"', page)
@@ -33,14 +43,31 @@ def main():
     if not entries:
         raise RuntimeError("Kanałowy RSS YouTube nie zawiera żadnych filmów.")
 
-    entry = entries[0]
     fields = {}
-    for node in entry:
-        fields[local(node.tag)] = (node.text or "").strip()
+    entry = None
+    for candidate in entries:
+        candidate_fields = {}
+        for node in candidate:
+            candidate_fields[local(node.tag)] = (node.text or "").strip()
+        candidate_id = candidate_fields.get("videoId", "")
+        if not candidate_id:
+            continue
+        try:
+            if is_short(candidate_id):
+                print("Skipping YouTube Short: " + candidate_fields.get("title", candidate_id))
+                continue
+        except Exception as error:
+            # Fail closed: never publish a candidate whose format could not be checked.
+            print(f"Could not verify video format for {candidate_id}: {error}", file=sys.stderr)
+            continue
+        fields = candidate_fields
+        entry = candidate
+        break
+
+    if entry is None:
+        raise RuntimeError("Nie znaleziono zwykłego filmu w najnowszych wpisach RSS (Shortsy są pomijane).")
     video_id = fields.get("videoId", "")
     title = fields.get("title", "")
-    if not video_id:
-        raise RuntimeError("Najnowszy wpis RSS nie zawiera ID filmu.")
 
     result = {
         "channelId": channel_id,
