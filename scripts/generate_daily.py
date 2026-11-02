@@ -148,10 +148,19 @@ def safe_url(value):
 def main():
     now = datetime.now(WARSAW)
     force = os.environ.get("FORCE_PUBLISH") == "1"
-    if not force and now.hour != 8:
-        print(f"Pominięto uruchomienie o {now:%H:%M} czasu polskiego; wydanie powstaje o 08:00.")
-        return
     issue_date = now.date().isoformat()
+    if not force and now.hour < 8:
+        print(f"Pominięto uruchomienie o {now:%H:%M} czasu polskiego; wydanie powstaje od 08:00.")
+        return
+    if not force:
+        current_path = ROOT / "data" / "daily.json"
+        try:
+            current = json.loads(current_path.read_text(encoding="utf-8"))
+            if current.get("date") == issue_date and current.get("status") == "published":
+                print(f"Wydanie {issue_date} jest już opublikowane — pomijam duplikat.")
+                return
+        except Exception:
+            pass
     articles = []
     seen = set()
     for name, url in FEEDS:
