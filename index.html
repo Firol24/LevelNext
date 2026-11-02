@@ -370,7 +370,7 @@
       return response.json();
     })
     .then(video => {
-      if (!/^\\d+$/.test(String(video.videoId || ''))) throw new Error('Nieprawidłowe ID TikToka');
+      if (!/^\d+$/.test(String(video.videoId || ''))) throw new Error('Nieprawidłowe ID TikToka');
       const frame = document.createElement('iframe');
       frame.src = 'https://www.tiktok.com/player/v1/' + encodeURIComponent(video.videoId) + '?controls=1&description=1&music_info=1';
       frame.title = video.title || 'Najnowszy TikTok @tu_firol';
