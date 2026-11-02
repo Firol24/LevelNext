@@ -142,7 +142,7 @@ def main():
     data_dir, archive_dir = ROOT / "data", ROOT / "archive"
     data_dir.mkdir(exist_ok=True)
     archive_dir.mkdir(exist_ok=True)
-    serialized = json.dumps(issue, ensure_ascii=False, indent=2) + "\\n"
+    serialized = json.dumps(issue, ensure_ascii=False, indent=2) + "\n"
     (data_dir / "daily.json").write_text(serialized, encoding="utf-8")
     (archive_dir / f"{issue_date}.json").write_text(serialized, encoding="utf-8")
 
