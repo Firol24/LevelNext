@@ -11,23 +11,23 @@
     {
       "title": "Hillthorn",
       "date": "2026-11-10",
-      "platform": "PC",
+      "platform": "PC, Nintendo Switch, iOS, Android",
       "summary": "Zapowiadana jako lovecraftowska, pozbawiona słów detektywistyczna przygodówka. Warto mieć na radarze ze względu na tajemnicę i atmosferę, nie tylko samą datę.",
-      "sourceUrl": "https://www.gamesradar.com/upcoming-indie-games/"
+      "sourceUrl": "https://thegg.net/press-releases/the-dark-card-based-investigation-game-hillthorn-is-coming-to-pc-nintendo-switch-and-mobile-on-november-10th/"
     },
     {
       "title": "Neo Junk City",
       "date": "2026-11-09",
       "platform": "PC",
       "summary": "Niezależna przygodówka z elementami point-and-click i RPG. Retro-futurystyczny tytuł dla tych, którzy wolą eksplorację i klimat od kolejnego wielkiego open worlda.",
-      "sourceUrl": "https://pcgamesguide.co.uk/release-dates/2026/november/"
+      "sourceUrl": "https://store.steampowered.com/app/2378230/Neo_Junk_City/"
     },
     {
       "title": "Trees Hate You",
       "date": "2026-11-16",
       "platform": "PC",
       "summary": "Niezależna przygodówka z listopadowego kalendarza premier. Tytuł brzmi jak mały, złośliwy chaos — sprawdzimy, czy kryje się za nim coś więcej.",
-      "sourceUrl": "https://whatoplay.com/upcoming/indie/"
+      "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/"
     }
   ],
   "releases": [
@@ -43,17 +43,17 @@
       "date": "2026-11-10",
       "title": "Warhammer Survivors",
       "platform": "PC, PlayStation, Xbox, Switch",
-      "status": "listed",
-      "note": "Premiera widnieje w aktualnych kalendarzach branżowych; sprawdź sklep przed zakupem.",
-      "sourceUrl": "https://pcgamesguide.co.uk/release-dates/2026/november/"
+      "status": "confirmed",
+      "note": "Wydawca potwierdza 10 listopada 2026; dostępność platform może różnić się regionalnie.",
+      "sourceUrl": "https://warhammersurvivors.com/news/"
     },
     {
       "date": "2026-11-19",
       "title": "Grand Theft Auto VI",
       "platform": "PlayStation 5, Xbox Series X|S",
-      "status": "listed",
-      "note": "Termin podawany w aktualnych kalendarzach premier; daty gier mogą ulec zmianie.",
-      "sourceUrl": "https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/"
+      "status": "confirmed",
+      "note": "Rockstar potwierdza premierę 19 listopada 2026.",
+      "sourceUrl": "https://www.rockstargames.com/pl/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026"
     }
   ],
   "cinema": [
@@ -83,14 +83,14 @@
       "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
       "genre": "Sci-fi / akcja",
       "summary": "Prequel skupiony na młodym Haymitchu i Głodowych Igrzyskach rozgrywających się wiele lat przed historią Katniss.",
-      "sourceUrl": "https://www.ebilet.pl/now/premiery-filmowe-listopad-na-co-isc-do-kina-w-najblizszym-czasie/"
+      "sourceUrl": "https://www.filmweb.pl/film/Igrzyska%2B%C5%9Bmierci%3A%2BWsch%C3%B3d%2Bs%C5%82o%C5%84ca%2Bw%2Bdniu%2Bdo%C5%BCynek-2026-10077927"
     },
     {
       "date": "2026-11-27",
       "title": "Papierowy tygrys",
       "genre": "Dramat / kryminał",
       "summary": "James Gray wraca z historią dwóch braci wplątanych w niebezpieczny interes. Propozycja dla widzów szukających cięższego, kryminalnego kina.",
-      "sourceUrl": "https://obejrzano.pl/premiery/premiery-kinowe-listopad-2026"
+      "sourceUrl": "https://helios.pl/filmy/papierowy-tygrys-4757"
     }
   ],
   "film": {
