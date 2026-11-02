@@ -36,7 +36,7 @@ def clean_html(value):
         text = " ".join(parser.parts)
     except Exception:
         text = value or ""
-    return re.sub(r"\\s+", " ", text).strip()[:700]
+    return re.sub(r"\s+", " ", text).strip()[:700]
 
 def tag_text(element, names):
     for name in names:
@@ -96,7 +96,7 @@ def call_openai(articles, issue_date):
     key = os.environ.get("OPENAI_API_KEY")
     if not key:
         raise RuntimeError("Brak OPENAI_API_KEY.")
-    model = os.environ.get("OPENAI_MODEL") or "gpt-6-astra"
+    model = os.environ.get("OPENAI_MODEL") or "gpt-6"
     prompt = f"""Przygotuj po polsku dzisiejsze wydanie cyfrowej gazety LEVEL NEXT DAILY.
 Data wydania: {issue_date}. Gust redakcji: retro 90s/00s, PS1/PS2, horror psychologiczny, sci-fi, indie, gry z klimatem; bez spoilerów, clickbaitów i powtarzania tych samych newsów.
 
