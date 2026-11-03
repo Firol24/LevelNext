@@ -60,4 +60,4 @@ jobs:
           done
           echo "Nie udało się opublikować wydania po 4 próbach."
           exit 1
-# Schedule note: publikacje około 08:17, 11:17, 14:17, 17:17 i 20:17 czasu Europe/Warsaw.
+# Schedule note: generator uruchamia się co godzinę. Czas wykonania zależy od kolejki GitHub Actions.
