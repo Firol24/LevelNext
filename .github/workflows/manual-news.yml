@@ -10,14 +10,14 @@ concurrency:
   cancel-in-progress: false
 jobs:
   publish:
-    if: github.event.issue.user.login == 'Firol24' && startsWith(github.event.issue.title, '[NEWS]')
+    if: github.event.issue.user.login == 'Firol24' && (startsWith(github.event.issue.title, '[NEWS]') || startsWith(github.event.issue.title, '[FELIETON]'))
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Add news to its selected edition
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
-          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}\n          ISSUE_TITLE: ${{ github.event.issue.title }}
         run: |
           python - <<'PY'
           import json, os, re, sys
@@ -32,9 +32,11 @@ jobs:
           date = field("Data wydania")
           title = field("Tytuł")
           category = field("Kategoria") or "LEVEL NEXT / WŁASNE"
-          summary = field("Treść")
+          summary = field("Zajawka") or field("Treść")
+          article_body = field("Pełna treść")
           image = field("Grafika (URL)")
           source = field("Źródło (URL)")
+          is_article = category.upper() == "FELIETON" or "[FELIETON]" in os.environ.get("ISSUE_TITLE", "")
           if image.lower() == "brak": image = ""
           if source.lower() == "brak": source = ""
           if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date or "") or not title or not summary:
@@ -54,7 +56,7 @@ jobs:
               "publishedAt": datetime.now(ZoneInfo("Europe/Warsaw")).isoformat(timespec="minutes"),
               "issueNumber": int(os.environ["ISSUE_NUMBER"])
           }
-          if image: item["imageUrl"] = image
+          if is_article:\n              slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:70] or "felieton"\n              item["articleSlug"] = f"{date}-{slug}"\n              item["articleBody"] = article_body[:30000]\n          if image: item["imageUrl"] = image
           if source: item["sourceUrl"] = source
           path = Path("data/manual-news.json")
           data = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
