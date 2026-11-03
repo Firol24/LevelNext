@@ -21,6 +21,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531427863.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Listopad w Xbox Game Pass to miesiąc mocnych wrażeń. Microsoft szykuje konkretny powiew nowości",
+      "sourceUrl": "https://www.ppe.pl/news/431904/listopad-w-xbox-game-pass-to-miesiac-mocnych-wrazen-microsoft-szykuje-konkretny-powiew-nowosci.html",
+      "publishedAt": "2026-11-03T19:14+01:00",
+      "summary": "Microsoft jest świadom, że listopad to miesiąc, w którym nie zabraknie ważnych premier dla graczy. Jednak do tego czasu wypadałoby mieć w co grać, dlatego w najbliższych dniach do Game Passa trafi sporo nowych pozycji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Rockstar może szykować się do premiery GTA 6 na PC. Gracze nabierają pewności, że opóźnienie względem konsol nie będzie duże",
       "sourceUrl": "https://www.gry-online.pl/newsroom/rockstar-moze-szykowac-sie-do-premiery-gta-6-na-pc-gracze-nabiera/z3321e8",
@@ -44,14 +52,6 @@
       "sourceUrl": "https://www.ppe.pl/recenzje/432032/ali-g-kto-ja-jezdem-2026-recenzja-filmu-amazon-tak-zle-jeszcze-chyba-nie-bylo.html",
       "publishedAt": "2026-11-03T19:00+01:00",
       "summary": "Sprzedając stare graty aby mieć na zbliżające się wielkimi krokami dziecko, przebrzmiała gwiazda przełomu tysiąclecia, samozwańczy gangster Ali G, otrzymuje faks od HBO, że pragnęliby oni wyłożyć gruby hajs na kolejny se",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PS Plus Premium z wielkim hitem 2026 w ofercie. Gracze mogą sprawdzić świetnego akcyjniaka przed zakupem",
-      "sourceUrl": "https://www.ppe.pl/news/432056/ps-plus-premium-z-wielkim-hitem-2026-w-ofercie-gracze-moga-sprawdzic-swietnego-akcyjniaka-przed-zakupem.html",
-      "publishedAt": "2026-11-03T18:58+01:00",
-      "summary": "Jeśli jeszcze nie zapoznaliście się z nowymi przygodami Jamesa Bonda, a chcielibyście sprawdzić czy 007 First Light jest pozycją dla Was, to macie teraz ku temu dobrą okazję. Jest tylko jeden warunek – musicie być posiad",
       "category": "WIADOMOŚCI"
     },
     {
@@ -118,46 +118,43 @@
   ],
   "indie": [
     {
-      "title": "Abashed",
-      "date": "2026-11-04",
+      "title": "Wilderdark",
+      "date": "2026-11-03",
       "platform": "PC (Steam)",
-      "summary": "Psychologiczna przygodówka 2.5D o człowieku szukającym prawdy o zaginionej partnerce. Pikselowa oprawa, łamigłówki i rzeczywistość, którą można naginać — mocny kandydat dla fanów niepokojących historii.",
-      "sourceUrl": "https://store.steampowered.com/app/3116230/Abashed/"
+      "summary": "Pierwszoosobowy survival horror na wyspie opanowanej przez pasożytniczy organizm, który mutuje dinozaury i roślinność. Przetrwanie opiera się na skradaniu, dokumentowaniu znalezisk i odkrywaniu losów zaginionych ekspedycji.",
+      "sourceUrl": "https://store.steampowered.com/app/2735850/Wilderdark/",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2735850/header.jpg"
     },
     {
-      "title": "Casualties: Unknown",
-      "date": "2026-11-09",
+      "title": "The House Before",
+      "date": "2026-11-03",
       "platform": "PC (Steam)",
-      "summary": "Surowy symulator eksploracji jaskiń na obcej planecie. Schodzenie coraz głębiej łączy się z zarządzaniem obrażeniami, krwawieniem i zasobami — survival bez taryfy ulgowej.",
-      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
+      "summary": "Eksperymentalny body horror, w którym budzisz się jako żywy dom: kości stają się rurami, a organy labiryntem korytarzy. Surrealistyczna przygodówka z mocno niecodziennym punktem wyjścia.",
+      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779750/header.jpg"
     },
     {
-      "title": "Theos: Cities of Myth",
-      "date": "2026-11-04",
-      "platform": "PC (Steam)",
-      "summary": "Indie city-builder inspirowany klasycznymi strategiami ekonomicznymi. Rozwijasz greckie miasto pod patronatem jednego z siedmiu bóstw, dbając o mieszkańców i monumentalne sanktuaria.",
-      "sourceUrl": "https://store.steampowered.com/app/3002130/Theos_Cities_Of_Myth/"
+      "title": "Saraab: Beyond The Veil",
+      "date": null,
+      "platform": "PC (Steam, macOS, Linux)",
+      "summary": "Ręcznie rysowana powieść wizualna z psychologicznym horrorem i arabskim folklorem. Elham szuka zaginionego brata, mierząc się z własnym cieniem, rodzinnymi sekretami i istotami z pogranicza jawy.",
+      "sourceUrl": "https://store.steampowered.com/app/4134310/",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/4134310/header.jpg"
     },
     {
-      "title": "Tattie Bogle",
-      "date": "2026-11-11",
-      "platform": "PC (Steam)",
-      "summary": "Folklorystyczny roguelite o zaczarowanym strachu na wróble: za dnia rozwijasz farmę, a po zmroku bronisz jej przed stworami. Można grać solo lub w kooperacji do czterech osób.",
-      "sourceUrl": "https://www.gamespress.com/it/Tattie-Bogle-Launches-November-11th-on-Steam-Demo-Out-Now"
-    },
-    {
-      "title": "DERELIKT",
-      "date": "2026-11-13",
-      "platform": "PC (Steam, GOG, Epic Games Store)",
-      "summary": "Narracyjny FPS w klimacie klaustrofobicznego, kosmicznego horroru ery PS1. Twórcy wprost celują w retro estetykę i lovecraftowski niepokój.",
-      "sourceUrl": "https://store.steampowered.com/app/3810510/"
-    },
-    {
-      "title": "Demon Bluff",
+      "title": "Project Hypnagogia",
       "date": null,
       "platform": "PC (Steam)",
-      "summary": "Jednoosobowa gra dedukcyjna z demonami ukrytymi wśród mieszkańców wioski. Łączy blef, rozpoznawanie sojuszników i roguelike'ową talię; twórcy potwierdzili listopadowe okno, ale jeszcze bez dnia.",
-      "sourceUrl": "https://store.steampowered.com/app/3522600/"
+      "summary": "Surrealistyczny horror psychologiczny o eksperymencie w opuszczonym szpitalu, który materializuje najgłębsze lęki badanego. Steam wskazuje IV kwartał 2026, ale bez konkretnego dnia premiery.",
+      "sourceUrl": "https://store.steampowered.com/app/1499010/Project_Hypnagogia/",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1499010/header.jpg"
+    },
+    {
+      "title": "The Road of Dust and Sorrow",
+      "date": "2026-12-03",
+      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "summary": "Pixel-artowy survival horror inspirowany Resident Evil i Silent Hill z lat 90. Prowadzisz Katherine przez zrujnowany świat, próbując ochronić córkę Avę przed wygłodniałymi stworami.",
+      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026"
     }
   ],
   "releases": [
@@ -166,111 +163,125 @@
       "title": "Godzilla: Destroy All Monsters Melee Remastered",
       "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Remaster arenowej bijatyki kaiju z 2002 roku; Atari potwierdziło premierę na 3 listopada.",
-      "sourceUrl": "https://www.gamespress.com/en-US/Atari-and-Pipeworks-Unleash-Godzilla-Destroy-All-Monsters-Melee-Remast"
+      "note": "Atari potwierdza dzisiejszą premierę odświeżonej bijatyki kaiju z 2002 roku; przebudowana oprawa i tryb sieciowy dołączają do lokalnych starć.",
+      "sourceUrl": "https://atari.com/products/godzilla-destroy-all-monsters-melee-remastered"
     },
     {
-      "date": "2026-11-04",
-      "title": "Abashed",
+      "date": "2026-11-03",
+      "title": "Wilderdark",
       "platform": "PC (Steam)",
       "status": "confirmed",
-      "note": "Psychologiczna przygodówka 2.5D; data premiery potwierdzona na karcie Steam i w komunikacie twórcy.",
-      "sourceUrl": "https://store.steampowered.com/app/3116230/Abashed/"
+      "note": "Team Junkfish wyznaczyło premierę survival horroru na 3 listopada; na wyspie trzeba unikać zmutowanych dinozaurów i badać ślady poprzednich wypraw.",
+      "sourceUrl": "https://www.gamespress.com/uk-UA/Wilderdark-Unleashes-a-New-Breed-of-Survival-Horror-on-3-November"
     },
     {
-      "date": "2026-11-04",
-      "title": "Theos: Cities of Myth",
+      "date": "2026-11-03",
+      "title": "The House Before",
       "platform": "PC (Steam)",
-      "status": "confirmed",
-      "note": "Strategiczny city-builder w realiach mitologii greckiej; data widnieje na karcie Steam.",
-      "sourceUrl": "https://store.steampowered.com/app/3002130/Theos_Cities_Of_Myth/"
+      "status": "listed",
+      "note": "Steam i kalendarze premier wskazują 3 listopada; eksperymentalna przygodówka body horror o domu, którego wnętrze jest żywym organizmem.",
+      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/"
     },
     {
-      "date": "2026-11-09",
-      "title": "Casualties: Unknown",
-      "platform": "PC (Steam)",
+      "date": "2026-11-05",
+      "title": "CRYMELIGHT",
+      "platform": "PC (Steam), PlayStation 5, Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Podziemny survival na obcej planecie; termin ogłosili deweloper Orsoniks i wydawca Oro Interactive.",
-      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
+      "note": "FuRyu zapowiedziało mroczne action roguelike w świecie zaświatów na 5 listopada; bohaterki walczą, by zmierzyć się z własnymi grzechami i odzyskać wolność.",
+      "sourceUrl": "https://www.gamespress.com/nl/Confess-Your-Sins-in-CRYMELIGHT-the-Next-Installment-in-the-Popular-Da"
     },
     {
-      "date": "2026-11-10",
-      "title": "Ashes of the Singularity II",
-      "platform": "PC (Steam)",
+      "date": "2026-11-19",
+      "title": "Grand Theft Auto VI",
+      "platform": "PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
-      "note": "Wielkoskalowa strategia RTS; Stardock ogłosił premierę na 10 listopada 2026.",
-      "sourceUrl": "https://www.gamespress.com/nl/Ashes-of-the-Singularity-II-Launches-November-10-2026"
+      "note": "Rockstar podał 19 listopada jako nową datę premiery; powrót do współczesnego Vice City i stanu Leonida.",
+      "sourceUrl": "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026"
     },
     {
-      "date": "2026-11-11",
-      "title": "Tattie Bogle",
-      "platform": "PC (Steam)",
+      "date": "2026-12-03",
+      "title": "The Road of Dust and Sorrow",
+      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Folklorystyczny roguelite z obroną farmy; PineFog Studios potwierdziło datę w komunikacie prasowym.",
-      "sourceUrl": "https://www.gamespress.com/it/Tattie-Bogle-Launches-November-11th-on-Steam-Demo-Out-Now"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "DERELIKT",
-      "platform": "PC (Steam, GOG, Epic Games Store)",
-      "status": "confirmed",
-      "note": "Retro FPS science-fiction z atmosferą horroru; deweloper potwierdził premierę na PC 13 listopada.",
-      "sourceUrl": "https://store.steampowered.com/app/3810510/"
+      "note": "Painted Black Games i Silver Lining Interactive potwierdziły datę premiery pixel-artowego horroru o matce i córce próbujących przetrwać w upadłym świecie.",
+      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026"
     }
   ],
   "film": {
-    "title": "Bulbbul",
-    "year": "2020",
+    "title": "Apetyt",
+    "year": "2025",
     "platform": "Netflix",
-    "summary": "W bengalskiej wiosce dochodzi do nadnaturalnych zbrodni, a tajemnicza kobieta skrywa bolesną przeszłość. Gotycki horror folklorystyczny, który buduje grozę atmosferą, obrazem i opowieścią o zemście.",
-    "availabilityNote": "JustWatch potwierdził dostępność w polskim Netflixie 23 października 2026; film ma też aktywną kartę w polskim katalogu Netflix.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/bulbbul"
+    "summary": "Podczas wakacji na francuskiej prowincji do życia zamożnej niemieckiej rodziny wkracza młoda pracownica hotelu, która skrywa złowrogie zamiary. Kameralny thriller o pozorach, klasowych napięciach i narastającym niepokoju.",
+    "availabilityNote": "JustWatch Polska potwierdził dostępność w ramach abonamentu Netflix; katalog sprawdzono 30 października 2026.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/delicious-0"
   },
   "cinema": [
     {
       "date": "2026-11-06",
-      "title": "Lachtara. Tęsknota",
-      "genre": "Dramat / kino drogi",
-      "summary": "Ojciec i dorosły syn ruszają starym Polonezem z Aten do Wałbrzycha. Podróż przez Europę staje się próbą zmierzenia z rodzinną pamięcią i latami niewypowiedzianych pretensji.",
-      "sourceUrl": "https://www.tvp.info/95625912/premiera-filmu-lachtara-tesknota-opis-oraz-obsada"
+      "title": "Godzilla Minus Zero",
+      "genre": "Sci-fi / akcja / thriller",
+      "summary": "Dwa lata po poprzednim starciu Japonia próbuje odbudować się po wojnie, gdy pojawia się kolejne zagrożenie. Takashi Yamazaki wraca do historii o potworze w powojennej scenerii.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/godzilla-minus-zero/8389s2r",
+      "imageUrl": "https://godzilla.com/cdn/shop/files/GMZ_KV2_Web_2025x3000_GKIDS-wIMAX_1.jpg?v=1788560923&width=480"
     },
     {
       "date": "2026-11-06",
-      "title": "Przepis na święta",
-      "genre": "Komedia / familijny",
-      "summary": "Polska świąteczna komedia o bliskości, akceptacji i sekretnym przepisie na prawdziwe relacje. Lekka propozycja na początek listopadowego sezonu.",
-      "sourceUrl": "https://kinoswiat.pl/film/przepis-na-swieta/"
+      "title": "Kot Prot",
+      "genre": "Animacja / familijny / komedia",
+      "summary": "Chimeryczny kot w charakterystycznym kapeluszu ma pomóc rodzeństwu Gabby i Sebastianowi odnaleźć radość po przeprowadzce. Pełnometrażowa animowana przygoda oparta na świecie Dr. Seussa.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/kot-prot/7482d2r",
+      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/7482D2R.jpg"
     },
     {
       "date": "2026-11-11",
-      "title": "Nasza rewolucja",
-      "genre": "Dramat / historyczny",
-      "summary": "Piotr Domalewski opowiada o Jacku i Grażynie Kuroniach oraz ludziach współtworzących drogę Polski do demokracji. Historia prywatnych wyborów spleciona z przełomem politycznym.",
-      "sourceUrl": "https://next-film.pl/2026/06/16/zobacz-plakat-do-filmu-nasza-rewolucja-film-piotra-domalewskiego-o-jacku-i-grazynie-kuroniach/"
+      "title": "Victorian Psycho",
+      "genre": "Horror / thriller",
+      "summary": "Guwernantka Winifred Notty przybywa do ponurej posiadłości Ensor House. Wokół poprzednich rodzin, którymi się opiekowała, ciągnie się seria tajemniczych tragedii.",
+      "sourceUrl": "https://kino.krakow.pl/film/victorian-psycho.html",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/683f390a6209d670fd058a06/d71677c5-3db8-4f69-bb3e-e9e88d755deb/Victorian-Psycho-Poster.jpg?format=1500w"
     },
     {
       "date": "2026-11-13",
-      "title": "Jak obrabować bank",
-      "genre": "Thriller / kryminał / akcja",
-      "summary": "Grupa rabusiów transmituje napady w mediach społecznościowych i szybko przyciąga uwagę FBI. Kryminalna rozgrywka o sławę, pieniądze i coraz większe ryzyko.",
-      "sourceUrl": "https://www.filmweb.pl/film/Jak%2Bobrabowa%C4%87%2Bbank-2026-10104752"
+      "title": "Ebenezer Scrooge. Opowieść wigilijna",
+      "genre": "Fantasy / dramat",
+      "summary": "Ti West przenosi historię Dickensa w gotycki, mroczniejszy ton. Skąpy biznesmen zostaje skonfrontowany z duchami, które zmuszają go do spojrzenia na własną przeszłość i przyszłość.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/ebenezer-scrooge-opowiesc-wigilijna/8344s2r",
+      "imageUrl": "https://media2.firstshowing.net/firstshowing/img18/ebenezerpostermainimgbig591.jpg"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Dziki Koń Dziewięć",
+      "genre": "Komedia / kryminał / thriller",
+      "summary": "Na tle Chile tuż przed zamachem stanu agenci CIA trafiają na Wyspę Wielkanocną. Dawne partnerstwo, spiski i spotkanie z parą zbuntowanych studentów komplikują ich misję.",
+      "sourceUrl": "https://kinoradar.pl/pl/warszawa/film/dziki-kon-dziewiec/",
+      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8161S2R.jpg"
     },
     {
       "date": "2026-11-20",
-      "title": "Jestem Rocky",
-      "genre": "Biograficzny / dramat",
-      "summary": "Kulisy powstania „Rocky’ego”: nieznany Sylvester Stallone ryzykuje karierę i przyszłość, by zagrać bohatera, którego sam wymyślił. Historia uporu stojącego za narodzinami filmowej legendy.",
-      "sourceUrl": "https://kinoswiat.pl/film/jestem-rocky/"
+      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+      "genre": "Sci-fi / akcja / thriller",
+      "summary": "Wracamy do Panem na pięćdziesiąte Głodowe Igrzyska. Młody Haymitch Abernathy trafia na arenę, gdzie liczba trybutów i brutalność rywalizacji są wyjątkowo wysokie.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/igrzyska-smierci-wschod-slonca-w-dniu-dozynek/7803s2r",
+      "imageUrl": "https://www.mediarodzina.pl/mrcore/uploads/2026/04/Igrzyska-smierci.-Wschod-slonca-w-dniu-dozynek_-plakat-PL-A.jpg"
     },
     {
-      "date": "2026-11-27",
-      "title": "Violetta Villas",
-      "genre": "Dramat biograficzny",
-      "summary": "Portret polskiej divy opowiedziany z perspektywy jej syna — świadka narodzin wielkiej kariery i jej osobistych kosztów. W roli tytułowej Sandra Drzymalska.",
-      "sourceUrl": "https://kinoswiat.pl/film/violetta-villas/"
+      "date": "2026-11-20",
+      "title": "Przemytnicy",
+      "genre": "Akcja / thriller",
+      "summary": "Weteran wojenny Samuel Murphy podejmuje się niebezpiecznego przemytu złota przez dzikie tereny Oregonu, by odzyskać córkę. Wyprawę szybko zatruwają chciwość i podejrzenia o zdradę.",
+      "sourceUrl": "https://www.filmweb.pl/film/Przemytnicy-2026-10109155",
+      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8585S2R.jpg"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Struś Pędziwiatr i zemsta Kojota",
+      "genre": "Animacja / przygodowy / komedia",
+      "summary": "Wiluś Kojot pozywa firmę Acme za wadliwe produkty, które przez lata obracały jego pogoń za Strusiem Pędziwiatrem w serię katastrof. Animowana komedia z klasycznymi bohaterami Looney Tunes.",
+      "sourceUrl": "https://kino.blonie.pl/film/strus-pedziwiatr-i-zemsta-kojota/",
+      "imageUrl": "https://v1.fdbimg.pl/crop?height=1739&noprofile=true&quality=80&sign=doTDCl_CwjDEZ7PhMNKj9E36P0wlz1LDLBkammeZoi8&stripmeta=true&type=webp&url=https%3A%2F%2Fi11.fdbimg.pl%2Fi%2Fk%2Fz%2Ff%2Fkzfvjrjydk6tr1fvlzktho0f866v&width=1200"
     }
   ],
   "editorialUpdatedAt": "2026-11-03",
-  "editorialHash": "09d4b68638054c9d5296a17e83a06fc684dfa72bd2e5aa0139989d34bff2b6bc",
-  "updatedAt": "2026-11-03T19:05+01:00"
+  "editorialHash": "e443df72e9523823b94d5f3aa04d0f5b8af6e2fecca2e20b66d047d705189976",
+  "updatedAt": "2026-11-03T19:15+01:00"
 }
