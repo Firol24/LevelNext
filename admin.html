@@ -16,14 +16,14 @@ header a{color:var(--yellow);text-decoration:none}.wrap{max-width:760px;margin:3
 <body>
 <header><a href="daily.html">← Powrót do LEVEL NEXT DAILY</a></header>
 <main class="wrap"><section class="panel">
-<div class="kicker">LEVEL NEXT / PANEL REDAKCYJNY</div><h1>Dodaj własny news.</h1>
-<p>Wypełnij formularz, a następnie zatwierdź zgłoszenie na GitHubie. Po automatycznym przetworzeniu materiał pojawi się wyłącznie w wydaniu z wybranego dnia. Nie potrzebujesz tokenu ani hasła.</p>
+<div class="kicker">LEVEL NEXT / PANEL REDAKCYJNY</div><h1>Dodaj publikację.</h1>
+<p>Wypełnij formularz, a następnie zatwierdź zgłoszenie na GitHubie. News pojawi się w wybranym wydaniu, a felieton otrzyma osobną stronę z pełnym tekstem. Nie potrzebujesz tokenu ani hasła.</p>
 <div class="notice">Publikacja wymaga zalogowania na konto GitHub <b>Firol24</b>. Po wysłaniu zgłoszenia odczekaj zwykle kilkadziesiąt sekund i odśwież wydanie.</div>
 <form id="news-form">
 <div class="field"><label for="date">Data wydania <span class="required">*</span></label><input id="date" type="date" required></div>
 <div class="field"><label for="title">Tytuł <span class="required">*</span></label><input id="title" maxlength="150" required placeholder="O czym jest news?"></div>
-<div class="field"><label for="category">Kategoria</label><select id="category"><option>WIADOMOŚCI</option><option>GRY</option><option>RETRO</option><option>TECHNOLOGIE</option><option>INDIE</option><option>PUBLICYSTYKA</option><option>LEVEL NEXT / WŁASNE</option></select></div>
-<div class="field"><label for="summary">Treść / opis <span class="required">*</span></label><textarea id="summary" maxlength="1200" required placeholder="Napisz własnymi słowami, co się wydarzyło i dlaczego to ważne."></textarea><small>Maksymalnie 1200 znaków.</small></div>
+<div class="field"><label for="category">Kategoria</label><select id="category"><option>WIADOMOŚCI</option><option>GRY</option><option>RETRO</option><option>TECHNOLOGIE</option><option>INDIE</option><option>PUBLICYSTYKA</option><option>FELIETON</option><option>LEVEL NEXT / WŁASNE</option></select></div>
+<div class="field"><label for="summary">Zajawka / teaser <span class="required">*</span></label><textarea id="summary" maxlength="1200" required placeholder="Krótki wstęp, który zachęci do przeczytania publikacji."></textarea><small>To zobaczą czytelnicy na stronie głównej. Maksymalnie 1200 znaków.</small></div><div class="field" id="article-field" hidden><label for="article-body">Pełna treść felietonu <span class="required">*</span></label><textarea id="article-body" maxlength="30000" placeholder="Napisz cały felieton. Oddzielaj akapity pustą linią."></textarea><small>Maksymalnie 30 000 znaków. Puste linie rozdzielą akapity na stronie artykułu.</small></div>
 <div class="field"><label for="image">Adres grafiki (opcjonalnie)</label><input id="image" type="url" placeholder="https://…"><small>Bezpośredni adres do grafiki JPG, PNG lub WebP.</small></div>
 <div class="field"><label for="source">Źródło / link (opcjonalnie)</label><input id="source" type="url" placeholder="https://…"></div>
 <div class="actions"><button type="submit">Przejdź do publikacji ↗</button><a class="back" href="daily.html">Anuluj</a></div>
@@ -31,10 +31,13 @@ header a{color:var(--yellow);text-decoration:none}.wrap{max-width:760px;margin:3
 </section></main>
 <script>
 (()=>{const $=id=>document.getElementById(id);const d=new Date();d.setMinutes(d.getMinutes()-d.getTimezoneOffset());$('date').value=d.toISOString().slice(0,10);
-$('news-form').addEventListener('submit',e=>{e.preventDefault();const date=$('date').value,title=$('title').value.trim(),summary=$('summary').value.trim(),image=$('image').value.trim(),source=$('source').value.trim();if(!date||!title||!summary)return;
+const category=$('category'),articleField=$('article-field'),articleBody=$('article-body'),summary=$('summary');
+function toggleArticle(){const isArticle=category.value==='FELIETON';articleField.hidden=!isArticle;articleBody.required=isArticle;summary.placeholder=isArticle?'Krótki teaser widoczny na liście felietonów.':'Krótki opis publikacji.';}
+category.addEventListener('change',toggleArticle);toggleArticle();
+$('news-form').addEventListener('submit',e=>{e.preventDefault();const date=$('date').value,title=$('title').value.trim(),teaser=summary.value.trim(),bodyText=articleBody.value.trim(),image=$('image').value.trim(),source=$('source').value.trim(),isArticle=category.value==='FELIETON';if(!date||!title||!teaser||(isArticle&&!bodyText)){alert('Uzupełnij datę, tytuł, zajawkę oraz pełną treść felietonu.');return;}
 for(const url of [image,source])if(url){try{if(!['https:','http:'].includes(new URL(url).protocol))throw 0;}catch{alert('Sprawdź adres grafiki lub źródła.');return;}}
-const body=['### Data wydania',date,'### Tytuł',title,'### Kategoria',$('category').value,'### Treść',summary,'### Grafika (URL)',image||'Brak','### Źródło (URL)',source||'Brak'].join('\n\n');
-const params=new URLSearchParams({title:'[NEWS] '+title,body});location.href='https://github.com/Firol24/LevelNext/issues/new?'+params.toString();
+const fields=['### Data wydania',date,'### Tytuł',title,'### Kategoria',category.value,'### Zajawka',teaser,'### Pełna treść',isArticle?bodyText:'Brak','### Grafika (URL)',image||'Brak','### Źródło (URL)',source||'Brak'];
+const params=new URLSearchParams({title:(isArticle?'[FELIETON] ':'[NEWS] ')+title,body:fields.join('\n\n')});location.href='https://github.com/Firol24/LevelNext/issues/new?'+params.toString();
 });})();
 </script>
 </body></html>
