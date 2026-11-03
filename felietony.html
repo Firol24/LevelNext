@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#16002d">
+<meta name="description" content="Archiwum felietonów LEVEL NEXT — autorskie teksty o grach, retro i kulturze graczy.">
+<title>Felietony — LEVEL NEXT</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#100b17;--night:#08040e;--purple:#6a0dad;--deep:#260044;--yellow:#fff200;--paper:#f1eedf;--muted:#655d69;--line:#c9c0a9;--mono:'IBM Plex Mono',monospace;--sans:'Space Grotesk',sans-serif;--serif:'DM Serif Display',Georgia,serif}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 50% -10%,#341052 0,var(--night) 52%);color:var(--paper);font-family:var(--sans);min-height:100vh}a{color:inherit}
+header{max-width:1180px;margin:auto;padding:20px 24px;border-bottom:1px solid #ffffff35;display:flex;justify-content:space-between;align-items:center;gap:16px;font:11px var(--mono);letter-spacing:.1em;text-transform:uppercase}header a{color:var(--yellow);text-decoration:none}.nav{display:flex;gap:18px;flex-wrap:wrap}
+main{max-width:1180px;margin:32px auto 70px;padding:0 16px}.paper{background:var(--paper);color:var(--ink);padding:clamp(22px,4vw,48px);border-top:7px solid var(--yellow);box-shadow:0 18px 70px #0009}
+.kicker{font:700 11px var(--mono);letter-spacing:.12em;color:var(--purple);text-transform:uppercase}.heading{display:flex;justify-content:space-between;align-items:end;gap:20px;border-bottom:4px double var(--ink);padding-bottom:18px}
+h1{font:clamp(42px,7vw,76px)/.95 var(--serif);letter-spacing:-.035em;margin:14px 0 0}.intro{max-width:360px;color:#514956;font:12px/1.6 var(--mono);text-align:right}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 28px;margin-top:24px}
+.card{padding:20px 0;border-bottom:1px solid var(--line);min-width:0}.card img{width:100%;aspect-ratio:16/9;object-fit:cover;margin-bottom:12px;background:#ddd}.tag{display:inline-block;background:var(--yellow);padding:5px 8px;font:700 9px var(--mono);letter-spacing:.08em}
+.card h2{font:clamp(24px,3vw,34px)/1.04 var(--serif);margin:12px 0}.card h2 a{text-decoration:none}.card h2 a:hover{color:var(--purple)}
+.card p{font:14px/1.6 var(--sans);color:#554d57;margin:0 0 12px}.meta{font:9px var(--mono);color:var(--muted);text-transform:uppercase;margin-bottom:12px}.read{color:var(--purple);font:700 10px var(--mono);text-transform:uppercase;text-decoration:none;border-bottom:1px solid var(--purple);padding-bottom:4px}
+.empty{padding:22px;border:1px dashed #a89db0;color:#655d69;font:12px/1.6 var(--mono);grid-column:1/-1}
+footer{max-width:1180px;margin:-45px auto 30px;text-align:center;color:#9b89a8;font:10px var(--mono)}footer a{color:var(--yellow)}
+@media(max-width:700px){header{align-items:flex-start;flex-direction:column;padding:16px}.nav{gap:12px}.grid{grid-template-columns:1fr}.heading{align-items:flex-start;flex-direction:column}.intro{text-align:left}}
+</style></head>
+<body>
+<header><a href="daily.html">← LEVEL NEXT DAILY</a><nav class="nav"><a href="daily.html">Wydanie</a><a href="admin.html">Dodaj publikację</a></nav></header>
+<main><section class="paper"><div class="heading"><div><div class="kicker">LEVEL NEXT / ARCHIWUM REDAKCYJNE</div><h1>Felietony</h1></div><div class="intro">Własne spojrzenie na gry, kulturę i wszystko, co dzieje się wokół nich. Wszystkie opublikowane teksty w jednym miejscu.</div></div>
+<div id="articles" class="grid"><div class="empty">Wczytywanie archiwum felietonów…</div></div></section></main>
+<footer>LEVEL NEXT · <a href="daily.html">WRÓĆ DO WYDANIA</a></footer>
+<script>
+(()=>{const root=document.getElementById('articles');const el=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n};const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:''}catch{return ''}};
+async function load(){try{const r=await fetch('data/manual-news.json?ts='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('Nie udało się pobrać archiwum.');const data=await r.json();const all=[];for(const [date,items] of Object.entries(data)){if(!Array.isArray(items))continue;for(const item of items){if(item.articleSlug&&item.articleBody)all.push({...item,editionDate:date});}}all.sort((a,b)=>(b.publishedAt||b.editionDate||'').localeCompare(a.publishedAt||a.editionDate||''));root.replaceChildren();if(!all.length){root.append(el('div','empty','Nie opublikowano jeszcze żadnych felietonów. Pierwszy tekst czeka na Ciebie w panelu redakcyjnym.'));return;}for(const item of all){const card=el('article','card');const imageUrl=safeUrl(item.imageUrl||'');if(imageUrl){const img=el('img','');img.src=imageUrl;img.alt='';img.loading='lazy';img.onerror=()=>img.remove();card.append(img);}card.append(el('span','tag','FELIETON'));const h=el('h2','');const a=el('a','',item.title||'Bez tytułu');a.href='article.html?id='+encodeURIComponent(item.articleSlug);h.append(a);card.append(h);card.append(el('p','',item.summary||''));const dt=item.publishedAt?new Date(item.publishedAt):new Date(item.editionDate+'T12:00:00');card.append(el('div','meta',(Number.isNaN(dt.getTime())?item.editionDate:dt.toLocaleDateString('pl-PL',{day:'2-digit',month:'long',year:'numeric'}))+' · '+(item.sourceName||'LEVEL NEXT / REDAKCJA')));const read=el('a','read','Czytaj felieton ↗');read.href='article.html?id='+encodeURIComponent(item.articleSlug);card.append(read);root.append(card);}}catch(e){root.replaceChildren(el('div','empty',e.message));}}load();})();
+</script></body></html>
