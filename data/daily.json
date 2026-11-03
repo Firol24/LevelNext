@@ -1,6 +1,7 @@
 {
   "status": "rss-only",
-  "date": "2026-11-03",
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04T00:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -370,15 +371,6 @@
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3895110/8b2f5aaa7e2a06ff809f055a399d03025d9a7adb/header.jpg"
     }
   ],
-  "film": {
-    "title": "Apetyt",
-    "year": "2025",
-    "platform": "Netflix",
-    "summary": "Podczas wakacji na francuskiej prowincji do życia zamożnej niemieckiej rodziny wkracza młoda pracownica hotelu, która skrywa złowrogie zamiary. Kameralny thriller o pozorach, klasowych napięciach i narastającym niepokoju.",
-    "availabilityNote": "JustWatch Polska potwierdził dostępność w ramach abonamentu Netflix; katalog sprawdzono 30 października 2026.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/delicious-0",
-    "imageUrl": "https://images.justwatch.com/backdrop/324924047/s640/delicious-0.jpg"
-  },
   "cinema": [
     {
       "date": "2026-11-06",
@@ -445,7 +437,15 @@
       "imageUrl": "https://v1.fdbimg.pl/crop?height=1739&noprofile=true&quality=80&sign=doTDCl_CwjDEZ7PhMNKj9E36P0wlz1LDLBkammeZoi8&stripmeta=true&type=webp&url=https%3A%2F%2Fi11.fdbimg.pl%2Fi%2Fk%2Fz%2Ff%2Fkzfvjrjydk6tr1fvlzktho0f866v&width=1200"
     }
   ],
+  "film": {
+    "title": "Apetyt",
+    "year": "2025",
+    "platform": "Netflix",
+    "summary": "Podczas wakacji na francuskiej prowincji do życia zamożnej niemieckiej rodziny wkracza młoda pracownica hotelu, która skrywa złowrogie zamiary. Kameralny thriller o pozorach, klasowych napięciach i narastającym niepokoju.",
+    "availabilityNote": "JustWatch Polska potwierdził dostępność w ramach abonamentu Netflix; katalog sprawdzono 30 października 2026.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/delicious-0",
+    "imageUrl": "https://images.justwatch.com/backdrop/324924047/s640/delicious-0.jpg"
+  },
   "editorialUpdatedAt": "2026-11-03",
-  "editorialHash": "5a3325e7447fd3259a5c38d00c57e6db7f329c0a19ef6f65c6d177fadf691c5a",
-  "updatedAt": "2026-11-03T23:37+01:00"
+  "editorialHash": "5a3325e7447fd3259a5c38d00c57e6db7f329c0a19ef6f65c6d177fadf691c5a"
 }
