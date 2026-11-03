@@ -60,7 +60,8 @@ jobs:
           if is_article:
               slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:70] or "felieton"
               item["articleSlug"] = f"{date}-{slug}"
-              item["articleBody"] = article_body[:30000]\n          if image: item["imageUrl"] = image
+              item["articleBody"] = article_body[:30000]
+          if image: item["imageUrl"] = image
           if source: item["sourceUrl"] = source
           path = Path("data/manual-news.json")
           data = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
