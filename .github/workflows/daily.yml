@@ -8,13 +8,8 @@ on:
       - 'data/editorial.json'
   workflow_dispatch:
   schedule:
-    # Minuta 17 omija największy tłok harmonogramu GitHub Actions na początku godziny.
-    # Pary UTC pokrywają CEST i CET; generator filtruje właściwą godzinę w Europe/Warsaw.
-    - cron: "17 6,7 * * *"
-    - cron: "17 9,10 * * *"
-    - cron: "17 12,13 * * *"
-    - cron: "17 15,16 * * *"
-    - cron: "17 18,19 * * *"
+    # Co pełną godzinę; GitHub może opóźnić start przy dużym obciążeniu.
+    - cron: "0 * * * *"
 permissions:
   contents: write
 concurrency:
@@ -60,4 +55,4 @@ jobs:
           done
           echo "Nie udało się opublikować wydania po 4 próbach."
           exit 1
-# Schedule note: generator uruchamia się co godzinę. Czas wykonania zależy od kolejki GitHub Actions.
+# Harmonogram: co pełną godzinę (UTC); faktyczny start może być opóźniony przez kolejkę GitHub Actions.
