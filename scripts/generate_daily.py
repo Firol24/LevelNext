@@ -144,9 +144,6 @@ def main():
     except Exception as error:
         print(f"Editorial data warning: {error}", file=sys.stderr)
         editorial = {}
-    if not force and now.hour not in (8, 11, 14, 17, 20):
-        print(f"Pominięto uruchomienie o {now:%H:%M}; publikacja RSS działa o 08:00, 11:00, 14:00, 17:00 i 20:00 czasu polskiego.")
-        return
 
     current_path = ROOT / "data" / "daily.json"
     editorial_hash = hashlib.sha256(
