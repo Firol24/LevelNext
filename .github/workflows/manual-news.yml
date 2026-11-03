@@ -1,0 +1,88 @@
+name: Publish manual LEVEL NEXT news
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: level-next-manual-news
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.event.issue.user.login == 'Firol24' && startsWith(github.event.issue.title, '[NEWS]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Add news to its selected edition
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          python - <<'PY'
+          import json, os, re, sys
+          from pathlib import Path
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          body = os.environ.get("ISSUE_BODY", "")
+          def field(name):
+              match = re.search(r"^### " + re.escape(name) + r"\s*\n+([\s\S]*?)(?=\n### |\Z)", body, re.M)
+              return match.group(1).strip() if match else ""
+          date = field("Data wydania")
+          title = field("Tytuł")
+          category = field("Kategoria") or "LEVEL NEXT / WŁASNE"
+          summary = field("Treść")
+          image = field("Grafika (URL)")
+          source = field("Źródło (URL)")
+          if image.lower() == "brak": image = ""
+          if source.lower() == "brak": source = ""
+          if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date or "") or not title or not summary:
+              sys.exit("Brak daty, tytułu lub treści albo nieprawidłowa data.")
+          try:
+              datetime.strptime(date, "%Y-%m-%d")
+          except ValueError:
+              sys.exit("Nieprawidłowa data wydania.")
+          for url in (image, source):
+              if url and not re.match(r"^https?://", url, re.I):
+                  sys.exit("Linki muszą zaczynać się od http:// lub https://.")
+          item = {
+              "title": title[:150],
+              "category": category[:40],
+              "summary": summary[:1200],
+              "sourceName": "LEVEL NEXT / REDAKCJA",
+              "publishedAt": datetime.now(ZoneInfo("Europe/Warsaw")).isoformat(timespec="minutes"),
+              "issueNumber": int(os.environ["ISSUE_NUMBER"])
+          }
+          if image: item["imageUrl"] = image
+          if source: item["sourceUrl"] = source
+          path = Path("data/manual-news.json")
+          data = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+          entries = data.setdefault(date, [])
+          if any(x.get("issueNumber") == item["issueNumber"] for x in entries):
+              print("To zgłoszenie zostało już opublikowane.")
+          else:
+              entries.insert(0, item)
+              path.parent.mkdir(parents=True, exist_ok=True)
+              path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          PY
+      - name: Commit publication
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/manual-news.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Publish manual news from issue #${{ github.event.issue.number }}"
+          git push
+      - name: Confirm publication
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue comment "$ISSUE_NUMBER" --body "Materiał został opublikowany w wydaniu z wybranego dnia. Nie będzie przenoszony do kolejnych wydań."
+      - name: Close publication request
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue close "$ISSUE_NUMBER"
