@@ -202,10 +202,21 @@ def main():
         rss_fields["lead"]["imageUrl"] = lead_item["imageUrl"]
 
     if same_day_update:
-        # Aktualizacja tego samego wydania: zmieniamy wyłącznie sekcję newsową.
+        # Aktualizacja tego samego wydania: odświeżamy RSS oraz sekcje redakcyjne,
+        # jeśli ich plik źródłowy zmienił się od ostatniej publikacji.
         issue = current_issue
         issue.update(rss_fields)
-        print(f"Aktualizacja wiadomości w wydaniu {issue_date}; pozostałe sekcje bez zmian.")
+        if current_issue.get("editorialHash") != editorial_hash:
+            issue.update({
+                "indie": editorial.get("indie", []),
+                "releases": editorial.get("releases", []),
+                "cinema": editorial.get("cinema", []),
+                "film": editorial.get("film"),
+                "editorialUpdatedAt": editorial.get("updatedAt", ""),
+                "editorialHash": editorial_hash
+            })
+            print(f"Odświeżono sekcje Indie, premiery i kino na podstawie data/editorial.json.")
+        print(f"Aktualizacja wydania {issue_date}: RSS oraz zmienione sekcje redakcyjne.")
     else:
         # Pierwsze wydanie nowego dnia: odświeżamy całą zawartość redakcyjną.
         issue = {
