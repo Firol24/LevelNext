@@ -17,7 +17,8 @@ jobs:
       - name: Add news to its selected edition
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
-          ISSUE_NUMBER: ${{ github.event.issue.number }}\n          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
         run: |
           python - <<'PY'
           import json, os, re, sys
@@ -39,7 +40,7 @@ jobs:
           is_article = category.upper() == "FELIETON" or "[FELIETON]" in os.environ.get("ISSUE_TITLE", "")
           if image.lower() == "brak": image = ""
           if source.lower() == "brak": source = ""
-          if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date or "") or not title or not summary:
+          if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date or "") or not title or not summary or (is_article and (not article_body or article_body.lower() == "brak")):
               sys.exit("Brak daty, tytułu lub treści albo nieprawidłowa data.")
           try:
               datetime.strptime(date, "%Y-%m-%d")
@@ -56,7 +57,10 @@ jobs:
               "publishedAt": datetime.now(ZoneInfo("Europe/Warsaw")).isoformat(timespec="minutes"),
               "issueNumber": int(os.environ["ISSUE_NUMBER"])
           }
-          if is_article:\n              slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:70] or "felieton"\n              item["articleSlug"] = f"{date}-{slug}"\n              item["articleBody"] = article_body[:30000]\n          if image: item["imageUrl"] = image
+          if is_article:
+              slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:70] or "felieton"
+              item["articleSlug"] = f"{date}-{slug}"
+              item["articleBody"] = article_body[:30000]\n          if image: item["imageUrl"] = image
           if source: item["sourceUrl"] = source
           path = Path("data/manual-news.json")
           data = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
