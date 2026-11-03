@@ -99,24 +99,15 @@ def main():
     except Exception as error:
         print(f"Editorial data warning: {error}", file=sys.stderr)
         editorial = {}
-    if not force and now.hour < 8:
-        print(f"Pominięto uruchomienie o {now:%H:%M}; wydanie powstaje od 08:00.")
+    if not force and now.hour not in (8, 11, 14, 17, 20):
+        print(f"Pominięto uruchomienie o {now:%H:%M}; publikacja RSS działa o 08:00, 11:00, 14:00, 17:00 i 20:00 czasu polskiego.")
         return
 
     current_path = ROOT / "data" / "daily.json"
     editorial_hash = hashlib.sha256(
         json.dumps(editorial, ensure_ascii=False, sort_keys=True).encode("utf-8")
     ).hexdigest()
-    if not force:
-        try:
-            current = json.loads(current_path.read_text(encoding="utf-8"))
-            if (current.get("date") == issue_date
-                    and current.get("status") in ("published", "rss-only")
-                    and current.get("editorialHash") == editorial_hash):
-                print(f"Wydanie {issue_date} już istnieje — pomijam duplikat.")
-                return
-        except Exception:
-            pass
+    # Każde zaplanowane okno odświeża RSS; commit powstaje tylko, gdy dane faktycznie się zmienią.
 
     articles, seen = [], set()
     for name, url in FEEDS:
