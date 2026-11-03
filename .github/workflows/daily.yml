@@ -8,13 +8,13 @@ on:
       - 'data/editorial.json'
   workflow_dispatch:
   schedule:
-    # Osobne wpisy ułatwiają kontrolę harmonogramu w GitHub Actions.
-    # Każda para godzin obejmuje CEST i CET; generator wybiera właściwą godzinę lokalną.
-    - cron: "0 6,7 * * *"
-    - cron: "0 9,10 * * *"
-    - cron: "0 12,13 * * *"
-    - cron: "0 15,16 * * *"
-    - cron: "0 18,19 * * *"
+    # Minuta 17 omija największy tłok harmonogramu GitHub Actions na początku godziny.
+    # Pary UTC pokrywają CEST i CET; generator filtruje właściwą godzinę w Europe/Warsaw.
+    - cron: "17 6,7 * * *"
+    - cron: "17 9,10 * * *"
+    - cron: "17 12,13 * * *"
+    - cron: "17 15,16 * * *"
+    - cron: "17 18,19 * * *"
 permissions:
   contents: write
 concurrency:
@@ -34,16 +34,30 @@ jobs:
         env:
           FORCE_PUBLISH: ${{ github.event_name != 'schedule' && '1' || '0' }}
         run: python scripts/generate_daily.py
-      - name: Publish to GitHub Pages
+      - name: Publish to GitHub Pages (retry concurrent pushes)
         if: success()
+        env:
+          FORCE_PUBLISH: ${{ github.event_name != 'schedule' && '1' || '0' }}
         run: |
-          if git diff --quiet; then
-            echo "Brak zmian do opublikowania."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/daily.json archive/
-          git commit -m "Publish free RSS-only LEVEL NEXT DAILY edition"
-          git push
-# Schedule note: RSS refresh runs five times daily at 08:00, 11:00, 14:00, 17:00 and 20:00 Europe/Warsaw.
+          for attempt in 1 2 3 4; do
+            git add data/daily.json archive/
+            if git diff --cached --quiet; then
+              echo "Brak zmian do opublikowania."
+              exit 0
+            fi
+            git commit -m "Publish free RSS-only LEVEL NEXT DAILY edition"
+            if git push; then
+              exit 0
+            fi
+            echo "Konflikt publikacji (próba $attempt). Pobieram aktualny main i ponawiam generowanie."
+            git reset --hard HEAD^
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/generate_daily.py
+            sleep 4
+          done
+          echo "Nie udało się opublikować wydania po 4 próbach."
+          exit 1
+# Schedule note: publikacje około 08:17, 11:17, 14:17, 17:17 i 20:17 czasu Europe/Warsaw.
