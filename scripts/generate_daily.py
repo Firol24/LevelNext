@@ -55,7 +55,7 @@ def clean_summary(value, title):
     text = re.sub(r"^(?:Informacja|Wiadomość)\\s+.+?\\s+została opublikowana przez .+$", "", text, flags=re.I)
     if title and text.lower().startswith(title.lower()):
         text = text[len(title):].lstrip(" .:—–-")
-    return text[:220].strip()
+    return text[:650].strip()
 
 def image_from_item(item, description):
     for node in item.iter():

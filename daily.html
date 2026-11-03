@@ -43,7 +43,7 @@
     .side-section .section-kicker{background:#35104f;border-left-color:#9b52d0}
     .cinema-section>.section-kicker{background:#6b3d0c;border-left-color:#d99b2b;color:#fff2b3}
     .archive>.section-kicker{background:#25202a;border-left-color:#8c7a98;color:#fff}
-    .story-image,.lead-image,.editorial-image,.cinema-image,.film-image{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:#d5cbbb;margin:0 0 10px}
+    .story-image,.lead-image,.editorial-image,.cinema-image,.film-image,.release-image{display:block;width:100%;aspect-ratio:16/9;object-fit:contain;background:#d5cbbb;margin:0 0 10px}.cinema-image,.film-image{aspect-ratio:auto;object-fit:contain;max-height:280px}.release-image{max-height:180px}
     .lead-image{max-height:360px}
     .editorial-image{aspect-ratio:16/9}
     .cinema-image{aspect-ratio:2/3;max-width:190px;object-position:top}
@@ -169,7 +169,7 @@
       <h2 id="story-dialog-title"></h2>
       <div id="story-dialog-media"></div>
       <p id="story-dialog-summary"></p>
-      <p class="dialog-note">To krótki opis z kanału RSS, a nie kopia pełnego artykułu. Pełny materiał, kontekst i autorstwo pozostają u wydawcy — źródło jest podane poniżej.</p>
+      <p class="dialog-note">To rozszerzone omówienie przygotowane na podstawie opisu RSS. Pełny artykuł, jego oryginalne brzmienie i autorstwo pozostają u wydawcy — źródło jest podane poniżej.</p>
       <a id="story-dialog-source" class="dialog-source" href="#" target="_blank" rel="noopener noreferrer">ORYGINALNE ŹRÓDŁO ↗</a>
     </div>
   </dialog>
@@ -231,7 +231,7 @@
     const indie=$('indie-list');
     if(Array.isArray(data.indie)&&data.indie.length){ indie.replaceChildren(...data.indie.map(item=>{const el=node('article','indie-item');if(item.imageUrl){const img=node('img','editorial-image');img.src=item.imageUrl;img.alt='Grafika gry '+item.title;img.loading='lazy';el.append(img);}el.append(node('span','tag','INDIE RADAR'),node('h3','',item.title),node('div','item-meta',[item.date,item.platform].filter(Boolean).join(' · ')),node('p','',item.summary||''));const a=link(item.sourceUrl,'Sprawdź grę ↗');if(a)el.append(a);return el;}));}
     const releases=$('release-list');
-    if(Array.isArray(data.releases)&&data.releases.length){ releases.replaceChildren(...data.releases.map(item=>{const el=node('article','release-item');const d=item.date?new Date(item.date+'T12:00:00').toLocaleDateString('pl-PL',{day:'numeric',month:'short'}):'Data nieustalona';el.append(node('div','release-date',d+' · '+(item.status==='confirmed'?'POTWIERDZONA':'TERMIN W KALENDARZACH')),node('h3','',item.title),node('p','',[item.platform,item.note].filter(Boolean).join(' — ')));const a=link(item.sourceUrl,'Źródło daty ↗');if(a)el.append(a);return el;}));}
+    if(Array.isArray(data.releases)&&data.releases.length){ releases.replaceChildren(...data.releases.map(item=>{const el=node('article','release-item');const d=item.date?new Date(item.date+'T12:00:00').toLocaleDateString('pl-PL',{day:'numeric',month:'short'}):'Data nieustalona';if(item.imageUrl){const img=node('img','release-image');img.src=item.imageUrl;img.alt='Grafika gry '+item.title;img.loading='lazy';img.onerror=()=>img.remove();el.append(img);}el.append(node('div','release-date',d+' · '+(item.status==='confirmed'?'POTWIERDZONA':'TERMIN W KALENDARZACH')),node('h3','',item.title),node('p','',[item.platform,item.note].filter(Boolean).join(' — ')));const a=link(item.sourceUrl,'Źródło daty ↗');if(a)el.append(a);return el;}));}
     const cinema=$('cinema-list');
     if(Array.isArray(data.cinema)&&data.cinema.length){cinema.replaceChildren(...data.cinema.map(item=>{const el=node('article','cinema-card');const d=item.date?new Date(item.date+'T12:00:00').toLocaleDateString('pl-PL',{day:'numeric',month:'long'}):'Termin do potwierdzenia';if(item.imageUrl){const img=node('img','cinema-image');img.src=item.imageUrl;img.alt='Plakat filmu '+item.title;img.loading='lazy';el.append(img);}el.append(node('div','release-date',d+' · POLSKA PREMIERA'),node('h3','',item.title),node('div','item-meta',item.genre||''),node('p','',item.summary||''));const a=link(item.sourceUrl,'Sprawdź szczegóły ↗');if(a)el.append(a);return el;}));}
     const film=$('film-box');

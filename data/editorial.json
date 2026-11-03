@@ -49,7 +49,8 @@
       "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "status": "confirmed",
       "note": "Atari potwierdza dzisiejszą premierę odświeżonej bijatyki kaiju z 2002 roku; przebudowana oprawa i tryb sieciowy dołączają do lokalnych starć.",
-      "sourceUrl": "https://atari.com/products/godzilla-destroy-all-monsters-melee-remastered"
+      "sourceUrl": "https://atari.com/products/godzilla-destroy-all-monsters-melee-remastered",
+      "imageUrl": "https://i.kym-cdn.com/photos/images/newsfeed/003/313/290/2e3.jpeg"
     },
     {
       "date": "2026-11-03",
@@ -57,7 +58,8 @@
       "platform": "PC (Steam)",
       "status": "confirmed",
       "note": "Team Junkfish wyznaczyło premierę survival horroru na 3 listopada; na wyspie trzeba unikać zmutowanych dinozaurów i badać ślady poprzednich wypraw.",
-      "sourceUrl": "https://www.gamespress.com/uk-UA/Wilderdark-Unleashes-a-New-Breed-of-Survival-Horror-on-3-November"
+      "sourceUrl": "https://www.gamespress.com/uk-UA/Wilderdark-Unleashes-a-New-Breed-of-Survival-Horror-on-3-November",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2735850/3f614f86c58c8f65acbd1db9fc5b9ed34d27a1e5/header.jpg"
     },
     {
       "date": "2026-11-03",
@@ -65,7 +67,8 @@
       "platform": "PC (Steam)",
       "status": "listed",
       "note": "Steam i kalendarze premier wskazują 3 listopada; eksperymentalna przygodówka body horror o domu, którego wnętrze jest żywym organizmem.",
-      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/"
+      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/dd2a5d82f81e43768bfd83a34f3f9953eb9c8d15/header.jpg"
     },
     {
       "date": "2026-11-05",
@@ -73,7 +76,8 @@
       "platform": "PC (Steam), PlayStation 5, Nintendo Switch 2",
       "status": "confirmed",
       "note": "FuRyu zapowiedziało mroczne action roguelike w świecie zaświatów na 5 listopada; bohaterki walczą, by zmierzyć się z własnymi grzechami i odzyskać wolność.",
-      "sourceUrl": "https://www.gamespress.com/nl/Confess-Your-Sins-in-CRYMELIGHT-the-Next-Installment-in-the-Popular-Da"
+      "sourceUrl": "https://www.gamespress.com/nl/Confess-Your-Sins-in-CRYMELIGHT-the-Next-Installment-in-the-Popular-Da",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3891160/header.jpg"
     },
     {
       "date": "2026-11-19",
@@ -81,7 +85,8 @@
       "platform": "PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
       "note": "Rockstar podał 19 listopada jako nową datę premiery; powrót do współczesnego Vice City i stanu Leonida.",
-      "sourceUrl": "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026"
+      "sourceUrl": "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026",
+      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/Official_Cover_Art_landscape.12.uu2irr.2_a.jpg?akim=1&imdensity=1&imwidth=3840"
     },
     {
       "date": "2026-12-03",
@@ -89,7 +94,8 @@
       "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "status": "confirmed",
       "note": "Painted Black Games i Silver Lining Interactive potwierdziły datę premiery pixel-artowego horroru o matce i córce próbujących przetrwać w upadłym świecie.",
-      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026"
+      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3895110/8b2f5aaa7e2a06ff809f055a399d03025d9a7adb/header.jpg"
     }
   ],
   "cinema": [
