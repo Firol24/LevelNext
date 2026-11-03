@@ -55,7 +55,7 @@ def clean_summary(value, title):
     text = re.sub(r"^(?:Informacja|Wiadomość)\\s+.+?\\s+została opublikowana przez .+$", "", text, flags=re.I)
     if title and text.lower().startswith(title.lower()):
         text = text[len(title):].lstrip(" .:—–-")
-    return text[:320].strip()
+    return text[:220].strip()
 
 def image_from_item(item, description):
     for node in item.iter():
@@ -213,7 +213,7 @@ def main():
             "date": issue_date,
             "updatedAt": now.isoformat(timespec="minutes"),
             "headline": "Świeże sygnały ze świata gier",
-            "editorNote": "Wydanie zbudowane automatycznie z kanałów RSS. Tytuły i opisy pochodzą ze źródeł — kliknij, aby przeczytać oryginalne materiały.",
+            "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
             **rss_fields,
             "indie": editorial.get("indie", []),
             "releases": editorial.get("releases", []),
