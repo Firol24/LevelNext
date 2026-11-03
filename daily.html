@@ -63,7 +63,7 @@
     .columns{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(260px,.8fr);gap:30px;padding-top:28px}
     .news-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 20px}
     .story{padding:15px 0;border-top:1px solid var(--line);min-width:0}
-    .story h3{font:22px/1.08 var(--serif);margin:9px 0}
+    .story h3{font:22px/1.08 var(--serif);margin:9px 0}.story-title-link{text-decoration:none}.story-title-link:hover{color:var(--purple)}
     .story p{font:13px/1.55 var(--sans);color:#554d57;margin:0 0 10px}
     .story-meta{font:9px var(--mono);color:var(--muted);text-transform:uppercase}
     .side-section{border-top:4px solid var(--ink);padding-top:12px;margin-bottom:26px}
@@ -166,7 +166,9 @@
     const article=node('article','story');
     if(item.imageUrl){const img=node('img','story-image');prepareImage(img,item.imageUrl);img.alt='';article.append(img);}
     if(item.category) article.append(node('span','tag',item.category));
-    article.append(node('h3','',item.title||'Bez tytułu'));
+    const title=node('h3','',item.title||'Bez tytułu');
+    if(item.articleSlug){const a=node('a','story-title-link');a.href='article.html?id='+encodeURIComponent(item.articleSlug);a.append(title);article.append(a);}
+    else article.append(title);
     article.append(node('p','',item.summary||''));
     let publishedLabel='';
     if(item.publishedAt){
@@ -174,7 +176,8 @@
       publishedLabel=Number.isNaN(publishedDate.getTime()) ? item.publishedAt : publishedDate.toLocaleString('pl-PL',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:false});
     }
     article.append(node('div','story-meta',[item.sourceName,publishedLabel].filter(Boolean).join(' · ')));
-    const a=link(item.sourceUrl,'Oryginalne źródło ↗'); if(a) article.append(a);
+    if(item.articleSlug){const a=node('a','read-link','Czytaj felieton ↗');a.href='article.html?id='+encodeURIComponent(item.articleSlug);article.append(a);}
+    else {const a=link(item.sourceUrl,'Oryginalne źródło ↗'); if(a) article.append(a);}
     return article;
   }
   function render(data) {
