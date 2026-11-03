@@ -8,10 +8,9 @@ on:
       - 'data/editorial.json'
   workflow_dispatch:
   schedule:
-    # Główne uruchomienie 08:00 PL (06:00 UTC latem / 07:00 UTC zimą).
-    - cron: "0 6,7 * * *"
-    # Zapasowe uruchomienie 08:10 PL; generator pomija duplikat, jeśli wydanie już istnieje.
-    - cron: "10 6,7 * * *"
+    # 08:00, 11:00, 14:00, 17:00 i 20:00 czasu polskiego.
+    # GitHub cron działa w UTC; podajemy oba warianty DST/CET, a generator filtruje lokalne godziny.
+    - cron: "0 6,7,9,10,12,13,15,16,18,19 * * *"
 permissions:
   contents: write
 concurrency:
@@ -43,4 +42,4 @@ jobs:
           git add data/daily.json archive/
           git commit -m "Publish free RSS-only LEVEL NEXT DAILY edition"
           git push
-# Recovery note: the 08:00 schedule was missed on 2026-11-03; an 08:10 fallback is now configured.
+# Schedule note: RSS refresh runs five times daily at 08:00, 11:00, 14:00, 17:00 and 20:00 Europe/Warsaw.
