@@ -8,9 +8,13 @@ on:
       - 'data/editorial.json'
   workflow_dispatch:
   schedule:
-    # 08:00, 11:00, 14:00, 17:00 i 20:00 czasu polskiego.
-    # GitHub cron działa w UTC; podajemy oba warianty DST/CET, a generator filtruje lokalne godziny.
-    - cron: "0 6,7,9,10,12,13,15,16,18,19 * * *"
+    # Osobne wpisy ułatwiają kontrolę harmonogramu w GitHub Actions.
+    # Każda para godzin obejmuje CEST i CET; generator wybiera właściwą godzinę lokalną.
+    - cron: "0 6,7 * * *"
+    - cron: "0 9,10 * * *"
+    - cron: "0 12,13 * * *"
+    - cron: "0 15,16 * * *"
+    - cron: "0 18,19 * * *"
 permissions:
   contents: write
 concurrency:
