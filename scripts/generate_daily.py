@@ -172,12 +172,14 @@ def main():
     if not articles_by_source:
         raise RuntimeError("Nie udało się pobrać żadnego materiału RSS. Nie publikuję pustego wydania.")
 
-    # Rotacja źródeł: żaden wydawca nie może zdominować całej strony.
+    # Rotacja źródeł: pokazujemy więcej materiałów, ale pilnujemy różnorodności.
+    # Liczba newsów jest dynamiczna: zależy od tego, ile pozycji zwrócą RSS-y.
+    # Maksymalnie 5 materiałów z jednego źródła, bez sztywnego limitu całego wydania.
     news, source_counts = [], {}
-    while len(news) < 12:
+    while True:
         added_this_round = False
         for source_name, source_items in articles_by_source.items():
-            if source_items and source_counts.get(source_name, 0) < 3 and len(news) < 12:
+            if source_items and source_counts.get(source_name, 0) < 5:
                 news.append(source_items.pop(0))
                 source_counts[source_name] = source_counts.get(source_name, 0) + 1
                 added_this_round = True
