@@ -6,35 +6,40 @@
       "date": "2026-11-03",
       "platform": "PC (Steam)",
       "summary": "Pierwszoosobowy survival horror na wyspie opanowanej przez pasożytniczy organizm, który mutuje dinozaury i roślinność. Przetrwanie opiera się na skradaniu, dokumentowaniu znalezisk i odkrywaniu losów zaginionych ekspedycji.",
-      "sourceUrl": "https://store.steampowered.com/app/2735850/Wilderdark/"
+      "sourceUrl": "https://store.steampowered.com/app/2735850/Wilderdark/",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2735850/header.jpg"
     },
     {
       "title": "The House Before",
       "date": "2026-11-03",
       "platform": "PC (Steam)",
       "summary": "Eksperymentalny body horror, w którym budzisz się jako żywy dom: kości stają się rurami, a organy labiryntem korytarzy. Surrealistyczna przygodówka z mocno niecodziennym punktem wyjścia.",
-      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/"
+      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1779750/header.jpg"
     },
     {
       "title": "Saraab: Beyond The Veil",
       "date": null,
       "platform": "PC (Steam, macOS, Linux)",
       "summary": "Ręcznie rysowana powieść wizualna z psychologicznym horrorem i arabskim folklorem. Elham szuka zaginionego brata, mierząc się z własnym cieniem, rodzinnymi sekretami i istotami z pogranicza jawy.",
-      "sourceUrl": "https://store.steampowered.com/app/4134310/"
+      "sourceUrl": "https://store.steampowered.com/app/4134310/",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/4134310/header.jpg"
     },
     {
       "title": "Project Hypnagogia",
       "date": null,
       "platform": "PC (Steam)",
       "summary": "Surrealistyczny horror psychologiczny o eksperymencie w opuszczonym szpitalu, który materializuje najgłębsze lęki badanego. Steam wskazuje IV kwartał 2026, ale bez konkretnego dnia premiery.",
-      "sourceUrl": "https://store.steampowered.com/app/1499010/Project_Hypnagogia/"
+      "sourceUrl": "https://store.steampowered.com/app/1499010/Project_Hypnagogia/",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1499010/header.jpg"
     },
     {
       "title": "The Road of Dust and Sorrow",
       "date": "2026-12-03",
       "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "summary": "Pixel-artowy survival horror inspirowany Resident Evil i Silent Hill z lat 90. Prowadzisz Katherine przez zrujnowany świat, próbując ochronić córkę Avę przed wygłodniałymi stworami.",
-      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026"
+      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3210130/header.jpg"
     }
   ],
   "releases": [
