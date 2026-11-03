@@ -5,35 +5,51 @@
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Twierdza 4 mocno się opóźni. Twórcy średniowiecznej strategii chcą zapewnić graczom więcej jakości na premierę",
-    "summary": "Firefly Studios podało nową datę premiery Twierdzy 4, tym samym opóźniając premierę średniowiecznej strategii. Gracze poczekają kilka miesięcy dłużej, by dostać więcej dopracowanej zawartości. Informacja Twierdza 4 mocno",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/twierdza-4-mocno-sie-opozni-tworcy-sredniowiecznej-strategii-chca/z4321e9",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531427863.jpg"
+    "title": "Nie mogę przestać myśleć o tym filmie. Włączam go każdej jesieni i nie żałuję",
+    "summary": "Są filmy genialne w swojej prostocie. Nie mam zamiaru polemizować, że “Mój sąsiad Totoro”, prawdziwy klasyk studia Ghibli, należy do tego grona.",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/432023/nie-moge-przestac-myslec-o-tym-filmie-wlaczam-go-kazdej-jesieni-i-nie-zaluje.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Nie mogę przestać myśleć o tym filmie. Włączam go każdej jesieni i nie żałuję",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432023/nie-moge-przestac-myslec-o-tym-filmie-wlaczam-go-kazdej-jesieni-i-nie-zaluje.html",
+      "publishedAt": "2026-11-03T20:00+01:00",
+      "summary": "Są filmy genialne w swojej prostocie. Nie mam zamiaru polemizować, że “Mój sąsiad Totoro”, prawdziwy klasyk studia Ghibli, należy do tego grona.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Twierdza 4 mocno się opóźni. Twórcy średniowiecznej strategii chcą zapewnić graczom więcej jakości na premierę",
       "sourceUrl": "https://www.gry-online.pl/newsroom/twierdza-4-mocno-sie-opozni-tworcy-sredniowiecznej-strategii-chca/z4321e9",
       "publishedAt": "2026-11-03T19:51+01:00",
-      "summary": "Firefly Studios podało nową datę premiery Twierdzy 4, tym samym opóźniając premierę średniowiecznej strategii. Gracze poczekają kilka miesięcy dłużej, by dostać więcej dopracowanej zawartości. Informacja Twierdza 4 mocno",
+      "summary": "Firefly Studios podało nową datę premiery Twierdzy 4, tym samym opóźniając premierę średniowiecznej strategii. Gracze poczekają kilka miesięcy dłużej, by dostać więcej dopracowanej zawartości. Informacja Twierdza 4 mocno się opóźni. Twórcy średniowiecznej strategii chcą zapewnić graczom więcej jakości na premierę została opublikowana przez GRYOnline.pl 3 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531427863.jpg"
     },
     {
       "sourceName": "PPE",
-      "title": "Listopad w Xbox Game Pass to miesiąc mocnych wrażeń. Microsoft szykuje konkretny powiew nowości",
-      "sourceUrl": "https://www.ppe.pl/news/431904/listopad-w-xbox-game-pass-to-miesiac-mocnych-wrazen-microsoft-szykuje-konkretny-powiew-nowosci.html",
-      "publishedAt": "2026-11-03T19:14+01:00",
-      "summary": "Microsoft jest świadom, że listopad to miesiąc, w którym nie zabraknie ważnych premier dla graczy. Jednak do tego czasu wypadałoby mieć w co grać, dlatego w najbliższych dniach do Game Passa trafi sporo nowych pozycji.",
+      "title": "Phantom Blade Zero sprzedaje się znakomicie! Niesamowity wynik",
+      "sourceUrl": "https://www.ppe.pl/news/432058/phantom-blade-zero-sprzedaje-sie-znakomicie-niesamowity-wynik.html",
+      "publishedAt": "2026-11-03T19:50+01:00",
+      "summary": "„Phantom Blade Zero” może pochwalić się imponującym wynikiem sprzedaży. Według szacunków firmy Alinea Analytics gra znalazła już 4,3 mln nabywców na Steamie i PlayStation 5, generując łącznie około 223 mln dolarów przychodu.",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Premiera Twierdzy 4 przesunięta. W zamian gracze dostaną coś ekstra",
+      "sourceUrl": "https://cdaction.pl/newsy/premiera-twierdzy-4-przesunieta-w-zamian-gracze-dostana-cos-ekstra/",
+      "publishedAt": "2026-11-03T19:21+01:00",
+      "summary": "Chciałoby się wielkich rzeczy, a tu rzeczywistość skrzeczy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/twierdza4-1-1260x709.jpg"
     },
     {
       "sourceName": "GRY-Online",
       "title": "Rockstar może szykować się do premiery GTA 6 na PC. Gracze nabierają pewności, że opóźnienie względem konsol nie będzie duże",
       "sourceUrl": "https://www.gry-online.pl/newsroom/rockstar-moze-szykowac-sie-do-premiery-gta-6-na-pc-gracze-nabiera/z3321e8",
       "publishedAt": "2026-11-03T19:07+01:00",
-      "summary": "Użytkownicy pecetów wciąż czekają na informacje dotyczące GTA 6, a najnowszy ruch Rockstar Games dał im kolejny powód do spekulacji. Aktualizacja launchera spotęgowała dyskusję o możliwej premierze gry na komputerach oso",
+      "summary": "Użytkownicy pecetów wciąż czekają na informacje dotyczące GTA 6, a najnowszy ruch Rockstar Games dał im kolejny powód do spekulacji. Aktualizacja launchera spotęgowała dyskusję o możliwej premierze gry na komputerach osobistych w przyszłym roku. Informacja Rockstar może szykować się do premiery GTA 6 na PC. Gracze nabierają pewności, że opóźnienie względem konsol nie będzie duże została opublikowana przez GRYOnline.pl 3 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531425212.jpg"
     },
@@ -42,24 +58,16 @@
       "title": "Zestaw Humble Choice Listopad 2026. Genialna paczka 7 gier Steam z malutkim haczykiem!",
       "sourceUrl": "https://lowcygier.pl/bundle/zestaw-humble-choice-listopad-2026-genialna-paczka-7-gier-steam-z-malutkim-haczykiem/",
       "publishedAt": "2026-11-03T19:02+01:00",
-      "summary": "Łowcy, przed Wami przedostatnia w tym roku odsłona abonamentu Humble Choice. W ramach listopadowej odsłony możecie otrzymać kolejne 8 gier PC (w tym 7 kluczy Steam) . Gdzie jest więc haczyk? Dla wielu osób rozczarowujący",
+      "summary": "Łowcy, przed Wami przedostatnia w tym roku odsłona abonamentu Humble Choice. W ramach listopadowej odsłony możecie otrzymać kolejne 8 gier PC (w tym 7 kluczy Steam) . Gdzie jest więc haczyk? Dla wielu osób rozczarowujący może być fakt, że The Outer Worlds 2 oferowane jest w postaci aktywacji na platformie Battle.net… Pomijające jednak tę małą niedogodność, mówimy tutaj o genialny zestawie zawierającym takie produkcje jak: Mafia: The Old Country , SHINOBI: Art of Vengeance, Crisol: Theater of Idols oraz Yakuza 6: The Song of Life. Całość oferowana jest w standardowej cenie €12.99 (57,33 zł). Czas na dokonanie zakupu macie przez najbliższy mies",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/09/Humble-Choice-new_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ali G: Kto ja jezdem? (2026) – recenzja filmu [Amazon]. Tak źle jeszcze chyba nie było",
-      "sourceUrl": "https://www.ppe.pl/recenzje/432032/ali-g-kto-ja-jezdem-2026-recenzja-filmu-amazon-tak-zle-jeszcze-chyba-nie-bylo.html",
-      "publishedAt": "2026-11-03T19:00+01:00",
-      "summary": "Sprzedając stare graty aby mieć na zbliżające się wielkimi krokami dziecko, przebrzmiała gwiazda przełomu tysiąclecia, samozwańczy gangster Ali G, otrzymuje faks od HBO, że pragnęliby oni wyłożyć gruby hajs na kolejny se",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
       "title": "Wyprzedaż kontrolerów do Nintendo Switch 2 w RTV Euro AGD. Pady od PowerA już za 85,99 zł!",
       "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/wyprzedaz-kontrolerow-do-nintendo-switch-2-w-rtv-euro-agd-pady-od-powera-juz-za-8599-zl/",
       "publishedAt": "2026-11-03T18:22+01:00",
-      "summary": "Do oferty internetowego sklepu RTV Euro AGD powróciła promocja na kontrolery dedykowane konsolom Nintendo Switch i Nintendo Switch 2. W ramach wyprzedaży, wybrane modele bezprzewodowych padów od firmy PowerA dostępne są",
+      "summary": "Do oferty internetowego sklepu RTV Euro AGD powróciła promocja na kontrolery dedykowane konsolom Nintendo Switch i Nintendo Switch 2. W ramach wyprzedaży, wybrane modele bezprzewodowych padów od firmy PowerA dostępne są już od 85,99 zł. Naszym zdaniem na szczególną uwagę zasługuje tutaj oficjalnie licencjonowany wariant Galactic Vortex, wykorzystujący dynamiczne podświetlenie Lumectra, który może być Wasz za 171,99 zł. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-kontrolerow-do-Nintendo-Switch-2-w-RTV-Euro-AGD.-Pady-od-PowerA-juz-za-8599-zl_minaturka-224x224.jpg"
     },
@@ -68,25 +76,16 @@
       "title": "Zagrałem w remake Heroes of Might and Magic 3 i niestety wciąż się zastanawiam, dlaczego miałbym go wybrać zamiast klasycznej wersji",
       "sourceUrl": "https://cdaction.pl/juz-gralismy/zagralem-w-remake-heroes-of-might-and-magic-3-i-niestety-wciaz-sie-zastanawiam-dlaczego-mialbym-go-wybrac-zamiast-klasycznej-wersji/",
       "publishedAt": "2026-11-03T17:26+01:00",
-      "summary": "Rozumiem perspektywę Ubisoftu, który chce mieć „swoje” Heroesy 3, ale nie mogę przestać myśleć o tym, czy ten remake w ogóle jest potrzebny graczom. Wiele rzeczy serwuje dobrze, ale czy na tyle, by stanowić realną altern",
+      "summary": "Rozumiem perspektywę Ubisoftu, który chce mieć „swoje” Heroesy 3, ale nie mogę przestać myśleć o tym, czy ten remake w ogóle jest potrzebny graczom. Wiele rzeczy serwuje dobrze, ale czy na tyle, by stanowić realną alternatywę dla oryginału?",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/525446162-1260x709.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "The Elder Scrolls 6 wreszcie ma pełną nazwę. Podejrzenia fanów były zasadne",
-      "sourceUrl": "https://cdaction.pl/newsy/the-elder-scrolls-6-wreszcie-ma-pelna-nazwe-podejrzenia-fanow-byly-zasadne/",
-      "publishedAt": "2026-11-03T16:41+01:00",
-      "summary": "Zmierzamy w ciepłe rejony.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/sentinel-1260x562.jpg"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
       "title": "Najlepsze gry w Xbox Game Pass - 2026",
       "sourceUrl": "https://www.gry-online.pl/opinie/najlepsze-gry-w-xbox-game-pass-2023/zcb9a",
       "publishedAt": "2026-11-02T16:48+01:00",
-      "summary": "„Netflix dla gier”, czyli abonament Xbox Game Pass pozwala wybierać wśród setek świetnych tytułów. Czasem od przybytku aż głowa boli, więc prezentujemy najciekawsze produkcje dostępne w usłudze Microsoftu na PC i na kons",
+      "summary": "„Netflix dla gier”, czyli abonament Xbox Game Pass pozwala wybierać wśród setek świetnych tytułów. Czasem od przybytku aż głowa boli, więc prezentujemy najciekawsze produkcje dostępne w usłudze Microsoftu na PC i na konsole Xbox. Najlepsze gry w Xbox Game Pass - 2026 został opublikowany przez gry-online.pl 2 listopada 2026. Zobacz zasady korzystania z naszych treści .",
       "category": "PUBLICYSTYKA"
     },
     {
@@ -103,7 +102,7 @@
       "title": "Nienawidziłem pustyni w Diablo 2, ale nigdy jej nie zapomnę. Oto 10 pustynnych światów, które zapisały się w mojej pamięci",
       "sourceUrl": "https://www.gry-online.pl/opinie/nienawidzilem-pustyni-w-diablo-2-ale-nigdy-jej-nie-zapomne-oto-10/z649d5",
       "publishedAt": "2026-10-31T10:00+01:00",
-      "summary": "Ciężko jest zaprojektować dobrą pustynię w grach – w poniższej liście znajdziecie przykłady tych gier, w których pustynny etap zapamiętałem i które wspominam. Nawet jeśli nie zawsze mile. Nienawidziłem pustyni w Diablo 2",
+      "summary": "Ciężko jest zaprojektować dobrą pustynię w grach – w poniższej liście znajdziecie przykłady tych gier, w których pustynny etap zapamiętałem i które wspominam. Nawet jeśli nie zawsze mile. Nienawidziłem pustyni w Diablo 2, ale nigdy jej nie zapomnę. Oto 10 pustynnych światów, które zapisały się w mojej pamięci został opublikowany przez gry-online.pl 31 października 2026. Zobacz zasady korzystania z naszych treści .",
       "category": "PUBLICYSTYKA"
     },
     {
@@ -165,7 +164,8 @@
       "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "status": "confirmed",
       "note": "Atari potwierdza dzisiejszą premierę odświeżonej bijatyki kaiju z 2002 roku; przebudowana oprawa i tryb sieciowy dołączają do lokalnych starć.",
-      "sourceUrl": "https://atari.com/products/godzilla-destroy-all-monsters-melee-remastered"
+      "sourceUrl": "https://atari.com/products/godzilla-destroy-all-monsters-melee-remastered",
+      "imageUrl": "https://i.kym-cdn.com/photos/images/newsfeed/003/313/290/2e3.jpeg"
     },
     {
       "date": "2026-11-03",
@@ -173,7 +173,8 @@
       "platform": "PC (Steam)",
       "status": "confirmed",
       "note": "Team Junkfish wyznaczyło premierę survival horroru na 3 listopada; na wyspie trzeba unikać zmutowanych dinozaurów i badać ślady poprzednich wypraw.",
-      "sourceUrl": "https://www.gamespress.com/uk-UA/Wilderdark-Unleashes-a-New-Breed-of-Survival-Horror-on-3-November"
+      "sourceUrl": "https://www.gamespress.com/uk-UA/Wilderdark-Unleashes-a-New-Breed-of-Survival-Horror-on-3-November",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2735850/3f614f86c58c8f65acbd1db9fc5b9ed34d27a1e5/header.jpg"
     },
     {
       "date": "2026-11-03",
@@ -181,7 +182,8 @@
       "platform": "PC (Steam)",
       "status": "listed",
       "note": "Steam i kalendarze premier wskazują 3 listopada; eksperymentalna przygodówka body horror o domu, którego wnętrze jest żywym organizmem.",
-      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/"
+      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/dd2a5d82f81e43768bfd83a34f3f9953eb9c8d15/header.jpg"
     },
     {
       "date": "2026-11-05",
@@ -189,7 +191,8 @@
       "platform": "PC (Steam), PlayStation 5, Nintendo Switch 2",
       "status": "confirmed",
       "note": "FuRyu zapowiedziało mroczne action roguelike w świecie zaświatów na 5 listopada; bohaterki walczą, by zmierzyć się z własnymi grzechami i odzyskać wolność.",
-      "sourceUrl": "https://www.gamespress.com/nl/Confess-Your-Sins-in-CRYMELIGHT-the-Next-Installment-in-the-Popular-Da"
+      "sourceUrl": "https://www.gamespress.com/nl/Confess-Your-Sins-in-CRYMELIGHT-the-Next-Installment-in-the-Popular-Da",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3891160/header.jpg"
     },
     {
       "date": "2026-11-19",
@@ -197,7 +200,8 @@
       "platform": "PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
       "note": "Rockstar podał 19 listopada jako nową datę premiery; powrót do współczesnego Vice City i stanu Leonida.",
-      "sourceUrl": "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026"
+      "sourceUrl": "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026",
+      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/Official_Cover_Art_landscape.12.uu2irr.2_a.jpg?akim=1&imdensity=1&imwidth=3840"
     },
     {
       "date": "2026-12-03",
@@ -205,7 +209,8 @@
       "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "status": "confirmed",
       "note": "Painted Black Games i Silver Lining Interactive potwierdziły datę premiery pixel-artowego horroru o matce i córce próbujących przetrwać w upadłym świecie.",
-      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026"
+      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3895110/8b2f5aaa7e2a06ff809f055a399d03025d9a7adb/header.jpg"
     }
   ],
   "film": {
@@ -284,6 +289,6 @@
     }
   ],
   "editorialUpdatedAt": "2026-11-03",
-  "editorialHash": "82f0ab92d12261f808825d813bd8bace2d056b3c31b3181c9189c2f37e1b2ebd",
-  "updatedAt": "2026-11-03T19:21+01:00"
+  "editorialHash": "5a3325e7447fd3259a5c38d00c57e6db7f329c0a19ef6f65c6d177fadf691c5a",
+  "updatedAt": "2026-11-03T20:04+01:00"
 }
