@@ -18,6 +18,9 @@ FEEDS = [
     ("GRY-Online", "https://www.gry-online.pl/rss/news.xml"),
     ("GRY-Online / Publicystyka", "https://www.gry-online.pl/rss/teksty.xml"),
     ("Gamerweb", "https://gamerweb.pl/feed/"),
+    ("CD-Action", "https://cdaction.pl/feed/"),
+    ("PPE", "http://www.ppe.pl/rss.html"),
+    ("Łowcy Gier", "https://lowcygier.pl/feed/"),
 ]
 
 class TextExtractor(HTMLParser):
@@ -27,6 +30,16 @@ class TextExtractor(HTMLParser):
     def handle_data(self, data):
         self.parts.append(data)
 
+class ImageExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.images = []
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() == "img":
+            src = dict(attrs).get("src") or dict(attrs).get("data-src")
+            if src and src.startswith(("https://", "http://")):
+                self.images.append(src)
+
 def clean_html(value):
     parser = TextExtractor()
     try:
@@ -35,6 +48,29 @@ def clean_html(value):
     except Exception:
         pass
     return re.sub(r"\s+", " ", value or "").strip()[:700]
+
+def clean_summary(value, title):
+    text = clean_html(value)
+    text = re.sub(r"\\s+(?:Informacja|Wiadomość)\\s+.+?\\s+została opublikowana przez .+$", "", text, flags=re.I)
+    text = re.sub(r"^(?:Informacja|Wiadomość)\\s+.+?\\s+została opublikowana przez .+$", "", text, flags=re.I)
+    if title and text.lower().startswith(title.lower()):
+        text = text[len(title):].lstrip(" .:—–-")
+    return text[:320].strip()
+
+def image_from_item(item, description):
+    for node in item.iter():
+        name = local_name(node.tag)
+        url = node.attrib.get("url") or node.attrib.get("href")
+        if url and url.startswith(("https://", "http://")) and (
+            name in ("thumbnail", "content", "enclosure") or "image" in node.attrib.get("type", "").lower()
+        ):
+            return url
+    parser = ImageExtractor()
+    try:
+        parser.feed(description or "")
+    except Exception:
+        pass
+    return parser.images[0] if parser.images else ""
 
 def local_name(tag):
     return tag.rsplit("}", 1)[-1].lower()
@@ -79,14 +115,23 @@ def fetch_feed(name, url):
         desc = child_text(item, ["description", "encoded", "summary", "content"])
         published = child_text(item, ["pubdate", "published", "updated", "date"])
         if title and link.startswith(("https://", "http://")):
-            output.append({
+            clean_title = clean_html(title)
+            item_data = {
                 "sourceName": name,
-                "title": clean_html(title),
+                "title": clean_title,
                 "sourceUrl": link,
                 "publishedAt": parse_date(published),
-                "summary": clean_html(desc),
-                "category": "WIADOMOŚCI" if "Publicystyka" not in name else "PUBLICYSTYKA"
-            })
+                "summary": clean_summary(desc, clean_title),
+                "category": (
+                    "PUBLICYSTYKA" if "Publicystyka" in name else
+                    "PROMOCJE" if name == "Łowcy Gier" else
+                    "WIADOMOŚCI"
+                )
+            }
+            image_url = image_from_item(item, desc)
+            if image_url:
+                item_data["imageUrl"] = image_url
+            output.append(item_data)
     return output
 
 def main():
@@ -113,21 +158,35 @@ def main():
         current_issue = {}
     same_day_update = current_issue.get("date") == issue_date
 
-    articles, seen = [], set()
+    articles_by_source, seen = {}, set()
     for name, url in FEEDS:
         try:
+            source_items = []
             for item in fetch_feed(name, url):
                 if item["sourceUrl"] not in seen:
                     seen.add(item["sourceUrl"])
-                    articles.append(item)
+                    source_items.append(item)
+            source_items.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
+            if source_items:
+                articles_by_source[name] = source_items
         except Exception as error:
             print(f"RSS warning ({name}): {error}", file=sys.stderr)
 
-    if not articles:
+    if not articles_by_source:
         raise RuntimeError("Nie udało się pobrać żadnego materiału RSS. Nie publikuję pustego wydania.")
 
-    articles.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
-    news = articles[:12]
+    # Rotacja źródeł: żaden wydawca nie może zdominować całej strony.
+    news, source_counts = [], {}
+    while len(news) < 12:
+        added_this_round = False
+        for source_name, source_items in articles_by_source.items():
+            if source_items and source_counts.get(source_name, 0) < 3 and len(news) < 12:
+                news.append(source_items.pop(0))
+                source_counts[source_name] = source_counts.get(source_name, 0) + 1
+                added_this_round = True
+        if not added_this_round:
+            break
+    news.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
     lead_item = news[0]
     rss_fields = {
         "lead": {
@@ -136,8 +195,11 @@ def main():
             "summary": lead_item["summary"] or "Otwórz oryginalny materiał, aby poznać szczegóły.",
             "sourceUrl": lead_item["sourceUrl"]
         },
-        "news": news
+        "news": news,
+        "updatedAt": now.isoformat(timespec="minutes")
     }
+    if lead_item.get("imageUrl"):
+        rss_fields["lead"]["imageUrl"] = lead_item["imageUrl"]
 
     if same_day_update:
         # Aktualizacja tego samego wydania: zmieniamy wyłącznie sekcję newsową.
@@ -149,6 +211,7 @@ def main():
         issue = {
             "status": "rss-only",
             "date": issue_date,
+            "updatedAt": now.isoformat(timespec="minutes"),
             "headline": "Świeże sygnały ze świata gier",
             "editorNote": "Wydanie zbudowane automatycznie z kanałów RSS. Tytuły i opisy pochodzą ze źródeł — kliknij, aby przeczytać oryginalne materiały.",
             **rss_fields,
