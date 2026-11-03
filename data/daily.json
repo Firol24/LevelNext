@@ -154,7 +154,8 @@
       "date": "2026-12-03",
       "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "summary": "Pixel-artowy survival horror inspirowany Resident Evil i Silent Hill z lat 90. Prowadzisz Katherine przez zrujnowany świat, próbując ochronić córkę Avę przed wygłodniałymi stworami.",
-      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026"
+      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026",
+      "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3895110/header.jpg"
     }
   ],
   "releases": [
@@ -282,6 +283,6 @@
     }
   ],
   "editorialUpdatedAt": "2026-11-03",
-  "editorialHash": "e443df72e9523823b94d5f3aa04d0f5b8af6e2fecca2e20b66d047d705189976",
-  "updatedAt": "2026-11-03T19:15+01:00"
+  "editorialHash": "4b5e0c6b78a9af73cc0b1b75ecf5fee2dc9a99eda6ccbab79d928b1cd6999196",
+  "updatedAt": "2026-11-03T19:16+01:00"
 }
