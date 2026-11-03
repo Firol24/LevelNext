@@ -8,8 +8,10 @@ on:
       - 'data/editorial.json'
   workflow_dispatch:
   schedule:
-    # Dwa uruchomienia UTC, aby trafić w 08:00 czasu polskiego zimą i latem.
+    # Główne uruchomienie 08:00 PL (06:00 UTC latem / 07:00 UTC zimą).
     - cron: "0 6,7 * * *"
+    # Zapasowe uruchomienie 08:10 PL; generator pomija duplikat, jeśli wydanie już istnieje.
+    - cron: "10 6,7 * * *"
 permissions:
   contents: write
 concurrency:
@@ -41,4 +43,4 @@ jobs:
           git add data/daily.json archive/
           git commit -m "Publish free RSS-only LEVEL NEXT DAILY edition"
           git push
-# Recovery trigger: scheduled 08:00 run did not execute on 2026-11-03.
+# Recovery note: the 08:00 schedule was missed on 2026-11-03; an 08:10 fallback is now configured.
