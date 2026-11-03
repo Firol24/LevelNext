@@ -106,7 +106,7 @@
   <header class="masthead">
     <div class="topline">
       <a class="brand" href="index.html"><img src="logo.png" alt=""><span><strong>LEVEL NEXT</strong><span>RETRO GAMING CHANNEL</span></span></a>
-      <nav class="toplinks" aria-label="Nawigacja"><a href="index.html">Strona główna</a><a href="sprzet.html">Sprzęt</a></nav>
+      <nav class="toplinks" aria-label="Nawigacja"><a href="index.html">Strona główna</a><a href="sprzet.html">Sprzęt</a><a href="admin.html">Dodaj news</a></nav>
     </div>
   </header>
   <main class="paper">
@@ -214,7 +214,9 @@
       const editionPath=requestedDate && /^\d{4}-\d{2}-\d{2}$/.test(requestedDate) ? 'archive/'+requestedDate+'.json' : 'data/daily.json';
       const response=await fetch(editionPath+'?ts='+Date.now(),{cache:'no-store'});
       if(!response.ok) throw new Error('Nie udało się pobrać wydania.');
-      const data=await response.json(); render(data);
+      const data=await response.json();
+      try{const manualResponse=await fetch('data/manual-news.json?ts='+Date.now(),{cache:'no-store'});if(manualResponse.ok){const manual=await manualResponse.json();const issueDate=data.date||data.editionDate;const own=Array.isArray(manual[issueDate])?manual[issueDate]:[];data.news=[...own,...(Array.isArray(data.news)?data.news:[])];}}catch{}
+      render(data);
     }catch(error){ $('edition-status').textContent='TRYB OFFLINE'; $('lead-content').replaceChildren(node('div','empty error',error.message+' Spróbuj odświeżyć stronę później.')); }
     try{
       const response=await fetch('archive/index.json?ts='+Date.now(),{cache:'no-store'});
