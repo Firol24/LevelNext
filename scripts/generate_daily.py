@@ -107,7 +107,11 @@ def main():
     editorial_hash = hashlib.sha256(
         json.dumps(editorial, ensure_ascii=False, sort_keys=True).encode("utf-8")
     ).hexdigest()
-    # Każde zaplanowane okno odświeża RSS; commit powstaje tylko, gdy dane faktycznie się zmienią.
+    try:
+        current_issue = json.loads(current_path.read_text(encoding="utf-8"))
+    except Exception:
+        current_issue = {}
+    same_day_update = current_issue.get("date") == issue_date
 
     articles, seen = [], set()
     for name, url in FEEDS:
@@ -125,30 +129,36 @@ def main():
     articles.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
     news = articles[:12]
     lead_item = news[0]
-    issue = {
-        "status": "rss-only",
-        "date": issue_date,
-        "headline": "Świeże sygnały ze świata gier",
-        "editorNote": "Wydanie zbudowane automatycznie z kanałów RSS. Tytuły i opisy pochodzą ze źródeł — kliknij, aby przeczytać oryginalne materiały.",
+    rss_fields = {
         "lead": {
             "category": lead_item.get("category", "NAJNOWSZE"),
             "title": lead_item["title"],
             "summary": lead_item["summary"] or "Otwórz oryginalny materiał, aby poznać szczegóły.",
             "sourceUrl": lead_item["sourceUrl"]
         },
-        "news": news,
-        "indie": [],
-        "releases": [],
-        "film": None
+        "news": news
     }
 
-    # Curated editorial blocks are maintained separately so the RSS job never erases them.
-    issue["indie"] = editorial.get("indie", [])
-    issue["releases"] = editorial.get("releases", [])
-    issue["cinema"] = editorial.get("cinema", [])
-    issue["film"] = editorial.get("film")
-    issue["editorialUpdatedAt"] = editorial.get("updatedAt", "")
-    issue["editorialHash"] = editorial_hash
+    if same_day_update:
+        # Aktualizacja tego samego wydania: zmieniamy wyłącznie sekcję newsową.
+        issue = current_issue
+        issue.update(rss_fields)
+        print(f"Aktualizacja wiadomości w wydaniu {issue_date}; pozostałe sekcje bez zmian.")
+    else:
+        # Pierwsze wydanie nowego dnia: odświeżamy całą zawartość redakcyjną.
+        issue = {
+            "status": "rss-only",
+            "date": issue_date,
+            "headline": "Świeże sygnały ze świata gier",
+            "editorNote": "Wydanie zbudowane automatycznie z kanałów RSS. Tytuły i opisy pochodzą ze źródeł — kliknij, aby przeczytać oryginalne materiały.",
+            **rss_fields,
+            "indie": editorial.get("indie", []),
+            "releases": editorial.get("releases", []),
+            "cinema": editorial.get("cinema", []),
+            "film": editorial.get("film"),
+            "editorialUpdatedAt": editorial.get("updatedAt", ""),
+            "editorialHash": editorial_hash
+        }
 
     data_dir, archive_dir = ROOT / "data", ROOT / "archive"
     data_dir.mkdir(exist_ok=True)
