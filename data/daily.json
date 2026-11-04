@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T08:55+01:00",
+  "updatedAt": "2026-11-04T09:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ubisoft może uratować twórców Dishonored. Microsoft rozważa różne scenariusze, a gracze wiedzą swoje",
-    "summary": "Niewykluczone, że nowym właścicielem Arkane Lyon zostanie Ubisoft. Studio ma jednak więcej potencjalnych nabywców, a Microsoft ma rozważać również sprzedaż jego własnemu kierownictwu. Informacja Ubisoft może uratować twórców Dishonored. Microsoft rozważa różne scenariusze, a gracze wiedzą swoje została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/ubisoft-moze-uratowac-tworcow-dishonored-microsoft-rozwaza-rozne/zc321f0",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531478018.jpg"
+    "title": "Aktorski film Naruto coraz bliżej. Adaptacja od reżysera jednego z największych hitów tego roku rusza naprzód",
+    "summary": "Zapadła decyzja odnośnie aktorskiego filmu Naruto. Produkcja rusza naprzód, przybliżając nas do wyczekiwanej premiery. Informacja Aktorski film Naruto coraz bliżej. Adaptacja od reżysera jednego z największych hitów tego roku rusza naprzód została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/aktorski-film-naruto-coraz-blizej-adaptacja-od-rezysera-jednego-z/zd321f1",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531478514.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Aktorski film Naruto coraz bliżej. Adaptacja od reżysera jednego z największych hitów tego roku rusza naprzód",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/aktorski-film-naruto-coraz-blizej-adaptacja-od-rezysera-jednego-z/zd321f1",
+      "publishedAt": "2026-11-04T09:56+01:00",
+      "summary": "Zapadła decyzja odnośnie aktorskiego filmu Naruto. Produkcja rusza naprzód, przybliżając nas do wyczekiwanej premiery. Informacja Aktorski film Naruto coraz bliżej. Adaptacja od reżysera jednego z największych hitów tego roku rusza naprzód została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531478514.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Ubisoft może uratować twórców Dishonored. Microsoft rozważa różne scenariusze, a gracze wiedzą swoje",
@@ -29,6 +38,14 @@
       "summary": "Według szacunków Sensor Tower GTA 6 zarobiło już ponad 750 mln dolarów w trakcie samej przedsprzedaży. Do premiery zostało nieco ponad dwa tygodnie. Informacja GTA 6 jest już blisko miliarda dolarów. W 2 tygodnie miało przybyć ponad 1,3 mln zamówień została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531475843.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Assassin's Creed Hexe przecieka! Produkcja w rękach gracza",
+      "sourceUrl": "https://www.ppe.pl/news/432124/assassins-creed-hexe-przecieka-produkcja-w-rekach-gracza.html",
+      "publishedAt": "2026-11-04T08:58+01:00",
+      "summary": "Znany i lubiany w growym światku informator o psuedonimie j0nathan znów dał o sobie znać, rozbudzając wyobraźnię fanów skradanek od Ubisoftu. W sieci pojawiła się bowiem nowa, mocno rozmyta grafika pochodząca bezpośrednio z nadchodzącego As...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
@@ -81,14 +98,6 @@
       "category": "WIADOMOŚCI"
     },
     {
-      "sourceName": "PPE",
-      "title": "GTA 6 zmierza po historyczny rekord! Pierwsze wyniki i dominacja PS5",
-      "sourceUrl": "https://www.ppe.pl/news/432078/gta-6-zmierza-po-historyczny-rekord-pierwsze-wyniki-i-dominacja-ps5.html",
-      "publishedAt": "2026-11-04T07:05+01:00",
-      "summary": "Cała branża patrzy na trwającą kampanię marketingową GTA 6, a według najnowszych raportów produkcja Rockstar Games osiąga znakomite wyniki sprzedaży jeszcze przed premierą.",
-      "category": "WIADOMOŚCI"
-    },
-    {
       "sourceName": "GRY-Online",
       "title": "Tylko 7 dni dzieli nas od premiery kontynuacji hitu z 96% na Rotten Tomatoes. To jedna z najważniejszych premier Disney+ na jesień",
       "sourceUrl": "https://www.gry-online.pl/newsroom/tylko-7-dni-dzieli-nas-od-premiery-kontynuacji-hitu-z-96-na-rotte/ze321e3",
@@ -123,15 +132,6 @@
       "summary": "W internetowym sklepie Empik pojawiła się bardzo ciekawa oferta na Dave the Diver – Collector’s Edition na konsole PlayStation 5. Kompletne wydanie pudełkowe gry, zawierające wszystkie cztery rozszerzenia, dostępne jest za 317,89 zł. W ramach Edycji Kolekcjonerskiej otrzymacie także mnóstwo fizycznych gadżetów, wśród których znajdziecie przypinki, pocztówki, naszyjnik i brelok. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Pudelkowe-Dave-the-Diver-Edycja-Kolekcjonerska-na-PlayStation-5-juz-za-31789-zl-w-Empiku_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Game Pass na początek listopada z 12 nowymi grami. Aż połowa to premiery, ale jeszcze więcej produkcji opuści usługę",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/game-pass-na-poczatek-listopada-z-12-nowymi-grami-az-polowa-to-pr/ze321ec",
-      "publishedAt": "2026-11-03T21:50+01:00",
-      "summary": "Do połowy listopada 2026 roku abonament Xbox Game Pass wzbogaci się o 12 nowych gier. Nie zabraknie wielu premierowych produkcji, z których jedna to Warhammer Survivors. Informacja Game Pass na początek listopada z 12 nowymi grami. Aż połowa to premiery, ale jeszcze więcej produkcji opuści usługę została opublikowana przez GRYOnline.pl 3 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531434925.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
