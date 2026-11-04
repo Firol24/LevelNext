@@ -1,17 +1,33 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T21:01+01:00",
+  "updatedAt": "2026-11-04T22:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel's Blade w oparciu o „bezlitosną i nieludzką logikę”",
-    "summary": "Pracownicy Arkane Lyon nie kryją oburzenia działaniami Microsoftu. Ich zdaniem gigant z Redmond sam doprowadził do problemów studia, a teraz wykorzystuje je jako pretekst do jego zamknięcia. Informacja Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel&apos;s Blade w oparciu o „bezlitosną i nieludzką logikę” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-dishonored-oskarzaja-microsoft-o-sabotaz-marvels-blade-w-o/z132219",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531519706.jpg"
+    "title": "The Last of Us Part II Remastered z nową i darmową zawartością! Gracze są pewni: TO ZNAK!",
+    "summary": "Naughty Dog ponownie zaskoczyło graczy, udostępniając darmową aktualizację do The Last of Us Part II Remastered. Twórcy przygotowali niespodziankę, która powinna szczególnie zainteresować fanów Uncharted.",
+    "sourceUrl": "https://www.ppe.pl/news/432186/the-last-of-us-part-ii-remastered-z-nowa-i-darmowa-zawartoscia-gracze-sa-pewni-to-znak.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "The Last of Us Part II Remastered z nową i darmową zawartością! Gracze są pewni: TO ZNAK!",
+      "sourceUrl": "https://www.ppe.pl/news/432186/the-last-of-us-part-ii-remastered-z-nowa-i-darmowa-zawartoscia-gracze-sa-pewni-to-znak.html",
+      "publishedAt": "2026-11-04T21:51+01:00",
+      "summary": "Naughty Dog ponownie zaskoczyło graczy, udostępniając darmową aktualizację do The Last of Us Part II Remastered. Twórcy przygotowali niespodziankę, która powinna szczególnie zainteresować fanów Uncharted.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nowa odsłona Humble Resident Evil Bundle. Village Gold Edition w pierwszym progu!",
+      "sourceUrl": "https://lowcygier.pl/bundle/nowa-odslona-humble-resident-evil-bundle-village-gold-edition-w-pierwszym-progu/",
+      "publishedAt": "2026-11-04T21:35+01:00",
+      "summary": "Łowcy, przed Wami najnowsze wydanie bardzo popularnego zestawu od Humble Bundle. W tym roku ulepszona wersja paczki Humble Resident Evil: Biohazard Unleashed Bundle zapewnia dostęp do aż 9 gier z kultowej serii w 4 progach cenowych. Najdroższy z nich może być Wasz za 193,04 zł, co daje nam przelicznik na poziomie ok. 21,45 zł za jeden tytuł na PC! W porównaniu do poprzedniej odsłony pakietu nie znajdziecie tutaj takich pozycji jak Resident Evil Revelations i Resident Evil Revelations 2 , jednak na osłodę siódma odsłona cyklu oferowana jest tym razem z dodatkami, a kompletne wydanie Resident Evil Village Gold Edition trafiło do pierwszego prog",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nowa-odslona-Humble-Resident-Evil-Bundle.-Village-Gold-Edition-w-pierwszym-progu_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel's Blade w oparciu o „bezlitosną i nieludzką logikę”",
@@ -20,6 +36,14 @@
       "summary": "Pracownicy Arkane Lyon nie kryją oburzenia działaniami Microsoftu. Ich zdaniem gigant z Redmond sam doprowadził do problemów studia, a teraz wykorzystuje je jako pretekst do jego zamknięcia. Informacja Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel&apos;s Blade w oparciu o „bezlitosną i nieludzką logikę” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531519706.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony umieszczone w „Galerii Hańby”! PlayStation krytykowane za koniec gier na płytach",
+      "sourceUrl": "https://www.ppe.pl/news/432182/sony-umieszczone-w-galerii-hanby-playstation-krytykowane-za-koniec-gier-na-plytach.html",
+      "publishedAt": "2026-11-04T21:13+01:00",
+      "summary": "Sony od miesięcy podejmuje decyzje, które budzą coraz większe kontrowersje wśród społeczności PlayStation. Firma chce postawić w całości na cyfrową dystrybucję, ale nie wszyscy gracze są zadowoleni z kierunku, w którym rozwija się branż...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -36,6 +60,14 @@
       "sourceUrl": "https://www.ppe.pl/publicystyka/432162/pionek-wywiad-z-weronika-ksiazkiewicz-bedac-w-9-miesiacu-ciazy-widzialam-w-lustrze-to-samo-co-dagmara.html",
       "publishedAt": "2026-11-04T21:00+01:00",
       "summary": "„Pionek” to polski serial kryminalny będący kontynuacją „Ślebody”, który przenosi widzów na Górny Śląsk. Fabuła rozpoczyna się od brutalnego morderstwa studentki architektury, a sposób działania sprawcy przypomina zbrodnie Normana P...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "„Znieczulenie” (2026) - recenzja serialu [Netflix]. Polski serial medyczny? Tak, to naprawdę się udało",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432147/znieczulenie-2026-recenzja-serialu-netflix-polski-serial-medyczny-tak-to-naprawde-sie-udalo.html",
+      "publishedAt": "2026-11-04T20:59+01:00",
+      "summary": "Polskie seriale medyczne nie zawsze miały szczęście do realizacji. „Znieczulenie” Netfliksa pokazuje jednak, że w tym gatunku wciąż drzemie potencjał. Osiem odcinków wystarczyło, by stworzyć produkcję, która zaskakuje rozmachem i przede ...",
       "category": "WIADOMOŚCI"
     },
     {
