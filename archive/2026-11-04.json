@@ -1,34 +1,103 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T09:34+01:00",
+  "updatedAt": "2026-11-04T10:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Aktorski film Naruto coraz bliżej. Adaptacja od reżysera jednego z największych hitów tego roku rusza naprzód",
-    "summary": "Zapadła decyzja odnośnie aktorskiego filmu Naruto. Produkcja rusza naprzód, przybliżając nas do wyczekiwanej premiery. Informacja Aktorski film Naruto coraz bliżej. Adaptacja od reżysera jednego z największych hitów tego roku rusza naprzód została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/aktorski-film-naruto-coraz-blizej-adaptacja-od-rezysera-jednego-z/zd321f1",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531478514.jpg"
+    "title": "Po niemal 20 latach pierwsze Guild Wars dostanie nowe rozszerzenie. Fani nie wierzą własnym oczom",
+    "summary": "Pierwsze Guild Wars doczeka się nowego dodatku. Główną atrakcją Afterlife będzie loch inspirowany gatunkiem roguelike. Informacja Po niemal 20 latach pierwsze Guild Wars dostanie nowe rozszerzenie. Fani nie wierzą własnym oczom została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/po-niemal-20-latach-pierwsze-guild-wars-dostanie-nowe-rozszerzeni/z2321f6",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531481767.jpg"
   },
   "news": [
     {
       "sourceName": "GRY-Online",
-      "title": "Aktorski film Naruto coraz bliżej. Adaptacja od reżysera jednego z największych hitów tego roku rusza naprzód",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/aktorski-film-naruto-coraz-blizej-adaptacja-od-rezysera-jednego-z/zd321f1",
-      "publishedAt": "2026-11-04T09:56+01:00",
-      "summary": "Zapadła decyzja odnośnie aktorskiego filmu Naruto. Produkcja rusza naprzód, przybliżając nas do wyczekiwanej premiery. Informacja Aktorski film Naruto coraz bliżej. Adaptacja od reżysera jednego z największych hitów tego roku rusza naprzód została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "title": "Po niemal 20 latach pierwsze Guild Wars dostanie nowe rozszerzenie. Fani nie wierzą własnym oczom",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-niemal-20-latach-pierwsze-guild-wars-dostanie-nowe-rozszerzeni/z2321f6",
+      "publishedAt": "2026-11-04T10:55+01:00",
+      "summary": "Pierwsze Guild Wars doczeka się nowego dodatku. Główną atrakcją Afterlife będzie loch inspirowany gatunkiem roguelike. Informacja Po niemal 20 latach pierwsze Guild Wars dostanie nowe rozszerzenie. Fani nie wierzą własnym oczom została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531478514.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531481767.jpg"
     },
     {
       "sourceName": "GRY-Online",
-      "title": "Ubisoft może uratować twórców Dishonored. Microsoft rozważa różne scenariusze, a gracze wiedzą swoje",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ubisoft-moze-uratowac-tworcow-dishonored-microsoft-rozwaza-rozne/zc321f0",
-      "publishedAt": "2026-11-04T09:47+01:00",
-      "summary": "Niewykluczone, że nowym właścicielem Arkane Lyon zostanie Ubisoft. Studio ma jednak więcej potencjalnych nabywców, a Microsoft ma rozważać również sprzedaż jego własnemu kierownictwu. Informacja Ubisoft może uratować twórców Dishonored. Microsoft rozważa różne scenariusze, a gracze wiedzą swoje została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "title": "Disney+ z nowym, tańszym pakietem w Polsce. Znamy cenę abonamentu z reklamami",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/disney-z-nowym-tanszym-pakietem-w-polsce-znamy-cene-abonamentu-z/zf321f3",
+      "publishedAt": "2026-11-04T10:50+01:00",
+      "summary": "Disney+ wprowadza w Polsce nowy, tańszy plan, ale osoby, które się na niego zdecydują, będą musiały oglądać reklamy. Cena tego pakietu jest niewiele niższa od ceny standardowej opcji w promocji. Informacja Disney+ z nowym, tańszym pakietem w Polsce. Znamy cenę abonamentu z reklamami została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531478018.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531480691.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "The Elder Scrolls 6 ma podtytuł, ale na premierę fani serii RPG poczekają jeszcze ponad 2 lata. Jason Schreier studzi emocje",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/the-elder-scrolls-6-ma-podtytul-ale-fani-serii-rpg-poczekaja-jesz/z0321f4",
+      "publishedAt": "2026-11-04T10:36+01:00",
+      "summary": "Bethesda Game Studios ogłosiła podtytuł nowej odsłony serii The Elder Scrolls. W krótkim zwiastunie nie podano jednak ani platform, ani okna premiery. Z częściową pomocą przyszedł Jason Schreier. Informacja The Elder Scrolls 6 ma podtytuł, ale na premierę fani serii RPG poczekają jeszcze ponad 2 lata. Jason Schreier studzi emocje została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531480954.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Oryginał dostał 40/40, remake niewiele mniej. Pierwsi recenzenci ocenili nową Zeldę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/oryginal-dostal-4040-remake-niewiele-mniej-pierwsi-recenzenci-oce/ze321f2",
+      "publishedAt": "2026-11-04T10:16+01:00",
+      "summary": "Japoński magazyn Famitsu opublikował pierwszą recenzję odświeżonej wersji The Legend of Zelda: Ocarina of Time na Switcha 2. Gra otrzymała 37 punktów na 40 możliwych. Informacja Oryginał dostał 40/40, remake niewiele mniej. Pierwsi recenzenci ocenili nową Zeldę została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531479672.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday w PlayStation Store! Prawie 3800 gier PS4 i PS5 z rabatem do -95%!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-w-playstation-store-prawie-3800-gier-ps4-i-ps5-z-rabatem-do-95/",
+      "publishedAt": "2026-11-04T10:00+01:00",
+      "summary": "Wystartowała tegoroczna odsłona wyprzedaży Black Friday w PlayStation Store. Wśród gier, które możecie tym razem kupić taniej, znalazły się m.in. Silent Hill f, Subnautica, Unicorn Overlord, BALL x PIT, czy też Metro: Awakening. To jednak tylko przedsmak tego, co na was czeka. Przy okazji, Sony świętuje 20-lecie Sklepu PlayStation. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-playstation-store-miniaturka-cyfra-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dziś jedna z najważniejszych premier Netflixa w tym tygodniu. 8 odcinków polskiej nowości z Leszkiem Lichotą",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-jedna-z-najwazniejszych-premier-netflixa-w-tym-tygodniu-8-od/z0321ee",
+      "publishedAt": "2026-11-04T10:00+01:00",
+      "summary": "Netflix zaserwuje dziś widzom kolejną polską produkcję – tym razem dramat medyczny z Leszkiem Lichotą. Aktor wcielił się w Znieczuleniu w znakomitego chirurga. Nad autentycznością widowiska czuwał Neal Baer, lekarz i producent pracujący wcześniej przy Ostrym dyżurze. Informacja Dziś jedna z najważniejszych premier Netflixa w tym tygodniu. 8 odcinków polskiej nowości z Leszkiem Lichotą została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531475699.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Słuchawki bezprzewodowe Silver Monkey Smart Buds Plus za jedyne 39,90 zł (wcześniej 99,99 zł) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/sluchawki-bezprzewodowe-silver-monkey-smart-buds-plus-za-jedyne-3990-zl-wczesniej-9999-zl-w-x-kom/",
+      "publishedAt": "2026-11-04T09:44+01:00",
+      "summary": "Jeśli poszukujecie naprawdę tanich bezprzewodowych słuchawek dokanałowych, może Was zainteresować oferta sklepu x-kom. Za model Silver Monkey Smart Buds Plus, wyposażony w etui ładujące z ekranem oraz wspierający technologię aktywnej redukcji szumów, zapłacicie zaledwie 39,90 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/silver-monkey-smart-buds-plus-1b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Problemy w domu PlayStation. Wzór profesjonalizmu z PS4 i PS5 mierzył się z chaosem",
+      "sourceUrl": "https://www.ppe.pl/news/432126/problemy-w-domu-playstation-wzor-profesjonalizmu-z-ps4-i-ps5-mierzyl-sie-z-chaosem.html",
+      "publishedAt": "2026-11-04T09:41+01:00",
+      "summary": "Wielu graczy uważa Naughty Dog za absolutny wzór profesjonalizmu i studio, w którym wszystko zawsze działa jak w szwajcarskim zegarku. Okazuje się jednak, że nawet w tak uwielbianym zespole potrafiło wrzeć, a za kulisami wielkich hitów kryły s...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Porządny laptop ASUS z RTX 5070, R7 260, 165 Hz z rabatem ponad 1000 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/432134/porzadny-laptop-asus-z-rtx-5070-r7-260-165-hz-z-rabatem-ponad-1000-zl.html",
+      "publishedAt": "2026-11-04T09:39+01:00",
+      "summary": "W sklepie internetowym X-Kom osoby szukające mocniejszego laptopa mogą spojrzeć na najnowszą ofertę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Szaleństwo na The Blood of Dawnwalker z dodatkami fizycznymi - od 180 zł!",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/429895/szalenstwo-na-the-blood-of-dawnwalker-z-dodatkami-fizycznymi-ponizej-190-zl.html",
+      "publishedAt": "2026-11-04T09:35+01:00",
+      "summary": "The Blood of Dawnwalker zaczął tanieć ponad miesiąc po oficjalnej premierze.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
@@ -39,27 +108,20 @@
       "category": "WIADOMOŚCI"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Rockstar potwierdził, kiedy można zacząć pobieranie GTA 6! Dzięki temu szybciej zagracie w dniu premiery",
+      "sourceUrl": "https://cdaction.pl/newsy/rockstar-potwierdzil-kiedy-mozna-zaczac-pobieranie-gta-6-dzieki-temu-szybciej-zagracie-w-dniu-premiery/",
+      "publishedAt": "2026-11-04T09:30+01:00",
+      "summary": "Szykujcie miejsce na konsoli, bo przyda się wam go sporo.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/gta-6-1260x709.webp"
+    },
+    {
       "sourceName": "PPE",
       "title": "W końcu promocja na Cyberpunk 2077 Ultimate Edition + DLC Widmo Wolności - rabat 60 zł",
       "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/429903/w-koncu-promocja-na-cyberpunk-2077-ultimate-edition-dlc-widmo-wolnosci-rabat-60-zl.html",
       "publishedAt": "2026-11-04T09:30+01:00",
       "summary": "W sklepie Perfect Blue nabędziemy bardzo tanio grę Cyberpunk 2077: Ultimate Edition.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Telewizor LG OLED z 144 Hz pod PS5 czy XSX za 2999 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/telewizory/432131/telewizor-lg-oled-z-144-hz-pod-ps5-czy-xsx-za-2999-zl.html",
-      "publishedAt": "2026-11-04T09:29+01:00",
-      "summary": "Sklep RTV Euro AGD zapewnił świetną okazję na telewizor LG OLED.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Onimusha: Way of the Sword już na obniżce! Gra od 209 zł na PS5",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/425970/onimusha-way-of-the-sword-juz-na-obnizce-gra-od-239-zl-na-ps5-i-ns2.html",
-      "publishedAt": "2026-11-04T09:26+01:00",
-      "summary": "Onimusha: Way of the Sword doczekała się pierwszej obniżki - tym razem w sklepie Perfect Blue.",
       "category": "WIADOMOŚCI"
     },
     {
@@ -70,14 +132,6 @@
       "summary": "Już jutro premiera The Legend of Zelda: Ocarina of Time. Gra otrzymała specjalny kontroler Electric Ocarina of Time od firmy HORI. Oficjalnie licencjonowane akcesorium do konsoli Nintendo Switch 2 pozwoli zagrać wybrane melodie i uruchomić odpowiadające im akcję bezpośrednio w grze. Sprzęt w wielu sklepach jest już niedostępny, lecz właśnie karta produktu pojawiła się w RTV Euro AGD, dzięki czemu macie kolejną okazję, by go zakupić. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Preorder-HORI-Electric-Ocarina-of-Time-w-Play-Asia.-Muzyczny-kontroler-za-315-zl-wysylka_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Błąd cenowy? Cronos: The New Dawn na NS2 w pudełku za 99 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432130/blad-cenowy-cronos-the-new-dawn-na-ns2-w-pudelku-za-99-zl.html",
-      "publishedAt": "2026-11-04T09:23+01:00",
-      "summary": "Taniej o ponad 50% względem ceny standardowej w sklepie RTV Euro AGD nabędziemy wyśmienity survival horror od polskiego studia Bloober Team.",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -98,15 +152,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/Warhammer.jpg"
     },
     {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 jest już blisko miliarda dolarów. W 2 tygodnie miało przybyć ponad 1,3 mln zamówień",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-jest-juz-blisko-miliarda-dolarow-w-2-tygodnie-mialo-przybyc/z1321ef",
-      "publishedAt": "2026-11-04T09:11+01:00",
-      "summary": "Według szacunków Sensor Tower GTA 6 zarobiło już ponad 750 mln dolarów w trakcie samej przedsprzedaży. Do premiery zostało nieco ponad dwa tygodnie. Informacja GTA 6 jest już blisko miliarda dolarów. W 2 tygodnie miało przybyć ponad 1,3 mln zamówień została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531475843.jpg"
-    },
-    {
       "sourceName": "Łowcy Gier",
       "title": "Zestaw dwóch kabli Anker USB-C 60W 1m w nylonowym oplocie za 19,93 zł w Amazon PL",
       "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-dwoch-kabli-anker-usb-c-60w-1m-w-nylonowym-oplocie-za-1993-zl-w-amazon-pl/",
@@ -125,42 +170,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/steam-logooo1-1260x710.jpg"
     },
     {
-      "sourceName": "GRY-Online",
-      "title": "Tylko 7 dni dzieli nas od premiery kontynuacji hitu z 96% na Rotten Tomatoes. To jedna z najważniejszych premier Disney+ na jesień",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tylko-7-dni-dzieli-nas-od-premiery-kontynuacji-hitu-z-96-na-rotte/ze321e3",
-      "publishedAt": "2026-11-04T06:50+01:00",
-      "summary": "Skandale, intrygi i szalone lata 80. powracają. Już za tydzień na platformie Disney+ zadebiutuje 2. sezon znakomicie ocenianego serialu z Davidem Tennantem. W dniu premiery widzowie zobaczą aż trzy odcinki. Informacja Tylko 7 dni dzieli nas od premiery kontynuacji hitu z 96% na Rotten Tomatoes. To jedna z najważniejszych premier Disney+ na jesień została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531412623.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Zaryzykowali niemal wszystko, a teraz świętują. Control Resonant to „przełomowy kamień milowy” dla Remedy",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/zaryzykowali-niemal-wszystko-a-teraz-swietuja-control-resonant-to/zf321ed",
-      "publishedAt": "2026-11-04T06:30+01:00",
-      "summary": "Control Resonant zaliczyło mocny start, a jego sukces szybko znalazł odzwierciedlenie w finansach Remedy Entertainment. Studio może pochwalić się ponad trzykrotnym wzrostem przychodów względem zeszłego roku. Informacja Zaryzykowali niemal wszystko, a teraz świętują. Control Resonant to „przełomowy kamień milowy” dla Remedy została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531437842.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż figurek Warhammer 30K i 40K w RTV Euro AGD. Wybrane modele już od 139,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-figurek-warhammer-30k-i-40k-w-rtv-euro-agd-wybrane-modele-juz-od-13999-zl/",
-      "publishedAt": "2026-11-03T22:55+01:00",
-      "summary": "Łowcy, do oferty sieci sklepów RTV Euro AGD powróciła wyprzedaż figurek z uniwersum Warhammer 40.000 oraz Warhammer: The Horus Heresy (potocznie określanego liczbą 30.000) . W ramach promocji wybrane modele od firmy Joy Toy dostępne są w cenach zaczynających się od 139,99 zł. Podane w tabeli kwoty pojawią się w koszyku po wykorzystaniu limitowanego kodu zniżkowego. Figurka Joy Toy Warhammer 40K – Tyranids Hive Fleet Leviathan Termagant with Fleshborer 139,99 zł z kodem RBF011107122026C Figurka Joy Toy Warhammer 40K – Tyranids Hive Fleet Leviathan Tyranid Warrior with Boneswords 239,00 zł z kodem RBF011107122026C Figurka Joy Toy Warhammer 40K",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-figurek-Warhammer-30K-i-40K-w-RTV-Euro-AGD.-Wybrane-modele-juz-od-13999-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Dave the Diver Edycja Kolekcjonerska na PlayStation 5 już za 317,89 zł w Empiku",
-      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/pudelkowe-dave-the-diver-edycja-kolekcjonerska-na-playstation-5-juz-za-31789-zl-w-empiku/",
-      "publishedAt": "2026-11-03T22:05+01:00",
-      "summary": "W internetowym sklepie Empik pojawiła się bardzo ciekawa oferta na Dave the Diver – Collector’s Edition na konsole PlayStation 5. Kompletne wydanie pudełkowe gry, zawierające wszystkie cztery rozszerzenia, dostępne jest za 317,89 zł. W ramach Edycji Kolekcjonerskiej otrzymacie także mnóstwo fizycznych gadżetów, wśród których znajdziecie przypinki, pocztówki, naszyjnik i brelok. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Pudelkowe-Dave-the-Diver-Edycja-Kolekcjonerska-na-PlayStation-5-juz-za-31789-zl-w-Empiku_minaturka-224x224.jpg"
-    },
-    {
       "sourceName": "CD-Action",
       "title": "Premiera Twierdzy 4 przesunięta. W zamian gracze dostaną coś ekstra",
       "sourceUrl": "https://cdaction.pl/newsy/premiera-twierdzy-4-przesunieta-w-zamian-gracze-dostana-cos-ekstra/",
@@ -177,15 +186,6 @@
       "summary": "Rozumiem perspektywę Ubisoftu, który chce mieć „swoje” Heroesy 3, ale nie mogę przestać myśleć o tym, czy ten remake w ogóle jest potrzebny graczom. Wiele rzeczy serwuje dobrze, ale czy na tyle, by stanowić realną alternatywę dla oryginału?",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/525446162-1260x709.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "The Elder Scrolls 6 wreszcie ma pełną nazwę. Podejrzenia fanów były zasadne",
-      "sourceUrl": "https://cdaction.pl/newsy/the-elder-scrolls-6-wreszcie-ma-pelna-nazwe-podejrzenia-fanow-byly-zasadne/",
-      "publishedAt": "2026-11-03T16:41+01:00",
-      "summary": "Zmierzamy w ciepłe rejony.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/sentinel-1260x562.jpg"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
