@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T08:01+01:00",
+  "updatedAt": "2026-11-04T08:45+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Monitor uratował życie gracza. Niewiarygodna historia podczas rozgrywki w Call of Duty",
-    "summary": "Gracze często inwestują ogromne pieniądze w sprzęt, który ma zapewnić im jak najlepsze wrażenia podczas rozgrywki, ale trudno wyobrazić sobie sytuację, w której zwyczajny monitor może uratować komuś życie. Właśnie taką historią podziel...",
-    "sourceUrl": "https://www.ppe.pl/news/432057/monitor-uratowal-zycie-gracza-niewiarygodna-historia-podczas-rozgrywki-w-call-of-duty.html"
+    "title": "Gran Turismo 7 ZMIAŻDŻYŁO Forzę Motorsport! Wyniki sprzedaży mówią wszystko",
+    "summary": "Sony ma w swoim katalogu wiele wielkich hitów, ale najnowsze dane pokazują, że jedną z najbardziej dochodowych produkcji PlayStation pozostaje Gran Turismo 7. Gra zadebiutowała ponad cztery lata temu, a mimo to nadal przyciąga miliony kierowców i...",
+    "sourceUrl": "https://www.ppe.pl/news/432060/gran-turismo-7-zmiazdzylo-forze-motorsport-wyniki-sprzedazy-mowia-wszystko.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Gran Turismo 7 ZMIAŻDŻYŁO Forzę Motorsport! Wyniki sprzedaży mówią wszystko",
+      "sourceUrl": "https://www.ppe.pl/news/432060/gran-turismo-7-zmiazdzylo-forze-motorsport-wyniki-sprzedazy-mowia-wszystko.html",
+      "publishedAt": "2026-11-04T08:30+01:00",
+      "summary": "Sony ma w swoim katalogu wiele wielkich hitów, ale najnowsze dane pokazują, że jedną z najbardziej dochodowych produkcji PlayStation pozostaje Gran Turismo 7. Gra zadebiutowała ponad cztery lata temu, a mimo to nadal przyciąga miliony kierowców i...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Netflix z nowym polskim hitem! Leszek Lichota w wielkiej roli",
+      "sourceUrl": "https://www.ppe.pl/news/432061/netflix-z-nowym-polskim-hitem-leszek-lichota-w-wielkiej-roli.html",
+      "publishedAt": "2026-11-04T08:10+01:00",
+      "summary": "Netflix bardzo chętnie inwestuje w polskie produkcje, a dzisiaj widzowie mogą poznać kolejną historię, która ma szansę zainteresować szeroką publiczność. Tym razem platforma postawiła na dramat medyczny z Leszkiem Lichotą w roli głównej.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Monitor uratował życie gracza. Niewiarygodna historia podczas rozgrywki w Call of Duty",
@@ -33,22 +49,6 @@
       "sourceUrl": "https://www.ppe.pl/news/432077/gry-za-2237-zl-za-darmo-xbox-oficjalnie-rozpoczal-promocje-i-poznalismy-pelna-liste-bezplatnych-produkcji.html",
       "publishedAt": "2026-11-04T06:40+01:00",
       "summary": "Microsoft rozpoczął wyjątkową promocję z okazji 25-lecia marki Xbox, a gracze mogą otrzymać aż 25 produkcji bez dodatkowych opłat. Amerykańska korporacja przygotowała specjalny zestaw, którego standardowa cena wynosi 569,99 dolarów, czyli o...",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gry na PS5 w promocji Black Friday! Największe tegoroczne hity w niższych cenach",
-      "sourceUrl": "https://www.ppe.pl/news/432076/gry-na-ps5-w-promocji-black-friday-najwieksze-tegoroczne-hity-w-nizszych-cenach.html",
-      "publishedAt": "2026-11-04T06:14+01:00",
-      "summary": "Sony w tym roku wyszło przed szereg i już dzisiaj wystartowała promocja Black Friday. Gracze mogą kupić 2244 gier w potencjalnie lepszych cenach.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Amazon Prime Video z MEGA hitem od dzisiaj! Wielka opowieść o jednym z najwybitniejszych sportowców",
-      "sourceUrl": "https://www.ppe.pl/news/432062/amazon-prime-video-z-mega-hitem-od-dzisiaj-wielka-opowiesc-o-jednym-z-najwybitniejszych-sportowcow.html",
-      "publishedAt": "2026-11-04T05:45+01:00",
-      "summary": "Widzowie Amazon Prime Video mogą sprawdzić kolejną ekscytującą historię. Na platformie zadebiutuje bardzo ciekawa produkcja.",
       "category": "WIADOMOŚCI"
     },
     {
@@ -274,177 +274,179 @@
   ],
   "indie": [
     {
-      "title": "Wilderdark",
-      "date": "2026-11-03",
+      "title": "Leviathan: Rhino",
+      "date": "2026-11-06",
       "platform": "PC (Steam)",
-      "summary": "Pierwszoosobowy survival horror na wyspie opanowanej przez pasożytniczy organizm, który mutuje dinozaury i roślinność. Przetrwanie opiera się na skradaniu, dokumentowaniu znalezisk i odkrywaniu losów zaginionych ekspedycji.",
-      "sourceUrl": "https://store.steampowered.com/app/2735850/Wilderdark/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2735850/3f614f86c58c8f65acbd1db9fc5b9ed34d27a1e5/header.jpg"
+      "summary": "Kameralny horror egzystencjalny w wiosce, nad którą zbliża się kolosalny lewiatan. Zamiast typowej walki poznajesz codzienność starszego mieszkańca, który nie ma dokąd uciec.",
+      "sourceUrl": "https://store.steampowered.com/app/4784510/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4784510/894c18fd776040fe43523995d4122af0a0298a76/header.jpg?t=1793548320"
     },
     {
-      "title": "The House Before",
-      "date": "2026-11-03",
+      "title": "Metro Anomaly",
+      "date": "2026-11-06",
       "platform": "PC (Steam)",
-      "summary": "Eksperymentalny body horror, w którym budzisz się jako żywy dom: kości stają się rurami, a organy labiryntem korytarzy. Surrealistyczna przygodówka z mocno niecodziennym punktem wyjścia.",
-      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/dd2a5d82f81e43768bfd83a34f3f9953eb9c8d15/header.jpg"
+      "summary": "W metrze trzeba obserwować zachowanie pasażerów i wyłapywać istoty udające ludzi. Na każdy cykl przypada tylko jeden nabój, więc pomyłka może być ostatnią.",
+      "sourceUrl": "https://store.steampowered.com/app/4612650/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612650/a2ef62c66b55c6c36eb2e26810cbfdf7b690b3d6/header.jpg?t=1793735513"
     },
     {
-      "title": "Saraab: Beyond The Veil",
-      "date": null,
-      "platform": "PC (Steam, macOS, Linux)",
-      "summary": "Ręcznie rysowana powieść wizualna z psychologicznym horrorem i arabskim folklorem. Elham szuka zaginionego brata, mierząc się z własnym cieniem, rodzinnymi sekretami i istotami z pogranicza jawy.",
-      "sourceUrl": "https://store.steampowered.com/app/4134310/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4134310/91e90f7ef5ff1ee41f932edd8bcf5648e0f2fd79/header.jpg"
-    },
-    {
-      "title": "Project Hypnagogia",
-      "date": null,
+      "title": "Casualties: Unknown",
+      "date": "2026-11-09",
       "platform": "PC (Steam)",
-      "summary": "Surrealistyczny horror psychologiczny o eksperymencie w opuszczonym szpitalu, który materializuje najgłębsze lęki badanego. Steam wskazuje IV kwartał 2026, ale bez konkretnego dnia premiery.",
-      "sourceUrl": "https://store.steampowered.com/app/1499010/Project_Hypnagogia/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1499010/header.jpg"
+      "summary": "Pikselowy survival na obcej planecie: jako jeden z tysięcy więźniów schodzisz przez 11 warstw jaskiń po utracony ładunek i próbujesz przeżyć.",
+      "sourceUrl": "https://store.steampowered.com/app/4576490/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1792136865"
     },
     {
-      "title": "The Road of Dust and Sorrow",
-      "date": "2026-12-03",
-      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
-      "summary": "Pixel-artowy survival horror inspirowany Resident Evil i Silent Hill z lat 90. Prowadzisz Katherine przez zrujnowany świat, próbując ochronić córkę Avę przed wygłodniałymi stworami.",
-      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3895110/8b2f5aaa7e2a06ff809f055a399d03025d9a7adb/header.jpg"
+      "title": "Hillthorn",
+      "date": "2026-11-10",
+      "platform": "PC (Steam), macOS, Linux",
+      "summary": "Cicha, detektywistyczna zagadka w odizolowanej górskiej społeczności. Śledztwo prowadzi się kartami wskazówek, bez dialogów, a każdy ruch kosztuje czas.",
+      "sourceUrl": "https://store.steampowered.com/app/3504050/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3504050/8f97440ec9047873c605469558ce50110a766a05/header.jpg?t=1793186170"
+    },
+    {
+      "title": "Nocturnal 2",
+      "date": "2026-11-10",
+      "platform": "PC (Steam)",
+      "summary": "Ręcznie rysowana, mroczna metroidvania w mieście Ytash. Płonący miecz, połączone dzielnice i nowe przejścia odkrywane wraz z kolejnymi umiejętnościami.",
+      "sourceUrl": "https://store.steampowered.com/app/2847780/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/6b57fa23ef819357a78747bd8be5758c1012e3de/header.jpg?t=1793183826"
+    },
+    {
+      "title": "DERELIKT",
+      "date": "2026-11-13",
+      "platform": "PC (Steam)",
+      "summary": "Retro FPS dla fanów klaustrofobicznego horroru science fiction z ery PS1. Opuszczona stacja kosmiczna, ciasne korytarze i tajemnica, która czai się wśród gwiazd.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/45f23f4a1143f49de0962289003d6b269fa970bd/header.jpg?t=1792435067"
     }
   ],
   "releases": [
     {
-      "date": "2026-11-03",
-      "title": "Godzilla: Destroy All Monsters Melee Remastered",
-      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "date": "2026-11-05",
+      "title": "Edge of Memories",
+      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
-      "note": "Atari potwierdza dzisiejszą premierę odświeżonej bijatyki kaiju z 2002 roku; przebudowana oprawa i tryb sieciowy dołączają do lokalnych starć.",
-      "sourceUrl": "https://atari.com/products/godzilla-destroy-all-monsters-melee-remastered",
-      "imageUrl": "https://i.kym-cdn.com/photos/images/newsfeed/003/313/290/2e3.jpeg"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "Wilderdark",
-      "platform": "PC (Steam)",
-      "status": "confirmed",
-      "note": "Team Junkfish wyznaczyło premierę survival horroru na 3 listopada; na wyspie trzeba unikać zmutowanych dinozaurów i badać ślady poprzednich wypraw.",
-      "sourceUrl": "https://www.gamespress.com/uk-UA/Wilderdark-Unleashes-a-New-Breed-of-Survival-Horror-on-3-November",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2735850/3f614f86c58c8f65acbd1db9fc5b9ed34d27a1e5/header.jpg"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "The House Before",
-      "platform": "PC (Steam)",
-      "status": "listed",
-      "note": "Steam i kalendarze premier wskazują 3 listopada; eksperymentalna przygodówka body horror o domu, którego wnętrze jest żywym organizmem.",
-      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/dd2a5d82f81e43768bfd83a34f3f9953eb9c8d15/header.jpg"
+      "note": "Nacon i Midgar Studio potwierdziły premierę action-RPG na 5 listopada. Eline mierzy się z plagą Corrosion, która wyniszcza kontynent Avaris.",
+      "sourceUrl": "https://www.gamespress.com/pt/EDGE-OF-MEMORIES-ANNOUNCES-ITS-RELEASE-DATE-AND-PRE-ORDERS-NOW-OPEN"
     },
     {
       "date": "2026-11-05",
-      "title": "CRYMELIGHT",
-      "platform": "PC (Steam), PlayStation 5, Nintendo Switch 2",
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "platform": "Nintendo Switch 2",
       "status": "confirmed",
-      "note": "FuRyu zapowiedziało mroczne action roguelike w świecie zaświatów na 5 listopada; bohaterki walczą, by zmierzyć się z własnymi grzechami i odzyskać wolność.",
-      "sourceUrl": "https://www.gamespress.com/nl/Confess-Your-Sins-in-CRYMELIGHT-the-Next-Installment-in-the-Popular-Da",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3891160/header.jpg"
+      "note": "Nintendo przygotowało wersję przebudowaną na Switch 2: odświeżoną grafikę, symfoniczną muzykę, głosowe przerywniki i unowocześnione sterowanie.",
+      "sourceUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Nocturnal 2",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Mroczna, ręcznie rysowana metroidvania w mieście Ytash; płonący miecz, połączone dzielnice i odkrywanie ukrytych przejść.",
+      "sourceUrl": "https://store.steampowered.com/app/2847780/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Metaphor: ReFantazio",
+      "platform": "Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Atlus przenosi swoje fantasy-RPG na Switch 2; oficjalny sklep Nintendo podaje premierę 12 listopada.",
+      "sourceUrl": "https://www.nintendo.com/us/store/products/metaphor-refantazio-switch-2/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
+      "platform": "Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Edycja na Switch 2 poprawia oprawę, dodaje Akademię Dandori i komendy głosowe dla Oatchiego.",
+      "sourceUrl": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/"
     },
     {
       "date": "2026-11-19",
       "title": "Grand Theft Auto VI",
       "platform": "PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
-      "note": "Rockstar podał 19 listopada jako nową datę premiery; powrót do współczesnego Vice City i stanu Leonida.",
-      "sourceUrl": "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026",
-      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/Official_Cover_Art_landscape.12.uu2irr.2_a.jpg?akim=1&imdensity=1&imwidth=3840"
+      "note": "Rockstar potwierdził start pobierania wstępnego 10 listopada; pliki mogą zajmować do 212 GB. Data premiery pozostaje 19 listopada.",
+      "sourceUrl": "https://www.rockstargames.com/it/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
     },
     {
-      "date": "2026-12-03",
-      "title": "The Road of Dust and Sorrow",
-      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "date": "2026-11-19",
+      "title": "The Binding of Isaac: Repentance+",
+      "platform": "Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Painted Black Games i Silver Lining Interactive potwierdziły datę premiery pixel-artowego horroru o matce i córce próbujących przetrwać w upadłym świecie.",
-      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3895110/8b2f5aaa7e2a06ff809f055a399d03025d9a7adb/header.jpg"
+      "note": "Kultowy roguelike trafia na Switch 2 w wydaniu z sieciową kooperacją dla maksymalnie czterech graczy.",
+      "sourceUrl": "https://www.nintendo.no/nyheter/kommende-spill-i-november-2026"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Gothic 3 Classic",
+      "platform": "PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "THQ Nordic przenosi klasyczne RPG Piranha Bytes na współczesne konsole; wersja na Switch 2 również jest zapowiedziana.",
+      "sourceUrl": "https://thqnordic.com/news/time-for-some-classics-the-original-gothic-trilogy-is-coming-to-play-station-and-xbox-series-s-x"
     }
   ],
   "cinema": [
     {
       "date": "2026-11-06",
-      "title": "Godzilla Minus Zero",
-      "genre": "Sci-fi / akcja / thriller",
-      "summary": "Dwa lata po poprzednim starciu Japonia próbuje odbudować się po wojnie, gdy pojawia się kolejne zagrożenie. Takashi Yamazaki wraca do historii o potworze w powojennej scenerii.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/godzilla-minus-zero/8389s2r",
-      "imageUrl": "https://godzilla.com/cdn/shop/files/GMZ_KV2_Web_2025x3000_GKIDS-wIMAX_1.jpg?v=1788560923&width=480"
+      "title": "Zobaczysz wszystko",
+      "genre": "Dokument / komedia / thriller",
+      "summary": "Nathan Fielder wprowadza się do domu Elizabeth Holmes na 34 dni przed jej rozpoczęciem kary więzienia, dokumentując jej ostatnie tygodnie wolności. Film zaciera granicę między dokumentem, prowokacją i komedią.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/zobaczysz-wszystko/8661s2r",
+      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8661S2R.jpg"
     },
     {
       "date": "2026-11-06",
-      "title": "Kot Prot",
-      "genre": "Animacja / familijny / komedia",
-      "summary": "Chimeryczny kot w charakterystycznym kapeluszu ma pomóc rodzeństwu Gabby i Sebastianowi odnaleźć radość po przeprowadzce. Pełnometrażowa animowana przygoda oparta na świecie Dr. Seussa.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/kot-prot/7482d2r",
-      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/7482D2R.jpg"
+      "title": "La perra",
+      "genre": "Dramat psychologiczny",
+      "summary": "Na odległej wyspie u wybrzeży Patagonii Silvia przygarnia porzuconą suczkę Yuri. Więź ze zwierzęciem wydobywa na powierzchnię dawne rany i niespełnione pragnienia.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/la-perra/8675s2r",
+      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8675S2R.jpg"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "George Michael: The Faith Tour",
+      "genre": "Dokument / muzyczny",
+      "summary": "Zremasterowany zapis zaginionych nagrań z europejskiej części Faith Tour w 1988 roku, z materiałem zarejestrowanym w paryskiej hali Palais Omnisports de Paris-Bercy.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/george-michael-the-faith-tour/8670s2r",
+      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8670S2R.jpg"
     },
     {
       "date": "2026-11-11",
-      "title": "Victorian Psycho",
-      "genre": "Horror / thriller",
-      "summary": "Guwernantka Winifred Notty przybywa do ponurej posiadłości Ensor House. Wokół poprzednich rodzin, którymi się opiekowała, ciągnie się seria tajemniczych tragedii.",
-      "sourceUrl": "https://kino.krakow.pl/film/victorian-psycho.html",
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/683f390a6209d670fd058a06/d71677c5-3db8-4f69-bb3e-e9e88d755deb/Victorian-Psycho-Poster.jpg?format=1500w"
+      "title": "Nasza rewolucja",
+      "genre": "Biograficzny / dramat",
+      "summary": "Historia małżeństwa Jacka i Grażyny Kuroniów w latach 80. — opowieść o miłości, działalności opozycyjnej i osobistej cenie walki o wolność.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/nasza-rewolucja/8607o2r",
+      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8607O2R.jpg"
     },
     {
-      "date": "2026-11-13",
-      "title": "Ebenezer Scrooge. Opowieść wigilijna",
-      "genre": "Fantasy / dramat",
-      "summary": "Ti West przenosi historię Dickensa w gotycki, mroczniejszy ton. Skąpy biznesmen zostaje skonfrontowany z duchami, które zmuszają go do spojrzenia na własną przeszłość i przyszłość.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/ebenezer-scrooge-opowiesc-wigilijna/8344s2r",
-      "imageUrl": "https://media2.firstshowing.net/firstshowing/img18/ebenezerpostermainimgbig591.jpg"
+      "date": "2026-11-25",
+      "title": "Hokus: Królestwo magii",
+      "genre": "Animacja / fantasy / familijny",
+      "summary": "Billie odkrywa magiczne zdolności i rusza z matką do krainy Hokus, gdzie rodzinne tajemnice mogą odmienić świat czarów.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/hokus-krolestwo-magii/8297d2r",
+      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8297D2R.jpg"
     },
     {
-      "date": "2026-11-13",
-      "title": "Dziki Koń Dziewięć",
-      "genre": "Komedia / kryminał / thriller",
-      "summary": "Na tle Chile tuż przed zamachem stanu agenci CIA trafiają na Wyspę Wielkanocną. Dawne partnerstwo, spiski i spotkanie z parą zbuntowanych studentów komplikują ich misję.",
-      "sourceUrl": "https://kinoradar.pl/pl/warszawa/film/dziki-kon-dziewiec/",
-      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8161S2R.jpg"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-      "genre": "Sci-fi / akcja / thriller",
-      "summary": "Wracamy do Panem na pięćdziesiąte Głodowe Igrzyska. Młody Haymitch Abernathy trafia na arenę, gdzie liczba trybutów i brutalność rywalizacji są wyjątkowo wysokie.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/igrzyska-smierci-wschod-slonca-w-dniu-dozynek/7803s2r",
-      "imageUrl": "https://www.mediarodzina.pl/mrcore/uploads/2026/04/Igrzyska-smierci.-Wschod-slonca-w-dniu-dozynek_-plakat-PL-A.jpg"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Przemytnicy",
-      "genre": "Akcja / thriller",
-      "summary": "Weteran wojenny Samuel Murphy podejmuje się niebezpiecznego przemytu złota przez dzikie tereny Oregonu, by odzyskać córkę. Wyprawę szybko zatruwają chciwość i podejrzenia o zdradę.",
-      "sourceUrl": "https://www.filmweb.pl/film/Przemytnicy-2026-10109155",
-      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8585S2R.jpg"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Struś Pędziwiatr i zemsta Kojota",
-      "genre": "Animacja / przygodowy / komedia",
-      "summary": "Wiluś Kojot pozywa firmę Acme za wadliwe produkty, które przez lata obracały jego pogoń za Strusiem Pędziwiatrem w serię katastrof. Animowana komedia z klasycznymi bohaterami Looney Tunes.",
-      "sourceUrl": "https://kino.blonie.pl/film/strus-pedziwiatr-i-zemsta-kojota/",
-      "imageUrl": "https://v1.fdbimg.pl/crop?height=1739&noprofile=true&quality=80&sign=doTDCl_CwjDEZ7PhMNKj9E36P0wlz1LDLBkammeZoi8&stripmeta=true&type=webp&url=https%3A%2F%2Fi11.fdbimg.pl%2Fi%2Fk%2Fz%2Ff%2Fkzfvjrjydk6tr1fvlzktho0f866v&width=1200"
+      "date": "2026-11-27",
+      "title": "Violetta Villas",
+      "genre": "Biograficzny / dramat",
+      "summary": "Portret Violetty Villas opowiedziany z perspektywy syna — od wielkiej kariery na scenach Paryża i Las Vegas po trudną relację z matką.",
+      "sourceUrl": "https://kinoswiat.pl/film/violetta-villas/",
+      "imageUrl": "https://kinoswiat.pl/wp-content/uploads/2026/06/image_processing20260609-8-r7wg0h-714x1024.jpg"
     }
   ],
   "film": {
-    "title": "Apetyt",
-    "year": "2025",
-    "platform": "Netflix",
-    "summary": "Podczas wakacji na francuskiej prowincji do życia zamożnej niemieckiej rodziny wkracza młoda pracownica hotelu, która skrywa złowrogie zamiary. Kameralny thriller o pozorach, klasowych napięciach i narastającym niepokoju.",
-    "availabilityNote": "JustWatch Polska potwierdził dostępność w ramach abonamentu Netflix; katalog sprawdzono 30 października 2026.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/delicious-0",
-    "imageUrl": "https://images.justwatch.com/backdrop/324924047/s640/delicious-0.jpg"
+    "title": "Pusty Człowiek",
+    "year": "2020",
+    "platform": "Disney+",
+    "summary": "Były policjant szuka zaginionej nastolatki i trafia na trop tajnej grupy próbującej przywołać nadprzyrodzoną istotę. Rozległy, powoli narastający horror detektywistyczny z mocnym poczuciem kosmicznego niepokoju.",
+    "availabilityNote": "JustWatch Polska potwierdził streaming w ramach abonamentu Disney+; dostępność sprawdzono 1 listopada 2026.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/the-empty-man",
+    "imageUrl": "https://images.justwatch.com/backdrop/233465665/s640/the-empty-man.jpg"
   },
-  "editorialUpdatedAt": "2026-11-03",
-  "editorialHash": "5a3325e7447fd3259a5c38d00c57e6db7f329c0a19ef6f65c6d177fadf691c5a"
+  "editorialUpdatedAt": "2026-11-04",
+  "editorialHash": "6674422fffafd7ffe433492b280ef24b1db17f5aa1ac81450e988ae44a5e39cb"
 }
