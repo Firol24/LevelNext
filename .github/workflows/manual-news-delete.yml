@@ -1,0 +1,67 @@
+name: Remove manual LEVEL NEXT publication
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: level-next-manual-news
+  cancel-in-progress: false
+jobs:
+  remove:
+    if: github.event.issue.user.login == 'Firol24' && startsWith(github.event.issue.title, '[USUŃ PUBLIKACJĘ]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove selected publication
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          python - <<'PY'
+          import json, os, re, sys
+          from pathlib import Path
+
+          body = os.environ.get("ISSUE_BODY", "")
+          match = re.search(r"^Numer zgłoszenia publikacji:\\s*(\\d+)\\s*$", body, re.M)
+          if not match:
+              sys.exit("Brak prawidłowego numeru zgłoszenia publikacji.")
+          target = int(match.group(1))
+          path = Path("data/manual-news.json")
+          if not path.exists():
+              sys.exit("Nie znaleziono archiwum publikacji.")
+          data = json.loads(path.read_text(encoding="utf-8"))
+          removed = []
+          for date, entries in list(data.items()):
+              if not isinstance(entries, list):
+                  continue
+              kept = [item for item in entries if item.get("issueNumber") != target]
+              removed.extend(item for item in entries if item.get("issueNumber") == target)
+              if kept:
+                  data[date] = kept
+              else:
+                  data.pop(date, None)
+          if not removed:
+              sys.exit(f"Nie znaleziono publikacji powiązanej ze zgłoszeniem #{target}.")
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+          print(f"Usunięto {len(removed)} wpis(ów) powiązanych ze zgłoszeniem #{target}.")
+          PY
+      - name: Commit removal
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/manual-news.json
+          git commit -m "Remove manual publication requested in issue #${{ github.event.issue.number }}"
+          git push
+      - name: Confirm removal
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue comment "$ISSUE_NUMBER" --body "Własna publikacja została usunięta z LEVEL NEXT DAILY i archiwum redakcyjnego."
+      - name: Close removal request
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue close "$ISSUE_NUMBER"
