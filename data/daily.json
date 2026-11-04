@@ -1,446 +1,275 @@
 {
   "status": "rss-only",
-  "date": "2026-11-04",
-  "updatedAt": "2026-11-04T23:24+01:00",
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T00:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Wyprzedaż figurek Bandai w RTV Euro AGD. Modele do składania Gundam od 99,99 zł!",
-    "summary": "W internetowym sklepie RTV Euro AGD wystartowała kolejna odsłona promocji na modele do składania Bandai. W ramach wyprzedaży w niższych cenach zakupicie figurki z serii Mobile Suit Gundam. Najtańsze warianty kolekcjonerskie dla fanów Gunpla mogą być Wasza już od 99,99 zł! Swojej przeceny doczekały się także największe modele w skali 1:60, oferowane za 879 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-figurek-bandai-w-rtv-euro-agd-modele-do-skladania-gundam-od-9999-zl/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Wielka-Wyprzedaz-modeli-do-skladania-Bandai-w-RTV-Euro-AGD.-Figurki-Gundam-juz-od-4499-zl_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "To dlatego ikona Tekkena opuściła Bandai Namco. Katsuhiro Harada ujawnia kulisy powstania VS Studio",
+    "summary": "Nie tak dawno temu kultowy w świecie bijatyk Katsuhiro Harada zaskoczył ogłaszając odejście z szeregów Bandai Namco Entertainment na rzecz powołania do życia nowej firmy. Teraz wreszcie wszystko jest jasne.",
+    "sourceUrl": "https://www.ppe.pl/news/432177/to-dlatego-ikona-tekkena-opuscila-bandai-namco-katsuhiro-harada-ujawnia-kulisy-powstania-vs-studio.html"
   },
   "news": [
     {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż figurek Bandai w RTV Euro AGD. Modele do składania Gundam od 99,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-figurek-bandai-w-rtv-euro-agd-modele-do-skladania-gundam-od-9999-zl/",
-      "publishedAt": "2026-11-04T22:45+01:00",
-      "summary": "W internetowym sklepie RTV Euro AGD wystartowała kolejna odsłona promocji na modele do składania Bandai. W ramach wyprzedaży w niższych cenach zakupicie figurki z serii Mobile Suit Gundam. Najtańsze warianty kolekcjonerskie dla fanów Gunpla mogą być Wasza już od 99,99 zł! Swojej przeceny doczekały się także największe modele w skali 1:60, oferowane za 879 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Wielka-Wyprzedaz-modeli-do-skladania-Bandai-w-RTV-Euro-AGD.-Figurki-Gundam-juz-od-4499-zl_miniaturka-224x224.jpg"
+      "sourceName": "PPE",
+      "title": "To dlatego ikona Tekkena opuściła Bandai Namco. Katsuhiro Harada ujawnia kulisy powstania VS Studio",
+      "sourceUrl": "https://www.ppe.pl/news/432177/to-dlatego-ikona-tekkena-opuscila-bandai-namco-katsuhiro-harada-ujawnia-kulisy-powstania-vs-studio.html",
+      "publishedAt": "2026-11-04T17:50+01:00",
+      "summary": "Nie tak dawno temu kultowy w świecie bijatyk Katsuhiro Harada zaskoczył ogłaszając odejście z szeregów Bandai Namco Entertainment na rzecz powołania do życia nowej firmy. Teraz wreszcie wszystko jest jasne.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
-      "title": "Nicolas Cage w kontynuacji Pana życia i śmierci. Lords of War na pierwszym zwiastunie",
-      "sourceUrl": "https://www.ppe.pl/news/432184/nicolas-cage-w-kontynuacji-pana-zycia-i-smierci-lords-of-war-na-pierwszym-zwiastunie.html",
-      "publishedAt": "2026-11-04T22:41+01:00",
-      "summary": "Nicolas Cage powraca do jednej ze swoich najbardziej charakterystycznych ról. Ponad 20 lat po premierze „Pana życia i śmierci” aktor ponownie wcieli się w bezwzględnego handlarza bronią, który przez lata budował swoje imperium na międzynaro...",
+      "title": "Kultowe RPG całkowicie za darmo! Liczba kluczy ograniczona",
+      "sourceUrl": "https://www.ppe.pl/news/432168/kultowe-rpg-calkowicie-za-darmo-liczba-kluczy-ograniczona.html",
+      "publishedAt": "2026-11-04T17:29+01:00",
+      "summary": "Fallout: New Vegas będzie można zgarnąć za darmo na Steam dzięki akcji Lenovo. Firma szykuje się do rozdania kluczy do kultowego RPG przez Legion Gaming Community.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "AMD przewiduje kolejny spadek na rynku PC jeszcze w 2027 roku. Zmiana priorytetów?",
+      "sourceUrl": "https://www.ppe.pl/news/432172/amd-przewiduje-kolejny-spadek-na-rynku-pc-jeszcze-w-2027-roku-zmiana-priorytetow.html",
+      "publishedAt": "2026-11-04T17:15+01:00",
+      "summary": "AMD opublikowało wyniki finansowe za trzeci kwartał 2026 roku. Amerykański producent układów scalonych odnotował w tym okresie przychody na poziomie 13,4 mld dolarów. Coraz większą część tej kwoty generuje biznes centrów danych, podczas gdy...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Telewizor LG OLED z 144 Hz pod PS5 czy XSX za 2999 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/telewizory/432131/telewizor-lg-oled-z-144-hz-pod-ps5-czy-xsx-za-2999-zl.html",
+      "publishedAt": "2026-11-04T17:08+01:00",
+      "summary": "Sklep RTV Euro AGD zapewnił świetną okazję na telewizor LG OLED.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Guild Wars otrzyma nowe DLC po ponad 20 latach! Afterlife zadebiutuje w styczniu 2027 roku",
+      "sourceUrl": "https://www.ppe.pl/news/432173/guild-wars-otrzyma-nowe-dlc-po-ponad-20-latach-afterlife-zadebiutuje-w-styczniu-2027-roku.html",
+      "publishedAt": "2026-11-04T17:01+01:00",
+      "summary": "Ponad dwie dekady po premierze pierwszej odsłony serii Guild Wars gra otrzyma zupełnie nowy dodatek. Rozszerzenie zatytułowane Afterlife ukaże się 13 stycznia 2027 roku na PC i urządzeniach mobilnych. Twórcy przygotowali nową historię, nieznany...",
       "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
-      "title": "Środowe podsumowanie wyprzedaży w Nintendo eShop. NINJA GAIDEN: Ragebound już za 57 zł!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/srodowe-podsumowanie-wyprzedazy-w-nintendo-eshop-ninja-gaiden-ragebound-juz-za-57-zl/",
-      "publishedAt": "2026-11-04T22:12+01:00",
-      "summary": "Łowcy, przygotowaliśmy dla Was mini-zestawienie podsumowujące ostatnie wyprzedaże jakie pojawiły się w cyfrowym sklepie Nintendo eShop. W dalszej części znajdziecie 100 najciekawszych ofert na tanie gry Nintendo Switch 2. Na szczególną uwagę zasługuje tutaj NINJA GAIDEN: Ragebound w historycznie najniższej cenie. Produkcja w wersji na popularnego „Pstryczka” może być Wasza za nieco ponad 57 zł! Czytaj więcej »",
+      "title": "Preorder Stranger Than Heaven na PC dostępny za 167,28 zł (zamiast 299 zł) w Kinguinie",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/preorder-stranger-than-heaven-na-pc-dostepny-za-16728-zl-zamiast-299-zl-w-kinguinie/",
+      "publishedAt": "2026-11-04T16:18+01:00",
+      "summary": "Do premiery Stranger Than Heaven pozostało coraz mniej czasu, choć gra zadebiutuje dopiero 14 stycznia 2027 roku. Jeśli chcecie zaopatrzyć się we wspomnianą produkcję studia Ryu Ga Gotoku taniej, sięgnijcie po ofertę dostępną w Kinguinie. Sklep oferuje pecetowe wydanie za nieco ponad 157 złotych. W porównaniu do wersji bezpośrednio w sklepie Valve, zaoszczędzicie prawie 132 zł. W grze czeka Was obszerna historia rozgrywająca się w pięciu japońskich miastach, na przestrzeni pięciu epok i 50 lat. Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Srodowe-podsumowanie-wyprzedazy-w-Nintendo-eShop.-NINJA-GAIDEN_-Ragebound-juz-za-57-zl_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "The Last of Us Part II Remastered z nową i darmową zawartością! Gracze są pewni: TO ZNAK!",
-      "sourceUrl": "https://www.ppe.pl/news/432186/the-last-of-us-part-ii-remastered-z-nowa-i-darmowa-zawartoscia-gracze-sa-pewni-to-znak.html",
-      "publishedAt": "2026-11-04T21:51+01:00",
-      "summary": "Naughty Dog ponownie zaskoczyło graczy, udostępniając darmową aktualizację do The Last of Us Part II Remastered. Twórcy przygotowali niespodziankę, która powinna szczególnie zainteresować fanów Uncharted.",
-      "category": "WIADOMOŚCI"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Stranger-Than-Heaven-logo-224x224.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
-      "title": "Nowa odsłona Humble Resident Evil Bundle. Village Gold Edition w pierwszym progu!",
-      "sourceUrl": "https://lowcygier.pl/bundle/nowa-odslona-humble-resident-evil-bundle-village-gold-edition-w-pierwszym-progu/",
-      "publishedAt": "2026-11-04T21:35+01:00",
-      "summary": "Łowcy, przed Wami najnowsze wydanie bardzo popularnego zestawu od Humble Bundle. W tym roku ulepszona wersja paczki Humble Resident Evil: Biohazard Unleashed Bundle zapewnia dostęp do aż 9 gier z kultowej serii w 4 progach cenowych. Najdroższy z nich może być Wasz za 193,04 zł, co daje nam przelicznik na poziomie ok. 21,45 zł za jeden tytuł na PC! W porównaniu do poprzedniej odsłony pakietu nie znajdziecie tutaj takich pozycji jak Resident Evil Revelations i Resident Evil Revelations 2 , jednak na osłodę siódma odsłona cyklu oferowana jest tym razem z dodatkami, a kompletne wydanie Resident Evil Village Gold Edition trafiło do pierwszego prog",
+      "title": "Mould King Fiat 126p Outdoor Adventure za 49,99 zł w RTV Euro AGD. Zbuduj kultowego Malucha!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/mould-king-fiat-126p-outdoor-adventure-za-4999-zl-w-rtv-euro-agd-zbuduj-kultowego-malucha/",
+      "publishedAt": "2026-11-04T16:03+01:00",
+      "summary": "Niezwykle tani i składający się z 393 elementów zestaw Mould King Fiat 126p Outdoor Adventure, możecie kupić w sklepie RTV Euro AGD. Klocki, z których zbudujecie legendarnego Fiata 126p, zwanego u nas Maluchem, kosztują 49,99 zł. Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nowa-odslona-Humble-Resident-Evil-Bundle.-Village-Gold-Edition-w-pierwszym-progu_minaturka-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/mould-king-fiat-126p-outdoor-adventure-2b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
-      "title": "Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel's Blade w oparciu o „bezlitosną i nieludzką logikę”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-dishonored-oskarzaja-microsoft-o-sabotaz-marvels-blade-w-o/z132219",
-      "publishedAt": "2026-11-04T21:30+01:00",
-      "summary": "Pracownicy Arkane Lyon nie kryją oburzenia działaniami Microsoftu. Ich zdaniem gigant z Redmond sam doprowadził do problemów studia, a teraz wykorzystuje je jako pretekst do jego zamknięcia. Informacja Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel&apos;s Blade w oparciu o „bezlitosną i nieludzką logikę” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "title": "Uważa się go za jeden z najlepszych seriali ostatnich lat i po 3 latach przerwy powrócił do streamingu. Jest dostępny na nowej platformie w Polsce",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/uwaza-sie-go-za-jeden-z-najlepszych-seriali-ostatnich-lat-i-po-3/z732200",
+      "publishedAt": "2026-11-04T16:02+01:00",
+      "summary": "Wreszcie do streamingu powrócił jeden z najlepszych seriali ostatnich lat. Można już obejrzeć go na nowej platformie streamingowej, która w tym tygodniu wystartowała. Informacja Uważa się go za jeden z najlepszych seriali ostatnich lat i po 3 latach przerwy powrócił do streamingu. Jest dostępny na nowej platformie w Polsce została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531519706.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Sony umieszczone w „Galerii Hańby”! PlayStation krytykowane za koniec gier na płytach",
-      "sourceUrl": "https://www.ppe.pl/news/432182/sony-umieszczone-w-galerii-hanby-playstation-krytykowane-za-koniec-gier-na-plytach.html",
-      "publishedAt": "2026-11-04T21:13+01:00",
-      "summary": "Sony od miesięcy podejmuje decyzje, które budzą coraz większe kontrowersje wśród społeczności PlayStation. Firma chce postawić w całości na cyfrową dystrybucję, ale nie wszyscy gracze są zadowoleni z kierunku, w którym rozwija się branż...",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Za 2 dni Cyberpunk 2077 dostanie coś, z czego zasłynęły GTA 5 i San Andreas. Światło dzienne ujrzy wielki fanowski projekt",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/za-2-dni-cyberpunk-2077-dostanie-cos-z-czego-zaslynely-gta-5-i-sa/z032218",
-      "publishedAt": "2026-11-04T21:10+01:00",
-      "summary": "Zabawa z innymi graczami w Cyberpunku 2077 niedługo stanie się możliwa. Poznaliśmy datę premiery modyfikacji Open 77, za którą odpowiada zespół fanów produkcji CD Projekt Red. Informacja Za 2 dni Cyberpunk 2077 dostanie coś, z czego zasłynęły GTA 5 i San Andreas. Światło dzienne ujrzy wielki fanowski projekt została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531518900.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "„Pionek” - wywiad z Weroniką Książkiewicz. \"Będąc w 9 miesiącu ciąży, widziałam w lustrze to samo, co Dagmara\"",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/432162/pionek-wywiad-z-weronika-ksiazkiewicz-bedac-w-9-miesiacu-ciazy-widzialam-w-lustrze-to-samo-co-dagmara.html",
-      "publishedAt": "2026-11-04T21:00+01:00",
-      "summary": "„Pionek” to polski serial kryminalny będący kontynuacją „Ślebody”, który przenosi widzów na Górny Śląsk. Fabuła rozpoczyna się od brutalnego morderstwa studentki architektury, a sposób działania sprawcy przypomina zbrodnie Normana P...",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "„Znieczulenie” (2026) - recenzja serialu [Netflix]. Polski serial medyczny? Tak, to naprawdę się udało",
-      "sourceUrl": "https://www.ppe.pl/recenzje/432147/znieczulenie-2026-recenzja-serialu-netflix-polski-serial-medyczny-tak-to-naprawde-sie-udalo.html",
-      "publishedAt": "2026-11-04T20:59+01:00",
-      "summary": "Polskie seriale medyczne nie zawsze miały szczęście do realizacji. „Znieczulenie” Netfliksa pokazuje jednak, że w tym gatunku wciąż drzemie potencjał. Osiem odcinków wystarczyło, by stworzyć produkcję, która zaskakuje rozmachem i przede ...",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Nowa promocja w Żabce uczyni zakup GTA 6 mniej bolesnym. Gracze PlayStation 5 dostaną 100 złotych ekstra",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nowa-promocja-w-zabce-uczyni-zakup-gta-6-mniej-bolesnym-gracze-pl/zf32217",
-      "publishedAt": "2026-11-04T20:47+01:00",
-      "summary": "Żabka wystartowała z promocją, która może szczególnie zainteresować graczy planujących zakup GTA 6. Informacja Nowa promocja w Żabce uczyni zakup GTA 6 mniej bolesnym. Gracze PlayStation 5 dostaną 100 złotych ekstra została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531517562.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Dynamiczne ceny na promocji Black Friday na PlayStation Store. Gracze mają różne oferty za te same gry",
-      "sourceUrl": "https://www.ppe.pl/news/432194/dynamiczne-ceny-na-promocji-black-friday-na-playstation-store-gracze-maja-rozne-oferty-za-te-same-gry.html",
-      "publishedAt": "2026-11-04T20:43+01:00",
-      "summary": "Sony rozpoczęło wielką wyprzedaż Black Friday na PlayStation Store, ale okazuje się, że nie wszyscy gracze mogą liczyć na takie same promocje. W sieci pojawiają się kolejne doniesienia dotyczące dynamicznego ustalania cen, przez które identy...",
-      "category": "WIADOMOŚCI"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531486624.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
-      "title": "Nadchodzą zmiany w Humble Choice. Definitywny koniec planu Classic i nowa data płatności!",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/nadchodza-zmiany-w-humble-choice-definitywny-koniec-planu-classic-i-nowa-data-platnosci/",
-      "publishedAt": "2026-11-04T20:40+01:00",
-      "summary": "Łowcy, pamiętacie jeszcze jak subskrypcja zmieniła swoją formułę, przeistaczając się w Humble Choice? Wtedy to aktywni abonenci otrzymali dostęp do planu Classic rozliczanego w dolarach. Niestety wariant ten był przez większość czasu niekorzystny ze względu na kurs walutowy w stosunku do kwoty w euro. Jeśli jednak z jakiegoś powodu pozostawaliście przy starym rozliczeniu, to już we wrześniu 2026 roku pierwsze osoby (w tym również ja!) zgłaszały, że ich subskrypcja Month-to-Month Classic Plan za $14.99 została zmieniona na standardowy Humble Choice za €12.99! Najnowszy e-mail od przedstawicieli HB wyjaśnia całą sytuacją, informując użytkownikó",
+      "title": "Gdzie kupić specjalne edycje World of Warcraft: Forever najtaniej? Nowa wersja króla MMORPG!",
+      "sourceUrl": "https://lowcygier.pl/przeglady-ofert/gdzie-kupic-specjalne-edycje-world-of-warcraft-forever-najtaniej-nowa-wersja-krola-mmorpg/",
+      "publishedAt": "2026-11-04T15:53+01:00",
+      "summary": "Premiera World of Warcraft: Forever odbędzie się już lada moment! Kolejna po wersji Classic próba powrotu do samych początków kultowego MMORPG pojawi się na rynku 5 listopada 2026 roku. Jednak w przeciwieństwie do poprzednika, oprócz wiernie odtworzonej zawartości pierwowzoru, tytuł zaoferuje mnóstwo zupełnie nowej zawartości. Dostęp do World of Warcraft: Forever za darmo otrzyma każdy posiadacz aktywnego abonamentu. Jak to jednak bywa w przypadku studia Blizzard, to co najciekawsze ukryte jest za płatnymi pakietami. Najlepsze oferty na tanie dodatki do World of Warcraft: Forever znajdziecie w dalszej części wpisu. Natomiast kompleksowe wyjaś",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nadchodza-zmiany-w-Humble-Choice.-Definitywny-koniec-planu-Classic-i-nowa-data-platnosci_minaturka-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Gdzie-kupic-specjalne-edycje-World-of-Warcraft_-Forever-najtaniej_-Nowa-wersja-krola-MMORPG_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Harry Potter Latający Ford Anglia za 39,98 zł (cena kat. 61,99 zł) w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-harry-potter-latajacy-ford-anglia-za-3998-zl-cena-kat-6199-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-04T15:46+01:00",
+      "summary": "Składający się ze 165 elementów zestaw LEGO Harry Potter Latający Ford Anglia możecie obecnie kupić w dobrej cenie w polskim Amazonie. Model pozwala zbudować kultowy samochód Weasleyów znany z filmu Harry Potter i Komnata Tajemnic, a w komplecie znajdziecie również minifigurki Harry’ego i Rona oraz figurki Hedwigi i Parszywka. Set ten kosztuje teraz 39,98 zł, podczas gdy jego cena katalogowa w oficjalnym sklepie LEGO wynosi 61,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/lego-harry-potter-latajacy-ford-anglia-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Telewizor Xiaomi TV A Pro 65 cali z rocznika 2026 za 1899 zł (taniej o 600 zł) na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/telewizor-xiaomi-tv-a-pro-65-cali-z-rocznika-2026-za-1899-zl-taniej-o-600-zl-na-allegro/",
+      "publishedAt": "2026-11-04T15:38+01:00",
+      "summary": "W oficjalnym sklepie Xiaomi na Allegro możecie obecnie zakupić telewizor Xiaomi TV A Pro 65 2026 za 1899 zł. Model ten wyróżnia się matrycą QLED o częstotliwości odświeżania 60 Hz, obsługującą rozdzielczość 4K. Sprzęt pracuje na systemie Google TV. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Xiaomi-TV-A-Pro-65-2026-logo-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
-      "title": "Dane mówią jasno, nowe RPG akcji podbija cały świat, nie tylko Chiny. Phantom Blade Zero dostało pierwszą aktualizacją",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/dane-mowia-jasno-nowe-rpg-akcji-podbija-caly-swiat-nie-tylko-chin/ze32216",
-      "publishedAt": "2026-11-04T20:26+01:00",
-      "summary": "Phantom Blade Zero zyskało popularność nie tylko w Chinach, ale i na całym świecie. Analityk pokazał, jak zachodni świat masowo zainteresował się grą po opublikowaniu pozytywnych recenzji. Informacja Dane mówią jasno, nowe RPG akcji podbija cały świat, nie tylko Chiny. Phantom Blade Zero dostało pierwszą aktualizacją została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "title": "Steam nie nadąża ze sprawdzaniem gier. Valve wprowadza nowe zasady",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/steam-nie-nadaza-ze-sprawdzaniem-gier-valve-wprowadza-nowe-zasady/z932211",
+      "publishedAt": "2026-11-04T15:33+01:00",
+      "summary": "Valve przyznało, że przestało się wyrabiać z certyfikowaniem powodzi gier zalewających Steam i wprowadza zmiany, które mają poprawić sytuację. Informacja Steam nie nadąża ze sprawdzaniem gier. Valve wprowadza nowe zasady została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531516267.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nowy Resident Evil zarobił 400 milionów dolarów. Kiedy film trafi do streamingu?",
-      "sourceUrl": "https://www.ppe.pl/news/432187/nowy-resident-evil-zarobil-400-milionow-dolarow-kiedy-film-trafi-do-streamingu.html",
-      "publishedAt": "2026-11-04T20:25+01:00",
-      "summary": "Najnowsza ekranizacja Resident Evil w reżyserii Zacha Creggera osiągnęła kolejny ważny wynik finansowy.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "God of War: Ragnarok sprzedał się w dziesiątkach milionów egzemplarzy. Sony ma kolejny wielki hit",
-      "sourceUrl": "https://www.ppe.pl/news/432178/god-of-war-ragnarok-sprzedal-sie-w-dziesiatkach-milionow-egzemplarzy-sony-ma-kolejny-wielki-hit.html",
-      "publishedAt": "2026-11-04T20:02+01:00",
-      "summary": "God of War Ragnarok wciąż cieszy się ogromnym zainteresowaniem graczy. Według szacunków firmy Alinea Analytics sprzedaż gry osiągnęła już 21,6 mln egzemplarzy. Produkcja Santa Monica Studio pozostaje jednym z największych hitów PlayStation o...",
-      "category": "WIADOMOŚCI"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531498817.jpg"
     },
     {
       "sourceName": "GRY-Online",
-      "title": "9 na 10 graczy GTA 6 nie patrzy na cenę i kupuje najdroższą wersję gry Rockstara. Oto wszystko, za co dopłacają",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/9-na-10-graczy-gta-6-nie-patrzy-na-cene-i-kupuje-najdrozsza-wersj/zd32215",
-      "publishedAt": "2026-11-04T20:01+01:00",
-      "summary": "Droższa edycja GTA 6 cieszy się ogromnym zainteresowaniem graczy. Przyglądamy się różnicom między dostępnymi wydaniami i przypominamy, za co kupujący są skłonni dopłacić 80 zł. Informacja 9 na 10 graczy GTA 6 nie patrzy na cenę i kupuje najdroższą wersję gry Rockstara. Oto wszystko, za co dopłacają została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "title": "Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-4-latach-powroci-jeden-z-najlepszych-seriali-netflixa-ktory-po/ze321fb",
+      "publishedAt": "2026-11-04T15:02+01:00",
+      "summary": "Po kilkuletniej przerwie na Netfliksa z drugim sezonem wraca przebojowy serial animowany, który jest polecany na Rotten Tomatoes przez 93% widzów. Informacja Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531514702.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531484833.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "GOG kończy 18 lat i wchodzi w nową erę. Polski sklep zapowiada pierwszy w historii pokaz nowości",
-      "sourceUrl": "https://www.ppe.pl/news/432188/gog-konczy-18-lat-i-wchodzi-w-nowa-ere-polski-sklep-zapowiada-pierwszy-w-historii-pokaz-nowosci.html",
-      "publishedAt": "2026-11-04T19:45+01:00",
-      "summary": "GOG to platforma, której raczej nie trzeba przedstawiać graczom, szczególnie polskim. Jednak nie każdy musi być świadomy tego, że rodzimy sklep osiągnął już pełnoletność. Dlatego za chwilę odbędzie się wydarzenie, które to nalezycie po...",
-      "category": "WIADOMOŚCI"
+      "sourceName": "GRY-Online",
+      "title": "„Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/z-polski-do-miliona-swiatow-w-warszawie-ruszyl-pierwszy-w-polsce/zc3220e",
+      "publishedAt": "2026-11-04T14:55+01:00",
+      "summary": "W warszawskiej Hali Labo można wejść do światów Wiedźmina, Cyberpunka 2077 czy Frostpunka bez kontrolera i ekranu. Wstęp jest bezpłatny. Informacja „Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531496202.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy WoW Forever nie chcą, żeby wszystkie klasy były równie silne. Blizzard świadomie rezygnuje z idealnego balansu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-wow-forever-nie-chca-zeby-wszystkie-klasy-byly-rownie-siln/zb3220d",
+      "publishedAt": "2026-11-04T14:40+01:00",
+      "summary": "Blizzard nie będzie na siłę równał potencjał wszystkich klas w WoW Forever. Zamiast tego skupi się na sprawieniu, by każda miała coś do zaoferowania drużynie. Informacja Twórcy WoW Forever nie chcą, żeby wszystkie klasy były równie silne. Blizzard świadomie rezygnuje z idealnego balansu została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531495503.jpg"
     },
     {
       "sourceName": "CD-Action",
-      "title": "Fani kina niezależnego w końcu mają swoje miejsce w streamingu. W Polsce zadebiutowało Cinobo",
-      "sourceUrl": "https://cdaction.pl/kultura/fani-kina-niezaleznego-w-koncu-maja-swoje-miejsce-w-streamingu-w-polsce-zadebiutowalo-cinobo/",
-      "publishedAt": "2026-11-04T19:30+01:00",
-      "summary": "Alternatywa dla Netfliksa z darmowymi biletami do kina.",
+      "title": "Najwyżej oceniana gra w historii znowu zachwyciła recenzentów. Remake Zeldy: Ocarina of Time zbiera maksymalne noty",
+      "sourceUrl": "https://cdaction.pl/newsy/najwyzej-oceniana-gra-w-historii-znowu-zachwycila-recenzentow-remake-zeldy-ocarina-of-time-zbiera-maksymalne-noty/",
+      "publishedAt": "2026-11-04T14:00+01:00",
+      "summary": "W sieci pojawiły się pierwsze recenzje remake’u The Legend of Zelda: Ocarina of Time. Dziennikarze są zachwyceni.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Cinobo.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PlayStation Store – poznaliśmy najpopularniejsze gry października 2026. Zaskoczenie?",
-      "sourceUrl": "https://www.ppe.pl/news/432179/playstation-store-poznalismy-najpopularniejsze-gry-pazdziernika-2026-zaskoczenie.html",
-      "publishedAt": "2026-11-04T19:30+01:00",
-      "summary": "Sony opublikowało zestawienie najchętniej pobieranych gier z PlayStation Store w październiku 2026 roku. Na szczycie rankingów PS5 zarówno w Ameryce Północnej, jak i Europie znalazło się Call of Duty: Modern Warfare 4. W czołówce obu zestawie...",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "God of War: Laufey opóźniony, jest nowa data premiery. Santa Monica Studio robi miejsce Fable i Metro 2039",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/god-of-war-laufey-opozniony-jest-nowa-data-premiery-santa-monica/zc32214",
-      "publishedAt": "2026-11-04T19:27+01:00",
-      "summary": "Sony i Santa Monica Studio ogłosiły opóźnienie premiery God of War: Laufey. Gra ukaże się na PS5 kilka miesięcy później, niż pierwotnie planowano, ale i tak trafi na płyty. Informacja God of War: Laufey opóźniony, jest nowa data premiery. Santa Monica Studio robi miejsce Fable i Metro 2039 została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531512867.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-4-o-13.29.49-1260x662.jpg"
     },
     {
       "sourceName": "CD-Action",
-      "title": "God of War Laufey jednak nie wyjdzie w lutym. „Chcielibyśmy, by gra była nadzwyczajnym doświadczeniem”",
-      "sourceUrl": "https://cdaction.pl/newsy/god-of-war-laufey-jednak-nie-wyjdzie-w-lutym-chcielibysmy-by-gra-byla-nadzwyczajnym-doswiadczeniem/",
-      "publishedAt": "2026-11-04T19:05+01:00",
-      "summary": "Dodatkowy czas nie zmieni drastycznie oblicza gry, ale może pomóc poprawić jeszcze kilka rzeczy.",
+      "title": "Call of Duty: Modern Warfare 4 ma w sobie ten klasyczny posmak. Czasem prościej znaczy lepiej [RECENZJA]",
+      "sourceUrl": "https://cdaction.pl/recenzje/call-of-duty-modern-warfare-4-ma-w-sobie-ten-klasyczny-posmak-czasem-prosciej-znaczy-lepiej-recenzja/",
+      "publishedAt": "2026-11-04T14:00+01:00",
+      "summary": "Ci, którzy mają dość udziwnień, mogą odetchnąć z ulgą. Od pierwszych spędzonych z Call of Duty: Modern Warfare, czujemy się tu jak w dobrze znanym domu i co najwyżej tylko miejscami widać, że przydałby się niewielki remoncik.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/god-of-war-laufey-7833.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PlayStation, Xbox i Nintendo niszczą studia deweloperskie? Wyniki są bezlitosne",
-      "sourceUrl": "https://www.ppe.pl/news/432164/playstation-xbox-i-nintendo-niszcza-studia-deweloperskie-wyniki-sa-bezlitosne.html",
-      "publishedAt": "2026-11-04T19:00+01:00",
-      "summary": "Przejęcie studia przez dużego wydawcę wcale nie musi oznaczać lepszej przyszłości. Często jest wręcz odwrotnie.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Piękny zestaw klocków CaDA Mercedes AMG GT3 (5466 el.) dostępny za 1099 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/piekny-zestaw-klockow-cada-mercedes-amg-gt3-5466-el-dostepny-za-1099-zl-na-allegro/",
-      "publishedAt": "2026-11-04T18:57+01:00",
-      "summary": "Łowcy, jeśli wciąż poszukujecie ciekawej alternatywy dla marki LEGO, to w oficjalnym Sklepie CaDA na Allegro pojawiła się świetna promocja na licencjonowany zestaw Mercedes-AMG GT3. Pełen szczegółów model z serii Master w skali 1:8 składa się z aż 5466 elementów. Idealna na prezent propozycja dostępna jest w ramach oferty Black Weeks za 1099 zł. Warto dodać, że samochód charakteryzuje się licznymi funkcjami mechanicznymi, wśród których na szczególną uwagę zasługują: 8-biegowa skrzynia, regulowane zawieszenie, skrętne koła, blokowane drzwi oraz modułowy silnik i maska. Wariant ten posiada również niezależny system pneumatyczny do podnoszenia p",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Swietny-zestaw-klockow-CaDA-Mercedes-AMG-GT3-5466-el.-dostepny-za-1349-zl-na-Allegro_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Premiera God of War Laufey opóźniona. Na grę ekskluzywną na PlayStation 5 trochę poczekamy!",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/premiera-god-of-war-laufey-opozniona-na-gre-ekskluzywna-na-playstation-5-troche-poczekamy/",
-      "publishedAt": "2026-11-04T18:37+01:00",
-      "summary": "Data premiery God of War Laufey była pierwotnie zaplanowana na początek 2027 roku. Najnowsza odsłona serii God of War, gdzie w ramach zabawy wcielimy się w postać Faye – żonę Kratosa, miała się pojawić na rynku 15 lutego. Niestety, przedstawiciele Santa Monica Studio poinformowali dziś, że premiera God of War Laufey została oficjalnie opóźniona. Kolejna produkcja ekskluzywna PlayStation 5 trafi na sklepowe półki dopiero trzy miesiące później. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Premiera-God-of-War-Laufey-opozniona.-Na-gre-ekskluzywna-na-PlayStation-5-troche-poczekamy_miniaturka-e1793813767393-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Baldur’s Gate 3 było hitem, ale ta gra ma być jeszcze lepsza. Larian Studios zdradza plany",
-      "sourceUrl": "https://www.ppe.pl/news/432170/baldur-s-gate-3-bylo-hitem-ale-ta-gra-ma-byc-jeszcze-lepsza-larian-studios-zdradza-plany.html",
-      "publishedAt": "2026-11-04T18:29+01:00",
-      "summary": "Larian Studios chce powtórzyć sukces Baldur’s Gate 3, ale tym razem z własną marką.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/mroczne-rpg-akcji-postawi-na-dynamiczna-i-efektowna-walke-lords-o/zb32213",
-      "publishedAt": "2026-11-04T18:24+01:00",
-      "summary": "Lords of the Fallen 2 zapowiada się na znacznie bardziej rozbudowaną produkcję niż poprzedniczka. Twórcy zaprezentowali szereg usprawnień w systemie walki, które mają zapewnić graczom większą swobodę i bardziej dynamiczne starcia. Informacja Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531508907.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "WIELKI HIT Nintendo już niedługo znów zostanie rozbudowany. Pokemon Pokopia z datą premiery drugiego DLC",
-      "sourceUrl": "https://www.ppe.pl/news/432180/wielki-hit-nintendo-juz-niedlugo-znow-zostanie-rozbudowany-pokemon-pokopia-z-data-premiery-drugiego-dlc.html",
-      "publishedAt": "2026-11-04T18:15+01:00",
-      "summary": "Pokemon Pokopia okazał się jednym z większych pozytywniejszych zaskoczeń dla użytkowników Switcha 2. Dlatego już niedługo twórcy podzielą się nowymi atrakcjami.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "God of War Laufey nie zadebiutuje w terminie! Twórcy potwierdzają opóźnienie",
-      "sourceUrl": "https://www.ppe.pl/news/432181/god-of-war-laufey-nie-zadebiutuje-w-terminie-tworcy-potwierdzaja-opoznienie.html",
-      "publishedAt": "2026-11-04T18:05+01:00",
-      "summary": "Pierwsza gra opuszcza gorący początek 2027 roku. Niespodziewanie twórcy God of War Laufey zdecydowali się na opóźnienie.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na puzzle Good Loot Diablo IV w Media Expert. Lilith (1000 el.) za 21,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-puzzle-good-loot-diablo-iv-w-media-expert-lilith-1000-el-za-2199-zl/",
-      "publishedAt": "2026-11-04T18:01+01:00",
-      "summary": "Do sieci sklepów Media Expert powróciła promocja na puzzle Good Loot. W ramach oferty przeceniono wybrane zestawy Diablo IV składające się z aż 1000 elementów. Na szczególną uwagę zasługuje tutaj model Lilith Composition, który może być Wasz za 21,99 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-puzzle-Good-Loot-Diablo-IV-w-Media-Expert.-Lilith-1000-el.-za-2199-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Koszmar Nintendo dopiero się zaczyna! Wielki HIT dostępny za darmo",
-      "sourceUrl": "https://www.ppe.pl/news/432176/koszmar-nintendo-dopiero-sie-zaczyna-wielki-hit-dostepny-za-darmo.html",
-      "publishedAt": "2026-11-04T18:01+01:00",
-      "summary": "Super Mario Odyssey można już ograć na PC w 60 FPS. I to natywnie, bez emulatora. Nowy projekt naprawdę robi wrażenie.",
-      "category": "WIADOMOŚCI"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Modern-Warfare-4-1260x709.jpg"
     },
     {
       "sourceName": "CD-Action",
-      "title": "Uncharted 3 zachwycało graficznie, GTA V z pierwszym trailerem, wielki powrót Raymana. Co działo się w listopadzie 15 lat temu? [RetroKalendarium]",
-      "sourceUrl": "https://cdaction.pl/retro/uncharted-3-zachwycalo-graficznie-gta-v-z-pierwszym-trailerem-wielki-powrot-raymana-co-dzialo-sie-w-listopadzie-15-lat-temu-retrokalendarium/",
-      "publishedAt": "2026-11-04T17:40+01:00",
-      "summary": "Przypomnijmy sobie, co działo się w listopadzie 15 lat temu, czyli w 2011 roku. A miało miejsce dużo, naprawdę dużo premier znanych gier i cóż… listopad – obchodziliśmy też sporo rocznic śmierci.",
+      "title": "Takiego Xboksa Series X jeszcze nie widzieliście. Microsoft zapowiedział specjalną konsolę inspirowaną GTA 6",
+      "sourceUrl": "https://cdaction.pl/newsy/takiego-xboksa-series-x-jeszcze-nie-widzieliscie-microsoft-zapowiedzial-specjalna-konsole-inspirowana-gta-6/",
+      "publishedAt": "2026-11-04T13:30+01:00",
+      "summary": "Xbox Series X-Bite idealnie pasowałby do salonu niejednego amerykańskiego „rednecka”, ale powstał tylko jeden egzemplarz, który można wygrać w specjalnym konkursie.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/uncharted_news.avif"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż akcesoriów do Nintendo Switch 2 w RTV Euro AGD. Etui na konsolę już od 29,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/wyprzedaz-akcesoriow-do-nintendo-switch-2-w-rtv-euro-agd-etui-na-konsole-juz-od-2999-zl/",
-      "publishedAt": "2026-11-04T17:36+01:00",
-      "summary": "W internetowym sklepie RTV Euro AGD wystartowała wyprzedaż akcesoriów do Nintendo Switch 2. Na szczególną uwagę zasługują tutaj licencjonowane przez giganta z Kioto produkty od takich firm jak Trust, PowerA oraz Hori. W ramach oferty wybrane modele etui mogą być Wasze już za jedyne 29,99 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-akcesoriow-do-Nintendo-Switch-2-w-RTV-Euro-AGD.-Etui-na-konsole-juz-od-2999-zl_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nowa-gra-tworcow-baldurs-gate-3-opierac-sie-bedzie-na-dwoch-uwiel/za32212",
-      "publishedAt": "2026-11-04T17:09+01:00",
-      "summary": "Na Divinity od Larian Studios jeszcze trochę poczekamy. Szef firmy, Swen Vincke, ujawnił, że przed zespołem jest jeszcze „sporo pracy”. Informacja Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531504375.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Ojciec chrzestny AI” ostrzega przed katastrofą na miarę Czarnobyla. Jego zdaniem może nadejść już w 2027 roku",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ojciec-chrzestny-ai-ostrzega-przed-katastrofa-na-miare-czarnobyla/zd3220f",
-      "publishedAt": "2026-11-04T17:00+01:00",
-      "summary": "Laureat Nagrody Nobla i pionier w dziedzinie badań nad AI, Geoffrey Hinton uważa, że może się okazać, iż ludzkości byłoby lepiej, gdyby nigdy nie opracowała sztucznej inteligencji. Jej rozwój może doprowadzić do katastrofy. Informacja „Ojciec chrzestny AI” ostrzega przed katastrofą na miarę Czarnobyla. Jego zdaniem może nadejść już w 2027 roku została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531497702.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-4-o-10.13.18-1260x662.jpg"
     },
     {
       "sourceName": "CD-Action",
-      "title": "Cyberpunkowy symulator sklepikarza podbija Steama. Niezależny wydawca zbliża się do miliona sprzedanych kopii",
-      "sourceUrl": "https://cdaction.pl/newsy/cyberpunkowy-symulator-sklepikarza-podbija-steama-niezalezny-wydawca-zbliza-sie-do-miliona-sprzedanych-kopii/",
-      "publishedAt": "2026-11-04T16:30+01:00",
-      "summary": "Piękny wynik, jak na debiut!",
+      "title": "Twórcy Pieśni przeszłości opowiadają o procesie tworzenia fabuły najnowszego dodatku do Wiedźmina 3. „Nie próbujemy niczego nadpisywać”",
+      "sourceUrl": "https://cdaction.pl/newsy/tworcy-piesni-przeszlosci-opowiadaja-o-procesie-tworzenia-fabuly-najnowszego-dodatku-do-wiedzmina-3-nie-probujemy-niczego-nadpisywac/",
+      "publishedAt": "2026-11-04T12:45+01:00",
+      "summary": "Devowie pochylają się też nad wyjątkową odmianą fikcyjnego browarnictwa.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-04T130033.273-1260x709.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pamięć Patriot Viper Venom 1x 16GB DDR5 CL30 za 1081,67 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pamiec-patriot-viper-venom-1x-16gb-ddr5-cl30-za-108167-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-04T16:28+01:00",
-      "summary": "Pojedyncza kość RAM Patriot Viper Venom, pojawiła się w znośnej cenie w polskim oddziale sklepu Amazon. Wariant oferujący 16GB pamięci DDR5 o opóźnieniu CL30 i prędkości 6000 MT/s, kosztuje 1081,67 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/patriot-viper-venom-ddr5-2b-224x224.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/piesni-przeszlosci-wiedzmin-3-1260x709.jpg"
     },
     {
       "sourceName": "CD-Action",
-      "title": "Fani Helldivers 2 znowu krytykują twórców gry. Tym razem poszło o duży październikowy patch, który wyszedł… wczoraj",
-      "sourceUrl": "https://cdaction.pl/newsy/fani-helldivers-2-znowu-krytykuja-tworcow-gry-tym-razem-poszlo-o-duzy-pazdziernikowy-patch-ktory-wyszedl-wczoraj/",
-      "publishedAt": "2026-11-04T15:45+01:00",
-      "summary": "Fanom Helldivers 2 nie spodobała się odpowiedź twórców gry na zażalenia o kiepską komunikację.",
+      "title": "Znany dziennikarz zdradza plany Bethesdy. The Elder Scrolls 6: Sentinel może zadebiutować szybciej, niż myślicie",
+      "sourceUrl": "https://cdaction.pl/newsy/znany-dziennikarz-zdradza-plany-bethesdy-the-elder-scrolls-6-sentinel-moze-zadebiutowac-szybciej-niz-myslicie/",
+      "publishedAt": "2026-11-04T12:00+01:00",
+      "summary": "Nie domysły, a zapewnienia bazujące na wiedzy!",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Helldivers-2.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Nintendo mierzy się z poważnym problemem. Wieloletni partner wycofuje produkcję pamięci do kartridży",
-      "sourceUrl": "https://cdaction.pl/newsy/nintendo-mierzy-sie-z-powaznym-problemem-wieloletni-partner-wycofuje-produkcje-pamieci-do-kartridzy/",
-      "publishedAt": "2026-11-04T15:00+01:00",
-      "summary": "Fizyczne nośniki z grami nie mają ostatnimi czasu lekko.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Nintendo.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Guild Wars otrzyma nowe DLC 20 lat po premierze! ArenaNet zapowiedziało dodatek Afterlife",
-      "sourceUrl": "https://cdaction.pl/newsy/guild-wars-otrzyma-nowe-dlc-20-lat-po-premierze-arenanet-zapowiedzialo-dodatek-afterlife/",
-      "publishedAt": "2026-11-04T14:30+01:00",
-      "summary": "To się dopiero nazywa wsparcie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/guild-wars-1-1260x709.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-04T100852.639-1260x709.jpg"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
-      "title": "Recenzja The Wolf Among Us Remastered. Remaster wygląda świetnie, ale oryginał wcale nie prosił się o ratunek",
-      "sourceUrl": "https://www.gry-online.pl/recenzje/recenzja-the-wolf-among-us-remastered-swietny-kryminal-wraca-po-1/z349d2",
-      "publishedAt": "2026-10-27T17:09+01:00",
-      "summary": "Pierwszym pytaniem, jakie nasunęło się absolutnie wszystkim na wieść o powstaniu remastera The Wolf Among Us, było „ale po co?”. Mało jest gier, których oprawa graficzna starzeje się tak wdzięcznie jak mocno stylizowane, komiksowe przygodówki od Telltale. Recenzja The Wolf Among Us Remastered. Remaster wygląda świetnie, ale oryginał wcale nie prosił się o ratunek został opublikowany przez gry-online.pl 27 października 2026. Zobacz zasady korzystania z naszych treści .",
+      "title": "Po spędzeniu kilkunastu godzin w Dawn of War 4 nie chciałbym już do niego wracać. Zlepienie DoW 1 i 2 w jedno nie jest przepisem na sukces",
+      "sourceUrl": "https://www.gry-online.pl/opinie/dawn-of-war-4-nie-uratuje-rts-ow-bo-jest-na-to-zbyt-nudny-wielkie/z249cb",
+      "publishedAt": "2026-10-21T16:00+02:00",
+      "summary": "Dawn of War 4 zapowiada się na do bólu średniego RTS-a, któremu brakuje własnych pomysłów. Łączenie elementów DoW1 i DoW2 nie sprawi, że gra automatycznie będzie warta uwagi. Po spędzeniu kilkunastu godzin w Dawn of War 4 nie chciałbym już do niego wracać. Zlepienie DoW 1 i 2 w jedno nie jest przepisem na sukces został opublikowany przez gry-online.pl 21 października 2026. Zobacz zasady korzystania z naszych treści .",
       "category": "PUBLICYSTYKA"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
-      "title": "Recenzja Phantom Blade Zero - gry akcji, w której mechaniczna głębia nie nadąża za wizualnym rozmachem",
-      "sourceUrl": "https://www.gry-online.pl/recenzje/po-30-godzinach-z-phantom-blade-zero-czuje-przede-wszystkim-niedo/z149d0",
-      "publishedAt": "2026-10-26T18:32+01:00",
-      "summary": "Phantom Blade Zero to jedna z tych gier, która już pierwszym pokazem dosłownie zachwyciła obietnicą spektakularnych pojedynków przy jednoczesnym zachowaniu rozmachu i wykonania znanych z najdroższych gier AAA... Recenzja Phantom Blade Zero - gry akcji, w której mechaniczna głębia nie nadąża za wizualnym rozmachem został opublikowany przez gry-online.pl 26 października 2026. Zobacz zasady korzystania z naszych treści .",
+      "title": "Pięć gier bez wielkich budżetów, ale za to z duszą. Jedną z nich uważam za prawdziwe arcydzieło - Cyfrowe Podziemia Drenza",
+      "sourceUrl": "https://www.gry-online.pl/opinie/za-24-zl-dostalem-podroz-do-czasow-starych-pecetowych-strzelanek/z949c9",
+      "publishedAt": "2026-10-19T16:05+02:00",
+      "summary": "W trzecim odcinku Cyfrowych Podziemi Drenza odnajdziemy dwie bardzo świeże premiery oraz niepozorną perełkę, która okazała się arcydziełem - i jeszcze dwie inne propozycje, które mogły Wam umknąć w gąszczu wielkich premier. Pięć gier bez wielkich budżetów, ale za to z duszą. Jedną z nich uważam za prawdziwe arcydzieło - Cyfrowe Podziemia Drenza został opublikowany przez gry-online.pl 19 października 2026. Zobacz zasady korzystania z naszych treści .",
       "category": "PUBLICYSTYKA"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
-      "title": "Lara Croft kończy 30 lat. Przeżyła własną śmierć, katastrofalną grę i trzy wielkie początki. Historia Tomb Raidera",
-      "sourceUrl": "https://www.gry-online.pl/opinie/30-lat-temu-narodzila-sie-jedna-z-najwiekszych-ikon-gier-lara-cro/z549ce",
-      "publishedAt": "2026-10-25T09:00+01:00",
-      "summary": "Panna Croft jest z nami już od 30 lat. Oto historia marki i postaci, która zdążyła umrzeć i kilka razy zacząć życie od nowa. Lara Croft kończy 30 lat. Przeżyła własną śmierć, katastrofalną grę i trzy wielkie początki. Historia Tomb Raidera został opublikowany przez gry-online.pl 25 października 2026. Zobacz zasady korzystania z naszych treści .",
+      "title": "Nintendo Switch Sports Resort zaskoczyło mnie najbardziej nietypowym sportem. Zapasy na kciuki mają więcej głębi, niż sądziłem",
+      "sourceUrl": "https://www.gry-online.pl/opinie/po-latach-nintendo-wraca-do-jednego-ze-swoich-najlepszych-pomyslo/z849c8",
+      "publishedAt": "2026-10-16T16:36+02:00",
+      "summary": "Nintendo Sports to seria, której z pewnością nie trzeba przedstawiać nikomu, kto grał kiedykolwiek na Nintendo Wii. Wydana w 2022 roku odsłona na pierwszego Switcha miała pewne problemy - czy teraz będzie lepiej? Nintendo Switch Sports Resort zaskoczyło mnie najbardziej nietypowym sportem. Zapasy na kciuki mają więcej głębi, niż sądziłem został opublikowany przez gry-online.pl 16 października 2026. Zobacz zasady korzystania z naszych treści .",
       "category": "PUBLICYSTYKA"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
-      "title": "W RetroSpace poczułem się jak 25 lat temu. Ten duchowy następca System Shocka 2 nie traktuje gracza jak idioty",
-      "sourceUrl": "https://www.gry-online.pl/opinie/wspolczesne-gry-aaa-prowadza-nas-za-reke-duchowy-nastepca-system/z449cd",
-      "publishedAt": "2026-10-24T10:00+02:00",
-      "summary": "RetroSpace to list miłosny do klasycznych immersive simów, w którym System Shock 2 spotyka się z BioShockiem, horror science fiction z komedią. Pikselowata laurka dla dawnych hitów przypomniała mi, jak bardzo brakuje takich gier od dużych wydawców. W RetroSpace poczułem się jak 25 lat temu. Ten duchowy następca System Shocka 2 nie traktuje gracza jak idioty został opublikowany przez gry-online.pl 24 października 2026. Zobacz zasady korzystania z naszych treści .",
+      "title": "Recenzja Clive Barker's Hellraiser: Revival. Ta gra nie zna umiaru, ale właśnie tak powinno wykorzystywać się filmową licencję",
+      "sourceUrl": "https://www.gry-online.pl/recenzje/mialem-dostac-brutalny-horror-a-odkrylem-jedna-z-najlepszych-adap/z749c7",
+      "publishedAt": "2026-10-16T15:31+02:00",
+      "summary": "Hektolitry krwi, mocne sceny gore i BDSM – Clive Barker’s Hellraiser: Revival to nie jest gra dla wrażliwych ludzi. Ale pod warstwą makabry kryje się coś więcej niż szokowanie. To jedna z najciekawszych i najlepszych adaptacji kultowych horrorów z kina. Recenzja Clive Barker&apos;s Hellraiser: Revival. Ta gra nie zna umiaru, ale właśnie tak powinno wykorzystywać się filmową licencję został opublikowany przez gry-online.pl 16 października 2026. Zobacz zasady korzystania z naszych treści .",
       "category": "PUBLICYSTYKA"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
-      "title": "„Dobrze im tak”, cieszy się część graczy z końca BioWare. Ignorują kto tak naprawdę wygrał",
-      "sourceUrl": "https://www.gry-online.pl/opinie/go-woke-go-broke-nie-wyjasnia-konca-bioware-prawdziwy-powod-jest/z349cc",
-      "publishedAt": "2026-10-22T16:34+02:00",
-      "summary": "Wieść o zamknięciu studia BioWare nie była dla mnie szokiem, ostatnie lata śledzenia informacji z gamedevu nauczyły oczekiwać takiego obrotu spraw, bo to w końcu tylko kolejna dawka tego samego – cięć, redukcji i zwolnień. „Dobrze im tak”, cieszy się część graczy z końca BioWare. Ignorują kto tak naprawdę wygrał został opublikowany przez gry-online.pl 22 października 2026. Zobacz zasady korzystania z naszych treści .",
+      "title": "Złota era RTS-ów obfitowała w zapomniane perełki. Oto najciekawsze z nich, które warto ograć i dziś",
+      "sourceUrl": "https://www.gry-online.pl/opinie/zlota-era-rts-ow-obfitowala-w-zapomniane-perelki-oto-najciekawsze/z649c6",
+      "publishedAt": "2026-10-15T14:03+02:00",
+      "summary": "RTS-y przeżywały swoją złotą erę na przełomie wieków, ale wiele świetnych gier z tamtego okresu zostało dziś niemal zapomnianych. Wybraliśmy 10 perełek, które mimo upływu lat wciąż potrafią dostarczyć sporo frajdy. Złota era RTS-ów obfitowała w zapomniane perełki. Oto najciekawsze z nich, które warto ograć i dziś został opublikowany przez gry-online.pl 15 października 2026. Zobacz zasady korzystania z naszych treści .",
       "category": "PUBLICYSTYKA"
     },
     {
       "sourceName": "Gamerweb",
-      "title": "ZeroSpace – ogrywamy wersję Early Access",
-      "sourceUrl": "https://gamerweb.pl/zerospace-ogrywamy-wersje-early-access/",
-      "publishedAt": "2026-09-06T21:09+02:00",
-      "summary": "Nowy RTS ma dzisiaj ciężko – zdecydowanie mniejsze zainteresowanie gatunkiem przez mainstream, a hardkorowcy czekają na kolejnego StarCrafta, WarCrafta, czy",
+      "title": "DIOXIDE na nowym zwiastunie. Kolejna produkcja Byte Barrel, która prezentuje się znakomicie",
+      "sourceUrl": "https://gamerweb.pl/dioxide-na-nowym-zwiastunie-kolejna-produkcja-byte-barrel-ktora-prezentuje-sie-znakomicie/",
+      "publishedAt": "2026-08-26T21:58+02:00",
+      "summary": "Twórcy dwóch odsłon Forgive Me Father – studio Byte Barrel – od jakiegoś czasu pracuje nad kolejnymi strzelankami. Podczas trwających",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/09/ZeroSpace.jpg"
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/08/DIOXIDE_KeyArt-e1787771869368.png"
     },
     {
       "sourceName": "Gamerweb",
-      "title": "Graliśmy w Parking in Tight Spaces. Jeszcze pół metra i będzie szkoda całkowita…",
-      "sourceUrl": "https://gamerweb.pl/gralismy-w-parking-in-tight-spaces-jeszcze-pol-metra-i-bedzie-szkoda-calkowita/",
-      "publishedAt": "2026-09-06T19:42+02:00",
-      "summary": "Są gry, które chcą od Was nie ratowania księżniczki, czy pokonania 1000 orków atakujących Wasze królestwo – ale są też",
+      "title": "Recenzja The Sinking City 2",
+      "sourceUrl": "https://gamerweb.pl/recenzja-the-sinking-city-2/",
+      "publishedAt": "2026-08-20T09:53+02:00",
+      "summary": "Horror ma się w ostatnich latach zaskakująco dobrze. Wychodzi sporo bardzo fajnych gier. Mniejsze produkcje zaskakują pomysłowością i serwują fajną",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/09/parking-in-tight-space-art.jpg"
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/08/The-Sinking-City-2.jpg"
     },
     {
       "sourceName": "Gamerweb",
-      "title": "Dlaczego niektóre skiny do CS2 pozostają popularne przez lata",
-      "sourceUrl": "https://gamerweb.pl/dlaczego-niektore-skiny-do-cs2-pozostaja-popularne-przez-lata/",
-      "publishedAt": "2026-09-06T12:45+02:00",
-      "summary": "Jeśli spędziłeś trochę czasu, przeglądając skiny do Counter-Strike’a, pewnie zauważyłeś tę samą dziwną rzecz co ja. Niektóre skiny wiszą na",
+      "title": "Recenzja Marvel Tokon: Fighting Souls",
+      "sourceUrl": "https://gamerweb.pl/recenzja-marvel-tokon-fighting-souls/",
+      "publishedAt": "2026-08-19T08:22+02:00",
+      "summary": "Marvel to firma, która jest związana z grami wideo od prawie pół wieku. W tym czasie pojawiła się niezliczona ilość",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/09/CS2.jpg"
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/08/Marvel-Tokon.jpg"
     },
     {
       "sourceName": "Gamerweb",
-      "title": "Recenzja Onimusha: Way of the Sword",
-      "sourceUrl": "https://gamerweb.pl/recenzja-onimusha-way-of-the-sword/",
-      "publishedAt": "2026-09-03T17:48+02:00",
-      "summary": "Miyamoto Musashi jest chyba najsłynniejszym i najpopularniejszym japońskim samurajem. Ta historyczna postać jest legendą i jednym z najwybitniejszych mistrzów miecza,",
+      "title": "Pozycjonowanie strony działa jak gra strategiczna w której każdy ruch liczy się podwójnie i wygrywa ten kto myśli kilka kroków do przodu",
+      "sourceUrl": "https://gamerweb.pl/pozycjonowanie-strony-dziala-jak-gra-strategiczna-w-ktorej-kazdy-ruch-liczy-sie-podwojnie-i-wygrywa-ten-kto-mysli-kilka-krokow-do-przodu/",
+      "publishedAt": "2026-08-10T11:03+02:00",
+      "summary": "Każda gra strategiczna ma swoje reguły, zasoby do zarządzania, teren do ekspansji i przeciwników dążących do tych samych celów co",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/09/Onimusha.jpg"
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/08/Google-pexels-photo.jpg"
     },
     {
       "sourceName": "Gamerweb",
-      "title": "Recenzja Brigandine: Abyss",
-      "sourceUrl": "https://gamerweb.pl/recenzja-brigandine-abyss/",
-      "publishedAt": "2026-08-31T11:40+02:00",
-      "summary": "Swoje już w życiu widziałem, ale pewne rzeczy wciąż mnie zaskakują i prawie wprawiają w osłupienie. Jedną z nich jest",
+      "title": "Ile realnie kosztuje wydajny zestaw gamingowy na lata?",
+      "sourceUrl": "https://gamerweb.pl/ile-realnie-kosztuje-wydajny-zestaw-gamingowy-na-lata/",
+      "publishedAt": "2026-08-10T10:41+02:00",
+      "summary": "Otwierasz koszyk w sklepie z elektroniką, dodajesz wymarzoną kartę graficzną, procesor, płytę główną i nagle sumaryczna kwota na ekranie przyprawia",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/08/Brigandine-Abyss.jpg"
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/08/zestaw-gamingowy1-e1786351118851.jpg"
     }
   ],
   "indie": [
