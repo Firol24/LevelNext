@@ -155,13 +155,38 @@ def main():
         current_issue = {}
     same_day_update = current_issue.get("date") == issue_date
 
+    # Nie pokazuj ponownie materiałów RSS, które znalazły się w poprzednich wydaniach.
+    # Bierzemy dane ze wszystkich plików archiwum, ale pomijamy dzisiejsze wydanie:
+    # aktualizacja tego samego dnia ma zachować już opublikowane pozycje.
+    previous_urls, previous_titles = set(), set()
+    archive_dir = ROOT / "archive"
+    if archive_dir.exists():
+        for archive_path in archive_dir.glob("*.json"):
+            if archive_path.stem == issue_date or archive_path.name == "index.json":
+                continue
+            try:
+                archived_issue = json.loads(archive_path.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            for old_item in archived_issue.get("news", []):
+                old_url = (old_item.get("sourceUrl") or "").strip().rstrip("/")
+                old_title = re.sub(r"\\s+", " ", (old_item.get("title") or "").casefold()).strip()
+                if old_url:
+                    previous_urls.add(old_url)
+                if old_title:
+                    previous_titles.add(old_title)
+
     articles_by_source, seen = {}, set()
     for name, url in FEEDS:
         try:
             source_items = []
             for item in fetch_feed(name, url):
-                if item["sourceUrl"] not in seen:
-                    seen.add(item["sourceUrl"])
+                item_url = (item.get("sourceUrl") or "").strip().rstrip("/")
+                item_title = re.sub(r"\\s+", " ", (item.get("title") or "").casefold()).strip()
+                if item_url in previous_urls or item_title in previous_titles:
+                    continue
+                if item_url and item_url not in seen:
+                    seen.add(item_url)
                     source_items.append(item)
             source_items.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
             if source_items:
@@ -185,6 +210,23 @@ def main():
                 added_this_round = True
         if not added_this_round:
             break
+    # Podczas aktualizacji dzisiejszego numeru zachowaj jego dotychczasowe newsy,
+    # a nowe dopisz bez powielania po linku lub znormalizowanym tytule.
+    if same_day_update:
+        combined_news = list(current_issue.get("news", [])) + news
+        merged_news, merged_urls, merged_titles = [], set(), set()
+        for item in combined_news:
+            item_url = (item.get("sourceUrl") or "").strip().rstrip("/")
+            item_title = re.sub(r"\\s+", " ", (item.get("title") or "").casefold()).strip()
+            if (item_url and item_url in merged_urls) or (item_title and item_title in merged_titles):
+                continue
+            if item_url:
+                merged_urls.add(item_url)
+            if item_title:
+                merged_titles.add(item_title)
+            merged_news.append(item)
+        news = merged_news
+
     news.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
     lead_item = news[0]
     rss_fields = {
