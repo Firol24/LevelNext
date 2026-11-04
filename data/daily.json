@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T05:01+01:00",
+  "updatedAt": "2026-11-04T06:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Wyprzedaż figurek Warhammer 30K i 40K w RTV Euro AGD. Wybrane modele już od 139,99 zł!",
-    "summary": "Łowcy, do oferty sieci sklepów RTV Euro AGD powróciła wyprzedaż figurek z uniwersum Warhammer 40.000 oraz Warhammer: The Horus Heresy (potocznie określanego liczbą 30.000) . W ramach promocji wybrane modele od firmy Joy Toy dostępne są w cenach zaczynających się od 139,99 zł. Podane w tabeli kwoty pojawią się w koszyku po wykorzystaniu limitowanego kodu zniżkowego. Figurka Joy Toy Warhammer 40K – Tyranids Hive Fleet Leviathan Termagant with Fleshborer 139,99 zł z kodem RBF011107122026C Figurka Joy Toy Warhammer 40K – Tyranids Hive Fleet Leviathan Tyranid Warrior with Boneswords 239,00 zł z kodem RBF011107122026C Figurka Joy Toy Warhammer 40K",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-figurek-warhammer-30k-i-40k-w-rtv-euro-agd-wybrane-modele-juz-od-13999-zl/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-figurek-Warhammer-30K-i-40K-w-RTV-Euro-AGD.-Wybrane-modele-juz-od-13999-zl_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Amazon Prime Video z MEGA hitem od dzisiaj! Wielka opowieść o jednym z najwybitniejszych sportowców",
+    "summary": "Widzowie Amazon Prime Video mogą sprawdzić kolejną ekscytującą historię. Na platformie zadebiutuje bardzo ciekawa produkcja.",
+    "sourceUrl": "https://www.ppe.pl/news/432062/amazon-prime-video-z-mega-hitem-od-dzisiaj-wielka-opowiesc-o-jednym-z-najwybitniejszych-sportowcow.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Amazon Prime Video z MEGA hitem od dzisiaj! Wielka opowieść o jednym z najwybitniejszych sportowców",
+      "sourceUrl": "https://www.ppe.pl/news/432062/amazon-prime-video-z-mega-hitem-od-dzisiaj-wielka-opowiesc-o-jednym-z-najwybitniejszych-sportowcow.html",
+      "publishedAt": "2026-11-04T05:45+01:00",
+      "summary": "Widzowie Amazon Prime Video mogą sprawdzić kolejną ekscytującą historię. Na platformie zadebiutuje bardzo ciekawa produkcja.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Wyprzedaż figurek Warhammer 30K i 40K w RTV Euro AGD. Wybrane modele już od 139,99 zł!",
@@ -88,14 +95,6 @@
       "summary": "Niebezpieczny kierowca zrobił sobie GTA 6 w prawdziwym życiu. Policjanci pokazali, jak złapali przestępcę, wykorzystując do tego muzykę z ostatniego trailera gry Rockstar Games oraz elementy znane z serii. Informacja Policja wykorzystała GTA 6, by pochwalić się zatrzymaniem kierowcy, który pomylił rzeczywistość z Vice City została opublikowana przez GRYOnline.pl 3 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531433381.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Xbox nie może promować GTA 6, więc zrobił TO! Microsoft zaskakuje graczy",
-      "sourceUrl": "https://www.ppe.pl/news/432053/xbox-nie-moze-promowac-gta-6-wiec-zrobil-to-microsoft-zaskakuje-graczy.html",
-      "publishedAt": "2026-11-03T21:21+01:00",
-      "summary": "Xbox ponownie zachwyca fanów niestandardowych konsol. Firma przygotowała Xboksa Series X zamieszczonego w aligatorze.",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
