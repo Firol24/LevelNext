@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T19:07+01:00",
+  "updatedAt": "2026-11-04T20:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "9 na 10 graczy GTA 6 nie patrzy na cenę i kupuje najdroższą wersję gry Rockstara. Oto wszystko, za co dopłacają",
-    "summary": "Droższa edycja GTA 6 cieszy się ogromnym zainteresowaniem graczy. Przyglądamy się różnicom między dostępnymi wydaniami i przypominamy, za co kupujący są skłonni dopłacić 80 zł. Informacja 9 na 10 graczy GTA 6 nie patrzy na cenę i kupuje najdroższą wersję gry Rockstara. Oto wszystko, za co dopłacają została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/9-na-10-graczy-gta-6-nie-patrzy-na-cene-i-kupuje-najdrozsza-wersj/zd32215",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531514702.jpg"
+    "title": "Nowa promocja w Żabce uczyni zakup GTA 6 mniej bolesnym. Gracze PlayStation 5 dostaną 100 złotych ekstra",
+    "summary": "Żabka wystartowała z promocją, która może szczególnie zainteresować graczy planujących zakup GTA 6. Informacja Nowa promocja w Żabce uczyni zakup GTA 6 mniej bolesnym. Gracze PlayStation 5 dostaną 100 złotych ekstra została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nowa-promocja-w-zabce-uczyni-zakup-gta-6-mniej-bolesnym-gracze-pl/zf32217",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531517562.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowa promocja w Żabce uczyni zakup GTA 6 mniej bolesnym. Gracze PlayStation 5 dostaną 100 złotych ekstra",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowa-promocja-w-zabce-uczyni-zakup-gta-6-mniej-bolesnym-gracze-pl/zf32217",
+      "publishedAt": "2026-11-04T20:47+01:00",
+      "summary": "Żabka wystartowała z promocją, która może szczególnie zainteresować graczy planujących zakup GTA 6. Informacja Nowa promocja w Żabce uczyni zakup GTA 6 mniej bolesnym. Gracze PlayStation 5 dostaną 100 złotych ekstra została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531517562.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dane mówią jasno, nowe RPG akcji podbija cały świat, nie tylko Chiny. Phantom Blade Zero dostało pierwszą aktualizacją",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dane-mowia-jasno-nowe-rpg-akcji-podbija-caly-swiat-nie-tylko-chin/ze32216",
+      "publishedAt": "2026-11-04T20:26+01:00",
+      "summary": "Phantom Blade Zero zyskało popularność nie tylko w Chinach, ale i na całym świecie. Analityk pokazał, jak zachodni świat masowo zainteresował się grą po opublikowaniu pozytywnych recenzji. Informacja Dane mówią jasno, nowe RPG akcji podbija cały świat, nie tylko Chiny. Phantom Blade Zero dostało pierwszą aktualizacją została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531516267.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "9 na 10 graczy GTA 6 nie patrzy na cenę i kupuje najdroższą wersję gry Rockstara. Oto wszystko, za co dopłacają",
@@ -22,6 +40,31 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531514702.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "GOG kończy 18 lat i wchodzi w nową erę. Polski sklep zapowiada pierwszy w historii pokaz nowości",
+      "sourceUrl": "https://www.ppe.pl/news/432188/gog-konczy-18-lat-i-wchodzi-w-nowa-ere-polski-sklep-zapowiada-pierwszy-w-historii-pokaz-nowosci.html",
+      "publishedAt": "2026-11-04T19:45+01:00",
+      "summary": "GOG to platforma, której raczej nie trzeba przedstawiać graczom, szczególnie polskim. Jednak nie każdy musi być świadomy tego, że rodzimy sklep osiągnął już pełnoletność. Dlatego za chwilę odbędzie się wydarzenie, które to nalezycie po...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Fani kina niezależnego w końcu mają swoje miejsce w streamingu. W Polsce zadebiutowało Cinobo",
+      "sourceUrl": "https://cdaction.pl/kultura/fani-kina-niezaleznego-w-koncu-maja-swoje-miejsce-w-streamingu-w-polsce-zadebiutowalo-cinobo/",
+      "publishedAt": "2026-11-04T19:30+01:00",
+      "summary": "Alternatywa dla Netfliksa z darmowymi biletami do kina.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Cinobo.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation Store – poznaliśmy najpopularniejsze gry października 2026. Zaskoczenie?",
+      "sourceUrl": "https://www.ppe.pl/news/432179/playstation-store-poznalismy-najpopularniejsze-gry-pazdziernika-2026-zaskoczenie.html",
+      "publishedAt": "2026-11-04T19:30+01:00",
+      "summary": "Sony opublikowało zestawienie najchętniej pobieranych gier z PlayStation Store w październiku 2026 roku. Na szczycie rankingów PS5 zarówno w Ameryce Północnej, jak i Europie znalazło się Call of Duty: Modern Warfare 4. W czołówce obu zestawie...",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "God of War: Laufey opóźniony, jest nowa data premiery. Santa Monica Studio robi miejsce Fable i Metro 2039",
       "sourceUrl": "https://www.gry-online.pl/newsroom/god-of-war-laufey-opozniony-jest-nowa-data-premiery-santa-monica/zc32214",
@@ -29,6 +72,15 @@
       "summary": "Sony i Santa Monica Studio ogłosiły opóźnienie premiery God of War: Laufey. Gra ukaże się na PS5 kilka miesięcy później, niż pierwotnie planowano, ale i tak trafi na płyty. Informacja God of War: Laufey opóźniony, jest nowa data premiery. Santa Monica Studio robi miejsce Fable i Metro 2039 została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531512867.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "God of War Laufey jednak nie wyjdzie w lutym. „Chcielibyśmy, by gra była nadzwyczajnym doświadczeniem”",
+      "sourceUrl": "https://cdaction.pl/newsy/god-of-war-laufey-jednak-nie-wyjdzie-w-lutym-chcielibysmy-by-gra-byla-nadzwyczajnym-doswiadczeniem/",
+      "publishedAt": "2026-11-04T19:05+01:00",
+      "summary": "Dodatkowy czas nie zmieni drastycznie oblicza gry, ale może pomóc poprawić jeszcze kilka rzeczy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/god-of-war-laufey-7833.jpg"
     },
     {
       "sourceName": "PPE",
