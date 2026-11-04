@@ -21,5 +21,17 @@
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmQKwZi8QS7i5oDamTPD2Jqtda3ShCp6HgFUyuvxQUQ&s=10",
       "sourceUrl": "https://store.steampowered.com/app/2001120/Split_Fiction/"
     }
+  ],
+  "2026-11-04": [
+    {
+      "title": "Magiczne zakątki Wrocławia",
+      "category": "PUBLICYSTYKA",
+      "summary": "Czy pracownicy \"Sklepiku Magicznego\" opierdalają się na zmianie? Zamiast pracować siedzą pod kamerką w telefonie? Na to pytanie odpowiemy w jutrzejszym numerze Level Next Daily w wywiadzie z anonimowym pracownikiem.",
+      "sourceName": "LEVEL NEXT / REDAKCJA",
+      "publishedAt": "2026-11-04T18:45+01:00",
+      "issueNumber": 3,
+      "imageUrl": "https://sklepikmagiczny.pl/wp-content/uploads/2026/04/logo-sklepik.png",
+      "sourceUrl": "https://sklepikmagiczny.pl"
+    }
   ]
 }
