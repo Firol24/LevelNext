@@ -11,6 +11,7 @@
 header{max-width:900px;margin:auto;padding:22px 20px;font:11px var(--mono);letter-spacing:.1em;text-transform:uppercase;border-bottom:1px solid #ffffff30}
 header a{color:var(--yellow);text-decoration:none}.wrap{max-width:760px;margin:34px auto 70px;padding:0 18px}.panel{background:var(--paper);color:var(--ink);padding:clamp(20px,5vw,42px);border-top:7px solid var(--yellow);box-shadow:0 18px 70px #0009}
 .kicker{font:700 11px var(--mono);color:var(--purple);letter-spacing:.12em;text-transform:uppercase}h1{font-size:clamp(34px,7vw,58px);line-height:.95;margin:12px 0 14px;letter-spacing:-.05em}p{line-height:1.55;color:#514956}.field{margin:20px 0}.field label{display:block;font:700 11px var(--mono);text-transform:uppercase;margin-bottom:8px}.field input,.field textarea,.field select{width:100%;padding:13px;border:1px solid var(--line);background:#fff;color:var(--ink);font:14px var(--sans);border-radius:0}.field textarea{min-height:130px;resize:vertical}.field small{display:block;margin-top:6px;color:var(--muted);font-size:11px}.actions{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-top:28px}button{border:0;background:var(--deep);color:var(--yellow);padding:15px 20px;font:700 11px var(--mono);text-transform:uppercase;cursor:pointer}button:hover{background:var(--purple)}.back{color:var(--purple);font:11px var(--mono)}.notice{padding:13px;background:#e4ddca;border-left:4px solid var(--purple);font-size:12px}.required{color:#8a1a34}
+.manage{margin-top:34px;padding-top:26px;border-top:2px dashed var(--line)}.manage h2{font:700 27px var(--sans);margin:10px 0}.manage>p{font-size:13px}.published-list{display:grid;gap:10px;margin-top:18px}.published-item{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:14px;background:#e4ddca;border-left:4px solid var(--purple)}.published-item strong{display:block;font-size:14px}.published-meta{display:block;margin-top:5px;color:var(--muted);font:10px var(--mono)}.published-item button{flex-shrink:0;background:#6d1830;color:#fff}.published-item button:hover{background:#9a2042}.published-empty{padding:14px;background:#e4ddca;font-size:13px}@media(max-width:560px){.published-item{align-items:flex-start;flex-direction:column}.published-item button{width:100%}}
 </style>
 </head>
 <body>
@@ -28,6 +29,12 @@ header a{color:var(--yellow);text-decoration:none}.wrap{max-width:760px;margin:3
 <div class="field"><label for="source">Źródło / link (opcjonalnie)</label><input id="source" type="url" placeholder="https://…"></div>
 <div class="actions"><button type="submit">Przejdź do publikacji ↗</button><a class="back" href="daily.html">Anuluj</a></div>
 </form>
+<div class="manage">
+  <div class="kicker">ARCHIWUM REDAKCYJNE</div>
+  <h2>Twoje publikacje.</h2>
+  <p>Tu znajdziesz własne newsy i felietony. Usunięcie zgłoszenia wycofa materiał z archiwum i strony; automatyczne wiadomości RSS pozostają nietknięte.</p>
+  <div id="published-list" class="published-list"><p>Wczytywanie publikacji…</p></div>
+</div>
 </section></main>
 <script>
 (()=>{const $=id=>document.getElementById(id);const d=new Date();d.setMinutes(d.getMinutes()-d.getTimezoneOffset());$('date').value=d.toISOString().slice(0,10);
@@ -39,5 +46,48 @@ for(const url of [image,source])if(url){try{if(!['https:','http:'].includes(new 
 const fields=['### Data wydania',date,'### Tytuł',title,'### Kategoria',category.value,'### Zajawka',teaser,'### Pełna treść',isArticle?bodyText:'Brak','### Grafika (URL)',image||'Brak','### Źródło (URL)',source||'Brak'];
 const params=new URLSearchParams({title:(isArticle?'[FELIETON] ':'[NEWS] ')+title,body:fields.join('\n\n')});location.href='https://github.com/Firol24/LevelNext/issues/new?'+params.toString();
 });})();
+</script>
+
+<script>
+(()=> {
+  const root=document.getElementById('published-list');
+  const el=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=String(txt);return n;};
+  async function load(){
+    try{
+      const response=await fetch('data/manual-news.json?ts='+Date.now(),{cache:'no-store'});
+      if(!response.ok)throw new Error('Nie udało się pobrać listy publikacji.');
+      const data=await response.json();
+      const entries=[];
+      for(const [date,items] of Object.entries(data)){
+        if(!Array.isArray(items))continue;
+        for(const item of items)entries.push({...item,editionDate:date});
+      }
+      entries.sort((x,y)=>(y.publishedAt||y.editionDate||'').localeCompare(x.publishedAt||x.editionDate||''));
+      root.replaceChildren();
+      if(!entries.length){root.append(el('div','published-empty','Nie masz jeszcze opublikowanych własnych materiałów.'));return;}
+      for(const item of entries){
+        const card=el('div','published-item');
+        const info=el('div','');
+        info.append(el('strong','',item.title||'Bez tytułu'));
+        info.append(el('span','published-meta',(item.category||'NEWS')+' · wydanie '+item.editionDate+' · zgłoszenie #'+(item.issueNumber??'?')));
+        card.append(info);
+        if(Number.isInteger(Number(item.issueNumber))){
+          const button=el('button','','Usuń publikację');
+          button.type='button';
+          button.addEventListener('click',()=>{
+            const number=Number(item.issueNumber);
+            if(!confirm('Usunąć publikację „'+(item.title||'Bez tytułu')+'”? Zniknie z wydania i archiwum felietonów.'))return;
+            const body='Prośba o usunięcie własnej publikacji z LEVEL NEXT DAILY.\n\nNumer zgłoszenia publikacji: '+number+'\nTytuł: '+(item.title||'Bez tytułu')+'\n\nTa operacja usuwa wyłącznie wpis redakcyjny z data/manual-news.json. Nie usuwa automatycznych materiałów RSS.';
+            const params=new URLSearchParams({title:'[USUŃ PUBLIKACJĘ] #'+number+' — '+(item.title||'').slice(0,90),body});
+            location.href='https://github.com/Firol24/LevelNext/issues/new?'+params.toString();
+          });
+          card.append(button);
+        }
+        root.append(card);
+      }
+    }catch(error){root.replaceChildren(el('div','published-empty',error.message));}
+  }
+  load();
+})();
 </script>
 </body></html>
