@@ -1,17 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T18:01+01:00",
+  "updatedAt": "2026-11-04T19:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki”",
-    "summary": "Lords of the Fallen 2 zapowiada się na znacznie bardziej rozbudowaną produkcję niż poprzedniczka. Twórcy zaprezentowali szereg usprawnień w systemie walki, które mają zapewnić graczom większą swobodę i bardziej dynamiczne starcia. Informacja Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/mroczne-rpg-akcji-postawi-na-dynamiczna-i-efektowna-walke-lords-o/zb32213",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531508907.jpg"
+    "title": "God of War: Laufey opóźniony, jest nowa data premiery. Santa Monica Studio robi miejsce Fable i Metro 2039",
+    "summary": "Sony i Santa Monica Studio ogłosiły opóźnienie premiery God of War: Laufey. Gra ukaże się na PS5 kilka miesięcy później, niż pierwotnie planowano, ale i tak trafi na płyty. Informacja God of War: Laufey opóźniony, jest nowa data premiery. Santa Monica Studio robi miejsce Fable i Metro 2039 została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/god-of-war-laufey-opozniony-jest-nowa-data-premiery-santa-monica/zc32214",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531512867.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "God of War: Laufey opóźniony, jest nowa data premiery. Santa Monica Studio robi miejsce Fable i Metro 2039",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/god-of-war-laufey-opozniony-jest-nowa-data-premiery-santa-monica/zc32214",
+      "publishedAt": "2026-11-04T19:27+01:00",
+      "summary": "Sony i Santa Monica Studio ogłosiły opóźnienie premiery God of War: Laufey. Gra ukaże się na PS5 kilka miesięcy później, niż pierwotnie planowano, ale i tak trafi na płyty. Informacja God of War: Laufey opóźniony, jest nowa data premiery. Santa Monica Studio robi miejsce Fable i Metro 2039 została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531512867.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation, Xbox i Nintendo niszczą studia deweloperskie? Wyniki są bezlitosne",
+      "sourceUrl": "https://www.ppe.pl/news/432164/playstation-xbox-i-nintendo-niszcza-studia-deweloperskie-wyniki-sa-bezlitosne.html",
+      "publishedAt": "2026-11-04T19:00+01:00",
+      "summary": "Przejęcie studia przez dużego wydawcę wcale nie musi oznaczać lepszej przyszłości. Często jest wręcz odwrotnie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Piękny zestaw klocków CaDA Mercedes AMG GT3 (5466 el.) dostępny za 1099 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/piekny-zestaw-klockow-cada-mercedes-amg-gt3-5466-el-dostepny-za-1099-zl-na-allegro/",
+      "publishedAt": "2026-11-04T18:57+01:00",
+      "summary": "Łowcy, jeśli wciąż poszukujecie ciekawej alternatywy dla marki LEGO, to w oficjalnym Sklepie CaDA na Allegro pojawiła się świetna promocja na licencjonowany zestaw Mercedes-AMG GT3. Pełen szczegółów model z serii Master w skali 1:8 składa się z aż 5466 elementów. Idealna na prezent propozycja dostępna jest w ramach oferty Black Weeks za 1099 zł. Warto dodać, że samochód charakteryzuje się licznymi funkcjami mechanicznymi, wśród których na szczególną uwagę zasługują: 8-biegowa skrzynia, regulowane zawieszenie, skrętne koła, blokowane drzwi oraz modułowy silnik i maska. Wariant ten posiada również niezależny system pneumatyczny do podnoszenia p",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Swietny-zestaw-klockow-CaDA-Mercedes-AMG-GT3-5466-el.-dostepny-za-1349-zl-na-Allegro_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera God of War Laufey opóźniona. Na grę ekskluzywną na PlayStation 5 trochę poczekamy!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/premiera-god-of-war-laufey-opozniona-na-gre-ekskluzywna-na-playstation-5-troche-poczekamy/",
+      "publishedAt": "2026-11-04T18:37+01:00",
+      "summary": "Data premiery God of War Laufey była pierwotnie zaplanowana na początek 2027 roku. Najnowsza odsłona serii God of War, gdzie w ramach zabawy wcielimy się w postać Faye – żonę Kratosa, miała się pojawić na rynku 15 lutego. Niestety, przedstawiciele Santa Monica Studio poinformowali dziś, że premiera God of War Laufey została oficjalnie opóźniona. Kolejna produkcja ekskluzywna PlayStation 5 trafi na sklepowe półki dopiero trzy miesiące później. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Premiera-God-of-War-Laufey-opozniona.-Na-gre-ekskluzywna-na-PlayStation-5-troche-poczekamy_miniaturka-e1793813767393-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Baldur’s Gate 3 było hitem, ale ta gra ma być jeszcze lepsza. Larian Studios zdradza plany",
+      "sourceUrl": "https://www.ppe.pl/news/432170/baldur-s-gate-3-bylo-hitem-ale-ta-gra-ma-byc-jeszcze-lepsza-larian-studios-zdradza-plany.html",
+      "publishedAt": "2026-11-04T18:29+01:00",
+      "summary": "Larian Studios chce powtórzyć sukces Baldur’s Gate 3, ale tym razem z własną marką.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki”",
@@ -20,6 +63,14 @@
       "summary": "Lords of the Fallen 2 zapowiada się na znacznie bardziej rozbudowaną produkcję niż poprzedniczka. Twórcy zaprezentowali szereg usprawnień w systemie walki, które mają zapewnić graczom większą swobodę i bardziej dynamiczne starcia. Informacja Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531508907.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "WIELKI HIT Nintendo już niedługo znów zostanie rozbudowany. Pokemon Pokopia z datą premiery drugiego DLC",
+      "sourceUrl": "https://www.ppe.pl/news/432180/wielki-hit-nintendo-juz-niedlugo-znow-zostanie-rozbudowany-pokemon-pokopia-z-data-premiery-drugiego-dlc.html",
+      "publishedAt": "2026-11-04T18:15+01:00",
+      "summary": "Pokemon Pokopia okazał się jednym z większych pozytywniejszych zaskoczeń dla użytkowników Switcha 2. Dlatego już niedługo twórcy podzielą się nowymi atrakcjami.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -32,18 +83,27 @@
     },
     {
       "sourceName": "PPE",
+      "title": "God of War Laufey nie zadebiutuje w terminie! Twórcy potwierdzają opóźnienie",
+      "sourceUrl": "https://www.ppe.pl/news/432181/god-of-war-laufey-nie-zadebiutuje-w-terminie-tworcy-potwierdzaja-opoznienie.html",
+      "publishedAt": "2026-11-04T18:05+01:00",
+      "summary": "Pierwsza gra opuszcza gorący początek 2027 roku. Niespodziewanie twórcy God of War Laufey zdecydowali się na opóźnienie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na puzzle Good Loot Diablo IV w Media Expert. Lilith (1000 el.) za 21,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-puzzle-good-loot-diablo-iv-w-media-expert-lilith-1000-el-za-2199-zl/",
+      "publishedAt": "2026-11-04T18:01+01:00",
+      "summary": "Do sieci sklepów Media Expert powróciła promocja na puzzle Good Loot. W ramach oferty przeceniono wybrane zestawy Diablo IV składające się z aż 1000 elementów. Na szczególną uwagę zasługuje tutaj model Lilith Composition, który może być Wasz za 21,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-puzzle-Good-Loot-Diablo-IV-w-Media-Expert.-Lilith-1000-el.-za-2199-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
       "title": "Koszmar Nintendo dopiero się zaczyna! Wielki HIT dostępny za darmo",
       "sourceUrl": "https://www.ppe.pl/news/432176/koszmar-nintendo-dopiero-sie-zaczyna-wielki-hit-dostepny-za-darmo.html",
       "publishedAt": "2026-11-04T18:01+01:00",
       "summary": "Super Mario Odyssey można już ograć na PC w 60 FPS. I to natywnie, bez emulatora. Nowy projekt naprawdę robi wrażenie.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "To dlatego ikona Tekkena opuściła Bandai Namco. Katsuhiro Harada ujawnia kulisy powstania VS Studio",
-      "sourceUrl": "https://www.ppe.pl/news/432177/to-dlatego-ikona-tekkena-opuscila-bandai-namco-katsuhiro-harada-ujawnia-kulisy-powstania-vs-studio.html",
-      "publishedAt": "2026-11-04T17:50+01:00",
-      "summary": "Nie tak dawno temu kultowy w świecie bijatyk Katsuhiro Harada zaskoczył ogłaszając odejście z szeregów Bandai Namco Entertainment na rzecz powołania do życia nowej firmy. Teraz wreszcie wszystko jest jasne.",
       "category": "WIADOMOŚCI"
     },
     {
@@ -65,22 +125,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-akcesoriow-do-Nintendo-Switch-2-w-RTV-Euro-AGD.-Etui-na-konsole-juz-od-2999-zl_minaturka-224x224.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "Kultowe RPG całkowicie za darmo! Liczba kluczy ograniczona",
-      "sourceUrl": "https://www.ppe.pl/news/432168/kultowe-rpg-calkowicie-za-darmo-liczba-kluczy-ograniczona.html",
-      "publishedAt": "2026-11-04T17:29+01:00",
-      "summary": "Fallout: New Vegas będzie można zgarnąć za darmo na Steam dzięki akcji Lenovo. Firma szykuje się do rozdania kluczy do kultowego RPG przez Legion Gaming Community.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "AMD przewiduje kolejny spadek na rynku PC jeszcze w 2027 roku. Zmiana priorytetów?",
-      "sourceUrl": "https://www.ppe.pl/news/432172/amd-przewiduje-kolejny-spadek-na-rynku-pc-jeszcze-w-2027-roku-zmiana-priorytetow.html",
-      "publishedAt": "2026-11-04T17:15+01:00",
-      "summary": "AMD opublikowało wyniki finansowe za trzeci kwartał 2026 roku. Amerykański producent układów scalonych odnotował w tym okresie przychody na poziomie 13,4 mld dolarów. Coraz większą część tej kwoty generuje biznes centrów danych, podczas gdy...",
-      "category": "WIADOMOŚCI"
-    },
-    {
       "sourceName": "GRY-Online",
       "title": "Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko",
       "sourceUrl": "https://www.gry-online.pl/newsroom/nowa-gra-tworcow-baldurs-gate-3-opierac-sie-bedzie-na-dwoch-uwiel/za32212",
@@ -88,14 +132,6 @@
       "summary": "Na Divinity od Larian Studios jeszcze trochę poczekamy. Szef firmy, Swen Vincke, ujawnił, że przed zespołem jest jeszcze „sporo pracy”. Informacja Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531504375.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Telewizor LG OLED z 144 Hz pod PS5 czy XSX za 2999 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/telewizory/432131/telewizor-lg-oled-z-144-hz-pod-ps5-czy-xsx-za-2999-zl.html",
-      "publishedAt": "2026-11-04T17:08+01:00",
-      "summary": "Sklep RTV Euro AGD zapewnił świetną okazję na telewizor LG OLED.",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -123,42 +159,6 @@
       "summary": "Pojedyncza kość RAM Patriot Viper Venom, pojawiła się w znośnej cenie w polskim oddziale sklepu Amazon. Wariant oferujący 16GB pamięci DDR5 o opóźnieniu CL30 i prędkości 6000 MT/s, kosztuje 1081,67 zł. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/patriot-viper-venom-ddr5-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Preorder Stranger Than Heaven na PC dostępny za 167,28 zł (zamiast 299 zł) w Kinguinie",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/preorder-stranger-than-heaven-na-pc-dostepny-za-16728-zl-zamiast-299-zl-w-kinguinie/",
-      "publishedAt": "2026-11-04T16:18+01:00",
-      "summary": "Do premiery Stranger Than Heaven pozostało coraz mniej czasu, choć gra zadebiutuje dopiero 14 stycznia 2027 roku. Jeśli chcecie zaopatrzyć się we wspomnianą produkcję studia Ryu Ga Gotoku taniej, sięgnijcie po ofertę dostępną w Kinguinie. Sklep oferuje pecetowe wydanie za nieco ponad 157 złotych. W porównaniu do wersji bezpośrednio w sklepie Valve, zaoszczędzicie prawie 132 zł. W grze czeka Was obszerna historia rozgrywająca się w pięciu japońskich miastach, na przestrzeni pięciu epok i 50 lat. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Stranger-Than-Heaven-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Mould King Fiat 126p Outdoor Adventure za 49,99 zł w RTV Euro AGD. Zbuduj kultowego Malucha!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/mould-king-fiat-126p-outdoor-adventure-za-4999-zl-w-rtv-euro-agd-zbuduj-kultowego-malucha/",
-      "publishedAt": "2026-11-04T16:03+01:00",
-      "summary": "Niezwykle tani i składający się z 393 elementów zestaw Mould King Fiat 126p Outdoor Adventure, możecie kupić w sklepie RTV Euro AGD. Klocki, z których zbudujecie legendarnego Fiata 126p, zwanego u nas Maluchem, kosztują 49,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/mould-king-fiat-126p-outdoor-adventure-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Uważa się go za jeden z najlepszych seriali ostatnich lat i po 3 latach przerwy powrócił do streamingu. Jest dostępny na nowej platformie w Polsce",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/uwaza-sie-go-za-jeden-z-najlepszych-seriali-ostatnich-lat-i-po-3/z732200",
-      "publishedAt": "2026-11-04T16:02+01:00",
-      "summary": "Wreszcie do streamingu powrócił jeden z najlepszych seriali ostatnich lat. Można już obejrzeć go na nowej platformie streamingowej, która w tym tygodniu wystartowała. Informacja Uważa się go za jeden z najlepszych seriali ostatnich lat i po 3 latach przerwy powrócił do streamingu. Jest dostępny na nowej platformie w Polsce została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531486624.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Gdzie kupić specjalne edycje World of Warcraft: Forever najtaniej? Nowa wersja króla MMORPG!",
-      "sourceUrl": "https://lowcygier.pl/przeglady-ofert/gdzie-kupic-specjalne-edycje-world-of-warcraft-forever-najtaniej-nowa-wersja-krola-mmorpg/",
-      "publishedAt": "2026-11-04T15:53+01:00",
-      "summary": "Premiera World of Warcraft: Forever odbędzie się już lada moment! Kolejna po wersji Classic próba powrotu do samych początków kultowego MMORPG pojawi się na rynku 5 listopada 2026 roku. Jednak w przeciwieństwie do poprzednika, oprócz wiernie odtworzonej zawartości pierwowzoru, tytuł zaoferuje mnóstwo zupełnie nowej zawartości. Dostęp do World of Warcraft: Forever za darmo otrzyma każdy posiadacz aktywnego abonamentu. Jak to jednak bywa w przypadku studia Blizzard, to co najciekawsze ukryte jest za płatnymi pakietami. Najlepsze oferty na tanie dodatki do World of Warcraft: Forever znajdziecie w dalszej części wpisu. Natomiast kompleksowe wyjaś",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Gdzie-kupic-specjalne-edycje-World-of-Warcraft_-Forever-najtaniej_-Nowa-wersja-krola-MMORPG_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "CD-Action",
