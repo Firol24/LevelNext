@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T14:01+01:00",
+  "updatedAt": "2026-11-04T15:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom",
-    "summary": "W warszawskiej Hali Labo można wejść do światów Wiedźmina, Cyberpunka 2077 czy Frostpunka bez kontrolera i ekranu. Wstęp jest bezpłatny. Informacja „Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/z-polski-do-miliona-swiatow-w-warszawie-ruszyl-pierwszy-w-polsce/zc3220e",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531496202.jpg"
+    "title": "Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów",
+    "summary": "Po kilkuletniej przerwie na Netfliksa z drugim sezonem wraca przebojowy serial animowany, który jest polecany na Rotten Tomatoes przez 93% widzów. Informacja Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/po-4-latach-powroci-jeden-z-najlepszych-seriali-netflixa-ktory-po/ze321fb",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531484833.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-4-latach-powroci-jeden-z-najlepszych-seriali-netflixa-ktory-po/ze321fb",
+      "publishedAt": "2026-11-04T15:02+01:00",
+      "summary": "Po kilkuletniej przerwie na Netfliksa z drugim sezonem wraca przebojowy serial animowany, który jest polecany na Rotten Tomatoes przez 93% widzów. Informacja Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531484833.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom",
@@ -20,6 +29,32 @@
       "summary": "W warszawskiej Hali Labo można wejść do światów Wiedźmina, Cyberpunka 2077 czy Frostpunka bez kontrolera i ekranu. Wstęp jest bezpłatny. Informacja „Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531496202.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zagraj w WendyQuest Legend of the Four Corner Stones za darmo! Sieć fast food wypuszcza na rynek jRPGa",
+      "sourceUrl": "https://lowcygier.pl/darmowe/zagraj-w-wendyquest-legend-of-the-four-corner-stones-za-darmo-siec-fast-food-wypuszcza-na-rynek-jrpga/",
+      "publishedAt": "2026-11-04T14:46+01:00",
+      "summary": "Gry przygotowywane z jakąś marką zwykle kojarzyliśmy z tandetą lub czymś nietuzinkowym. Wyjątkiem zdają się być Pepsiman i I Love You, Colonel Sanders, które wybitnie wybijają się ponad pozostałe produkcje. Szansę ma do nich dołączyć WendyQuest: Legend of the Four Corner Stones, które zostało właśnie udostępnione za darmo na Steam. Jest to utrzymany w pikselowej grafice jRPG, przygotowany bez użycia AI przez studio 81monkeys. Gdybyśmy mieli Wendy’s u siebie, moglibyście skorzystać na jeszcze jednej rzeczy. Zaimplementowano bowiem możliwość zdobycia prawdziwego jedzenia w miarę przechodzenia gry. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/wendyquestminiaturka-cyfra-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Żabka rozdaje 100 zł na PlayStation Store! Jest jeden warunek",
+      "sourceUrl": "https://www.ppe.pl/news/432163/zabka-rozdaje-100-zl-na-playstation-store-jest-jeden-warunek.html",
+      "publishedAt": "2026-11-04T14:45+01:00",
+      "summary": "Gracze PlayStation mogą zgarnąć dodatkowe 100 zł na zakupy w PlayStation Store. Żabka wystartowała z nową promocją!",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola Nintendo Switch 2 za 1789 zł w AliExpress! Wysyłka z Polski",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-za-1789-zl-w-aliexpress-wysylka-z-polski/",
+      "publishedAt": "2026-11-04T14:41+01:00",
+      "summary": "Łowcy, punktualnie o północy rozpocznie się kolejna wyprzedaż w AliExpress. Wraz z promocją pojawią się również nowe kody rabatowe, które podobnie jak w przypadku poprzednich edycji, będą dostępne jednie do wyczerpania mocno ograniczonej puli. Jeśli polujecie na konsolę Nintendo Switch 2, to planowany zakup warto zrealizować tuż po godzinie 00:00. Najnowszy sprzęt od giganta z Kioto dostępny będzie za 1789 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocje-na-Nintendo-Switch-2-w-x-kom.-Konsola-bez-dodatkow-dostepna-za-jedyne-1799-zl_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -40,6 +75,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531493877.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Guild Wars otrzyma nowe DLC 20 lat po premierze! ArenaNet zapowiedziało dodatek Afterlife",
+      "sourceUrl": "https://cdaction.pl/newsy/guild-wars-otrzyma-nowe-dlc-20-lat-po-premierze-arenanet-zapowiedzialo-dodatek-afterlife/",
+      "publishedAt": "2026-11-04T14:30+01:00",
+      "summary": "To się dopiero nazywa wsparcie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/guild-wars-1-1260x709.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Gracz z Polski traci konto PlayStation, w które zainwestował ponad 10 tysięcy złotych. Sony nie jest w stanie mu pomóc [Aktualizacja: konto odzyskane]",
       "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-z-polski-traci-konto-playstation-w-ktore-zainwestowal-ponad/zc321bd",
@@ -49,13 +93,29 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531342324.jpg"
     },
     {
-      "sourceName": "GRY-Online",
-      "title": "Potrzebował tylko jednego dnia, by wlecieć do top 10 Netflixa. 41 odcinków lubianego kryminału już dostępne na maraton",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/potrzebowal-tylko-jednego-dnia-by-wleciec-do-top-10-netflixa-41-o/za3220c",
-      "publishedAt": "2026-11-04T14:20+01:00",
-      "summary": "Choć rankingiem Netflixa rządzą obecnie Garść kłamstw i Pułapka, na liście hitów pojawił się także serialowy kryminał, którego trzy sezony wpadły do serwisu wczoraj. To pozytywnie oceniany przez widzów Will Trent. Informacja Potrzebował tylko jednego dnia, by wlecieć do top 10 Netflixa. 41 odcinków lubianego kryminału już dostępne na maraton została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531494174.jpg"
+      "sourceName": "PPE",
+      "title": "Sony wydało pilną aktualizację PS4. Hakerzy mogą zepsuć GTA Online",
+      "sourceUrl": "https://www.ppe.pl/news/432158/sony-wydalo-pilna-aktualizacje-ps4-hakerzy-moga-zepsuc-gta-online.html",
+      "publishedAt": "2026-11-04T14:23+01:00",
+      "summary": "",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Titan Quest II Edycja Kolekcjonerska na PC i PS5 za 649,99 zł w Media Expert. Premiera już w styczniu!",
+      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/titan-quest-ii-edycja-kolekcjonerska-na-pc-i-ps5-za-64999-zl-w-media-expert-premiera-juz-w-styczniu/",
+      "publishedAt": "2026-11-04T14:07+01:00",
+      "summary": "Preorder Titan Quest II Edycja Kolekcjonerska, pojawił się w sklepie Media Expert. Hack and slash studia Grimlore Games, który przeniesie was do starożytnej Grecji, gdzie jako dzielny heros staniecie do walki z boginią Nemezis, kosztuje tym wyjątkowym wydaniu 649,99 zł. Cena dotyczy wydania na PC oraz konsole Sony PlayStation 5. W pudełku znajdziecie między innymi statuetkę przedstawiającą wspomniane bóstwo i album z grafikami. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/titan-quest-ii-kolekcjonerska-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Microsoft szykuje ciekawą zmianę dla graczy. Takiej technologii nie ma żaden inny pad Xboxa",
+      "sourceUrl": "https://www.ppe.pl/news/432156/microsoft-szykuje-ciekawa-zmiane-dla-graczy-takiej-technologii-nie-ma-zaden-inny-pad-xboxa.html",
+      "publishedAt": "2026-11-04T14:04+01:00",
+      "summary": "Microsoft przygotował niespodziankę dla osób grających w chmurze. Nowy kontroler Xbox Nano otrzymał funkcję Direct-to-Cloud.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "CD-Action",
@@ -110,14 +170,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/letter-quest-remastered-miniaturka-224x224.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "SkyShowtime szykuje się do kolejnej polskiej premiery. Ten serial będzie GENIALNY",
-      "sourceUrl": "https://www.ppe.pl/news/432160/skyshowtime-szykuje-sie-do-kolejnej-polskiej-premiery-ten-serial-bedzie-genialny.html",
-      "publishedAt": "2026-11-04T13:20+01:00",
-      "summary": "SkyShowtime potwierdziło premierę kolejnej oryginalnej produkcji. Tym razem jest to długo wyczekiwany serial stworzony we współpracy z Telewizją Polsat.",
-      "category": "WIADOMOŚCI"
-    },
-    {
       "sourceName": "CD-Action",
       "title": "Twórcy Pieśni przeszłości opowiadają o procesie tworzenia fabuły najnowszego dodatku do Wiedźmina 3. „Nie próbujemy niczego nadpisywać”",
       "sourceUrl": "https://cdaction.pl/newsy/tworcy-piesni-przeszlosci-opowiadaja-o-procesie-tworzenia-fabuly-najnowszego-dodatku-do-wiedzmina-3-nie-probujemy-niczego-nadpisywac/",
@@ -127,14 +179,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/piesni-przeszlosci-wiedzmin-3-1260x709.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "Twórcy Wiedźmin 4 i Cyberpunk Orion mierzą się z chorą machiną oczekiwań",
-      "sourceUrl": "https://www.ppe.pl/news/432152/tworcy-wiedzmin-4-i-cyberpunk-orion-mierza-sie-z-chora-machina-oczekiwan.html",
-      "publishedAt": "2026-11-04T12:41+01:00",
-      "summary": "Twórcy z CD Projekt Red mają przed sobą gigantyczne wyzwanie, które wcale nie polega wyłącznie na dorównaniu legendzie ich poprzednich dzieł. Polskie studio ugruntowało swoją pozycję na rynku gigantycznymi grami RPG, które przez lata nie sch...",
-      "category": "WIADOMOŚCI"
-    },
-    {
       "sourceName": "Łowcy Gier",
       "title": "Preordery The Legend of Zelda Ocarina of Time dostępne w polskich sklepach. Nowa Zelda pozamiatała!",
       "sourceUrl": "https://lowcygier.pl/przeglady-ofert/preordery-the-legend-of-zelda-ocarina-of-time-dostepne-w-polskich-sklepach-nowa-zelda-pozamiatala/",
@@ -142,50 +186,6 @@
       "summary": "Nintendo nie boi się GTA VI! Premiera The Legend of Zelda: Ocarina of Time na Switcha 2 została zaplanowana na 5 listopada 2026 r. Remake kultowej odsłony przygód Linka, wydanej pierwotnie w 1998 r. na Nintendo 64, dostępny jest już w przedsprzedaży w polskich sklepach. Cena fizycznego wydania ustalona została na poziomie około 268 zł. Gra zostanie wydana na standardowym kartridżu, a do tego gracze z kraju nad Wisłą będą mieli jeszcze jeden duży powód do radości. W The Legend of Zelda Ocarina of Time zagramy po polsku! Jeśli zastanawiacie się, gdzie dorwać japońską produkcję w pudełku najtaniej, służymy pomocą! Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/The-Legend-of-Zelda-Ocarina-of-Time-logo-1-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Paranoja Rockstar Games w kwestii GTA 6. Bany dla fanów gry",
-      "sourceUrl": "https://www.ppe.pl/news/432151/paranoja-rockstar-games-w-kwestii-gta-6-bany-dla-recenzentow-gry.html",
-      "publishedAt": "2026-11-04T12:22+01:00",
-      "summary": "Premiera Grand Theft Auto 6 zbliża się wielkimi krokami, a wokół gry panuje tak potężna atmosfera pilnowania każdego sekretu, że twórcy i wydawcy zaczęli przypominać bezwzględne maszyny szpiegowskie.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Znany dziennikarz zdradza plany Bethesdy. The Elder Scrolls 6: Sentinel może zadebiutować szybciej, niż myślicie",
-      "sourceUrl": "https://cdaction.pl/newsy/znany-dziennikarz-zdradza-plany-bethesdy-the-elder-scrolls-6-sentinel-moze-zadebiutowac-szybciej-niz-myslicie/",
-      "publishedAt": "2026-11-04T12:00+01:00",
-      "summary": "Nie domysły, a zapewnienia bazujące na wiedzy!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-04T100852.639-1260x709.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO Speed Champions Wehikuł czasu z Powrotu do przyszłości za 69,99 zł na Allegro. Start dziś o 19:00!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-speed-champions-wehikul-czasu-z-powrotu-do-przyszlosci-za-6999-zl-na-allegro-start-dzis-o-1900/",
-      "publishedAt": "2026-11-04T11:58+01:00",
-      "summary": "Bardzo dobra okazja na zakup zestawu LEGO Speed Champions – Wehikuł czasu z Powrotu do przyszłości pojawi się dziś na Allegro równo o godzinie 19:00. Pudełko liczące 357 klocków, które pozwolą Wam zbudować kultowego Deloreana będącego pojazdem do podróży w czasie, kosztować będzie 69,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/LEGO-77256-Speed-Champions-Wehikul-czasu-z-Powrotu-do-przyszlosci-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Główny dostawca kartridży Nintendo Switch kończy ich produkcję. Cyfrowa przyszłość powoli nadchodzi",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/glowny-dostawca-kartridzy-nintendo-switch-konczy-z-ich-produkcja-cyfrowa-przyszlosc-powoli-nadchodzi/",
-      "publishedAt": "2026-11-04T11:34+01:00",
-      "summary": "Rynek fizycznych wydań gier otrzymał właśnie kolejny cios. Macronix, jeden z wieloletnich dostawców układów dla Nintendo, zamierza stopniowo wycofać się z rynku pamięci ROM i przenieść moce produkcyjne na eMMC oraz NAND. Trzeci kwartał 2026 r. był ostatnim, w którym raportowano je oddzielnie. Nie oznacza to oczywiście, że Nintendo całkowicie skończy z grami na kartridżach, firma ma jeszcze innych dostawców, lecz zapewne przyspieszy proces przechodzenia na Game-Key Cards oraz w pelni cyfrowe wydania. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kartridz-Nintendo-Switch-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Zestaw klawiatura + mysz Logitech MX Keys S Combo za 577 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-klawiatura-mysz-logitech-mx-keys-s-combo-za-577-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-04T11:02+01:00",
-      "summary": "Dobra oferta na klawiaturę i myszkę w zestawie, pojawiła się teraz w polskim oddziale Amazonnu. Cena Logitech MX Keys S Combo, zawierającego klawiaturę MX Keys S z praktyczną podpórką pod nadgarstki oraz mysz MX Master 3S, wynosi 577,28 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/03/Logitech_MX_Keys_S_Combo_miniatura-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
