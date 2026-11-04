@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T09:01+01:00",
+  "updatedAt": "2026-11-04T09:34+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -31,6 +31,73 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531478018.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Świetna minifigurka LEGO z Darth Vaderem - za 299 zł zamiast 419 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/432133/swietna-minifigurka-lego-z-darth-vaderem-za-299-zl-zamiast-419-zl.html",
+      "publishedAt": "2026-11-04T09:32+01:00",
+      "summary": "Dzięki nowym ofertom taniej o 120 złotych nabędziemy piękny, świeży zestaw LEGO stworzony z myślą o fanach Gwiezdnych Wojen.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "W końcu promocja na Cyberpunk 2077 Ultimate Edition + DLC Widmo Wolności - rabat 60 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/429903/w-koncu-promocja-na-cyberpunk-2077-ultimate-edition-dlc-widmo-wolnosci-rabat-60-zl.html",
+      "publishedAt": "2026-11-04T09:30+01:00",
+      "summary": "W sklepie Perfect Blue nabędziemy bardzo tanio grę Cyberpunk 2077: Ultimate Edition.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Telewizor LG OLED z 144 Hz pod PS5 czy XSX za 2999 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/telewizory/432131/telewizor-lg-oled-z-144-hz-pod-ps5-czy-xsx-za-2999-zl.html",
+      "publishedAt": "2026-11-04T09:29+01:00",
+      "summary": "Sklep RTV Euro AGD zapewnił świetną okazję na telewizor LG OLED.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Onimusha: Way of the Sword już na obniżce! Gra od 209 zł na PS5",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/425970/onimusha-way-of-the-sword-juz-na-obnizce-gra-od-239-zl-na-ps5-i-ns2.html",
+      "publishedAt": "2026-11-04T09:26+01:00",
+      "summary": "Onimusha: Way of the Sword doczekała się pierwszej obniżki - tym razem w sklepie Perfect Blue.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Niemal wszędzie wyprzedany kontroler HORI Electric Ocarina dostępny za 299,99 zł w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/niemal-wszedzie-wyprzedany-kontroler-hori-electric-ocarina-dostepny-za-29999-zl-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-04T09:23+01:00",
+      "summary": "Już jutro premiera The Legend of Zelda: Ocarina of Time. Gra otrzymała specjalny kontroler Electric Ocarina of Time od firmy HORI. Oficjalnie licencjonowane akcesorium do konsoli Nintendo Switch 2 pozwoli zagrać wybrane melodie i uruchomić odpowiadające im akcję bezpośrednio w grze. Sprzęt w wielu sklepach jest już niedostępny, lecz właśnie karta produktu pojawiła się w RTV Euro AGD, dzięki czemu macie kolejną okazję, by go zakupić. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Preorder-HORI-Electric-Ocarina-of-Time-w-Play-Asia.-Muzyczny-kontroler-za-315-zl-wysylka_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Błąd cenowy? Cronos: The New Dawn na NS2 w pudełku za 99 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432130/blad-cenowy-cronos-the-new-dawn-na-ns2-w-pudelku-za-99-zl.html",
+      "publishedAt": "2026-11-04T09:23+01:00",
+      "summary": "Taniej o ponad 50% względem ceny standardowej w sklepie RTV Euro AGD nabędziemy wyśmienity survival horror od polskiego studia Bloober Team.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder Sony DualSense Grand Theft Auto VI Limited Edition za 458,89 zł w Empiku",
+      "sourceUrl": "https://lowcygier.pl/preordery/preorder-sony-dualsense-grand-theft-auto-vi-limited-edition-za-45889-zl-w-empiku/",
+      "publishedAt": "2026-11-04T09:21+01:00",
+      "summary": "Premiera Grand Theft Auto VI już za 15 dni, ale tego dnia zadebiutuje nie tylko gra. Na rynku również pojawi się limitowana edycja Sony DualSense, nawiązująca do wspomnianej gry studia Rockstar. Jeśli nie załapaliście się przy pierwszej okazji na preorder kontrolera, teraz możecie go wziąć w przedsprzedaży za 458,89 zł w Empiku. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/grand-theft-auto-vi-dualsense-bialy-kwadrat-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Co pokaże serialowy Warhammer 40,000? Mike Flanagan obiecuje nieoczywistą ekranizację, a Henry Cavill pilnie strzeże tajemnic",
+      "sourceUrl": "https://cdaction.pl/newsy/co-pokaze-serialowy-warhammer-40000-mike-flanagan-obiecuje-nieoczywista-ekranizacje-a-henry-cavill-pilnie-strzeze-tajemnic/",
+      "publishedAt": "2026-11-04T09:16+01:00",
+      "summary": "Miejcie wiarę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/Warhammer.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "GTA 6 jest już blisko miliarda dolarów. W 2 tygodnie miało przybyć ponad 1,3 mln zamówień",
       "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-jest-juz-blisko-miliarda-dolarow-w-2-tygodnie-mialo-przybyc/z1321ef",
@@ -38,22 +105,6 @@
       "summary": "Według szacunków Sensor Tower GTA 6 zarobiło już ponad 750 mln dolarów w trakcie samej przedsprzedaży. Do premiery zostało nieco ponad dwa tygodnie. Informacja GTA 6 jest już blisko miliarda dolarów. W 2 tygodnie miało przybyć ponad 1,3 mln zamówień została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531475843.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Assassin's Creed Hexe przecieka! Produkcja w rękach gracza",
-      "sourceUrl": "https://www.ppe.pl/news/432124/assassins-creed-hexe-przecieka-produkcja-w-rekach-gracza.html",
-      "publishedAt": "2026-11-04T08:58+01:00",
-      "summary": "Znany i lubiany w growym światku informator o psuedonimie j0nathan znów dał o sobie znać, rozbudzając wyobraźnię fanów skradanek od Ubisoftu. W sieci pojawiła się bowiem nowa, mocno rozmyta grafika pochodząca bezpośrednio z nadchodzącego As...",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Zaledwie miesiąc po premierze i już wielka promocja! Kandydata do GOTY kupicie znacznie taniej",
-      "sourceUrl": "https://www.ppe.pl/news/432059/zaledwie-miesiac-po-premierze-i-juz-wielka-promocja-kandydata-do-goty-kupicie-znacznie-taniej.html",
-      "publishedAt": "2026-11-04T08:50+01:00",
-      "summary": "Jedna z najciekawszych gier drugiej połowy 2026 roku doczekała się pierwszej dużej promocji. Produkcja zadebiutowała zaledwie kilka tygodni temu, ale już zdążyła zainteresować graczy i pojawić się w dyskusjach dotyczących potencjalnych kand...",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -72,30 +123,6 @@
       "summary": "Dzień dobry, Gabe Newell, kontrola celna.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/steam-logooo1-1260x710.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gran Turismo 7 ZMIAŻDŻYŁO Forzę Motorsport! Wyniki sprzedaży mówią wszystko",
-      "sourceUrl": "https://www.ppe.pl/news/432060/gran-turismo-7-zmiazdzylo-forze-motorsport-wyniki-sprzedazy-mowia-wszystko.html",
-      "publishedAt": "2026-11-04T08:30+01:00",
-      "summary": "Sony ma w swoim katalogu wiele wielkich hitów, ale najnowsze dane pokazują, że jedną z najbardziej dochodowych produkcji PlayStation pozostaje Gran Turismo 7. Gra zadebiutowała ponad cztery lata temu, a mimo to nadal przyciąga miliony kierowców i...",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Netflix z nowym polskim hitem! Leszek Lichota w wielkiej roli",
-      "sourceUrl": "https://www.ppe.pl/news/432061/netflix-z-nowym-polskim-hitem-leszek-lichota-w-wielkiej-roli.html",
-      "publishedAt": "2026-11-04T08:10+01:00",
-      "summary": "Netflix bardzo chętnie inwestuje w polskie produkcje, a dzisiaj widzowie mogą poznać kolejną historię, która ma szansę zainteresować szeroką publiczność. Tym razem platforma postawiła na dramat medyczny z Leszkiem Lichotą w roli głównej.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Monitor uratował życie gracza. Niewiarygodna historia podczas rozgrywki w Call of Duty",
-      "sourceUrl": "https://www.ppe.pl/news/432057/monitor-uratowal-zycie-gracza-niewiarygodna-historia-podczas-rozgrywki-w-call-of-duty.html",
-      "publishedAt": "2026-11-04T07:50+01:00",
-      "summary": "Gracze często inwestują ogromne pieniądze w sprzęt, który ma zapewnić im jak najlepsze wrażenia podczas rozgrywki, ale trudno wyobrazić sobie sytuację, w której zwyczajny monitor może uratować komuś życie. Właśnie taką historią podziel...",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -134,24 +161,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Pudelkowe-Dave-the-Diver-Edycja-Kolekcjonerska-na-PlayStation-5-juz-za-31789-zl-w-Empiku_minaturka-224x224.jpg"
     },
     {
-      "sourceName": "Łowcy Gier",
-      "title": "Nocna premiera The Legend of Zelda Ocarina of Time na Nintendo Switch 2 w Perfect Blue",
-      "sourceUrl": "https://lowcygier.pl/preordery/nocna-premiera-the-legend-of-zelda-ocarina-of-time-na-nintendo-switch-2-w-perfect-blue/",
-      "publishedAt": "2026-11-03T21:34+01:00",
-      "summary": "Premiera The Legend of Zelda: Ocarina of Time dosłownie za chwilę! Kompleksowe odświeżenie jednej z najwyżej ocenianych produkcji wszechczasów zadebiutuje na półkach już 5 listopada 2026 roku. Jeśli tak się szczęśliwie składa, że akurat mieszkacie w stolicy, to stacjonarny sklep Perfect Blue przygotował dla Was małą niespodziankę w postaci Nocnej Premiery! W ramach wydarzenia będziecie mogli zakupić fizyczne wydanie The Legend of Zelda Ocarina of Time na Nintendo Switch 2 punktualnie o północy! Limitowana Edycja Premierowa z okładką z folii teksturowanej czekać będzie na Was na ulicy Wałbrzyskiej 11 w Warszawie. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nocna-premiera-The-Legend-of-Zelda-Ocarina-of-Time-na-Nintendo-Switch-2-w-Perfect-Blue_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Ogromna oferta Xbox Game Pass na listopad. Premiera Tanuki: Pon’s Summer w XGPU!",
-      "sourceUrl": "https://lowcygier.pl/subskrypcje/ogromna-oferta-xbox-game-pass-na-listopad-premiera-tanuki-pons-summer-w-xgpu/",
-      "publishedAt": "2026-11-03T20:12+01:00",
-      "summary": "Łowcy, na blogu dedykowanym konsolom Microsoftu dostępna jest już oficjalna zapowiedź listopadowych nowości w Xbox Game Pass. W ciągu najbliższych dwóch tygodni biblioteka usługi zostanie poszerzona o ponad 20 nowych produkcji, w tym najnowsza odsłona serii Football Manager 27. W najwyższym progu XGPU premierowo pojawi się także Tanuki: Pon’s Summer, natomiast do biblioteki wariantu Premium dodana zostanie gra Vampire Crawlers: The Turbo Wildcard. Dla posiadaczy konsol i osób grających w chmurze mamy złe informacje. Abonament w połowie listopada opuści Wreckfest. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Ogromna-oferta-Xbox-Game-Pass-na-listopad.-Premiera-Tanuki_-Pons-Summer-w-XGPU_miniaturka-224x224.jpg"
-    },
-    {
       "sourceName": "CD-Action",
       "title": "Premiera Twierdzy 4 przesunięta. W zamian gracze dostaną coś ekstra",
       "sourceUrl": "https://cdaction.pl/newsy/premiera-twierdzy-4-przesunieta-w-zamian-gracze-dostana-cos-ekstra/",
@@ -177,15 +186,6 @@
       "summary": "Zmierzamy w ciepłe rejony.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/sentinel-1260x562.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Call of Duty: Warzone dostanie mapę związaną z Modern Warfare 4. Czekają nas też m.in. nowe gadżety i tryby rozgrywki",
-      "sourceUrl": "https://cdaction.pl/newsy/call-of-duty-warzone-dostanie-mape-zwiazana-z-modern-warfare-4-czekaja-nas-tez-m-in-nowe-gadzety-i-tryby-rozgrywki/",
-      "publishedAt": "2026-11-03T16:15+01:00",
-      "summary": "Niedługo do Call of Duty: Warzone zostanie dodana spora dawka nowości w ramach premiery Modern Warfare 4.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Call-of-Duty-Warzone.jpg"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
