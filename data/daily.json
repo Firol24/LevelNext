@@ -1,17 +1,69 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T17:01+01:00",
+  "updatedAt": "2026-11-04T17:49+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko",
-    "summary": "Na Divinity od Larian Studios jeszcze trochę poczekamy. Szef firmy, Swen Vincke, ujawnił, że przed zespołem jest jeszcze „sporo pracy”. Informacja Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nowa-gra-tworcow-baldurs-gate-3-opierac-sie-bedzie-na-dwoch-uwiel/za32212",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531504375.jpg"
+    "title": "Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki”",
+    "summary": "Lords of the Fallen 2 zapowiada się na znacznie bardziej rozbudowaną produkcję niż poprzedniczka. Twórcy zaprezentowali szereg usprawnień w systemie walki, które mają zapewnić graczom większą swobodę i bardziej dynamiczne starcia. Informacja Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/mroczne-rpg-akcji-postawi-na-dynamiczna-i-efektowna-walke-lords-o/zb32213",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531508907.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mroczne-rpg-akcji-postawi-na-dynamiczna-i-efektowna-walke-lords-o/zb32213",
+      "publishedAt": "2026-11-04T18:24+01:00",
+      "summary": "Lords of the Fallen 2 zapowiada się na znacznie bardziej rozbudowaną produkcję niż poprzedniczka. Twórcy zaprezentowali szereg usprawnień w systemie walki, które mają zapewnić graczom większą swobodę i bardziej dynamiczne starcia. Informacja Mroczne RPG akcji postawi na dynamiczną i efektowną walkę. Lords of the Fallen 2 czeka mała rewolucja względem „jedynki” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531508907.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Rockstar może szykować się do premiery GTA 6 na PC. Gracze nabierają pewności, że opóźnienie względem konsol nie będzie duże [Aktualizacja]",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/rockstar-moze-szykowac-sie-do-premiery-gta-6-na-pc-gracze-nabiera/z3321e8",
+      "publishedAt": "2026-11-04T18:07+01:00",
+      "summary": "Użytkownicy pecetów wciąż czekają na informacje dotyczące GTA 6, a najnowszy ruch Rockstar Games dał im kolejny powód do spekulacji. Aktualizacja launchera spotęgowała dyskusję o możliwej premierze gry na komputerach osobistych w przyszłym roku. Informacja Rockstar może szykować się do premiery GTA 6 na PC. Gracze nabierają pewności, że opóźnienie względem konsol nie będzie duże [Aktualizacja] została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531425212.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Uncharted 3 zachwycało graficznie, GTA V z pierwszym trailerem, wielki powrót Raymana. Co działo się w listopadzie 15 lat temu? [RetroKalendarium]",
+      "sourceUrl": "https://cdaction.pl/retro/uncharted-3-zachwycalo-graficznie-gta-v-z-pierwszym-trailerem-wielki-powrot-raymana-co-dzialo-sie-w-listopadzie-15-lat-temu-retrokalendarium/",
+      "publishedAt": "2026-11-04T17:40+01:00",
+      "summary": "Przypomnijmy sobie, co działo się w listopadzie 15 lat temu, czyli w 2011 roku. A miało miejsce dużo, naprawdę dużo premier znanych gier i cóż… listopad – obchodziliśmy też sporo rocznic śmierci.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/uncharted_news.avif"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż akcesoriów do Nintendo Switch 2 w RTV Euro AGD. Etui na konsolę już od 29,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/wyprzedaz-akcesoriow-do-nintendo-switch-2-w-rtv-euro-agd-etui-na-konsole-juz-od-2999-zl/",
+      "publishedAt": "2026-11-04T17:36+01:00",
+      "summary": "W internetowym sklepie RTV Euro AGD wystartowała wyprzedaż akcesoriów do Nintendo Switch 2. Na szczególną uwagę zasługują tutaj licencjonowane przez giganta z Kioto produkty od takich firm jak Trust, PowerA oraz Hori. W ramach oferty wybrane modele etui mogą być Wasze już za jedyne 29,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-akcesoriow-do-Nintendo-Switch-2-w-RTV-Euro-AGD.-Etui-na-konsole-juz-od-2999-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kultowe RPG całkowicie za darmo! Liczba kluczy ograniczona",
+      "sourceUrl": "https://www.ppe.pl/news/432168/kultowe-rpg-calkowicie-za-darmo-liczba-kluczy-ograniczona.html",
+      "publishedAt": "2026-11-04T17:29+01:00",
+      "summary": "Fallout: New Vegas będzie można zgarnąć za darmo na Steam dzięki akcji Lenovo. Firma szykuje się do rozdania kluczy do kultowego RPG przez Legion Gaming Community.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "AMD przewiduje kolejny spadek na rynku PC jeszcze w 2027 roku. Zmiana priorytetów?",
+      "sourceUrl": "https://www.ppe.pl/news/432172/amd-przewiduje-kolejny-spadek-na-rynku-pc-jeszcze-w-2027-roku-zmiana-priorytetow.html",
+      "publishedAt": "2026-11-04T17:15+01:00",
+      "summary": "AMD opublikowało wyniki finansowe za trzeci kwartał 2026 roku. Amerykański producent układów scalonych odnotował w tym okresie przychody na poziomie 13,4 mld dolarów. Coraz większą część tej kwoty generuje biznes centrów danych, podczas gdy...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko",
@@ -20,6 +72,14 @@
       "summary": "Na Divinity od Larian Studios jeszcze trochę poczekamy. Szef firmy, Swen Vincke, ujawnił, że przed zespołem jest jeszcze „sporo pracy”. Informacja Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531504375.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Telewizor LG OLED z 144 Hz pod PS5 czy XSX za 2999 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/telewizory/432131/telewizor-lg-oled-z-144-hz-pod-ps5-czy-xsx-za-2999-zl.html",
+      "publishedAt": "2026-11-04T17:08+01:00",
+      "summary": "Sklep RTV Euro AGD zapewnił świetną okazję na telewizor LG OLED.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
@@ -47,14 +107,6 @@
       "category": "WIADOMOŚCI"
     },
     {
-      "sourceName": "PPE",
-      "title": "CD Projekt RED nie wskaże kanonicznego finału Cyberpunka 2077. To ważna decyzja",
-      "sourceUrl": "https://www.ppe.pl/news/432166/cd-projekt-red-nie-wskaze-kanonicznego-finalu-cyberpunka-2077-to-wazna-decyzja.html",
-      "publishedAt": "2026-11-04T16:31+01:00",
-      "summary": "Cyberpunk: Edgerunners 2 nie będzie wybierać, które zakończenie Cyberpunka 2077 jest tym właściwym. Twórcy znaleźli sposób, żeby uszanować wybory graczy i jednocześnie pokazać konkretną wizję Night City po wydarzeniach z gry.",
-      "category": "WIADOMOŚCI"
-    },
-    {
       "sourceName": "CD-Action",
       "title": "Cyberpunkowy symulator sklepikarza podbija Steama. Niezależny wydawca zbliża się do miliona sprzedanych kopii",
       "sourceUrl": "https://cdaction.pl/newsy/cyberpunkowy-symulator-sklepikarza-podbija-steama-niezalezny-wydawca-zbliza-sie-do-miliona-sprzedanych-kopii/",
@@ -71,14 +123,6 @@
       "summary": "Pojedyncza kość RAM Patriot Viper Venom, pojawiła się w znośnej cenie w polskim oddziale sklepu Amazon. Wariant oferujący 16GB pamięci DDR5 o opóźnieniu CL30 i prędkości 6000 MT/s, kosztuje 1081,67 zł. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/patriot-viper-venom-ddr5-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "SanDisk Optimus GX PRO 850P 2TB – szybki SSD do PS5 i PS5 Pro, ale czy wart swojej ceny?",
-      "sourceUrl": "https://www.ppe.pl/recenzje/431619/sandisk-optimus-gx-pro-850p-2tb-szybki-ssd-do-ps5-ale-czy-wart-swojej-ceny.html",
-      "publishedAt": "2026-11-04T16:27+01:00",
-      "summary": "Jeszcze niedawno szybki nośnik o pojemności 2 TB był rozsądnym sposobem na rozbudowę komputera lub konsoli bez wydawania fortuny. Tanio to już jednak było. Czy więc SanDisk Optimus GX PRO 850P 2 TB, model skierowany przede wszystkim do użytkown...",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -108,14 +152,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531486624.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "Football Manager 27 – recenzja gry. Wsłuchani w głos społeczności",
-      "sourceUrl": "https://www.ppe.pl/recenzje/432161/football-manager-27-recenzja-gry-wsluchani-w-glos-spolecznosci.html",
-      "publishedAt": "2026-11-04T16:00+01:00",
-      "summary": "Po nie najlepszym, choć mającym potencjał i trochę mocnych stron FM26, Sports Interactive chciało pójść za ciosem i stworzyć grę jeszcze bardziej dopasowaną do potrzeb społeczności. Poprzednia odsłona przyniosła duże zmiany w interfejsie...",
-      "category": "WIADOMOŚCI"
-    },
-    {
       "sourceName": "Łowcy Gier",
       "title": "Gdzie kupić specjalne edycje World of Warcraft: Forever najtaniej? Nowa wersja króla MMORPG!",
       "sourceUrl": "https://lowcygier.pl/przeglady-ofert/gdzie-kupic-specjalne-edycje-world-of-warcraft-forever-najtaniej-nowa-wersja-krola-mmorpg/",
@@ -125,15 +161,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Gdzie-kupic-specjalne-edycje-World-of-Warcraft_-Forever-najtaniej_-Nowa-wersja-krola-MMORPG_miniaturka-224x224.jpg"
     },
     {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO Harry Potter Latający Ford Anglia za 39,98 zł (cena kat. 61,99 zł) w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-harry-potter-latajacy-ford-anglia-za-3998-zl-cena-kat-6199-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-04T15:46+01:00",
-      "summary": "Składający się ze 165 elementów zestaw LEGO Harry Potter Latający Ford Anglia możecie obecnie kupić w dobrej cenie w polskim Amazonie. Model pozwala zbudować kultowy samochód Weasleyów znany z filmu Harry Potter i Komnata Tajemnic, a w komplecie znajdziecie również minifigurki Harry’ego i Rona oraz figurki Hedwigi i Parszywka. Set ten kosztuje teraz 39,98 zł, podczas gdy jego cena katalogowa w oficjalnym sklepie LEGO wynosi 61,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/lego-harry-potter-latajacy-ford-anglia-2b-224x224.jpg"
-    },
-    {
       "sourceName": "CD-Action",
       "title": "Fani Helldivers 2 znowu krytykują twórców gry. Tym razem poszło o duży październikowy patch, który wyszedł… wczoraj",
       "sourceUrl": "https://cdaction.pl/newsy/fani-helldivers-2-znowu-krytykuja-tworcow-gry-tym-razem-poszlo-o-duzy-pazdziernikowy-patch-ktory-wyszedl-wczoraj/",
@@ -141,24 +168,6 @@
       "summary": "Fanom Helldivers 2 nie spodobała się odpowiedź twórców gry na zażalenia o kiepską komunikację.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Helldivers-2.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Steam nie nadąża ze sprawdzaniem gier. Valve wprowadza nowe zasady",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/steam-nie-nadaza-ze-sprawdzaniem-gier-valve-wprowadza-nowe-zasady/z932211",
-      "publishedAt": "2026-11-04T15:33+01:00",
-      "summary": "Valve przyznało, że przestało się wyrabiać z certyfikowaniem powodzi gier zalewających Steam i wprowadza zmiany, które mają poprawić sytuację. Informacja Steam nie nadąża ze sprawdzaniem gier. Valve wprowadza nowe zasady została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531498817.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/po-4-latach-powroci-jeden-z-najlepszych-seriali-netflixa-ktory-po/ze321fb",
-      "publishedAt": "2026-11-04T15:02+01:00",
-      "summary": "Po kilkuletniej przerwie na Netfliksa z drugim sezonem wraca przebojowy serial animowany, który jest polecany na Rotten Tomatoes przez 93% widzów. Informacja Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531484833.jpg"
     },
     {
       "sourceName": "CD-Action",
@@ -177,15 +186,6 @@
       "summary": "To się dopiero nazywa wsparcie.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/guild-wars-1-1260x709.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Najwyżej oceniana gra w historii znowu zachwyciła recenzentów. Remake Zeldy: Ocarina of Time zbiera maksymalne noty",
-      "sourceUrl": "https://cdaction.pl/newsy/najwyzej-oceniana-gra-w-historii-znowu-zachwycila-recenzentow-remake-zeldy-ocarina-of-time-zbiera-maksymalne-noty/",
-      "publishedAt": "2026-11-04T14:00+01:00",
-      "summary": "W sieci pojawiły się pierwsze recenzje remake’u The Legend of Zelda: Ocarina of Time. Dziennikarze są zachwyceni.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-4-o-13.29.49-1260x662.jpg"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
