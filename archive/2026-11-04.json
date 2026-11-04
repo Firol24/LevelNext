@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T06:01+01:00",
+  "updatedAt": "2026-11-04T07:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Amazon Prime Video z MEGA hitem od dzisiaj! Wielka opowieść o jednym z najwybitniejszych sportowców",
-    "summary": "Widzowie Amazon Prime Video mogą sprawdzić kolejną ekscytującą historię. Na platformie zadebiutuje bardzo ciekawa produkcja.",
-    "sourceUrl": "https://www.ppe.pl/news/432062/amazon-prime-video-z-mega-hitem-od-dzisiaj-wielka-opowiesc-o-jednym-z-najwybitniejszych-sportowcow.html"
+    "title": "Gry za 2237 zł za darmo! Xbox oficjalnie rozpoczął promocję i poznaliśmy pełną listę bezpłatnych produkcji",
+    "summary": "Microsoft rozpoczął wyjątkową promocję z okazji 25-lecia marki Xbox, a gracze mogą otrzymać aż 25 produkcji bez dodatkowych opłat. Amerykańska korporacja przygotowała specjalny zestaw, którego standardowa cena wynosi 569,99 dolarów, czyli o...",
+    "sourceUrl": "https://www.ppe.pl/news/432077/gry-za-2237-zl-za-darmo-xbox-oficjalnie-rozpoczal-promocje-i-poznalismy-pelna-liste-bezplatnych-produkcji.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Gry za 2237 zł za darmo! Xbox oficjalnie rozpoczął promocję i poznaliśmy pełną listę bezpłatnych produkcji",
+      "sourceUrl": "https://www.ppe.pl/news/432077/gry-za-2237-zl-za-darmo-xbox-oficjalnie-rozpoczal-promocje-i-poznalismy-pelna-liste-bezplatnych-produkcji.html",
+      "publishedAt": "2026-11-04T06:40+01:00",
+      "summary": "Microsoft rozpoczął wyjątkową promocję z okazji 25-lecia marki Xbox, a gracze mogą otrzymać aż 25 produkcji bez dodatkowych opłat. Amerykańska korporacja przygotowała specjalny zestaw, którego standardowa cena wynosi 569,99 dolarów, czyli o...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gry na PS5 w promocji Black Friday! Największe tegoroczne hity w niższych cenach",
+      "sourceUrl": "https://www.ppe.pl/news/432076/gry-na-ps5-w-promocji-black-friday-najwieksze-tegoroczne-hity-w-nizszych-cenach.html",
+      "publishedAt": "2026-11-04T06:14+01:00",
+      "summary": "Sony w tym roku wyszło przed szereg i już dzisiaj wystartowała promocja Black Friday. Gracze mogą kupić 2244 gier w potencjalnie lepszych cenach.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Amazon Prime Video z MEGA hitem od dzisiaj! Wielka opowieść o jednym z najwybitniejszych sportowców",
@@ -54,14 +70,6 @@
       "category": "WIADOMOŚCI"
     },
     {
-      "sourceName": "PPE",
-      "title": "The Wolf Among Us Remastered - recenzja gry. Fajnie, ale po co?",
-      "sourceUrl": "https://www.ppe.pl/recenzje/432018/the-wolf-among-us-remastered-recenzja-gry-fajnie-ale-po-co.html",
-      "publishedAt": "2026-11-03T22:00+01:00",
-      "summary": "Oryginalne The Wolf Among Us zadebiutowało 13 lat temu. I nieważne, czy ktoś odpalił ten tytuł po dwóch, pięciu czy 10 latach – i tak wniosek pozostawał ten sam: „Wilczek” trzyma się świetnie i żaden ząb czasu go nie podgryza. Dlatego ...",
-      "category": "WIADOMOŚCI"
-    },
-    {
       "sourceName": "GRY-Online",
       "title": "Game Pass na początek listopada z 12 nowymi grami. Aż połowa to premiery, ale jeszcze więcej produkcji opuści usługę",
       "sourceUrl": "https://www.gry-online.pl/newsroom/game-pass-na-poczatek-listopada-z-12-nowymi-grami-az-polowa-to-pr/ze321ec",
@@ -78,14 +86,6 @@
       "summary": "Premiera The Legend of Zelda: Ocarina of Time dosłownie za chwilę! Kompleksowe odświeżenie jednej z najwyżej ocenianych produkcji wszechczasów zadebiutuje na półkach już 5 listopada 2026 roku. Jeśli tak się szczęśliwie składa, że akurat mieszkacie w stolicy, to stacjonarny sklep Perfect Blue przygotował dla Was małą niespodziankę w postaci Nocnej Premiery! W ramach wydarzenia będziecie mogli zakupić fizyczne wydanie The Legend of Zelda Ocarina of Time na Nintendo Switch 2 punktualnie o północy! Limitowana Edycja Premierowa z okładką z folii teksturowanej czekać będzie na Was na ulicy Wałbrzyskiej 11 w Warszawie. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nocna-premiera-The-Legend-of-Zelda-Ocarina-of-Time-na-Nintendo-Switch-2-w-Perfect-Blue_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Age of Empires IV: Raiders of the North - recenzja dodatku. Północ ma własne zasady",
-      "sourceUrl": "https://www.ppe.pl/recenzje/432021/age-of-empires-iv-raiders-of-the-north-recenzja-dodatku-polnoc-ma-wlasne-zasady.html",
-      "publishedAt": "2026-11-03T21:30+01:00",
-      "summary": "Wikingowie i Szkoci wnoszą do Age of Empires IV dwie wyraziste cywilizacje, przy których trzeba na nowo przemyśleć rozwój osady i sposób prowadzenia wojny. Raiders of the North rozbudowuje również tryb Prób o cztery misje, które można rozgryw...",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
