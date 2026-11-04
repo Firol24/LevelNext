@@ -13,7 +13,7 @@
       "title": "Metro Anomaly",
       "date": "2026-11-06",
       "platform": "PC (Steam)",
-      "summary": "W metrze trzeba obserwować zachowanie pasażerów i wyłapywać istoty udające ludzi. Na każdy cykl przypada tylko jeden nabój, więc pomyłka może być ostatnią.",
+      "summary": "Obserwujesz urzędników i próbujesz rozpoznać, kto tylko udaje człowieka. Na każdy cykl masz jeden nabój, a pomyłka kończy się atakiem anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4612650/",
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612650/a2ef62c66b55c6c36eb2e26810cbfdf7b690b3d6/header.jpg?t=1793735513"
     },
@@ -45,7 +45,7 @@
       "title": "DERELIKT",
       "date": "2026-11-13",
       "platform": "PC (Steam)",
-      "summary": "Retro FPS dla fanów klaustrofobicznego horroru science fiction z ery PS1. Opuszczona stacja kosmiczna, ciasne korytarze i tajemnica, która czai się wśród gwiazd.",
+      "summary": "Narracyjny retro-FPS inspirowany klaustrofobicznym horrorem science fiction z ery PS1. Celuje w surowy, oldschoolowy klimat dla fanów dawnych strzelanek i survivalowego niepokoju.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/",
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/45f23f4a1143f49de0962289003d6b269fa970bd/header.jpg?t=1792435067"
     }
@@ -56,8 +56,9 @@
       "title": "Edge of Memories",
       "platform": "PC (Steam), PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
-      "note": "Nacon i Midgar Studio potwierdziły premierę action-RPG na 5 listopada. Eline mierzy się z plagą Corrosion, która wyniszcza kontynent Avaris.",
-      "sourceUrl": "https://www.gamespress.com/pt/EDGE-OF-MEMORIES-ANNOUNCES-ITS-RELEASE-DATE-AND-PRE-ORDERS-NOW-OPEN"
+      "note": "Pełna premiera action-RPG 5 listopada; edycja Deluxe zapewniła wcześniejszy dostęp od 3 listopada. Eline mierzy się z plagą Corrosion, która wyniszcza kontynent Avaris.",
+      "sourceUrl": "https://www.gamespress.com/pt/EDGE-OF-MEMORIES-ANNOUNCES-ITS-RELEASE-DATE-AND-PRE-ORDERS-NOW-OPEN",
+      "imageUrl": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/09/231602-70c6eb57/EoM_Key_Art_8K_Logo.jpg?bgcolor=white&format=jpg&mode=max&otf=y&quality=90&sky=8ada2e978e4801659272f8c08b213f13452e339b1c33c4785d4c1b15237a8527&w=534"
     },
     {
       "date": "2026-11-05",
@@ -65,15 +66,17 @@
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
       "note": "Nintendo przygotowało wersję przebudowaną na Switch 2: odświeżoną grafikę, symfoniczną muzykę, głosowe przerywniki i unowocześnione sterowanie.",
-      "sourceUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/"
+      "sourceUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
+      "imageUrl": "https://assets.nintendo.com/image/upload/ar_16%3A9%2Cb_auto%3Aborder%2Cc_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000130792/21d17919819cffebda2817f9b0110116c28568e0b6fa30a9778f1679271be809"
     },
     {
       "date": "2026-11-12",
       "title": "Metaphor: ReFantazio",
-      "platform": "Nintendo Switch 2",
+      "platform": "Nintendo Switch, Nintendo Switch 2",
       "status": "confirmed",
       "note": "Atlus przenosi swoje fantasy-RPG na Switch 2; oficjalny sklep Nintendo podaje premierę 12 listopada.",
-      "sourceUrl": "https://www.nintendo.com/us/store/products/metaphor-refantazio-switch-2/"
+      "sourceUrl": "https://www.nintendo.no/nyheter/kommende-spill-i-november-2026",
+      "imageUrl": "https://assets.nintendo.com/image/upload/ar_16%3A9%2Cb_auto%3Aborder%2Cc_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000105915/adb6c4603740468d9845a1937973ab2436e5f54e475dd504a15984a964f2f4ab"
     },
     {
       "date": "2026-11-12",
@@ -81,7 +84,8 @@
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
       "note": "Edycja na Switch 2 poprawia oprawę, dodaje Akademię Dandori i komendy głosowe dla Oatchiego.",
-      "sourceUrl": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/"
+      "sourceUrl": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
+      "imageUrl": "https://assets.nintendo.com/image/upload/ar_16%3A9%2Cb_auto%3Aborder%2Cc_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000135059/0570495cf4662da29c5af864da6c1180830fd7dd4a94764dcff6786a385dcfb0"
     },
     {
       "date": "2026-11-19",
@@ -89,7 +93,8 @@
       "platform": "PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
       "note": "Rockstar potwierdził start pobierania wstępnego 10 listopada; pliki mogą zajmować do 212 GB. Premiera pozostaje wyznaczona na 19 listopada.",
-      "sourceUrl": "https://www.rockstargames.com/it/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+      "sourceUrl": "https://www.rockstargames.com/it/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/Official_Cover_Art_landscape.12.uu2irr.2_a.jpg?akim=1&imdensity=1&imwidth=3840"
     },
     {
       "date": "2026-11-19",
@@ -97,7 +102,8 @@
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
       "note": "Kultowy roguelike trafia na Switch 2 w wydaniu z sieciową kooperacją dla maksymalnie czterech graczy.",
-      "sourceUrl": "https://www.nintendo.no/nyheter/kommende-spill-i-november-2026"
+      "sourceUrl": "https://store.nicalis.com/products/repplus",
+      "imageUrl": "https://store.nicalis.com/cdn/shop/files/Gold_Cover_Sheet_600x.png?v=1760640176"
     },
     {
       "date": "2026-11-24",
@@ -105,7 +111,8 @@
       "platform": "PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
       "status": "confirmed",
       "note": "THQ Nordic przenosi klasyczne RPG Piranha Bytes na współczesne konsole; wersja na Switch 2 również jest zapowiedziana.",
-      "sourceUrl": "https://thqnordic.com/news/time-for-some-classics-the-original-gothic-trilogy-is-coming-to-play-station-and-xbox-series-s-x"
+      "sourceUrl": "https://thqnordic.com/news/time-for-some-classics-the-original-gothic-trilogy-is-coming-to-play-station-and-xbox-series-s-x",
+      "imageUrl": "https://gothic3classic.thqnordic.com/_next/image?q=75&url=%2Fgame-sites%2Fgothic3classic%2Feditions%2Fstandard-edition.jpg&w=3840"
     },
     {
       "date": "2026-12-03",
@@ -113,7 +120,8 @@
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
       "note": "Nintendo umieściło wydanie Switch 2 Edition w oficjalnym kalendarzu na 3 grudnia.",
-      "sourceUrl": "https://www.nintendo.no/spill/kommende-spill"
+      "sourceUrl": "https://www.nintendo.no/nintendo-switch-2-family/spill/xenoblade-chronicles-3-nintendo-switch-2-edition",
+      "imageUrl": "https://www.nintendo.no/images/products_26/sw_ns2_Xenoblade_Chronicles_3-NS2E/16x9-XenobladeChronicles3-NS2Edition.jpg"
     }
   ],
   "cinema": [
@@ -161,18 +169,18 @@
       "date": "2026-11-27",
       "title": "Violetta Villas",
       "genre": "Biograficzny / dramat",
-      "summary": "Portret Violetty Villas opowiedziany z perspektywy syna — od wielkiej kariery na scenach Paryża i Las Vegas po trudną relację z matką.",
+      "summary": "Historia Violetty Villas, której talent i pasja zaprowadziły ją na największe sceny Paryża i Las Vegas — opowiedziana z perspektywy jej syna, świadka narodzin i upadku gwiazdy.",
       "sourceUrl": "https://kinoswiat.pl/film/violetta-villas/",
       "imageUrl": "https://kinoswiat.pl/wp-content/uploads/2026/06/image_processing20260609-8-r7wg0h-714x1024.jpg"
     }
   ],
   "film": {
-    "title": "Pusty Człowiek",
-    "year": "2020",
+    "title": "Soulm8te",
+    "year": "2026",
     "platform": "Disney+",
-    "summary": "Były policjant szuka zaginionej nastolatki i trafia na trop tajnej grupy próbującej przywołać nadprzyrodzoną istotę. Rozległy, powoli narastający horror detektywistyczny z mocnym poczuciem kosmicznego niepokoju.",
-    "availabilityNote": "JustWatch Polska potwierdził streaming w ramach abonamentu Disney+; dostępność sprawdzono 1 listopada 2026.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/the-empty-man",
-    "imageUrl": "https://images.justwatch.com/backdrop/233465665/s640/the-empty-man.jpg"
+    "summary": "Mężczyzna kupuje androida z AI, by poradzić sobie ze stratą niedawno zmarłej żony. Gdy próbuje stworzyć naprawdę świadomą partnerkę, nieszkodliwy lovebot zmienia się w śmiertelnie niebezpieczną towarzyszkę.",
+    "availabilityNote": "JustWatch Polska potwierdził streaming w ramach abonamentu Disney+; dostępność sprawdzono 31 października 2026.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/soulm8te",
+    "imageUrl": "https://images.justwatch.com/backdrop/347157858/s640/soulm8te.jpg"
   }
 }
