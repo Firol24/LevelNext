@@ -1,22 +1,49 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T12:02+01:00",
+  "updatedAt": "2026-11-04T13:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Najwyżej oceniana gra w historii powróciła po niemal 30 latach. Recenzja The Legend of Zelda: Ocarina of Time",
-    "summary": "Stało się. Najbardziej legendarna z Legend Zeldy doczekała się pełnoprawnego remake&apos;u. Czy kultowy tytuł sprzed niemal trzech dekad wytrzyma spotkanie ze współczesnością? Zobaczcie, jak brzmi odświeżona melodia Okaryny Czasu. Informacja Najwyżej oceniana gra w historii powróciła po niemal 30 latach. Recenzja The Legend of Zelda: Ocarina of Time została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/recenzje/najwyzej-oceniana-gra-w-historii-powrocila-po-niemal-30-latach-re/z749d6"
+    "title": "LEGO ujawniło olbrzymi zestaw przedstawiający Godzillę, ale nie wszyscy są pewni czy jest wart swojej ceny",
+    "summary": "Tegoroczne Black Friday będziemy świętować z LEGO Godzillą – niestety bez tradycyjnej zniżki. Informacja LEGO ujawniło olbrzymi zestaw przedstawiający Godzillę, ale nie wszyscy są pewni czy jest wart swojej ceny została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/lego-ujawnilo-olbrzymi-zestaw-przedstawiajacy-godzille-ale-nie-ws/zb32204",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531489702.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "LEGO ujawniło olbrzymi zestaw przedstawiający Godzillę, ale nie wszyscy są pewni czy jest wart swojej ceny",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/lego-ujawnilo-olbrzymi-zestaw-przedstawiajacy-godzille-ale-nie-ws/zb32204",
+      "publishedAt": "2026-11-04T13:02+01:00",
+      "summary": "Tegoroczne Black Friday będziemy świętować z LEGO Godzillą – niestety bez tradycyjnej zniżki. Informacja LEGO ujawniło olbrzymi zestaw przedstawiający Godzillę, ale nie wszyscy są pewni czy jest wart swojej ceny została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531489702.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Najwyżej oceniana gra w historii powróciła po niemal 30 latach. Recenzja The Legend of Zelda: Ocarina of Time",
       "sourceUrl": "https://www.gry-online.pl/recenzje/najwyzej-oceniana-gra-w-historii-powrocila-po-niemal-30-latach-re/z749d6",
       "publishedAt": "2026-11-04T13:00+01:00",
       "summary": "Stało się. Najbardziej legendarna z Legend Zeldy doczekała się pełnoprawnego remake&apos;u. Czy kultowy tytuł sprzed niemal trzech dekad wytrzyma spotkanie ze współczesnością? Zobaczcie, jak brzmi odświeżona melodia Okaryny Czasu. Informacja Najwyżej oceniana gra w historii powróciła po niemal 30 latach. Recenzja The Legend of Zelda: Ocarina of Time została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Twórcy Pieśni przeszłości opowiadają o procesie tworzenia fabuły najnowszego dodatku do Wiedźmina 3. „Nie próbujemy niczego nadpisywać”",
+      "sourceUrl": "https://cdaction.pl/newsy/tworcy-piesni-przeszlosci-opowiadaja-o-procesie-tworzenia-fabuly-najnowszego-dodatku-do-wiedzmina-3-nie-probujemy-niczego-nadpisywac/",
+      "publishedAt": "2026-11-04T12:45+01:00",
+      "summary": "Devowie pochylają się też nad wyjątkową odmianą fikcyjnego browarnictwa.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/piesni-przeszlosci-wiedzmin-3-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy Wiedźmin 4 i Cyberpunk Orion mierzą się z chorą machiną oczekiwań",
+      "sourceUrl": "https://www.ppe.pl/news/432152/tworcy-wiedzmin-4-i-cyberpunk-orion-mierza-sie-z-chora-machina-oczekiwan.html",
+      "publishedAt": "2026-11-04T12:41+01:00",
+      "summary": "Twórcy z CD Projekt Red mają przed sobą gigantyczne wyzwanie, które wcale nie polega wyłącznie na dorównaniu legendzie ich poprzednich dzieł. Polskie studio ugruntowało swoją pozycję na rynku gigantycznymi grami RPG, które przez lata nie sch...",
       "category": "WIADOMOŚCI"
     },
     {
@@ -38,6 +65,23 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531487820.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Preordery The Legend of Zelda Ocarina of Time dostępne w polskich sklepach. Nowa Zelda pozamiatała!",
+      "sourceUrl": "https://lowcygier.pl/przeglady-ofert/preordery-the-legend-of-zelda-ocarina-of-time-dostepne-w-polskich-sklepach-nowa-zelda-pozamiatala/",
+      "publishedAt": "2026-11-04T12:31+01:00",
+      "summary": "Nintendo nie boi się GTA VI! Premiera The Legend of Zelda: Ocarina of Time na Switcha 2 została zaplanowana na 5 listopada 2026 r. Remake kultowej odsłony przygód Linka, wydanej pierwotnie w 1998 r. na Nintendo 64, dostępny jest już w przedsprzedaży w polskich sklepach. Cena fizycznego wydania ustalona została na poziomie około 268 zł. Gra zostanie wydana na standardowym kartridżu, a do tego gracze z kraju nad Wisłą będą mieli jeszcze jeden duży powód do radości. W The Legend of Zelda Ocarina of Time zagramy po polsku! Jeśli zastanawiacie się, gdzie dorwać japońską produkcję w pudełku najtaniej, służymy pomocą! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/The-Legend-of-Zelda-Ocarina-of-Time-logo-1-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Paranoja Rockstar Games w kwestii GTA 6. Bany dla fanów gry",
+      "sourceUrl": "https://www.ppe.pl/news/432151/paranoja-rockstar-games-w-kwestii-gta-6-bany-dla-recenzentow-gry.html",
+      "publishedAt": "2026-11-04T12:22+01:00",
+      "summary": "Premiera Grand Theft Auto 6 zbliża się wielkimi krokami, a wokół gry panuje tak potężna atmosfera pilnowania każdego sekretu, że twórcy i wydawcy zaczęli przypominać bezwzględne maszyny szpiegowskie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Za 2 tygodnie na Netflix premiera nowego polskiego serialu. Widowisko zainspirowane sprawą Mariusza Trynkiewicza ma zwiastun",
       "sourceUrl": "https://www.gry-online.pl/newsroom/za-2-tygodnie-na-netflix-premiera-nowego-polskiego-serialu-widowi/zf321fc",
@@ -47,20 +91,20 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531485159.jpg"
     },
     {
-      "sourceName": "GRY-Online",
-      "title": "NVIDIA nie daje graczom wytchnienia. Nowa fala podwyżek cen GeForce'ów ma nadejść jeszcze w tym tygodniu",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-nie-daje-graczom-wytchnienia-nowa-fala-podwyzek-cen-geforc/z2321ff",
-      "publishedAt": "2026-11-04T12:10+01:00",
-      "summary": "Szykują się kolejne podwyżki kart graficznych NVIDII. W Chinach podrożeją wszystkie karty graficzne RTX 50, co może zapowiadać zmiany we wszystkich regionach. Informacja NVIDIA nie daje graczom wytchnienia. Nowa fala podwyżek cen GeForce&apos;ów ma nadejść jeszcze w tym tygodniu została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "sourceName": "CD-Action",
+      "title": "Znany dziennikarz zdradza plany Bethesdy. The Elder Scrolls 6: Sentinel może zadebiutować szybciej, niż myślicie",
+      "sourceUrl": "https://cdaction.pl/newsy/znany-dziennikarz-zdradza-plany-bethesdy-the-elder-scrolls-6-sentinel-moze-zadebiutowac-szybciej-niz-myslicie/",
+      "publishedAt": "2026-11-04T12:00+01:00",
+      "summary": "Nie domysły, a zapewnienia bazujące na wiedzy!",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531486423.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-04T100852.639-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
-      "title": "To koniec pewnej ery PlayStation! Sony wycofuje się ze sprzętu dla PS5",
-      "sourceUrl": "https://www.ppe.pl/news/432148/to-koniec-pewnej-ery-playstation-sony-wycofuje-sie-ze-sprzetu-dla-ps5.html",
-      "publishedAt": "2026-11-04T11:58+01:00",
-      "summary": "Wygląda na to, że gogle PlayStation VR2 powoli i bez zbytniego rozgłosu odchodzą w przeszłość, a Sony najwyraźniej zdecydowało się wygasić ten projekt, wcześniej sprzedając patenty.",
+      "title": "The Legend of Zelda: Ocarina of Time Remake - recenzja gry. Wyjątkowe odświeżenie",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432063/the-legend-of-zelda-ocarina-of-time-remake-recenzja-gry-wyjatkowe-odswiezenie.html",
+      "publishedAt": "2026-11-04T12:00+01:00",
+      "summary": "Nintendo w 2026 roku nie zwalnia tempa, regularnie zapraszając graczy do nowych światów i odświeżając kultowe przygody. Niemal na zakończenie roku japoński gigant przygotował jednak coś wyjątkowego - pełnoprawny remake jednej z najlepszych g...",
       "category": "WIADOMOŚCI"
     },
     {
@@ -74,18 +118,18 @@
     },
     {
       "sourceName": "PPE",
-      "title": "\"Mamy 3000 postaci w mieście\". Cyberpunkowa gra autorów The Ascent zachwyca rozmachem",
-      "sourceUrl": "https://www.ppe.pl/news/432149/mamy-3000-postaci-w-miescie-cyberpunkowa-gra-autorow-the-ascent-zachwyca-rozmachem.html",
-      "publishedAt": "2026-11-04T11:56+01:00",
-      "summary": "Już doniesienia z tegorocznego gamescom zrobiły na nas duże wrażenie, a teraz autorzy No Law chwalą się piękną grafiką, razem z Epic Games.",
+      "title": "To koniec pewnej ery PlayStation! Sony wycofuje się ze sprzętu dla PS5",
+      "sourceUrl": "https://www.ppe.pl/news/432148/to-koniec-pewnej-ery-playstation-sony-wycofuje-sie-ze-sprzetu-dla-ps5.html",
+      "publishedAt": "2026-11-04T11:58+01:00",
+      "summary": "Wygląda na to, że gogle PlayStation VR2 powoli i bez zbytniego rozgłosu odchodzą w przeszłość, a Sony najwyraźniej zdecydowało się wygasić ten projekt, wcześniej sprzedając patenty.",
       "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
-      "title": "Nowy król soulslike'ów nadchodzi! Polska gra z kolejnym szczegółem",
-      "sourceUrl": "https://www.ppe.pl/news/432142/nowy-krol-soulslikeow-nadchodzi-polska-gra-z-kolejnym-szczegolem.html",
-      "publishedAt": "2026-11-04T11:37+01:00",
-      "summary": "Twórcy serii Lords of the Fallen postanowili odsłonić karty i podzielić się z graczami ciekawymi szczegółami dotyczącymi powstającej właśnie kontynuacji.",
+      "title": "\"Mamy 3000 postaci w mieście\". Cyberpunkowa gra autorów The Ascent zachwyca rozmachem",
+      "sourceUrl": "https://www.ppe.pl/news/432149/mamy-3000-postaci-w-miescie-cyberpunkowa-gra-autorow-the-ascent-zachwyca-rozmachem.html",
+      "publishedAt": "2026-11-04T11:56+01:00",
+      "summary": "Już doniesienia z tegorocznego gamescom zrobiły na nas duże wrażenie, a teraz autorzy No Law chwalą się piękną grafiką, razem z Epic Games.",
       "category": "WIADOMOŚCI"
     },
     {
@@ -105,22 +149,6 @@
       "summary": "Jest też coś dla fanów piłki nożnej.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/vampire-crawlers-1260x709.avif"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "\"Asha Sharma prowadzi firmę w dół\". Mocna krytyka szefowej Xbox",
-      "sourceUrl": "https://www.ppe.pl/news/432135/asha-sharma-prowadzi-firme-w-dol-mocna-krytyka-szefowej-xbox.html",
-      "publishedAt": "2026-11-04T11:16+01:00",
-      "summary": "Od momentu, gdy Asha Sharma objęła stanowisko szefowej dywizji Xbox na początku tego roku, w mediach społecznościowych regularnie pojawiają się zapowiedzi wielkiego powrotu marki i odważnych zmian strategicznych.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Piękny moment na bycie graczem! Nocna premiera Zelda Ocarina of Time Remake ze szczegółami",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432150/piekny-moment-na-bycie-graczem-nocna-premiera-zelda-ocarina-of-time-remake-ze-szczegolami.html",
-      "publishedAt": "2026-11-04T11:14+01:00",
-      "summary": "Już dziś odbędzie się nocna premiera odświeżenia Ocarina of Time.",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -157,33 +185,6 @@
       "summary": "Ubisoft już wcześniej miał do czynienia z Arkane, a teraz podobno jest zainteresowany kupnem studia odpowiedzialnego za serię Dishonored czy Deathloopa.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Arkane-Studios.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Black Friday w PlayStation Store! Prawie 3800 gier PS4 i PS5 z rabatem do -95%!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-w-playstation-store-prawie-3800-gier-ps4-i-ps5-z-rabatem-do-95/",
-      "publishedAt": "2026-11-04T10:00+01:00",
-      "summary": "Wystartowała tegoroczna odsłona wyprzedaży Black Friday w PlayStation Store. Wśród gier, które możecie tym razem kupić taniej, znalazły się m.in. Silent Hill f, Subnautica, Unicorn Overlord, BALL x PIT, czy też Metro: Awakening. To jednak tylko przedsmak tego, co na was czeka. Przy okazji, Sony świętuje 20-lecie Sklepu PlayStation. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-playstation-store-miniaturka-cyfra-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Rockstar potwierdził, kiedy można zacząć pobieranie GTA 6! Dzięki temu szybciej zagracie w dniu premiery",
-      "sourceUrl": "https://cdaction.pl/newsy/rockstar-potwierdzil-kiedy-mozna-zaczac-pobieranie-gta-6-dzieki-temu-szybciej-zagracie-w-dniu-premiery/",
-      "publishedAt": "2026-11-04T09:30+01:00",
-      "summary": "Szykujcie miejsce na konsoli, bo przyda się wam go sporo.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/gta-6-1260x709.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Co pokaże serialowy Warhammer 40,000? Mike Flanagan obiecuje nieoczywistą ekranizację, a Henry Cavill pilnie strzeże tajemnic",
-      "sourceUrl": "https://cdaction.pl/newsy/co-pokaze-serialowy-warhammer-40000-mike-flanagan-obiecuje-nieoczywista-ekranizacje-a-henry-cavill-pilnie-strzeze-tajemnic/",
-      "publishedAt": "2026-11-04T09:16+01:00",
-      "summary": "Miejcie wiarę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/Warhammer.jpg"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
