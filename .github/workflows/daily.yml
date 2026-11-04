@@ -6,6 +6,9 @@ on:
       - '.github/workflows/daily.yml'
       - 'scripts/generate_daily.py'
       - 'data/editorial.json'
+      - 'data/manual-news.json'
+      - 'admin.html'
+      - '.github/workflows/manual-news-delete.yml'
   workflow_dispatch:
   schedule:
     # Co pełną godzinę; GitHub może opóźnić start przy dużym obciążeniu.
