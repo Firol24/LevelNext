@@ -1,30 +1,118 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T16:01+01:00",
+  "updatedAt": "2026-11-04T17:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Football Manager 27 – recenzja gry. Wsłuchani w głos społeczności",
-    "summary": "Po nie najlepszym, choć mającym potencjał i trochę mocnych stron FM26, Sports Interactive chciało pójść za ciosem i stworzyć grę jeszcze bardziej dopasowaną do potrzeb społeczności. Poprzednia odsłona przyniosła duże zmiany w interfejsie...",
-    "sourceUrl": "https://www.ppe.pl/recenzje/432161/football-manager-27-recenzja-gry-wsluchani-w-glos-spolecznosci.html"
+    "title": "Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko",
+    "summary": "Na Divinity od Larian Studios jeszcze trochę poczekamy. Szef firmy, Swen Vincke, ujawnił, że przed zespołem jest jeszcze „sporo pracy”. Informacja Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nowa-gra-tworcow-baldurs-gate-3-opierac-sie-bedzie-na-dwoch-uwiel/za32212",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531504375.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowa-gra-tworcow-baldurs-gate-3-opierac-sie-bedzie-na-dwoch-uwiel/za32212",
+      "publishedAt": "2026-11-04T17:09+01:00",
+      "summary": "Na Divinity od Larian Studios jeszcze trochę poczekamy. Szef firmy, Swen Vincke, ujawnił, że przed zespołem jest jeszcze „sporo pracy”. Informacja Nowa gra twórców Baldur’s Gate 3 opierać się będzie na dwóch uwielbianych fundamentach. Divinity jest jeszcze daleko została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531504375.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Guild Wars otrzyma nowe DLC po ponad 20 latach! Afterlife zadebiutuje w styczniu 2027 roku",
+      "sourceUrl": "https://www.ppe.pl/news/432173/guild-wars-otrzyma-nowe-dlc-po-ponad-20-latach-afterlife-zadebiutuje-w-styczniu-2027-roku.html",
+      "publishedAt": "2026-11-04T17:01+01:00",
+      "summary": "Ponad dwie dekady po premierze pierwszej odsłony serii Guild Wars gra otrzyma zupełnie nowy dodatek. Rozszerzenie zatytułowane Afterlife ukaże się 13 stycznia 2027 roku na PC i urządzeniach mobilnych. Twórcy przygotowali nową historię, nieznany...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Ojciec chrzestny AI” ostrzega przed katastrofą na miarę Czarnobyla. Jego zdaniem może nadejść już w 2027 roku",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ojciec-chrzestny-ai-ostrzega-przed-katastrofa-na-miare-czarnobyla/zd3220f",
+      "publishedAt": "2026-11-04T17:00+01:00",
+      "summary": "Laureat Nagrody Nobla i pionier w dziedzinie badań nad AI, Geoffrey Hinton uważa, że może się okazać, iż ludzkości byłoby lepiej, gdyby nigdy nie opracowała sztucznej inteligencji. Jej rozwój może doprowadzić do katastrofy. Informacja „Ojciec chrzestny AI” ostrzega przed katastrofą na miarę Czarnobyla. Jego zdaniem może nadejść już w 2027 roku została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531497702.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Phantom Blade Zero otrzymało pierwszą aktualizację! Jest zmiana, na którą czekali gracze",
+      "sourceUrl": "https://www.ppe.pl/news/432175/phantom-blade-zero-otrzymalo-pierwsza-aktualizacje-jest-zmiana-na-ktora-czekali-gracze.html",
+      "publishedAt": "2026-11-04T16:46+01:00",
+      "summary": "Phantom Blade Zero otrzymało pierwszą dużą aktualizację na PC i PlayStation 5. Studio S-GAME przygotowało pakiet poprawek, usprawnień technicznych i zmian w rozgrywce.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "CD Projekt RED nie wskaże kanonicznego finału Cyberpunka 2077. To ważna decyzja",
+      "sourceUrl": "https://www.ppe.pl/news/432166/cd-projekt-red-nie-wskaze-kanonicznego-finalu-cyberpunka-2077-to-wazna-decyzja.html",
+      "publishedAt": "2026-11-04T16:31+01:00",
+      "summary": "Cyberpunk: Edgerunners 2 nie będzie wybierać, które zakończenie Cyberpunka 2077 jest tym właściwym. Twórcy znaleźli sposób, żeby uszanować wybory graczy i jednocześnie pokazać konkretną wizję Night City po wydarzeniach z gry.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Cyberpunkowy symulator sklepikarza podbija Steama. Niezależny wydawca zbliża się do miliona sprzedanych kopii",
+      "sourceUrl": "https://cdaction.pl/newsy/cyberpunkowy-symulator-sklepikarza-podbija-steama-niezalezny-wydawca-zbliza-sie-do-miliona-sprzedanych-kopii/",
+      "publishedAt": "2026-11-04T16:30+01:00",
+      "summary": "Piękny wynik, jak na debiut!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-04T130033.273-1260x709.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pamięć Patriot Viper Venom 1x 16GB DDR5 CL30 za 1081,67 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pamiec-patriot-viper-venom-1x-16gb-ddr5-cl30-za-108167-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-04T16:28+01:00",
+      "summary": "Pojedyncza kość RAM Patriot Viper Venom, pojawiła się w znośnej cenie w polskim oddziale sklepu Amazon. Wariant oferujący 16GB pamięci DDR5 o opóźnieniu CL30 i prędkości 6000 MT/s, kosztuje 1081,67 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/patriot-viper-venom-ddr5-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "SanDisk Optimus GX PRO 850P 2TB – szybki SSD do PS5 i PS5 Pro, ale czy wart swojej ceny?",
+      "sourceUrl": "https://www.ppe.pl/recenzje/431619/sandisk-optimus-gx-pro-850p-2tb-szybki-ssd-do-ps5-ale-czy-wart-swojej-ceny.html",
+      "publishedAt": "2026-11-04T16:27+01:00",
+      "summary": "Jeszcze niedawno szybki nośnik o pojemności 2 TB był rozsądnym sposobem na rozbudowę komputera lub konsoli bez wydawania fortuny. Tanio to już jednak było. Czy więc SanDisk Optimus GX PRO 850P 2 TB, model skierowany przede wszystkim do użytkown...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder Stranger Than Heaven na PC dostępny za 167,28 zł (zamiast 299 zł) w Kinguinie",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/preorder-stranger-than-heaven-na-pc-dostepny-za-16728-zl-zamiast-299-zl-w-kinguinie/",
+      "publishedAt": "2026-11-04T16:18+01:00",
+      "summary": "Do premiery Stranger Than Heaven pozostało coraz mniej czasu, choć gra zadebiutuje dopiero 14 stycznia 2027 roku. Jeśli chcecie zaopatrzyć się we wspomnianą produkcję studia Ryu Ga Gotoku taniej, sięgnijcie po ofertę dostępną w Kinguinie. Sklep oferuje pecetowe wydanie za nieco ponad 157 złotych. W porównaniu do wersji bezpośrednio w sklepie Valve, zaoszczędzicie prawie 132 zł. W grze czeka Was obszerna historia rozgrywająca się w pięciu japońskich miastach, na przestrzeni pięciu epok i 50 lat. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Stranger-Than-Heaven-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Mould King Fiat 126p Outdoor Adventure za 49,99 zł w RTV Euro AGD. Zbuduj kultowego Malucha!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/mould-king-fiat-126p-outdoor-adventure-za-4999-zl-w-rtv-euro-agd-zbuduj-kultowego-malucha/",
+      "publishedAt": "2026-11-04T16:03+01:00",
+      "summary": "Niezwykle tani i składający się z 393 elementów zestaw Mould King Fiat 126p Outdoor Adventure, możecie kupić w sklepie RTV Euro AGD. Klocki, z których zbudujecie legendarnego Fiata 126p, zwanego u nas Maluchem, kosztują 49,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/mould-king-fiat-126p-outdoor-adventure-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Uważa się go za jeden z najlepszych seriali ostatnich lat i po 3 latach przerwy powrócił do streamingu. Jest dostępny na nowej platformie w Polsce",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/uwaza-sie-go-za-jeden-z-najlepszych-seriali-ostatnich-lat-i-po-3/z732200",
+      "publishedAt": "2026-11-04T16:02+01:00",
+      "summary": "Wreszcie do streamingu powrócił jeden z najlepszych seriali ostatnich lat. Można już obejrzeć go na nowej platformie streamingowej, która w tym tygodniu wystartowała. Informacja Uważa się go za jeden z najlepszych seriali ostatnich lat i po 3 latach przerwy powrócił do streamingu. Jest dostępny na nowej platformie w Polsce została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531486624.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Football Manager 27 – recenzja gry. Wsłuchani w głos społeczności",
       "sourceUrl": "https://www.ppe.pl/recenzje/432161/football-manager-27-recenzja-gry-wsluchani-w-glos-spolecznosci.html",
       "publishedAt": "2026-11-04T16:00+01:00",
       "summary": "Po nie najlepszym, choć mającym potencjał i trochę mocnych stron FM26, Sports Interactive chciało pójść za ciosem i stworzyć grę jeszcze bardziej dopasowaną do potrzeb społeczności. Poprzednia odsłona przyniosła duże zmiany w interfejsie...",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Lords of The Fallen 2 na długim materiale. CI Games prezentuje przebudowany system walki",
-      "sourceUrl": "https://www.ppe.pl/news/432174/lords-of-the-fallen-2-na-dlugim-materiale-ci-games-prezentuje-przebudowany-system-walki.html",
-      "publishedAt": "2026-11-04T15:55+01:00",
-      "summary": "Chociaż Lords of The Fallen 2 ukaże się dopiero w przyszłym roku, CI Games nie odkłada promocji swojej nowej produkcji na później. Do Sieci właśnie wleciał obszerny materiał z fragmentami rozgrywki.",
       "category": "WIADOMOŚCI"
     },
     {
@@ -55,55 +143,13 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Helldivers-2.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "The Legend of Zelda: Ocarina of Time zachwyca recenzentów! Remake zdobył kosmiczne oceny",
-      "sourceUrl": "https://www.ppe.pl/news/432159/the-legend-of-zelda-ocarina-of-time-zachwyca-recenzentow-remake-zdobyl-kosmiczne-oceny.html",
-      "publishedAt": "2026-11-04T15:42+01:00",
-      "summary": "The Legend of Zelda: Ocarina of Time powraca w wielkim stylu. Recenzje są już dostępne i trudno mówić o rozczarowaniu.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Telewizor Xiaomi TV A Pro 65 cali z rocznika 2026 za 1899 zł (taniej o 600 zł) na Allegro",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/telewizor-xiaomi-tv-a-pro-65-cali-z-rocznika-2026-za-1899-zl-taniej-o-600-zl-na-allegro/",
-      "publishedAt": "2026-11-04T15:38+01:00",
-      "summary": "W oficjalnym sklepie Xiaomi na Allegro możecie obecnie zakupić telewizor Xiaomi TV A Pro 65 2026 za 1899 zł. Model ten wyróżnia się matrycą QLED o częstotliwości odświeżania 60 Hz, obsługującą rozdzielczość 4K. Sprzęt pracuje na systemie Google TV. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Xiaomi-TV-A-Pro-65-2026-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Przenośna dmuchawa do elektroniki Mozos XB1-MAX za 229 zł (61 zł taniej) w x-kom",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/przenosna-dmuchawa-do-elektroniki-mozos-xb1-max-za-229-zl-61-zl-taniej-w-x-kom/",
-      "publishedAt": "2026-11-04T15:34+01:00",
-      "summary": "Gorący Strzał w x-komie to dziś okazja na Mozos XB1-MAX taniej. Dmuchawa do kurzu, sierści czy zabrudzeń, która posiada wymienne końcówki, szczoteczkę oraz bezszczotkowy silnik o mocy 160W, co przekłada się na szybkość 120 000 obr./min, kosztuje 229 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/XB1-MAX-dmuchawa-mozos-1b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Afera wokół Dead by Daylight ma ciąg dalszy. Twórcy ugięli się pod presją",
-      "sourceUrl": "https://www.ppe.pl/news/432165/afera-wokol-dead-by-daylight-ma-ciag-dalszy-tworcy-ugieli-sie-pod-presja.html",
-      "publishedAt": "2026-11-04T15:26+01:00",
-      "summary": "Behavior Interactive ponownie przeprasza społeczność Dead by Daylight. Przez kontrowersyjną decyzję społeczność graczy poczuła się urażona.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na fotele i biurka dla graczy w Media Expert. Ceny rozpoczynają się od 249,95 zł",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-fotele-i-biurka-dla-graczy-w-media-expert-ceny-rozpoczynaja-sie-od-24995-zl/",
-      "publishedAt": "2026-11-04T15:13+01:00",
-      "summary": "W sklepie Media Expert trwają Black Weeks, które pozwolą Wam oszczędzić na zakupie przeróżnego sprzętu. Tym razem na tapet bierzemy meble, mianowicie fotele oraz biurka, które sprawdzą się w pokoju gracza. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/fotele-biurka-gamingowe-black-weeks-media-expert-3b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wiedźmin, Cyberpunk 2077 i Dying Light w jednym miejscu. Takiego pokazu polskich gier jeszcze nie było",
-      "sourceUrl": "https://www.ppe.pl/news/432171/wiedzmin-cyberpunk-2077-i-dying-light-w-jednym-miejscu-takiego-pokazu-polskich-gier-jeszcze-nie-bylo.html",
-      "publishedAt": "2026-11-04T15:08+01:00",
-      "summary": "Wiedźmin, Cyberpunk 2077, Dying Light i Frostpunk przenoszą się do rzeczywistości. 4 listopada w warszawskiej Hali Labo IPK oficjalnie rozpoczął się pokaz „Z Polski do miliona światów”.",
-      "category": "WIADOMOŚCI"
+      "sourceName": "GRY-Online",
+      "title": "Steam nie nadąża ze sprawdzaniem gier. Valve wprowadza nowe zasady",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/steam-nie-nadaza-ze-sprawdzaniem-gier-valve-wprowadza-nowe-zasady/z932211",
+      "publishedAt": "2026-11-04T15:33+01:00",
+      "summary": "Valve przyznało, że przestało się wyrabiać z certyfikowaniem powodzi gier zalewających Steam i wprowadza zmiany, które mają poprawić sytuację. Informacja Steam nie nadąża ze sprawdzaniem gier. Valve wprowadza nowe zasady została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531498817.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -124,33 +170,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Nintendo.jpg"
     },
     {
-      "sourceName": "GRY-Online",
-      "title": "„Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/z-polski-do-miliona-swiatow-w-warszawie-ruszyl-pierwszy-w-polsce/zc3220e",
-      "publishedAt": "2026-11-04T14:55+01:00",
-      "summary": "W warszawskiej Hali Labo można wejść do światów Wiedźmina, Cyberpunka 2077 czy Frostpunka bez kontrolera i ekranu. Wstęp jest bezpłatny. Informacja „Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531496202.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Twórcy WoW Forever nie chcą, żeby wszystkie klasy były równie silne. Blizzard świadomie rezygnuje z idealnego balansu",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-wow-forever-nie-chca-zeby-wszystkie-klasy-byly-rownie-siln/zb3220d",
-      "publishedAt": "2026-11-04T14:40+01:00",
-      "summary": "Blizzard nie będzie na siłę równał potencjał wszystkich klas w WoW Forever. Zamiast tego skupi się na sprawieniu, by każda miała coś do zaoferowania drużynie. Informacja Twórcy WoW Forever nie chcą, żeby wszystkie klasy były równie silne. Blizzard świadomie rezygnuje z idealnego balansu została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531495503.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Opowiadamy się za ludzką kreatywnością”. NexusMods zmienia zasady publikowania modów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/opowiadamy-sie-za-ludzka-kreatywnoscia-nexusmods-zmienia-zasady-p/z83220a",
-      "publishedAt": "2026-11-04T14:35+01:00",
-      "summary": "Serwis NexusMods ogłosił zmianę podejścia do AI. Moderzy będą musieli deklarować, czy dany projekt zbudowano przy użyciu tej technologii, a gracze będą mogli odfiltrowywać modyfikacje powstałe z pomocą sztucznej inteligencji. Informacja „Opowiadamy się za ludzką kreatywnością”. NexusMods zmienia zasady publikowania modów została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531493877.jpg"
-    },
-    {
       "sourceName": "CD-Action",
       "title": "Guild Wars otrzyma nowe DLC 20 lat po premierze! ArenaNet zapowiedziało dodatek Afterlife",
       "sourceUrl": "https://cdaction.pl/newsy/guild-wars-otrzyma-nowe-dlc-20-lat-po-premierze-arenanet-zapowiedzialo-dodatek-afterlife/",
@@ -160,15 +179,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/guild-wars-1-1260x709.jpg"
     },
     {
-      "sourceName": "GRY-Online",
-      "title": "Gracz z Polski traci konto PlayStation, w które zainwestował ponad 10 tysięcy złotych. Sony nie jest w stanie mu pomóc [Aktualizacja: konto odzyskane]",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-z-polski-traci-konto-playstation-w-ktore-zainwestowal-ponad/zc321bd",
-      "publishedAt": "2026-11-04T14:25+01:00",
-      "summary": "Kolejny polski gracz walczył o odzyskanie skradzionego konta PlayStation Network. Mimo licznych dowodów własności i wielu godzin spędzonych na infolinii Sony nie mógł odzyskać dostępu do kolekcji gier wartej kilkanaście tysięcy złotych. Pomoc uzyskał dopiero od jednej życzliwej osoby, jak to sam opisał w najnowszym poście na X. Informacja Gracz z Polski traci konto PlayStation, w które zainwestował ponad 10 tysięcy złotych. Sony nie jest w stanie mu pomóc [Aktualizacja: konto odzyskane] została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531342324.jpg"
-    },
-    {
       "sourceName": "CD-Action",
       "title": "Najwyżej oceniana gra w historii znowu zachwyciła recenzentów. Remake Zeldy: Ocarina of Time zbiera maksymalne noty",
       "sourceUrl": "https://cdaction.pl/newsy/najwyzej-oceniana-gra-w-historii-znowu-zachwycila-recenzentow-remake-zeldy-ocarina-of-time-zbiera-maksymalne-noty/",
@@ -176,15 +186,6 @@
       "summary": "W sieci pojawiły się pierwsze recenzje remake’u The Legend of Zelda: Ocarina of Time. Dziennikarze są zachwyceni.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-4-o-13.29.49-1260x662.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Call of Duty: Modern Warfare 4 ma w sobie ten klasyczny posmak. Czasem prościej znaczy lepiej [RECENZJA]",
-      "sourceUrl": "https://cdaction.pl/recenzje/call-of-duty-modern-warfare-4-ma-w-sobie-ten-klasyczny-posmak-czasem-prosciej-znaczy-lepiej-recenzja/",
-      "publishedAt": "2026-11-04T14:00+01:00",
-      "summary": "Ci, którzy mają dość udziwnień, mogą odetchnąć z ulgą. Od pierwszych spędzonych z Call of Duty: Modern Warfare, czujemy się tu jak w dobrze znanym domu i co najwyżej tylko miejscami widać, że przydałby się niewielki remoncik.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Modern-Warfare-4-1260x709.jpg"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
