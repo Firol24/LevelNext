@@ -1,17 +1,110 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T15:01+01:00",
+  "updatedAt": "2026-11-04T16:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów",
-    "summary": "Po kilkuletniej przerwie na Netfliksa z drugim sezonem wraca przebojowy serial animowany, który jest polecany na Rotten Tomatoes przez 93% widzów. Informacja Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/po-4-latach-powroci-jeden-z-najlepszych-seriali-netflixa-ktory-po/ze321fb",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531484833.jpg"
+    "title": "Football Manager 27 – recenzja gry. Wsłuchani w głos społeczności",
+    "summary": "Po nie najlepszym, choć mającym potencjał i trochę mocnych stron FM26, Sports Interactive chciało pójść za ciosem i stworzyć grę jeszcze bardziej dopasowaną do potrzeb społeczności. Poprzednia odsłona przyniosła duże zmiany w interfejsie...",
+    "sourceUrl": "https://www.ppe.pl/recenzje/432161/football-manager-27-recenzja-gry-wsluchani-w-glos-spolecznosci.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Football Manager 27 – recenzja gry. Wsłuchani w głos społeczności",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432161/football-manager-27-recenzja-gry-wsluchani-w-glos-spolecznosci.html",
+      "publishedAt": "2026-11-04T16:00+01:00",
+      "summary": "Po nie najlepszym, choć mającym potencjał i trochę mocnych stron FM26, Sports Interactive chciało pójść za ciosem i stworzyć grę jeszcze bardziej dopasowaną do potrzeb społeczności. Poprzednia odsłona przyniosła duże zmiany w interfejsie...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Lords of The Fallen 2 na długim materiale. CI Games prezentuje przebudowany system walki",
+      "sourceUrl": "https://www.ppe.pl/news/432174/lords-of-the-fallen-2-na-dlugim-materiale-ci-games-prezentuje-przebudowany-system-walki.html",
+      "publishedAt": "2026-11-04T15:55+01:00",
+      "summary": "Chociaż Lords of The Fallen 2 ukaże się dopiero w przyszłym roku, CI Games nie odkłada promocji swojej nowej produkcji na później. Do Sieci właśnie wleciał obszerny materiał z fragmentami rozgrywki.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gdzie kupić specjalne edycje World of Warcraft: Forever najtaniej? Nowa wersja króla MMORPG!",
+      "sourceUrl": "https://lowcygier.pl/przeglady-ofert/gdzie-kupic-specjalne-edycje-world-of-warcraft-forever-najtaniej-nowa-wersja-krola-mmorpg/",
+      "publishedAt": "2026-11-04T15:53+01:00",
+      "summary": "Premiera World of Warcraft: Forever odbędzie się już lada moment! Kolejna po wersji Classic próba powrotu do samych początków kultowego MMORPG pojawi się na rynku 5 listopada 2026 roku. Jednak w przeciwieństwie do poprzednika, oprócz wiernie odtworzonej zawartości pierwowzoru, tytuł zaoferuje mnóstwo zupełnie nowej zawartości. Dostęp do World of Warcraft: Forever za darmo otrzyma każdy posiadacz aktywnego abonamentu. Jak to jednak bywa w przypadku studia Blizzard, to co najciekawsze ukryte jest za płatnymi pakietami. Najlepsze oferty na tanie dodatki do World of Warcraft: Forever znajdziecie w dalszej części wpisu. Natomiast kompleksowe wyjaś",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Gdzie-kupic-specjalne-edycje-World-of-Warcraft_-Forever-najtaniej_-Nowa-wersja-krola-MMORPG_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Harry Potter Latający Ford Anglia za 39,98 zł (cena kat. 61,99 zł) w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-harry-potter-latajacy-ford-anglia-za-3998-zl-cena-kat-6199-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-04T15:46+01:00",
+      "summary": "Składający się ze 165 elementów zestaw LEGO Harry Potter Latający Ford Anglia możecie obecnie kupić w dobrej cenie w polskim Amazonie. Model pozwala zbudować kultowy samochód Weasleyów znany z filmu Harry Potter i Komnata Tajemnic, a w komplecie znajdziecie również minifigurki Harry’ego i Rona oraz figurki Hedwigi i Parszywka. Set ten kosztuje teraz 39,98 zł, podczas gdy jego cena katalogowa w oficjalnym sklepie LEGO wynosi 61,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/lego-harry-potter-latajacy-ford-anglia-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Fani Helldivers 2 znowu krytykują twórców gry. Tym razem poszło o duży październikowy patch, który wyszedł… wczoraj",
+      "sourceUrl": "https://cdaction.pl/newsy/fani-helldivers-2-znowu-krytykuja-tworcow-gry-tym-razem-poszlo-o-duzy-pazdziernikowy-patch-ktory-wyszedl-wczoraj/",
+      "publishedAt": "2026-11-04T15:45+01:00",
+      "summary": "Fanom Helldivers 2 nie spodobała się odpowiedź twórców gry na zażalenia o kiepską komunikację.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Helldivers-2.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Legend of Zelda: Ocarina of Time zachwyca recenzentów! Remake zdobył kosmiczne oceny",
+      "sourceUrl": "https://www.ppe.pl/news/432159/the-legend-of-zelda-ocarina-of-time-zachwyca-recenzentow-remake-zdobyl-kosmiczne-oceny.html",
+      "publishedAt": "2026-11-04T15:42+01:00",
+      "summary": "The Legend of Zelda: Ocarina of Time powraca w wielkim stylu. Recenzje są już dostępne i trudno mówić o rozczarowaniu.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Telewizor Xiaomi TV A Pro 65 cali z rocznika 2026 za 1899 zł (taniej o 600 zł) na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/telewizor-xiaomi-tv-a-pro-65-cali-z-rocznika-2026-za-1899-zl-taniej-o-600-zl-na-allegro/",
+      "publishedAt": "2026-11-04T15:38+01:00",
+      "summary": "W oficjalnym sklepie Xiaomi na Allegro możecie obecnie zakupić telewizor Xiaomi TV A Pro 65 2026 za 1899 zł. Model ten wyróżnia się matrycą QLED o częstotliwości odświeżania 60 Hz, obsługującą rozdzielczość 4K. Sprzęt pracuje na systemie Google TV. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Xiaomi-TV-A-Pro-65-2026-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Przenośna dmuchawa do elektroniki Mozos XB1-MAX za 229 zł (61 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/przenosna-dmuchawa-do-elektroniki-mozos-xb1-max-za-229-zl-61-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-04T15:34+01:00",
+      "summary": "Gorący Strzał w x-komie to dziś okazja na Mozos XB1-MAX taniej. Dmuchawa do kurzu, sierści czy zabrudzeń, która posiada wymienne końcówki, szczoteczkę oraz bezszczotkowy silnik o mocy 160W, co przekłada się na szybkość 120 000 obr./min, kosztuje 229 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/XB1-MAX-dmuchawa-mozos-1b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Afera wokół Dead by Daylight ma ciąg dalszy. Twórcy ugięli się pod presją",
+      "sourceUrl": "https://www.ppe.pl/news/432165/afera-wokol-dead-by-daylight-ma-ciag-dalszy-tworcy-ugieli-sie-pod-presja.html",
+      "publishedAt": "2026-11-04T15:26+01:00",
+      "summary": "Behavior Interactive ponownie przeprasza społeczność Dead by Daylight. Przez kontrowersyjną decyzję społeczność graczy poczuła się urażona.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na fotele i biurka dla graczy w Media Expert. Ceny rozpoczynają się od 249,95 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-fotele-i-biurka-dla-graczy-w-media-expert-ceny-rozpoczynaja-sie-od-24995-zl/",
+      "publishedAt": "2026-11-04T15:13+01:00",
+      "summary": "W sklepie Media Expert trwają Black Weeks, które pozwolą Wam oszczędzić na zakupie przeróżnego sprzętu. Tym razem na tapet bierzemy meble, mianowicie fotele oraz biurka, które sprawdzą się w pokoju gracza. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/fotele-biurka-gamingowe-black-weeks-media-expert-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin, Cyberpunk 2077 i Dying Light w jednym miejscu. Takiego pokazu polskich gier jeszcze nie było",
+      "sourceUrl": "https://www.ppe.pl/news/432171/wiedzmin-cyberpunk-2077-i-dying-light-w-jednym-miejscu-takiego-pokazu-polskich-gier-jeszcze-nie-bylo.html",
+      "publishedAt": "2026-11-04T15:08+01:00",
+      "summary": "Wiedźmin, Cyberpunk 2077, Dying Light i Frostpunk przenoszą się do rzeczywistości. 4 listopada w warszawskiej Hali Labo IPK oficjalnie rozpoczął się pokaz „Z Polski do miliona światów”.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Po 4 latach powróci jeden z najlepszych seriali Netflixa, który poleca 93% widzów",
@@ -22,6 +115,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531484833.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Nintendo mierzy się z poważnym problemem. Wieloletni partner wycofuje produkcję pamięci do kartridży",
+      "sourceUrl": "https://cdaction.pl/newsy/nintendo-mierzy-sie-z-powaznym-problemem-wieloletni-partner-wycofuje-produkcje-pamieci-do-kartridzy/",
+      "publishedAt": "2026-11-04T15:00+01:00",
+      "summary": "Fizyczne nośniki z grami nie mają ostatnimi czasu lekko.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Nintendo.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "„Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom",
       "sourceUrl": "https://www.gry-online.pl/newsroom/z-polski-do-miliona-swiatow-w-warszawie-ruszyl-pierwszy-w-polsce/zc3220e",
@@ -29,32 +131,6 @@
       "summary": "W warszawskiej Hali Labo można wejść do światów Wiedźmina, Cyberpunka 2077 czy Frostpunka bez kontrolera i ekranu. Wstęp jest bezpłatny. Informacja „Z Polski do miliona światów”. W Warszawie ruszył pierwszy w Polsce immersyjny pokaz poświęcony polskim grom została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531496202.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Zagraj w WendyQuest Legend of the Four Corner Stones za darmo! Sieć fast food wypuszcza na rynek jRPGa",
-      "sourceUrl": "https://lowcygier.pl/darmowe/zagraj-w-wendyquest-legend-of-the-four-corner-stones-za-darmo-siec-fast-food-wypuszcza-na-rynek-jrpga/",
-      "publishedAt": "2026-11-04T14:46+01:00",
-      "summary": "Gry przygotowywane z jakąś marką zwykle kojarzyliśmy z tandetą lub czymś nietuzinkowym. Wyjątkiem zdają się być Pepsiman i I Love You, Colonel Sanders, które wybitnie wybijają się ponad pozostałe produkcje. Szansę ma do nich dołączyć WendyQuest: Legend of the Four Corner Stones, które zostało właśnie udostępnione za darmo na Steam. Jest to utrzymany w pikselowej grafice jRPG, przygotowany bez użycia AI przez studio 81monkeys. Gdybyśmy mieli Wendy’s u siebie, moglibyście skorzystać na jeszcze jednej rzeczy. Zaimplementowano bowiem możliwość zdobycia prawdziwego jedzenia w miarę przechodzenia gry. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/wendyquestminiaturka-cyfra-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Żabka rozdaje 100 zł na PlayStation Store! Jest jeden warunek",
-      "sourceUrl": "https://www.ppe.pl/news/432163/zabka-rozdaje-100-zl-na-playstation-store-jest-jeden-warunek.html",
-      "publishedAt": "2026-11-04T14:45+01:00",
-      "summary": "Gracze PlayStation mogą zgarnąć dodatkowe 100 zł na zakupy w PlayStation Store. Żabka wystartowała z nową promocją!",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Konsola Nintendo Switch 2 za 1789 zł w AliExpress! Wysyłka z Polski",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-za-1789-zl-w-aliexpress-wysylka-z-polski/",
-      "publishedAt": "2026-11-04T14:41+01:00",
-      "summary": "Łowcy, punktualnie o północy rozpocznie się kolejna wyprzedaż w AliExpress. Wraz z promocją pojawią się również nowe kody rabatowe, które podobnie jak w przypadku poprzednich edycji, będą dostępne jednie do wyczerpania mocno ograniczonej puli. Jeśli polujecie na konsolę Nintendo Switch 2, to planowany zakup warto zrealizować tuż po godzinie 00:00. Najnowszy sprzęt od giganta z Kioto dostępny będzie za 1789 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocje-na-Nintendo-Switch-2-w-x-kom.-Konsola-bez-dodatkow-dostepna-za-jedyne-1799-zl_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -93,31 +169,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531342324.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "Sony wydało pilną aktualizację PS4. Hakerzy mogą zepsuć GTA Online",
-      "sourceUrl": "https://www.ppe.pl/news/432158/sony-wydalo-pilna-aktualizacje-ps4-hakerzy-moga-zepsuc-gta-online.html",
-      "publishedAt": "2026-11-04T14:23+01:00",
-      "summary": "",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Titan Quest II Edycja Kolekcjonerska na PC i PS5 za 649,99 zł w Media Expert. Premiera już w styczniu!",
-      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/titan-quest-ii-edycja-kolekcjonerska-na-pc-i-ps5-za-64999-zl-w-media-expert-premiera-juz-w-styczniu/",
-      "publishedAt": "2026-11-04T14:07+01:00",
-      "summary": "Preorder Titan Quest II Edycja Kolekcjonerska, pojawił się w sklepie Media Expert. Hack and slash studia Grimlore Games, który przeniesie was do starożytnej Grecji, gdzie jako dzielny heros staniecie do walki z boginią Nemezis, kosztuje tym wyjątkowym wydaniu 649,99 zł. Cena dotyczy wydania na PC oraz konsole Sony PlayStation 5. W pudełku znajdziecie między innymi statuetkę przedstawiającą wspomniane bóstwo i album z grafikami. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/titan-quest-ii-kolekcjonerska-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Microsoft szykuje ciekawą zmianę dla graczy. Takiej technologii nie ma żaden inny pad Xboxa",
-      "sourceUrl": "https://www.ppe.pl/news/432156/microsoft-szykuje-ciekawa-zmiane-dla-graczy-takiej-technologii-nie-ma-zaden-inny-pad-xboxa.html",
-      "publishedAt": "2026-11-04T14:04+01:00",
-      "summary": "Microsoft przygotował niespodziankę dla osób grających w chmurze. Nowy kontroler Xbox Nano otrzymał funkcję Direct-to-Cloud.",
-      "category": "WIADOMOŚCI"
-    },
-    {
       "sourceName": "CD-Action",
       "title": "Najwyżej oceniana gra w historii znowu zachwyciła recenzentów. Remake Zeldy: Ocarina of Time zbiera maksymalne noty",
       "sourceUrl": "https://cdaction.pl/newsy/najwyzej-oceniana-gra-w-historii-znowu-zachwycila-recenzentow-remake-zeldy-ocarina-of-time-zbiera-maksymalne-noty/",
@@ -134,58 +185,6 @@
       "summary": "Ci, którzy mają dość udziwnień, mogą odetchnąć z ulgą. Od pierwszych spędzonych z Call of Duty: Modern Warfare, czujemy się tu jak w dobrze znanym domu i co najwyżej tylko miejscami widać, że przydałby się niewielki remoncik.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Modern-Warfare-4-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nintendo skręci w cyfrową dystrybucję gier?! Ważny producent rezygnuje ze współpracy",
-      "sourceUrl": "https://www.ppe.pl/news/432157/nintendo-skreci-w-cyfrowa-dystrybucje-gier-wazny-producent-rezygnuje-ze-wspolpracy.html",
-      "publishedAt": "2026-11-04T13:45+01:00",
-      "summary": "Nintendo może stanąć przed kolejnym wyzwaniem związanym z fizycznymi wydaniami gier.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Takiego Xboksa Series X jeszcze nie widzieliście. Microsoft zapowiedział specjalną konsolę inspirowaną GTA 6",
-      "sourceUrl": "https://cdaction.pl/newsy/takiego-xboksa-series-x-jeszcze-nie-widzieliscie-microsoft-zapowiedzial-specjalna-konsole-inspirowana-gta-6/",
-      "publishedAt": "2026-11-04T13:30+01:00",
-      "summary": "Xbox Series X-Bite idealnie pasowałby do salonu niejednego amerykańskiego „rednecka”, ale powstał tylko jeden egzemplarz, który można wygrać w specjalnym konkursie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-4-o-10.13.18-1260x662.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 ocenzurowane także po premierze! Rockstar może zablokować każdy film na YouTube",
-      "sourceUrl": "https://www.ppe.pl/news/432155/gta-6-ocenzurowane-takze-po-premierze-rockstar-moze-zablokowac-kazdy-film-na-youtube.html",
-      "publishedAt": "2026-11-04T13:25+01:00",
-      "summary": "Rockstar Games może nie pozwolić graczom na swobodne publikowanie spoilerów z GTA 6 nawet po premierze.",
-      "category": "WIADOMOŚCI"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Odbierz Letter Quest Grimm’s Journey Remastered za darmo w Fanatical. Wystarczy być zapisanym do newslettera",
-      "sourceUrl": "https://lowcygier.pl/darmowe/odbierz-letter-quest-grimms-journey-remastered-za-darmo-w-fanatical-wystarczy-byc-zapisanym-do-newslettera/",
-      "publishedAt": "2026-11-04T13:20+01:00",
-      "summary": "Kolejna okazja na przypisanie sobie do konta Steam nowej gry bez dodatkowych kosztów, pojawiła się w sklepie internetowym Fanatical. Mowa o Letter Quest: Grimm’s Journey za darmo, które jest połączeniem gry w Scrabble z gatunkiem RPG. Produkcję stworzyło niezależne studio Bacon Bandit Games. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/letter-quest-remastered-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Twórcy Pieśni przeszłości opowiadają o procesie tworzenia fabuły najnowszego dodatku do Wiedźmina 3. „Nie próbujemy niczego nadpisywać”",
-      "sourceUrl": "https://cdaction.pl/newsy/tworcy-piesni-przeszlosci-opowiadaja-o-procesie-tworzenia-fabuly-najnowszego-dodatku-do-wiedzmina-3-nie-probujemy-niczego-nadpisywac/",
-      "publishedAt": "2026-11-04T12:45+01:00",
-      "summary": "Devowie pochylają się też nad wyjątkową odmianą fikcyjnego browarnictwa.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/piesni-przeszlosci-wiedzmin-3-1260x709.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Preordery The Legend of Zelda Ocarina of Time dostępne w polskich sklepach. Nowa Zelda pozamiatała!",
-      "sourceUrl": "https://lowcygier.pl/przeglady-ofert/preordery-the-legend-of-zelda-ocarina-of-time-dostepne-w-polskich-sklepach-nowa-zelda-pozamiatala/",
-      "publishedAt": "2026-11-04T12:31+01:00",
-      "summary": "Nintendo nie boi się GTA VI! Premiera The Legend of Zelda: Ocarina of Time na Switcha 2 została zaplanowana na 5 listopada 2026 r. Remake kultowej odsłony przygód Linka, wydanej pierwotnie w 1998 r. na Nintendo 64, dostępny jest już w przedsprzedaży w polskich sklepach. Cena fizycznego wydania ustalona została na poziomie około 268 zł. Gra zostanie wydana na standardowym kartridżu, a do tego gracze z kraju nad Wisłą będą mieli jeszcze jeden duży powód do radości. W The Legend of Zelda Ocarina of Time zagramy po polsku! Jeśli zastanawiacie się, gdzie dorwać japońską produkcję w pudełku najtaniej, służymy pomocą! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/The-Legend-of-Zelda-Ocarina-of-Time-logo-1-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online / Publicystyka",
