@@ -1,17 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T20:01+01:00",
+  "updatedAt": "2026-11-04T21:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nowa promocja w Żabce uczyni zakup GTA 6 mniej bolesnym. Gracze PlayStation 5 dostaną 100 złotych ekstra",
-    "summary": "Żabka wystartowała z promocją, która może szczególnie zainteresować graczy planujących zakup GTA 6. Informacja Nowa promocja w Żabce uczyni zakup GTA 6 mniej bolesnym. Gracze PlayStation 5 dostaną 100 złotych ekstra została opublikowana przez GRYOnline.pl 4 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nowa-promocja-w-zabce-uczyni-zakup-gta-6-mniej-bolesnym-gracze-pl/zf32217",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531517562.jpg"
+    "title": "Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel's Blade w oparciu o „bezlitosną i nieludzką logikę”",
+    "summary": "Pracownicy Arkane Lyon nie kryją oburzenia działaniami Microsoftu. Ich zdaniem gigant z Redmond sam doprowadził do problemów studia, a teraz wykorzystuje je jako pretekst do jego zamknięcia. Informacja Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel&apos;s Blade w oparciu o „bezlitosną i nieludzką logikę” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-dishonored-oskarzaja-microsoft-o-sabotaz-marvels-blade-w-o/z132219",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531519706.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel's Blade w oparciu o „bezlitosną i nieludzką logikę”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-dishonored-oskarzaja-microsoft-o-sabotaz-marvels-blade-w-o/z132219",
+      "publishedAt": "2026-11-04T21:30+01:00",
+      "summary": "Pracownicy Arkane Lyon nie kryją oburzenia działaniami Microsoftu. Ich zdaniem gigant z Redmond sam doprowadził do problemów studia, a teraz wykorzystuje je jako pretekst do jego zamknięcia. Informacja Twórcy Dishonored oskarżają Microsoft o sabotaż Marvel&apos;s Blade w oparciu o „bezlitosną i nieludzką logikę” została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531519706.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 2 dni Cyberpunk 2077 dostanie coś, z czego zasłynęły GTA 5 i San Andreas. Światło dzienne ujrzy wielki fanowski projekt",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-2-dni-cyberpunk-2077-dostanie-cos-z-czego-zaslynely-gta-5-i-sa/z032218",
+      "publishedAt": "2026-11-04T21:10+01:00",
+      "summary": "Zabawa z innymi graczami w Cyberpunku 2077 niedługo stanie się możliwa. Poznaliśmy datę premiery modyfikacji Open 77, za którą odpowiada zespół fanów produkcji CD Projekt Red. Informacja Za 2 dni Cyberpunk 2077 dostanie coś, z czego zasłynęły GTA 5 i San Andreas. Światło dzienne ujrzy wielki fanowski projekt została opublikowana przez GRYOnline.pl 4 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531518900.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "„Pionek” - wywiad z Weroniką Książkiewicz. \"Będąc w 9 miesiącu ciąży, widziałam w lustrze to samo, co Dagmara\"",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432162/pionek-wywiad-z-weronika-ksiazkiewicz-bedac-w-9-miesiacu-ciazy-widzialam-w-lustrze-to-samo-co-dagmara.html",
+      "publishedAt": "2026-11-04T21:00+01:00",
+      "summary": "„Pionek” to polski serial kryminalny będący kontynuacją „Ślebody”, który przenosi widzów na Górny Śląsk. Fabuła rozpoczyna się od brutalnego morderstwa studentki architektury, a sposób działania sprawcy przypomina zbrodnie Normana P...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nowa promocja w Żabce uczyni zakup GTA 6 mniej bolesnym. Gracze PlayStation 5 dostaną 100 złotych ekstra",
@@ -22,6 +48,23 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531517562.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Dynamiczne ceny na promocji Black Friday na PlayStation Store. Gracze mają różne oferty za te same gry",
+      "sourceUrl": "https://www.ppe.pl/news/432194/dynamiczne-ceny-na-promocji-black-friday-na-playstation-store-gracze-maja-rozne-oferty-za-te-same-gry.html",
+      "publishedAt": "2026-11-04T20:43+01:00",
+      "summary": "Sony rozpoczęło wielką wyprzedaż Black Friday na PlayStation Store, ale okazuje się, że nie wszyscy gracze mogą liczyć na takie same promocje. W sieci pojawiają się kolejne doniesienia dotyczące dynamicznego ustalania cen, przez które identy...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nadchodzą zmiany w Humble Choice. Definitywny koniec planu Classic i nowa data płatności!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/nadchodza-zmiany-w-humble-choice-definitywny-koniec-planu-classic-i-nowa-data-platnosci/",
+      "publishedAt": "2026-11-04T20:40+01:00",
+      "summary": "Łowcy, pamiętacie jeszcze jak subskrypcja zmieniła swoją formułę, przeistaczając się w Humble Choice? Wtedy to aktywni abonenci otrzymali dostęp do planu Classic rozliczanego w dolarach. Niestety wariant ten był przez większość czasu niekorzystny ze względu na kurs walutowy w stosunku do kwoty w euro. Jeśli jednak z jakiegoś powodu pozostawaliście przy starym rozliczeniu, to już we wrześniu 2026 roku pierwsze osoby (w tym również ja!) zgłaszały, że ich subskrypcja Month-to-Month Classic Plan za $14.99 została zmieniona na standardowy Humble Choice za €12.99! Najnowszy e-mail od przedstawicieli HB wyjaśnia całą sytuacją, informując użytkownikó",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nadchodza-zmiany-w-Humble-Choice.-Definitywny-koniec-planu-Classic-i-nowa-data-platnosci_minaturka-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Dane mówią jasno, nowe RPG akcji podbija cały świat, nie tylko Chiny. Phantom Blade Zero dostało pierwszą aktualizacją",
       "sourceUrl": "https://www.gry-online.pl/newsroom/dane-mowia-jasno-nowe-rpg-akcji-podbija-caly-swiat-nie-tylko-chin/ze32216",
@@ -29,6 +72,22 @@
       "summary": "Phantom Blade Zero zyskało popularność nie tylko w Chinach, ale i na całym świecie. Analityk pokazał, jak zachodni świat masowo zainteresował się grą po opublikowaniu pozytywnych recenzji. Informacja Dane mówią jasno, nowe RPG akcji podbija cały świat, nie tylko Chiny. Phantom Blade Zero dostało pierwszą aktualizacją została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531516267.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy Resident Evil zarobił 400 milionów dolarów. Kiedy film trafi do streamingu?",
+      "sourceUrl": "https://www.ppe.pl/news/432187/nowy-resident-evil-zarobil-400-milionow-dolarow-kiedy-film-trafi-do-streamingu.html",
+      "publishedAt": "2026-11-04T20:25+01:00",
+      "summary": "Najnowsza ekranizacja Resident Evil w reżyserii Zacha Creggera osiągnęła kolejny ważny wynik finansowy.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "God of War: Ragnarok sprzedał się w dziesiątkach milionów egzemplarzy. Sony ma kolejny wielki hit",
+      "sourceUrl": "https://www.ppe.pl/news/432178/god-of-war-ragnarok-sprzedal-sie-w-dziesiatkach-milionow-egzemplarzy-sony-ma-kolejny-wielki-hit.html",
+      "publishedAt": "2026-11-04T20:02+01:00",
+      "summary": "God of War Ragnarok wciąż cieszy się ogromnym zainteresowaniem graczy. Według szacunków firmy Alinea Analytics sprzedaż gry osiągnęła już 21,6 mln egzemplarzy. Produkcja Santa Monica Studio pozostaje jednym z największych hitów PlayStation o...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
