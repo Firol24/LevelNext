@@ -170,7 +170,7 @@ def main():
                 continue
             for old_item in archived_issue.get("news", []):
                 old_url = (old_item.get("sourceUrl") or "").strip().rstrip("/")
-                old_title = re.sub(r"\\s+", " ", (old_item.get("title") or "").casefold()).strip()
+                old_title = re.sub(r"\s+", " ", (old_item.get("title") or "").casefold()).strip()
                 if old_url:
                     previous_urls.add(old_url)
                 if old_title:
@@ -182,7 +182,7 @@ def main():
             source_items = []
             for item in fetch_feed(name, url):
                 item_url = (item.get("sourceUrl") or "").strip().rstrip("/")
-                item_title = re.sub(r"\\s+", " ", (item.get("title") or "").casefold()).strip()
+                item_title = re.sub(r"\s+", " ", (item.get("title") or "").casefold()).strip()
                 if item_url in previous_urls or item_title in previous_titles:
                     continue
                 if item_url and item_url not in seen:
@@ -194,8 +194,8 @@ def main():
         except Exception as error:
             print(f"RSS warning ({name}): {error}", file=sys.stderr)
 
-    if not articles_by_source:
-        raise RuntimeError("Nie udało się pobrać żadnego materiału RSS. Nie publikuję pustego wydania.")
+    if not articles_by_source and not (same_day_update and current_issue.get("news")):
+        raise RuntimeError("Nie udało się pobrać żadnego nowego materiału RSS. Nie publikuję pustego wydania.")
 
     # Rotacja źródeł: pokazujemy więcej materiałów, ale pilnujemy różnorodności.
     # Liczba newsów jest dynamiczna: zależy od tego, ile pozycji zwrócą RSS-y.
@@ -217,7 +217,7 @@ def main():
         merged_news, merged_urls, merged_titles = [], set(), set()
         for item in combined_news:
             item_url = (item.get("sourceUrl") or "").strip().rstrip("/")
-            item_title = re.sub(r"\\s+", " ", (item.get("title") or "").casefold()).strip()
+            item_title = re.sub(r"\s+", " ", (item.get("title") or "").casefold()).strip()
             if (item_url and item_url in merged_urls) or (item_title and item_title in merged_titles):
                 continue
             if item_url:
