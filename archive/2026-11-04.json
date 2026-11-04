@@ -1,16 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T22:01+01:00",
+  "updatedAt": "2026-11-04T23:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "The Last of Us Part II Remastered z nową i darmową zawartością! Gracze są pewni: TO ZNAK!",
-    "summary": "Naughty Dog ponownie zaskoczyło graczy, udostępniając darmową aktualizację do The Last of Us Part II Remastered. Twórcy przygotowali niespodziankę, która powinna szczególnie zainteresować fanów Uncharted.",
-    "sourceUrl": "https://www.ppe.pl/news/432186/the-last-of-us-part-ii-remastered-z-nowa-i-darmowa-zawartoscia-gracze-sa-pewni-to-znak.html"
+    "category": "PROMOCJE",
+    "title": "Wyprzedaż figurek Bandai w RTV Euro AGD. Modele do składania Gundam od 99,99 zł!",
+    "summary": "W internetowym sklepie RTV Euro AGD wystartowała kolejna odsłona promocji na modele do składania Bandai. W ramach wyprzedaży w niższych cenach zakupicie figurki z serii Mobile Suit Gundam. Najtańsze warianty kolekcjonerskie dla fanów Gunpla mogą być Wasza już od 99,99 zł! Swojej przeceny doczekały się także największe modele w skali 1:60, oferowane za 879 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-figurek-bandai-w-rtv-euro-agd-modele-do-skladania-gundam-od-9999-zl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Wielka-Wyprzedaz-modeli-do-skladania-Bandai-w-RTV-Euro-AGD.-Figurki-Gundam-juz-od-4499-zl_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż figurek Bandai w RTV Euro AGD. Modele do składania Gundam od 99,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-figurek-bandai-w-rtv-euro-agd-modele-do-skladania-gundam-od-9999-zl/",
+      "publishedAt": "2026-11-04T22:45+01:00",
+      "summary": "W internetowym sklepie RTV Euro AGD wystartowała kolejna odsłona promocji na modele do składania Bandai. W ramach wyprzedaży w niższych cenach zakupicie figurki z serii Mobile Suit Gundam. Najtańsze warianty kolekcjonerskie dla fanów Gunpla mogą być Wasza już od 99,99 zł! Swojej przeceny doczekały się także największe modele w skali 1:60, oferowane za 879 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Wielka-Wyprzedaz-modeli-do-skladania-Bandai-w-RTV-Euro-AGD.-Figurki-Gundam-juz-od-4499-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nicolas Cage w kontynuacji Pana życia i śmierci. Lords of War na pierwszym zwiastunie",
+      "sourceUrl": "https://www.ppe.pl/news/432184/nicolas-cage-w-kontynuacji-pana-zycia-i-smierci-lords-of-war-na-pierwszym-zwiastunie.html",
+      "publishedAt": "2026-11-04T22:41+01:00",
+      "summary": "Nicolas Cage powraca do jednej ze swoich najbardziej charakterystycznych ról. Ponad 20 lat po premierze „Pana życia i śmierci” aktor ponownie wcieli się w bezwzględnego handlarza bronią, który przez lata budował swoje imperium na międzynaro...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Środowe podsumowanie wyprzedaży w Nintendo eShop. NINJA GAIDEN: Ragebound już za 57 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/srodowe-podsumowanie-wyprzedazy-w-nintendo-eshop-ninja-gaiden-ragebound-juz-za-57-zl/",
+      "publishedAt": "2026-11-04T22:12+01:00",
+      "summary": "Łowcy, przygotowaliśmy dla Was mini-zestawienie podsumowujące ostatnie wyprzedaże jakie pojawiły się w cyfrowym sklepie Nintendo eShop. W dalszej części znajdziecie 100 najciekawszych ofert na tanie gry Nintendo Switch 2. Na szczególną uwagę zasługuje tutaj NINJA GAIDEN: Ragebound w historycznie najniższej cenie. Produkcja w wersji na popularnego „Pstryczka” może być Wasza za nieco ponad 57 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Srodowe-podsumowanie-wyprzedazy-w-Nintendo-eShop.-NINJA-GAIDEN_-Ragebound-juz-za-57-zl_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "The Last of Us Part II Remastered z nową i darmową zawartością! Gracze są pewni: TO ZNAK!",
