@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T17:49+01:00",
+  "updatedAt": "2026-11-04T18:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -29,6 +29,22 @@
       "summary": "Użytkownicy pecetów wciąż czekają na informacje dotyczące GTA 6, a najnowszy ruch Rockstar Games dał im kolejny powód do spekulacji. Aktualizacja launchera spotęgowała dyskusję o możliwej premierze gry na komputerach osobistych w przyszłym roku. Informacja Rockstar może szykować się do premiery GTA 6 na PC. Gracze nabierają pewności, że opóźnienie względem konsol nie będzie duże [Aktualizacja] została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531425212.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Koszmar Nintendo dopiero się zaczyna! Wielki HIT dostępny za darmo",
+      "sourceUrl": "https://www.ppe.pl/news/432176/koszmar-nintendo-dopiero-sie-zaczyna-wielki-hit-dostepny-za-darmo.html",
+      "publishedAt": "2026-11-04T18:01+01:00",
+      "summary": "Super Mario Odyssey można już ograć na PC w 60 FPS. I to natywnie, bez emulatora. Nowy projekt naprawdę robi wrażenie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To dlatego ikona Tekkena opuściła Bandai Namco. Katsuhiro Harada ujawnia kulisy powstania VS Studio",
+      "sourceUrl": "https://www.ppe.pl/news/432177/to-dlatego-ikona-tekkena-opuscila-bandai-namco-katsuhiro-harada-ujawnia-kulisy-powstania-vs-studio.html",
+      "publishedAt": "2026-11-04T17:50+01:00",
+      "summary": "Nie tak dawno temu kultowy w świecie bijatyk Katsuhiro Harada zaskoczył ogłaszając odejście z szeregów Bandai Namco Entertainment na rzecz powołania do życia nowej firmy. Teraz wreszcie wszystko jest jasne.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "CD-Action",
@@ -82,14 +98,6 @@
       "category": "WIADOMOŚCI"
     },
     {
-      "sourceName": "PPE",
-      "title": "Guild Wars otrzyma nowe DLC po ponad 20 latach! Afterlife zadebiutuje w styczniu 2027 roku",
-      "sourceUrl": "https://www.ppe.pl/news/432173/guild-wars-otrzyma-nowe-dlc-po-ponad-20-latach-afterlife-zadebiutuje-w-styczniu-2027-roku.html",
-      "publishedAt": "2026-11-04T17:01+01:00",
-      "summary": "Ponad dwie dekady po premierze pierwszej odsłony serii Guild Wars gra otrzyma zupełnie nowy dodatek. Rozszerzenie zatytułowane Afterlife ukaże się 13 stycznia 2027 roku na PC i urządzeniach mobilnych. Twórcy przygotowali nową historię, nieznany...",
-      "category": "WIADOMOŚCI"
-    },
-    {
       "sourceName": "GRY-Online",
       "title": "„Ojciec chrzestny AI” ostrzega przed katastrofą na miarę Czarnobyla. Jego zdaniem może nadejść już w 2027 roku",
       "sourceUrl": "https://www.gry-online.pl/newsroom/ojciec-chrzestny-ai-ostrzega-przed-katastrofa-na-miare-czarnobyla/zd3220f",
@@ -97,14 +105,6 @@
       "summary": "Laureat Nagrody Nobla i pionier w dziedzinie badań nad AI, Geoffrey Hinton uważa, że może się okazać, iż ludzkości byłoby lepiej, gdyby nigdy nie opracowała sztucznej inteligencji. Jej rozwój może doprowadzić do katastrofy. Informacja „Ojciec chrzestny AI” ostrzega przed katastrofą na miarę Czarnobyla. Jego zdaniem może nadejść już w 2027 roku została opublikowana przez GRYOnline.pl 4 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531497702.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Phantom Blade Zero otrzymało pierwszą aktualizację! Jest zmiana, na którą czekali gracze",
-      "sourceUrl": "https://www.ppe.pl/news/432175/phantom-blade-zero-otrzymalo-pierwsza-aktualizacje-jest-zmiana-na-ktora-czekali-gracze.html",
-      "publishedAt": "2026-11-04T16:46+01:00",
-      "summary": "Phantom Blade Zero otrzymało pierwszą dużą aktualizację na PC i PlayStation 5. Studio S-GAME przygotowało pakiet poprawek, usprawnień technicznych i zmian w rozgrywce.",
-      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "CD-Action",
