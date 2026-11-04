@@ -68,14 +68,6 @@
       "sourceUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/"
     },
     {
-      "date": "2026-11-10",
-      "title": "Nocturnal 2",
-      "platform": "PC (Steam)",
-      "status": "confirmed",
-      "note": "Mroczna, ręcznie rysowana metroidvania w mieście Ytash; płonący miecz, połączone dzielnice i odkrywanie ukrytych przejść.",
-      "sourceUrl": "https://store.steampowered.com/app/2847780/"
-    },
-    {
       "date": "2026-11-12",
       "title": "Metaphor: ReFantazio",
       "platform": "Nintendo Switch 2",
@@ -114,6 +106,14 @@
       "status": "confirmed",
       "note": "THQ Nordic przenosi klasyczne RPG Piranha Bytes na współczesne konsole; wersja na Switch 2 również jest zapowiedziana.",
       "sourceUrl": "https://thqnordic.com/news/time-for-some-classics-the-original-gothic-trilogy-is-coming-to-play-station-and-xbox-series-s-x"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
+      "platform": "Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Nintendo umieściło wydanie Switch 2 Edition w oficjalnym kalendarzu na 3 grudnia.",
+      "sourceUrl": "https://www.nintendo.no/spill/kommende-spill"
     }
   ],
   "cinema": [
