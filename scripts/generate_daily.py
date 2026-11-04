@@ -213,7 +213,16 @@ def main():
     # Podczas aktualizacji dzisiejszego numeru zachowaj jego dotychczasowe newsy,
     # a nowe dopisz bez powielania po linku lub znormalizowanym tytule.
     if same_day_update:
-        combined_news = list(current_issue.get("news", [])) + news
+        # Odfiltruj również starsze pozycje, które zdążyły trafić do dzisiejszego
+        # wydania przed wdrożeniem mechanizmu antyduplikacyjnego.
+        current_news = []
+        for item in current_issue.get("news", []):
+            item_url = (item.get("sourceUrl") or "").strip().rstrip("/")
+            item_title = re.sub(r"\s+", " ", (item.get("title") or "").casefold()).strip()
+            if item_url in previous_urls or item_title in previous_titles:
+                continue
+            current_news.append(item)
+        combined_news = current_news + news
         merged_news, merged_urls, merged_titles = [], set(), set()
         for item in combined_news:
             item_url = (item.get("sourceUrl") or "").strip().rstrip("/")
@@ -226,6 +235,9 @@ def main():
                 merged_titles.add(item_title)
             merged_news.append(item)
         news = merged_news
+
+    if not news:
+        raise RuntimeError("Brak nowych materiałów po odfiltrowaniu powtórek. Nie publikuję pustego wydania.")
 
     news.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
     lead_item = news[0]
