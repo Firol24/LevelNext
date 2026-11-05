@@ -1,17 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T12:01+01:00",
+  "updatedAt": "2026-11-05T12:50+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Kolejki na nocnej premierze nowej Zeldy w Polsce. Polacy mówią o „najmocniejszym Nintendo od czasów Pegasusa”",
-    "summary": "Remake The Legend of Zelda: Ocarina of Time zadebiutował 5 listopada na Nintendo Switch 2. W Polsce gra przyciągnęła fanów na nocne premiery. Informacja Kolejki na nocnej premierze nowej Zeldy w Polsce. Polacy mówią o „najmocniejszym Nintendo od czasów Pegasusa” została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/kolejki-na-nocnej-premierze-nowej-zeldy-w-polsce-polacy-mowia-o-n/za32230",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531575267.jpg"
+    "title": "3 nowe gry od twórców Frostpunka trafią do Game Passa. Wśród potencjalnych kandydatów remake pierwszej części",
+    "summary": "W przyszłym roku trzy kolejne gry polskiego 11 bit studios trafią do oferty abonamentu Game Pass. Informacja 3 nowe gry od twórców Frostpunka trafią do Game Passa. Wśród potencjalnych kandydatów remake pierwszej części została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/3-nowe-gry-od-tworcow-frostpunka-trafia-do-game-passa-wsrod-poten/z032236",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531578263.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "3 nowe gry od twórców Frostpunka trafią do Game Passa. Wśród potencjalnych kandydatów remake pierwszej części",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/3-nowe-gry-od-tworcow-frostpunka-trafia-do-game-passa-wsrod-poten/z032236",
+      "publishedAt": "2026-11-05T13:37+01:00",
+      "summary": "W przyszłym roku trzy kolejne gry polskiego 11 bit studios trafią do oferty abonamentu Game Pass. Informacja 3 nowe gry od twórców Frostpunka trafią do Game Passa. Wśród potencjalnych kandydatów remake pierwszej części została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531578263.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Euro Truck Simulator 2 ma już 14 lat, ale wciąż pięknieje. Aktualizacja 1.62 przynosi graficzne odświeżenie [Aktualizacja]",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ets2-dostal-graficzny-lifting-ruszyly-testy-aktualizacji-162-kult/z232076",
+      "publishedAt": "2026-11-05T13:35+01:00",
+      "summary": "Aktualizacja 1.62 do Euro Truck Simulator 2 wyszła z bety i jest już dostępna w podstawowej wersji gry. Informacja Euro Truck Simulator 2 ma już 14 lat, ale wciąż pięknieje. Aktualizacja 1.62 przynosi graficzne odświeżenie [Aktualizacja] została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/530376608.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórca EtF pokazał 14 minut nowej gry. Chce, by grano w nią przez dekadę, ale najpierw przejdzie płatne testy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworca-etf-pokazal-14-minut-nowej-gry-chce-by-grano-w-nia-przez-d/ze32234",
+      "publishedAt": "2026-11-05T13:17+01:00",
+      "summary": "Udostępniono 14-minutowy materiał z rozgrywki nowej gry twórcy Escape from Tarkov. Jeszcze w tym roku wystartują jej zamknięte testy alfa. Informacja Twórca EtF pokazał 14 minut nowej gry. Chce, by grano w nią przez dekadę, ale najpierw przejdzie płatne testy została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531577002.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Marvel's Wolverine to sukces czy porażka PlayStation? Wziąłem kalkulator i sprawdziłem, ile naprawdę znaczy jego sprzedaż",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wolverine-sprzedal-24-mln-kopii-wzialem-kalkulator-i-sprawdzilem/zc3222c",
+      "publishedAt": "2026-11-05T13:00+01:00",
+      "summary": "Pod naszym newsem o sprzedaży Marvel’s Wolverine od razu poszła dyskusja: 2,4 miliona w 50 dni to dużo czy mało? Zamiast dyskutować, postanowiłem to policzyć. Wziąłem kalkulator, budżet z wycieku Insomniac i wyniki poprzednich gier studia. Bez emocji - same liczby. Informacja Marvel&apos;s Wolverine to sukces czy porażka PlayStation? Wziąłem kalkulator i sprawdziłem, ile naprawdę znaczy jego sprzedaż została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531574727.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "AI zabiera graczom nawet fizyczne wydania gier. Kluczowy dostawca Nintendo Switch porzuca kartridże na rzecz centrów danych",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ai-zabiera-graczom-nawet-fizyczne-wydania-gier-kluczowy-dostawca/zb32231",
+      "publishedAt": "2026-11-05T13:00+01:00",
+      "summary": "Jeden z producentów układów pamięci do kartridży dla Nintendo rezygnuje z ich produkcji i przestawia się na układy dla sztucznej inteligencji. Informacja AI zabiera graczom nawet fizyczne wydania gier. Kluczowy dostawca Nintendo Switch porzuca kartridże na rzecz centrów danych została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531575399.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Kolejki na nocnej premierze nowej Zeldy w Polsce. Polacy mówią o „najmocniejszym Nintendo od czasów Pegasusa”",
@@ -32,6 +77,66 @@
     },
     {
       "sourceName": "Łowcy Gier",
+      "title": "Fire Emblem Fortune’s Weave na Nintendo Switch 2 za 275,51 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/fire-emblem-fortunes-weave-na-nintendo-switch-2-za-27551-zl-na-allegro/",
+      "publishedAt": "2026-11-05T12:40+01:00",
+      "summary": "Świetny, taktyczny RPG ekskluzywny dla Nintendo Switch 2, czyli Fire Emblem: Fortune’s Weave, pojawił się w serwisie Allegro w dobrej cenie. Produkcja, w której poznacie historię czterech głównych bohaterów, Caia, Ledy, Theodory i Dietricha oraz ich towarzyszy, kosztuje 275,51 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Preorder-Fire-Emblem_-Fortunes-Weave-w-Perfect-Blue.-Pudelko-na-Nintendo-Switch-2-za-27999-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola Nintendo Switch 2 za 1789 zł w AliExpress! Wysyłka z Polski",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-za-1789-zl-w-aliexpress-wysylka-z-polski/",
+      "publishedAt": "2026-11-05T12:35+01:00",
+      "summary": "Łowcy, punktualnie o północy rozpocznie się kolejna wyprzedaż w AliExpress. Wraz z promocją pojawią się również nowe kody rabatowe, które podobnie jak w przypadku poprzednich edycji, będą dostępne jednie do wyczerpania mocno ograniczonej puli. Jeśli polujecie na konsolę Nintendo Switch 2, to planowany zakup warto zrealizować tuż po godzinie 00:00. Najnowszy sprzęt od giganta z Kioto dostępny będzie za 1789 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocje-na-Nintendo-Switch-2-w-x-kom.-Konsola-bez-dodatkow-dostepna-za-jedyne-1799-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Bethesda już teraz monetyzuje TES VI Sentinel. Xbox to rekiny biznesu",
+      "sourceUrl": "https://www.ppe.pl/news/432271/bethesda-juz-teraz-monetyzuje-tes-vi-sentinel-xbox-to-rekiny-biznesu.html",
+      "publishedAt": "2026-11-05T12:34+01:00",
+      "summary": "Firma Bethesda po raz kolejny udowadnia, że ma niezwykły zmysł do robienia biznesu w najbardziej niespodziewanych momentach.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nexus Mods przedstawia nową politykę wobec modów stworzonych przy użyciu AI. Zasady będą bardziej rygorystyczne",
+      "sourceUrl": "https://cdaction.pl/newsy/nexus-mods-przedstawia-nowa-polityke-wobec-modow-stworzonych-przy-uzyciu-ai-zasady-beda-bardziej-rygorystyczne/",
+      "publishedAt": "2026-11-05T12:30+01:00",
+      "summary": "Oznaczanie, filtry i pełna przejrzystość.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/nexus-mods.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ostatnie godziny na odbiór Sorry We’re Closed za darmo w Epic Games Store! Neonowy survival horror rodem z PSXa",
+      "sourceUrl": "https://lowcygier.pl/darmowe/ostatnie-godziny-na-odbior-sorry-were-closed-za-darmo-w-epic-games-store-neonowy-survival-horror-rodem-z-psxa/",
+      "publishedAt": "2026-11-05T12:26+01:00",
+      "summary": "Zgodnie ze wcześniejszą zapowiedzią, właśnie do Waszych rąk oddano możliwość przypisania Sorry We’re Closed za darmo w sklepie Epic Games. Jeśli nie wiecie, czym jest wspomniana gra, to indie survival horror z surrealistyczną fabułą o aniołach, demonach i tym co między nimi. Wcielicie się w Michelle, na której ciąży klątwa. Próbując ją rozwiązać, użyjecie swoich umiejętności i Trzeciego Oka, dzięki któremu dostrzeżecie więcej. Wszystko to okraszone neonową i wyzywającą stylistyką, w grafice rodem z pierwszego PlayStation. Zablokowana kamera w cenie! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Abstrakcyjny-survival-horror-za-darmo-Sorry-Were-Closed-od-odebrania-w-Epic-Games_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Listopad pełen atrakcji. Najważniejsze nowości od premiery uwielbianej gry motoryzacyjnej",
+      "sourceUrl": "https://www.ppe.pl/news/432275/listopad-pelen-atrakcji-najwazniejsze-nowosci-od-premiery-uwielbianej-gry-motoryzacyjnej.html",
+      "publishedAt": "2026-11-05T12:21+01:00",
+      "summary": "Ten miesiąc będzie wyjątkowo ważny dla milionów fanów Euro Truck Simulatora 2.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nintendo Switch 2 i gry ekskluzywne z wynikami. Kondycja firmy jest znakomita",
+      "sourceUrl": "https://www.ppe.pl/news/432270/nintendo-switch-2-i-gry-ekskluzywne-z-wynikami-kondycja-firmy-jest-znakomita.html",
+      "publishedAt": "2026-11-05T12:12+01:00",
+      "summary": "Wyniki finansowe Nintendo pokazują bardzo ciekawy obraz sytuacji wokół nowej konsoli japońskiego giganta. Choć dostawy samego sprzętu nieco wyhamowały w porównaniu do szalonego okresu tuż po premierze, łączny wynik sprzedażowy osiągnął ju...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
       "title": "LEGO Star Wars Sokół Millennium za 2699 zł (cena kat. 3699,99 zł) w polskich sklepach. Zestaw wkrótce zniknie ze sprzedaży",
       "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-star-wars-sokol-millennium-za-2699-zl-cena-kat-369999-zl-w-polskich-sklepach-zestaw-wkrotce-zniknie-ze-sprzedazy/",
       "publishedAt": "2026-11-05T12:00+01:00",
@@ -47,6 +152,15 @@
       "summary": "AMD świętuje rekordowe przychody, które wzrosły o 45% rok do roku. Wszystko dzięki rozwojowi infrastruktury AI, ponieważ na gamingu firma zaczęła znacznie mniej zarabiać. Informacja AMD nigdy nie zarabiało tyle pieniędzy. Problem w tym, że gracze przestają się liczyć została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531571676.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Aktor grający kapitana Price’a chce wystąpić w filmie „Call of Duty”. Nikt inny nie ma do tego kwalifikacji",
+      "sourceUrl": "https://cdaction.pl/newsy/aktor-grajacy-kapitana-pricea-chce-wystapic-w-filmie-call-of-duty-nikt-inny-nie-ma-do-tego-kwalifikacji/",
+      "publishedAt": "2026-11-05T12:00+01:00",
+      "summary": "Barry Sloane już niemal dekadę wciela się w kultowego dowódcę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/03/Call-of-Duty-Modern-Warfare-2019.jpg"
     },
     {
       "sourceName": "PPE",
