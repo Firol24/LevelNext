@@ -1,17 +1,50 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T09:01+01:00",
+  "updatedAt": "2026-11-05T10:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gracze wróżą GTA6 ocenę 100/100 na Metacritic, a dziennikarka pyta, czy Take-Two ma jakieś inne hity. Szef firmy nie krył zdziwienia",
-    "summary": "Gracze zastanawiają się, jaką ocenę na Metacriticu otrzyma GTA 6. Tymczasem Strauss Zelnick został zaskoczony pytaniem dziennikarki o brak hitów w portfolio Take-Two. Informacja Gracze wróżą GTA6 ocenę 100/100 na Metacritic, a dziennikarka pyta, czy Take-Two ma jakieś inne hity. Szef firmy nie krył zdziwienia została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-wroza-gta6-ocene-100100-na-metacritic-a-dziennikarka-pyta/zd3221e",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531564445.jpg"
+    "title": "NVIDIA stchórzyła. Gracze krytykują oficjalną implementację DLSS 5 w kolejnej grze",
+    "summary": "Wygląda na to, że NVIDIA tak przestraszyła się krytyki po pierwszej prezentacji DLSS 5, że \"wajcha\" odbiła teraz w drugą stronę - aż do przesady.",
+    "sourceUrl": "https://www.ppe.pl/news/432255/nvidia-stchorzyla-gracze-krytykuja-oficjalna-implementacje-dlss-5-w-kolejnej-grze.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "NVIDIA stchórzyła. Gracze krytykują oficjalną implementację DLSS 5 w kolejnej grze",
+      "sourceUrl": "https://www.ppe.pl/news/432255/nvidia-stchorzyla-gracze-krytykuja-oficjalna-implementacje-dlss-5-w-kolejnej-grze.html",
+      "publishedAt": "2026-11-05T09:59+01:00",
+      "summary": "Wygląda na to, że NVIDIA tak przestraszyła się krytyki po pierwszej prezentacji DLSS 5, że \"wajcha\" odbiła teraz w drugą stronę - aż do przesady.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Star Fox na Nintendo Switch 2 za 159 zł zamiast 209 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432265/star-fox-na-nintendo-switch-2-za-159-zl-zamiast-209-zl.html",
+      "publishedAt": "2026-11-05T09:57+01:00",
+      "summary": "Fani perełek na Nintendo Switch 2 mogą zainteresować się grą Star Fox w wersji pudełkowej na Nintendo Switch 2.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Duże podkładki na biurko z filcu (rozmiary od 40×80 cm do 40×100 cm) po 29,99 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/duze-podkladki-na-biurko-z-filcu-rozmiary-od-40x80-cm-do-40x100-cm-po-2999-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-05T09:56+01:00",
+      "summary": "W polskim oddziale sklepu Amazon dorwiecie teraz taniej duże podkładki z filcu pod mysz i klawiaturę. Dostępne są trzy rozmiary 40×80 cm, 40×90 cm oraz 40×100 cm, a za każdy z nich zapłacicie 29,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/podkladka-pod-mysz-filc-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje w Xbox Store. Wyprzedaż gier indie z rabatami do -95%!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/promocje-w-xbox-store-wyprzedaz-gier-indie-z-rabatami-do-95/",
+      "publishedAt": "2026-11-05T09:51+01:00",
+      "summary": "Rozpoczęła się kolejna wyprzedaż w Xbox Store. Tym razem obejmuje ona w znacznej ilości tytuły mniejszych studiów. Przykładowo, taniej kupicie The Pathless, The Thaumaturge, Serious Sam 4, czy też The Plucky Squire. Przeceniono także Kingdom Come: Deliverance II. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/08/xbox-store-miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gracze wróżą GTA6 ocenę 100/100 na Metacritic, a dziennikarka pyta, czy Take-Two ma jakieś inne hity. Szef firmy nie krył zdziwienia",
@@ -20,6 +53,30 @@
       "summary": "Gracze zastanawiają się, jaką ocenę na Metacriticu otrzyma GTA 6. Tymczasem Strauss Zelnick został zaskoczony pytaniem dziennikarki o brak hitów w portfolio Take-Two. Informacja Gracze wróżą GTA6 ocenę 100/100 na Metacritic, a dziennikarka pyta, czy Take-Two ma jakieś inne hity. Szef firmy nie krył zdziwienia została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531564445.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pragmata nie była jeszcze tak tania. Piękna historia Capcomu na PS5 za 179 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432264/pragmata-nie-byla-jeszcze-tak-tania-piekna-historia-capcomu-na-ps5-za-179-zl.html",
+      "publishedAt": "2026-11-05T09:43+01:00",
+      "summary": "Pragmata mocno trzyma cenę premierową, ale teraz w ramach Allegro Days zaufany sprzedawca blue-games wrzucił rzeczony tytuł w cenie 179 zł.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Control Resonant na PS5 już za około 200 zł w pudełku!",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432263/control-resonant-na-ps5-juz-za-okolo-200-zl-w-pudelku.html",
+      "publishedAt": "2026-11-05T09:41+01:00",
+      "summary": "W zaufanym sklepie-bluegames na platformie Allegro nabędziemy bardzo tanio grę Control Resonant.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Laptop Lenovo z RTX 5070, R7 250, 165 Hz + mysz i zasilacz za 6999 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/432262/laptop-lenovo-z-rtx-5070-r7-250-165-hz-mysz-i-zasilacz-za-6999-zl.html",
+      "publishedAt": "2026-11-05T09:40+01:00",
+      "summary": "W sklepie internetowym X-Kom taniej nabędziemy laptopa firmy Lenovo.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +88,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531563006.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Aktorska ekranizacja Magic: The Gathering z pierwszą gwiazdą. Gwiazda „Stranger Things” zagra główną rolę",
+      "sourceUrl": "https://cdaction.pl/newsy/aktorska-ekranizacja-magic-the-gathering-z-pierwsza-gwiazda-aktorka-ze-stranger-things-zagra-glowna-role/",
+      "publishedAt": "2026-11-05T09:30+01:00",
+      "summary": "Legendary Entertainment oraz Hasbro mają ambitne plany.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Stranger-Things-1.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Marvel’s Wolverine sprzedał się w 2,4 mln egzemplarzy. Sony podało najnowsze wyniki PlayStation",
       "sourceUrl": "https://www.gry-online.pl/newsroom/marvels-wolverine-sprzedal-sie-w-24-mln-egzemplarzy-sony-chwali-s/zc3221d",
@@ -38,6 +104,15 @@
       "summary": "Sony Interactive Entertainment podsumowało drugi kwartał roku finansowego. Dostarczono mniej konsol, ale wzrosła sprzedaż gier, liczba aktywnych użytkowników PSN i zyski. Informacja Marvel’s Wolverine sprzedał się w 2,4 mln egzemplarzy. Sony podało najnowsze wyniki PlayStation została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531563161.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Steelrising na Xbox Series za 13,30 zł w Kinguinie. Historycznie najniższa cena",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/steelrising-na-xbox-series-za-1330-zl-w-kinguinie-historycznie-najnizsza-cena/",
+      "publishedAt": "2026-11-05T09:17+01:00",
+      "summary": "Steelrising, czyli soulslike studia Spiders, jest teraz dostępny w rewelacyjnie niskiej cenie w sklepie Kinguin. Produkcja osadzona w czasach rewolucji francuskiej, w której wcielicie się w Aegis, automaton służący Marii Antoninie, kosztuje tylko 13,30 zł. Jeśli preferujecie wersję bezpośrednio z Xbox Store, zapłacicie za nią 18,49 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2022/06/Steelrising_miniaturka-scaled.jpg"
     },
     {
       "sourceName": "PPE",
