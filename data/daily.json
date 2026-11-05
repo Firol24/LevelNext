@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T08:56+01:00",
+  "updatedAt": "2026-11-05T08:58+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -38,6 +38,23 @@
       "summary": "Sony Interactive Entertainment podsumowało drugi kwartał roku finansowego. Dostarczono mniej konsol, ale wzrosła sprzedaż gier, liczba aktywnych użytkowników PSN i zyski. Informacja Marvel’s Wolverine sprzedał się w 2,4 mln egzemplarzy. Sony podało najnowsze wyniki PlayStation została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531563161.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "\"Xbox to cyrk z klaunami\". Wylewa się ogromna frustracja na Ashę Sharmę",
+      "sourceUrl": "https://www.ppe.pl/news/432250/xbox-to-cyrk-z-klaunami-wylewa-sie-ogromna-frustracja-na-ashe-sharme.html",
+      "publishedAt": "2026-11-05T08:57+01:00",
+      "summary": "Wokół dywizji Xbox dzieje się ostatnio tyle dziwnych rzeczy, że korporacja nie schodzi z nagłówków branżowych portali, niestety rzadko kiedy z pozytywnych powodów.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Słuchawki Logitech G335 do PC i konsol za 139,99 zł (59 zł taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/sluchawki-logitech-g335-do-pc-i-konsol-za-13999-zl-59-zl-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-05T08:57+01:00",
+      "summary": "W Hicie Dnia, sklep RTV Euro AGD proponuje dziś zakup Logitech G335 w lepszej cenie. Słuchawki przewodowe, podłączane przy pomocy jack 3,5 mm do PC czy też konsol Sony PlayStation, Nintendo Switch i Xbox, kosztują 139,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/logitech-g335-3b-224x224.jpg"
     },
     {
       "sourceName": "PPE",
@@ -488,7 +505,7 @@
     },
     {
       "date": "2026-11-12",
-      "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
+      "title": "Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
       "note": "Ulepszone wydanie z bardziej szczegółową oprawą, komendami głosowymi dla Oatchiego i nowym trybem Akademii Dandori.",
@@ -536,7 +553,7 @@
     },
     {
       "date": "2026-12-03",
-      "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
+      "title": "Xenoblade Chronicles 3 - Nintendo Switch 2 Edition",
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
       "note": "Ulepszone wydanie oferuje do 4K i 60 klatek na sekundę, nowego bohatera Shimmer, tryb Heroes' Vault oraz dodatkowe udźwiękowione sceny.",
@@ -603,5 +620,5 @@
     "availabilityUrl": "https://www.justwatch.com/pl/film/censor"
   },
   "editorialUpdatedAt": "2026-11-05",
-  "editorialHash": "cf21054316ad8d2e7d4b5007b5944f8099176099e7af60cff2087aa9dd10700c"
+  "editorialHash": "989dbbbb891a735a41fada756d182e9ac31b0166cc41338947570f6e0a11fedb"
 }
