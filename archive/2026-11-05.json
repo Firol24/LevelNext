@@ -1,17 +1,69 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T13:01+01:00",
+  "updatedAt": "2026-11-05T14:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "3 nowe gry od twórców Frostpunka trafią do Game Passa. Wśród potencjalnych kandydatów remake pierwszej części",
-    "summary": "W przyszłym roku trzy kolejne gry polskiego 11 bit studios trafią do oferty abonamentu Game Pass. Informacja 3 nowe gry od twórców Frostpunka trafią do Game Passa. Wśród potencjalnych kandydatów remake pierwszej części została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/3-nowe-gry-od-tworcow-frostpunka-trafia-do-game-passa-wsrod-poten/z032236",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531578263.jpg"
+    "title": "To do dziś jedna z najgorszych prób gaszenia pożaru w historii branży gier. Jeden komentarz mógłby być symbolem podejścia EA",
+    "summary": "W świetle ostatnich wydarzeń z udziałem EA wspominamy czasy Star Wars Battlefront oraz najbardziej downvote’owany komentarz w historii Reddita. Informacja To do dziś jedna z najgorszych prób gaszenia pożaru w historii branży gier. Jeden komentarz mógłby być symbolem podejścia EA została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/to-do-dzis-jedna-z-najgorszych-prob-gaszenia-pozaru-w-historii-br/z132237",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531579558.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "To do dziś jedna z najgorszych prób gaszenia pożaru w historii branży gier. Jeden komentarz mógłby być symbolem podejścia EA",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/to-do-dzis-jedna-z-najgorszych-prob-gaszenia-pozaru-w-historii-br/z132237",
+      "publishedAt": "2026-11-05T14:03+01:00",
+      "summary": "W świetle ostatnich wydarzeń z udziałem EA wspominamy czasy Star Wars Battlefront oraz najbardziej downvote’owany komentarz w historii Reddita. Informacja To do dziś jedna z najgorszych prób gaszenia pożaru w historii branży gier. Jeden komentarz mógłby być symbolem podejścia EA została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531579558.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Motorola Signature 27 nadchodzi! Nowy flagowiec kusi kosmicznym aparatem i piorunującą wydajnością",
+      "sourceUrl": "https://www.ppe.pl/news/432208/motorola-signature-27-nadchodzi-nowy-flagowiec-kusi-kosmicznym-aparatem-i-piorunujaca-wydajnoscia.html",
+      "publishedAt": "2026-11-05T14:00+01:00",
+      "summary": "Motorola zaprezentowała Signature 27, flagowca z najnowszym Snapdragonem, ekranem Tandem AMOLED i rozbudowanym zestawem aparatów. Producent dorzuca do tego baterię 7000 mAh, siedem lat wsparcia oraz ofertę premierową z zegarkiem, głośnikiem i ła...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na klocki CaDA w ramach Allegro Black Weeks. Zestawy dostępne już od 24,95 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-klocki-cada-w-ramach-allegro-black-weeks-zestawy-dostepne-juz-od-2495-zl/",
+      "publishedAt": "2026-11-05T13:52+01:00",
+      "summary": "Tradycyjnie przy większych wyprzedażach w serwisie Allegro, przyglądamy się także ofertom na alternatywę dla budowania z LEGO, czyli klocki CaDA. Właśnie nadszedł czas, by podzielić się z wami najciekawszymi promocjami na zestawy. Znajdziecie je w dalszej części wpisu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/cada-klocki-zestawy-wrzesien-2027-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy RoboCopa szykują mroczne RPG. Teyon prezentuje ważny element gry na nowym zwiastunie",
+      "sourceUrl": "https://www.ppe.pl/news/432283/tworcy-robocopa-szykuja-mroczne-rpg-teyon-prezentuje-wazny-element-gry-na-nowym-zwiastunie.html",
+      "publishedAt": "2026-11-05T13:52+01:00",
+      "summary": "Twórcy RoboCop: Rogue City i Terminator: Resistance szykują coś zupełnie nowego. Polskie studio Teyon pokazało kolejny materiał z Hunter: The Reckoning - Deathwish, tym razem o kreatorze postaci.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Magic: The Gathering doczeka się filmowego uniwersum. Pierwszą wielką gwiazdą została aktorka z hitu Netflixa",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/magic-the-gathering-doczeka-sie-filmowego-uniwersum-pierwsza-wiel/ze3221f",
+      "publishedAt": "2026-11-05T13:46+01:00",
+      "summary": "Maya Hawke, znana z roli Robin w serialu Stranger Things, dołączyła do obsady filmowej adaptacji Magic: The Gathering. Aktorka ma odegrać jedną z kluczowych ról w nadchodzącej produkcji fantasy. Informacja Magic: The Gathering doczeka się filmowego uniwersum. Pierwszą wielką gwiazdą została aktorka z hitu Netflixa została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531566672.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Recenzja Final Fantasy Resonance. Nostalgia bywa zdradliwa",
+      "sourceUrl": "https://lowcygier.pl/recenzje-gier/recenzja-final-fantasy-resonance-nostalgia-bywa-zdradliwa/",
+      "publishedAt": "2026-11-05T13:40+01:00",
+      "summary": "Aż dziw bierze, że Square Enix tak bardzo zwlekało z wydaniem jednej ze swoich największych marek, Final Fantasy, w szalenie popularnej stylistyce HD-2D. Dostaliśmy sporo oryginalnych tytułów oraz remake’ów, ale fani cyklu FF musieli poczekać na swoją kolej naprawdę długo. Na to, czy się opłacało, postara się odpowiedzieć nasza recenzja Final Fantasy Resonance. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Recenzja-Final-Fantasy-Resonance-logo-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "3 nowe gry od twórców Frostpunka trafią do Game Passa. Wśród potencjalnych kandydatów remake pierwszej części",
@@ -20,6 +72,14 @@
       "summary": "W przyszłym roku trzy kolejne gry polskiego 11 bit studios trafią do oferty abonamentu Game Pass. Informacja 3 nowe gry od twórców Frostpunka trafią do Game Passa. Wśród potencjalnych kandydatów remake pierwszej części została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531578263.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 wciąż ciężko jest załatać. Walka Sony z hakerami nadal trwa",
+      "sourceUrl": "https://www.ppe.pl/news/432278/ps5-wciaz-ciezko-jest-zalatac-walka-sony-z-hakerami-nadal-trwa.html",
+      "publishedAt": "2026-11-05T13:36+01:00",
+      "summary": "Nadzieje na jailbreak PlayStation 5 z oprogramowaniem 14.00 i 14.10 wyraźnie osłabły.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +91,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/530376608.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Gothic 2 pokonany w niecałe 7 minut. Polak z nowym rekordem speedrunu any%",
+      "sourceUrl": "https://cdaction.pl/newsy/gothic-2-pokonany-w-niecale-7-minut-polak-z-nowym-rekordem-speedrunu-any/",
+      "publishedAt": "2026-11-05T13:30+01:00",
+      "summary": "Kolejne glitche i sztuczki, które pozwoliły przyciąć czas przy sepeedrunowaniu Gothica 2.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/image-3-1260x709.png"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Twórca EtF pokazał 14 minut nowej gry. Chce, by grano w nią przez dekadę, ale najpierw przejdzie płatne testy",
       "sourceUrl": "https://www.gry-online.pl/newsroom/tworca-etf-pokazal-14-minut-nowej-gry-chce-by-grano-w-nia-przez-d/ze32234",
@@ -38,6 +107,23 @@
       "summary": "Udostępniono 14-minutowy materiał z rozgrywki nowej gry twórcy Escape from Tarkov. Jeszcze w tym roku wystartują jej zamknięte testy alfa. Informacja Twórca EtF pokazał 14 minut nowej gry. Chce, by grano w nią przez dekadę, ale najpierw przejdzie płatne testy została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531577002.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Cena Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition w Polsce. Gdzie można jeszcze kupić kolekcjonerską konsolę?",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/cena-nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-w-polsce-gdzie-mozna-jeszcze-kupic-kolekcjonerska-konsole/",
+      "publishedAt": "2026-11-05T13:13+01:00",
+      "summary": "Limitowana edycja Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition, jest już dostępna w regularnej sprzedaży w polskich sklepach internetowych. Konsola przyozdobiona symbolem Triforce, kilkoma małymi detalami i utrzymana w złoto-zielonej kolorystyce, może być Wasza już za 2698 zł. Warto pamiętać, że w zestawie nie uświadczycie gry The Legend of Zelda: Ocarina of Time, a dokładnie jej odświeżonego wydania. Sprzęt bardzo szybko się wyprzedaje i cena dynamicznie ulega zmianie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Premiera-Nintendo-Switch-2_-The-Legend-of-Zelda-40th-Anniversary-Edition-oficjalnie-ogloszona_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Co z PS6?! Sony komentuje next-genową konsolę",
+      "sourceUrl": "https://www.ppe.pl/news/432273/co-z-ps6-sony-komentuje-next-genowa-konsole.html",
+      "publishedAt": "2026-11-05T13:11+01:00",
+      "summary": "Temat nowej generacji konsol powoli zaczyna pojawiać się w oficjalnych rozmowach zarządu Sony, co budzi ogromne emocje wśród graczy na całym świecie.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -56,6 +142,15 @@
       "summary": "Jeden z producentów układów pamięci do kartridży dla Nintendo rezygnuje z ich produkcji i przestawia się na układy dla sztucznej inteligencji. Informacja AI zabiera graczom nawet fizyczne wydania gier. Kluczowy dostawca Nintendo Switch porzuca kartridże na rzecz centrów danych została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531575399.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Lords of the Fallen 2 może zrewolucjonizować system walki w soulslike’ach. „Chcemy, aby gracze czuli się niczym szwajcarski scyzoryk”",
+      "sourceUrl": "https://cdaction.pl/newsy/lords-of-the-fallen-2-moze-zrewolucjonizowac-system-walki-w-soulslikeach-chcemy-aby-gracze-czuli-sie-niczym-szwajcarski-scyzoryk/",
+      "publishedAt": "2026-11-05T13:00+01:00",
+      "summary": "CI Games przedstawia coraz ambitniejsze systemy Lords of the Fallen 2.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/03/Lords-of-the-Fallen-2.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
