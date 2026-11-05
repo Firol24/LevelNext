@@ -1,16 +1,139 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T10:01+01:00",
+  "updatedAt": "2026-11-05T11:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "NVIDIA stchórzyła. Gracze krytykują oficjalną implementację DLSS 5 w kolejnej grze",
-    "summary": "Wygląda na to, że NVIDIA tak przestraszyła się krytyki po pierwszej prezentacji DLSS 5, że \"wajcha\" odbiła teraz w drugą stronę - aż do przesady.",
-    "sourceUrl": "https://www.ppe.pl/news/432255/nvidia-stchorzyla-gracze-krytykuja-oficjalna-implementacje-dlss-5-w-kolejnej-grze.html"
+    "title": "Premiera MMO bez długich kolejek i awarii? WoW Forever pozytywnie zaskoczył graczy",
+    "summary": "Za nami premiera World of Warcraft: Forever. Gracze na razie są bardzo zadowoleni, zwłaszcza w kwestii braku poważnych problemów technicznych. Informacja Premiera MMO bez długich kolejek i awarii? WoW Forever pozytywnie zaskoczył graczy została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/premiera-mmo-bez-dlugich-kolejek-i-awarii-wow-forever-pozytywnie/zb3222b",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531572017.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Premiera MMO bez długich kolejek i awarii? WoW Forever pozytywnie zaskoczył graczy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/premiera-mmo-bez-dlugich-kolejek-i-awarii-wow-forever-pozytywnie/zb3222b",
+      "publishedAt": "2026-11-05T11:53+01:00",
+      "summary": "Za nami premiera World of Warcraft: Forever. Gracze na razie są bardzo zadowoleni, zwłaszcza w kwestii braku poważnych problemów technicznych. Informacja Premiera MMO bez długich kolejek i awarii? WoW Forever pozytywnie zaskoczył graczy została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531572017.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy nr 1 Netflixa w Polsce. „Wciągający” polski serial jest hitem już dzień po premierze i podoba się widzom",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-nr-1-netflixa-w-polsce-wciagajacy-polski-serial-jest-hitem-j/z132228",
+      "publishedAt": "2026-11-05T11:50+01:00",
+      "summary": "Wczoraj na Netflixie ukazał się kolejny polski serial – tym razem medyczny. Rodzime widowisko z gwiazdorską obsadą nie tylko zainteresowało widzów, ale także zebrało od nich pochwały. Informacja Nowy nr 1 Netflixa w Polsce. „Wciągający” polski serial jest hitem już dzień po premierze i podoba się widzom została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531571378.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Fani jednej frakcji z WoW-a nie mogli tworzyć swoich postaci w Forever. Nowa kombinacja chyba okazała się zbyt popularna",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/fani-jednej-frakcji-z-wow-a-nie-mogli-tworzyc-swoich-postaci-w-fo/z032227",
+      "publishedAt": "2026-11-05T11:40+01:00",
+      "summary": "Liczyliście na zostanie nieumarłym paladynem w WoW Forever? Jeśli tak, to szykujcie się, bo możecie trochę na to poczekać. Informacja Fani jednej frakcji z WoW-a nie mogli tworzyć swoich postaci w Forever. Nowa kombinacja chyba okazała się zbyt popularna została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531570619.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Czy warto kupić microSD express SanDisk 256 GB do Switch 2 za 239 zł? Sprawdzamy testy i opinie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/czy-warto-kupic-microsd-express-sandisk-256-gb-do-switch-2-za-239/zf32226",
+      "publishedAt": "2026-11-05T11:18+01:00",
+      "summary": "Konsola Nintendo Switch 2 WYMAGA kart pamięci microSD express jeśli chcemy powiększyć przestrzeń dyskową na gry. Trwa promocja cenowa na kartę SanDisk microSDXC express o pojemności 256 GB (880/650 MB/s): 239 zł. Czy warto ją kupić? Testy, opinie? Informacja Czy warto kupić microSD express SanDisk 256 GB do Switch 2 za 239 zł? Sprawdzamy testy i opinie została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531569811.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Jeśli nic się nie zmieni, nie będzie żadnej przyszłości”. Jedna z największych legend anime uważa, że stawianie na remaki i bezpieczne treści prowadzi wyłącznie do katastrofy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jesli-nic-sie-nie-zmieni-nie-bedzie-zadnej-przyszlosci-jedna-z-na/ze32225",
+      "publishedAt": "2026-11-05T11:11+01:00",
+      "summary": "Weteran branży anime podzielił się swoimi wnioskami na temat obecnej sytuacji w świecie kina oraz skutkami, jakie może pociągnąć dalsze podążanie tą drogą bez podejmowania ryzyka. Informacja „Jeśli nic się nie zmieni, nie będzie żadnej przyszłości”. Jedna z największych legend anime uważa, że stawianie na remaki i bezpieczne treści prowadzi wyłącznie do katastrofy została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531569385.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera Stellar Blade Complete Edition na Nintendo Switch 2 już jutro. Pełna gra na kartridżu w cenie od 230,99 zł",
+      "sourceUrl": "https://lowcygier.pl/preordery/premiera-stellar-blade-complete-edition-na-nintendo-switch-2-juz-jutro-pelna-gra-na-kartridzu-w-cenie-od-23099-zl/",
+      "publishedAt": "2026-11-05T10:56+01:00",
+      "summary": "Posiadacze konsol Nintendo Switch 2 już wkrótce będą mogli zapoznać się z kompletnym wydaniem slashera koreańskiego studia SHIFT UP z piękną Eve w roli głównej. Do premiery Stellar Blade Complete Edition został już nieco ponad tydzień. Warto wspomnieć, że gra ukaże się w pełni na kartridżu, a jeśli chcecie się zaopatrzyć we własną kopię, tę kupicie już od 230,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/stellar-blade-complete-edition-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ogromny zwrot akcji przy BioWare! Kanadyjski rząd uratuje Mass Effect?",
+      "sourceUrl": "https://www.ppe.pl/news/432257/ogromny-zwrot-akcji-przy-bioware-kanadyjski-rzad-uratuje-mass-effect.html",
+      "publishedAt": "2026-11-05T10:48+01:00",
+      "summary": "Wokół niesławnego zamknięcia studia BioWare przez Electronic Arts wciąż wrze, a fani uniwersum Mass Effect po raz kolejny udowadniają, że potrafią zjednoczyć siły w słusznej sprawie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Do premiery GTA VI pozostały dwa tygodnie! Zbiór najważniejszych informacji o grze. Gdzie kupić dzieło Rockstar najtaniej?",
+      "sourceUrl": "https://lowcygier.pl/preordery/do-premiery-gta-vi-pozostaly-dwa-tygodnie-zbior-najwazniejszych-informacji-o-grze-gdzie-kupic-dzielo-rockstar-najtaniej/",
+      "publishedAt": "2026-11-05T10:46+01:00",
+      "summary": "Od premiery GTA VI dzielą nas już tylko dwa tygodnie. Najbardziej wyczekiwana gra tego roku, i nie ma co się z tym sprzeczać, trafi 19 listopada na konsole PlayStation 5 oraz Xbox Series X|S. Nieco wcześniej, 12 listopada, rozesłane zostaną pudełkowe wydania, a przedtem wystartuje preload, aby gracze mieli szansę pobrać wszystkie pliki i rozpocząć zabawę w momencie odblokowania dostępu. Jeśli zastanawiacie się, gdzie kupić GTA VI na PS5 i XSX najtaniej, a także czego spodziewać się po samej grze, zapraszamy do dalszej części wpisu. Przygotowaliśmy dla Was małe kompendium wiedzy. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Zwiastun-premierowy-gry-Grand-Theft-Auto-VI.-Rockstar-promuje-GTA-6-nowym-singlem_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórca God of War krytykuje Chiny po sukcesie Phantom Blade Zero. Graczom się to nie podoba",
+      "sourceUrl": "https://www.ppe.pl/news/432259/tworca-god-of-war-krytykuje-chiny-po-sukcesie-phantom-blade-zero-graczom-sie-to-nie-podoba.html",
+      "publishedAt": "2026-11-05T10:40+01:00",
+      "summary": "Twórca God of War chciał stanąć w obronie deweloperów gier z Europy i Ameryki Północnej. Tym razem jednak nie do końca mu to wyszło.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Phantom Blade Zero z pierwszą aktualizacją. Twórcy ułatwiają walkę z upierdliwym bossem i poprawiają warstwę techniczną gry",
+      "sourceUrl": "https://cdaction.pl/newsy/phantom-blade-zero-z-pierwsza-aktualizacja-tworcy-ulatwiaja-walke-z-upierdliwym-bossem-i-poprawiaja-warstwe-techniczna-gry/",
+      "publishedAt": "2026-11-05T10:30+01:00",
+      "summary": "Phantom Blade Zero otrzymało pierwszą łatkę, która poprawia stabilność i jakość rozgrywki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-5-o-09.42.21-1260x662.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dwa NIEZWYKŁE studia Xbox niemalże połączone w jedną całość",
+      "sourceUrl": "https://www.ppe.pl/news/432252/dwa-niezwykle-studia-xbox-niemalze-polaczone-w-jedna-calosc.html",
+      "publishedAt": "2026-11-05T10:25+01:00",
+      "summary": "W branży gier wideo często słyszy się o kryzysach i zwolnieniach, ale czasem z trudnych sytuacji rodzą się wyjątkowo bliskie i obiecujące współprace. Świetnym tego przykładem jest id Software, czyli legendarne studio stojące za serią Doom,...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Persona 5 Royal na Nintendo Switch za 47 zł w Yuplay",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/persona-5-royal-na-nintendo-switch-za-47-zl-w-yuplay/",
+      "publishedAt": "2026-11-05T10:24+01:00",
+      "summary": "Cyfrowe wydanie świetnego jRPG studia Atlus, możecie kupić teraz w dobrej cenie w sklepie Yuplay. Jeśli jeszcze nie mieliście okazji ograć Persona 5 Royal w wersji na Nintendo Switch, wspomniany tytuł możecie nabyć za niecałe 47 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Rekordowo-tania-Persona-5-Royal-na-PC-w-sklepie-Kinugin.-Klucz-Steam-z-gra-dostepny-za-37-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "CD Projekt RED robi wszystko, aby dostarczać gry lepsze od Rockstar Games. Polacy mogą być dumni",
+      "sourceUrl": "https://www.ppe.pl/news/432253/cd-projekt-red-robi-wszystko-aby-dostarczac-gry-lepsze-od-rockstar-games-polacy-moga-byc-dumni.html",
+      "publishedAt": "2026-11-05T10:02+01:00",
+      "summary": "Twórcy z CD Projekt RED nie zwalniają tempa i mocno pracują nad wzmocnieniem swoich zespołów, co widać po kolejnych głośnych transferach z branży. Polskie studio przyciąga do siebie doświadczonych deweloperów, którzy mają na koncie świetn...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Mamy nowe dane o tym, ile Rockstar mógł już zarobić na preorderach GTA 6. Kwota wbija w fotel",
+      "sourceUrl": "https://cdaction.pl/newsy/mamy-nowe-dane-o-tym-ile-rockstar-mogl-juz-zarobic-na-preorderach-gta-6-kwota-wbija-w-fotel/",
+      "publishedAt": "2026-11-05T10:00+01:00",
+      "summary": "Setki milionów dolarów za grę, w którą jeszcze nie można grać.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Lucia_Caminos_05-1260x709.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "NVIDIA stchórzyła. Gracze krytykują oficjalną implementację DLSS 5 w kolejnej grze",
