@@ -1,17 +1,50 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T21:01+01:00",
+  "updatedAt": "2026-11-05T22:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "2 gry do odebrania w Amazon Prime Gaming. Świetnie oceniana strzelanka i najnowsza odsłona kultowej serii wyścigowej",
-    "summary": "Listopad nie rozpieszcza subskrybentów usługi Amazon Luna Standard (dawniej Amazon Prime Gaming). Odbiorą oni tylko 7 gier, z czego 2 mogą zgarnąć już teraz. Tyle dobrego, że różnorodność jest naprawdę duża. Informacja 2 gry do odebrania w Amazon Prime Gaming. Świetnie oceniana strzelanka i najnowsza odsłona kultowej serii wyścigowej została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-do-odebrania-w-amazon-prime-gaming-swietnie-oceniana-strzel/zf32244",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531605438.jpg"
+    "category": "PROMOCJE",
+    "title": "Wyprzedaż Oferta Weekendowa na Steam. Rekordowo tanie PAYDAY 3 za 26,99 zł!",
+    "summary": "Łowcy, przedstawiamy Wam pierwszą w tym miesiącu wyprzedaż z serii Oferta Weekendowa na Steam. Tym razem wybrane gry na PC w sklepie Valve dostępne są z rabatami sięgającymi -95%. Na szczególne wyróżnienie zasługuje tutaj PAYDAY 3 w historycznie najniższej cenie 26,99 zł. Może dzięki promocji tytuł zyska większą przychylność ze strony graczy 🙂 Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-oferta-weekendowa-na-steam-rekordowo-tanie-payday-3-za-2699-zl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Oferta-Weekendowa-na-Steam.-Rekordowo-tanie-PAYDAY-3-za-2699-zl_minaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Oferta Weekendowa na Steam. Rekordowo tanie PAYDAY 3 za 26,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-oferta-weekendowa-na-steam-rekordowo-tanie-payday-3-za-2699-zl/",
+      "publishedAt": "2026-11-05T21:50+01:00",
+      "summary": "Łowcy, przedstawiamy Wam pierwszą w tym miesiącu wyprzedaż z serii Oferta Weekendowa na Steam. Tym razem wybrane gry na PC w sklepie Valve dostępne są z rabatami sięgającymi -95%. Na szczególne wyróżnienie zasługuje tutaj PAYDAY 3 w historycznie najniższej cenie 26,99 zł. Może dzięki promocji tytuł zyska większą przychylność ze strony graczy 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Oferta-Weekendowa-na-Steam.-Rekordowo-tanie-PAYDAY-3-za-2699-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "2 gry za darmo od dzisiaj! Kingdom Come: Deliverance 2 i Mixtape do ogrania w promocji",
+      "sourceUrl": "https://www.ppe.pl/news/432327/2-gry-za-darmo-od-dzisiaj-kingdom-come-deliverance-2-i-mixtape-do-ogrania-w-promocji.html",
+      "publishedAt": "2026-11-05T21:47+01:00",
+      "summary": "Amazon potwierdził listę gier przygotowaną dla klientów Amazon Prime Gaming i Amazon Luna. W obu sytuacjach gracze otrzymają naprawdę ciekawe produkcje.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Co oglądać w weekend - Netflix, HBO MAX, Disney+, Amazon Prime, SkyShowtime, Canal+, kina",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/431885/co-ogladac-w-weekend-netflix-hbo-max-disney-amazon-prime-skyshowtime-canal-kina-3.html",
+      "publishedAt": "2026-11-05T21:30+01:00",
+      "summary": "Z drugim sezonem powraca serial, który dwa lata temu był jednym z hitów Netflixa. Pojawi się tam także rodzima seria, jak również nowy film znakomitego koreańskiego reżysera. Warto również zwrócić uwagę na ofertę Amazon Prime, HBO MAX i S...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation wysyła ważne przypomnienie. Czy jesteś gotowy na GTA 6?",
+      "sourceUrl": "https://www.ppe.pl/news/432328/playstation-wysyla-wazne-przypomnienie-czy-jestes-gotowy-na-gta-6.html",
+      "publishedAt": "2026-11-05T21:14+01:00",
+      "summary": "Jesteście gotowi na GTA 6? Zapewne wielu naszych czytelników przygotowuje się na wielką premierę. PlayStation chce mieć pewność, że gracze będą gotowi i wysyła do posiadaczy PlayStation 5 specjalną wiadomość.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "2 gry do odebrania w Amazon Prime Gaming. Świetnie oceniana strzelanka i najnowsza odsłona kultowej serii wyścigowej",
@@ -20,6 +53,15 @@
       "summary": "Listopad nie rozpieszcza subskrybentów usługi Amazon Luna Standard (dawniej Amazon Prime Gaming). Odbiorą oni tylko 7 gier, z czego 2 mogą zgarnąć już teraz. Tyle dobrego, że różnorodność jest naprawdę duża. Informacja 2 gry do odebrania w Amazon Prime Gaming. Świetnie oceniana strzelanka i najnowsza odsłona kultowej serii wyścigowej została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531605438.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wieża Babel w Twoim telefonie. Mobilna wersja Chants of Sennaar za darmo w Epic Games!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/wieza-babel-w-twoim-telefonie-mobilna-wersja-chants-of-sennaar-za-darmo-w-epic-games/",
+      "publishedAt": "2026-11-05T21:04+01:00",
+      "summary": "Łowcy, tym razem zespół Epic Games przygotował coś dla fanów gier przygodowych. Osoby korzystające z urządzeń opartych o systemy iOS i Android mogą odebrać mobilną wersję Chants of Sennaar od francuskiego studia Rundisc. Produkcja inspirowana biblijną opowieścią o Wieży Babel dostępna jest dla posiadaczy aplikacji EGS. Kolejny zestaw mobilnych darmówek pojawi się w Epic Games Store już 12 listopada, punktualnie o godzinie 17:00. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wieza-Bable-w-Twoim-telefonie.-Mobilna-wersja-Chants-of-Sennaar-za-darmo-w-Epic-Games_minaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
