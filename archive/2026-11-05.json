@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T20:01+01:00",
+  "updatedAt": "2026-11-05T20:27+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "25 legendarnych gier Electronic Arts dostało drugie życie i trafiło na Steama",
-    "summary": "Z jednej strony zamknęło BioWare, z drugiej dało drugie życie 25 klasycznym grom. Electronic Arts prawdopodobnie właśnie zdobyło mały plusik u fanów Ultimy i Wing Commandera. Informacja 25 legendarnych gier Electronic Arts dostało drugie życie i trafiło na Steama została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/25-legendarnych-gier-electronic-arts-dostalo-drugie-zycie-i-trafi/ze32243",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531602045.jpg"
+    "title": "2 gry do odebrania w Amazon Prime Gaming. Świetnie oceniana strzelanka i najnowsza odsłona kultowej serii wyścigowej",
+    "summary": "Listopad nie rozpieszcza subskrybentów usługi Amazon Luna Standard (dawniej Amazon Prime Gaming). Odbiorą oni tylko 7 gier, z czego 2 mogą zgarnąć już teraz. Tyle dobrego, że różnorodność jest naprawdę duża. Informacja 2 gry do odebrania w Amazon Prime Gaming. Świetnie oceniana strzelanka i najnowsza odsłona kultowej serii wyścigowej została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-do-odebrania-w-amazon-prime-gaming-swietnie-oceniana-strzel/zf32244",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531605438.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "2 gry do odebrania w Amazon Prime Gaming. Świetnie oceniana strzelanka i najnowsza odsłona kultowej serii wyścigowej",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-do-odebrania-w-amazon-prime-gaming-swietnie-oceniana-strzel/zf32244",
+      "publishedAt": "2026-11-05T21:10+01:00",
+      "summary": "Listopad nie rozpieszcza subskrybentów usługi Amazon Luna Standard (dawniej Amazon Prime Gaming). Odbiorą oni tylko 7 gier, z czego 2 mogą zgarnąć już teraz. Tyle dobrego, że różnorodność jest naprawdę duża. Informacja 2 gry do odebrania w Amazon Prime Gaming. Świetnie oceniana strzelanka i najnowsza odsłona kultowej serii wyścigowej została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531605438.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zagraj w Kingdom Come: Deliverance II za darmo w Amazon Luna. Aż 7 nowych gier w Chmurze!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/zagraj-w-kingdom-come-deliverance-ii-za-darmo-w-amazon-luna-az-7-nowych-gier-w-chmurze/",
+      "publishedAt": "2026-11-05T20:15+01:00",
+      "summary": "Łowcy, przed Wami jedenasta w tym roku rotację katalogu gier oferowanych do uruchamiania w Chmurze. W ramach listopadowej edycji możecie zagrać w jedną z najlepszych gioer 2025 roku, czyli Kingdom Come: Deliverance II za darmo. Nowa oferta abonamentu Amazon Luna przynosi nam łącznie siedem nowości, w tym idealne do wspólnej zabawy tytuły z biblioteki GameNight. Wszystkie pozycje dostępne są oczywiście w ramach streamingu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zagraj-w-Kingdom-Come_-Deliverance-II-za-darmo-w-Amazon-Luna.-Az-7-nowych-gier-w-Chmurze_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "25 legendarnych gier Electronic Arts dostało drugie życie i trafiło na Steama",
@@ -28,6 +46,15 @@
       "publishedAt": "2026-11-05T20:01+01:00",
       "summary": "GOG obchodzi 18. rocznicę działalności i z tej okazji przygotował pierwszą w swojej historii prezentację GOG Showcase.",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Amazon Luna w listopadzie. Coś dla fanów wilkołaków, a także entuzjastów dinozaurów i uzbrojonych wiewiórek",
+      "sourceUrl": "https://cdaction.pl/newsy/amazon-luna-w-listopadzie-cos-dla-fanow-wilkolakow-a-takze-entuzjastow-dinozaurow-i-uzbrojonych-wiewiorek/",
+      "publishedAt": "2026-11-05T20:00+01:00",
+      "summary": "Kolejna paczka darmowych w ramach abonamentu Amazon Prime produkcji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/amazon-luna-5999.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
