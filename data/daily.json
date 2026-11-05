@@ -1,17 +1,61 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T11:01+01:00",
+  "updatedAt": "2026-11-05T12:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Premiera MMO bez długich kolejek i awarii? WoW Forever pozytywnie zaskoczył graczy",
-    "summary": "Za nami premiera World of Warcraft: Forever. Gracze na razie są bardzo zadowoleni, zwłaszcza w kwestii braku poważnych problemów technicznych. Informacja Premiera MMO bez długich kolejek i awarii? WoW Forever pozytywnie zaskoczył graczy została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/premiera-mmo-bez-dlugich-kolejek-i-awarii-wow-forever-pozytywnie/zb3222b",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531572017.jpg"
+    "title": "Kolejki na nocnej premierze nowej Zeldy w Polsce. Polacy mówią o „najmocniejszym Nintendo od czasów Pegasusa”",
+    "summary": "Remake The Legend of Zelda: Ocarina of Time zadebiutował 5 listopada na Nintendo Switch 2. W Polsce gra przyciągnęła fanów na nocne premiery. Informacja Kolejki na nocnej premierze nowej Zeldy w Polsce. Polacy mówią o „najmocniejszym Nintendo od czasów Pegasusa” została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/kolejki-na-nocnej-premierze-nowej-zeldy-w-polsce-polacy-mowia-o-n/za32230",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531575267.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kolejki na nocnej premierze nowej Zeldy w Polsce. Polacy mówią o „najmocniejszym Nintendo od czasów Pegasusa”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kolejki-na-nocnej-premierze-nowej-zeldy-w-polsce-polacy-mowia-o-n/za32230",
+      "publishedAt": "2026-11-05T12:48+01:00",
+      "summary": "Remake The Legend of Zelda: Ocarina of Time zadebiutował 5 listopada na Nintendo Switch 2. W Polsce gra przyciągnęła fanów na nocne premiery. Informacja Kolejki na nocnej premierze nowej Zeldy w Polsce. Polacy mówią o „najmocniejszym Nintendo od czasów Pegasusa” została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531575267.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Może i Bethesda nie pokazała niczego ciekawego na temat The Elder Scrolls 6, ale za to już możecie kupić merch z gry",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/moze-i-bethesda-nie-pokazala-niczego-ciekawego-na-temat-the-elder/ze3222e",
+      "publishedAt": "2026-11-05T12:47+01:00",
+      "summary": "Na premierę The Elder Scrolls 6 jeszcze trochę poczekamy, ale spokojnie – Bethesda i tak pozwoli wam kupić koszulkę z logiem gry. Tak dla osłody. Informacja Może i Bethesda nie pokazała niczego ciekawego na temat The Elder Scrolls 6, ale za to już możecie kupić merch z gry została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531574720.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Star Wars Sokół Millennium za 2699 zł (cena kat. 3699,99 zł) w polskich sklepach. Zestaw wkrótce zniknie ze sprzedaży",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-star-wars-sokol-millennium-za-2699-zl-cena-kat-369999-zl-w-polskich-sklepach-zestaw-wkrotce-zniknie-ze-sprzedazy/",
+      "publishedAt": "2026-11-05T12:00+01:00",
+      "summary": "Potężny, bo składający się z aż 7541 elementów zestaw LEGO Star Wars Sokół Millennium, dostępny jest teraz w niezłej cenie w wielu polskich sklepach. Klocków, które pozwolą Wam skonstruować jeden z najbardziej rozpoznawalnych statków z uniwersum Gwiezdnych Wojen, kosztują obecnie 2699 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/11/lego-star-wars-sokol-millennium-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "AMD nigdy nie zarabiało tyle pieniędzy. Problem w tym, że gracze przestają się liczyć",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/amd-nigdy-nie-zarabialo-tyle-pieniedzy-problem-w-tym-ze-gracze-pr/z232229",
+      "publishedAt": "2026-11-05T12:00+01:00",
+      "summary": "AMD świętuje rekordowe przychody, które wzrosły o 45% rok do roku. Wszystko dzięki rozwojowi infrastruktury AI, ponieważ na gamingu firma zaczęła znacznie mniej zarabiać. Informacja AMD nigdy nie zarabiało tyle pieniędzy. Problem w tym, że gracze przestają się liczyć została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531571676.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "W końcu serial dla dużych chłopców. Nowość na popularnej platformie",
+      "sourceUrl": "https://www.ppe.pl/news/432268/w-koncu-serial-dla-duzych-chlopcow-nowosc-na-popularnej-platformie.html",
+      "publishedAt": "2026-11-05T11:56+01:00",
+      "summary": "Fani mocnego kina akcji i seriali z gatunku policyjnych procedurali mają powód do radości, bo na platformie CANAL+ pojawiła się właśnie prawdziwa gratka dla dużych chłopców.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Premiera MMO bez długich kolejek i awarii? WoW Forever pozytywnie zaskoczył graczy",
@@ -31,6 +75,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531571378.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Telewizor TCL 85MQLED75L HDMI 2.1 144 Hz HDMI 2.1 Dolby Vision za 4999 zł (799 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/telewizor-tcl-85mqled75l-hdmi-2-1-144-hz-hdmi-2-1-dolby-vision-za-4999-zl-799-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-05T11:46+01:00",
+      "summary": "Potężny, 85-calowy TCL 85MQLED75L, pojawił się w promocyjnej cenie w sklepie Media Expert. Model z matrycą QD-Mini LED, z obsługą natywnej częstotliwości odświeżania 144 Hz, portami HDMI 2.1 i szeregiem funkcji dla graczy, kosztuje 4999 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Telewizor-TCL-85MQLED75L-logo-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Fani jednej frakcji z WoW-a nie mogli tworzyć swoich postaci w Forever. Nowa kombinacja chyba okazała się zbyt popularna",
       "sourceUrl": "https://www.gry-online.pl/newsroom/fani-jednej-frakcji-z-wow-a-nie-mogli-tworzyc-swoich-postaci-w-fo/z032227",
@@ -38,6 +91,22 @@
       "summary": "Liczyliście na zostanie nieumarłym paladynem w WoW Forever? Jeśli tak, to szykujcie się, bo możecie trochę na to poczekać. Informacja Fani jednej frakcji z WoW-a nie mogli tworzyć swoich postaci w Forever. Nowa kombinacja chyba okazała się zbyt popularna została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531570619.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy przepraszają a gracze muszą zmienić hasła. Złośliwy kod infekował systemy przez cały tydzień",
+      "sourceUrl": "https://www.ppe.pl/news/432274/tworcy-przepraszaja-a-gracze-musza-zmienic-hasla-zlosliwy-kod-infekowal-systemy-przez-caly-tydzien.html",
+      "publishedAt": "2026-11-05T11:40+01:00",
+      "summary": "Mamy dalszy ciąg sytuacji związanej z jednym z najpoważniejszych naruszeń bezpieczeństwa graczy w dziejach branży gier.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze premium przepytani. Dla większości z nich pudełka mogłyby nie istnieć",
+      "sourceUrl": "https://www.ppe.pl/news/432267/gracze-premium-przepytani-dla-wiekszosci-z-nich-pudelka-moglyby-nie-istniec.html",
+      "publishedAt": "2026-11-05T11:32+01:00",
+      "summary": "Wokół przyszłości fizycznych wydań gier wideo toczą się nieustające spory, zwłaszcza w obliczu odważnych decyzji wielkich korporacji o stopniowym porzucaniu płyt.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -49,6 +118,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531569811.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Arkane oskarża Microsoft o sabotowanie Marvel’s Blade’a. Francuski związek zawodowy wskazuje szereg nieścisłości",
+      "sourceUrl": "https://cdaction.pl/newsy/arkane-oskarza-microsoft-o-sabotowanie-marvels-bladea-francuski-zwiazek-zawodowy-wskazuje-szereg-niescislosci/",
+      "publishedAt": "2026-11-05T11:15+01:00",
+      "summary": "Samo gęste.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-05T095939.701-1260x709.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "„Jeśli nic się nie zmieni, nie będzie żadnej przyszłości”. Jedna z największych legend anime uważa, że stawianie na remaki i bezpieczne treści prowadzi wyłącznie do katastrofy",
       "sourceUrl": "https://www.gry-online.pl/newsroom/jesli-nic-sie-nie-zmieni-nie-bedzie-zadnej-przyszlosci-jedna-z-na/ze32225",
@@ -56,6 +134,31 @@
       "summary": "Weteran branży anime podzielił się swoimi wnioskami na temat obecnej sytuacji w świecie kina oraz skutkami, jakie może pociągnąć dalsze podążanie tą drogą bez podejmowania ryzyka. Informacja „Jeśli nic się nie zmieni, nie będzie żadnej przyszłości”. Jedna z największych legend anime uważa, że stawianie na remaki i bezpieczne treści prowadzi wyłącznie do katastrofy została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531569385.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tak szczegółowej Polski nie ma w żadnej innej grze. Xbox promuje wyczyn w Sopocie",
+      "sourceUrl": "https://www.ppe.pl/news/432256/tak-szczegolowej-polski-nie-ma-w-zadnej-innej-grze-xbox-promuje-wyczyn-w-sopocie.html",
+      "publishedAt": "2026-11-05T11:10+01:00",
+      "summary": "Xbox postanowił wypromować na arenie międzynarodowej Microsoft Flight Simulator 2024 i przy okazji nasz kraj.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder inKONBINI One Store Many Stories Edycja Kolekcjonerska na PS5 i Nintendo Switch 2 od 349,90 zł (+ wysyłka) w Ultima",
+      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/preorder-inkonbini-one-store-many-stories-edycja-kolekcjonerska-na-ps5-i-nintendo-switch-2-od-34990-zl-wysylka-w-ultima/",
+      "publishedAt": "2026-11-05T11:09+01:00",
+      "summary": "Debiutujące pod koniec stycznia kolekcjonerskie wydanie inKONBINI: One Store Many Stories, pojawiło się w przedsprzedaży w sklepie internetowym Ultima.pl. Pudełko z produkcją niezależnego studia Nagai Industries, w której oprócz prowadzenia sklepu zajmiecie się także poznawaniem mieszkańców, kosztuje w wersji na PlayStation 5 349,90 zł. Posiadacze Nintendo Switch 2 zapłacą z kolei 359,90 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/inkonbini-kolekcjonerka-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wielka wpadka przy Avengers Doomsday. Fani oburzeni",
+      "sourceUrl": "https://www.ppe.pl/news/432266/wielka-wpadka-przy-avengers-doomsday-fani-oburzeni.html",
+      "publishedAt": "2026-11-05T11:09+01:00",
+      "summary": "Wokół zbliżającego się wielkimi krokami filmu Avengers: Doomsday krąży sporo emocji, ale najnowsza akcja promocyjna z udziałem znanej sieci fast foodów wywołała w sieci prawdziwą burzę.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
