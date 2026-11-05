@@ -1,16 +1,58 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T07:01+01:00",
+  "updatedAt": "2026-11-05T08:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Xbox Series X|S z potężnym ulepszeniem! AMD FSR 4.1.2 może odmienić jakość gier",
-    "summary": "Współpraca Microsoftu i AMD układa się naprawdę przyzwoicie, co bez wątpienia mogą wykorzystać twórcy gier. AMD potwierdziło pełne wsparcie dla AMD FSR 4.1.2 na konsolach Xbox Series X|S, a nowa technologia może pomóc deweloperom w osiągni...",
-    "sourceUrl": "https://www.ppe.pl/news/432206/xbox-series-x-s-z-poteznym-ulepszeniem-amd-fsr-4-1-2-moze-odmienic-jakosc-gier.html"
+    "title": "3 gry w Xbox Game Pass, w tym wysoko oceniany symulator strażaka",
+    "summary": "Abonenci usług Xbox i PC Game Pass sprawdzą dzisiaj trzy gry. Oprócz debiutującego Escape Academy 2: Back 2 School w ich ręce trafi Firefighting Simulator: Ignite i pakiet MySims Cozy Bundle. Informacja 3 gry w Xbox Game Pass, w tym wysoko oceniany symulator strażaka została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/3-gry-w-xbox-game-pass-w-tym-wysoko-oceniany-symulator-strazaka/za3221b",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531559831.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "3 gry w Xbox Game Pass, w tym wysoko oceniany symulator strażaka",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/3-gry-w-xbox-game-pass-w-tym-wysoko-oceniany-symulator-strazaka/za3221b",
+      "publishedAt": "2026-11-05T08:30+01:00",
+      "summary": "Abonenci usług Xbox i PC Game Pass sprawdzą dzisiaj trzy gry. Oprócz debiutującego Escape Academy 2: Back 2 School w ich ręce trafi Firefighting Simulator: Ignite i pakiet MySims Cozy Bundle. Informacja 3 gry w Xbox Game Pass, w tym wysoko oceniany symulator strażaka została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531559831.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Marvel's Wolverine z oficjalnym wynikiem sprzedaży! Czy to jest sukces dla PlayStation?",
+      "sourceUrl": "https://www.ppe.pl/news/432249/marvel-s-wolverine-z-oficjalnym-wynikiem-sprzedazy-czy-to-jest-sukces-dla-playstation.html",
+      "publishedAt": "2026-11-05T07:58+01:00",
+      "summary": "Marvel’s Wolverine nie miał łatwego startu. Najnowsza produkcja Insomniac Games zebrała sporo negatywnych opinii i zdecydowanie nie jest najlepiej ocenianą grą PlayStation ostatnich lat. Wielu graczy liczyło na znacznie lepszą przygodę, a mies...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Stałe 60 FPS i najpiękniejsza gra Nintendo. The Legend of Zelda: Ocarina of Time Remake pod okiem specjalistów",
+      "sourceUrl": "https://www.ppe.pl/news/432189/stale-60-fps-i-najpiekniejsza-gra-nintendo-the-legend-of-zelda-ocarina-of-time-remake-pod-okiem-specjalistow.html",
+      "publishedAt": "2026-11-05T07:50+01:00",
+      "summary": "Fani Nintendo mogą świętować. Digital Foundry potwierdza znakomitą jakość The Legend of Zelda: Ocarina of Time Remake.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Elder Scrolls 6 wywołało burzę! „Mówię to, ponieważ to prawda”",
+      "sourceUrl": "https://www.ppe.pl/news/432183/the-elder-scrolls-6-wywolalo-burze-mowie-to-poniewaz-to-prawda.html",
+      "publishedAt": "2026-11-05T07:30+01:00",
+      "summary": "Wystarczyła jedna informacja o The Elder Scrolls VI: Sentinel, by wśród fanów Bethesdy ponownie zrobiło się gorąco. Jason Schreier przekazał, że na premierę wyczekiwanej produkcji będziemy musieli poczekać jeszcze ponad dwa lata, co nie spod...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox oskarżony o sabotaż Marvel's Blade i Arkane. Studio nie mogło osiągnąć sukcesu?",
+      "sourceUrl": "https://www.ppe.pl/news/432205/xbox-oskarzony-o-sabotaz-marvel-s-blade-i-arkane-studio-nie-moglo-osiagnac-sukcesu.html",
+      "publishedAt": "2026-11-05T07:10+01:00",
+      "summary": "Xbox chce sprzedać Arkane Studios i twórcy serii Dishonored mogą trafić w ręce Ubisoftu. Sytuacja staje się jednak niezwykle ciekawa, ponieważ amerykańska korporacja jest oskarżona o… sabotaż zespołu.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Xbox Series X|S z potężnym ulepszeniem! AMD FSR 4.1.2 może odmienić jakość gier",
@@ -18,6 +60,24 @@
       "publishedAt": "2026-11-05T06:50+01:00",
       "summary": "Współpraca Microsoftu i AMD układa się naprawdę przyzwoicie, co bez wątpienia mogą wykorzystać twórcy gier. AMD potwierdziło pełne wsparcie dla AMD FSR 4.1.2 na konsolach Xbox Series X|S, a nowa technologia może pomóc deweloperom w osiągni...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dziś najważniejsza kryminalna premiera Netflixa w tym tygodniu. 6-odcinkowa kontynuacja thrillera z 92% na Rotten Tomatoes",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-najwazniejsza-kryminalna-premiera-netflixa-w-tym-tygodniu-6/z832210",
+      "publishedAt": "2026-11-05T06:50+01:00",
+      "summary": "Lubiany thriller Netflixa powraca dziś z kontynuacją. Na platformie Netflix można obejrzeć drugi sezon serialu Black Doves. W rolach głównych ponownie zobaczymy Keirę Knightley oraz Bena Whishawa. Informacja Dziś najważniejsza kryminalna premiera Netflixa w tym tygodniu. 6-odcinkowa kontynuacja thrillera z 92% na Rotten Tomatoes została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531498502.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "77. gra za darmo w 2026 roku w Epic Games Store",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/77-gra-za-darmo-w-2026-roku-w-epic-games-store/z93221a",
+      "publishedAt": "2026-11-05T06:30+01:00",
+      "summary": "Epic Games Store oferuje antidotum na listopadową słotę, zabierając graczy w survivalową podróż na pełne morze. Strategia Flotsam potrafi zachwycić, ale też przytłoczyć swobodą rozgrywki. Informacja 77. gra za darmo w 2026 roku w Epic Games Store została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531524364.jpg"
     },
     {
       "sourceName": "PPE",
@@ -191,6 +251,14 @@
       "summary": "Xbox Series X-Bite idealnie pasowałby do salonu niejednego amerykańskiego „rednecka”, ale powstał tylko jeden egzemplarz, który można wygrać w specjalnym konkursie.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-4-o-10.13.18-1260x662.jpg"
+    },
+    {
+      "sourceName": "GRY-Online / Publicystyka",
+      "title": "Najwyżej oceniana gra w historii powróciła po niemal 30 latach. Recenzja The Legend of Zelda: Ocarina of Time",
+      "sourceUrl": "https://www.gry-online.pl/recenzje/najwyzej-oceniana-gra-w-historii-powrocila-po-niemal-30-latach-re/z749d6",
+      "publishedAt": "2026-11-04T13:00+01:00",
+      "summary": "Stało się. Najbardziej legendarna z Legend Zeldy doczekała się pełnoprawnego remake&apos;u. Czy kultowy tytuł sprzed niemal trzech dekad wytrzyma spotkanie ze współczesnością? Zobaczcie, jak brzmi odświeżona melodia Okaryny Czasu. Najwyżej oceniana gra w historii powróciła po niemal 30 latach. Recenzja The Legend of Zelda: Ocarina of Time został opublikowany przez gry-online.pl 4 listopada 2026. Zobacz zasady korzystania z naszych treści .",
+      "category": "PUBLICYSTYKA"
     },
     {
       "sourceName": "CD-Action",
