@@ -1,17 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T19:01+01:00",
+  "updatedAt": "2026-11-05T20:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Wszyscy dostali za darmo, a gracze PS5 muszą zapłacić. Sony popsuło prezent fanom Jamesa Bonda i 007: First Light",
-    "summary": "IO Interactive udostępniło wersję demonstracyjną 007: First Light, dzięki której gracze mogą bezpłatnie sprawdzić początek przygody Jamesa Bonda. Wyjątkiem są gracze PS5, którzy muszą za to zapłacić. Informacja Wszyscy dostali za darmo, a gracze PS5 muszą zapłacić. Sony popsuło prezent fanom Jamesa Bonda i 007: First Light została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wszyscy-dostali-za-darmo-a-gracze-ps5-musza-zaplacic-sony-popsulo/zd32242",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531600030.jpg"
+    "title": "25 legendarnych gier Electronic Arts dostało drugie życie i trafiło na Steama",
+    "summary": "Z jednej strony zamknęło BioWare, z drugiej dało drugie życie 25 klasycznym grom. Electronic Arts prawdopodobnie właśnie zdobyło mały plusik u fanów Ultimy i Wing Commandera. Informacja 25 legendarnych gier Electronic Arts dostało drugie życie i trafiło na Steama została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/25-legendarnych-gier-electronic-arts-dostalo-drugie-zycie-i-trafi/ze32243",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531602045.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "25 legendarnych gier Electronic Arts dostało drugie życie i trafiło na Steama",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/25-legendarnych-gier-electronic-arts-dostalo-drugie-zycie-i-trafi/ze32243",
+      "publishedAt": "2026-11-05T20:14+01:00",
+      "summary": "Z jednej strony zamknęło BioWare, z drugiej dało drugie życie 25 klasycznym grom. Electronic Arts prawdopodobnie właśnie zdobyło mały plusik u fanów Ultimy i Wing Commandera. Informacja 25 legendarnych gier Electronic Arts dostało drugie życie i trafiło na Steama została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531602045.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GOG świętuje 18. urodziny! Firma zaprezentowała nowe projekty i powrót kultowych gier",
+      "sourceUrl": "https://www.ppe.pl/news/432326/gog-swietuje-18-urodziny-firma-zaprezentowala-nowe-projekty-i-powrot-kultowych-gier.html",
+      "publishedAt": "2026-11-05T20:01+01:00",
+      "summary": "GOG obchodzi 18. rocznicę działalności i z tej okazji przygotował pierwszą w swojej historii prezentację GOG Showcase.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Rekordowo tanie Crisol: Theater of Idols na PC. Klucz Steam dostępny za 4,10 zł w Kinguinie!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/rekordowo-tanie-crisol-theater-of-idols-na-pc-klucz-steam-dostepny-za-410-zl-w-kinguinie/",
+      "publishedAt": "2026-11-05T19:51+01:00",
+      "summary": "W cyfrowym sklepie Kinguin, wykorzystując specjalny kod zniżkowy, możecie zakupić rekordowo tanio Crisol: Theater of Idols. Debiutancka produkcja hiszpańskiego zespołu Vermila Studios dostępna jest w w historycznie najniższej cenie. Klucz Steam z grą, która powinna przypaść do gustu fanom serii BioShock, może być Wasz za jedyne 4,10 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Rekordowo-tanie-Crisol_-Theater-of-Idols-na-PC.-Klucz-Steam-dostepny-za-410-zl-w-Kinguinie_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Wszyscy dostali za darmo, a gracze PS5 muszą zapłacić. Sony popsuło prezent fanom Jamesa Bonda i 007: First Light",
@@ -20,6 +46,32 @@
       "summary": "IO Interactive udostępniło wersję demonstracyjną 007: First Light, dzięki której gracze mogą bezpłatnie sprawdzić początek przygody Jamesa Bonda. Wyjątkiem są gracze PS5, którzy muszą za to zapłacić. Informacja Wszyscy dostali za darmo, a gracze PS5 muszą zapłacić. Sony popsuło prezent fanom Jamesa Bonda i 007: First Light została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531600030.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "EA zamknęło BioWare w świetle kamer. Film dokumentalny o legendarnym studiu ukaże się w przyszłym roku",
+      "sourceUrl": "https://cdaction.pl/newsy/ea-zamknelo-bioware-w-swietle-kamer-film-dokumentalny-o-legendarnym-studiu-ukaze-sie-w-przyszlym-roku/",
+      "publishedAt": "2026-11-05T19:38+01:00",
+      "summary": "Zobaczymy, jak pan EA będzie skakał, bo to już się kameruje.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/me3-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dziedzictwo Hogwartu wygląda jeszcze lepiej. DLSS 5 na PC już dostępne!",
+      "sourceUrl": "https://www.ppe.pl/news/432325/dziedzictwo-hogwartu-wyglada-jeszcze-lepiej-dlss-5-na-pc-juz-dostepne.html",
+      "publishedAt": "2026-11-05T19:32+01:00",
+      "summary": "Fani uniwersum Harry’ego Pottera mogą ponownie odwiedzić Hogwart w nieco odświeżonej oprawie graficznej. Hogwarts Legacy otrzymało aktualizację wprowadzającą obsługę technologii DLSS 5. Najnowsze rozwiązanie NVIDII wykorzystuje renderowanie...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Listopadowa lista gier PC za darmo w Prime Gaming. Amazon Luna rozczaruje fanów GOG!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/listopadowa-lista-gier-pc-za-darmo-w-prime-gaming-amazon-luna-rozczaruje-fanow-gog/",
+      "publishedAt": "2026-11-05T19:28+01:00",
+      "summary": "Łowcy, na oficjalnym blogu firmy Amazon pojawiła się właśnie listopadowa lista z ofertą subskrypcji Prime Gaming, która od dłuższego czasu stanowi integralną część usługi Luna Standard. W ramach najnowszej rotacji rozdawnictwa otrzymamy łącznie 7 gier PC, ale niestety żadnego klucza do aktywacji na platformie GOG.com! Pierwsza tura abonamentu pozwala odebrać dwie gry PC za darmo, czyli Squirrel with a Gun oraz WRC Generations w postaci bezpośredniej aktywacji na platformie Epic Games. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Listopadowa-lista-gier-PC-za-darmo-w-Prime-Gaming.-Amazon-Luna-rozczaruje-fanow-GOG_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
