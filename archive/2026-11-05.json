@@ -1,17 +1,34 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T18:01+01:00",
+  "updatedAt": "2026-11-05T19:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Fani Mass Effect i BioWare chcą, by kanadyjski rząd pomógł uratować legendarne studio i jego kultowe marki",
-    "summary": "Fani BioWare nie zamierzają pogodzić się z zamknięciem studia. W desperackiej próbie ratowania twórców Mass Effect zwrócili się o pomoc do kanadyjskiego rządu. Informacja Fani Mass Effect i BioWare chcą, by kanadyjski rząd pomógł uratować legendarne studio i jego kultowe marki została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/fani-mass-effect-i-bioware-chca-by-kanadyjski-rzad-pomogl-uratowa/zc32241",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531596856.jpg"
+    "title": "Wszyscy dostali za darmo, a gracze PS5 muszą zapłacić. Sony popsuło prezent fanom Jamesa Bonda i 007: First Light",
+    "summary": "IO Interactive udostępniło wersję demonstracyjną 007: First Light, dzięki której gracze mogą bezpłatnie sprawdzić początek przygody Jamesa Bonda. Wyjątkiem są gracze PS5, którzy muszą za to zapłacić. Informacja Wszyscy dostali za darmo, a gracze PS5 muszą zapłacić. Sony popsuło prezent fanom Jamesa Bonda i 007: First Light została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/wszyscy-dostali-za-darmo-a-gracze-ps5-musza-zaplacic-sony-popsulo/zd32242",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531600030.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wszyscy dostali za darmo, a gracze PS5 muszą zapłacić. Sony popsuło prezent fanom Jamesa Bonda i 007: First Light",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wszyscy-dostali-za-darmo-a-gracze-ps5-musza-zaplacic-sony-popsulo/zd32242",
+      "publishedAt": "2026-11-05T19:41+01:00",
+      "summary": "IO Interactive udostępniło wersję demonstracyjną 007: First Light, dzięki której gracze mogą bezpłatnie sprawdzić początek przygody Jamesa Bonda. Wyjątkiem są gracze PS5, którzy muszą za to zapłacić. Informacja Wszyscy dostali za darmo, a gracze PS5 muszą zapłacić. Sony popsuło prezent fanom Jamesa Bonda i 007: First Light została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531600030.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To on chce zagrać kapitana Price’a w filmie Call of Duty. Ma mocny argument",
+      "sourceUrl": "https://www.ppe.pl/news/432301/to-on-chce-zagrac-kapitana-price-a-w-filmie-call-of-duty-ma-mocny-argument.html",
+      "publishedAt": "2026-11-05T19:01+01:00",
+      "summary": "Barry Sloane otwarcie zabiega o rolę kapitana Johna Price'a w filmie Call of Duty.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Fani Mass Effect i BioWare chcą, by kanadyjski rząd pomógł uratować legendarne studio i jego kultowe marki",
@@ -22,6 +39,65 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531596856.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Czy jesteś fanem autobitewniaków? Znamy tytuł kolejnej gry za darmo na PC od Epic Games!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/czy-jestes-fanem-autobitewniakow-znamy-tytul-kolejnej-gry-za-darmo-na-pc-od-epic-games/",
+      "publishedAt": "2026-11-05T18:48+01:00",
+      "summary": "Na specjalnej stronie Epic Games Store dostępna jest już oficjalne zapowiedź drugiej w tym miesięcy tury rozdawnictwa. W przyszłym tygodniu do swoich kont przypiszecie grę Knightica za darmo. Produkcja studia Mad Mango Games to przedstawiciel lubianego przez wielu graczy gatunku auto battler . Tytuł mogący się pochwalić ponad 1000 recenzji, z czego aż 74% to oceny pozytywne, dostępny będzie zupełnie bezpłatnie od 12 do 19 listopada 2026 roku. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Czy-jestes-fanem-autobitewniakow_-Znamy-tytul-kolejnej-gry-za-darmo-na-PC-od-Epic-Games_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "007 First Light dostępne za darmo. Jeśli nie jesteście pewni, czy warto kupić grę, IO Interactive spróbuje was przekonać wersją demo",
+      "sourceUrl": "https://cdaction.pl/newsy/007-first-light-dostepne-za-darmo-jesli-nie-jestescie-pewni-czy-warto-kupic-gre-io-interactive-sprobuje-was-przekonac-wersja-demo/",
+      "publishedAt": "2026-11-05T18:45+01:00",
+      "summary": "Godzina zabawy za darmo.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/007-first-light-8852.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Battlefield 6 wprowadza totalny chaos! Koniec z bezpiecznymi kryjówkami",
+      "sourceUrl": "https://www.ppe.pl/news/432300/battlefield-6-wprowadza-totalny-chaos-koniec-z-bezpiecznymi-kryjowkami.html",
+      "publishedAt": "2026-11-05T18:45+01:00",
+      "summary": "Battlefield 6 otrzyma kolejną dużą aktualizację. High Stakes zadebiutuje 10 listopada i wprowadzi nocną mapę European Casino, osadzoną w Las Vegas.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Graj jak w kinie za grosze! Tanie projektory i TV na Allegro - już od 119 zł",
+      "sourceUrl": "https://www.ppe.pl/news/432298/graj-jak-w-kinie-za-grosze-tanie-projektory-i-tv-na-allegro-juz-od-119-zl.html",
+      "publishedAt": "2026-11-05T18:20+01:00",
+      "summary": "Granie na konsoli lub PC wcale nie musi oznaczać wydawania kilku tysięcy na flagowy ekran.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "W sierpniu w kinach, a już na Disney+! WIELKA niespodzianka i BŁYSKAWICZNA premiera w streamingu",
+      "sourceUrl": "https://www.ppe.pl/news/432306/w-sierpniu-w-kinach-a-juz-na-disney-plus-wielka-niespodzianka-i-blyskawiczna-premiera-w-streamingu.html",
+      "publishedAt": "2026-11-05T18:16+01:00",
+      "summary": "Bez większej zapowiedzi Disney właśnie udostępnił jedną ze swoich najnowszych produkcji na Disney+ oraz Hulu. To spora niespodzianka, która powinna spodobać się fanom serii.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Problem z dostępnością pamięci RAM nie wpłynie na cenę Switcha 2? Nintendo jest przygotowane",
+      "sourceUrl": "https://www.ppe.pl/news/432299/problem-z-dostepnoscia-pamieci-ram-nie-wplynie-na-cene-switcha-2-nintendo-jest-przygotowane.html",
+      "publishedAt": "2026-11-05T18:04+01:00",
+      "summary": "Nintendo ma dysponować wystarczającymi zapasami pamięci RAM, aby uniknąć kolejnej podwyżki ceny konsoli Switch 2. Informacje na ten temat przekazał Reuters, powołując się na swoje źródła. To istotna wiadomość dla graczy, ponieważ rosnąc...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "W co graliśmy 10 lat temu? Tanie gry Steam z poprzedniej dekady (do 50 zł) w Instant Gaming!",
+      "sourceUrl": "https://lowcygier.pl/gry-za-grosze/w-co-gralismy-10-lat-temu-tanie-gry-steam-z-poprzedniej-dekady-do-50-zl-w-instant-gaming/",
+      "publishedAt": "2026-11-05T18:03+01:00",
+      "summary": "Łowcy, czas na kolejne w listopadzie zestawienie z cyklu „Gry za grosze” . Tym razem cofniemy się nieco w przeszłość i sprawdzimy w co takiego zagrywaliśmy się dekadę temu. W rozwinięciu wpisu znajdziecie najlepsze oferty na tanie gry Steam, które mają na karku minimum 10 lat. Wszystkie wyróżnione przez nas oferty dostępne są w sklepie Instant Gaming w cenach niższych niż 50 zł! Życzymy udanych zakupów 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/W-co-gralismy-10-lat-temu_-Tanie-gry-Steam-z-poprzedniej-dekady-do-50-zl-w-Instant-Gaming_minaturka-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Już jutro na Netflixie zadebiutuje jeden z najlepszych filmów roku. 100% krytyków zachwyca się tym arcydziełem",
       "sourceUrl": "https://www.gry-online.pl/newsroom/juz-jutro-na-netflixie-zadebiutuje-jeden-z-najlepszych-filmow-rok/z232238",
@@ -29,6 +105,15 @@
       "summary": "Od jutra na Netfliksie będzie można obejrzeć znakomity dramat od uznanego reżysera. Jego nowe dzieło poleca 100% krytyków. Informacja Już jutro na Netflixie zadebiutuje jeden z najlepszych filmów roku. 100% krytyków zachwyca się tym arcydziełem została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531579685.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Szanuję antywojenny przekaz „Godzilli Minus Zero”, ale przydałoby się tu mniej gadania, a więcej akcji [RECENZJA]",
+      "sourceUrl": "https://cdaction.pl/kultura/szanuje-antywojenny-przekaz-godzilli-minus-zero-ale-przydaloby-sie-tu-mniej-gadania-a-wiecej-akcji-recenzja/",
+      "publishedAt": "2026-11-05T18:00+01:00",
+      "summary": "Czy macie Państwo chwilę, by poczytać o kaijū?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/inbs20260806100742003ycbh-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
