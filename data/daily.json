@@ -1,17 +1,121 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T14:01+01:00",
+  "updatedAt": "2026-11-05T15:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "To do dziś jedna z najgorszych prób gaszenia pożaru w historii branży gier. Jeden komentarz mógłby być symbolem podejścia EA",
-    "summary": "W świetle ostatnich wydarzeń z udziałem EA wspominamy czasy Star Wars Battlefront oraz najbardziej downvote’owany komentarz w historii Reddita. Informacja To do dziś jedna z najgorszych prób gaszenia pożaru w historii branży gier. Jeden komentarz mógłby być symbolem podejścia EA została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/to-do-dzis-jedna-z-najgorszych-prob-gaszenia-pozaru-w-historii-br/z132237",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531579558.jpg"
+    "title": "5 miesięcy temu premiera za 48 mln zł, wczoraj wniosek o upadłość. To prawdopodobnie koniec polskiego Copa City",
+    "summary": "Spółka Triple Espresso, która stała za grą Copa City, miała złożyć wniosek o upadłość. Informację przekazał w mediach społecznościowych m.in. redaktor naczelny Strefy Inwestorów. Informacja 5 miesięcy temu premiera za 48 mln zł, wczoraj wniosek o upadłość. To prawdopodobnie koniec polskiego Copa City została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/5-miesiecy-temu-premiera-za-48-mln-zl-wczoraj-wniosek-o-upadlosc/zd3223c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531585307.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "5 miesięcy temu premiera za 48 mln zł, wczoraj wniosek o upadłość. To prawdopodobnie koniec polskiego Copa City",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/5-miesiecy-temu-premiera-za-48-mln-zl-wczoraj-wniosek-o-upadlosc/zd3223c",
+      "publishedAt": "2026-11-05T15:36+01:00",
+      "summary": "Spółka Triple Espresso, która stała za grą Copa City, miała złożyć wniosek o upadłość. Informację przekazał w mediach społecznościowych m.in. redaktor naczelny Strefy Inwestorów. Informacja 5 miesięcy temu premiera za 48 mln zł, wczoraj wniosek o upadłość. To prawdopodobnie koniec polskiego Copa City została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531585307.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "To największy jesienny hit na Crunchyrollu. Ogromny sukces osiągnęło anime, które powróciło po 5 latach przerwy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/to-najwiekszy-jesienny-hit-na-crunchyrollu-ogromny-sukces-osiagne/za3222a",
+      "publishedAt": "2026-11-05T15:02+01:00",
+      "summary": "Na Crunchyrolla po długiej przerwie z drugim sezonem powróciło przebojowe anime, które w ubiegłym miesiącu odniosło duży sukces. Żadna inna produkcja nie mogła się z nim równać. Informacja To największy jesienny hit na Crunchyrollu. Ogromny sukces osiągnęło anime, które powróciło po 5 latach przerwy została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531571983.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wing Commander wraca po latach, a Star Citizen wciąż nie jest gotowy. Historia dwóch kosmicznych marzeń Chrisa Robertsa",
+      "sourceUrl": "https://www.gry-online.pl/opinie/35-lat-temu-stworzyl-jedna-z-najwazniejszych-gier-pc-dzis-probuje/z849d7",
+      "publishedAt": "2026-11-05T14:48+01:00",
+      "summary": "Star Citizen nie wziął się znikąd. To dalszy ciąg projektu Chrisa Robertsa, który narodził się ponad 35 lat temu wraz z Wing Commanderem – serią, która zmieniła oblicze gier komputerowych i wyznaczyła kierunek dla całej branży. Informacja Wing Commander wraca po latach, a Star Citizen wciąż nie jest gotowy. Historia dwóch kosmicznych marzeń Chrisa Robertsa została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Z pasji się nie wyrasta! Zapraszamy na HOBBYCon 2026",
+      "sourceUrl": "https://cdaction.pl/newsy/z-pasji-sie-nie-wyrasta-zapraszamy-na-hobbycon-2026/",
+      "publishedAt": "2026-11-05T14:45+01:00",
+      "summary": "Już 14–15 listopada 2026 roku na terenie Międzynarodowych Targów Poznańskich. CD-Action też tam będzie!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/image-4-1260x709.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy remake Zeldy trafił na PC przed oficjalną premierą. Nintendo ma kolejny problem",
+      "sourceUrl": "https://www.ppe.pl/news/432281/nowy-remake-zeldy-trafil-na-pc-przed-oficjalna-premiera-nintendo-ma-kolejny-problem.html",
+      "publishedAt": "2026-11-05T14:45+01:00",
+      "summary": "Nintendo szykowało premierę remake'u The Legend of Zelda: Ocarina of Time na Switch 2, ale fani uruchomili grę na PC jeszcze przed debiutem.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Call of Duty: Modern Warfare 4 bywa fotorealistyczne, ale to optymalizacyjna loteria [RECENZJA TECHNICZNA]",
+      "sourceUrl": "https://cdaction.pl/technologie/call-of-duty-modern-warfare-4-bywa-fotorealistyczne-ale-to-optymalizacyjna-loteria-recenzja-techniczna/",
+      "publishedAt": "2026-11-05T14:37+01:00",
+      "summary": "Call of Duty: Modern Warfare 4 to jeden z największych graficznych skoków w historii serii. Infinity Ward mocno przebudowało swój silnik, stawiając na fotorealizm i momentami rzeczywiście można poczuć się jak podczas oglądania filmu wojennego. Co ciekawe, wymagania sprzętowe potrafią zaskoczyć nawet posiadaczy mocnych pecetów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080-1260x709.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nowy raport Sony mówi wprost: o przyszłość PlayStation nie ma się co martwić. Nawet mimo niewielkiej sprzedaży Wolverine’a",
+      "sourceUrl": "https://cdaction.pl/newsy/nowy-raport-sony-mowi-wprost-o-przyszlosc-playstation-nie-ma-sie-co-martwic-nawet-mimo-niewielkiej-sprzedazy-wolverinea/",
+      "publishedAt": "2026-11-05T14:30+01:00",
+      "summary": "Kto zamawiał garść cyferek od Sony?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/sony-9665.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Dysk SSD Lexar NM790 1TB PCIe NVMe 4.0 za 679 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/dysk-ssd-lexar-nm790-1tb-pcie-nvme-4-0-za-679-zl-na-allegro/",
+      "publishedAt": "2026-11-05T14:28+01:00",
+      "summary": "Poprzez serwis Allegro możecie kupić Lexar NM790 taniej, niż w pozostałych polskich sklepach. Za dysk SSD o pojemności 1TB, z interfejsem PCIe 4.0, dzieki czemu urządzenie sprawdzi się jako pamięć konsoli PS5, zapłacicie 679 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/08/Lexar_NM790_2TB_miniatura-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ryan Gosling jako Ghost Rider? Nicolas Cage już czeka na jego występ",
+      "sourceUrl": "https://www.ppe.pl/news/432280/ryan-gosling-jako-ghost-rider-nicolas-cage-juz-czeka-na-jego-wystep.html",
+      "publishedAt": "2026-11-05T14:25+01:00",
+      "summary": "Ryan Gosling może zostać nowym Ghost Riderem w MCU. I Nicolas Cage nie ma nic przeciwko.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 6 dni jedna z najważniejszych kryminalnych premier Netflixa w tym miesiącu. 8 odcinków obiecującej włoskiej nowości",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-6-dni-jedna-z-najwazniejszych-kryminalnych-premier-netflixa-w/zb3223a",
+      "publishedAt": "2026-11-05T14:20+01:00",
+      "summary": "Netflix szykuje propozycję dla fanów mrocznych zagadek, Sherlocka Holmesa i historii sztuki. Już za niecały tydzień premiera włoskiego serialu kryminalnego Światłocień. Informacja Za 6 dni jedna z najważniejszych kryminalnych premier Netflixa w tym miesiącu. 8 odcinków obiecującej włoskiej nowości została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531580053.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "PlayStation 6 coraz bliżej. Sony potwierdza postępy prac, choć PS5 wciąż sprzedaje się w milionach egzemplarzy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/playstation-6-coraz-blizej-sony-potwierdza-postepy-prac-choc-ps5/z332239",
+      "publishedAt": "2026-11-05T14:10+01:00",
+      "summary": "Sony zdradziło, że prace nad PlayStation 6 postępują zgodnie z planem. Równolegle łączna sprzedaż PS5 powoli zbliża się do 100 milionów sztuk. Informacja PlayStation 6 coraz bliżej. Sony potwierdza postępy prac, choć PS5 wciąż sprzedaje się w milionach egzemplarzy została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531580016.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Euro Truck Simulator 2 z dużą aktualizacją. Lista zmian jest spora",
+      "sourceUrl": "https://www.ppe.pl/news/432279/euro-truck-simulator-2-z-duza-aktualizacja-lista-zmian-jest-spora.html",
+      "publishedAt": "2026-11-05T14:06+01:00",
+      "summary": "Euro Truck Simulator 2 dostało aktualizację 1.62.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "To do dziś jedna z najgorszych prób gaszenia pożaru w historii branży gier. Jeden komentarz mógłby być symbolem podejścia EA",
@@ -28,6 +132,24 @@
       "publishedAt": "2026-11-05T14:00+01:00",
       "summary": "Motorola zaprezentowała Signature 27, flagowca z najnowszym Snapdragonem, ekranem Tandem AMOLED i rozbudowanym zestawem aparatów. Producent dorzuca do tego baterię 7000 mAh, siedem lat wsparcia oraz ofertę premierową z zegarkiem, głośnikiem i ła...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Jeszcze nie widzieliśmy rozgrywki z The Elder Scrolls 6, ale już możemy kupić koszulkę i bluzę z logo gry. Bethesda rozpoczęła sprzedaż nowego merchu",
+      "sourceUrl": "https://cdaction.pl/newsy/jeszcze-nie-widzielismy-rozgrywki-z-the-elder-scrolls-6-ale-juz-mozemy-kupic-koszulke-i-bluze-z-logo-gry-bethesda-rozpoczela-sprzedaz-nowego-merchu/",
+      "publishedAt": "2026-11-05T14:00+01:00",
+      "summary": "Nikt nic nie widział, nikt nic nie wie, ale pieniądz musi się zgadzać.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/the-elder-scrolls-koszulka-1260x713.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Motorola signature 27 oficjalnie. Ten flagowiec ma 200 Mpix, baterię 7000 mAh i wsparcie GrapheneOS",
+      "sourceUrl": "https://cdaction.pl/technologie/motorola-signature-27-oficjalnie-ten-flagowiec-ma-200-mpix-baterie-7000-mah-i-wsparcie-grapheneos/",
+      "publishedAt": "2026-11-05T14:00+01:00",
+      "summary": "Motorola zaprezentowała signature 27 – nowego flagowca, który wyróżnia się nie tylko rozbudowanym zestawem aparatów i najnowszym układem Snapdragon, lecz także… możliwością zainstalowania GrapheneOS. Smartfon otrzymał też wyjątkowo jasny ekran, baterię 7000 mAh i aż siedem lat wsparcia aktualizacjami.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/open-1260x813.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
