@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T12:50+01:00",
+  "updatedAt": "2026-11-05T13:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -58,6 +58,23 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531575399.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Gdzie kupić preorder Legacy of Kain: Defiance Remastered Deluxe Edition na konsole najtaniej?",
+      "sourceUrl": "https://lowcygier.pl/przeglady-ofert/gdzie-kupic-preorder-legacy-of-kain-defiance-remastered-deluxe-edition-na-konsole-najtaniej/",
+      "publishedAt": "2026-11-05T12:58+01:00",
+      "summary": "Premiera Legacy of Kain: Defiance Remastered w wersji pudełkowej została zaplanowana na 13 listopada 2026 roku. W ramach tego wpisu przygotowaliśmy dla Was zestawienie najlepszych aktualnie ofert na fizyczne wydanie Deluxe Edition w przedsprzedaży. Pudełkowa wersja na PlayStation 5, Xbox One, Xbox Series X, Nintendo Switch i Nintendo Switch 2, zawierająca kolekcjonerski Steelbook, Artbook i ścieżkę dźwiękową na płycie CD, dostępna jest w wybranych sklepach już od 188,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Pudelkowe-Legacy-of-Kain_-Defiance-Remastered-Steelbook-Deluxe-Edition-na-konsole-od-189-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Okropne zachowanie wiodącej firmy PC. Chciała \"okraść\" nabywcę komputera z RTX 5090 o kolejne 10 tys. zł",
+      "sourceUrl": "https://www.ppe.pl/news/432272/okropne-zachowanie-wiodacej-firmy-pc-chciala-okrasc-nabywce-komputera-z-rtx-5090-o-kolejne-10-tys-zl.html",
+      "publishedAt": "2026-11-05T12:55+01:00",
+      "summary": "Firma Corsair nie po raz pierwszy wywołała spore poruszenie w sieci, jednak tym razem jej zachowanie przerosło oczekiwania wielu niezadowolonych klientów.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Kolejki na nocnej premierze nowej Zeldy w Polsce. Polacy mówią o „najmocniejszym Nintendo od czasów Pegasusa”",
       "sourceUrl": "https://www.gry-online.pl/newsroom/kolejki-na-nocnej-premierze-nowej-zeldy-w-polsce-polacy-mowia-o-n/za32230",
@@ -74,6 +91,15 @@
       "summary": "Na premierę The Elder Scrolls 6 jeszcze trochę poczekamy, ale spokojnie – Bethesda i tak pozwoli wam kupić koszulkę z logiem gry. Tak dla osłody. Informacja Może i Bethesda nie pokazała niczego ciekawego na temat The Elder Scrolls 6, ale za to już możecie kupić merch z gry została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531574720.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "XV-lecie marki GENESIS na PGA 2026",
+      "sourceUrl": "https://cdaction.pl/newsy/xv-lecie-marki-genesis-na-pga-2026/",
+      "publishedAt": "2026-11-05T12:45+01:00",
+      "summary": "Marka świętowała swój jubileusz podczas Poznań Game Arena.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/IMG_6244-1260x840.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
