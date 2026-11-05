@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T06:01+01:00",
+  "updatedAt": "2026-11-05T07:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "SkyShowtime z wielką premierą! Kontrowersyjna historia na faktach już dostępna",
-    "summary": "Szukacie mocnej opowieści opartej na prawdziwych wydarzeniach? SkyShowtime przygotowało dokument, który pokazuje, jak wielkie sportowe osiągnięcie może w jednej chwili zamienić się w międzynarodowy skandal.",
-    "sourceUrl": "https://www.ppe.pl/news/432192/skyshowtime-z-wielka-premiera-kontrowersyjna-historia-na-faktach-juz-dostepna.html"
+    "title": "Xbox Series X|S z potężnym ulepszeniem! AMD FSR 4.1.2 może odmienić jakość gier",
+    "summary": "Współpraca Microsoftu i AMD układa się naprawdę przyzwoicie, co bez wątpienia mogą wykorzystać twórcy gier. AMD potwierdziło pełne wsparcie dla AMD FSR 4.1.2 na konsolach Xbox Series X|S, a nowa technologia może pomóc deweloperom w osiągni...",
+    "sourceUrl": "https://www.ppe.pl/news/432206/xbox-series-x-s-z-poteznym-ulepszeniem-amd-fsr-4-1-2-moze-odmienic-jakosc-gier.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Xbox Series X|S z potężnym ulepszeniem! AMD FSR 4.1.2 może odmienić jakość gier",
+      "sourceUrl": "https://www.ppe.pl/news/432206/xbox-series-x-s-z-poteznym-ulepszeniem-amd-fsr-4-1-2-moze-odmienic-jakosc-gier.html",
+      "publishedAt": "2026-11-05T06:50+01:00",
+      "summary": "Współpraca Microsoftu i AMD układa się naprawdę przyzwoicie, co bez wątpienia mogą wykorzystać twórcy gier. AMD potwierdziło pełne wsparcie dla AMD FSR 4.1.2 na konsolach Xbox Series X|S, a nowa technologia może pomóc deweloperom w osiągni...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kompromitacja dziennikarki przed premierą GTA 6. Szef Take-Two zareagował: „Przeanalizuj fakty”",
+      "sourceUrl": "https://www.ppe.pl/news/432207/kompromitacja-dziennikarki-przed-premiera-gta-6-szef-take-two-zareagowal-przeanalizuj-fakty.html",
+      "publishedAt": "2026-11-05T06:23+01:00",
+      "summary": "Cała branża będzie dzisiaj mówić o najnowszym wywiadzie ze Straussem Zelnickiem. Nie z powodu nowych szczegółów GTA 6, nie z powodu kolejnego opóźnienia gry, ale z powodu zaskakującego stwierdzenia dziennikarki, która najwidoczniej nigdy nie...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "SkyShowtime z wielką premierą! Kontrowersyjna historia na faktach już dostępna",
