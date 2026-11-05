@@ -1,17 +1,70 @@
 {
   "status": "rss-only",
   "date": "2026-11-05",
-  "updatedAt": "2026-11-05T08:01+01:00",
+  "updatedAt": "2026-11-05T08:56+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "3 gry w Xbox Game Pass, w tym wysoko oceniany symulator strażaka",
-    "summary": "Abonenci usług Xbox i PC Game Pass sprawdzą dzisiaj trzy gry. Oprócz debiutującego Escape Academy 2: Back 2 School w ich ręce trafi Firefighting Simulator: Ignite i pakiet MySims Cozy Bundle. Informacja 3 gry w Xbox Game Pass, w tym wysoko oceniany symulator strażaka została opublikowana przez GRYOnline.pl 5 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/3-gry-w-xbox-game-pass-w-tym-wysoko-oceniany-symulator-strazaka/za3221b",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531559831.jpg"
+    "title": "Gracze wróżą GTA6 ocenę 100/100 na Metacritic, a dziennikarka pyta, czy Take-Two ma jakieś inne hity. Szef firmy nie krył zdziwienia",
+    "summary": "Gracze zastanawiają się, jaką ocenę na Metacriticu otrzyma GTA 6. Tymczasem Strauss Zelnick został zaskoczony pytaniem dziennikarki o brak hitów w portfolio Take-Two. Informacja Gracze wróżą GTA6 ocenę 100/100 na Metacritic, a dziennikarka pyta, czy Take-Two ma jakieś inne hity. Szef firmy nie krył zdziwienia została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-wroza-gta6-ocene-100100-na-metacritic-a-dziennikarka-pyta/zd3221e",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531564445.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracze wróżą GTA6 ocenę 100/100 na Metacritic, a dziennikarka pyta, czy Take-Two ma jakieś inne hity. Szef firmy nie krył zdziwienia",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-wroza-gta6-ocene-100100-na-metacritic-a-dziennikarka-pyta/zd3221e",
+      "publishedAt": "2026-11-05T09:48+01:00",
+      "summary": "Gracze zastanawiają się, jaką ocenę na Metacriticu otrzyma GTA 6. Tymczasem Strauss Zelnick został zaskoczony pytaniem dziennikarki o brak hitów w portfolio Take-Two. Informacja Gracze wróżą GTA6 ocenę 100/100 na Metacritic, a dziennikarka pyta, czy Take-Two ma jakieś inne hity. Szef firmy nie krył zdziwienia została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531564445.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ponad 16 mln odsłon w 10 dni. Kryminalny serial Netflixa znów jest hitem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-16-mln-odslon-w-10-dni-kryminalny-serial-netflixa-znow-jest/zb3221c",
+      "publishedAt": "2026-11-05T09:34+01:00",
+      "summary": "Czwarta odsłona serialu z Omarem Sy znów została numerem 1w cotygodniowym top 10. Premiera nowej serii sprawiła, że widzowie sięgnęli także po poprzednie sezony, przez co widowisko zdominowało zestawienie najchętniej oglądanych tytułów. Informacja Ponad 16 mln odsłon w 10 dni. Kryminalny serial Netflixa znów jest hitem została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531563006.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Marvel’s Wolverine sprzedał się w 2,4 mln egzemplarzy. Sony podało najnowsze wyniki PlayStation",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/marvels-wolverine-sprzedal-sie-w-24-mln-egzemplarzy-sony-chwali-s/zc3221d",
+      "publishedAt": "2026-11-05T09:26+01:00",
+      "summary": "Sony Interactive Entertainment podsumowało drugi kwartał roku finansowego. Dostarczono mniej konsol, ale wzrosła sprzedaż gier, liczba aktywnych użytkowników PSN i zyski. Informacja Marvel’s Wolverine sprzedał się w 2,4 mln egzemplarzy. Sony podało najnowsze wyniki PlayStation została opublikowana przez GRYOnline.pl 5 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531563161.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nie musicie chować pamięci RAM. Sam Altman uważa, że jego ostatnie słowa są „wyrwane z kontekstu”",
+      "sourceUrl": "https://www.ppe.pl/news/432185/nie-musicie-chowac-pamieci-ram-sam-altman-uwaza-ze-jego-ostatnie-slowa-sa-wyrwane-z-kontekstu.html",
+      "publishedAt": "2026-11-05T08:50+01:00",
+      "summary": "Sam Altman ponownie znalazł się w centrum kontrowersji, a wszystko przez wypowiedź dotyczącą pamięci RAM. Szef OpenAI zasugerował niedawno, że przechowywanie dużych ilości pamięci w prywatnych komputerach nie jest najlepszym sposobem wykorzys...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na Gothic Remake na Allegro. Pudełkowe wydanie na PS5 za 149 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/promocja-na-gothic-remake-na-allegro-pudelkowe-wydanie-na-ps5-za-149-zl/",
+      "publishedAt": "2026-11-05T08:50+01:00",
+      "summary": "Bezpośrednio na Allegro, w ramach oferty Black Weeks, pojawiła się ciekawa oferta na grę Gothic Remake w wersji na konsolę PlayStation 5. Odświeżona wersja przygód Bezimiennego dostępna jest w wydaniu pudełkowym już za 149 zł! Oferta wystartuje punktualnie o godzinie 9:00. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/Promocja-na-Gothic-Remake-na-PS5_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Granie w chmurze na Xboksie właśnie stało się prostsze. Akurat teraz, kiedy Microsoft zaczął liczyć nam godziny",
+      "sourceUrl": "https://cdaction.pl/newsy/granie-w-chmurze-na-xboksie-wlasnie-stalo-sie-prostsze-akurat-teraz-kiedy-microsoft-zaczal-liczyc-nam-godziny/",
+      "publishedAt": "2026-11-05T08:47+01:00",
+      "summary": "Mamooo Ashooo, jeszcze godzinkę, proooszę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/xbox-cloud-gaming.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "3 gry w Xbox Game Pass, w tym wysoko oceniany symulator strażaka",
@@ -20,6 +73,22 @@
       "summary": "Abonenci usług Xbox i PC Game Pass sprawdzą dzisiaj trzy gry. Oprócz debiutującego Escape Academy 2: Back 2 School w ich ręce trafi Firefighting Simulator: Ignite i pakiet MySims Cozy Bundle. Informacja 3 gry w Xbox Game Pass, w tym wysoko oceniany symulator strażaka została opublikowana przez GRYOnline.pl 5 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531559831.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Netflix z legendarną serią filmów pełnych akcji od dzisiaj. Widzowie zobaczą wszystkie 5 części głównej serii",
+      "sourceUrl": "https://www.ppe.pl/news/432193/netflix-z-legendarna-seria-filmow-pelnych-akcji-od-dzisiaj-widzowie-zobacza-wszystkie-5-czesci-glownej-serii.html",
+      "publishedAt": "2026-11-05T08:30+01:00",
+      "summary": "Netflix przygotował prawdziwą gratkę dla miłośników widowiskowego kina akcji. Od dzisiaj widzowie mogą zobaczyć kompletną sagę, która przez dekadę przyciągała miliony ludzi do kin i zachwycała rozmachem realizacji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PSX Extreme 350 już w sprzedaży! Najbardziej obładowany numer w 2026 roku!?",
+      "sourceUrl": "https://www.ppe.pl/news/432195/psx-extreme-350-juz-w-sprzedazy-najbardziej-obladowany-numer-w-2026-roku.html",
+      "publishedAt": "2026-11-05T08:10+01:00",
+      "summary": "Redakcja PSX Extreme zaprasza czytelników na kolejny numer Szmatławca. W listopadzie możemy jednak mówić o wyjątkowej sytuacji - PSX Extreme 350 jest dosłownie przeładowany tekstami i recenzjami.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
@@ -366,187 +435,173 @@
   ],
   "indie": [
     {
-      "title": "Leviathan: Rhino",
-      "date": "2026-11-06",
+      "title": "Haunted Echoes",
+      "date": "2026-11-11",
       "platform": "PC (Steam)",
-      "summary": "Kameralny horror egzystencjalny w wiosce, nad którą zbliża się kolosalny lewiatan. Zamiast typowej walki poznajesz codzienność starszego mieszkańca, który nie ma dokąd uciec.",
-      "sourceUrl": "https://store.steampowered.com/app/4784510/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4784510/894c18fd776040fe43523995d4122af0a0298a76/header.jpg?t=1793548320"
+      "summary": "Psychologiczny horror z perspektywy kamery nasobnej. W opuszczonych lokacjach szukasz anomalii, pilnujesz ograniczonej latarki i próbujesz przetrwać, gdy każdy ruch zostaje zarejestrowany.",
+      "sourceUrl": "https://store.steampowered.com/app/4854170/"
     },
     {
-      "title": "Metro Anomaly",
-      "date": "2026-11-06",
+      "title": "Market Moe",
+      "date": "2026-11-11",
       "platform": "PC (Steam)",
-      "summary": "Obserwujesz urzędników i próbujesz rozpoznać, kto tylko udaje człowieka. Na każdy cykl masz jeden nabój, a pomyłka kończy się atakiem anomalii.",
-      "sourceUrl": "https://store.steampowered.com/app/4612650/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4612650/a2ef62c66b55c6c36eb2e26810cbfdf7b690b3d6/header.jpg?t=1793735513"
+      "summary": "Nocna zmiana na japońskiej ulicy, neony i sklepy całodobowe. Rutynowa praca stopniowo zamienia się w psychologiczny koszmar, gdy wokół zaczynają dziać się rzeczy, które nie powinny być możliwe.",
+      "sourceUrl": "https://store.steampowered.com/app/4174620/"
     },
     {
-      "title": "Casualties: Unknown",
-      "date": "2026-11-09",
+      "title": "Not My Dad",
+      "date": "2026-11-11",
       "platform": "PC (Steam)",
-      "summary": "Pikselowy survival na obcej planecie: jako jeden z tysięcy więźniów schodzisz przez 11 warstw jaskiń po utracony ładunek i próbujesz przeżyć.",
-      "sourceUrl": "https://store.steampowered.com/app/4576490/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1792136865"
+      "summary": "Pierwszoosobowy horror o domu, w którym ojciec zaczyna zachowywać się podejrzanie. Największy niepokój budzi to, że tylko ty zdajesz się zauważać, iż coś jest nie tak.",
+      "sourceUrl": "https://store.steampowered.com/app/5155170/"
     },
     {
-      "title": "Hillthorn",
-      "date": "2026-11-10",
-      "platform": "PC (Steam), macOS, Linux",
-      "summary": "Cicha, detektywistyczna zagadka w odizolowanej górskiej społeczności. Śledztwo prowadzi się kartami wskazówek, bez dialogów, a każdy ruch kosztuje czas.",
-      "sourceUrl": "https://store.steampowered.com/app/3504050/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3504050/8f97440ec9047873c605469558ce50110a766a05/header.jpg?t=1793186170"
+      "title": "Lost Hope",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Krótki, atmosferyczny horror science fiction na międzynarodowej stacji kosmicznej. Jesteś jedynym astronautą, wykonujesz codzienne obowiązki i próbujesz utrzymać wszystko w tajemnicy. Steam podaje okno premiery: listopad 2026.",
+      "sourceUrl": "https://store.steampowered.com/app/4359020/"
     },
     {
-      "title": "Nocturnal 2",
-      "date": "2026-11-10",
+      "title": "Whispering Eclipsia",
+      "date": null,
       "platform": "PC (Steam)",
-      "summary": "Ręcznie rysowana, mroczna metroidvania w mieście Ytash. Płonący miecz, połączone dzielnice i nowe przejścia odkrywane wraz z kolejnymi umiejętnościami.",
-      "sourceUrl": "https://store.steampowered.com/app/2847780/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/6b57fa23ef819357a78747bd8be5758c1012e3de/header.jpg?t=1793183826"
+      "summary": "Psychologiczny horror detektywistyczny o inspektorze badającym serię rytualnych morderstw w Woodslane Bungalow. Śledztwo prowadzi przez pętle zniekształcające rzeczywistość; Steam wskazuje okno premiery w grudniu 2026.",
+      "sourceUrl": "https://store.steampowered.com/app/2826170/"
     },
     {
-      "title": "DERELIKT",
-      "date": "2026-11-13",
+      "title": "Mimania",
+      "date": null,
       "platform": "PC (Steam)",
-      "summary": "Narracyjny retro-FPS inspirowany klaustrofobicznym horrorem science fiction z ery PS1. Celuje w surowy, oldschoolowy klimat dla fanów dawnych strzelanek i survivalowego niepokoju.",
-      "sourceUrl": "https://store.steampowered.com/app/3810510/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/45f23f4a1143f49de0962289003d6b269fa970bd/header.jpg?t=1792435067"
+      "summary": "Retro survival horror, w którym wypatrujesz mimików podszywających się pod zwykłe przedmioty. Błysk aparatu ma pomóc przetrwać w kolejnych mieszkaniach, gdzie czekają różne potwory i odmienne zasady zagrożenia. Data premiery nie jest obecnie potwierdzona na Steamie.",
+      "sourceUrl": "https://store.steampowered.com/app/3167930/"
     }
   ],
   "releases": [
     {
       "date": "2026-11-05",
-      "title": "Edge of Memories",
-      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S",
-      "status": "confirmed",
-      "note": "Pełna premiera action-RPG 5 listopada; edycja Deluxe zapewniła wcześniejszy dostęp od 3 listopada. Eline mierzy się z plagą Corrosion, która wyniszcza kontynent Avaris.",
-      "sourceUrl": "https://www.gamespress.com/pt/EDGE-OF-MEMORIES-ANNOUNCES-ITS-RELEASE-DATE-AND-PRE-ORDERS-NOW-OPEN",
-      "imageUrl": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/09/231602-70c6eb57/EoM_Key_Art_8K_Logo.jpg?bgcolor=white&format=jpg&mode=max&otf=y&quality=90&sky=8ada2e978e4801659272f8c08b213f13452e339b1c33c4785d4c1b15237a8527&w=534"
-    },
-    {
-      "date": "2026-11-05",
       "title": "The Legend of Zelda: Ocarina of Time",
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Nintendo przygotowało wersję przebudowaną na Switch 2: odświeżoną grafikę, symfoniczną muzykę, głosowe przerywniki i unowocześnione sterowanie.",
-      "sourceUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/",
-      "imageUrl": "https://assets.nintendo.com/image/upload/ar_16%3A9%2Cb_auto%3Aborder%2Cc_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000130792/21d17919819cffebda2817f9b0110116c28568e0b6fa30a9778f1679271be809"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Metaphor: ReFantazio",
-      "platform": "Nintendo Switch, Nintendo Switch 2",
-      "status": "confirmed",
-      "note": "Atlus przenosi swoje fantasy-RPG na Switch 2; oficjalny sklep Nintendo podaje premierę 12 listopada.",
-      "sourceUrl": "https://www.nintendo.no/nyheter/kommende-spill-i-november-2026",
-      "imageUrl": "https://assets.nintendo.com/image/upload/ar_16%3A9%2Cb_auto%3Aborder%2Cc_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000105915/adb6c4603740468d9845a1937973ab2436e5f54e475dd504a15984a964f2f4ab"
+      "note": "Odświeżona wersja klasyka z przebudowaną oprawą, udźwiękowionymi przerywnikami, symfoniczną muzyką i unowocześnionym sterowaniem.",
+      "sourceUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/"
     },
     {
       "date": "2026-11-12",
       "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Edycja na Switch 2 poprawia oprawę, dodaje Akademię Dandori i komendy głosowe dla Oatchiego.",
-      "sourceUrl": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
-      "imageUrl": "https://assets.nintendo.com/image/upload/ar_16%3A9%2Cb_auto%3Aborder%2Cc_lpad/b_white/f_auto/q_auto/dpr_2.0/store/software/switch2/70010000135059/0570495cf4662da29c5af864da6c1180830fd7dd4a94764dcff6786a385dcfb0"
+      "note": "Ulepszone wydanie z bardziej szczegółową oprawą, komendami głosowymi dla Oatchiego i nowym trybem Akademii Dandori.",
+      "sourceUrl": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Metaphor: ReFantazio",
+      "platform": "Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Fantasy RPG twórców Persona 5. Wyprawa o tron łączy turowe starcia z walką w czasie rzeczywistym.",
+      "sourceUrl": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html"
     },
     {
       "date": "2026-11-19",
       "title": "Grand Theft Auto VI",
       "platform": "PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
-      "note": "Rockstar potwierdził start pobierania wstępnego 10 listopada; pliki mogą zajmować do 212 GB. Premiera pozostaje wyznaczona na 19 listopada.",
-      "sourceUrl": "https://www.rockstargames.com/it/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
-      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/Official_Cover_Art_landscape.12.uu2irr.2_a.jpg?akim=1&imdensity=1&imwidth=3840"
+      "note": "Jason i Lucia trafiają w sam środek przestępczego spisku w stanie Leonida. Rockstar nadal podaje 19 listopada jako datę premiery.",
+      "sourceUrl": "https://www.rockstargames.com/VI"
     },
     {
       "date": "2026-11-19",
       "title": "The Binding of Isaac: Repentance+",
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Kultowy roguelike trafia na Switch 2 w wydaniu z sieciową kooperacją dla maksymalnie czterech graczy.",
-      "sourceUrl": "https://store.nicalis.com/products/repplus",
-      "imageUrl": "https://store.nicalis.com/cdn/shop/files/Gold_Cover_Sheet_600x.png?v=1760640176"
+      "note": "Wydanie obejmuje pełną grę i dodatki, a także sieciową kooperację dla maksymalnie czterech graczy.",
+      "sourceUrl": "https://store.nicalis.com/products/repplus"
     },
     {
       "date": "2026-11-24",
       "title": "Gothic 3 Classic",
       "platform": "PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
       "status": "confirmed",
-      "note": "THQ Nordic przenosi klasyczne RPG Piranha Bytes na współczesne konsole; wersja na Switch 2 również jest zapowiedziana.",
-      "sourceUrl": "https://thqnordic.com/news/time-for-some-classics-the-original-gothic-trilogy-is-coming-to-play-station-and-xbox-series-s-x",
-      "imageUrl": "https://gothic3classic.thqnordic.com/_next/image?q=75&url=%2Fgame-sites%2Fgothic3classic%2Feditions%2Fstandard-edition.jpg&w=3840"
+      "note": "Klasyczne RPG Piranha Bytes trafia na współczesne konsole z Community Patch 1.75, poprawkami oprawy i usprawnioną optymalizacją.",
+      "sourceUrl": "https://gothic3classic.thqnordic.com/"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Edge of Memories",
+      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S",
+      "status": "confirmed",
+      "note": "NACON przesunął premierę z 5 listopada na 3 grudnia. Action-RPG opowiada o wyprawie przez kontynent Avaris wyniszczany przez plagę Corrosion.",
+      "sourceUrl": "https://www.gamespress.com/EDGE-OF-MEMORIES-ANNOUNCES-A-NEW-RELEASE-DATE-AND-AN-UPDATED-DEMO"
     },
     {
       "date": "2026-12-03",
       "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Nintendo umieściło wydanie Switch 2 Edition w oficjalnym kalendarzu na 3 grudnia.",
-      "sourceUrl": "https://www.nintendo.no/nintendo-switch-2-family/spill/xenoblade-chronicles-3-nintendo-switch-2-edition",
-      "imageUrl": "https://www.nintendo.no/images/products_26/sw_ns2_Xenoblade_Chronicles_3-NS2E/16x9-XenobladeChronicles3-NS2Edition.jpg"
+      "note": "Ulepszone wydanie oferuje do 4K i 60 klatek na sekundę, nowego bohatera Shimmer, tryb Heroes' Vault oraz dodatkowe udźwiękowione sceny.",
+      "sourceUrl": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-nintendo-switch-2-edition-switch-2/"
     }
   ],
   "cinema": [
     {
       "date": "2026-11-06",
-      "title": "Zobaczysz wszystko",
-      "genre": "Dokument / komedia / thriller",
-      "summary": "Nathan Fielder wprowadza się do domu Elizabeth Holmes na 34 dni przed jej rozpoczęciem kary więzienia, dokumentując jej ostatnie tygodnie wolności. Film zaciera granicę między dokumentem, prowokacją i komedią.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/zobaczysz-wszystko/8661s2r",
-      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8661S2R.jpg"
+      "title": "Godzilla Minus Zero",
+      "genre": "Akcja / dramat / sci-fi / thriller",
+      "summary": "Rok 1949. Rodzina Shikishimów próbuje odnaleźć się po wcześniejszym starciu z legendarnym potworem, gdy pojawia się nowe zagrożenie.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/godzilla-minus-zero/8389s2r"
     },
     {
-      "date": "2026-11-06",
-      "title": "La perra",
-      "genre": "Dramat psychologiczny",
-      "summary": "Na odległej wyspie u wybrzeży Patagonii Silvia przygarnia porzuconą suczkę Yuri. Więź ze zwierzęciem wydobywa na powierzchnię dawne rany i niespełnione pragnienia.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/la-perra/8675s2r",
-      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8675S2R.jpg"
+      "date": "2026-11-13",
+      "title": "Dziki koń dziewięć",
+      "genre": "Dramat / thriller",
+      "summary": "Krótko przed przewrotem w Chile agenci CIA zostają wysłani na Wyspę Wielkanocną, gdzie wracają dawne konflikty i spiski.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/dziki-kon-dziewiec/8161s2r"
     },
     {
-      "date": "2026-11-06",
-      "title": "George Michael: The Faith Tour",
-      "genre": "Dokument / muzyczny",
-      "summary": "Zremasterowany zapis zaginionych nagrań z europejskiej części Faith Tour w 1988 roku, z materiałem zarejestrowanym w paryskiej hali Palais Omnisports de Paris-Bercy.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/george-michael-the-faith-tour/8670s2r",
-      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8670S2R.jpg"
+      "date": "2026-11-13",
+      "title": "Ebenezer Scrooge. Opowieść wigilijna",
+      "genre": "Fantasy",
+      "summary": "Ti West nadaje klasycznej opowieści Dickensa gotycki ton. Zgorzkniały biznesmen zostaje skonfrontowany z duchami przeszłości, teraźniejszości i przyszłości.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/ebenezer-scrooge-opowiesc-wigilijna/8344s2r"
     },
     {
-      "date": "2026-11-11",
-      "title": "Nasza rewolucja",
-      "genre": "Biograficzny / dramat",
-      "summary": "Historia małżeństwa Jacka i Grażyny Kuroniów w latach 80. — opowieść o miłości, działalności opozycyjnej i osobistej cenie walki o wolność.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/nasza-rewolucja/8607o2r",
-      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8607O2R.jpg"
+      "date": "2026-11-13",
+      "title": "Jak obrabować bank",
+      "genre": "Akcja / thriller / kryminał",
+      "summary": "Grupa rabusiów transmituje napady w mediach społecznościowych, ściągając na siebie uwagę doświadczonego agenta FBI i specjalistki od oprogramowania.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/jak-obrabowac-bank/8309s2r"
     },
     {
-      "date": "2026-11-25",
-      "title": "Hokus: Królestwo magii",
-      "genre": "Animacja / fantasy / familijny",
-      "summary": "Billie odkrywa magiczne zdolności i rusza z matką do krainy Hokus, gdzie rodzinne tajemnice mogą odmienić świat czarów.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/hokus-krolestwo-magii/8297d2r",
-      "imageUrl": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/8297D2R.jpg"
+      "date": "2026-11-20",
+      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+      "genre": "Sci-fi / akcja / thriller",
+      "summary": "Młody Haymitch Abernathy zostaje wylosowany do udziału w brutalnej edycji Głodowych Igrzysk, na długo przed historią Katniss.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/igrzyska-smierci-wschod-slonca-w-dniu-dozynek/7803s2r"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Struś Pędziwiatr i zemsta Kojota",
+      "genre": "Komedia / familijny",
+      "summary": "Wiluś Kojot podejrzewa, że za jego niepowodzeniami stoją wadliwe produkty Acme. Z pomocą prawnika i Strusia Pędziwiatra chce udowodnić swoje racje.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/strus-pedziwiatr-i-zemsta-kojota/8352d2r"
     },
     {
       "date": "2026-11-27",
-      "title": "Violetta Villas",
-      "genre": "Biograficzny / dramat",
-      "summary": "Historia Violetty Villas, której talent i pasja zaprowadziły ją na największe sceny Paryża i Las Vegas — opowiedziana z perspektywy jej syna, świadka narodzin i upadku gwiazdy.",
-      "sourceUrl": "https://kinoswiat.pl/film/violetta-villas/",
-      "imageUrl": "https://kinoswiat.pl/wp-content/uploads/2026/06/image_processing20260609-8-r7wg0h-714x1024.jpg"
+      "title": "Papierowy tygrys",
+      "genre": "Thriller / kryminał / dramat",
+      "summary": "Dwaj bracia próbują poprawić sytuację rodziny, ale biznesowa okazja wciąga ich w niebezpieczną intrygę rosyjskiej mafii w Queens lat 80.",
+      "sourceUrl": "https://kino.dlastudenta.pl/film/papierowy-tygrys-paper-tiger-2026,61011.html"
     }
   ],
   "film": {
-    "title": "Soulm8te",
-    "year": "2026",
-    "platform": "Disney+",
-    "summary": "Mężczyzna kupuje androida z AI, by poradzić sobie ze stratą niedawno zmarłej żony. Gdy próbuje stworzyć naprawdę świadomą partnerkę, nieszkodliwy lovebot zmienia się w śmiertelnie niebezpieczną towarzyszkę.",
-    "availabilityNote": "JustWatch Polska potwierdził streaming w ramach abonamentu Disney+; dostępność sprawdzono 31 października 2026.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/soulm8te",
-    "imageUrl": "https://images.justwatch.com/backdrop/347157858/s640/soulm8te.jpg"
+    "title": "Cenzorka",
+    "year": "2021",
+    "platform": "Prime Video",
+    "summary": "W Wielkiej Brytanii lat 80. cenzorka filmów wideo rozpoznaje na jednej z kaset kobietę przypominającą zaginioną przed laty siostrę. Śledztwo wciąga ją w świat horrorów VHS, obsesji i coraz mniej pewnej granicy między ekranem a rzeczywistością.",
+    "availabilityNote": "JustWatch Polska potwierdził streaming abonamentowy w Amazon Prime Video; katalog sprawdzono 1 listopada 2026.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/censor"
   },
-  "editorialUpdatedAt": "2026-11-04",
-  "editorialHash": "4e4460e95a96cacf0ebae75f254fe1255f85e2549e7435bce43fed0bfc5f33bc"
+  "editorialUpdatedAt": "2026-11-05",
+  "editorialHash": "cf21054316ad8d2e7d4b5007b5944f8099176099e7af60cff2087aa9dd10700c"
 }
