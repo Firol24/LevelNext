@@ -1,0 +1,211 @@
+{
+  "status": "rss-only",
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07T00:01+01:00",
+  "headline": "Świeże sygnały ze świata gier",
+  "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
+  "lead": {
+    "category": "WIADOMOŚCI",
+    "title": "Nad Path of Exile 2 zbierają się cienie. Twórcy potwierdzili niespodziankę na premierę [Aktualizacja]",
+    "summary": "Najnowszy zwiastun Path of Exile 2 rozpalił wyobraźnię graczy. Fani byli przekonani, że Grinding Gear Games szykuje na premierę wersji 1.0 jeszcze jedną klasę postaci. I nie zawiedli się. Informacja Nad Path of Exile 2 zbierają się cienie. Twórcy potwierdzili niespodziankę na premierę [Aktualizacja] została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nad-path-of-exile-2-zbieraja-sie-cienie-zachwyt-graczy-rosnie-ale/z532187",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531083324.jpg"
+  },
+  "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nad Path of Exile 2 zbierają się cienie. Twórcy potwierdzili niespodziankę na premierę [Aktualizacja]",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nad-path-of-exile-2-zbieraja-sie-cienie-zachwyt-graczy-rosnie-ale/z532187",
+      "publishedAt": "2026-11-07T00:28+01:00",
+      "summary": "Najnowszy zwiastun Path of Exile 2 rozpalił wyobraźnię graczy. Fani byli przekonani, że Grinding Gear Games szykuje na premierę wersji 1.0 jeszcze jedną klasę postaci. I nie zawiedli się. Informacja Nad Path of Exile 2 zbierają się cienie. Twórcy potwierdzili niespodziankę na premierę [Aktualizacja] została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531083324.jpg"
+    },
+    {
+      "sourceName": "Gamerweb",
+      "title": "Recenzja Splatoon Raiders",
+      "sourceUrl": "https://gamerweb.pl/recenzja-splatoon-raiders/",
+      "publishedAt": "2026-07-29T16:35+02:00",
+      "summary": "Splatoon to chyba najnowsze duże IP od Nintendo, które przyjęło się wśród graczy. Jest to dosyć ciekawe, bo marka debiutowała",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/07/Splatoon-Raiders.jpg"
+    },
+    {
+      "sourceName": "Gamerweb",
+      "title": "Recenzja Echoes of Aincrad",
+      "sourceUrl": "https://gamerweb.pl/recenzja-echoes-of-aincrad/",
+      "publishedAt": "2026-07-18T12:39+02:00",
+      "summary": "Nie jestem wielkim fanem gier MMO. Tak naprawdę nie do końca rozumiem ich fenomenu i nie jestem w stanie wysiedzieć",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/07/Echoes-of-Aincrad-1.jpg"
+    },
+    {
+      "sourceName": "Gamerweb",
+      "title": "Transport Fever 3 – najnowszy materiał z gry opublikowany. Premiera jeszcze w tym roku",
+      "sourceUrl": "https://gamerweb.pl/transport-fever-3-najnowszy-material-z-gry-opublikowany-premiera-jeszcze-w-tym-roku/",
+      "publishedAt": "2026-07-15T20:18+02:00",
+      "summary": "Studio Urban Games wraz z wydawcą Paradox Interactive opublikowało dziś kolejny materiał z serii First Look, poświęconej prezentacji nowości i",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/03/Transport-Fever-3.jpg"
+    },
+    {
+      "sourceName": "Gamerweb",
+      "title": "Jak zbudować idealne stanowisko gracza konsolowego? Konsola, pad i akcesoria, które robią różnicę",
+      "sourceUrl": "https://gamerweb.pl/jak-zbudowac-idealne-stanowisko-gracza-konsolowego-konsola-pad-i-akcesoria-ktore-robia-roznice/",
+      "publishedAt": "2026-07-08T10:56+02:00",
+      "summary": "Idealne stanowisko gracza konsolowego to nie tylko „ładny kącik z konsolą”, ale przede wszystkim praktyczny zestaw: dobrze ustawiona konsola, ekran dopasowany",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/07/images3.jpg"
+    },
+    {
+      "sourceName": "Gamerweb",
+      "title": "UFC 6 – recenzja. Walka wieczoru w cieniu mundialu",
+      "sourceUrl": "https://gamerweb.pl/ufc-6-recenzja-walka-wieczoru-w-cieniu-mundialu/",
+      "publishedAt": "2026-07-05T20:56+02:00",
+      "summary": "EA Sports UFC 6 wchodzi do cyfrowego oktagonu w niewdzięcznym momencie – trwa mundial, więc siłą rzeczy, bliżej większości fanom",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/07/UFC-6-logo.jpg"
+    }
+  ],
+  "indie": [
+    {
+      "title": "The House Before",
+      "date": "2026-11-03",
+      "platform": "PC (Steam)",
+      "summary": "Surrealistyczny body horror, w którym budzisz się jako dom: jego wnętrze staje się labiryntem organów, tuneli i groteskowych stworzeń. Krótka, eksperymentalna opowieść zamiast klasycznej akcji.",
+      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/"
+    },
+    {
+      "title": "PROCEDURE ZERO",
+      "date": "2026-11-12",
+      "platform": "PC (Steam)",
+      "summary": "Polski, jednoosobowy projekt łączący skradanie z więziennym thrillerem. Trafiasz do celi, której nie ma w rejestrze; papierosy kupują informacje, a każdy ruch może zdradzić cię strażnikom.",
+      "sourceUrl": "https://delanivogames.com/"
+    },
+    {
+      "title": "DERELIKT",
+      "date": "2026-11-13",
+      "platform": "PC (Steam)",
+      "summary": "Narracyjny retro FPS inspirowany klaustrofobicznym sci-fi horrorem ery PS1. Kosmiczna sceneria, lovecraftowski niepokój i oldschoolowa perspektywa pierwszej osoby; demo jest dostępne na Steam.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+    },
+    {
+      "title": "The Road of Dust and Sorrow",
+      "date": "2026-12-03",
+      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "summary": "Pixelartowy survival horror inspirowany Resident Evil i Silent Hill. W postapokaliptycznym świecie Katherine chroni córkę Avę, rozwiązuje zagadki i przedziera się przez zrujnowane miejsca pełne zmutowanych stworzeń.",
+      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026"
+    },
+    {
+      "title": "BLIGHTEN",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Retro survival horror FPS w opuszczonym kompleksie opanowanym przez stworzenia zakażone tajemniczą zarazą. Trzeba zbierać zasoby i przetrwać w przemysłowym labiryncie; Steam podaje tylko rok 2026, bez dokładnego dnia.",
+      "sourceUrl": "https://store.steampowered.com/app/4462580/BLIGHTEN/"
+    }
+  ],
+  "releases": [
+    {
+      "date": "2026-11-10",
+      "title": "Nocturnal II",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Atmosferyczne metroidvania prowadzi przez pogrążone w mroku miasto Ytash. Ogień rozświetla drogę, odblokowuje nowe przejścia i pomaga odkrywać sekrety.",
+      "sourceUrl": "https://www.gamespress.com/tr/Flame-wielding-Metroidvania-Nocturnal-2-launches-on-Steam-November-10t"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Warhammer Survivors",
+      "platform": "PC (Steam, GOG), Nintendo Switch, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, iOS, Android",
+      "status": "confirmed",
+      "note": "Roguelite akcji łączy światy Warhammer 40,000 i Age of Sigmar. Rozwijaj uzbrojenie i odpieraj coraz większe hordy przeciwników.",
+      "sourceUrl": "https://www.warhammer-community.com/en-gb/articles/m5cfelii/try-the-new-demo-for-warhammer-survivors-now/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "DreamWorks Shrek 2 Remastered",
+      "platform": "PC (Steam, Epic Games Store), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Odświeżona wersja przygodowej gry z 2004 roku. Oprócz poprawionej oprawy dodaje tryb fotograficzny i kooperację dla maksymalnie czterech osób.",
+      "sourceUrl": "https://www.gamespress.com/en-US/Aspyr-Reveals-DreamWorks-Shrek-2-Remastered-Launching-on-PC-Consoles-N"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "PROCEDURE ZERO",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Polski thriller skradankowy z perspektywy pierwszej osoby. Jako więzień bez nazwiska zdobywasz informacje, omijasz strażników i próbujesz przejąć kolejne sektory zakładu.",
+      "sourceUrl": "https://delanivogames.com/press/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Moomin: Midsummer Madness",
+      "platform": "PC (Steam), Nintendo Switch, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Przygodówka point-and-click inspirowana książką Tove Jansson. Muminek, Mała Mi i przyjaciele próbują odnaleźć drogę do domu po wielkiej powodzi.",
+      "sourceUrl": "https://game.shochiku.co.jp/games/moomin-midsummer-madness/"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Barbie Rewind",
+      "platform": "Nintendo Switch, PlayStation 5",
+      "status": "confirmed",
+      "note": "Kolekcja 16 gier Barbie z lat 1991–2007 połączona z dekorowaniem DreamHouse. Atari potwierdza datę 12 listopada i fizyczne wydania na Switch oraz PS5.",
+      "sourceUrl": "https://atari.com/products/barbie-rewind-game-doll"
+    }
+  ],
+  "cinema": [
+    {
+      "date": "2026-11-06",
+      "title": "La perra",
+      "genre": "Dramat psychologiczny",
+      "summary": "Na chilijskiej wyspie Silvia przygarnia porzuconą suczkę. Więź ze zwierzęciem przywołuje bolesne wspomnienia i niespełnione pragnienia bohaterki.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/la-perra/8675s2r"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "George Michael: The Faith Tour",
+      "genre": "Dokument / muzyczny",
+      "summary": "Odrestaurowany i zremasterowany zapis europejskiej części trasy Faith Tour z 1988 roku, z materiałem nakręconym w paryskiej hali Palais Omnisports de Paris-Bercy.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/george-michael-the-faith-tour/8670s2r"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Victorian Psycho",
+      "genre": "Horror gotycki",
+      "summary": "Guwernantka przybywa do ponurej posiadłości Ensor House. Jej poprzednie miejsca pracy łączy seria tajemniczych tragedii, a nowy dom szybko odsłania mroczną stronę bohaterki.",
+      "sourceUrl": "https://pr.kinoswiat.pl/471594-zobacz-zwiastun-zachwycajaco-nieprzyzwoitego-horroru-victorian-psycho"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "TEDE. Forever Rap",
+      "genre": "Dokument / muzyczny",
+      "summary": "Portret Jacka Granieckiego zbudowany m.in. z prywatnych archiwów z lat 1993–2002. Powrót do początków polskiego hip-hopu i podróż do Nowego Jorku po 22 latach.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/tede-forever-rap/8669o2r"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Violetta Villas",
+      "genre": "Biograficzny / dramat",
+      "summary": "Historia Czesławy Gospodarek, która jako Violetta Villas zdobyła światowe sceny. Film pokazuje jej drogę do sławy z perspektywy dorastającego syna.",
+      "sourceUrl": "https://pr.kinoswiat.pl/471995-violetta-villas-oficjalny-zwiastun-filmu-o-legendarnej-artystce"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Poznaj swojego teścia",
+      "genre": "Komedia",
+      "summary": "Greg Focker ponownie spotyka się z Jackiem Byrnesem, byłym agentem CIA. Czwarta część serii stawia na rodzinne nieporozumienia i komediowe starcie dwóch charakterów.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/poznaj-swojego-tescia/8181s2r"
+    }
+  ],
+  "film": {
+    "title": "To: Rozdział 2",
+    "year": "2019",
+    "platform": "Netflix",
+    "summary": "Dorośli już przyjaciele wracają do Derry, gdy po latach ponownie budzi się tam zło. Mroczny horror o pamięci, dawnych lękach i powrocie do miejsca, które nie pozwala o sobie zapomnieć.",
+    "availabilityNote": "JustWatch Polska sprawdził katalog 3 listopada 2026 i wskazuje film w abonamencie Netflix; nie jest to oferta wyłącznie wypożyczenia ani zakupu.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/to-rozdzial-2"
+  },
+  "editorialUpdatedAt": "2026-11-06",
+  "editorialHash": "4022e8f5d03a7fe404c3ccb26e0791228f2f715310af3cefad7ce57283dfc597"
+}
