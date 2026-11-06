@@ -1,17 +1,41 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T15:01+01:00",
+  "updatedAt": "2026-11-06T16:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "EA przywróciło do życia masę klasycznych gier, bo jeden z pracowników przypadkiem natknął się w firmie na wielkie archiwum",
-    "summary": "Kulisy wczorajszego przywrócenia legendarnych gier przez EA nadają się na ciekawy materiał o ratowaniu gamingowego dziedzictwa, choć z całej tej historii płynie także dość smutny wniosek. Informacja EA przywróciło do życia masę klasycznych gier, bo jeden z pracowników przypadkiem natknął się w firmie na wielkie archiwum została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/ea-przywrocilo-do-zycia-mase-klasycznych-gier-bo-jeden-z-pracowni/z432267",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531671299.jpg"
+    "title": "The Office PL (2021) - recenzja 6. sezonu serialu [Canal+]. W biurze jak w rodzinie",
+    "summary": "Dwa miesiące temu pisałem, że szósty sezon \"The Office PL\" zapowiada się ciekawie, nowość w postaci Roberta stanowi ciekawą przeciwwagę dla klasycznego chaosu Michała, a cichsze, bardziej słodko-gorzkie sceny sugerują, że Maciej Bochniak i...",
+    "sourceUrl": "https://www.ppe.pl/recenzje/432296/the-office-pl-2021-recenzja-6-sezonu-serialu-canal-w-biurze-jak-w-rodzinie.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "The Office PL (2021) - recenzja 6. sezonu serialu [Canal+]. W biurze jak w rodzinie",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432296/the-office-pl-2021-recenzja-6-sezonu-serialu-canal-w-biurze-jak-w-rodzinie.html",
+      "publishedAt": "2026-11-06T16:00+01:00",
+      "summary": "Dwa miesiące temu pisałem, że szósty sezon \"The Office PL\" zapowiada się ciekawie, nowość w postaci Roberta stanowi ciekawą przeciwwagę dla klasycznego chaosu Michała, a cichsze, bardziej słodko-gorzkie sceny sugerują, że Maciej Bochniak i...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Creator 3w1 Ciężarówka z platformą i helikopterem za 49,99 zł (cena katalogowa 81,99 zł) w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-creator-3w1-ciezarowka-z-platforma-i-helikopterem-za-4999-zl-cena-katalogowa-8199-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-06T15:51+01:00",
+      "summary": "Składający się z 270 elementów zestaw LEGO Creator 3w1 – Ciężarówka z platformą i helikopterem możecie obecnie zakupić za niecałe 50 zł w wybranych sklepach internetowych. Jako iż mamy do czynienia z klockami 3w1, tytułowa ciężarówka i helikopter to nie jedyny model, który będziecie mieli okazję złożyć. W prosty sposób całość przebudujecie w samolot i inny wóz dostawczy lub dwa auta. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/LEGO-Creator-3w1-Ciezarowka-z-platforma-i-helikopterem-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze ujawniają niepokojący proceder. Trwa handel skradzionymi kontami PSN",
+      "sourceUrl": "https://www.ppe.pl/news/432370/gracze-ujawniaja-niepokojacy-proceder-trwa-handel-skradzionymi-kontami-psn.html",
+      "publishedAt": "2026-11-06T15:41+01:00",
+      "summary": "Sony znalazło się pod presją graczy w związku z kolejnymi doniesieniami o przejmowaniu kont PlayStation Network.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "EA przywróciło do życia masę klasycznych gier, bo jeden z pracowników przypadkiem natknął się w firmie na wielkie archiwum",
@@ -20,6 +44,23 @@
       "summary": "Kulisy wczorajszego przywrócenia legendarnych gier przez EA nadają się na ciekawy materiał o ratowaniu gamingowego dziedzictwa, choć z całej tej historii płynie także dość smutny wniosek. Informacja EA przywróciło do życia masę klasycznych gier, bo jeden z pracowników przypadkiem natknął się w firmie na wielkie archiwum została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531671299.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw klawiatura + mysz Logitech MX Keys S Combo za 489 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-klawiatura-mysz-logitech-mx-keys-s-combo-za-489-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-06T15:26+01:00",
+      "summary": "Dobra oferta na klawiaturę i myszkę w zestawie, pojawiła się teraz w polskim oddziale Amazonnu. Cena Logitech MX Keys S Combo, zawierającego klawiaturę MX Keys S z praktyczną podpórką pod nadgarstki oraz mysz MX Master 3S, wynosi 489 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/03/Logitech_MX_Keys_S_Combo_miniatura-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin 3 otrzyma nowy region i przeciwników! CD Projekt RED zdradza kulisy dodatku",
+      "sourceUrl": "https://www.ppe.pl/news/432365/wiedzmin-3-otrzyma-nowy-region-i-przeciwnikow-cd-projekt-red-zdradza-kulisy-dodatku.html",
+      "publishedAt": "2026-11-06T15:21+01:00",
+      "summary": "Twórcy dodatku Songs of the Past do Wiedźmina 3: Dziki Gon zdradzili nietypowy szczegół dotyczący projektowania nowego regionu Letten.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -38,6 +79,32 @@
       "summary": "Firma Ubisoft omówiła style graficzne, jakie zaoferuje Heroes of Might and Magic III Remake. Jeden z nich przypomina pierwowzór znacznie bardziej niż to, co do tej pory pokazywano z tego remake’u. Informacja Krytykowali wygląd remake’u Heroes 3, Ubisoft odpowiada. Klasyczny styl prawie jak z 1999 roku została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531670759.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Polska gra, która miała podbić świat piłkarskich symulatorów, okazała się totalnym fiaskiem. Twórcy złożyli wniosek o upadłość",
+      "sourceUrl": "https://cdaction.pl/newsy/polska-gra-ktora-miala-podbic-swiat-pilkarskich-symulatorow-okazala-sie-totalnym-fiaskiem-tworcy-zlozyli-wniosek-o-upadlosc/",
+      "publishedAt": "2026-11-06T15:15+01:00",
+      "summary": "Od premiery Copa City minęło zaledwie 5 miesięcy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/copa-city-1260x804.webp"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Współczesne klasyki PlayStation znów są dostępne. Sony zażegnało ostatni kryzys",
+      "sourceUrl": "https://www.ppe.pl/news/432369/wspolczesne-klasyki-playstation-znow-sa-dostepne-sony-zazegnalo-ostatni-kryzys.html",
+      "publishedAt": "2026-11-06T15:11+01:00",
+      "summary": "Sony zażegnało ostatni kryzys i naprawiło swój niedawny błąd. Gry ekskluzywne dla PlayStation 4 i PlayStation 5, które niedawno zniknęły z oferty PlayStation Store, znów są dostępne.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder METRO 2039 Edycja Premierowa na PS5 za 267,17 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/preordery/preorder-metro-2039-edycja-premierowa-na-ps5-za-26717-zl-na-allegro/",
+      "publishedAt": "2026-11-06T15:05+01:00",
+      "summary": "Co prawda premiera METRO 2039 dopiero na początku lutego, ale zamówienia przedsprzedażowe już możecie składać w różnych miejscach. Jeśli poszukujecie wydania na konsole Sony PlayStation 5, skorzystajcie z oferty dostępnej na Allegro. Pudełko z nadchodzącą grą studia 4A Games, kosztuje bowiem 267,17 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/metro-2039-edycja-premierowa-miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
