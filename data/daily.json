@@ -1,16 +1,70 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T08:38+01:00",
+  "updatedAt": "2026-11-06T09:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "SkyShowtime z kontynuacją spin-offu jednego z najlepszych seriali w historii. Produkcja zbiera dobre oceny",
-    "summary": "SkyShowtime rozpoczyna weekend od bardzo ciekawej propozycji. Na platformę powróciła znakomita historia... szczególnie dla fanów kultowego „The Office”.",
-    "sourceUrl": "https://www.ppe.pl/news/432329/skyshowtime-z-kontynuacja-spin-offu-jednego-z-najlepszych-seriali-w-historii-produkcja-zbiera-dobre-oceny.html"
+    "title": "Henry Cavill zrobił grę o swoich słynnych wąsach. Każde uruchomienie wesprze walkę z rakiem i problemami psychicznymi mężczyzn",
+    "summary": "Henry Cavill stworzył grę o swoim słynnym wąsie. Mustache Protocol zadebiutuje jeszcze w listopadzie, a każde uruchomienie produkcji wesprze organizację Movember. Informacja Henry Cavill zrobił grę o swoich słynnych wąsach. Każde uruchomienie wesprze walkę z rakiem i problemami psychicznymi mężczyzn została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/henry-cavill-zrobil-gre-o-swoich-slynnych-wasach-kazde-uruchomien/z332248",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531650376.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Henry Cavill zrobił grę o swoich słynnych wąsach. Każde uruchomienie wesprze walkę z rakiem i problemami psychicznymi mężczyzn",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/henry-cavill-zrobil-gre-o-swoich-slynnych-wasach-kazde-uruchomien/z332248",
+      "publishedAt": "2026-11-06T09:40+01:00",
+      "summary": "Henry Cavill stworzył grę o swoim słynnym wąsie. Mustache Protocol zadebiutuje jeszcze w listopadzie, a każde uruchomienie produkcji wesprze organizację Movember. Informacja Henry Cavill zrobił grę o swoich słynnych wąsach. Każde uruchomienie wesprze walkę z rakiem i problemami psychicznymi mężczyzn została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531650376.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wkrótce na Prime Video ukaże się ekranizacja jednej z najlepszych serii kryminalnych XXI wieku. Zwiastun thrillera zaostrza apetyt przed premierą",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wkrotce-na-prime-video-ukaze-sie-ekranizacja-jednej-z-najlepszych/z232247",
+      "publishedAt": "2026-11-06T09:32+01:00",
+      "summary": "Wyczekiwany thriller od Prime Video wreszcie ma zwiastun i datę premiery. To ekranizacja genialnej historii kryminalnej. Informacja Wkrótce na Prime Video ukaże się ekranizacja jednej z najlepszych serii kryminalnych XXI wieku. Zwiastun thrillera zaostrza apetyt przed premierą została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531649768.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zakrzywiony monitor Samsung Odyssey G5 LS27CG552EUXEN 27″ WQHD za 495 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/zakrzywiony-monitor-samsung-odyssey-g5-ls27cg552euxen-27-wqhd-za-495-zl-na-allegro/",
+      "publishedAt": "2026-11-06T09:00+01:00",
+      "summary": "Startująca właśnie promocja na Samsung Odyssey G5 LS27CG552EUXEN w serwisie Allegro, pozwoli Wam nabyć wspomniany monitor w dobrej cenie. Model wyposażony w matrycę VA o rozdzielczości 2560 x 1440 pikseli, częstotliwością odświeżania 165 Hz i wsparciem dla AMD FreeSync, może być wasz za zaledwie 495 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/samsung-odyssey-g5-LS27CG552EUXEN-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "METAL EDEN na PC za 14,99 zł w Loaded. Rekordowo niska cena za klucz Steam",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/metal-eden-na-pc-za-1499-zl-w-loaded-rekordowo-niska-cena-za-klucz-steam/",
+      "publishedAt": "2026-11-06T08:50+01:00",
+      "summary": "METAL EDEN, będące grą z gatunku FPS opracowaną przez polskie studio Reikon Games, pojawiło się w rewelacyjnej cenie w sklepie Loaded. Produkcja, w której wcielicie się w androidkę walczącą z przeciwnikami na technoplanecie, kosztuje mniej niż 15 złotych. Warto wspomnieć, że twórcy mają również na swoim koncie grę RUINER. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/Metal-Eden-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "EA wskrzesza dwie kultowe serie po 30 latach. W jednej z nich grała gwiazda „Gwiezdnych wojen”",
+      "sourceUrl": "https://cdaction.pl/newsy/ea-wskrzesza-dwie-kultowe-serie-po-30-latach-w-jednej-z-nich-grala-gwiazda-gwiezdnych-wojen/",
+      "publishedAt": "2026-11-06T08:46+01:00",
+      "summary": "Kilrathi! Tym razem was pokonam!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/wing-commander3-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy DualSense Edge zaprezentowany. Ulepszony pro kontroler trafił na pierwszy rynek",
+      "sourceUrl": "https://www.ppe.pl/news/432305/nowy-dualsense-edge-zaprezentowany-ulepszony-pro-kontroler-trafil-na-pierwszy-rynek.html",
+      "publishedAt": "2026-11-06T08:40+01:00",
+      "summary": "Sony przygotowało kolejną wersję swojego najbardziej zaawansowanego kontrolera do PlayStation 5. DualSense Edge doczekał się odświeżonego modelu, który pojawił się już w oficjalnym japońskim sklepie producenta.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "SkyShowtime z kontynuacją spin-offu jednego z najlepszych seriali w historii. Produkcja zbiera dobre oceny",
