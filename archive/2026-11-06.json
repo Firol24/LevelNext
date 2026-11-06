@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T08:16+01:00",
+  "updatedAt": "2026-11-06T08:38+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -36,12 +36,30 @@
       "category": "WIADOMOŚCI"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "Za 5 dni premiera kontynuacji najdroższego serialu w historii. Widowisko rozszerzające kultowe uniwersum fantasy zgromadziło już 185 mln widzów na świecie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-5-dni-premiera-kontynuacji-najdrozszego-serialu-w-historii-wid/zc3223b",
+      "publishedAt": "2026-11-06T06:50+01:00",
+      "summary": "Najdroższy serial wszech czasów wraca na ekrany. Już w przyszłym tygodniu na Prime Video pojawią się cztery odcinki trzeciego sezonu Władcy Pierścieni: Pierścieni Władzy. Co czeka pogrążone w wojnie Śródziemie? Informacja Za 5 dni premiera kontynuacji najdroższego serialu w historii. Widowisko rozszerzające kultowe uniwersum fantasy zgromadziło już 185 mln widzów na świecie została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531583905.jpg"
+    },
+    {
       "sourceName": "PPE",
       "title": "GTA 6 z tajemniczym bonusem za zamówienie przedpremierowe! Gracze mogą być zaskoczeni",
       "sourceUrl": "https://www.ppe.pl/news/432303/gta-6-z-tajemniczym-bonusem-za-zamowienie-przedpremierowe-gracze-moga-byc-zaskoczeni.html",
       "publishedAt": "2026-11-06T06:45+01:00",
       "summary": "Premiera GTA 6 zbliża się wielkimi krokami, a kolejne informacje dotyczące wyczekiwanej produkcji Rockstar Games rozbudzają zainteresowanie graczy. Tym razem w sieci pojawiły się szczegóły tajemniczego prezentu, który ma być dodawany do wybran...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wydawca GTA 6 nie chciał powtórki z tragicznej premiery Cyberpunka 2077. Rockstar idzie na rekord bez strachu o piratów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wydawca-gta-6-nie-chcial-powtorki-z-tragicznej-premiery-cyberpunk/z032245",
+      "publishedAt": "2026-11-06T06:30+01:00",
+      "summary": "Prezes Take-Two Interactive wyjaśnił, dlaczego warto było dwukrotnie opóźnić premierę GTA 6. Przy okazji nawiązał do katastrofalnego debiutu pewnej głośnej produkcji. Informacja Wydawca GTA 6 nie chciał powtórki z tragicznej premiery Cyberpunka 2077. Rockstar idzie na rekord bez strachu o piratów została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531607282.jpg"
     },
     {
       "sourceName": "PPE",
