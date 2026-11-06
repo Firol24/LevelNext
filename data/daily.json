@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T12:01+01:00",
+  "updatedAt": "2026-11-06T13:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Bloodborne wciąż się sprzedaje, a kontynuacji jak nie było, tak nie ma. Były szef PlayStation wyjaśnia",
-    "summary": "Były szef PlayStation uważa, że dużą przeszkodą w stworzeniu kontynuacji Bloodborne są kwestie formalne. Gracze nadal są jednak zainteresowani grą, co pokazują statystyki analityków. Informacja Bloodborne wciąż się sprzedaje, a kontynuacji jak nie było, tak nie ma. Były szef PlayStation wyjaśnia została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/bloodborne-wciaz-sie-sprzedaje-a-kontynuacji-jak-nie-bylo-tak-nie/z432258",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531661928.jpg"
+    "title": "Netflix kręci kolejny polski serial. 6-odcinkowy thriller psychologiczny opowie o jednej z najgłośniejszych afer kryminalnych w Polsce",
+    "summary": "Twórcy Wielkiej wody i Heweliusza powracają z kolejnym projektem opartym na faktach. Jan Holoubek i Kasper Bajon zrealizują dla Netflixa sześcioodcinkowy serial Skóry, który opowie o sprawie „łowców skór” w łódzkim pogotowiu. Informacja Netflix kręci kolejny polski serial. 6-odcinkowy thriller psychologiczny opowie o jednej z najgłośniejszych afer kryminalnych w Polsce została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/netflix-kreci-kolejny-polski-serial-6-odcinkowy-thriller-psycholo/z332257",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531660838.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Netflix kręci kolejny polski serial. 6-odcinkowy thriller psychologiczny opowie o jednej z najgłośniejszych afer kryminalnych w Polsce",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/netflix-kreci-kolejny-polski-serial-6-odcinkowy-thriller-psycholo/z332257",
+      "publishedAt": "2026-11-06T13:20+01:00",
+      "summary": "Twórcy Wielkiej wody i Heweliusza powracają z kolejnym projektem opartym na faktach. Jan Holoubek i Kasper Bajon zrealizują dla Netflixa sześcioodcinkowy serial Skóry, który opowie o sprawie „łowców skór” w łódzkim pogotowiu. Informacja Netflix kręci kolejny polski serial. 6-odcinkowy thriller psychologiczny opowie o jednej z najgłośniejszych afer kryminalnych w Polsce została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531660838.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Pokolenie Z kwestionuje niepisane zasady, których pracownicy przestrzegają od dziesięcioleci",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pokolenie-z-kwestionuje-niepisane-zasady-ktorych-pracownicy-przes/zd3225a",
+      "publishedAt": "2026-11-06T13:20+01:00",
+      "summary": "Gen Z zmienia spojrzenie na to, kiedy pracownik jest dostępny dla swojego pracodawcy. Kiedyś maile i telefony po godzinach były normą, ale standard zaczyna się zmieniać. Informacja Pokolenie Z kwestionuje niepisane zasady, których pracownicy przestrzegają od dziesięcioleci została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531662668.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zwykły spacer przez śnieżycę wystarczył, żeby zachwycić fanów WoW-a. Dun Morogh odzyskało magię",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zwykly-spacer-przez-sniezyce-wystarczyl-zeby-zachwycic-fanow-wow/z532259",
+      "publishedAt": "2026-11-06T12:59+01:00",
+      "summary": "WoW Forever zachwyca graczy efektami pogodowymi, które niejednokrotnie potrafią upiększyć eksplorację. Gracze są w większości zgodni – Blizzard odwalił kawał dobrej roboty projektując śnieżyce w swojej najnowszej produkcji. Informacja Zwykły spacer przez śnieżycę wystarczył, żeby zachwycić fanów WoW-a. Dun Morogh odzyskało magię została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531662149.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Bloodborne wciąż się sprzedaje, a kontynuacji jak nie było, tak nie ma. Były szef PlayStation wyjaśnia",
@@ -20,6 +47,23 @@
       "summary": "Były szef PlayStation uważa, że dużą przeszkodą w stworzeniu kontynuacji Bloodborne są kwestie formalne. Gracze nadal są jednak zainteresowani grą, co pokazują statystyki analityków. Informacja Bloodborne wciąż się sprzedaje, a kontynuacji jak nie było, tak nie ma. Były szef PlayStation wyjaśnia została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531661928.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Cross Blitz na PC za jedyne 4,38 zł w Kinguinie. Historycznie najniższa cena",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/cross-blitz-na-pc-za-jedyne-438-zl-w-kinguinie-historycznie-najnizsza-cena/",
+      "publishedAt": "2026-11-06T12:49+01:00",
+      "summary": "Cross Blitz, czyli karciany roguelike niezależnego zespołu Tako Boy Studios, możecie kupić niezwykle tanio w Kinguinie. Sklep oferuje klucz Steam produkcji utrzymanej w estetyce pixel artu, w której wcielicie się w barwne postacie, poznając ich historię, za 4,38 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/cross-blitz-miniaturka-cyfra-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin 3 oferuje tryb dla \"zmęczonych rodziców\". Świetny pomysł Polaków",
+      "sourceUrl": "https://www.ppe.pl/news/432356/wiedzmin-3-oferuje-tryb-dla-zmeczonych-rodzicow-swietny-pomysl-polakow.html",
+      "publishedAt": "2026-11-06T12:42+01:00",
+      "summary": "W odświeżonej wersji słynnego Wiedźmina 3 pojawiło się mnóstwo przydatnych opcji ułatwiających rozgrywkę, które pozwalają dostosować grę do własnych potrzeb.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -40,6 +84,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531656971.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Monitor MSI MAG 274QP QD-OLED X24 26,5″ 240 Hz za 1299 zł (300 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/monitor-msi-mag-274qp-qd-oled-x24-265-240-hz-za-1299-zl-300-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-06T12:27+01:00",
+      "summary": "26,5-calowy monitor MSI MAG 274QP X24, dostępny jest w dobrej cenie w Media Expert. Sklep oferuje monitor z matrycą QD-OLED o częstotliwości odświeżania 240 Hz, rozdzielczości 2560 x 1440 pikseli, gniazdami HDMI 2.1 oraz wsparciem dla technologii Nvidia G-Sync i AMD FreeSync Premium, za 1299 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/msi-mag-x24-qd-oled-274qp-1b-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Xbox na PC wreszcie przestanie irytować graczy? Microsoft chwali się ogromnym przyspieszeniem aplikacji",
       "sourceUrl": "https://www.gry-online.pl/newsroom/xbox-na-pc-wreszcie-przestanie-irytowac-graczy-microsoft-chwali-s/zf32253",
@@ -47,6 +100,31 @@
       "summary": "Microsoft udostępnił nową wersję aplikacji Xboxa na PC. Według zapowiedzi działa ona szybciej, a interfejs został przebudowany na bardziej intuicyjny. Informacja Xbox na PC wreszcie przestanie irytować graczy? Microsoft chwali się ogromnym przyspieszeniem aplikacji została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531658893.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 nie powtórzy błędu Cyberpunk 2077",
+      "sourceUrl": "https://www.ppe.pl/news/432352/gta-6-nie-powtorzy-bledu-cyberpunk-2077.html",
+      "publishedAt": "2026-11-06T12:18+01:00",
+      "summary": "Wokół długo wyczekiwanej premiery najnowszej odsłony Grand Theft Auto krąży sporo emocji, zwłaszcza że gra zaliczyła po drodze kilka sporego kalibru opóźnień. Choć fani musieli uzbroić się w anielską cierpliwość, szef firmy Take-Two, S...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Czy Konami sabotuje PS5 Pro? To dramat, jak źle wygląda jedna z najlepszych gier 2026 roku",
+      "sourceUrl": "https://www.ppe.pl/news/432353/czy-konami-sabotuje-ps5-pro-to-dramach-jak-zle-wyglada-jedna-z-najlepszych-gier-2026-roku.html",
+      "publishedAt": "2026-11-06T12:18+01:00",
+      "summary": "To, co wyprawia Konami w kontekście Castlevania: Belmont's Curse jest zdumiewające.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Rockstar zasypuje nas kolejnymi screenami z GTA 6. Piękne Vice City, rabunki i parujący erotyzm na nowych ujęciach",
+      "sourceUrl": "https://cdaction.pl/newsy/rockstar-zasypuje-nas-kolejnymi-screenami-z-gta-6-piekne-vice-city-rabunki-i-parujacy-erotyzm-na-nowych-ujeciach/",
+      "publishedAt": "2026-11-06T12:15+01:00",
+      "summary": "Wszystko fajnie, tylko zamiast tego wolałbym gameplay.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
