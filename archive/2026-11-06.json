@@ -1,17 +1,42 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T21:01+01:00",
+  "updatedAt": "2026-11-06T22:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "7 dni temu premiera, dziś „oszałamiający” sukces. Queen's Domain to wyśmienite RPG dla fanów Dark Souls i Morrowinda",
-    "summary": "Queen&apos;s Domain szturmem podbiło Steama, zdobywając aż 95% pozytywnych opinii. Niezależne RPG zachwyciło graczy i osiągnęło imponujący wynik sprzedaży, który zaskoczył nawet samych twórców. Informacja 7 dni temu premiera, dziś „oszałamiający” sukces. Queen&apos;s Domain to wyśmienite RPG dla fanów Dark Souls i Morrowinda została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/7-dni-temu-premiera-dzis-oszalamiajacy-sukces-queens-domain-to-wy/zf32271",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531692536.jpg"
+    "category": "PROMOCJE",
+    "title": "Zestaw powieści wizualnych z niespodzianką od Humble Bundle. Pakiet 11 gier Steam za 57 zł!",
+    "summary": "W ofercie Humble Bundle pojawiła się nowa odsłona nietypowego zestawu dedykowanego fanom powieści wizualnych. W ramach paczki Humble Unhinged & Unsettling Bundle możecie otrzymać maksymalnie aż 11 gier z gatunku Visual Novel . Całość umieszczono w dwóch progach cenowych, a zakup najdroższego z nich to wydatek nieco ponad 57 zł. Daje nam to całkiem niezły przelicznik ok. 5,25 zł za jeden klucz Steam! Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/bundle/zestaw-powiesci-wizualnych-z-niespodzianka-od-humble-bundle-pakiet-11-gier-steam-za-57-zl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zestaw-powiesci-wizualnych-z-niespodzianka-od-Humble-Bundle.-Pakiet-11-gier-Steam-za-57-zl_minaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw powieści wizualnych z niespodzianką od Humble Bundle. Pakiet 11 gier Steam za 57 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/zestaw-powiesci-wizualnych-z-niespodzianka-od-humble-bundle-pakiet-11-gier-steam-za-57-zl/",
+      "publishedAt": "2026-11-06T21:57+01:00",
+      "summary": "W ofercie Humble Bundle pojawiła się nowa odsłona nietypowego zestawu dedykowanego fanom powieści wizualnych. W ramach paczki Humble Unhinged & Unsettling Bundle możecie otrzymać maksymalnie aż 11 gier z gatunku Visual Novel . Całość umieszczono w dwóch progach cenowych, a zakup najdroższego z nich to wydatek nieco ponad 57 zł. Daje nam to całkiem niezły przelicznik ok. 5,25 zł za jeden klucz Steam! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zestaw-powiesci-wizualnych-z-niespodzianka-od-Humble-Bundle.-Pakiet-11-gier-Steam-za-57-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox zostanie sprzedany? Microsoft może ratować sytuację",
+      "sourceUrl": "https://www.ppe.pl/news/432382/xbox-zostanie-sprzedany-microsoft-moze-ratowac-sytuacje.html",
+      "publishedAt": "2026-11-06T21:56+01:00",
+      "summary": "Microsoft może stanąć przed jedną z najważniejszych decyzji w historii marki Xbox. Od pewnego czasu pojawiają się doniesienia dotyczące potencjalnej sprzedaży działu gamingowego, ale teraz znany analityk branży gier przedstawił zupełnie now...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Planted! - recenzja gry. Moving Out ale to Stardew Valley?",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432381/planted-recenzja-gry-moving-out-ale-to-stardew-valley.html",
+      "publishedAt": "2026-11-06T21:30+01:00",
+      "summary": "Wszyscy znamy gry, w których sadzenie marchewki oznacza spokojny wieczór, kubek herbaty i doglądanie swojej farmy. Planted!, które dziś dla Was zrecenzuję, działa inaczej. Ogród zamienia się w arenę, warzywa w amunicję (poniekąd), a człowie...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "7 dni temu premiera, dziś „oszałamiający” sukces. Queen's Domain to wyśmienite RPG dla fanów Dark Souls i Morrowinda",
@@ -20,6 +45,23 @@
       "summary": "Queen&apos;s Domain szturmem podbiło Steama, zdobywając aż 95% pozytywnych opinii. Niezależne RPG zachwyciło graczy i osiągnęło imponujący wynik sprzedaży, który zaskoczył nawet samych twórców. Informacja 7 dni temu premiera, dziś „oszałamiający” sukces. Queen&apos;s Domain to wyśmienite RPG dla fanów Dark Souls i Morrowinda została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531692536.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Hideo Kojima tworzy zupełnie nowe medium? Gwiazda PHYSINT zapowiada niezwykłe doświadczenie",
+      "sourceUrl": "https://www.ppe.pl/news/432385/hideo-kojima-tworzy-zupelnie-nowe-medium-gwiazda-physint-zapowiada-niezwykle-doswiadczenie.html",
+      "publishedAt": "2026-11-06T21:18+01:00",
+      "summary": "Hideo Kojima od lat udowadnia, że nie zamierza tworzyć gier według utartych schematów. Japoński reżyser uwielbia eksperymentować, zaskakiwać graczy i zacierać granice pomiędzy kinem a interaktywną rozrywką. Wygląda jednak na to, że przy ok...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw dla fanów nonogramów od Humble Bundle. Aż 10 gier Steam za 48 zł (zamiast 105 zł)!",
+      "sourceUrl": "https://lowcygier.pl/bundle/zestaw-dla-fanow-nonogramow-od-humble-bundle-az-10-gier-steam-za-48-zl-zamiast-105-zl/",
+      "publishedAt": "2026-11-06T21:02+01:00",
+      "summary": "Łowcy, jeśli wśród Was obecni są fani nonogramów, to zespół Humble Bundle przygotował bardzo sympatyczny zestaw gier logicznych na PC. W ramach pakietu Humble Non Non Nonograms! Bundle otrzymacie aż 13 tytułów na Steam. Całość oferowana jest w jednym progu cenowym za nieco pnad 48 zł, co pozwala otrzymać jedną pozycję na PC za ok. 4,8 zł ! Osobny zakup wszystkich wymienionych tytułów w historycznie najniższych cenach na PC to aktualnie, według GG.Deals, koszt ponad 105 zł ! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zestaw-dla-fanow-nonogramow-od-Humble-Bundle.-Az-10-gier-Steam-za-48-zl-zamiast-105-zl_minaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
