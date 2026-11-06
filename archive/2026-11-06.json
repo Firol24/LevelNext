@@ -1,16 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T08:13+01:00",
+  "updatedAt": "2026-11-06T08:16+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "The Legend of Zelda: Ocarina of Time Remake z cenzurą. Fani zauważyli ważną zmianę",
-    "summary": "The Legend of Zelda: Ocarina of Time Remake zachwyca oprawą graficzną i pozwala ponownie przeżyć jedną z najważniejszych przygód w historii Nintendo. Okazuje się jednak, że twórcy nie ograniczyli się wyłącznie do odświeżenia kultowej prod...",
-    "sourceUrl": "https://www.ppe.pl/news/432332/the-legend-of-zelda-ocarina-of-time-remake-z-cenzura-fani-zauwazyli-wazna-zmiane.html"
+    "title": "SkyShowtime z kontynuacją spin-offu jednego z najlepszych seriali w historii. Produkcja zbiera dobre oceny",
+    "summary": "SkyShowtime rozpoczyna weekend od bardzo ciekawej propozycji. Na platformę powróciła znakomita historia... szczególnie dla fanów kultowego „The Office”.",
+    "sourceUrl": "https://www.ppe.pl/news/432329/skyshowtime-z-kontynuacja-spin-offu-jednego-z-najlepszych-seriali-w-historii-produkcja-zbiera-dobre-oceny.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "SkyShowtime z kontynuacją spin-offu jednego z najlepszych seriali w historii. Produkcja zbiera dobre oceny",
+      "sourceUrl": "https://www.ppe.pl/news/432329/skyshowtime-z-kontynuacja-spin-offu-jednego-z-najlepszych-seriali-w-historii-produkcja-zbiera-dobre-oceny.html",
+      "publishedAt": "2026-11-06T08:15+01:00",
+      "summary": "SkyShowtime rozpoczyna weekend od bardzo ciekawej propozycji. Na platformę powróciła znakomita historia... szczególnie dla fanów kultowego „The Office”.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "The Legend of Zelda: Ocarina of Time Remake z cenzurą. Fani zauważyli ważną zmianę",
@@ -178,11 +186,11 @@
       "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026"
     },
     {
-      "title": "Wilderdark",
+      "title": "BLIGHTEN",
       "date": null,
       "platform": "PC (Steam)",
-      "summary": "Survival horror na nienaturalnej wyspie, gdzie tajemniczy pasożyt przeobraża dinozaury i roślinność. Skradanie, dokumentowanie śladów i improwizowane narzędzia są ważniejsze niż otwarta walka; Steam nie podaje dokładnego dnia premiery.",
-      "sourceUrl": "https://store.steampowered.com/app/2735850/Wilderdark/"
+      "summary": "Retro survival horror FPS w opuszczonym kompleksie opanowanym przez stworzenia zakażone tajemniczą zarazą. Trzeba zbierać zasoby i przetrwać w przemysłowym labiryncie; Steam podaje tylko rok 2026, bez dokładnego dnia.",
+      "sourceUrl": "https://store.steampowered.com/app/4462580/BLIGHTEN/"
     }
   ],
   "releases": [
@@ -275,7 +283,7 @@
       "date": "2026-11-27",
       "title": "Poznaj swojego teścia",
       "genre": "Komedia",
-      "summary": "Greg Focker ponownie musi zmierzyć się z Jackiem Byrnesem, byłym agentem CIA. Tym razem rodzinny chaos wybucha, gdy syn Grega planuje ślub z niezależną partnerką.",
+      "summary": "Greg Focker ponownie spotyka się z Jackiem Byrnesem, byłym agentem CIA. Czwarta część serii stawia na rodzinne nieporozumienia i komediowe starcie dwóch charakterów.",
       "sourceUrl": "https://www.cinema-city.pl/filmy/poznaj-swojego-tescia/8181s2r"
     }
   ],
@@ -288,5 +296,5 @@
     "availabilityUrl": "https://www.justwatch.com/pl/film/to-rozdzial-2"
   },
   "editorialUpdatedAt": "2026-11-06",
-  "editorialHash": "fe446f61a4cf0b39a5129db547c5b1a5d1a4deff622642d00f37ebd56e565309"
+  "editorialHash": "4022e8f5d03a7fe404c3ccb26e0791228f2f715310af3cefad7ce57283dfc597"
 }
