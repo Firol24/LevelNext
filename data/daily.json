@@ -1,17 +1,113 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T11:01+01:00",
+  "updatedAt": "2026-11-06T12:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "1,65 mld minut w tydzień. Hitowe sci-fi dostało nowe życie na Netflixie i za 17 dni trafi do serwisu w Polsce",
-    "summary": "Serial HBO Max zyskał ogromną popularność dzięki pojawieniu się na Netflixie, a wkrótce zadebiutuje także w polskim katalogu giganta streamingu. Wiadomo też, kiedy możemy spodziewać się zapowiedzianego finału Stamtąd. Informacja 1,65 mld minut w tydzień. Hitowe sci-fi dostało nowe życie na Netflixie i za 17 dni trafi do serwisu w Polsce została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/165-mld-minut-w-tydzien-hitowe-sci-fi-dostalo-nowe-zycie-na-netfl/zc3224a",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531653277.jpg"
+    "title": "Bloodborne wciąż się sprzedaje, a kontynuacji jak nie było, tak nie ma. Były szef PlayStation wyjaśnia",
+    "summary": "Były szef PlayStation uważa, że dużą przeszkodą w stworzeniu kontynuacji Bloodborne są kwestie formalne. Gracze nadal są jednak zainteresowani grą, co pokazują statystyki analityków. Informacja Bloodborne wciąż się sprzedaje, a kontynuacji jak nie było, tak nie ma. Były szef PlayStation wyjaśnia została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/bloodborne-wciaz-sie-sprzedaje-a-kontynuacji-jak-nie-bylo-tak-nie/z432258",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531661928.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Bloodborne wciąż się sprzedaje, a kontynuacji jak nie było, tak nie ma. Były szef PlayStation wyjaśnia",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/bloodborne-wciaz-sie-sprzedaje-a-kontynuacji-jak-nie-bylo-tak-nie/z432258",
+      "publishedAt": "2026-11-06T12:52+01:00",
+      "summary": "Były szef PlayStation uważa, że dużą przeszkodą w stworzeniu kontynuacji Bloodborne są kwestie formalne. Gracze nadal są jednak zainteresowani grą, co pokazują statystyki analityków. Informacja Bloodborne wciąż się sprzedaje, a kontynuacji jak nie było, tak nie ma. Były szef PlayStation wyjaśnia została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531661928.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Polska gra miała stanąć obok EA FC i Football Managera, a okazała się wielkim zawodem. „Zainwestowałem wszystko, co wówczas miałem”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/polska-gra-miala-stanac-obok-ea-fc-i-football-managera-okazala-si/z232256",
+      "publishedAt": "2026-11-06T12:30+01:00",
+      "summary": "Spółka Triple Espresso, twórcy gry Copa City, złożyła wniosek o upadłość. Bogusław Leśnodorski, jej współzałożyciel i największy akcjonariusz, opowiedział o kulisach porażki. Informacja Polska gra miała stanąć obok EA FC i Football Managera, a okazała się wielkim zawodem. „Zainwestowałem wszystko, co wówczas miałem” została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531660324.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 7 dni premiera jednego z najbardziej obiecujących serialowych thrillerów. Sensacyjna nowość z gwiazdami może być hitem Apple TV",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-7-dni-premiera-jednego-z-najbardziej-obiecujacych-serialowych/z13224f",
+      "publishedAt": "2026-11-06T12:30+01:00",
+      "summary": "Już tylko tydzień dzieli nas od jednej z najważniejszych premier jesieni na Apple TV. Wkrótce w serwisie zadebiutuje serial sensacyjny 12 12 12, w którym spotkają się Anthony Mackie i Jamie Dornan. Do sieci trafiła właśnie nowa zapowiedź. Informacja Za 7 dni premiera jednego z najbardziej obiecujących serialowych thrillerów. Sensacyjna nowość z gwiazdami może być hitem Apple TV została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531656971.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Xbox na PC wreszcie przestanie irytować graczy? Microsoft chwali się ogromnym przyspieszeniem aplikacji",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/xbox-na-pc-wreszcie-przestanie-irytowac-graczy-microsoft-chwali-s/zf32253",
+      "publishedAt": "2026-11-06T12:25+01:00",
+      "summary": "Microsoft udostępnił nową wersję aplikacji Xboxa na PC. Według zapowiedzi działa ona szybciej, a interfejs został przebudowany na bardziej intuicyjny. Informacja Xbox na PC wreszcie przestanie irytować graczy? Microsoft chwali się ogromnym przyspieszeniem aplikacji została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531658893.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Przedsprzedaż limitowanego kontrolera DualSense Gran Turismo wystartowała! Pad w cenie 499,99 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/przedsprzedaz-limitowanego-kontrolera-dualsense-gran-turismo-wystartowala-pad-w-cenie-49999-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-06T11:59+01:00",
+      "summary": "Właśnie rozpoczęła się sprzedaż limitowanego kontrolera DualSense z motywem z gry Gran Turismo. Dorwiecie go w polskich sklepach za 499,99 zł. Liczba sztuk podobno ograniczona, więc jeśli planujecie zakup, warto się pospieszyć! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-DualSense-Gran-Turismo-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox z nowościami! Aplikacja działa o połowę sprawniej niż wcześniej",
+      "sourceUrl": "https://www.ppe.pl/news/432351/xbox-z-nowosciami-aplikacja-dziala-o-polowe-sprawniej-niz-wczesniej.html",
+      "publishedAt": "2026-11-06T11:58+01:00",
+      "summary": "Microsoft wreszcie wziął się za porządki i przygotował spore odświeżenie aplikacji Xbox na komputery osobiste, co z pewnością ucieszy wielu graczy zmęczonych dotychczasowymi opóźnieniami.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Świetny start WoW Forever umożliwiło ponad 250 000 GB pamięci RAM. Gracze żartują, że Sam Altman będzie zazdrosny",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/swietny-start-wow-forever-umozliwilo-ponad-250-000-gb-pamieci-ram/ze32252",
+      "publishedAt": "2026-11-06T11:55+01:00",
+      "summary": "Tym razem start nowej wersji WoW-a poszedł naprawdę sprawnie. Wszystko dzięki przygotowaniom, jakie poczynił Blizzard i olbrzymiej infrastrukturze utrzymującej MMO przy życiu. Informacja Świetny start WoW Forever umożliwiło ponad 250 000 GB pamięci RAM. Gracze żartują, że Sam Altman będzie zazdrosny została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531658323.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Graficzna rewolucja na konsolach Xbox i handheldach. Porównanie obrazu z FSR 4.1 Lite wgniata w fotel",
+      "sourceUrl": "https://www.ppe.pl/news/432354/graficzna-rewolucja-na-konsolach-xbox-i-handheldach-porownanie-obrazu-z-fsr-4-1-lite-wgniata-w-fotel.html",
+      "publishedAt": "2026-11-06T11:53+01:00",
+      "summary": "Od wczoraj wiemy, że deweloperzy mają już dostęp do narzędzi FSR 4 dla konsol Xbox. Redakcja Digital Foundry przyjrzała się sprawie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Specjalne czasopismo o Grand Theft Auto. Oto, co znajdziesz w środku CDA GTA",
+      "sourceUrl": "https://cdaction.pl/newsy/specjalne-czasopismo-o-grand-theft-auto-oto-co-znajdziesz-w-srodku-cda-gta/",
+      "publishedAt": "2026-11-06T11:47+01:00",
+      "summary": "Premiera GTA VI i CDA GTA zbliża się wielkimi krokami. Spójrzcie więc na przykładowe teksty, które pojawią się naszym magazynie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/news_cda.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyjątkowy kontroler HORI Electric Ocarina of Time dostępny za 279,99 zł (+ wysyłka) w Perfect Blue. Sprzęt pojawi się w grudniu",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/wyjatkowy-kontroler-hori-electric-ocarina-of-time-dostepny-za-27999-zl-wysylka-w-perfect-blue-sprzet-pojawi-sie-w-grudniu/",
+      "publishedAt": "2026-11-06T11:44+01:00",
+      "summary": "Jeśli chcieliście odgrywać melodie, których Link uczy się podczas rozgrywki w The Legend of Zelda: Ocarina of Time, możecie zaopatrzyć się w świetne akcesorium przygotowane przez firmę HORI. W Perfect Blue możecie zamówić elektryczną okarynę za 279,99 zł w przedsprzedaży. Według karty produktu, sprzęt pojawi się na początku grudnia. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Preorder-HORI-Electric-Ocarina-of-Time-w-Play-Asia.-Muzyczny-kontroler-za-315-zl-wysylka_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Właściciel EA znowu na zakupach! Podano, kogo tym razem wykupi",
+      "sourceUrl": "https://www.ppe.pl/news/432349/wlasciciel-ea-znowu-na-zakupach-podano-kogo-tym-razem-wykupi.html",
+      "publishedAt": "2026-11-06T11:35+01:00",
+      "summary": "Arabski fundusz majątkowy Saudi PIF oraz firma inwestycyjna Silver Lake najwyraźniej nie zamierzają zwalniać tempa i po niedawnym, gigantycznym przejęciu Electronic Arts szykują się na kolejne wielkie zakupy.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "1,65 mld minut w tydzień. Hitowe sci-fi dostało nowe życie na Netflixie i za 17 dni trafi do serwisu w Polsce",
@@ -20,6 +116,15 @@
       "summary": "Serial HBO Max zyskał ogromną popularność dzięki pojawieniu się na Netflixie, a wkrótce zadebiutuje także w polskim katalogu giganta streamingu. Wiadomo też, kiedy możemy spodziewać się zapowiedzianego finału Stamtąd. Informacja 1,65 mld minut w tydzień. Hitowe sci-fi dostało nowe życie na Netflixie i za 17 dni trafi do serwisu w Polsce została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531653277.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Indiana Jones tylko dla dorosłych? Twórca horroru „Obsesja” marzy o filmie z kategorią R",
+      "sourceUrl": "https://cdaction.pl/kultura/indiana-jones-tylko-dla-doroslych-tworca-horroru-obsesja-marzy-o-filmie-z-kategoria-r/",
+      "publishedAt": "2026-11-06T11:30+01:00",
+      "summary": "Indy mógłby popuścić nieco bicza.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Indiana-Jones.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +136,23 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531656507.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera Stellar Blade Complete Edition na Nintendo Switch 2 za nami. Pełna gra na kartridżu w cenie od 230,99 zł",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/premiera-stellar-blade-complete-edition-na-nintendo-switch-2-za-nami-pelna-gra-na-kartridzu-w-cenie-od-23099-zl/",
+      "publishedAt": "2026-11-06T11:23+01:00",
+      "summary": "Posiadacze konsol Nintendo Switch 2 mogą już zapoznać się z kompletnym wydaniem slashera koreańskiego studia SHIFT UP z piękną Eve w roli głównej. Premiera Stellar Blade Complete Edition stała się już faktem, bowiem tytuł właśnie zadebiutował na rynku. Warto wspomnieć, że gra ukaże się w pełni na kartridżu, a jeśli chcecie się zaopatrzyć we własną kopię, tę kupicie już od 229 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/stellar-blade-complete-edition-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "End of Abyss - recenzja gry. Resident Evil spotyka Little Nightmares i Metroid Prime",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432350/end-of-abyss-recenzja-gry-resident-evil-spotyka-little-nightmares-i-metroid-prime.html",
+      "publishedAt": "2026-11-06T11:23+01:00",
+      "summary": "Ciemne korytarze, podejrzane odgłosy, coś obrzydliwego pełzającego za rogiem i nieodparte wrażenie, że absolutnie nie powinniśmy znajdować się w miejscu, do którego właśnie weszliśmy. End of Abyss doskonale rozumie tę konwencję.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Twórca Deus Ex ostro o szefach EA po zamknięciu BioWare. „Czy ktokolwiek z nich traci przez to sen?”",
       "sourceUrl": "https://www.gry-online.pl/newsroom/tworca-deus-ex-ostro-o-szefach-ea-po-zamknieciu-bioware-czy-ktoko/zf3224d",
@@ -38,6 +160,14 @@
       "summary": "Warren Spector ponownie skrytykował EA za zamknięcie BioWare, zwracając uwagę na ogromne wynagrodzenia kierownictwa. Tymczasem powstaje dokument, który pokaże kulisy ostatnich dni studia. Informacja Twórca Deus Ex ostro o szefach EA po zamknięciu BioWare. „Czy ktokolwiek z nich traci przez to sen?” została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531656169.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Electronic Arts promuje zabitą markę. Nie mogło skończyć się inaczej",
+      "sourceUrl": "https://www.ppe.pl/news/432347/electronic-arts-promuje-zabita-marke-nie-moglo-skonczyc-sie-inaczej.html",
+      "publishedAt": "2026-11-06T11:16+01:00",
+      "summary": "W branży gier bywają zagrywki marketingowe, które przekraczają granice dobrego smaku, ale to, co zrobiło niedawno Electronic Arts, przeszło najśmielsze oczekiwania graczy.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
