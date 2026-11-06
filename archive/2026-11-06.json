@@ -1,17 +1,75 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T09:01+01:00",
+  "updatedAt": "2026-11-06T10:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Henry Cavill zrobił grę o swoich słynnych wąsach. Każde uruchomienie wesprze walkę z rakiem i problemami psychicznymi mężczyzn",
-    "summary": "Henry Cavill stworzył grę o swoim słynnym wąsie. Mustache Protocol zadebiutuje jeszcze w listopadzie, a każde uruchomienie produkcji wesprze organizację Movember. Informacja Henry Cavill zrobił grę o swoich słynnych wąsach. Każde uruchomienie wesprze walkę z rakiem i problemami psychicznymi mężczyzn została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/henry-cavill-zrobil-gre-o-swoich-slynnych-wasach-kazde-uruchomien/z332248",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531650376.jpg"
+    "title": "25 mld dolarów w grze. Unity może podążyć drogą EA",
+    "summary": "Według agencji Reutera właściciel silnika Unity jest w trakcie rozmów o przejęciu przez konsorcjum inwestorów, które brało udział w zakupie Electronic Arts za 55 mld dolarów. Informacja 25 mld dolarów w grze. Unity może podążyć drogą EA została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/25-mld-dolarow-w-grze-unity-moze-podazyc-droga-ea/z432249",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531651749.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "25 mld dolarów w grze. Unity może podążyć drogą EA",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/25-mld-dolarow-w-grze-unity-moze-podazyc-droga-ea/z432249",
+      "publishedAt": "2026-11-06T10:04+01:00",
+      "summary": "Według agencji Reutera właściciel silnika Unity jest w trakcie rozmów o przejęciu przez konsorcjum inwestorów, które brało udział w zakupie Electronic Arts za 55 mld dolarów. Informacja 25 mld dolarów w grze. Unity może podążyć drogą EA została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531651749.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Hamble’s Farming Games Collection Bundle w Humble Store. Aż 11 gier rolniczych na Steam za 87 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/hambles-farming-games-collection-bundle-w-humble-store-az-11-gier-rolniczych-na-steam-za-87-zl/",
+      "publishedAt": "2026-11-06T10:00+01:00",
+      "summary": "Lubicie orać wirtualne pole? Jeśli tak, to sklep Humble ma dla Was nową paczkę aż 11 farmerskich gier. Hamble’s Farming Games Collection Bundle możecie nabyć za około 87 złotych, jeśli chcecie otrzymać komplet kluczy Steam. Co w niej znajdziecie? Między innymi Farming Simulator 19, Fae Farm, Border Town, czy też Seeds of Calamity. Wiele z produkcji dostępnych w paczce też wcześniej nie było dostępnych w ramach podobnych akcji. Możecie również wydać tylko 44 zł i 5 gier w niższym progu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/hambles-farming-games-collection-humble-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rewolucja AI koszmarem Nintendo. To szokujące, jak dobrze gry ze Switch 2 wyglądają na PC",
+      "sourceUrl": "https://www.ppe.pl/news/432338/rewolucja-ai-koszmarem-nintendo-to-szokujace-jak-dobrze-gry-ze-switch-2-wygladaja-na-pc.html",
+      "publishedAt": "2026-11-06T09:56+01:00",
+      "summary": "Niedawno napisałem na PPE krótki artykuł pt. \"Żegnajcie konsolowe exclusivy\". Czas na pożegnania jest faktycznie teraz. Bo rewolucji emulacji i fanowskich portów, które kolosalnie przyspieszyły wraz z dostępnością nowych narzędzi AI, nie da ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kolejna większa promocja na Apple iPhone Air z 256 GB pojemności A19 Pro i 120 Hz",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/smartfony-1/386108/pierwsza-promocja-na-apple-iphone-air-z-256-gb-pojemnosci-a19-pro-i-120-hz.html",
+      "publishedAt": "2026-11-06T09:53+01:00",
+      "summary": "W sklepie Media Expert nabędziemy naprawdę konkretnie przeceniony smartfon iPhone Air.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dla takich chwil warto być graczem. Wielka nocna premiera wywołała poruszenie",
+      "sourceUrl": "https://www.ppe.pl/news/432335/dla-takich-chwil-warto-byc-graczem-wielka-nocna-premiera-wywolala-poruszenie.html",
+      "publishedAt": "2026-11-06T09:52+01:00",
+      "summary": "Choć cyfrowa dystrybucja powoli przejmuje cały rynek gier i odsuwa tradycyjne nośniki w cień, gracze udowodnili, że wciąż potrafią zjednoczyć siły dla wyjątkowych chwil.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Cały pakiet Harry Potter (tomy 1-7) w edycji jubileuszowej za 270 zł zamiast 450 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/432346/caly-pakiet-harry-potter-tomy-1-7-w-edycji-jubileuszowej-za-270-zl-zamiast-450-zl.html",
+      "publishedAt": "2026-11-06T09:51+01:00",
+      "summary": "Gdy w Empiku płacimy za taki zestaw 450 zł, Allegro dzięki Allegro Days wrzuca cały pakiet taniej o niespełna 200 złotych.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dziś nowa premiera Stellar Blade - pudełka PS5 i NS2 taniej",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432345/dzis-nowa-premiera-stellar-blade-pudelka-ps5-i-ns2-taniej.html",
+      "publishedAt": "2026-11-06T09:44+01:00",
+      "summary": "Posiadacze konsol Nintendo Switch 2 w końcu doczekali się Stellar Blade w wersji pudełkowej na Nintendo Switch 2.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Henry Cavill zrobił grę o swoich słynnych wąsach. Każde uruchomienie wesprze walkę z rakiem i problemami psychicznymi mężczyzn",
@@ -22,6 +80,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531650376.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Pokemon Eevee od 153,99 zł (cena kat. 249,99 zł) w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-pokemon-eevee-od-15399-zl-cena-kat-24999-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-06T09:40+01:00",
+      "summary": "W polskim oddziale sklepu Amazon, w serwisie Allegro oraz w Media Expert pojawiły się świetne oferty na LEGO Pokemon Eevee. Model składający się z 587 elementów, przedstawiający uroczego kieszonkowego stworka, dostaniecie teraz od 153,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/Promocja-na-LEGO-72151-Pokemon-Eevee_miniaturka-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Wkrótce na Prime Video ukaże się ekranizacja jednej z najlepszych serii kryminalnych XXI wieku. Zwiastun thrillera zaostrza apetyt przed premierą",
       "sourceUrl": "https://www.gry-online.pl/newsroom/wkrotce-na-prime-video-ukaze-sie-ekranizacja-jednej-z-najlepszych/z232247",
@@ -29,6 +96,24 @@
       "summary": "Wyczekiwany thriller od Prime Video wreszcie ma zwiastun i datę premiery. To ekranizacja genialnej historii kryminalnej. Informacja Wkrótce na Prime Video ukaże się ekranizacja jednej z najlepszych serii kryminalnych XXI wieku. Zwiastun thrillera zaostrza apetyt przed premierą została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531649768.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Keanu Reeves oficjalnie wraca jako John Wick w animowanym prequelu. Poznamy historię „niemożliwego zadania”",
+      "sourceUrl": "https://cdaction.pl/kultura/keanu-reeves-oficjalnie-wraca-jako-john-wick-w-animowanym-prequelu-poznamy-historie-niemozliwego-zadania/",
+      "publishedAt": "2026-11-06T09:30+01:00",
+      "summary": "Wszystko to oczywiście z powodu kobiety.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/06/keanu-reeves-john-wick.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Jubileuszowe wydanie Harry Potter tomy 1-7 za 270 zł w ramach Allegro Black Weeks",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/jubileuszowe-wydanie-harry-potter-tomy-1-7-za-270-zl-w-ramach-allegro-black-weeks/",
+      "publishedAt": "2026-11-06T09:05+01:00",
+      "summary": "Kompletna, zawarta w siedmiu tomach historia Harry’ego Pottera, czarodzieja i Chłopca, Który Przeżył, pojawiła się w ozdobnym wydaniu w serwisie Allegro. Przygotowana na 25-lecie premiery pierwszego, polskiego opracowania Harry Potter i Kamień Filozoficzny wydawnictwa Media Rodzina, kosztuje 270 złotych. Książki układają się grzbietami w ilustrację przygotowaną przez amerykańską artystkę Mary GrandPré, a wydawnictwo zawarło również jubileuszowe posłowie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/harry-potter-edycja-jubileuszowa-media-rodzina-2b-224x224.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
