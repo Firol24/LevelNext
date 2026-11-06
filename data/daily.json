@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T16:38+01:00",
+  "updatedAt": "2026-11-06T17:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Ładowarka USB-C Motorola TurboPower 68W za 72,98 zł w Amazon PL",
-    "summary": "Szybka, jednoportowa ładowarka Motorola TurboPower, pojawiła się w dobrej cenie w ofercie polskiego oddziału sklepu Amazon. Model oferujący moc 68W, z kablem USB-C w zestawie, kosztuje niecałe 73 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-usb-c-motorola-turbopower-68w-za-7298-zl-w-amazon-pl/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/motorola-turbopower-usb-c-68W-2b-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "GTA 6 szybciej trafi na PC szybciej niż zakładano. Były dyrektor studia wskazuje powód",
+    "summary": "Premiera GTA 6 na komputerach osobistych może nastąpić szybciej, niż dotychczas zakładano. Mamy więc potwierdzenie kolejnych doniesień, o których pisaliśmy wcześniej.",
+    "sourceUrl": "https://www.ppe.pl/news/432374/gta-6-szybciej-trafi-na-pc-szybciej-niz-zakladano-byly-dyrektor-studia-wskazuje-powod.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 szybciej trafi na PC szybciej niż zakładano. Były dyrektor studia wskazuje powód",
+      "sourceUrl": "https://www.ppe.pl/news/432374/gta-6-szybciej-trafi-na-pc-szybciej-niz-zakladano-byly-dyrektor-studia-wskazuje-powod.html",
+      "publishedAt": "2026-11-06T16:45+01:00",
+      "summary": "Premiera GTA 6 na komputerach osobistych może nastąpić szybciej, niż dotychczas zakładano. Mamy więc potwierdzenie kolejnych doniesień, o których pisaliśmy wcześniej.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Ładowarka USB-C Motorola TurboPower 68W za 72,98 zł w Amazon PL",
