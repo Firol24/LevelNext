@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T06:01+01:00",
+  "updatedAt": "2026-11-06T07:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Amazon Prime Video z kontynuacją polskiego hitu od dzisiaj. To początek świątecznej ofensywy",
-    "summary": "Amazon Prime Video w tym roku w rekordowym tempie rozpoczął świąteczny ofensywę. Dzisiaj zobaczycie pierwszy film przygotowany z okazji zbliżających się świąt.",
-    "sourceUrl": "https://www.ppe.pl/news/432330/amazon-prime-video-z-kontynuacja-polskiego-hitu-od-dzisiaj-to-poczatek-swiatecznej-ofensywy.html"
+    "title": "GTA 6 z tajemniczym bonusem za zamówienie przedpremierowe! Gracze mogą być zaskoczeni",
+    "summary": "Premiera GTA 6 zbliża się wielkimi krokami, a kolejne informacje dotyczące wyczekiwanej produkcji Rockstar Games rozbudzają zainteresowanie graczy. Tym razem w sieci pojawiły się szczegóły tajemniczego prezentu, który ma być dodawany do wybran...",
+    "sourceUrl": "https://www.ppe.pl/news/432303/gta-6-z-tajemniczym-bonusem-za-zamowienie-przedpremierowe-gracze-moga-byc-zaskoczeni.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z tajemniczym bonusem za zamówienie przedpremierowe! Gracze mogą być zaskoczeni",
+      "sourceUrl": "https://www.ppe.pl/news/432303/gta-6-z-tajemniczym-bonusem-za-zamowienie-przedpremierowe-gracze-moga-byc-zaskoczeni.html",
+      "publishedAt": "2026-11-06T06:45+01:00",
+      "summary": "Premiera GTA 6 zbliża się wielkimi krokami, a kolejne informacje dotyczące wyczekiwanej produkcji Rockstar Games rozbudzają zainteresowanie graczy. Tym razem w sieci pojawiły się szczegóły tajemniczego prezentu, który ma być dodawany do wybran...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wielki protest graczy PlayStation zakończył się porażką! Sony może dalej zmieniać branżę",
+      "sourceUrl": "https://www.ppe.pl/news/432331/wielki-protest-graczy-playstation-zakonczyl-sie-porazka-sony-moze-dalej-zmieniac-branze.html",
+      "publishedAt": "2026-11-06T06:20+01:00",
+      "summary": "Gracze próbowali pokazać Sony, że nie zgadzają się z kierunkiem rozwoju PlayStation. Protesty przeciwko rezygnacji z fizycznych wydań gier, niezadowolenie z zamykania studiów i krytyka inwestycji w produkcje-usługi doprowadziły do zorganizowani...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Amazon Prime Video z kontynuacją polskiego hitu od dzisiaj. To początek świątecznej ofensywy",
