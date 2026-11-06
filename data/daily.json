@@ -1,17 +1,78 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T13:01+01:00",
+  "updatedAt": "2026-11-06T14:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Netflix kręci kolejny polski serial. 6-odcinkowy thriller psychologiczny opowie o jednej z najgłośniejszych afer kryminalnych w Polsce",
-    "summary": "Twórcy Wielkiej wody i Heweliusza powracają z kolejnym projektem opartym na faktach. Jan Holoubek i Kasper Bajon zrealizują dla Netflixa sześcioodcinkowy serial Skóry, który opowie o sprawie „łowców skór” w łódzkim pogotowiu. Informacja Netflix kręci kolejny polski serial. 6-odcinkowy thriller psychologiczny opowie o jednej z najgłośniejszych afer kryminalnych w Polsce została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/netflix-kreci-kolejny-polski-serial-6-odcinkowy-thriller-psycholo/z332257",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531660838.jpg"
+    "title": "27-latek dostał od technologicznego giganta niemal niemożliwe zadanie. Ma przepisać 98% kodu firmy w dwa lata, korzystając z AI",
+    "summary": "Jeden z szefów Cisco chce „rzucić wyzwanie status quo” i planuje przebudować 98% kodu w 2 lata z pomocą AI. Będą za to odpowiadały tylko dwie osoby. Informacja 27-latek dostał od technologicznego giganta niemal niemożliwe zadanie. Ma przepisać 98% kodu firmy w dwa lata, korzystając z AI została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/27-latek-dostal-od-technologicznego-giganta-niemal-niemozliwe-zad/zf32262",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531666999.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "27-latek dostał od technologicznego giganta niemal niemożliwe zadanie. Ma przepisać 98% kodu firmy w dwa lata, korzystając z AI",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/27-latek-dostal-od-technologicznego-giganta-niemal-niemozliwe-zad/zf32262",
+      "publishedAt": "2026-11-06T14:20+01:00",
+      "summary": "Jeden z szefów Cisco chce „rzucić wyzwanie status quo” i planuje przebudować 98% kodu w 2 lata z pomocą AI. Będą za to odpowiadały tylko dwie osoby. Informacja 27-latek dostał od technologicznego giganta niemal niemożliwe zadanie. Ma przepisać 98% kodu firmy w dwa lata, korzystając z AI została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531666999.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wrócił na Netflix z kontynuacją polecaną przez 92% krytyków, a mało kto ją ogląda. Thrillera szpiegowskiego z Keirą Knightley nie ma w top 10",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wrocil-na-netflix-z-kontynuacja-polecana-przez-92-krytykow-a-malo/zf3225c",
+      "publishedAt": "2026-11-06T14:16+01:00",
+      "summary": "Na Netflixie pojawił się drugi sezon Black Doves. I choć nowe odcinki są chwalone przez 92% recenzentów na Rotten Tomatoes, to polscy subskrybenci Netflixa wybrali inne tytuły. Informacja Wrócił na Netflix z kontynuacją polecaną przez 92% krytyków, a mało kto ją ogląda. Thrillera szpiegowskiego z Keirą Knightley nie ma w top 10 została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531664391.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Wszystkie nitki splotły się w straszny węzeł”. Ojciec Ultimy tłumaczy, dlaczego branża gier ma kłopoty",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wszystkie-nitki-splotly-sie-w-straszny-wezel-ojciec-ultimy-tlumac/zd32260",
+      "publishedAt": "2026-11-06T14:15+01:00",
+      "summary": "Legendarny Lord British stwierdził, że problemy branży mają wiele przyczyn. Przypomniał też, że jego studio Origin Systems nie anulowało gier, dopóki nie przejęło go EA. Informacja „Wszystkie nitki splotły się w straszny węzeł”. Ojciec Ultimy tłumaczy, dlaczego branża gier ma kłopoty została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531666818.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nadchodzi wielkie spotkanie fanów Gothica! Zjazd Skazańców będzie gratką dla larpowców, artystów i zwykłych graczy",
+      "sourceUrl": "https://cdaction.pl/newsy/nadchodzi-wielkie-spotkanie-fanow-gothica-zjazd-skazancow-bedzie-gratka-dla-larpowcow-artystow-i-zwyklych-graczy/",
+      "publishedAt": "2026-11-06T13:45+01:00",
+      "summary": "Ostatni rozkaz organizatorów brzmiał: przybywajcie!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Gothic.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe The Elder Scrolls IV Oblivion Remastered na Nintendo Switch 2 za 259 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-the-elder-scrolls-iv-oblivion-remastered-na-nintendo-switch-2-za-259-zl-na-allegro/",
+      "publishedAt": "2026-11-06T13:45+01:00",
+      "summary": "Poprzez serwis Allegro kupicie teraz taniej The Elder Scrolls IV: Oblivion Remastered. Odświeżony klasyk Bethesdy w pełnej wersji na kartridżu, zawierający dodatki Shivering Isles, Knights of the Nine oraz zawartość Deluxe, może być wasz za 259 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Promocja-na-The-Elder-Scrolls-IV_-Oblivion-Remastered-Deluxe-Edition-na-Nintendo-Switch-2_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "EA wskrzesiło 25 kultowych gier! Odświeżone tytuły dostępne na GOG i Steam",
+      "sourceUrl": "https://www.ppe.pl/news/432359/ea-wskrzesilo-25-kultowych-gier-odswiezone-tytuly-dostepne-na-gog-i-steam.html",
+      "publishedAt": "2026-11-06T13:41+01:00",
+      "summary": "EA postanowiło przypomnieć graczom o swoich dawnych hitach.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tomb Raider: Legacy of Atlantis nie będzie zwykłym remakiem. Twórcy zmieniają ważne mechaniki",
+      "sourceUrl": "https://www.ppe.pl/news/432358/tomb-raider-legacy-of-atlantis-nie-bedzie-zwyklym-remakiem-tworcy-zmieniaja-wazne-mechaniki.html",
+      "publishedAt": "2026-11-06T13:21+01:00",
+      "summary": "Tomb Raider: Legacy of Atlantis ma być czymś więcej niż odświeżeniem klasycznej przygody Lary Croft. Crystal Dynamics chce połączyć elementy oryginalnej gry z rozwiązaniami znanymi z trylogii Survivor.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Netflix kręci kolejny polski serial. 6-odcinkowy thriller psychologiczny opowie o jednej z najgłośniejszych afer kryminalnych w Polsce",
@@ -29,6 +90,32 @@
       "summary": "Gen Z zmienia spojrzenie na to, kiedy pracownik jest dostępny dla swojego pracodawcy. Kiedyś maile i telefony po godzinach były normą, ale standard zaczyna się zmieniać. Informacja Pokolenie Z kwestionuje niepisane zasady, których pracownicy przestrzegają od dziesięcioleci została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531662668.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nakładki na analogi padów PS4 i PS5 w 4 wersjach kolorystycznych od 16,28 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/nakladki-na-analogi-padow-ps4-i-ps5-w-4-wersjach-kolorystycznych-od-1628-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-06T13:09+01:00",
+      "summary": "Zestaw 10 wymiennych nakładek na grzybki analogów, jest dostępny w dobrej cenie w polskim oddziale sklepu Amazon. Za paczkę w kolorze czerwonym, zapłacicie 16,28 zł. Możecie także zakupić białe, niebieskie oraz czarne, które są nieco droższe. Akcesorium jest kompatybilne z padami do konsol Sony PlayStation 4 i PS5. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/analogi-ps4-ps5-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Epic Games rozdaje dwie gry za darmo. Tym razem można zdobyć także bonusy",
+      "sourceUrl": "https://www.ppe.pl/news/432357/epic-games-rozdaje-dwie-gry-za-darmo-tym-razem-mozna-zdobyc-takze-bonusy.html",
+      "publishedAt": "2026-11-06T13:03+01:00",
+      "summary": "Epic Games Store przygotował kolejną porcję bezpłatnych prezentów dla graczy PC. Do 12 listopada można odebrać Flotsam oraz specjalny pakiet zawartości do Idle Champions of the Forgotten Realms.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Były szef PlayStation spekuluje, dlaczego nie powstało jeszcze Bloodborne 2. Jego zdaniem powód jest prozaiczny",
+      "sourceUrl": "https://cdaction.pl/newsy/byly-szef-playstation-spekuluje-dlaczego-nie-powstalo-jeszcze-bloodborne-2-jego-zdaniem-powod-jest-prozaiczny/",
+      "publishedAt": "2026-11-06T13:02+01:00",
+      "summary": "Bloodborne nadal sprzedaje się jak świeże bułeczki, a Sony nadal nie ma ochoty nic z tym zrobić.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/bloodborne-key-art-1260x709.avif"
     },
     {
       "sourceName": "GRY-Online",
