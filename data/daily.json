@@ -1,16 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T16:01+01:00",
+  "updatedAt": "2026-11-06T16:38+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "The Office PL (2021) - recenzja 6. sezonu serialu [Canal+]. W biurze jak w rodzinie",
-    "summary": "Dwa miesiące temu pisałem, że szósty sezon \"The Office PL\" zapowiada się ciekawie, nowość w postaci Roberta stanowi ciekawą przeciwwagę dla klasycznego chaosu Michała, a cichsze, bardziej słodko-gorzkie sceny sugerują, że Maciej Bochniak i...",
-    "sourceUrl": "https://www.ppe.pl/recenzje/432296/the-office-pl-2021-recenzja-6-sezonu-serialu-canal-w-biurze-jak-w-rodzinie.html"
+    "category": "PROMOCJE",
+    "title": "Ładowarka USB-C Motorola TurboPower 68W za 72,98 zł w Amazon PL",
+    "summary": "Szybka, jednoportowa ładowarka Motorola TurboPower, pojawiła się w dobrej cenie w ofercie polskiego oddziału sklepu Amazon. Model oferujący moc 68W, z kablem USB-C w zestawie, kosztuje niecałe 73 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-usb-c-motorola-turbopower-68w-za-7298-zl-w-amazon-pl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/motorola-turbopower-usb-c-68W-2b-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka USB-C Motorola TurboPower 68W za 72,98 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-usb-c-motorola-turbopower-68w-za-7298-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-06T16:29+01:00",
+      "summary": "Szybka, jednoportowa ładowarka Motorola TurboPower, pojawiła się w dobrej cenie w ofercie polskiego oddziału sklepu Amazon. Model oferujący moc 68W, z kablem USB-C w zestawie, kosztuje niecałe 73 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/motorola-turbopower-usb-c-68W-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Netflix szykuje prequel swojego megahitu. Stranger Things: Inne Światy z pierwszymi szczegółami",
+      "sourceUrl": "https://www.ppe.pl/news/432373/netflix-szykuje-prequel-swojego-megahitu-stranger-things-inne-swiaty-z-pierwszymi-szczegolami.html",
+      "publishedAt": "2026-11-06T16:26+01:00",
+      "summary": "Mamy oficjalną zapowiedź nowego Stranger Things. Netflix szykuje serialowy prequel 10-letniego przeboju.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To oficjalne! Keanu Reeves ponownie wcieli się w Johna Wicka",
+      "sourceUrl": "https://www.ppe.pl/news/432366/to-oficjalne-keanu-reeves-ponownie-wcieli-sie-w-johna-wicka.html",
+      "publishedAt": "2026-11-06T16:16+01:00",
+      "summary": "Lionsgate oficjalnie zatwierdziło nowy film z uniwersum Johna Wicka. Produkcja opowie o przeszłości legendarnego zabójcy, a Keanu Reeves znów użyczy głosu głównemu bohaterowi. Jest jednak haczyk.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ring Fit Adventure na Nintendo Switch za 229 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/ring-fit-adventure-na-nintendo-switch-za-229-zl-na-allegro/",
+      "publishedAt": "2026-11-06T16:09+01:00",
+      "summary": "W ofercie Oficjalnego Sklepu Allegro znajdziecie dostępną dla użytkowników Smart! ofertę na Ring Fit Adventure. Ekskluzywna produkcja na konsolę Nintendo Switch, będąca połączeniem fitnessu z grą RPG, możliwa jest do nabycia za 229 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/Promocja-na-Ring-Fit-Adventure-na-Allegro.-Fitness-na-Nintendo-Switch-dostepny-juz-za-219-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "The Office PL (2021) - recenzja 6. sezonu serialu [Canal+]. W biurze jak w rodzinie",
