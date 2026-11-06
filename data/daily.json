@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T07:01+01:00",
+  "updatedAt": "2026-11-06T08:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 z tajemniczym bonusem za zamówienie przedpremierowe! Gracze mogą być zaskoczeni",
-    "summary": "Premiera GTA 6 zbliża się wielkimi krokami, a kolejne informacje dotyczące wyczekiwanej produkcji Rockstar Games rozbudzają zainteresowanie graczy. Tym razem w sieci pojawiły się szczegóły tajemniczego prezentu, który ma być dodawany do wybran...",
-    "sourceUrl": "https://www.ppe.pl/news/432303/gta-6-z-tajemniczym-bonusem-za-zamowienie-przedpremierowe-gracze-moga-byc-zaskoczeni.html"
+    "title": "The Legend of Zelda: Ocarina of Time Remake z cenzurą. Fani zauważyli ważną zmianę",
+    "summary": "The Legend of Zelda: Ocarina of Time Remake zachwyca oprawą graficzną i pozwala ponownie przeżyć jedną z najważniejszych przygód w historii Nintendo. Okazuje się jednak, że twórcy nie ograniczyli się wyłącznie do odświeżenia kultowej prod...",
+    "sourceUrl": "https://www.ppe.pl/news/432332/the-legend-of-zelda-ocarina-of-time-remake-z-cenzura-fani-zauwazyli-wazna-zmiane.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "The Legend of Zelda: Ocarina of Time Remake z cenzurą. Fani zauważyli ważną zmianę",
+      "sourceUrl": "https://www.ppe.pl/news/432332/the-legend-of-zelda-ocarina-of-time-remake-z-cenzura-fani-zauwazyli-wazna-zmiane.html",
+      "publishedAt": "2026-11-06T07:35+01:00",
+      "summary": "The Legend of Zelda: Ocarina of Time Remake zachwyca oprawą graficzną i pozwala ponownie przeżyć jedną z najważniejszych przygód w historii Nintendo. Okazuje się jednak, że twórcy nie ograniczyli się wyłącznie do odświeżenia kultowej prod...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony zabezpiecza przyszłość PlayStation. Co to oznacza dla PS5 i PS6?",
+      "sourceUrl": "https://www.ppe.pl/news/432323/sony-zabezpiecza-przyszlosc-playstation-co-to-oznacza-dla-ps5-i-ps6.html",
+      "publishedAt": "2026-11-06T07:10+01:00",
+      "summary": "Ceny podzespołów rosną, producenci elektroniki mierzą się z coraz większymi problemami, a rozwój sztucznej inteligencji sprawia, że pamięć staje się jednym z najbardziej pożądanych komponentów na rynku. W takich okolicznościach Sony przek...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 z tajemniczym bonusem za zamówienie przedpremierowe! Gracze mogą być zaskoczeni",
