@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T22:01+01:00",
+  "updatedAt": "2026-11-06T22:15+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Zestaw powieści wizualnych z niespodzianką od Humble Bundle. Pakiet 11 gier Steam za 57 zł!",
-    "summary": "W ofercie Humble Bundle pojawiła się nowa odsłona nietypowego zestawu dedykowanego fanom powieści wizualnych. W ramach paczki Humble Unhinged & Unsettling Bundle możecie otrzymać maksymalnie aż 11 gier z gatunku Visual Novel . Całość umieszczono w dwóch progach cenowych, a zakup najdroższego z nich to wydatek nieco ponad 57 zł. Daje nam to całkiem niezły przelicznik ok. 5,25 zł za jeden klucz Steam! Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/bundle/zestaw-powiesci-wizualnych-z-niespodzianka-od-humble-bundle-pakiet-11-gier-steam-za-57-zl/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zestaw-powiesci-wizualnych-z-niespodzianka-od-Humble-Bundle.-Pakiet-11-gier-Steam-za-57-zl_minaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Batman, X-Meni, Punisher, Thorgal, Ghost Rider i znacznie więcej. Poznajcie komiksowe nowości listopada",
+    "summary": "Listopad to miesiąc GTA 6? Zdecydowanie tak, ale po intensywnej rozgrywce możecie szukać spokojnej lektury i w tym wypadku warto zainteresować się nowościami Wydawnictwa Egmont. Poznajcie najciekawsze komiksy miesiąca.",
+    "sourceUrl": "https://www.ppe.pl/news/432079/batman-x-meni-punisher-thorgal-ghost-rider-i-znacznie-wiecej-poznajcie-komiksowe-nowosci-listopada.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Batman, X-Meni, Punisher, Thorgal, Ghost Rider i znacznie więcej. Poznajcie komiksowe nowości listopada",
+      "sourceUrl": "https://www.ppe.pl/news/432079/batman-x-meni-punisher-thorgal-ghost-rider-i-znacznie-wiecej-poznajcie-komiksowe-nowosci-listopada.html",
+      "publishedAt": "2026-11-06T22:14+01:00",
+      "summary": "Listopad to miesiąc GTA 6? Zdecydowanie tak, ale po intensywnej rozgrywce możecie szukać spokojnej lektury i w tym wypadku warto zainteresować się nowościami Wydawnictwa Egmont. Poznajcie najciekawsze komiksy miesiąca.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Zestaw powieści wizualnych z niespodzianką od Humble Bundle. Pakiet 11 gier Steam za 57 zł!",
