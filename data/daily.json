@@ -1,17 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T18:01+01:00",
+  "updatedAt": "2026-11-06T19:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nowe mroczne RPG urzekło twórcę Wiedźmina 3 od pierwszego wejrzenia. Gracze na Steam również są zachwyceni Underkeep",
-    "summary": "Klasyczne dungeon crawlery wciąż mają się świetnie. Najlepszym na to dowodem jest Underkeep, który tuż po premierze zdobył znakomite oceny graczy, przyciągając również uwagę jednego z twórców Wiedźmina 3 i The Blood of Dawnwalker. Informacja Nowe mroczne RPG urzekło twórcę Wiedźmina 3 od pierwszego wejrzenia. Gracze na Steam również są zachwyceni Underkeep została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nowe-mroczne-rpg-urzeklo-tworce-wiedzmina-3-od-pierwszego-wejrzen/z03226c",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531680581.jpg"
+    "title": "Weteran Rockstara boi się o premierę GTA 6 na PC. Zaleca pośpiech, bo ludzie nie pożałują czasu i pieniędzy, by spłatać figla",
+    "summary": "Coraz więcej wskazuje, że GTA 6 trafi na PC znacznie szybciej, niż zakładano. Zdaniem weterana Rockstar Games studio może mieć ku temu dość nieoczekiwany powód, związany z rozwojem sztucznej inteligencji. Informacja Weteran Rockstara boi się o premierę GTA 6 na PC. Zaleca pośpiech, bo ludzie nie pożałują czasu i pieniędzy, by spłatać figla została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/weteran-rockstara-boi-sie-o-premiere-gta-6-na-pc-zaleca-pospiech/z23226e",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531684614.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Weteran Rockstara boi się o premierę GTA 6 na PC. Zaleca pośpiech, bo ludzie nie pożałują czasu i pieniędzy, by spłatać figla",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/weteran-rockstara-boi-sie-o-premiere-gta-6-na-pc-zaleca-pospiech/z23226e",
+      "publishedAt": "2026-11-06T19:11+01:00",
+      "summary": "Coraz więcej wskazuje, że GTA 6 trafi na PC znacznie szybciej, niż zakładano. Zdaniem weterana Rockstar Games studio może mieć ku temu dość nieoczekiwany powód, związany z rozwojem sztucznej inteligencji. Informacja Weteran Rockstara boi się o premierę GTA 6 na PC. Zaleca pośpiech, bo ludzie nie pożałują czasu i pieniędzy, by spłatać figla została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531684614.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS Plus z nowymi benefitami. Sony rozdaje subskrypcje i oferuje zniżki na sprzęt",
+      "sourceUrl": "https://www.ppe.pl/news/432375/ps-plus-z-nowymi-benefitami-sony-rozdaje-subskrypcje-i-oferuje-znizki-na-sprzet.html",
+      "publishedAt": "2026-11-06T18:50+01:00",
+      "summary": "Sony przygotowało kolejne korzyści dla abonentów PlayStation Plus. Aktywni subskrybenci mogą skorzystać z dodatkowych ofert obejmujących usługi streamingowe, aplikacje oraz zakupy sprzętu i akcesoriów.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Najlepszy poradnik na Xbox Game Pass Ultimate! Gears of War: E-Day za jedyne 33 zł miesięcznie!",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/najlepszy-poradnik-na-xbox-game-pass-ultimate-gears-of-war-e-day-za-jedyne-30-zl-miesiecznie/",
+      "publishedAt": "2026-11-06T18:32+01:00",
+      "summary": "Łowcy, mamy dla Was najlepszy obecnie sposób na tani Xbox Game Pass Ultimate – za 10 miesięcy XGPU zapłacicie około 337 zł! Oznacza to, że dzień subskrypcji będzie kosztować Was ok. 1,13 zł, a miesiąc ok. 33 zł. Przypominamy, że oficjalna cena usługi wynosi obecnie aż 84,99 zł miesięcznie. Najkrótsza z opisanych przez nas metod zapewni Wam abonament na ponad 6 miesięcy, dzięki czemu już teraz możecie zagrać m.in. w Halo: Campaign Evolved, a także Gears of War: E-Day, które trafiło do Game Passa w dniu premiery. Do tego dochodzi wiele innych produkcji, które są już dostępne lub niebawem zasilą bibliotekę XGP. Poradnik na tanią subskrypcję Micr",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/06/xbox_game_pass_ultimate_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Polska w Microsoft Flight Simulatorze jest tak dokładna, że rozpoznałem własne podwórko. Na taką aktualizację warto było czekać",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/polska-w-microsoft-flight-simulatorze-jest-tak-dokladna-ze-rozpoz/z13226d",
+      "publishedAt": "2026-11-06T18:24+01:00",
+      "summary": "Polska w Microsoft Flight Simulatorze wreszcie doczekała się własnego World Update. I całe szczęście, że Microsoft nie spieszył się z jego wydaniem. Dzięki temu możemy dziś oglądać swoje osiedle i ulice w jakości, o której jeszcze kilka lat temu mogliśmy tylko pomarzyć. Informacja Polska w Microsoft Flight Simulatorze jest tak dokładna, że rozpoznałem własne podwórko. Na taką aktualizację warto było czekać została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531681282.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Christopher Nolan doprowadził aktora do skrajnego wyczerpania? Matt Damon nie spał przez 36 godzin",
+      "sourceUrl": "https://www.ppe.pl/news/432372/christopher-nolan-doprowadzil-aktora-do-skrajnego-wyczerpania-matt-damon-nie-spal-przez-36-godzin.html",
+      "publishedAt": "2026-11-06T18:16+01:00",
+      "summary": "Matt Damon nie musiał udawać wyczerpania na planie Odysei Christophera Nolana. Aktor ujawnił, że przed jedną z intensywnych scen nie spał nawet 36 godzin.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nowe mroczne RPG urzekło twórcę Wiedźmina 3 od pierwszego wejrzenia. Gracze na Steam również są zachwyceni Underkeep",
