@@ -1,17 +1,148 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T10:01+01:00",
+  "updatedAt": "2026-11-06T11:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "25 mld dolarów w grze. Unity może podążyć drogą EA",
-    "summary": "Według agencji Reutera właściciel silnika Unity jest w trakcie rozmów o przejęciu przez konsorcjum inwestorów, które brało udział w zakupie Electronic Arts za 55 mld dolarów. Informacja 25 mld dolarów w grze. Unity może podążyć drogą EA została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/25-mld-dolarow-w-grze-unity-moze-podazyc-droga-ea/z432249",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531651749.jpg"
+    "title": "1,65 mld minut w tydzień. Hitowe sci-fi dostało nowe życie na Netflixie i za 17 dni trafi do serwisu w Polsce",
+    "summary": "Serial HBO Max zyskał ogromną popularność dzięki pojawieniu się na Netflixie, a wkrótce zadebiutuje także w polskim katalogu giganta streamingu. Wiadomo też, kiedy możemy spodziewać się zapowiedzianego finału Stamtąd. Informacja 1,65 mld minut w tydzień. Hitowe sci-fi dostało nowe życie na Netflixie i za 17 dni trafi do serwisu w Polsce została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/165-mld-minut-w-tydzien-hitowe-sci-fi-dostalo-nowe-zycie-na-netfl/zc3224a",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531653277.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "1,65 mld minut w tydzień. Hitowe sci-fi dostało nowe życie na Netflixie i za 17 dni trafi do serwisu w Polsce",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/165-mld-minut-w-tydzien-hitowe-sci-fi-dostalo-nowe-zycie-na-netfl/zc3224a",
+      "publishedAt": "2026-11-06T11:30+01:00",
+      "summary": "Serial HBO Max zyskał ogromną popularność dzięki pojawieniu się na Netflixie, a wkrótce zadebiutuje także w polskim katalogu giganta streamingu. Wiadomo też, kiedy możemy spodziewać się zapowiedzianego finału Stamtąd. Informacja 1,65 mld minut w tydzień. Hitowe sci-fi dostało nowe życie na Netflixie i za 17 dni trafi do serwisu w Polsce została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531653277.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nintendo ma problem ze Switchem 2. Sprzedaż spadła o 41%, a ratunkiem mogą okazać się stare gry w nowych wersjach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nintendo-ma-problem-ze-switchem-2-sprzedaz-spadla-o-41-a-ratunkie/z03224e",
+      "publishedAt": "2026-11-06T11:25+01:00",
+      "summary": "Sprzedaż Switcha 2 spadła w ostatnim kwartale, a rosnącą popularnością cieszą się cyfrowe wydania gier. Nintendo opublikowało nowe wyniki finansowe i zapowiada brak podwyżek cen konsoli. Informacja Nintendo ma problem ze Switchem 2. Sprzedaż spadła o 41%, a ratunkiem mogą okazać się stare gry w nowych wersjach została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531656507.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórca Deus Ex ostro o szefach EA po zamknięciu BioWare. „Czy ktokolwiek z nich traci przez to sen?”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworca-deus-ex-ostro-o-szefach-ea-po-zamknieciu-bioware-czy-ktoko/zf3224d",
+      "publishedAt": "2026-11-06T11:16+01:00",
+      "summary": "Warren Spector ponownie skrytykował EA za zamknięcie BioWare, zwracając uwagę na ogromne wynagrodzenia kierownictwa. Tymczasem powstaje dokument, który pokaże kulisy ostatnich dni studia. Informacja Twórca Deus Ex ostro o szefach EA po zamknięciu BioWare. „Czy ktokolwiek z nich traci przez to sen?” została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531656169.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z DLSS 5 \"na PC\" rozwala głowę! Gra wygląda niczym next-gen",
+      "sourceUrl": "https://www.ppe.pl/news/432340/gta-6-z-dlss-5-na-pc-rozwala-glowe-gra-wyglada-niczym-next-gen.html",
+      "publishedAt": "2026-11-06T10:56+01:00",
+      "summary": "Premiera kolejnej odsłony Grand Theft Auto zbliża się wielkimi krokami, a fani na całym świecie kombinują na wszelkie możliwe sposoby, by wycisnąć z nadchodzącej produkcji absolutne maksimum możliwości wizualnych.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pamięć RAM PATRIOT Signature Premium 12GB CL46 5600MT/s za 699 zł, 24GB za 1399 zł w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/bez-kategorii/pamiec-ram-patriot-signature-premium-12gb-cl46-5600mt-s-za-699-zl-24gb-za-1399-zl-w-media-expert/",
+      "publishedAt": "2026-11-06T10:54+01:00",
+      "summary": "W sklepie Media Expert pojawiła się dobra oferta na PATRIOT Signature Premium. Kości RAM z pamięcią DDR5, o pojemności 12GB, opóźnieniach CL46 i prędkości 5600 MT/s, kosztuje 699 złotych. Dostępna jest także pojedyncza kość 24GB z tej samej serii, wyceniona na 1399 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/patriot-signature-premium-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "„Czy szefostwo EA kiedykolwiek straci pracę?” Legendarny twórca Deus Eksa krytykuje zamknięcie BioWare’u",
+      "sourceUrl": "https://cdaction.pl/newsy/czy-szefostwo-ea-kiedykolwiek-straci-prace-legendarny-tworca-deus-eksa-krytykuje-zamkniecie-biowareu/",
+      "publishedAt": "2026-11-06T10:49+01:00",
+      "summary": "Warren Spector krytykuje brak odpowiedzialności kadry zarządzającej EA za błędne decyzje biznesowe, których konsekwencje ponoszą przede wszystkim szeregowi developerzy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-6-o-10.38.07-1260x662.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Unity wycenione na 25 miliardów dolarów. Nowi właściciele Electronic Arts chcą przejąć kolejną firmę",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/unity-wycenione-na-25-miliardow-dolarow-nowi-wlasciciele-electronic-arts-chca-przejac-kolejna-firme/",
+      "publishedAt": "2026-11-06T10:47+01:00",
+      "summary": "Spółki wchodzące w skład konsorcjum, które zakupiło Electronic Arts za zawrotne 55 mld dolarów, mogą szykować się do kolejnego przejęcie. Według agencji Reutera Silver Lake oraz saudyjski Public Investment Fund ostrzą sobie teraz zęby na Unity Software. Osoby zaznajomione ze sprawą doniosły, że firmy przeprowadziły ostatnio rozmowy na ten temat. Twórcy popularnego silnika gier mieli zostać wycenieni na 25 mld dolarów, czyli około 15% więcej niż wynosiła ich ówczesna kapitalizacja na giełdzie. Po pojawieniu się doniesień, o których Was informujemy, o tyle też podskoczyła cena akcji. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/09/Unity-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dziś premiera jednego z najbardziej oczekiwanych sci-fi roku. Kontynuację oscarowego hitu poleca 96% widzów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-premiera-jednego-z-najbardziej-oczekiwanych-sci-fi-roku-kont/z132246",
+      "publishedAt": "2026-11-06T10:44+01:00",
+      "summary": "Dziś na ekrany polskich kin wkracza wyczekiwana kontynuacja oscarowego hitu Takashiego Yamazakiego, która przypadała do gustu odbiorcom, a zdaniem recenzentów jest jednym z najbardziej epickich filmów o Godzilli w historii. Informacja Dziś premiera jednego z najbardziej oczekiwanych sci-fi roku. Kontynuację oscarowego hitu poleca 96% widzów została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531649256.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zelda Ocarina of Time Remake z krytycznym błędem. Wielu graczy nie może grać",
+      "sourceUrl": "https://www.ppe.pl/news/432339/zelda-ocarina-of-time-remake-z-krytycznym-bledem-wielu-graczy-nie-moze-grac.html",
+      "publishedAt": "2026-11-06T10:37+01:00",
+      "summary": "Długo wyczekiwana premiera odświeżonej wersji legendarnej przygody z Linkiem wreszcie nadeszła, ale fani, którzy rzucili się do zakupu nowej gry na świeżutką konsolę od Nintendo, natrafili na dość irytujący problem techniczny.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracze prosili latami, GOG w końcu spełnia życzenie. Szybszy GOG Galaxy to nie jedyna nowość",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-prosili-latami-gog-w-koncu-spelnia-zyczenie-szybszy-gog-ga/ze3224c",
+      "publishedAt": "2026-11-06T10:36+01:00",
+      "summary": "Z okazji 18. urodzin GOG zorganizował pierwszy GOG Showcase. Sklep zapowiedział m.in. wersję klienta GOG Galaxy na Linuksa, betę platformy społecznościowej i pierwsze kroki w wydawaniu gier. Informacja Gracze prosili latami, GOG w końcu spełnia życzenie. Szybszy GOG Galaxy to nie jedyna nowość została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531653750.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "NVIDIA okłamała graczy. Znana redakcja obnaża ściemę producenta kart graficznych",
+      "sourceUrl": "https://www.ppe.pl/news/432337/nvidia-oklamala-graczy-znana-redakcja-obnaza-scieme-producenta-kart-graficznych.html",
+      "publishedAt": "2026-11-06T10:35+01:00",
+      "summary": "NVIDIA twierdziła przez całe lata, że Frame Generation nie jest możliwy do wdrożenia na kartach serii RTX 30. Okazuje się, że jest inaczej.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Monster Energy i Call of Duty: Modern Warfare 4 łączą siły w największej dotychczasowej promocji gamingowej",
+      "sourceUrl": "https://cdaction.pl/newsy/monster-energy-i-call-of-duty-modern-warfare-4-lacza-sily-w-najwiekszej-dotychczasowej-promocji-gamingowej/",
+      "publishedAt": "2026-11-06T10:30+01:00",
+      "summary": "W ramach promocji Monster Energy X Call of Duty: Modern Warfare 4 fani mogą odblokować unikalne nagrody w grze oraz podwójne XP.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/Call-of-Duty-Modern-Warfare-4-1.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż odświeżonych klasyków Electronic Arts na Steam i GOG! Seria Wing Commander i Ultima 50% taniej",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-odswiezonych-klasykow-electronic-arts-na-steam-i-gog-seria-wing-commander-i-ultima-50-taniej/",
+      "publishedAt": "2026-11-06T10:26+01:00",
+      "summary": "EA pochwaliło się wczoraj procesem przywracania siedmiu klasyków do sprzedaży, między innymi Road Rash, Wing Commander i Privateer 2. Wydawca również przygotował dla wszystkich zainteresowanych retro produkcjami małą wyprzedaż. Znajdziecie na niej 25 produkcji, do których oprócz wymienionych wcześniej wlicza się również seria Ultima. Wszystkie gry możecie kupić w GOG.com i Steam za pół ceny. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/ea-restored-classic-sale-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 zostanie spiracone przez złodziei. Wydawca gry ma na to odpowiedź",
+      "sourceUrl": "https://www.ppe.pl/news/432336/gta-6-zostanie-spiracone-przez-zlodziei-wydawca-gry-ma-na-to-odpowiedz.html",
+      "publishedAt": "2026-11-06T10:14+01:00",
+      "summary": "Premiera kolejnej odsłony Grand Theft Auto zbliża się wielkimi krokami, a branża gier już teraz szykuje się na gigantyczny sukces finansowy tego tytułu. Każda tak wielka produkcja musi jednak liczyć się z ciemną stroną popularności, czyli n...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw LEGO Harry Potter Zamek Hogwart i błonia za 469 zł (cena kat. 729,99 zł) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-harry-potter-zamek-hogwart-i-blonia-za-469-zl-cena-kat-72999-zl-w-x-kom/",
+      "publishedAt": "2026-11-06T10:06+01:00",
+      "summary": "Potężny, składający się z 2660 elementów oraz 1 minifigurki, zestaw klocków LEGO Harry Potter Zamek Hogwart i błonia dostępny jest teraz taniej w ramach Gorącego Strzału sklepu x-kom. Model przedstawiający kultowy budynek szkoły magicznej kosztuje aktualnie 469 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Promocja-na-LEGO-76419-Harry-Potter-Zamek-Hogwart-i-blonia_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "25 mld dolarów w grze. Unity może podążyć drogą EA",
@@ -29,6 +160,15 @@
       "summary": "Lubicie orać wirtualne pole? Jeśli tak, to sklep Humble ma dla Was nową paczkę aż 11 farmerskich gier. Hamble’s Farming Games Collection Bundle możecie nabyć za około 87 złotych, jeśli chcecie otrzymać komplet kluczy Steam. Co w niej znajdziecie? Między innymi Farming Simulator 19, Fae Farm, Border Town, czy też Seeds of Calamity. Wiele z produkcji dostępnych w paczce też wcześniej nie było dostępnych w ramach podobnych akcji. Możecie również wydać tylko 44 zł i 5 gier w niższym progu. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/hambles-farming-games-collection-humble-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Arabia Saudyjska może przejąć Unity. EA było jedynie przystawką dla konsorcjum",
+      "sourceUrl": "https://cdaction.pl/newsy/arabia-saudyjska-moze-przejac-unity-ea-bylo-jedynie-przystawka-dla-konsorcjum/",
+      "publishedAt": "2026-11-06T10:00+01:00",
+      "summary": "Wygląda na to, że Saudowie zaczną się zaraz rozpychać w gamingu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Unity.jpg"
     },
     {
       "sourceName": "PPE",
