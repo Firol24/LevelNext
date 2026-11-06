@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T20:01+01:00",
+  "updatedAt": "2026-11-06T21:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gracze szydzą z Sony i nowych atrakcji w PS Plus. „Jedyna korzyść, jakiej pragnę, to płyty”",
-    "summary": "Sony rozszerzyło ofertę PlayStation Plus o nowe bonusy, ale zamiast entuzjazmu wywołało falę krytyki. Informacja Gracze szydzą z Sony i nowych atrakcji w PS Plus. „Jedyna korzyść, jakiej pragnę, to płyty” została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-szydza-z-sony-i-nowych-atrakcji-w-ps-plus-jedyna-korzysc-j/ze32270",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531690740.jpg"
+    "title": "7 dni temu premiera, dziś „oszałamiający” sukces. Queen's Domain to wyśmienite RPG dla fanów Dark Souls i Morrowinda",
+    "summary": "Queen&apos;s Domain szturmem podbiło Steama, zdobywając aż 95% pozytywnych opinii. Niezależne RPG zachwyciło graczy i osiągnęło imponujący wynik sprzedaży, który zaskoczył nawet samych twórców. Informacja 7 dni temu premiera, dziś „oszałamiający” sukces. Queen&apos;s Domain to wyśmienite RPG dla fanów Dark Souls i Morrowinda została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/7-dni-temu-premiera-dzis-oszalamiajacy-sukces-queens-domain-to-wy/zf32271",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531692536.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "7 dni temu premiera, dziś „oszałamiający” sukces. Queen's Domain to wyśmienite RPG dla fanów Dark Souls i Morrowinda",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/7-dni-temu-premiera-dzis-oszalamiajacy-sukces-queens-domain-to-wy/zf32271",
+      "publishedAt": "2026-11-06T21:23+01:00",
+      "summary": "Queen&apos;s Domain szturmem podbiło Steama, zdobywając aż 95% pozytywnych opinii. Niezależne RPG zachwyciło graczy i osiągnęło imponujący wynik sprzedaży, który zaskoczył nawet samych twórców. Informacja 7 dni temu premiera, dziś „oszałamiający” sukces. Queen&apos;s Domain to wyśmienite RPG dla fanów Dark Souls i Morrowinda została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531692536.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gracze szydzą z Sony i nowych atrakcji w PS Plus. „Jedyna korzyść, jakiej pragnę, to płyty”",
@@ -22,6 +31,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531690740.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "31 mln graczy może skorzystać z promocji związanej z GTA 6. Specjalna oferta dla klientów",
+      "sourceUrl": "https://www.ppe.pl/news/432383/31-mln-graczy-moze-skorzystac-z-promocji-zwiazanej-z-gta-6-specjalna-oferta-dla-klientow.html",
+      "publishedAt": "2026-11-06T20:45+01:00",
+      "summary": "Premiera GTA 6 zbliża się wielkimi krokami, a kolejne firmy próbują wykorzystać ogromne zainteresowanie najnowszą produkcją Rockstar Games. Tym razem na ciekawy pomysł wpadł amerykański dostawca Internetu, który przygotował specjalną promoc...",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Legenda BioWare zadba o fabułę duchowego następcy Mass Effect 5. The Expanse: Osiris Reborn wzięło przykład z RPG Exodus",
       "sourceUrl": "https://www.gry-online.pl/newsroom/legenda-bioware-zadba-o-fabule-duchowego-nastepcy-mass-effect-5-t/z33226f",
@@ -29,6 +46,14 @@
       "summary": "Legenda BioWare dołączyła do prac nad The Expanse: Osiris Reborn. To jednak niejedyna dobra wiadomość dla fanów RPG, które ma szansę wypełnić pustkę po anulowanym Mass Effect 5. Informacja Legenda BioWare zadba o fabułę duchowego następcy Mass Effect 5. The Expanse: Osiris Reborn wzięło przykład z RPG Exodus została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531688261.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Helldivers 2 to kasowy HIT. Nowe dane potwierdzają skalę sukcesu gry",
+      "sourceUrl": "https://www.ppe.pl/news/432379/helldivers-2-to-kasowy-hit-nowe-dane-potwierdzaja-skale-sukcesu-gry.html",
+      "publishedAt": "2026-11-06T20:03+01:00",
+      "summary": "Helldivers 2 przekroczyło poziom 23 mln sprzedanych egzemplarzy, generując łącznie około 786,3 mln dolarów przychodu. Szacunki pochodzą od firmy analitycznej Alinea Analytics i obejmują sprzedaż na Steamie, PlayStation 5 oraz Xboksach.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
