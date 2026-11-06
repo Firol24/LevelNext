@@ -1,16 +1,93 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T17:01+01:00",
+  "updatedAt": "2026-11-06T18:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 szybciej trafi na PC szybciej niż zakładano. Były dyrektor studia wskazuje powód",
-    "summary": "Premiera GTA 6 na komputerach osobistych może nastąpić szybciej, niż dotychczas zakładano. Mamy więc potwierdzenie kolejnych doniesień, o których pisaliśmy wcześniej.",
-    "sourceUrl": "https://www.ppe.pl/news/432374/gta-6-szybciej-trafi-na-pc-szybciej-niz-zakladano-byly-dyrektor-studia-wskazuje-powod.html"
+    "title": "Nowe mroczne RPG urzekło twórcę Wiedźmina 3 od pierwszego wejrzenia. Gracze na Steam również są zachwyceni Underkeep",
+    "summary": "Klasyczne dungeon crawlery wciąż mają się świetnie. Najlepszym na to dowodem jest Underkeep, który tuż po premierze zdobył znakomite oceny graczy, przyciągając również uwagę jednego z twórców Wiedźmina 3 i The Blood of Dawnwalker. Informacja Nowe mroczne RPG urzekło twórcę Wiedźmina 3 od pierwszego wejrzenia. Gracze na Steam również są zachwyceni Underkeep została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nowe-mroczne-rpg-urzeklo-tworce-wiedzmina-3-od-pierwszego-wejrzen/z03226c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531680581.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowe mroczne RPG urzekło twórcę Wiedźmina 3 od pierwszego wejrzenia. Gracze na Steam również są zachwyceni Underkeep",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowe-mroczne-rpg-urzeklo-tworce-wiedzmina-3-od-pierwszego-wejrzen/z03226c",
+      "publishedAt": "2026-11-06T18:04+01:00",
+      "summary": "Klasyczne dungeon crawlery wciąż mają się świetnie. Najlepszym na to dowodem jest Underkeep, który tuż po premierze zdobył znakomite oceny graczy, przyciągając również uwagę jednego z twórców Wiedźmina 3 i The Blood of Dawnwalker. Informacja Nowe mroczne RPG urzekło twórcę Wiedźmina 3 od pierwszego wejrzenia. Gracze na Steam również są zachwyceni Underkeep została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531680581.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Stranger Than Heaven na nowym materiale. Twórcy kierują blask reflektorów na warstwę muzyczną",
+      "sourceUrl": "https://www.ppe.pl/news/432377/stranger-than-heaven-na-nowym-materiale-tworcy-kieruja-blask-reflektorow-na-warstwe-muzyczna.html",
+      "publishedAt": "2026-11-06T17:58+01:00",
+      "summary": "Stranger Than Heaven to następna wielka gra od Ryu Ga Gotoku Studio, wobec której Sega ma spore oczekiwania. Jest to jednak produkcja mocno odmienna od serii Like a Dragon znanej również jako Yakuza, co dobrze pokazuje nowy materiał, który kładzi...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Urodzinowa Bonanza od Fanatical. Wybierz aż 10 tanich gier Steam i zapłać za zestaw 105 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/urodzinowa-bonanza-od-fanatical-wybierz-az-10-tanich-gier-steam-i-zaplac-za-zestaw-105-zl/",
+      "publishedAt": "2026-11-06T17:47+01:00",
+      "summary": "HOWDY Łowcy! Jeśli jesteście fanami westernów, to termin „Bonanza” nie jest Wam obcy. Choć najnowszy zestaw nie ma wiele wspólnego z czasami gorączki złota oraz Dzikiego Zachodu, to cała paczka stanowi bogactwo tanich gier Steam! W ramach pakietu Build Your Own Birthday Bonanza Bundle możecie otrzymać maksymalnie 10 gier Steam. Całość dostępna jest w czterech progach cenowych, a najdroższych z nich został wyceniony na 105,40 zł, co daje nam niezły przelicznik ok. 10,54 zł za jeden klucz Steam! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Urodzinowa-Bonanza-od-Fanatical.-Wybierz-az-10-tanich-gier-Steam-i-zaplac-za-zestaw-105-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowa gra twórców Escape from Tarkov zaskoczy graczy! Potwierdzono ważną informację",
+      "sourceUrl": "https://www.ppe.pl/news/432371/nowa-gra-tworcow-escape-from-tarkov-zaskoczy-graczy-potwierdzono-wazna-informacje.html",
+      "publishedAt": "2026-11-06T17:44+01:00",
+      "summary": "Nikita Buyanov potwierdził, że Fragmentary Order i Escape from Tarkov rozgrywają się w tym samym uniwersum.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ultracienki powerbank Silver Monkey z 12 000 mAh, 65W i kablem USB-C za 69 zł zamiast 149 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/432378/ultracienki-powerbank-silver-monkey-z-12-000-mah-65w-i-kablem-usb-c-za-69-zl-zamiast-149-zl.html",
+      "publishedAt": "2026-11-06T17:36+01:00",
+      "summary": "W sklepie Media Expert taniej o ponad 50% względem ceny wyjściowej nabędziemy powerbanka firmy Baseus.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zbliża się noc w Vice City. Miami Heat pokazało stroje na premierę GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/432376/zbliza-sie-noc-w-vice-city-miami-heat-pokazalo-stroje-na-premiere-gta-6.html",
+      "publishedAt": "2026-11-06T17:25+01:00",
+      "summary": "Już tylko kilka dni dzielą nas od wielkiego święta, jakim jest premiera GTA 6. Z tej okazji fani NBA obejrzą wyjątkowy mecz, do którego przygotowania są już w toku.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Koniec z kolejnym Final Fantasy? Square Enix chce tworzyć nowe gry",
+      "sourceUrl": "https://www.ppe.pl/news/432363/koniec-z-kolejnym-final-fantasy-square-enix-chce-tworzyc-nowe-gry.html",
+      "publishedAt": "2026-11-06T17:15+01:00",
+      "summary": "Square Enix zamierza mocniej postawić na zupełnie nowe produkcje po zakończeniu trylogii Final Fantasy VII Remake.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Miało wystarczyć na weekend, skończyło się po 1700 godzinach. Gracze wspominają najbardziej niepozorne zakupy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mialo-wystarczyc-na-weekend-skonczylo-sie-po-1700-godzinach-gracz/ze3226a",
+      "publishedAt": "2026-11-06T16:54+01:00",
+      "summary": "Wśród graczy rozwinęła się dyskusja na temat gier, które zabrały im największą liczbę godzin, choć wcale nie zapowiadało się na to przed zakupem. W komentarzach pojawiają się tytuły warte uwagi. Informacja Miało wystarczyć na weekend, skończyło się po 1700 godzinach. Gracze wspominają najbardziej niepozorne zakupy została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531676091.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Modliłem się o ich upadek”. Gracze świętują załamanie akcji firm AI, ale nie wszyscy wierzą w koniec technologicznej bańki",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/modlilem-sie-o-ich-upadek-gracze-swietuja-zalamanie-akcji-firm-ai/z13225e",
+      "publishedAt": "2026-11-06T16:52+01:00",
+      "summary": "Gwałtowne spadki na giełdzie wywołały falę radości wśród przeciwników sztucznej inteligencji. Niektórzy gracze liczą, że to początek końca dominacji AI, ale pojawiają się głosy, że takie myślenie jest naiwne. Informacja „Modliłem się o ich upadek”. Gracze świętują załamanie akcji firm AI, ale nie wszyscy wierzą w koniec technologicznej bańki została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531665757.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 szybciej trafi na PC szybciej niż zakładano. Były dyrektor studia wskazuje powód",
@@ -37,6 +114,15 @@
       "category": "WIADOMOŚCI"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "Już dziś będziecie mogli zagrać w Cyberpunka 2077 na serwerach niczym GTA RP. Twórcy mają ambitne plany",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/juz-wkrotce-bedziecie-mogli-zagrac-w-cyberpunka-2077-na-serwerach/z632269",
+      "publishedAt": "2026-11-06T16:22+01:00",
+      "summary": "Rozgrywka niczym z GTA RP w Night City? Już wkrótce będzie to możliwe, bo do Cyberpunka 2077 zmierza wielki projekt, który zadebiutuje za zaledwie kilka godzin. Informacja Już dziś będziecie mogli zagrać w Cyberpunka 2077 na serwerach niczym GTA RP. Twórcy mają ambitne plany została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531673271.jpg"
+    },
+    {
       "sourceName": "PPE",
       "title": "To oficjalne! Keanu Reeves ponownie wcieli się w Johna Wicka",
       "sourceUrl": "https://www.ppe.pl/news/432366/to-oficjalne-keanu-reeves-ponownie-wcieli-sie-w-johna-wicka.html",
@@ -52,6 +138,15 @@
       "summary": "W ofercie Oficjalnego Sklepu Allegro znajdziecie dostępną dla użytkowników Smart! ofertę na Ring Fit Adventure. Ekskluzywna produkcja na konsolę Nintendo Switch, będąca połączeniem fitnessu z grą RPG, możliwa jest do nabycia za 229 złotych. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/Promocja-na-Ring-Fit-Adventure-na-Allegro.-Fitness-na-Nintendo-Switch-dostepny-juz-za-219-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ten thriller ma wszystko, co kochają fani Johna Wicka. Zwiastun zapowiada akcję w futurystycznym wydaniu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ten-thriller-ma-wszystko-co-kochaja-fani-johna-wicka-zwiastun-zap/z132255",
+      "publishedAt": "2026-11-06T16:02+01:00",
+      "summary": "Ukazał się zwiastun nadchodzącego thrillera akcji, wyprodukowanego przez twórcę serii John Wick. Nadchodzący film przeniesie akcję do niedalekiej przyszłości. Informacja Ten thriller ma wszystko, co kochają fani Johna Wicka. Zwiastun zapowiada akcję w futurystycznym wydaniu została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531660253.jpg"
     },
     {
       "sourceName": "PPE",
