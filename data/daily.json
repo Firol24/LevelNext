@@ -1,17 +1,112 @@
 {
   "status": "rss-only",
   "date": "2026-11-06",
-  "updatedAt": "2026-11-06T14:01+01:00",
+  "updatedAt": "2026-11-06T15:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "27-latek dostał od technologicznego giganta niemal niemożliwe zadanie. Ma przepisać 98% kodu firmy w dwa lata, korzystając z AI",
-    "summary": "Jeden z szefów Cisco chce „rzucić wyzwanie status quo” i planuje przebudować 98% kodu w 2 lata z pomocą AI. Będą za to odpowiadały tylko dwie osoby. Informacja 27-latek dostał od technologicznego giganta niemal niemożliwe zadanie. Ma przepisać 98% kodu firmy w dwa lata, korzystając z AI została opublikowana przez GRYOnline.pl 6 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/27-latek-dostal-od-technologicznego-giganta-niemal-niemozliwe-zad/zf32262",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531666999.jpg"
+    "title": "EA przywróciło do życia masę klasycznych gier, bo jeden z pracowników przypadkiem natknął się w firmie na wielkie archiwum",
+    "summary": "Kulisy wczorajszego przywrócenia legendarnych gier przez EA nadają się na ciekawy materiał o ratowaniu gamingowego dziedzictwa, choć z całej tej historii płynie także dość smutny wniosek. Informacja EA przywróciło do życia masę klasycznych gier, bo jeden z pracowników przypadkiem natknął się w firmie na wielkie archiwum została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/ea-przywrocilo-do-zycia-mase-klasycznych-gier-bo-jeden-z-pracowni/z432267",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531671299.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "EA przywróciło do życia masę klasycznych gier, bo jeden z pracowników przypadkiem natknął się w firmie na wielkie archiwum",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ea-przywrocilo-do-zycia-mase-klasycznych-gier-bo-jeden-z-pracowni/z432267",
+      "publishedAt": "2026-11-06T15:29+01:00",
+      "summary": "Kulisy wczorajszego przywrócenia legendarnych gier przez EA nadają się na ciekawy materiał o ratowaniu gamingowego dziedzictwa, choć z całej tej historii płynie także dość smutny wniosek. Informacja EA przywróciło do życia masę klasycznych gier, bo jeden z pracowników przypadkiem natknął się w firmie na wielkie archiwum została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531671299.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Ale czy pójdzie na tym Crysis?”. Legendarny GeForce 8800 GTX kończy 20 lat i przypomina złotą erę pecetowego grania",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ale-czy-pojdzie-na-tym-crysis-legendarny-geforce-8800-gtx-konczy/z232265",
+      "publishedAt": "2026-11-06T15:20+01:00",
+      "summary": "Za dwa dni 20. urodziny będzie obchodzić NVIDIA GeForce 8800 GTX. Karta graficzna wprowadziła technologię, która teraz leży u podstaw najnowszych RTX-ów. Informacja „Ale czy pójdzie na tym Crysis?”. Legendarny GeForce 8800 GTX kończy 20 lat i przypomina złotą erę pecetowego grania została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531670293.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Krytykowali wygląd remake’u Heroes 3, Ubisoft odpowiada. Klasyczny styl prawie jak z 1999 roku",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/krytykowali-wyglad-remakeu-heroes-3-ubisoft-odpowiada-klasyczny-s/z332266",
+      "publishedAt": "2026-11-06T15:19+01:00",
+      "summary": "Firma Ubisoft omówiła style graficzne, jakie zaoferuje Heroes of Might and Magic III Remake. Jeden z nich przypomina pierwowzór znacznie bardziej niż to, co do tej pory pokazywano z tego remake’u. Informacja Krytykowali wygląd remake’u Heroes 3, Ubisoft odpowiada. Klasyczny styl prawie jak z 1999 roku została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531670759.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 3 tygodnie na Netflixie zadebiutuje mroczne science fiction. Pokaże przerażającą wizję przyszłości",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-3-tygodnie-na-netflixie-zadebiutuje-mroczne-science-fiction-po/zc32250",
+      "publishedAt": "2026-11-06T15:02+01:00",
+      "summary": "Na Netfliksa zmierza nowe anime science fiction, które przedstawi przerażającą wizję przyszłości. Jej przedsmak możecie sprawdzić w zwiastunie, który właśnie się ukazał. Informacja Za 3 tygodnie na Netflixie zadebiutuje mroczne science fiction. Pokaże przerażającą wizję przyszłości została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531657713.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Steam z kolejnymi darmowymi grami. Jest jednak haczyk",
+      "sourceUrl": "https://www.ppe.pl/news/432364/steam-z-kolejnymi-darmowymi-grami-jest-jednak-haczyk.html",
+      "publishedAt": "2026-11-06T15:01+01:00",
+      "summary": "Steam ruszył z kolejnym darmowym weekendem. Tym razem bez opłat można sprawdzić dwie produkcje.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gra urosła z 50 GB do 366 GB. Twórcy Nier: Automata przez pomyłkę zapchali dyski graczy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gra-urosla-z-50-gb-do-366-gb-tworcy-nier-automata-przez-pomylke-z/z132264",
+      "publishedAt": "2026-11-06T14:47+01:00",
+      "summary": "Przez dziwny błąd deweloperów aktualizacja wielokrotnie zwiększyła ilość miejsca, jakie Nier: Automata zajmuje na dyskach graczy. Informacja Gra urosła z 50 GB do 366 GB. Twórcy Nier: Automata przez pomyłkę zapchali dyski graczy została opublikowana przez GRYOnline.pl 6 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531668842.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "YouTube zmienia aplikację. Koniec ze starym, czas na nowe",
+      "sourceUrl": "https://www.ppe.pl/news/432362/youtube-zmienia-aplikacje-koniec-ze-starym-czas-na-nowe.html",
+      "publishedAt": "2026-11-06T14:40+01:00",
+      "summary": "YouTube zaczął wdrażać przeprojektowany interfejs aplikacji na Androidzie i iOS. Największa zmiana dotyczy zakładki Subskrypcje.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy Ratchet i Clank anulowany. Twórcy kasują grę kilka miesięcy po premierze",
+      "sourceUrl": "https://www.ppe.pl/news/432367/nowy-ratchet-i-clank-anulowany-tworcy-kasuja-gre-kilka-miesiecy-po-premierze.html",
+      "publishedAt": "2026-11-06T14:34+01:00",
+      "summary": "Można było się tego spodziewać, ale raczej mało kto sądził, że nastąpi tak szybko. Najnowszy spin-off serii Ratchet & Clank przechodzi do historii.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "NieR: Automata nagle zaczął ważyć na Steamie 366 GB. Felerny patch miał jedynie dodać nowe wersje językowe",
+      "sourceUrl": "https://cdaction.pl/newsy/nier-automata-nagle-zaczal-wazyc-na-steamie-366-gb-felerny-patch-mial-jedynie-dodac-nowe-wersje-jezykowe/",
+      "publishedAt": "2026-11-06T14:30+01:00",
+      "summary": "Developerzy wciąż szukają rozwiązania problemu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/01/nier-automata-1260x709.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zagraj w PAYDAY 3 za darmo na Steam! Free Weekend z organizowaniem napadów potrwa do 9 listopada",
+      "sourceUrl": "https://lowcygier.pl/darmowe/zagraj-w-payday-3-za-darmo-na-steam-free-weekend-z-organizowaniem-napadow-potrwa-do-9-listopada/",
+      "publishedAt": "2026-11-06T14:24+01:00",
+      "summary": "Jeśli szukaliście kooperacyjnej gry by w coś pograć z trójką znajomych, macie teraz świetną okazję, by sprawdzić PAYDAY 3 za darmo. Studio Starbreeze Entertainment postanowiło bowiem przygotować darmowy weekend na Steam. Będziecie mogli nie tylko zapoznać się z podstawową kampanią, ale również do 9 listopada sprawdzicie wszystkie płatne napady, jakie są dostępne w formie DLC. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Payday-3-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "John Wick w Japonii. Zwiastun filmu scenarzysty Ghost of Tsushima zapowiada się ciekawie",
+      "sourceUrl": "https://www.ppe.pl/news/432361/john-wick-w-japonii-zwiastun-filmu-scenarzysty-ghost-of-tsushima-zapowiada-sie-ciekawie.html",
+      "publishedAt": "2026-11-06T14:22+01:00",
+      "summary": "Lionsgate pokazało pierwszy zwiastun Karōshi, widowiskowego filmu akcji, który łączy brutalne pojedynki z historią inspirowaną kulturą japońską.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "27-latek dostał od technologicznego giganta niemal niemożliwe zadanie. Ma przepisać 98% kodu firmy w dwa lata, korzystając z AI",
@@ -38,6 +133,14 @@
       "summary": "Legendarny Lord British stwierdził, że problemy branży mają wiele przyczyn. Przypomniał też, że jego studio Origin Systems nie anulowało gier, dopóki nie przejęło go EA. Informacja „Wszystkie nitki splotły się w straszny węzeł”. Ojciec Ultimy tłumaczy, dlaczego branża gier ma kłopoty została opublikowana przez GRYOnline.pl 6 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531666818.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Elder Scrolls 6: Sentinel zaoferuje wyjątkową mechanikę? Gracze chcą jej przywrócenia",
+      "sourceUrl": "https://www.ppe.pl/news/432360/the-elder-scrolls-6-sentinel-zaoferuje-wyjatkowa-mechanike-gracze-chca-jej-przywrocenia.html",
+      "publishedAt": "2026-11-06T14:02+01:00",
+      "summary": "Ujawnienie pełnego tytułu The Elder Scrolls 6: Sentinel rozpaliło dyskusje na temat możliwych atrakcji nowej gry Bethesdy.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "CD-Action",
