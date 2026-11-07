@@ -1,17 +1,34 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T21:01+01:00",
+  "updatedAt": "2026-11-07T22:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Retro konsole Hyper Mega Tech! z klasykami z lat 80-tych już od 39,99 zł w RTV Euro AGD",
-    "summary": "Klasyczne gry w kieszonkowym wydaniu kupicie teraz taniej w RTV Euro AGD. Miniaturowe konsole Hyper Mega Tech! Super Micro w wariantach Centipede, Space Invaders, BurgerTime oraz Asteroids dostępne są za 39,99 zł za sztukę. Każdy model wyposażono w 2-calowy ekran oraz fabrycznie zainstalowane gry, jedną w wersji Space Invaders i po trzy w pozostałych, a do zabawy potrzebujecie trzech baterii AAA, które musicie jednak dokupić osobno. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/retro-konsole-hyper-mega-tech-z-klasykami-z-lat-80-tych-juz-od-3999-zl-w-rtv-euro-agd/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Retro-konsole-Hyper-Mega-Tech-z-klasykami-z-lat-80-tych-juz-od-3999-zl-w-RTV-Euro-AGD_miniaturka-224x224.jpg"
+    "title": "Gra planszowa Monopoly Edycja Wiedźmin za 124,99 zł w Empiku",
+    "summary": "Wyjątkowe wydanie popularnej planszówki Monopoly – Edycja Wiedźmin kupicie w sklepie internetowym Empik. Waszym celem będzie zgromadzenie jak największej fortuny i doprowadzenie rywali do bankructwa, a klasyczną rozgrywkę wzbogacają nawiązania do uniwersum Białego Wilka. Na planszy znajdziecie m.in. Kaer Morhen i Akademię Aretuzy, natomiast karty Szansy i Kasy Społecznej zastąpiono Nagrodami i Prawem Niespodzianki. Całość uzupełnia dedykowana oprawa graficzna oraz sześć kolekcjonerskich pionków, wśród których znalazły się kryształowa czaszka i płonąca księga. Wspomniana produkcja może być Wasza już za 124,99 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/gry-planszowe/gra-planszowa-monopoly-edycja-wiedzmin-za-12499-zl-w-empiku/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/03/monopoly-wiedzmin-2b-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gra planszowa Monopoly Edycja Wiedźmin za 124,99 zł w Empiku",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/gra-planszowa-monopoly-edycja-wiedzmin-za-12499-zl-w-empiku/",
+      "publishedAt": "2026-11-07T21:30+01:00",
+      "summary": "Wyjątkowe wydanie popularnej planszówki Monopoly – Edycja Wiedźmin kupicie w sklepie internetowym Empik. Waszym celem będzie zgromadzenie jak największej fortuny i doprowadzenie rywali do bankructwa, a klasyczną rozgrywkę wzbogacają nawiązania do uniwersum Białego Wilka. Na planszy znajdziecie m.in. Kaer Morhen i Akademię Aretuzy, natomiast karty Szansy i Kasy Społecznej zastąpiono Nagrodami i Prawem Niespodzianki. Całość uzupełnia dedykowana oprawa graficzna oraz sześć kolekcjonerskich pionków, wśród których znalazły się kryształowa czaszka i płonąca księga. Wspomniana produkcja może być Wasza już za 124,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/03/monopoly-wiedzmin-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ed Boon pyta graczy o następne Mortal Kombat i... bijatyki Marvela. Injustice 3 nadchodzi?",
+      "sourceUrl": "https://www.ppe.pl/news/432470/ed-boon-pyta-graczy-o-nastepne-mortal-kombat-i-bijatyki-marvela-injustice-3-nadchodzi.html",
+      "publishedAt": "2026-11-07T21:04+01:00",
+      "summary": "Rynek bijatyk stał się jeszcze bardziej konkurencyjny niż kiedyś i mimo tego, że deweloperzy z tego rynku obdarowują się wzajemnym szacunkiem, konsumenci bywają bezlitośni, co na swojej skórze odczuło ostatnio Marvel Tokon oraz Mortal Kombat 1.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Retro konsole Hyper Mega Tech! z klasykami z lat 80-tych już od 39,99 zł w RTV Euro AGD",
