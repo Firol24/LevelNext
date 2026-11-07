@@ -1,0 +1,173 @@
+{
+  "status": "rss-only",
+  "date": "2026-11-08",
+  "updatedAt": "2026-11-08T00:01+01:00",
+  "headline": "Świeże sygnały ze świata gier",
+  "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
+  "lead": {
+    "category": "WIADOMOŚCI",
+    "title": "The Elder Scrolls 6: Sentinel musi naprawić dwa duże problemy Skyrima. Todd Howard ma świetnie rozumieć potrzeby graczy",
+    "summary": "17-letni weteran Bethesdy zasugerował, jakie problemy Skyrima powinny zostać naprawione w The Elder Scrolls VI: Sentinel. Bruce Nesmith twierdzi, że Todd Howard świetnie rozumie potrzeby i oczekiwania graczy. Informacja The Elder Scrolls 6: Sentinel musi naprawić dwa duże problemy Skyrima. Todd Howard ma świetnie rozumieć potrzeby graczy została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/the-elder-scrolls-6-sentinel-musi-naprawic-dwa-duze-problemy-skyr/z032272",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531695442.jpg"
+  },
+  "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "The Elder Scrolls 6: Sentinel musi naprawić dwa duże problemy Skyrima. Todd Howard ma świetnie rozumieć potrzeby graczy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/the-elder-scrolls-6-sentinel-musi-naprawic-dwa-duze-problemy-skyr/z032272",
+      "publishedAt": "2026-11-07T06:30+01:00",
+      "summary": "17-letni weteran Bethesdy zasugerował, jakie problemy Skyrima powinny zostać naprawione w The Elder Scrolls VI: Sentinel. Bruce Nesmith twierdzi, że Todd Howard świetnie rozumie potrzeby i oczekiwania graczy. Informacja The Elder Scrolls 6: Sentinel musi naprawić dwa duże problemy Skyrima. Todd Howard ma świetnie rozumieć potrzeby graczy została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531695442.jpg"
+    }
+  ],
+  "indie": [
+    {
+      "title": "Tenebris Somnia",
+      "date": "2026-10-16",
+      "platform": "PC (Steam)",
+      "summary": "Retro survival horror w 2D pixelartowej oprawie, zagadkami i scenami FMV nakręconymi z aktorami. W duchu Silent Hill i Resident Evil, ale z własnym, filmowym sposobem opowiadania.",
+      "sourceUrl": "https://tenebrissomnia.org/fr/"
+    },
+    {
+      "title": "In Full Bloom",
+      "date": "2026-11-05",
+      "platform": "PC, macOS",
+      "summary": "Niepokojący miks Tamagotchi i Katamari: opiekujesz się głodnym stworzeniem, które rośnie, pożerając kolejne elementy świata. Surrealistyczna, krótka gra z makabrycznym podtekstem.",
+      "sourceUrl": "https://obleakgames.itch.io/in-full-bloom/devlog/1671849/release-date-announcement"
+    },
+    {
+      "title": "DREADMOOR",
+      "date": "2026-11-09",
+      "platform": "PC (Steam, Early Access)",
+      "summary": "Mroczna przygodówka o połowie ryb w świecie zatopionym po katastrofie. Naprawiasz trawler, zbierasz złom i wypływasz na wody, w których czają się zmutowane stworzenia.",
+      "sourceUrl": "https://www.gamespress.com/uk-UA/Spooky-Fishing-Adventure-DREADMOOR-Sets-Course-for-Steam-Early-Access-"
+    },
+    {
+      "title": "Casualties: Unknown",
+      "date": "2026-11-09",
+      "platform": "PC (Steam)",
+      "summary": "2D survival na obcej planecie, gdzie zejście w głąb jaskiń oznacza walkę z ranami, infekcjami, utratą krwi i psychicznym załamaniem. Ciało bohatera jest tu osobnym systemem przetrwania.",
+      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
+    },
+    {
+      "title": "Hillthorn",
+      "date": "2026-11-10",
+      "platform": "PC (Steam)",
+      "summary": "Mroczna gra detektywistyczna opowiadana bez dialogów, za pomocą kart wskazówek. W odizolowanej górskiej społeczności zaginęło dziecko, a kolejne tropy odsłaniają niepokojące sekrety.",
+      "sourceUrl": "https://store.steampowered.com/app/3504050/_Hillthorn/"
+    },
+    {
+      "title": "Haunted Echoes",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Psychologiczny horror z perspektywy bodycama. W opuszczonych budynkach szukasz anomalii, pilnujesz ograniczonego światła latarki i próbujesz odróżnić nagranie od koszmaru.",
+      "sourceUrl": "https://store.steampowered.com/app/4854170"
+    }
+  ],
+  "releases": [
+    {
+      "date": "2026-11-09",
+      "title": "DREADMOOR",
+      "platform": "PC (Steam, Early Access)",
+      "status": "confirmed",
+      "note": "Mroczna przygodówka o połowie ryb i przetrwaniu w zatopionym, postapokaliptycznym świecie. Wczesny dostęp ma zawierać pełny główny wątek.",
+      "sourceUrl": "https://www.gamespress.com/uk-UA/Spooky-Fishing-Adventure-DREADMOOR-Sets-Course-for-Steam-Early-Access-"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Casualties: Unknown",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "2D survival na obcej planecie z rozbudowaną symulacją obrażeń, krwawienia, infekcji i kondycji psychicznej. Pełna wersja rozwija jaskiniową wyprawę znaną z dema.",
+      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Hillthorn",
+      "platform": "PC (Steam), Nintendo Switch, iOS, Android",
+      "status": "confirmed",
+      "note": "Detektywistyczna opowieść bez dialogów, budowana z kart wskazówek. Sprawa zaginięcia prowadzi do odizolowanej społeczności i tajemnicy skrywanej przez górę.",
+      "sourceUrl": "https://steamcommunity.com/app/3504050/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "TANUKI: Pon's Summer",
+      "platform": "PC (Steam), Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox Series X|S",
+      "status": "confirmed",
+      "note": "Przygodówka z otwartym światem: tanuki dostarcza przesyłki na BMX-ie, zaprzyjaźnia się z mieszkańcami i odbudowuje lokalną świątynię. Gra trafi też do Xbox Game Pass w dniu premiery.",
+      "sourceUrl": "https://www.gamespress.com/en-US/YOUVE-GOT-MAIL-CRITICAL-REFLEX-DENKIWORKS-REVEAL-NOVEMBER-10-RELEASE-D"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Haunted Echoes",
+      "platform": "PC (Steam)",
+      "status": "listed",
+      "note": "Steam podaje tę datę dla psychologicznego horroru bodycam. W opuszczonych lokacjach trzeba tropić anomalie i oszczędzać światło latarki.",
+      "sourceUrl": "https://store.steampowered.com/app/4854170"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Grand Theft Auto VI",
+      "platform": "PlayStation 5, Xbox Series X|S",
+      "status": "confirmed",
+      "note": "Rockstar nadal wskazuje 19 listopada. Nowość: cyfrowe pobieranie wstępne rozpocznie się 10 listopada; akcja śledzi Jasona i Lucię w stanie Leonida.",
+      "sourceUrl": "https://www.rockstargames.com/VI"
+    }
+  ],
+  "cinema": [
+    {
+      "date": "2026-11-11",
+      "title": "Nasza rewolucja",
+      "genre": "Dramat historyczny",
+      "summary": "Portret Jacka i Grażyny Kuroniów, których prywatna relacja splata się z działalnością opozycyjną i walką o wolność w Polsce lat 80.",
+      "sourceUrl": "https://next-film.pl/film/nasza-rewolucja-historia-milosci-grazyny-i-jacka-kuroniow/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Victorian Psycho",
+      "genre": "Horror gotycki",
+      "summary": "Guwernantka przybywa do posępnej posiadłości Ensor House. Jej poprzednie miejsca pracy łączy seria tajemniczych tragedii, a nowy dom szybko odsłania mroczną stronę bohaterki.",
+      "sourceUrl": "https://kinoswiat.pl/film/victorian-psycho/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Dziki koń dziewięć",
+      "genre": "Thriller / dramat",
+      "summary": "Krótko przed zamachem stanu w Chile agenci CIA trafiają na Wyspę Wielkanocną. Dawne sekrety, polityczne spiski i napięcia między bohaterami zaczynają wymykać się spod kontroli.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/dziki-kon-dziewiec/8161s2r"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Jak obrabować bank",
+      "genre": "Kryminał / thriller",
+      "summary": "Gang transmitujący napady w mediach społecznościowych zwraca na siebie uwagę FBI i specjalistki od oprogramowania. Stawka rośnie wraz z przygotowaniami do największego skoku.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/jak-obrabowac-bank/8309s2r"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Ebenezer Scrooge. Opowieść wigilijna",
+      "genre": "Fantasy",
+      "summary": "Nowa ekranizacja klasycznej opowieści Dickensa. Skąpiec zostaje skonfrontowany z własną przeszłością, teraźniejszością i przyszłością przez wizyty niezwykłych duchów.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/ebenezer-scrooge-opowiesc-wigilijna/8344s2r"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+      "genre": "Sci-fi / akcja",
+      "summary": "Na długo przed historią Katniss młody Haymitch zostaje wylosowany do brutalnej edycji Głodowych Igrzysk. Musi zmierzyć się z areną i systemem, który odbiera ludziom nadzieję.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/igrzyska-smierci-wschod-slonca-w-dniu-dozynek/7803s2r"
+    }
+  ],
+  "film": {
+    "title": "Suspiria",
+    "year": "2018",
+    "platform": "Prime Video",
+    "summary": "Amerykańska baletnica rozpoczyna naukę w prestiżowej berlińskiej akademii tańca. Za perfekcyjną fasadą szkoły kryją się mroczne sekrety, a atmosfera stopniowo zmienia się w hipnotyczny, psychodeliczny koszmar.",
+    "availabilityNote": "JustWatch Polska sprawdził katalog 5 listopada 2026 r. i wskazuje Suspiria w abonamencie Amazon Prime Video; osobno wymienia też opcje wypożyczenia i zakupu.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/suspiria"
+  },
+  "editorialUpdatedAt": "2026-11-07",
+  "editorialHash": "5a9353b8667f9c3f3cce9f9bb61b68d1e1bc32e33c21623c22891a03d8fbbe66"
+}
