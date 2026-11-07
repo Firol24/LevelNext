@@ -1,16 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T09:16+01:00",
+  "updatedAt": "2026-11-07T10:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Dziś święto N7 Day. Żegnamy NA ZAWSZE najlepszych towarzyszy w historii Mass Effect",
-    "summary": "Zamknięcie studia BioWare oraz bolesna decyzja o skasowaniu kolejnych odsłon kosmicznej sagi sprawiły, że uniwersum Mass Effect na dobre przeszło do historii.",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/432017/dzis-swieto-n7-day-zegnamy-na-zawsze-najlepszych-towarzyszy-w-historii-mass-effect.html"
+    "title": "Anno 117: Pax Romana, Dead Island 2 i inne. Darmowe gry i okazje w tym tygodniu",
+    "summary": "Jak co tydzień wracamy z kolejnymi grami za darmo oraz nową ofertą Game Passa, PS Plusa i Amazonu Luny.",
+    "sourceUrl": "https://cdaction.pl/newsy/anno-117-pax-romana-dead-island-2-i-inne-darmowe-gry-i-okazje-w-tym-tygodniu/",
+    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/collage26-11-06.jpg"
   },
   "news": [
+    {
+      "sourceName": "CD-Action",
+      "title": "Anno 117: Pax Romana, Dead Island 2 i inne. Darmowe gry i okazje w tym tygodniu",
+      "sourceUrl": "https://cdaction.pl/newsy/anno-117-pax-romana-dead-island-2-i-inne-darmowe-gry-i-okazje-w-tym-tygodniu/",
+      "publishedAt": "2026-11-07T10:00+01:00",
+      "summary": "Jak co tydzień wracamy z kolejnymi grami za darmo oraz nową ofertą Game Passa, PS Plusa i Amazonu Luny.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/collage26-11-06.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jedyne GTA, które dostało Nintendo",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432388/jedyne-gta-ktore-dostalo-nintendo.html",
+      "publishedAt": "2026-11-07T10:00+01:00",
+      "summary": "Studio Rockstar Games przez dekady zdobyło reputację dewelopera, który niezależnie od platformy docelowej, przynosi ogromne zyski. Wystarczy spojrzeć jak japońskie Sony promuje nadchodzące Grand Theft Auto VI na konsolę PlayStation 5. Taka premi...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zdobądź kupony o wartości 175 zł na Allegro! Wystarczy, że aktywujesz usługę Allegro Pay",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zdobadz-kupony-o-wartosci-175-zl-na-allegro-wystarczy-ze-aktywujesz-usluge-allegro-pay/",
+      "publishedAt": "2026-11-07T10:00+01:00",
+      "summary": "Łowcy, jeśli do tej pory zwlekaliście z aktywacją Allegro Pay, to być może najnowsza promocja przekona Was do skorzystania z oferty. Aktualnie dołączenie do usługi pozwala otrzymać kupon o wartości 100 zł do wykorzystania na zakupy. Dodatkowo, za zamówienie darmowej Karty Allegro Pay otrzymacie drugi bon na kwotę 75 zł. Ważna informacja, tylko osoby nie korzystające do tej pory z Allegro Pay, mają możliwość zdobycia wspomnianych kuponów. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Allegro-Pay-Promocja-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jedna z największych marek LEGO otrzyma anime. Premiera została zaplanowana na 2027 rok",
+      "sourceUrl": "https://www.ppe.pl/news/432391/jedna-z-najwiekszych-marek-lego-otrzyma-anime-premiera-zostala-zaplanowana-na-2027-rok.html",
+      "publishedAt": "2026-11-07T09:30+01:00",
+      "summary": "Świat Ninjago przejdzie kolejną dużą metamorfozę. Zaprezentowano pierwszy zwiastun nowego serialu anime rozwijającego popularne uniwersum LEGO. Produkcja zachowa charakterystycznych wojowników oraz motywy znane fanom marki, ale przedstawi je w st...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Dziś święto N7 Day. Żegnamy NA ZAWSZE najlepszych towarzyszy w historii Mass Effect",
