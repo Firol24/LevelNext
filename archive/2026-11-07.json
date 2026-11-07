@@ -1,17 +1,33 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T13:01+01:00",
+  "updatedAt": "2026-11-07T14:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nastolatka odzyskała wolność po 500 dniach niewoli. O ratunek poprosiła w grze Among Us",
-    "summary": "Among Us pomogło w sprawie, która brzmi jak scenariusz thrillera. Więziona przez ponad 500 dni nastolatka zdołała przekazać innemu graczowi, że została porwana. Informacja Nastolatka odzyskała wolność po 500 dniach niewoli. O ratunek poprosiła w grze Among Us została opublikowana przez GRYOnline.pl 7 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nastolatka-odzyskala-wolnosc-po-500-dniach-niewoli-o-ratunek-popr/z332275",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531750381.jpg"
+    "title": "Film Elden Ring ma kosztować prawie 200 MILIONÓW dolarów. A24 właśnie stawia wszystko na jedną kartę",
+    "summary": "Jeszcze kilka lat temu logo A24 przed filmem zapowiadało dwie godziny dziwnego kina, po których połowa sali wychodziła zachwycona, a druga sprawdzała w telefonie, co właściwie obejrzała. Mały albo średni budżet, mocny reżyser, kilka świetny...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/431754/film-elden-ring-ma-kosztowac-prawie-200-milionow-dolarow-a24-wlasnie-stawia-wszystko-na-jedna-karte.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Film Elden Ring ma kosztować prawie 200 MILIONÓW dolarów. A24 właśnie stawia wszystko na jedną kartę",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/431754/film-elden-ring-ma-kosztowac-prawie-200-milionow-dolarow-a24-wlasnie-stawia-wszystko-na-jedna-karte.html",
+      "publishedAt": "2026-11-07T14:00+01:00",
+      "summary": "Jeszcze kilka lat temu logo A24 przed filmem zapowiadało dwie godziny dziwnego kina, po których połowa sali wychodziła zachwycona, a druga sprawdzała w telefonie, co właściwie obejrzała. Mały albo średni budżet, mocny reżyser, kilka świetny...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Za darmo to uczciwa cena. Najlepsze darmowe gry na PC i konsole (07.11)",
+      "sourceUrl": "https://lowcygier.pl/darmowe/za-darmo-to-uczciwa-cena-najlepsze-darmowe-gry-na-pc-i-konsole-07-11/",
+      "publishedAt": "2026-11-07T14:00+01:00",
+      "summary": "Łowcy, przedstawiamy Wam pierwszą w listopadzie odsłonę artykułu prezentującego darmowe gry na PC i konsole, a także omawiającego produkcje, które w ciągu ostatnich siedmiu dni dołączyły do biblioteki największych abonamentów, takich jak Xbox Game Pass, PlayStation Plus czy Amazon Luna (wcześniej znanej jako Prime Gaming) . Dzięki naszemu wpisowi pozostaniecie na bieżąco z nowościami, a także zgarniecie kilka fajnych gier za darmo. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Za-darmo-to-uczciwa-cena.-Najlepsze-darmowe-gry-na-PC-i-konsole-23.08_miniaturka3-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nastolatka odzyskała wolność po 500 dniach niewoli. O ratunek poprosiła w grze Among Us",
@@ -20,6 +36,22 @@
       "summary": "Among Us pomogło w sprawie, która brzmi jak scenariusz thrillera. Więziona przez ponad 500 dni nastolatka zdołała przekazać innemu graczowi, że została porwana. Informacja Nastolatka odzyskała wolność po 500 dniach niewoli. O ratunek poprosiła w grze Among Us została opublikowana przez GRYOnline.pl 7 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531750381.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Fizyczne wydanie GTA 6 z niespodzianką. Niektórzy gracze mogą dostać coś ekstra!",
+      "sourceUrl": "https://www.ppe.pl/news/432400/fizyczne-wydanie-gta-6-z-niespodzianka-niektorzy-gracze-moga-dostac-cos-ekstra.html",
+      "publishedAt": "2026-11-07T13:30+01:00",
+      "summary": "Fizyczne wydania gier nie zawsze oferują dziś coś więcej niż płytę i plastikowe pudełko - czego świadkami jesteśmy coraz częściej w ostatnich latach - ale... W przypadku GTA 6 fani namacalnych wersji mogą otrzymać interesujący bonus. Niem...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Exy Sony z PS5 na PC były głupotą? Ta statystyka przeraża",
+      "sourceUrl": "https://www.ppe.pl/news/432447/exy-sony-z-ps5-na-pc-byly-glupota-ta-statystyka-przeraza.html",
+      "publishedAt": "2026-11-07T13:03+01:00",
+      "summary": "Wyniki finansowe najnowszych przygód Człowieka-Pajaka od studia Insomniac Games pokazują bardzo wyraźnie, gdzie tak naprawdę leżą gigantyczne pieniądze dla firmy Sony.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
