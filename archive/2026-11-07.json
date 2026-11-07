@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T08:26+01:00",
+  "updatedAt": "2026-11-07T09:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 będzie GIGANTYCZNE także na Xboksie. Microsoft ujawnił rozmiar gry",
-    "summary": "Posiadacze konsol Xbox Series X i Xbox Series S mogą już robić wielkie porządki na swoich dyskach. Potwierdziło się, że na konsolach Microsoftu GTA 6 będzie równie wielkie, co na PlayStation 5.",
-    "sourceUrl": "https://www.ppe.pl/news/432393/gta-6-bedzie-gigantyczne-takze-na-xboksie-microsoft-ujawnil-rozmiar-gry.html"
+    "title": "Dziś święto N7 Day. Żegnamy NA ZAWSZE najlepszych towarzyszy w historii Mass Effect",
+    "summary": "Zamknięcie studia BioWare oraz bolesna decyzja o skasowaniu kolejnych odsłon kosmicznej sagi sprawiły, że uniwersum Mass Effect na dobre przeszło do historii.",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/432017/dzis-swieto-n7-day-zegnamy-na-zawsze-najlepszych-towarzyszy-w-historii-mass-effect.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Dziś święto N7 Day. Żegnamy NA ZAWSZE najlepszych towarzyszy w historii Mass Effect",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432017/dzis-swieto-n7-day-zegnamy-na-zawsze-najlepszych-towarzyszy-w-historii-mass-effect.html",
+      "publishedAt": "2026-11-07T09:00+01:00",
+      "summary": "Zamknięcie studia BioWare oraz bolesna decyzja o skasowaniu kolejnych odsłon kosmicznej sagi sprawiły, że uniwersum Mass Effect na dobre przeszło do historii.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Miliony dolarów zniknęły podczas jednego transportu. Trwa śledztwo w sprawie NVIDIA",
+      "sourceUrl": "https://www.ppe.pl/news/432390/miliony-dolarow-zniknely-podczas-jednego-transportu-trwa-sledztwo-w-sprawie-nvidia.html",
+      "publishedAt": "2026-11-07T08:30+01:00",
+      "summary": "Transport sprzętu NVIDIA o wartości 11,4 mln dolarów nie dotarł do celu. W Kalifornii skradziono sześć palet z nieujawnionymi podzespołami firmy, a sprawcy najwyraźniej dobrze wiedzieli, co przejmują. Cała sprawa jest tym bardziej zagadkowa, �...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 będzie GIGANTYCZNE także na Xboksie. Microsoft ujawnił rozmiar gry",
