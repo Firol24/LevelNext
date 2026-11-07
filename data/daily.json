@@ -1,16 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T12:01+01:00",
+  "updatedAt": "2026-11-07T13:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Pamiętacie \"168 in 1\"? - biegaliśmy po te kartridże dla dwóch gier!",
-    "summary": "Choć to właśnie PlayStation przyczyniło się do popularności konsol w Polsce, lecz prawdziwy chrzest przeszliśmy za czasów Pegasusa. Oto maszynka, która zdefiniowała niejedno dzieciństwo, stworzyła pasję wśród wielu z nas. Nie była produk...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/432399/pamietacie-168-in-1-biegalismy-po-te-kartridze-dla-dwoch-gier.html"
+    "title": "Nastolatka odzyskała wolność po 500 dniach niewoli. O ratunek poprosiła w grze Among Us",
+    "summary": "Among Us pomogło w sprawie, która brzmi jak scenariusz thrillera. Więziona przez ponad 500 dni nastolatka zdołała przekazać innemu graczowi, że została porwana. Informacja Nastolatka odzyskała wolność po 500 dniach niewoli. O ratunek poprosiła w grze Among Us została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nastolatka-odzyskala-wolnosc-po-500-dniach-niewoli-o-ratunek-popr/z332275",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531750381.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nastolatka odzyskała wolność po 500 dniach niewoli. O ratunek poprosiła w grze Among Us",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nastolatka-odzyskala-wolnosc-po-500-dniach-niewoli-o-ratunek-popr/z332275",
+      "publishedAt": "2026-11-07T13:31+01:00",
+      "summary": "Among Us pomogło w sprawie, która brzmi jak scenariusz thrillera. Więziona przez ponad 500 dni nastolatka zdołała przekazać innemu graczowi, że została porwana. Informacja Nastolatka odzyskała wolność po 500 dniach niewoli. O ratunek poprosiła w grze Among Us została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531750381.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "BioWare chcą ratować już nawet politycy! Kanadyjski rząd faktycznie może wkroczyć do akcji",
+      "sourceUrl": "https://www.ppe.pl/news/432398/bioware-chca-ratowac-juz-nawet-polityce-kanadyjski-rzad-faktycznie-moze-wkroczyc-do-akcji.html",
+      "publishedAt": "2026-11-07T12:30+01:00",
+      "summary": "Walka o przyszłość BioWare przestała być wyłącznie inicjatywą fanów. Do ruchu SaveMassEffect dołączył Don Davies, lider kanadyjskiej Nowej Partii Demokratycznej, który chce zaangażowania władz w pomoc zasłużonemu studiu. Polityk ostro s...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Sobotnie podsumowanie wyprzedaży w GOG.com. Gra Owlboy za jedyne 6,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/sobotnie-podsumowanie-wyprzedazy-w-gog-com-gra-owlboy-za-jedyne-699-zl/",
+      "publishedAt": "2026-11-07T12:22+01:00",
+      "summary": "Łowcy, przygotowaliśmy dla Was pierwsze w listopadzie podsumowanie promocji na gry PC z cyfrowego sklepu GOG.com. W dalszej części artykułu znajdziecie 150 najciekawszych ofert na tanie tytuły DRM-Free. Na szczególne wyróżnienie zasługuje tutaj wysoko oceniane dzieło niezależnego zespołu D-Pad Studio, czyli gra Owlboy w historycznie najniższej cenie 6,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Sobotnie-podsumowanie-wyprzedazy-w-GOG.com_.-Gra-Owlboy-za-jedyne-699-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na futerały do Nintendo Switch w RTV Euro AGD. Etui Pokémon Eevee za 39,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/promocja-na-futeraly-do-nintendo-switch-w-rtv-euro-agd-etui-pokemon-eevee-za-3999-zl/",
+      "publishedAt": "2026-11-07T12:04+01:00",
+      "summary": "W ramach wyprzedaży Black Friday Weeks, w internetowym sklepie RTV Euro ADH, pojawiła się ciekawa promocja na wybrane futerały dla konsoli Nintendo Switch. Wśród dostępnych modeli znajdziecie licencjonowane przez giganta z Kioto zestawy od firm BigBen, Gori, PowerA i Trust, dzięki którym zadbacie o bezpieczeństwo swoich „Pstryczków” . W ramach oferty wariant Cargo Pouch Compact Eevee Evol dla fanów marki Pokémon dostępny jest za 39,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-futeraly-do-Nintendo-Switch-w-RTV-Euro-AGD.-Etui-Pokemon-Eevee-za-3999-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Pamiętacie \"168 in 1\"? - biegaliśmy po te kartridże dla dwóch gier!",
@@ -18,6 +54,15 @@
       "publishedAt": "2026-11-07T12:00+01:00",
       "summary": "Choć to właśnie PlayStation przyczyniło się do popularności konsol w Polsce, lecz prawdziwy chrzest przeszliśmy za czasów Pegasusa. Oto maszynka, która zdefiniowała niejedno dzieciństwo, stworzyła pasję wśród wielu z nas. Nie była produk...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "10 najlepszych dem z jesiennego Steam Next Fest. Idealne do świeżo zaparzonej herbaty",
+      "sourceUrl": "https://cdaction.pl/teksty/10-najlepszych-dem-z-jesiennego-steam-next-fest-idealne-do-swiezo-zaparzonej-herbaty/",
+      "publishedAt": "2026-11-07T12:00+01:00",
+      "summary": "Od czerwca przetestowałam ponad 400 dem. Gwarantuję, że poniższe produkcje to najwyższa półka i że będziecie musieli poprosić tatę o to, by ściągnął z niej te cudeńka, bo nie będziecie w stanie dosięgnąć regału!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/rockbeasts_key_art_4k_nologo-1260x709.avif"
     },
     {
       "sourceName": "PPE",
