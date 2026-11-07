@@ -1,16 +1,58 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T14:01+01:00",
+  "updatedAt": "2026-11-07T15:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Film Elden Ring ma kosztować prawie 200 MILIONÓW dolarów. A24 właśnie stawia wszystko na jedną kartę",
-    "summary": "Jeszcze kilka lat temu logo A24 przed filmem zapowiadało dwie godziny dziwnego kina, po których połowa sali wychodziła zachwycona, a druga sprawdzała w telefonie, co właściwie obejrzała. Mały albo średni budżet, mocny reżyser, kilka świetny...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/431754/film-elden-ring-ma-kosztowac-prawie-200-milionow-dolarow-a24-wlasnie-stawia-wszystko-na-jedna-karte.html"
+    "title": "Co z tym PlayStation Plus. Czy subskrypcja Sony jest dziś warta swojej ceny?",
+    "summary": "Siedzę sobie przed ekranem monitora, wchodzę na stronę PlayStation Plus i... no kurczę, drogo. Naprawdę drogo. Otwieram cennik i mam takie wrażenie, jakbym wszedł do przyzwoitej restauracji, a kelner podaje mi kartę z cenami, przy których oczy ...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/432380/co-z-tym-playstation-plus-czy-subskrypcja-sony-jest-dzis-warta-swojej-ceny.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Co z tym PlayStation Plus. Czy subskrypcja Sony jest dziś warta swojej ceny?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432380/co-z-tym-playstation-plus-czy-subskrypcja-sony-jest-dzis-warta-swojej-ceny.html",
+      "publishedAt": "2026-11-07T15:00+01:00",
+      "summary": "Siedzę sobie przed ekranem monitora, wchodzę na stronę PlayStation Plus i... no kurczę, drogo. Naprawdę drogo. Otwieram cennik i mam takie wrażenie, jakbym wszedł do przyzwoitej restauracji, a kelner podaje mi kartę z cenami, przy których oczy ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Lekka mysz gamingowa Razer Cobra 8500 DPI i RGB za 98,99 zł (zamiast 129 zł) w Morele.net",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/lekka-mysz-gamingowa-razer-cobra-8500-dpi-i-rgb-za-9899-zl-zamiast-129-zl-w-morele-net/",
+      "publishedAt": "2026-11-07T14:59+01:00",
+      "summary": "W Morele.net trwa właśnie promocja na Razer Cobra, czyli lekką, przewodową mysz gamingową ważącą zaledwie 58 gramów. Model oferuje sensor optyczny o czułości do 8500 DPI, 6 programowalnych przycisków, przełączniki optyczne Razer Gen-3 oraz podświetlenie Razer Chroma RGB. Po wykorzystaniu kodu zniżkowego zapłacicie za nią 98,99 zł zamiast 129 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Razer-Cobra_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wyścig o rolę Jamesa Bonda nabiera tempa. Tych aktorów ma rozważać studio",
+      "sourceUrl": "https://www.ppe.pl/news/432405/wyscig-o-role-jamesa-bonda-nabiera-tempa-tych-aktorow-ma-rozwazac-studio.html",
+      "publishedAt": "2026-11-07T14:30+01:00",
+      "summary": "Era Daniela Craiga dobiegła końca już kilka lat temu, ale wybór jego następcy nadal pozostaje jedną z największych zagadek współczesnego kina. Poszukiwania nowego Jamesa Bonda mają jednak nabierać tempa, a do grona kandydatów dołączyli Rob...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw 2 kabli HDMI 2.0 18 Gb/s 4K@60Hz 0,9m za 23,73 zł, a 1,8m za 35,38 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-2-kabli-hdmi-2-0-18-gb-s-4k60hz-09m-za-2373-zl-a-18m-za-3538-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-07T14:29+01:00",
+      "summary": "2 kable HDMI w standardzie 2.0, należące do serii Amazon Basics, pojawiły się w promocji w polskim oddziale wspomnianego sklepu. Model o długości niecałego metra (0,9m), z obsługą wideo 4K przy 60 Hz i 2160p, kosztuje w zestawie 23,73 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/amazon-basics-hdmi-2-0-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pudełko GTA 6 u graczy! Są pierwsze zdjęcia i SZCZEGÓŁY",
+      "sourceUrl": "https://www.ppe.pl/news/432448/pudelko-gta-6-u-graczy-sa-pierwsze-zdjecia-i-szczegoly.html",
+      "publishedAt": "2026-11-07T14:27+01:00",
+      "summary": "Premiera najnowszego dzieła od Rockstar Games zbliża się wielkimi krokami, a w sieci zaczynają się pojawiać pierwsze, niezwykle ekscytujące doniesienia prosto od szczęśliwców, do których fizyczne pudełka z grą dotarły przed czasem.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Film Elden Ring ma kosztować prawie 200 MILIONÓW dolarów. A24 właśnie stawia wszystko na jedną kartę",
@@ -27,6 +69,15 @@
       "summary": "Łowcy, przedstawiamy Wam pierwszą w listopadzie odsłonę artykułu prezentującego darmowe gry na PC i konsole, a także omawiającego produkcje, które w ciągu ostatnich siedmiu dni dołączyły do biblioteki największych abonamentów, takich jak Xbox Game Pass, PlayStation Plus czy Amazon Luna (wcześniej znanej jako Prime Gaming) . Dzięki naszemu wpisowi pozostaniecie na bieżąco z nowościami, a także zgarniecie kilka fajnych gier za darmo. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Za-darmo-to-uczciwa-cena.-Najlepsze-darmowe-gry-na-PC-i-konsole-23.08_miniaturka3-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "World of Warcraft: Forever największą premierą w historii MMO Blizzarda. Gra jeszcze nigdy nie widziała tylu graczy na raz",
+      "sourceUrl": "https://cdaction.pl/newsy/world-of-warcraft-forever-najwieksza-premiera-w-historii-mmo-blizzarda-gra-jeszcze-nigdy-nie-widziala-tylu-graczy-na-raz/",
+      "publishedAt": "2026-11-07T13:57+01:00",
+      "summary": "Powiedzieć, że to imponujące, to jak nie powiedzieć nic.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/World-of-Warcraft-Forever-1.jpg"
     },
     {
       "sourceName": "GRY-Online",
