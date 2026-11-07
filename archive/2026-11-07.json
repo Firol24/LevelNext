@@ -1,17 +1,58 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T19:01+01:00",
+  "updatedAt": "2026-11-07T20:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Świetne gry PC do 10 zł w Kinguinie! Zestawienie 100 najlepszych ofert na tanie klucze Steam",
-    "summary": "Łowcy, przygotowaliśmy dla Was dzisiaj potężne zestawienie tanich gier PC, które w Kinguinie możecie zgarnąć za maksymalnie 10 zł. Wśród setki wybranych przez nas ofert na pierwszy plan wysuwają się Yakuza 6: The Song of Life za 7,93 zł, RoboCop: Rogue City za 6,25 zł, Ghostrunner za 5,06 zł, Psychonauts 2 za 5,52 zł oraz Tiny Tina’s Wonderlands za 6,25 zł. W świetnych cenach dostępne są również m.in. Dying Light Essentials Edition, Ghostrunner 2, Gotham Knights, Celeste, Spiritfarer: Farewell Edition, Neon White, Darkwood oraz Thronebreaker: The Witcher Tales. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/keyshopy/swietne-gry-pc-do-10-zl-w-kinguinie-zestawienie-100-najlepszych-ofert-na-tanie-klucze-steam/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Swietne-gry-PC-do-10-zl-w-Kinguinie-Zestawienie-100-najlepszych-ofert-na-tanie-klucze-Steam-_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Zobaczysz wszystko (2026) - recenzja filmu [Gutek Film]. Tylko co z tego?",
+    "summary": "Elizabeth Holmes odsiaduje obecnie karę jedenastu lat pozbawienia wolności za oszustwa, których dopuściła się prowadząc swoją firmę, Theranos. Zanim rozpoczęła odsiadkę, odwiedził ją aktor, komik i reżyser, Nathan Fielder. Zaczęli kręci...",
+    "sourceUrl": "https://www.ppe.pl/recenzje/432459/zobaczysz-wszystko-2026-recenzja-filmu-gutek-film-tylko-co-z-tego.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Zobaczysz wszystko (2026) - recenzja filmu [Gutek Film]. Tylko co z tego?",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432459/zobaczysz-wszystko-2026-recenzja-filmu-gutek-film-tylko-co-z-tego.html",
+      "publishedAt": "2026-11-07T20:00+01:00",
+      "summary": "Elizabeth Holmes odsiaduje obecnie karę jedenastu lat pozbawienia wolności za oszustwa, których dopuściła się prowadząc swoją firmę, Theranos. Zanim rozpoczęła odsiadkę, odwiedził ją aktor, komik i reżyser, Nathan Fielder. Zaczęli kręci...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Klawiatura mechaniczna Keychron K2H-Q1 za 398 zł (141 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/klawiatura-mechaniczna-keychron-k2h-q1-za-398-zl-141-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-07T19:59+01:00",
+      "summary": "W ramach Black Weeks w x-kom możecie obecnie taniej kupić Keychron K2H-Q1, czyli bezprzewodową klawiaturę w kompaktowym formacie 75%. Model wykorzystuje magneto-mechaniczne przełączniki Gateron Double-Rail Magnetic Nebula, oferuje funkcje Hot Swap, Rapid Trigger, wielokolorowe podświetlenie RGB oraz łączność przez Bluetooth i 2,4 GHz, a całość zamknięto w konstrukcji z aluminiowymi elementami. Po wykorzystaniu kodu zniżkowego zapłacicie za nią 398 zł zamiast 539 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/05/Keychron-K2H-Q1-miniatura-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Lords of the Fallen II OFICJALNIE w pudełku! Prezes CI Games osobiście ogłasza świetną wiadomość",
+      "sourceUrl": "https://www.ppe.pl/news/432469/lords-of-the-fallen-ii-oficjalnie-w-pudelku-prezes-ci-games-osobiscie-oglasza-swietna-wiadomosc.html",
+      "publishedAt": "2026-11-07T19:45+01:00",
+      "summary": "Polskie CI Games doskonale znane jest na całym świecie z produkcji ciekawych i całkiem dopracowanych produkcji, a od paru ostatnich lat także i z tego, że firma doskonale wsłuchuje się w głos graczy, czego orędownikiem jest sam prezes firmy, Ma...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na 55-calowe TV TCL 4K QD-Mini LED 144 Hz za 2499 zł (1000 zł taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocja-na-55-calowe-tv-tcl-4k-qd-mini-led-144-hz-za-2499-zl-1000-zl-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-07T19:34+01:00",
+      "summary": "W ofercie sklepu internetowego RTV Euro AGD kupicie teraz w niezłej cenie 55-calowy telewizor TCL 55MQLED75L. Model oferuje ekran 4K QD-Mini LED ze 180 strefami lokalnego wygaszania, natywne odświeżanie 144 Hz oraz złącza HDMI 2.1. Specyfikację uzupełniają obsługa Dolby Vision i Dolby Atmos, nagłośnienie Onkyo 2.1 oraz system Google TV z dostępem do aplikacji streamingowych. Za sprzęt zapłacicie obecnie 2499 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-55-calowy-TCL-4K-QD-Mini-LED-144-Hz-za-2499-zl-1000-zl-taniej-w-RTV-Euro-AGD_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Hasło \"PlayStation Exclusive\" wraca do łask. Nowy znaczek ma przekonać nas do gier Sony",
+      "sourceUrl": "https://www.ppe.pl/news/432468/haslo-playstation-exclusive-wraca-do-lask-nowy-znaczek-ma-przekonac-nas-do-gier-sony.html",
+      "publishedAt": "2026-11-07T19:21+01:00",
+      "summary": "PlayStation było przez kilka generacji synonimem dobrej gry na wyłączność, która nie tylko świetnie wygląda, ale przesuwa granice tego co możliwe jeszcze bardziej. Niestety w ostatnich latach ekspansja na PC zniszczyła ten wizerunek.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Świetne gry PC do 10 zł w Kinguinie! Zestawienie 100 najlepszych ofert na tanie klucze Steam",
