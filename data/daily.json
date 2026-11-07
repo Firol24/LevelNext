@@ -1,17 +1,85 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T10:01+01:00",
+  "updatedAt": "2026-11-07T11:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Anno 117: Pax Romana, Dead Island 2 i inne. Darmowe gry i okazje w tym tygodniu",
-    "summary": "Jak co tydzień wracamy z kolejnymi grami za darmo oraz nową ofertą Game Passa, PS Plusa i Amazonu Luny.",
-    "sourceUrl": "https://cdaction.pl/newsy/anno-117-pax-romana-dead-island-2-i-inne-darmowe-gry-i-okazje-w-tym-tygodniu/",
-    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/collage26-11-06.jpg"
+    "title": "„To było strasznym doświadczeniem”. To miała być rola życia, a zamieniła się w koszmar. Dustin Hoffman dostał 27 razy w twarz na planie klasyka",
+    "summary": "Dustin Hoffman wrócił wspomnieniami do koszmarnych wydarzeń, które rozegrały się na planie kluczowego dla jego kariery filmu. Mimo że zmienił on jego życie, prace nad nim nazywa „strasznym doświadczeniem”. Informacja „To było strasznym doświadczeniem”. To miała być rola życia, a zamieniła się w koszmar. Dustin Hoffman dostał 27 razy w twarz na planie klasyka została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/to-bylo-strasznym-doswiadczeniem-to-miala-byc-rola-zycia-a-zamien/zb321da",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531407351.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "„To było strasznym doświadczeniem”. To miała być rola życia, a zamieniła się w koszmar. Dustin Hoffman dostał 27 razy w twarz na planie klasyka",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/to-bylo-strasznym-doswiadczeniem-to-miala-byc-rola-zycia-a-zamien/zb321da",
+      "publishedAt": "2026-11-07T11:02+01:00",
+      "summary": "Dustin Hoffman wrócił wspomnieniami do koszmarnych wydarzeń, które rozegrały się na planie kluczowego dla jego kariery filmu. Mimo że zmienił on jego życie, prace nad nim nazywa „strasznym doświadczeniem”. Informacja „To było strasznym doświadczeniem”. To miała być rola życia, a zamieniła się w koszmar. Dustin Hoffman dostał 27 razy w twarz na planie klasyka została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531407351.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dziesięć seriali z 2026 roku, o których mówiono w ostatnich miesiącach zdecydowanie zbyt rzadko",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/431618/dziesiec-seriali-z-2026-roku-o-ktorych-mowiono-w-ostatnich-miesiacach-zdecydowanie-zbyt-rzadko.html",
+      "publishedAt": "2026-11-07T11:00+01:00",
+      "summary": "Postępująca z roku na rok nadprodukcja nowych seriali sprawia, że w natłoku kolejnych premier na platformach streamingowych często giną tytuły, które wyróżniają się na tle standardowych produkcji reprezentujących dany podgatunek. Dotyczy to...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Microsoft zanurzył 855 serwerów na dnie morza na ponad dwa lata i odkrył, że rzadziej się psują. Cztery lata później przyznał, że nie będzie budował takich centrów danych",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/microsoft-zanurzyl-855-serwerow-na-dnie-morza-na-ponad-dwa-lata-i/zb321e0",
+      "publishedAt": "2026-11-07T11:00+01:00",
+      "summary": "Microsoft przez kilka lat testował podwodne centra danych, ale ostatecznie zrezygnował z ich komercyjnego wdrożenia. Chiny rozwijają własną podwodną infrastrukturę, również z myślą o AI. Informacja Microsoft zanurzył 855 serwerów na dnie morza na ponad dwa lata i odkrył, że rzadziej się psują. Cztery lata później przyznał, że nie będzie budował takich centrów danych została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531411382.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Skasowana gra Sony na PS5 wyciekła! To BYŁBY HIT",
+      "sourceUrl": "https://www.ppe.pl/news/432403/skasowana-gra-sony-na-ps5-wyciekla-to-bylby-hit.html",
+      "publishedAt": "2026-11-07T10:46+01:00",
+      "summary": "W sieci pojawiły się niezwykle ciekawa historia i materiały dotyczące skasowanego projektu, nad którym pracowało należące do PlayStation studio Dark Outlaw Games.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nintendo nie chce tworzyć kolejnego Tears of the Kingdom. Zelda ma ponownie zaskoczyć graczy",
+      "sourceUrl": "https://www.ppe.pl/news/432392/nintendo-nie-chce-tworzyc-kolejnego-tears-of-the-kingdom-zelda-ma-ponownie-zaskoczyc-graczy.html",
+      "publishedAt": "2026-11-07T10:30+01:00",
+      "summary": "Breath of the Wild całkowicie odmieniło serię The Legend of Zelda, a Tears of the Kingdom rozwinęło jej formułę dzięki jeszcze większej swobodzie i rozbudowanym systemom. Hidemaro Fujibayashi nie zamierza jednak po raz kolejny korzystać z tego...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Rekordowo tanie zestawy klocków Brick Shop Masters of the Universe od 99 zł w Media Expert!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/rekordowo-tanie-zestawy-klockow-brick-shop-masters-of-the-universe-od-99-zl-w-media-expert/",
+      "publishedAt": "2026-11-07T10:19+01:00",
+      "summary": "W internetowym sklepie Media Expert, z okazji wyprzedaży Black Weeks, możecie zakupić tanio zestawy klocków Brick Shop Masters of the Universe od Matte. Modele Bitwa o Zamek Posępny Czerep (867 elementów) oraz Starcie na Wężowej Górze (636 elementów) mogą być Wasze za jedyne 99,99 zł! Pierwszy wariant zawiera aż 16 figurek z najnowszej serii Nanoworlds, w tym takie kultowe postacie jak He-Man oraz Szkieletor. W niższej cenie zakupicie także Havoc Staff składający się z 1098 elementów, wśród których znajdziecie także świecący klocek. Model przestawiający legendarny Kostur Zniszczenia należący do Szkieletora może być Wasz za jedyne 139,99 zł. C",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Rekordowo-tanie-zestawy-klockow-Brick-Shop-Masters-of-the-Universe-od-99-zl-w-Media-Expert_obrazek_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowe materiały i informacje o Until Dawn 2! Ślicznie to wygląda",
+      "sourceUrl": "https://www.ppe.pl/news/432402/nowe-materialy-i-informacje-o-until-dawn-2-slicznie-to-wyglada.html",
+      "publishedAt": "2026-11-07T10:16+01:00",
+      "summary": "Fani mrocznych gier z dreszczykiem mogą zacząć zacierać ręce, ponieważ na oficjalnej karcie PlayStation pojawiła się masa świeżych i bardzo ciekawszych szczegółów na temat wyczekiwanego Until Dawn 2.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "13 nowych grafik z GTA 6 udowadnia, że najważniejszy element serii Rockstara jest maksymalnie wierny rzeczywistości",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/13-nowych-grafik-z-gta-6-udowadnia-ze-najwazniejszy-element-serii/z132273",
+      "publishedAt": "2026-11-07T10:10+01:00",
+      "summary": "Otwarty świat GTA 6 ma zachwycić realizmem. Nie inaczej będzie z jeżdżącymi po ulicach Vice City samochodami. Nowe screeny pokazują, z jak wielkim pietyzmem Rockstar zaprojektował auta w Grand Theft Auto VI. Informacja 13 nowych grafik z GTA 6 udowadnia, że najważniejszy element serii Rockstara jest maksymalnie wierny rzeczywistości została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531701355.jpg"
+    },
     {
       "sourceName": "CD-Action",
       "title": "Anno 117: Pax Romana, Dead Island 2 i inne. Darmowe gry i okazje w tym tygodniu",
@@ -55,6 +123,15 @@
       "category": "WIADOMOŚCI"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "Gra z żywym, otwartym światem, która odmieniła całą branżę. GTA 3 było prawdziwą rewolucją",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gra-z-zywym-otwartym-swiatem-ktora-odmienila-cala-branze-gta-3-by/z23225f",
+      "publishedAt": "2026-11-07T09:00+01:00",
+      "summary": "GTA i GTA 2 były jedynie filarami, na których miała zostać zbudowana prawdziwa potęga. GTA 3 to produkcja, od której zaczęła się nowożytna historia tej bestsellerowej serii. Informacja Gra z żywym, otwartym światem, która odmieniła całą branżę. GTA 3 było prawdziwą rewolucją została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531665812.jpg"
+    },
+    {
       "sourceName": "PPE",
       "title": "Miliony dolarów zniknęły podczas jednego transportu. Trwa śledztwo w sprawie NVIDIA",
       "sourceUrl": "https://www.ppe.pl/news/432390/miliony-dolarow-zniknely-podczas-jednego-transportu-trwa-sledztwo-w-sprawie-nvidia.html",
@@ -69,6 +146,15 @@
       "publishedAt": "2026-11-07T07:30+01:00",
       "summary": "Posiadacze konsol Xbox Series X i Xbox Series S mogą już robić wielkie porządki na swoich dyskach. Potwierdziło się, że na konsolach Microsoftu GTA 6 będzie równie wielkie, co na PlayStation 5.",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy „porywający” thriller kryminalny od ponad tygodnia jest numerem 1 w top 10 Apple TV. Pierwsze odcinki z oceną 8/10",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-porywajacy-thriller-kryminalny-od-ponad-tygodnia-jest-numere/ze32261",
+      "publishedAt": "2026-11-07T06:50+01:00",
+      "summary": "Nowy thriller kryminalny Apple TV zainteresował widzów. Serial z Lievem Schreiberem i Stephenem Grahamem w rolach głównych tydzień po debiucie wciąż nie ma sobie równych na platformie, a fani chwalą amerykańską odpowiedź na skandynawskie kryminały. Informacja Nowy „porywający” thriller kryminalny od ponad tygodnia jest numerem 1 w top 10 Apple TV. Pierwsze odcinki z oceną 8/10 została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531666936.jpg"
     },
     {
       "sourceName": "GRY-Online",
