@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T18:01+01:00",
+  "updatedAt": "2026-11-07T19:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Kazali „iść grać w GTA 6”, ale kłamali. Sezon 3. wyniesie walkę w strzelance Wardogs na zupełnie nowy poziom",
-    "summary": "Studio Bulkhead Interactive szykuje trzeci sezon Wardogs, który ma przynieść graczom nowe pole bitwy i więcej swobody w zdobywaniu wyposażenia. Deweloperzy pochwalili się też zablokowaniem 185 tysięcy kont powiązanych z oszustwami. Informacja Kazali „iść grać w GTA 6”, ale kłamali. Sezon 3. wyniesie walkę w strzelance Wardogs na zupełnie nowy poziom została opublikowana przez GRYOnline.pl 7 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/kazali-isc-grac-w-gta-6-ale-klamali-sezon-3-wyniesie-walke-w-strz/z532277",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531770116.jpg"
+    "category": "PROMOCJE",
+    "title": "Świetne gry PC do 10 zł w Kinguinie! Zestawienie 100 najlepszych ofert na tanie klucze Steam",
+    "summary": "Łowcy, przygotowaliśmy dla Was dzisiaj potężne zestawienie tanich gier PC, które w Kinguinie możecie zgarnąć za maksymalnie 10 zł. Wśród setki wybranych przez nas ofert na pierwszy plan wysuwają się Yakuza 6: The Song of Life za 7,93 zł, RoboCop: Rogue City za 6,25 zł, Ghostrunner za 5,06 zł, Psychonauts 2 za 5,52 zł oraz Tiny Tina’s Wonderlands za 6,25 zł. W świetnych cenach dostępne są również m.in. Dying Light Essentials Edition, Ghostrunner 2, Gotham Knights, Celeste, Spiritfarer: Farewell Edition, Neon White, Darkwood oraz Thronebreaker: The Witcher Tales. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/keyshopy/swietne-gry-pc-do-10-zl-w-kinguinie-zestawienie-100-najlepszych-ofert-na-tanie-klucze-steam/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Swietne-gry-PC-do-10-zl-w-Kinguinie-Zestawienie-100-najlepszych-ofert-na-tanie-klucze-Steam-_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Świetne gry PC do 10 zł w Kinguinie! Zestawienie 100 najlepszych ofert na tanie klucze Steam",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/swietne-gry-pc-do-10-zl-w-kinguinie-zestawienie-100-najlepszych-ofert-na-tanie-klucze-steam/",
+      "publishedAt": "2026-11-07T19:00+01:00",
+      "summary": "Łowcy, przygotowaliśmy dla Was dzisiaj potężne zestawienie tanich gier PC, które w Kinguinie możecie zgarnąć za maksymalnie 10 zł. Wśród setki wybranych przez nas ofert na pierwszy plan wysuwają się Yakuza 6: The Song of Life za 7,93 zł, RoboCop: Rogue City za 6,25 zł, Ghostrunner za 5,06 zł, Psychonauts 2 za 5,52 zł oraz Tiny Tina’s Wonderlands za 6,25 zł. W świetnych cenach dostępne są również m.in. Dying Light Essentials Edition, Ghostrunner 2, Gotham Knights, Celeste, Spiritfarer: Farewell Edition, Neon White, Darkwood oraz Thronebreaker: The Witcher Tales. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Swietne-gry-PC-do-10-zl-w-Kinguinie-Zestawienie-100-najlepszych-ofert-na-tanie-klucze-Steam-_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Kazali „iść grać w GTA 6”, ale kłamali. Sezon 3. wyniesie walkę w strzelance Wardogs na zupełnie nowy poziom",
@@ -20,6 +29,40 @@
       "summary": "Studio Bulkhead Interactive szykuje trzeci sezon Wardogs, który ma przynieść graczom nowe pole bitwy i więcej swobody w zdobywaniu wyposażenia. Deweloperzy pochwalili się też zablokowaniem 185 tysięcy kont powiązanych z oszustwami. Informacja Kazali „iść grać w GTA 6”, ale kłamali. Sezon 3. wyniesie walkę w strzelance Wardogs na zupełnie nowy poziom została opublikowana przez GRYOnline.pl 7 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531770116.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation popełniło PRZEOGROMNY błąd? Sprzedaż Death Stranding jest niesamowita",
+      "sourceUrl": "https://www.ppe.pl/news/432466/playstation-popelnilo-przeogromny-blad-sprzedaz-death-stranding-jest-niesamowita.html",
+      "publishedAt": "2026-11-07T18:45+01:00",
+      "summary": "Niezwykłe dzieło Hideo Kojimy po raz kolejny udowadnia, że jego unikalna wizja i specyficzny styl potrafią przyciągnąć przed ekrany rzesze ludzi.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Assassin's Creed Mars nadchodzi! To będzie uczta dla fanów marki",
+      "sourceUrl": "https://www.ppe.pl/news/432465/assassin-s-creed-mars-nadchodzi-to-bedzie-uczta-dla-fanow-marki.html",
+      "publishedAt": "2026-11-07T18:34+01:00",
+      "summary": "Fani zakamuflowanych skrytobójców mogą zacząć zacierać ręce, ponieważ w kuluarach francuskiego wydawcy rzekomo trwają prace nad aż dwoma nowymi projektami osadzonymi w kultowym uniwersum.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Star Wars Outlaws Edycja Specjalna na PS5 już za 37,33 zł na Allegro!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-star-wars-outlaws-edycja-specjalna-na-ps5-juz-za-3733-zl-na-allegro/",
+      "publishedAt": "2026-11-07T18:31+01:00",
+      "summary": "Dobra okazja na zakup fizycznego wydania gry Star Wars Outlaws Edycja Specjalna jest teraz dostępna do dorwania w serwisie Allegro. Gwiezdnowojenną produkcję od Ubisoftu, w której wcielicie się w postać wyjętej spod prawa Kay Vess, kupicie w wersji pudełkowej na PS5 już za 37,33 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/10/star-wars-outlaws-edycja-specjalna-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Myszka bezprzewodowa Logitech M330 Silent Plus za 64,99 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/myszka-bezprzewodowa-logitech-m330-silent-plus-za-6499-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-07T18:03+01:00",
+      "summary": "Posiadająca cichy klik myszka Logitech M330 Silent Plus, jest teraz dostępna w polskim oddziale sklepu Amazon w niższej cenie. Model z łącznością bezprzewodową, zasilany pojedynczą baterią AA, która powinna wystarczyć na 2 lata użytkowania, kosztuje aktualnie 64,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/logitech-silent-mouse-m330-1b-224x224.jpg"
     },
     {
       "sourceName": "PPE",
