@@ -1,16 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T15:01+01:00",
+  "updatedAt": "2026-11-07T16:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Co z tym PlayStation Plus. Czy subskrypcja Sony jest dziś warta swojej ceny?",
-    "summary": "Siedzę sobie przed ekranem monitora, wchodzę na stronę PlayStation Plus i... no kurczę, drogo. Naprawdę drogo. Otwieram cennik i mam takie wrażenie, jakbym wszedł do przyzwoitej restauracji, a kelner podaje mi kartę z cenami, przy których oczy ...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/432380/co-z-tym-playstation-plus-czy-subskrypcja-sony-jest-dzis-warta-swojej-ceny.html"
+    "category": "PROMOCJE",
+    "title": "Pudełkowe Dragon Quest Treasures na Nintendo Switch za 49,99 zł na Allegro",
+    "summary": "Fani japońskich RPG-ów i serii Dragon Quest mogą obecnie tanio zgarnąć pudełkowe wydanie Dragon Quest Treasures na Nintendo Switch. Produkcja Square Enix stawia na eksplorację rozległego świata, poszukiwanie skarbów oraz rekrutowanie potworów, które pomagają podczas kolejnych wypraw. Fizyczną wersję gry na kartridżu kupicie teraz na Allegro za 49,99 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-dragon-quest-treasures-na-nintendo-switch-za-4999-zl-na-allegro/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Dragon-Quest-Treasures_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Dragon Quest Treasures na Nintendo Switch za 49,99 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-dragon-quest-treasures-na-nintendo-switch-za-4999-zl-na-allegro/",
+      "publishedAt": "2026-11-07T16:00+01:00",
+      "summary": "Fani japońskich RPG-ów i serii Dragon Quest mogą obecnie tanio zgarnąć pudełkowe wydanie Dragon Quest Treasures na Nintendo Switch. Produkcja Square Enix stawia na eksplorację rozległego świata, poszukiwanie skarbów oraz rekrutowanie potworów, które pomagają podczas kolejnych wypraw. Fizyczną wersję gry na kartridżu kupicie teraz na Allegro za 49,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Dragon-Quest-Treasures_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Aktor CJ-a przerywa milczenie. Po latach wyjaśnił prawdę o współpracy z Rockstarem",
+      "sourceUrl": "https://www.ppe.pl/news/432446/aktor-cj-a-przerywa-milczenie-po-latach-wyjasnil-prawde-o-wspolpracy-z-rockstarem.html",
+      "publishedAt": "2026-11-07T15:30+01:00",
+      "summary": "Relacje Rockstara z aktorami nie zawsze układały się idealnie, dlatego kolejne historie o sporach finansowych łatwo trafiają na podatny grunt. Jedna z nich dotyczyła Young Maylaya, czyli głosu Carla „CJ-a” Johnsona z GTA: San Andreas. Przez l...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Magnetyczny powerbank Baseus 10000mAh 22,5W za 69,99 zł (30 zł taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/magnetyczny-powerbank-baseus-10000mah-225w-za-6999-zl-30-zl-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-07T15:30+01:00",
+      "summary": "Niezła okazja na zakup kompaktowego powerbanka pojawiła się w ramach akcji Hit Dnia w sklepie internetowym RTV Euro AGD. Baseus EnerFill FM11 oferuje pojemność 10 000mAh, moc ładowania do 22,5W oraz obsługę bezprzewodowego ładowania magnetycznego w standardzie MagSafe. Po wykorzystaniu kodu rabatowego zapłacicie za jasnoniebieski wariant urządzenia 69,99 zł zamiast 99,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Powerbank-Baseus-EnerFill-FM11_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Heroes 3 Remake będzie bardziej przypominało oryginał. Twórcy wprowadzają szereg zmian graficznych",
+      "sourceUrl": "https://cdaction.pl/newsy/heroes-3-remake-bedzie-bardziej-przypominalo-oryginal-tworcy-wprowadzaja-szereg-zmian-graficznych/",
+      "publishedAt": "2026-11-07T15:04+01:00",
+      "summary": "Ubisoft idzie w dobrym kierunku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/hereos-3-reamek-1260x715.png"
+    },
     {
       "sourceName": "PPE",
       "title": "Co z tym PlayStation Plus. Czy subskrypcja Sony jest dziś warta swojej ceny?",
