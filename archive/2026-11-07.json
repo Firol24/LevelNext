@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T08:01+01:00",
+  "updatedAt": "2026-11-07T08:26+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -76,143 +76,150 @@
   ],
   "indie": [
     {
-      "title": "The House Before",
-      "date": "2026-11-03",
+      "title": "Tenebris Somnia",
+      "date": "2026-10-16",
       "platform": "PC (Steam)",
-      "summary": "Surrealistyczny body horror, w którym budzisz się jako dom: jego wnętrze staje się labiryntem organów, tuneli i groteskowych stworzeń. Krótka, eksperymentalna opowieść zamiast klasycznej akcji.",
-      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/"
+      "summary": "Retro survival horror w 2D pixelartowej oprawie, zagadkami i scenami FMV nakręconymi z aktorami. W duchu Silent Hill i Resident Evil, ale z własnym, filmowym sposobem opowiadania.",
+      "sourceUrl": "https://tenebrissomnia.org/fr/"
     },
     {
-      "title": "PROCEDURE ZERO",
-      "date": "2026-11-12",
+      "title": "In Full Bloom",
+      "date": "2026-11-05",
+      "platform": "PC, macOS",
+      "summary": "Niepokojący miks Tamagotchi i Katamari: opiekujesz się głodnym stworzeniem, które rośnie, pożerając kolejne elementy świata. Surrealistyczna, krótka gra z makabrycznym podtekstem.",
+      "sourceUrl": "https://obleakgames.itch.io/in-full-bloom/devlog/1671849/release-date-announcement"
+    },
+    {
+      "title": "DREADMOOR",
+      "date": "2026-11-09",
+      "platform": "PC (Steam, Early Access)",
+      "summary": "Mroczna przygodówka o połowie ryb w świecie zatopionym po katastrofie. Naprawiasz trawler, zbierasz złom i wypływasz na wody, w których czają się zmutowane stworzenia.",
+      "sourceUrl": "https://www.gamespress.com/uk-UA/Spooky-Fishing-Adventure-DREADMOOR-Sets-Course-for-Steam-Early-Access-"
+    },
+    {
+      "title": "Casualties: Unknown",
+      "date": "2026-11-09",
       "platform": "PC (Steam)",
-      "summary": "Polski, jednoosobowy projekt łączący skradanie z więziennym thrillerem. Trafiasz do celi, której nie ma w rejestrze; papierosy kupują informacje, a każdy ruch może zdradzić cię strażnikom.",
-      "sourceUrl": "https://delanivogames.com/"
+      "summary": "2D survival na obcej planecie, gdzie zejście w głąb jaskiń oznacza walkę z ranami, infekcjami, utratą krwi i psychicznym załamaniem. Ciało bohatera jest tu osobnym systemem przetrwania.",
+      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
     },
     {
-      "title": "DERELIKT",
-      "date": "2026-11-13",
+      "title": "Hillthorn",
+      "date": "2026-11-10",
       "platform": "PC (Steam)",
-      "summary": "Narracyjny retro FPS inspirowany klaustrofobicznym sci-fi horrorem ery PS1. Kosmiczna sceneria, lovecraftowski niepokój i oldschoolowa perspektywa pierwszej osoby; demo jest dostępne na Steam.",
-      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+      "summary": "Mroczna gra detektywistyczna opowiadana bez dialogów, za pomocą kart wskazówek. W odizolowanej górskiej społeczności zaginęło dziecko, a kolejne tropy odsłaniają niepokojące sekrety.",
+      "sourceUrl": "https://store.steampowered.com/app/3504050/_Hillthorn/"
     },
     {
-      "title": "The Road of Dust and Sorrow",
-      "date": "2026-12-03",
-      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
-      "summary": "Pixelartowy survival horror inspirowany Resident Evil i Silent Hill. W postapokaliptycznym świecie Katherine chroni córkę Avę, rozwiązuje zagadki i przedziera się przez zrujnowane miejsca pełne zmutowanych stworzeń.",
-      "sourceUrl": "https://www.gamespress.com/pl/Cozy-Horror-Hit-The-Road-of-Dust-and-Sorrow-Launches-3-December-2026"
-    },
-    {
-      "title": "BLIGHTEN",
+      "title": "Haunted Echoes",
       "date": null,
       "platform": "PC (Steam)",
-      "summary": "Retro survival horror FPS w opuszczonym kompleksie opanowanym przez stworzenia zakażone tajemniczą zarazą. Trzeba zbierać zasoby i przetrwać w przemysłowym labiryncie; Steam podaje tylko rok 2026, bez dokładnego dnia.",
-      "sourceUrl": "https://store.steampowered.com/app/4462580/BLIGHTEN/"
+      "summary": "Psychologiczny horror z perspektywy bodycama. W opuszczonych budynkach szukasz anomalii, pilnujesz ograniczonego światła latarki i próbujesz odróżnić nagranie od koszmaru.",
+      "sourceUrl": "https://store.steampowered.com/app/4854170"
     }
   ],
   "releases": [
     {
-      "date": "2026-11-10",
-      "title": "Nocturnal II",
+      "date": "2026-11-09",
+      "title": "DREADMOOR",
+      "platform": "PC (Steam, Early Access)",
+      "status": "confirmed",
+      "note": "Mroczna przygodówka o połowie ryb i przetrwaniu w zatopionym, postapokaliptycznym świecie. Wczesny dostęp ma zawierać pełny główny wątek.",
+      "sourceUrl": "https://www.gamespress.com/uk-UA/Spooky-Fishing-Adventure-DREADMOOR-Sets-Course-for-Steam-Early-Access-"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Casualties: Unknown",
       "platform": "PC (Steam)",
       "status": "confirmed",
-      "note": "Atmosferyczne metroidvania prowadzi przez pogrążone w mroku miasto Ytash. Ogień rozświetla drogę, odblokowuje nowe przejścia i pomaga odkrywać sekrety.",
-      "sourceUrl": "https://www.gamespress.com/tr/Flame-wielding-Metroidvania-Nocturnal-2-launches-on-Steam-November-10t"
+      "note": "2D survival na obcej planecie z rozbudowaną symulacją obrażeń, krwawienia, infekcji i kondycji psychicznej. Pełna wersja rozwija jaskiniową wyprawę znaną z dema.",
+      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
     },
     {
       "date": "2026-11-10",
-      "title": "Warhammer Survivors",
-      "platform": "PC (Steam, GOG), Nintendo Switch, Nintendo Switch 2, PlayStation 5, Xbox Series X|S, iOS, Android",
+      "title": "Hillthorn",
+      "platform": "PC (Steam), Nintendo Switch, iOS, Android",
       "status": "confirmed",
-      "note": "Roguelite akcji łączy światy Warhammer 40,000 i Age of Sigmar. Rozwijaj uzbrojenie i odpieraj coraz większe hordy przeciwników.",
-      "sourceUrl": "https://www.warhammer-community.com/en-gb/articles/m5cfelii/try-the-new-demo-for-warhammer-survivors-now/"
+      "note": "Detektywistyczna opowieść bez dialogów, budowana z kart wskazówek. Sprawa zaginięcia prowadzi do odizolowanej społeczności i tajemnicy skrywanej przez górę.",
+      "sourceUrl": "https://steamcommunity.com/app/3504050/"
     },
     {
       "date": "2026-11-10",
-      "title": "DreamWorks Shrek 2 Remastered",
-      "platform": "PC (Steam, Epic Games Store), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "title": "TANUKI: Pon's Summer",
+      "platform": "PC (Steam), Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
-      "note": "Odświeżona wersja przygodowej gry z 2004 roku. Oprócz poprawionej oprawy dodaje tryb fotograficzny i kooperację dla maksymalnie czterech osób.",
-      "sourceUrl": "https://www.gamespress.com/en-US/Aspyr-Reveals-DreamWorks-Shrek-2-Remastered-Launching-on-PC-Consoles-N"
+      "note": "Przygodówka z otwartym światem: tanuki dostarcza przesyłki na BMX-ie, zaprzyjaźnia się z mieszkańcami i odbudowuje lokalną świątynię. Gra trafi też do Xbox Game Pass w dniu premiery.",
+      "sourceUrl": "https://www.gamespress.com/en-US/YOUVE-GOT-MAIL-CRITICAL-REFLEX-DENKIWORKS-REVEAL-NOVEMBER-10-RELEASE-D"
     },
     {
-      "date": "2026-11-12",
-      "title": "PROCEDURE ZERO",
+      "date": "2026-11-11",
+      "title": "Haunted Echoes",
       "platform": "PC (Steam)",
-      "status": "confirmed",
-      "note": "Polski thriller skradankowy z perspektywy pierwszej osoby. Jako więzień bez nazwiska zdobywasz informacje, omijasz strażników i próbujesz przejąć kolejne sektory zakładu.",
-      "sourceUrl": "https://delanivogames.com/press/"
+      "status": "listed",
+      "note": "Steam podaje tę datę dla psychologicznego horroru bodycam. W opuszczonych lokacjach trzeba tropić anomalie i oszczędzać światło latarki.",
+      "sourceUrl": "https://store.steampowered.com/app/4854170"
     },
     {
-      "date": "2026-11-12",
-      "title": "Moomin: Midsummer Madness",
-      "platform": "PC (Steam), Nintendo Switch, Nintendo Switch 2",
+      "date": "2026-11-19",
+      "title": "Grand Theft Auto VI",
+      "platform": "PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
-      "note": "Przygodówka point-and-click inspirowana książką Tove Jansson. Muminek, Mała Mi i przyjaciele próbują odnaleźć drogę do domu po wielkiej powodzi.",
-      "sourceUrl": "https://game.shochiku.co.jp/games/moomin-midsummer-madness/"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Barbie Rewind",
-      "platform": "Nintendo Switch, PlayStation 5",
-      "status": "confirmed",
-      "note": "Kolekcja 16 gier Barbie z lat 1991–2007 połączona z dekorowaniem DreamHouse. Atari potwierdza datę 12 listopada i fizyczne wydania na Switch oraz PS5.",
-      "sourceUrl": "https://atari.com/products/barbie-rewind-game-doll"
+      "note": "Rockstar nadal wskazuje 19 listopada. Nowość: cyfrowe pobieranie wstępne rozpocznie się 10 listopada; akcja śledzi Jasona i Lucię w stanie Leonida.",
+      "sourceUrl": "https://www.rockstargames.com/VI"
     }
   ],
   "cinema": [
     {
-      "date": "2026-11-06",
-      "title": "La perra",
-      "genre": "Dramat psychologiczny",
-      "summary": "Na chilijskiej wyspie Silvia przygarnia porzuconą suczkę. Więź ze zwierzęciem przywołuje bolesne wspomnienia i niespełnione pragnienia bohaterki.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/la-perra/8675s2r"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "George Michael: The Faith Tour",
-      "genre": "Dokument / muzyczny",
-      "summary": "Odrestaurowany i zremasterowany zapis europejskiej części trasy Faith Tour z 1988 roku, z materiałem nakręconym w paryskiej hali Palais Omnisports de Paris-Bercy.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/george-michael-the-faith-tour/8670s2r"
-    },
-    {
       "date": "2026-11-11",
+      "title": "Nasza rewolucja",
+      "genre": "Dramat historyczny",
+      "summary": "Portret Jacka i Grażyny Kuroniów, których prywatna relacja splata się z działalnością opozycyjną i walką o wolność w Polsce lat 80.",
+      "sourceUrl": "https://next-film.pl/film/nasza-rewolucja-historia-milosci-grazyny-i-jacka-kuroniow/"
+    },
+    {
+      "date": "2026-11-13",
       "title": "Victorian Psycho",
       "genre": "Horror gotycki",
-      "summary": "Guwernantka przybywa do ponurej posiadłości Ensor House. Jej poprzednie miejsca pracy łączy seria tajemniczych tragedii, a nowy dom szybko odsłania mroczną stronę bohaterki.",
-      "sourceUrl": "https://pr.kinoswiat.pl/471594-zobacz-zwiastun-zachwycajaco-nieprzyzwoitego-horroru-victorian-psycho"
+      "summary": "Guwernantka przybywa do posępnej posiadłości Ensor House. Jej poprzednie miejsca pracy łączy seria tajemniczych tragedii, a nowy dom szybko odsłania mroczną stronę bohaterki.",
+      "sourceUrl": "https://kinoswiat.pl/film/victorian-psycho/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Dziki koń dziewięć",
+      "genre": "Thriller / dramat",
+      "summary": "Krótko przed zamachem stanu w Chile agenci CIA trafiają na Wyspę Wielkanocną. Dawne sekrety, polityczne spiski i napięcia między bohaterami zaczynają wymykać się spod kontroli.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/dziki-kon-dziewiec/8161s2r"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Jak obrabować bank",
+      "genre": "Kryminał / thriller",
+      "summary": "Gang transmitujący napady w mediach społecznościowych zwraca na siebie uwagę FBI i specjalistki od oprogramowania. Stawka rośnie wraz z przygotowaniami do największego skoku.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/jak-obrabowac-bank/8309s2r"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Ebenezer Scrooge. Opowieść wigilijna",
+      "genre": "Fantasy",
+      "summary": "Nowa ekranizacja klasycznej opowieści Dickensa. Skąpiec zostaje skonfrontowany z własną przeszłością, teraźniejszością i przyszłością przez wizyty niezwykłych duchów.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/ebenezer-scrooge-opowiesc-wigilijna/8344s2r"
     },
     {
       "date": "2026-11-20",
-      "title": "TEDE. Forever Rap",
-      "genre": "Dokument / muzyczny",
-      "summary": "Portret Jacka Granieckiego zbudowany m.in. z prywatnych archiwów z lat 1993–2002. Powrót do początków polskiego hip-hopu i podróż do Nowego Jorku po 22 latach.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/tede-forever-rap/8669o2r"
-    },
-    {
-      "date": "2026-11-27",
-      "title": "Violetta Villas",
-      "genre": "Biograficzny / dramat",
-      "summary": "Historia Czesławy Gospodarek, która jako Violetta Villas zdobyła światowe sceny. Film pokazuje jej drogę do sławy z perspektywy dorastającego syna.",
-      "sourceUrl": "https://pr.kinoswiat.pl/471995-violetta-villas-oficjalny-zwiastun-filmu-o-legendarnej-artystce"
-    },
-    {
-      "date": "2026-11-27",
-      "title": "Poznaj swojego teścia",
-      "genre": "Komedia",
-      "summary": "Greg Focker ponownie spotyka się z Jackiem Byrnesem, byłym agentem CIA. Czwarta część serii stawia na rodzinne nieporozumienia i komediowe starcie dwóch charakterów.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/poznaj-swojego-tescia/8181s2r"
+      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+      "genre": "Sci-fi / akcja",
+      "summary": "Na długo przed historią Katniss młody Haymitch zostaje wylosowany do brutalnej edycji Głodowych Igrzysk. Musi zmierzyć się z areną i systemem, który odbiera ludziom nadzieję.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/igrzyska-smierci-wschod-slonca-w-dniu-dozynek/7803s2r"
     }
   ],
   "film": {
-    "title": "To: Rozdział 2",
-    "year": "2019",
-    "platform": "Netflix",
-    "summary": "Dorośli już przyjaciele wracają do Derry, gdy po latach ponownie budzi się tam zło. Mroczny horror o pamięci, dawnych lękach i powrocie do miejsca, które nie pozwala o sobie zapomnieć.",
-    "availabilityNote": "JustWatch Polska sprawdził katalog 3 listopada 2026 i wskazuje film w abonamencie Netflix; nie jest to oferta wyłącznie wypożyczenia ani zakupu.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/to-rozdzial-2"
+    "title": "Suspiria",
+    "year": "2018",
+    "platform": "Prime Video",
+    "summary": "Amerykańska baletnica rozpoczyna naukę w prestiżowej berlińskiej akademii tańca. Za perfekcyjną fasadą szkoły kryją się mroczne sekrety, a atmosfera stopniowo zmienia się w hipnotyczny, psychodeliczny koszmar.",
+    "availabilityNote": "JustWatch Polska sprawdził katalog 5 listopada 2026 r. i wskazuje Suspiria w abonamencie Amazon Prime Video; osobno wymienia też opcje wypożyczenia i zakupu.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/suspiria"
   },
-  "editorialUpdatedAt": "2026-11-06",
-  "editorialHash": "4022e8f5d03a7fe404c3ccb26e0791228f2f715310af3cefad7ce57283dfc597"
+  "editorialUpdatedAt": "2026-11-07",
+  "editorialHash": "5a9353b8667f9c3f3cce9f9bb61b68d1e1bc32e33c21623c22891a03d8fbbe66"
 }
