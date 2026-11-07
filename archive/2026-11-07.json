@@ -1,17 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T16:01+01:00",
+  "updatedAt": "2026-11-07T16:23+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Pudełkowe Dragon Quest Treasures na Nintendo Switch za 49,99 zł na Allegro",
-    "summary": "Fani japońskich RPG-ów i serii Dragon Quest mogą obecnie tanio zgarnąć pudełkowe wydanie Dragon Quest Treasures na Nintendo Switch. Produkcja Square Enix stawia na eksplorację rozległego świata, poszukiwanie skarbów oraz rekrutowanie potworów, które pomagają podczas kolejnych wypraw. Fizyczną wersję gry na kartridżu kupicie teraz na Allegro za 49,99 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-dragon-quest-treasures-na-nintendo-switch-za-4999-zl-na-allegro/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Dragon-Quest-Treasures_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Nie EA, lecz Activision Blizzard jest najgorszą korporacją. Twórcy gier płacą straszliwą cenę za rezygnację z wolności",
+    "summary": "Wielkie korporacje chętnie przejmują uznane studia, ale przyszłość tych ostatnich nie zawsze napawa optymizmem. Z raportu obejmującego blisko 400 zespołów wynika, że ponad 60% z nich po zmianie właściciela obniżyło jakość swoich gier lub zakończyło działalność. Informacja Nie EA, lecz Activision Blizzard jest najgorszą korporacją. Twórcy gier płacą straszliwą cenę za rezygnację z wolności została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nie-ea-lecz-activision-blizzard-jest-najgorsza-korporacja-tworcy/z432276",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531763281.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nie EA, lecz Activision Blizzard jest najgorszą korporacją. Twórcy gier płacą straszliwą cenę za rezygnację z wolności",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nie-ea-lecz-activision-blizzard-jest-najgorsza-korporacja-tworcy/z432276",
+      "publishedAt": "2026-11-07T17:06+01:00",
+      "summary": "Wielkie korporacje chętnie przejmują uznane studia, ale przyszłość tych ostatnich nie zawsze napawa optymizmem. Z raportu obejmującego blisko 400 zespołów wynika, że ponad 60% z nich po zmianie właściciela obniżyło jakość swoich gier lub zakończyło działalność. Informacja Nie EA, lecz Activision Blizzard jest najgorszą korporacją. Twórcy gier płacą straszliwą cenę za rezygnację z wolności została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531763281.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Spider-Man: Całkiem nowy dzień zdziałał cuda. Sprzedaż gier Insomniac Games zaliczyła rekordowy skok",
+      "sourceUrl": "https://www.ppe.pl/news/432460/spider-man-calkiem-nowy-dzien-zdzialal-cuda-sprzedaz-gier-insomniac-games-zaliczyla-rekordowy-skok.html",
+      "publishedAt": "2026-11-07T16:21+01:00",
+      "summary": "Marka Spider-Man jest bez wątpienia jedną z największych i najważniejszych w całej branży rozrywkowej, co tyczy się zarówno komiksów, kina jak i gier wideo, a że dziś wszystko jest ze sobą połączone, sukces jednego medium wpływa na kolejne.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Christopher Lloyd: „Za każdym razem, gdy oglądam Powrót do przyszłości 3 i widzę tę scenę, wciąż czuję ukłucie żalu”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/christopher-lloyd-za-kazdym-razem-gdy-ogladam-powrot-do-przyszlos/zd32206",
+      "publishedAt": "2026-11-07T16:02+01:00",
+      "summary": "Christopher Lloyd w nowej biografii wspomina scenę z Powrotu do przyszłości 3, na myśl o której wciąż odczuwa żal. Informacja Christopher Lloyd: „Za każdym razem, gdy oglądam Powrót do przyszłości 3 i widzę tę scenę, wciąż czuję ukłucie żalu” została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531489909.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Pudełkowe Dragon Quest Treasures na Nintendo Switch za 49,99 zł na Allegro",
@@ -90,6 +116,15 @@
       "category": "WIADOMOŚCI"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "„To nie była szczególnie satysfakcjonująca rola”. 31 lat temu ta gwiazda odrzuciła rolę w arcydziele Clinta Eastwooda i miała ku temu dobry powód",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/to-nie-byla-szczegolnie-satysfakcjonujaca-rola-31-lat-temu-ta-gwi/zd321af",
+      "publishedAt": "2026-11-07T14:02+01:00",
+      "summary": "Hollywoodzki gwiazdor odrzucił rolę w cenionym filmie Clinta Eastwooda. Nie spodobał mu się wątek, który uznał za zbędny i mało interesujący. Informacja „To nie była szczególnie satysfakcjonująca rola”. 31 lat temu ta gwiazda odrzuciła rolę w arcydziele Clinta Eastwooda i miała ku temu dobry powód została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531318469.jpg"
+    },
+    {
       "sourceName": "PPE",
       "title": "Film Elden Ring ma kosztować prawie 200 MILIONÓW dolarów. A24 właśnie stawia wszystko na jedną kartę",
       "sourceUrl": "https://www.ppe.pl/publicystyka/431754/film-elden-ring-ma-kosztowac-prawie-200-milionow-dolarow-a24-wlasnie-stawia-wszystko-na-jedna-karte.html",
@@ -105,6 +140,15 @@
       "summary": "Łowcy, przedstawiamy Wam pierwszą w listopadzie odsłonę artykułu prezentującego darmowe gry na PC i konsole, a także omawiającego produkcje, które w ciągu ostatnich siedmiu dni dołączyły do biblioteki największych abonamentów, takich jak Xbox Game Pass, PlayStation Plus czy Amazon Luna (wcześniej znanej jako Prime Gaming) . Dzięki naszemu wpisowi pozostaniecie na bieżąco z nowościami, a także zgarniecie kilka fajnych gier za darmo. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Za-darmo-to-uczciwa-cena.-Najlepsze-darmowe-gry-na-PC-i-konsole-23.08_miniaturka3-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ponad 16 miliardów euro, powierzchnia równa 1 300 boisk piłkarskich i cel na poziomie 1 terawata: Elon Musk ogłasza powstanie „największej na świecie fabryki chipów AI” o nazwie Terafab, a plany stają się coraz bardziej konkretne",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-16-miliardow-euro-powierzchnia-rowna-1-300-boisk-pilkarskic/ze3223d",
+      "publishedAt": "2026-11-07T14:00+01:00",
+      "summary": "Elon Musk chce w rekordowym tempie uruchomić jedną z największych fabryk układów scalonych na świecie. W ten sposób miliarder planuje uniezależnić się od tajwańskich i południowokoreańskich producentów. Informacja Ponad 16 miliardów euro, powierzchnia równa 1 300 boisk piłkarskich i cel na poziomie 1 terawata: Elon Musk ogłasza powstanie „największej na świecie fabryki chipów AI” o nazwie Terafab, a plany stają się coraz bardziej konkretne została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531586370.jpg"
     },
     {
       "sourceName": "CD-Action",
