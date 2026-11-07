@@ -1,17 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T11:01+01:00",
+  "updatedAt": "2026-11-07T12:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„To było strasznym doświadczeniem”. To miała być rola życia, a zamieniła się w koszmar. Dustin Hoffman dostał 27 razy w twarz na planie klasyka",
-    "summary": "Dustin Hoffman wrócił wspomnieniami do koszmarnych wydarzeń, które rozegrały się na planie kluczowego dla jego kariery filmu. Mimo że zmienił on jego życie, prace nad nim nazywa „strasznym doświadczeniem”. Informacja „To było strasznym doświadczeniem”. To miała być rola życia, a zamieniła się w koszmar. Dustin Hoffman dostał 27 razy w twarz na planie klasyka została opublikowana przez GRYOnline.pl 7 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/to-bylo-strasznym-doswiadczeniem-to-miala-byc-rola-zycia-a-zamien/zb321da",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531407351.jpg"
+    "title": "Pamiętacie \"168 in 1\"? - biegaliśmy po te kartridże dla dwóch gier!",
+    "summary": "Choć to właśnie PlayStation przyczyniło się do popularności konsol w Polsce, lecz prawdziwy chrzest przeszliśmy za czasów Pegasusa. Oto maszynka, która zdefiniowała niejedno dzieciństwo, stworzyła pasję wśród wielu z nas. Nie była produk...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/432399/pamietacie-168-in-1-biegalismy-po-te-kartridze-dla-dwoch-gier.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Pamiętacie \"168 in 1\"? - biegaliśmy po te kartridże dla dwóch gier!",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432399/pamietacie-168-in-1-biegalismy-po-te-kartridze-dla-dwoch-gier.html",
+      "publishedAt": "2026-11-07T12:00+01:00",
+      "summary": "Choć to właśnie PlayStation przyczyniło się do popularności konsol w Polsce, lecz prawdziwy chrzest przeszliśmy za czasów Pegasusa. Oto maszynka, która zdefiniowała niejedno dzieciństwo, stworzyła pasję wśród wielu z nas. Nie była produk...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 otrzymało najwyższą możliwą kategorię w Japonii. Powraca pytanie o ocenzurowaną wersję gry...",
+      "sourceUrl": "https://www.ppe.pl/news/432397/gta-6-otrzymalo-najwyzsza-mozliwa-kategorie-w-japonii-powraca-pytanie-o-ocenzurowana-wersje-gry.html",
+      "publishedAt": "2026-11-07T11:30+01:00",
+      "summary": "Japońscy gracze muszą przygotować się na najbardziej dojrzałą odsłonę serii. GTA 6 oficjalnie otrzymało klasyfikację CERO Z, czyli najwyższą kategorię wiekową dostępną w Japonii, przeznaczoną wyłącznie dla osób pełnoletnich. Oznacze...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy God of War na PS4! Sony szuka dodatkowych pieniędzy",
+      "sourceUrl": "https://www.ppe.pl/news/432404/nowy-god-of-war-na-ps4-sony-szuka-dodatkowych-pieniedzy.html",
+      "publishedAt": "2026-11-07T11:13+01:00",
+      "summary": "Wygląda na to, że Sony postanowiło wycisnąć ze swojej popularnej marki jeszcze więcej soków i planuje poszerzyć grono odbiorców pewnego nietypowego tytułu.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„To było strasznym doświadczeniem”. To miała być rola życia, a zamieniła się w koszmar. Dustin Hoffman dostał 27 razy w twarz na planie klasyka",
