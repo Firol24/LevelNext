@@ -1,17 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T17:01+01:00",
+  "updatedAt": "2026-11-07T18:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nie EA, lecz Activision Blizzard jest najgorszą korporacją. Twórcy gier płacą straszliwą cenę za rezygnację z wolności",
-    "summary": "Wielkie korporacje chętnie przejmują uznane studia, ale przyszłość tych ostatnich nie zawsze napawa optymizmem. Z raportu obejmującego blisko 400 zespołów wynika, że ponad 60% z nich po zmianie właściciela obniżyło jakość swoich gier lub zakończyło działalność. Informacja Nie EA, lecz Activision Blizzard jest najgorszą korporacją. Twórcy gier płacą straszliwą cenę za rezygnację z wolności została opublikowana przez GRYOnline.pl 7 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nie-ea-lecz-activision-blizzard-jest-najgorsza-korporacja-tworcy/z432276",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531763281.jpg"
+    "title": "Kazali „iść grać w GTA 6”, ale kłamali. Sezon 3. wyniesie walkę w strzelance Wardogs na zupełnie nowy poziom",
+    "summary": "Studio Bulkhead Interactive szykuje trzeci sezon Wardogs, który ma przynieść graczom nowe pole bitwy i więcej swobody w zdobywaniu wyposażenia. Deweloperzy pochwalili się też zablokowaniem 185 tysięcy kont powiązanych z oszustwami. Informacja Kazali „iść grać w GTA 6”, ale kłamali. Sezon 3. wyniesie walkę w strzelance Wardogs na zupełnie nowy poziom została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/kazali-isc-grac-w-gta-6-ale-klamali-sezon-3-wyniesie-walke-w-strz/z532277",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531770116.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kazali „iść grać w GTA 6”, ale kłamali. Sezon 3. wyniesie walkę w strzelance Wardogs na zupełnie nowy poziom",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kazali-isc-grac-w-gta-6-ale-klamali-sezon-3-wyniesie-walke-w-strz/z532277",
+      "publishedAt": "2026-11-07T18:56+01:00",
+      "summary": "Studio Bulkhead Interactive szykuje trzeci sezon Wardogs, który ma przynieść graczom nowe pole bitwy i więcej swobody w zdobywaniu wyposażenia. Deweloperzy pochwalili się też zablokowaniem 185 tysięcy kont powiązanych z oszustwami. Informacja Kazali „iść grać w GTA 6”, ale kłamali. Sezon 3. wyniesie walkę w strzelance Wardogs na zupełnie nowy poziom została opublikowana przez GRYOnline.pl 7 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531770116.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zawartość pudełek z GTA VI ujawniona! Rockstar Games zaskakuje, a kolekcjonerzy już zacierają ręce",
+      "sourceUrl": "https://www.ppe.pl/news/432464/zawartosc-pudelek-z-gta-vi-ujawniona-rockstar-games-zaskakuje-a-kolekcjonerzy-juz-zacieraja-rece.html",
+      "publishedAt": "2026-11-07T17:51+01:00",
+      "summary": "Wiele się ostatnio mówiło o Grand Theft Auto VI i mitycznej pudełkowej edycji gry, która według wielu plotek ma być bardzo rozczarowująca, zwłaszcza dla fanów zbierania pudełek z grami.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Monitor gamingowy AOC 27″ QHD 260 Hz za 669 zł (130 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/monitor-gamingowy-aoc-27%e2%80%b3-qhd-260-hz-za-669-zl-130-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-07T17:30+01:00",
+      "summary": "W ramach Black Weeks w x-kom pojawiła się bardzo dobra oferta na gamingowy monitor AOC CQ27G4Z2. Model wyposażono w zakrzywioną, 27-calową matrycę Fast VA o rozdzielczości 2560 x 1440 pikseli, odświeżaniu do 260 Hz w QHD oraz specjalnym trybie HD 400 Hz, a całość uzupełniają czas reakcji 1 ms, Adaptive-Sync i DisplayHDR 400. Po wykorzystaniu kodu rabatowego zapłacicie za niego 669 zł zamiast 799 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-AOC-CQ27G4Z2_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS4 umiera. Najlepsza generacja konsol od Sony odchodzi do lamusa",
+      "sourceUrl": "https://www.ppe.pl/news/432462/ps4-umiera-najlepsza-generacja-konsol-od-sony-odchodzi-do-lamusa.html",
+      "publishedAt": "2026-11-07T17:07+01:00",
+      "summary": "Wszystko ma swój początek i koniec, a wydłużający się czas życia wysłużonych konsol w końcu musi dobiec momentu, w którym technologiczna rzeczywistość dogania nawet najpopularniejszy sprzęt.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nie EA, lecz Activision Blizzard jest najgorszą korporacją. Twórcy gier płacą straszliwą cenę za rezygnację z wolności",
