@@ -81,7 +81,7 @@ function updateFullPreview(){
   if(op==='edit'){const old=doc.querySelector('[data-cms-id="'+CSS.escape(id)+'"]');if(old)old.remove();}
   const panels=Array.from(target.querySelectorAll(':scope > .panel'));const pos=Math.max(1,Number($('position').value)||1);
   if(panels.length>=pos)target.insertBefore(draft,panels[pos-1]);else target.append(draft);
-  $('previewStatus').textContent='Podgląd: '+($('page').value)+' / '+column+' / pozycja '+pos;
+  $('previewStatus').textContent='Podgląd: '+($('page').value)+' / '+column+' / pozycja '+pos+(Object.keys(pendingEdits).length?' / zachowano roboczą edycję: '+Object.keys(pendingEdits).length:'');
  }catch(error){$('previewStatus').textContent='Nie udało się zaktualizować podglądu.';}
 }
 function startPreviewRefresh(){let attempts=0;const timer=setInterval(()=>{attempts++;try{if($('liveFrame').contentDocument.querySelector('.layout')&&$('liveFrame').contentDocument.documentElement.dataset.cmsLoaded==='true'){updateFullPreview();clearInterval(timer);}}catch(e){}if(attempts>=40){clearInterval(timer);$('previewStatus').textContent='Podgląd nie odpowiada. Kliknij Odśwież podstronę.';}},250);}
