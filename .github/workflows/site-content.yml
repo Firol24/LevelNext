@@ -19,7 +19,7 @@ jobs:
           ISSUE_BODY: \${{ github.event.issue.body }}
         run: |
           python - <<'PY'
-          import json, os, re, sys, uuid
+          import json, os, re, sys, uuid, html as html_module
           from datetime import datetime, timezone
           from pathlib import Path
           body = os.environ.get("ISSUE_BODY", "")
@@ -27,6 +27,77 @@ jobs:
               m = re.search(r"^### " + re.escape(name) + r"\s*\n([\s\S]*?)(?=\n### |\Z)", body, re.M)
               return m.group(1).strip() if m else ""
           op = field("Operacja").lower()
+          native = field("Typ bloku").lower() == "yes"
+          if native:
+              allowed = {"index.html","o-nas.html","materialy.html","retro-misja.html","sprzet.html","opinie.html","archiwum.html","kontakt.html","pobieranie.html"}
+              page = field("Podstrona")
+              column = field("Kolumna")
+              if page not in allowed or column not in {"leftcol","maincol","rightcol"}:
+                  sys.exit("Niedozwolona podstrona lub kolumna.")
+              source_heading = field("Nagłówek źródłowy")
+              new_heading = field("Nagłówek")
+              new_body = field("Treść")
+              if not source_heading or not new_heading or not new_body or len(new_body) > 30000:
+                  sys.exit("Brak nagłówka źródłowego, nowego nagłówka lub treści HTML.")
+              path = Path(page)
+              html = path.read_text(encoding="utf-8")
+              tag_re = re.compile(r"<section\b[^>]*>|</section>", re.I)
+              panels = []
+              for match in re.finditer(r"<section\b(?=[^>]*\bclass=[\"'][^\"']*\bpanel\b)[^>]*>", html, re.I):
+                  depth = 1
+                  end = None
+                  for token in tag_re.finditer(html, match.end()):
+                      if token.group(0).lower().startswith("<section"):
+                          depth += 1
+                      else:
+                          depth -= 1
+                          if depth == 0:
+                              end = token.end()
+                              break
+                  if end is not None:
+                      panels.append((match.start(), end, html[match.start():end]))
+              column_re = re.compile(r"<(?:aside|div)\b[^>]*\bclass=[\"']col\s+(leftcol|maincol|rightcol)[\"'][^>]*>", re.I)
+              columns = list(column_re.finditer(html))
+              candidates = []
+              for start, end, panel in panels:
+                  parent = next((c for c in reversed(columns) if c.start() < start), None)
+                  if not parent or parent.group(1) != column:
+                      continue
+                  heading_match = re.search(r"<h[1-6]\b[^>]*>([\s\S]*?)</h[1-6]>", panel, re.I)
+                  if not heading_match:
+                      continue
+                  visible = html_module.unescape(re.sub(r"<[^>]+>", "", heading_match.group(1))).strip()
+                  if visible == source_heading:
+                      candidates.append((start, end, panel))
+              occurrence = int(field("Wystąpienie") or 0)
+              if occurrence < 0 or occurrence >= len(candidates):
+                  sys.exit("Nie znaleziono wybranego panelu. Odśwież panel administratora.")
+              start, end, panel = candidates[occurrence]
+              heading_match = re.search(r"(<h[1-6]\b[^>]*>)([\s\S]*?)(</h[1-6]>)", panel, re.I)
+              if not heading_match:
+                  sys.exit("Wybrany panel nie ma nagłówka.")
+              panel = panel[:heading_match.start()] + heading_match.group(1) + html_module.escape(new_heading) + heading_match.group(3) + panel[heading_match.end():]
+              body_open = re.search(r"<div\b(?=[^>]*\bclass=[\"'][^\"']*\bpanelbody\b)[^>]*>", panel, re.I)
+              if not body_open:
+                  sys.exit("Wybrany panel nie ma sekcji panelbody.")
+              div_tokens = re.compile(r"<div\b[^>]*>|</div>", re.I)
+              depth = 1
+              body_end = None
+              for token in div_tokens.finditer(panel, body_open.end()):
+                  if token.group(0).lower().startswith("<div"):
+                      depth += 1
+                  else:
+                      depth -= 1
+                      if depth == 0:
+                          body_end = token.start()
+                          break
+              if body_end is None:
+                  sys.exit("Nie udało się odczytać zawartości panelbody.")
+              panel = panel[:body_open.end()] + new_body + panel[body_end:]
+              html = html[:start] + panel + html[end:]
+              path.write_text(html, encoding="utf-8")
+              print("Zaktualizowano istniejący panel:", source_heading, "na", page)
+              raise SystemExit(0)
           data_path = Path("data/site-content.json")
           data = json.loads(data_path.read_text(encoding="utf-8")) if data_path.exists() else {"blocks":[],"history":[]}
           blocks = data.setdefault("blocks", [])
@@ -73,7 +144,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/site-content.json
+          git add -A
           git diff --cached --quiet && exit 0
           git commit -m "Update LEVEL NEXT website content"
           git push
