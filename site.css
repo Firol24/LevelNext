@@ -196,3 +196,25 @@ h1,h2,h3{line-height:1.25}
 .archive-promo p{margin:5px 0;font:10px Verdana,Arial,sans-serif}
 @media(max-width:620px){.copyright-line{font-size:10px}.webcore-callout{align-items:flex-start;flex-direction:column}.security-sticker{flex-wrap:wrap}}
 @media(prefers-reduced-motion:reduce){.web-note-icon,.hardware-led{animation:none!important}}
+
+
+/* WIADOMOSC DNIA: MARQUEE OGRANICZONY DO WLASNEGO POLA */
+.ticker{width:100%;min-width:0;overflow:hidden}
+.ticker>b{flex:0 0 auto}
+.ticker-window{position:relative;flex:1 1 0%;min-width:0;max-width:100%;height:28px;overflow:hidden;white-space:nowrap}
+.ticker-track{display:inline-block;width:max-content;min-width:100%;padding:0 0 0 14px;line-height:28px;white-space:nowrap;animation:tickerScroll 28s linear infinite}
+.ticker:hover .ticker-track{animation-play-state:paused}
+@keyframes tickerScroll{0%{transform:translateX(0)}100%{transform:translateX(-45%)}}
+.page-gif-row{display:flex;align-items:center;justify-content:flex-start;gap:9px;margin:12px 0 2px;padding:7px 8px;background:#170f20;border:1px dotted #76588d}
+.page-gif-row img{display:block;flex:0 0 88px;width:88px;height:31px;object-fit:contain}
+.page-gif-row span{color:#bcaecb;font:9px "Courier New",monospace;letter-spacing:.06em}
+@media(max-width:620px){.ticker-window{height:26px}.ticker-track{line-height:26px;animation-duration:34s}.page-gif-row{flex-wrap:wrap}}
+@media(prefers-reduced-motion:reduce){.ticker-track{animation:none!important}}
+
+.download-hero{display:flex;align-items:center;gap:12px;margin-top:12px;padding:10px;background:#100b17;border:2px ridge #76588d}
+.download-hero img{display:block;flex:0 0 88px;width:88px;height:31px;object-fit:contain}
+.download-hero strong,.download-empty strong{display:block;color:#ffdf69;font:bold 11px Verdana,Arial,sans-serif}
+.download-hero span{display:block;margin-top:4px;color:#bcaecb;font:9px "Courier New",monospace}
+.download-empty{display:flex;align-items:center;gap:12px;padding:12px;background:#170f20;border:1px dashed #76588d}
+.download-empty p{margin:5px 0 0;font:11px Verdana,Arial,sans-serif}
+.download-icon{color:#a77be0;font:28px "Courier New",monospace}
