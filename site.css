@@ -166,3 +166,8 @@ h1,h2,h3{line-height:1.25}
 .panelhead h2:before,.panelhead h3:before{content:"◆";display:inline-block;margin-right:6px;color:#c4a2e8;font-size:8px;vertical-align:2px}
 .winamp-window.is-playing .winamp-spectrum i{animation:winampSpectrum .48s ease-in-out infinite alternate}
 @media(prefers-reduced-motion:reduce){.ticker span,.led,.mission-console.is-rolling .mission-spinner,.mission-button.is-rolling .button-icon,.mission-result.mission-reveal,.winamp-window.is-playing .winamp-spectrum i{animation:none!important}}
+
+
+/* STOPKA: GIF-Y BEZ ODNOSNIKOW */
+.footer-copyright-gif{display:inline-block;width:88px;height:31px;object-fit:contain;vertical-align:middle;margin-left:5px}
+.retro-badges img{display:block;width:88px;height:31px;object-fit:contain}
