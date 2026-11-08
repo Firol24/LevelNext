@@ -146,23 +146,60 @@
       document.addEventListener("pointercancel", endDrag);
     }
 
-    var roll = document.getElementById("rollMission");
-    if (roll) {
-      var missions = [
-        "Uruchom grę z 2004 roku i spędź z nią 30 minut.",
-        "Włącz konsolę, której dawno nie używałeś.",
-        "Znajdź instrukcję starego urządzenia z kolekcji.",
-        "Zrób zrzut ekranu z gry, do której wracasz od lat.",
-        "Przejdź jeden poziom bez poradnika i save state.",
-        "Odszukaj demo gry z dawnej płyty lub magazynu."
-      ];
-      roll.addEventListener("click", function () {
-        var node = document.getElementById("mission");
-        if (node) {
-          node.textContent = missions[Math.floor(Math.random() * missions.length)];
-        }
+    // Wspolny generator misji dla strony glownej i osobnej podstrony.
+    var missions = [
+      "Uruchom grę z 2004 roku i spędź z nią 30 minut.",
+      "Włącz konsolę, której dawno nie używałeś.",
+      "Znajdź instrukcję starego urządzenia z kolekcji.",
+      "Zrób zrzut ekranu z gry, do której wracasz od lat.",
+      "Przejdź jeden poziom bez poradnika i save state.",
+      "Odszukaj demo gry z dawnej płyty lub magazynu.",
+      "Włącz ulubioną grę z dzieciństwa i sprawdź, jak się zestarzała.",
+      "Zagraj przez pół godziny na konsoli zamiast na komputerze.",
+      "Znajdź starą grę freeware i uruchom ją na swoim sprzęcie.",
+      "Przejrzyj instrukcję lub pudełko gry, które nadal masz.",
+      "Uruchom grę bez muzyki w tle i wsłuchaj się w jej oryginalne dźwięki.",
+      "Odwiedź lokację w grze, którą dobrze pamiętasz.",
+      "Poszukaj zapomnianego dema z epoki płyt CD.",
+      "Zrób zdjęcie swojego retro stanowiska do archiwum."
+    ];
+    function setupMission(buttonId, resultId, stateId) {
+      var button = document.getElementById(buttonId);
+      var result = document.getElementById(resultId);
+      var status = document.getElementById(stateId);
+      if (!button || !result) return;
+      button.addEventListener("click", function () {
+        if (button.disabled) return;
+        button.disabled = true;
+        button.classList.add("is-rolling");
+        if (status) status.textContent = "LOSOWANIE W TOKU...";
+        result.classList.remove("mission-reveal");
+        result.classList.add("is-shuffling");
+        var started = Date.now();
+        var duration = 1450;
+        var interval = window.setInterval(function () {
+          result.textContent = missions[Math.floor(Math.random() * missions.length)];
+          if (Date.now() - started >= duration) {
+            window.clearInterval(interval);
+            result.textContent = missions[Math.floor(Math.random() * missions.length)];
+            result.classList.remove("is-shuffling");
+            result.classList.add("mission-reveal");
+            button.classList.remove("is-rolling");
+            button.disabled = false;
+            if (status) status.textContent = "MISSION SELECTED // POWODZENIA!";
+          }
+        }, 95);
       });
     }
+    setupMission("rollMission", "mission", "missionState");
+    setupMission("rollRetro", "retro-action", "retroMissionState");
+
+    // Zaznaczenie aktywnej zakladki na kazdej podstronie.
+    var currentPage = (window.location.pathname.split("/").pop() || "index.html").toLowerCase();
+    document.querySelectorAll(".nav a").forEach(function (link) {
+      var target = (link.getAttribute("href") || "").split("#")[0].toLowerCase();
+      if (target === currentPage) link.setAttribute("aria-current", "page");
+    });
   }
 
   if (document.readyState === "loading") {
