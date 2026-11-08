@@ -37,7 +37,7 @@ function renderBlock(b,draft=false){
 function preview(){updateFullPreview();}
 function capturePendingEdit(){
  const id=$('block').value;
- if($('operation').value!=='edit'||!id||id.startsWith('native|'))return;
+ if(!id||id.startsWith('native|'))return;
  pendingEdits[id]={title:$('title').value,body:$('body').value,image:$('image').value,link:$('link').value,page:$('page').value,column:$('column').value,position:$('position').value};
 }
 function applyPendingEdits(doc){
