@@ -104,6 +104,8 @@ function refresh(){
 }
 async function loadSelected(){
  const selected=$('block').value;
+ if(!selected)return;
+ $('operation').value='edit';
  if(selected.startsWith('native|')){
   $('operation').value='edit';
   ['title','body','page','column','position'].forEach(id=>$(id).disabled=false);
