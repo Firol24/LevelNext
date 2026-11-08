@@ -1,17 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T11:01+01:00",
+  "updatedAt": "2026-11-08T12:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Darmowe Path of Exile 2 otrzyma finał kampanii, nowe klasy postaci i mechanikę inspirowaną Heores of Might and Magic",
-    "summary": "Grinding Gear Games przedstawiło szczegóły dużej aktualizacji 1.0 do Path of Exile 2. Na graczy czekają przede wszystkim dwa finałowe akty kampanii oraz nowe klasy postaci. Poznaliśmy również zawartość kolejnej ligi do pierwszego PoE. Informacja Darmowe Path of Exile 2 otrzyma finał kampanii, nowe klasy postaci i mechanikę inspirowaną Heores of Might and Magic została opublikowana przez GRYOnline.pl 8 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/darmowe-path-of-exile-2-otrzyma-final-kampanii-nowe-klasy-postaci/zf3227a",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531830369.jpg"
+    "title": "3 dni po premierze, a gracze WoW Forever już „stworzyli historię”. To największa premiera w dziejach serii Blizzarda",
+    "summary": "World of Warcraft: Forever zaliczyło największy debiut w historii serii pod względem liczby jednocześnie grających osób. Produkcja przyciągnęła również rekordową liczbę powracających użytkowników. Informacja 3 dni po premierze, a gracze WoW Forever już „stworzyli historię”. To największa premiera w dziejach serii Blizzarda została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/3-dni-po-premierze-a-gracze-wow-forever-juz-stworzyli-historie-to/z13227c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531834327.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "3 dni po premierze, a gracze WoW Forever już „stworzyli historię”. To największa premiera w dziejach serii Blizzarda",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/3-dni-po-premierze-a-gracze-wow-forever-juz-stworzyli-historie-to/z13227c",
+      "publishedAt": "2026-11-08T12:46+01:00",
+      "summary": "World of Warcraft: Forever zaliczyło największy debiut w historii serii pod względem liczby jednocześnie grających osób. Produkcja przyciągnęła również rekordową liczbę powracających użytkowników. Informacja 3 dni po premierze, a gracze WoW Forever już „stworzyli historię”. To największa premiera w dziejach serii Blizzarda została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531834327.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Marzyłem o nich za dzieciaka, a teraz Sony je wskrzesza i to w niezłej cenie. Na pewno kupię legendarne słuchawki",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/marzylem-o-nich-za-dzieciaka-a-teraz-sony-je-wskrzesza-i-to-w-nie/z03227b",
+      "publishedAt": "2026-11-08T12:18+01:00",
+      "summary": "Kto kiedyś biegał z walkmanem przy pasku, ten rozpozna je od razu. Słuchawki z 1979 roku wracają do sklepów, tyle że zamiast mini-jacka mają wtyczkę jak od ładowarki do telefonu. Informacja Marzyłem o nich za dzieciaka, a teraz Sony je wskrzesza i to w niezłej cenie. Na pewno kupię legendarne słuchawki została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531832728.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 6 dni na HBO Max: jeden z najlepszych filmów science fiction ostatnich lat, który zachwyca piękną oprawą wizualną",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-6-dni-na-hbo-max-jeden-z-najlepszych-filmow-science-fiction-os/ze3225b",
+      "publishedAt": "2026-11-08T12:02+01:00",
+      "summary": "HBO Max za kilka dni w swojej ofercie będzie miało przepiękne widowisko science fiction, które może poruszyć widzów. Informacja Za 6 dni na HBO Max: jeden z najlepszych filmów science fiction ostatnich lat, który zachwyca piękną oprawą wizualną została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531663182.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nieoczywista gra z konwencją kina sensacyjnego. Trzymający w napięciu thriller ery VHS",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432276/nieoczywista-gra-z-konwencja-kina-sensacyjnego-trzymajacy-w-napieciu-thriller-ery-vhs.html",
+      "publishedAt": "2026-11-08T12:00+01:00",
+      "summary": "Dokładnie trzydzieści lat temu miała miejsce premiera „Okupu“ Rona Howarda. Głośnego filmu sensacyjnego, osnutego wokół dość standardowego motywu porwania syna bogatego biznesmena, do którego później odzywają się porywacze, żądając ...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Darmowe Path of Exile 2 otrzyma finał kampanii, nowe klasy postaci i mechanikę inspirowaną Heores of Might and Magic",
@@ -20,6 +55,22 @@
       "summary": "Grinding Gear Games przedstawiło szczegóły dużej aktualizacji 1.0 do Path of Exile 2. Na graczy czekają przede wszystkim dwa finałowe akty kampanii oraz nowe klasy postaci. Poznaliśmy również zawartość kolejnej ligi do pierwszego PoE. Informacja Darmowe Path of Exile 2 otrzyma finał kampanii, nowe klasy postaci i mechanikę inspirowaną Heores of Might and Magic została opublikowana przez GRYOnline.pl 8 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531830369.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Moja szczera opinia o remake'u Ocarina of Time",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432498/moja-szczera-opinia-o-remake-u-ocarina-of-time.html",
+      "publishedAt": "2026-11-08T11:31+01:00",
+      "summary": "Gdy do obecnego świata gier powracają legendy, dzieją się ciekawe rzeczy. Oczekiwania niespecjalnie są wygórowane. Czas bywa oszczędny dla większości hitów sprzed dekad dzięki ich uniwersalnym mechanikom. Fandom powita zasłużone produkcje p...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox z kolejnymi grami! Microsoft ujawnił premiery na następny tydzień",
+      "sourceUrl": "https://www.ppe.pl/news/432475/xbox-z-kolejnymi-grami-microsoft-ujawnil-premiery-na-nastepny-tydzien-1.html",
+      "publishedAt": "2026-11-08T11:30+01:00",
+      "summary": "Końcówka roku to tradycyjnie jeden z najbardziej intensywnych okresów w branży. Premier jest coraz więcej, a obok długo wyczekiwanych hitów regularnie debiutują mniejsze produkcje, które próbują znaleźć dla siebie miejsce w wyjątkowo zatł...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
