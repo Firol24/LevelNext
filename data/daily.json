@@ -1,17 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T12:40+01:00",
+  "updatedAt": "2026-11-08T13:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "3 dni po premierze, a gracze WoW Forever już „stworzyli historię”. To największa premiera w dziejach serii Blizzarda",
-    "summary": "World of Warcraft: Forever zaliczyło największy debiut w historii serii pod względem liczby jednocześnie grających osób. Produkcja przyciągnęła również rekordową liczbę powracających użytkowników. Informacja 3 dni po premierze, a gracze WoW Forever już „stworzyli historię”. To największa premiera w dziejach serii Blizzarda została opublikowana przez GRYOnline.pl 8 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/3-dni-po-premierze-a-gracze-wow-forever-juz-stworzyli-historie-to/z13227c",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531834327.jpg"
+    "title": "Na 11 dni przed premierą GTA 6 pudełkowa wersja gry niesie obietnicę miłej niespodzianki. Wyciekła liczba osiągnięć",
+    "summary": "Wiele wskazuje na to, że gracze, którzy zdecydują się na fizyczną wersję GTA 6, znajdą w pudełku miłą niespodziankę. Wyciekły też nowe szczegóły dotyczące rozmiaru gry i osiągnięć. Informacja Na 11 dni przed premierą GTA 6 pudełkowa wersja gry niesie obietnicę miłej niespodzianki. Wyciekła liczba osiągnięć została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/na-11-dni-przed-premiera-gta-6-pudelkowa-wersja-gry-niesie-obietn/z23227d",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531837542.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Na 11 dni przed premierą GTA 6 pudełkowa wersja gry niesie obietnicę miłej niespodzianki. Wyciekła liczba osiągnięć",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-11-dni-przed-premiera-gta-6-pudelkowa-wersja-gry-niesie-obietn/z23227d",
+      "publishedAt": "2026-11-08T13:39+01:00",
+      "summary": "Wiele wskazuje na to, że gracze, którzy zdecydują się na fizyczną wersję GTA 6, znajdą w pudełku miłą niespodziankę. Wyciekły też nowe szczegóły dotyczące rozmiaru gry i osiągnięć. Informacja Na 11 dni przed premierą GTA 6 pudełkowa wersja gry niesie obietnicę miłej niespodzianki. Wyciekła liczba osiągnięć została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531837542.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To ostatni gwizdek dla Sony, aby PlayStation wróciło na tron",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432154/to-ostatni-gwizdek-dla-sony-aby-playstation-wrocilo-na-tron.html",
+      "publishedAt": "2026-11-08T13:00+01:00",
+      "summary": "Historia branży gier wideo przypomina sinusoidalną falę, w której po głębokich kryzysach i chudych latach zazwyczaj nadchodzi czas spektakularnego odkupienia.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Fire Emblem: Fortune’s Weave na Nintendo Switch 2 za 259,99 zł w Perfect Blue",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-fire-emblem-fortunes-weave-na-nintendo-switch-2-za-25999-zl-w-perfect-blue/",
+      "publishedAt": "2026-11-08T12:53+01:00",
+      "summary": "Fani taktycznych RPG mogą sięgnąć po Fire Emblem: Fortune’s Weave na Nintendo Switch 2, dostępne w sklepie Perfect Blue. Najnowsza odsłona serii łączy turowe bitwy, rozwój drużyny i budowanie relacji między bohaterami z rozbudowaną historią osadzoną w świecie fantasy. Oferta dotyczy pudełkowego wydania na kartridżu, które kupicie aktualnie za 259,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Preorder-Fire-Emblem_-Fortunes-Weave-w-Perfect-Blue.-Pudelko-na-Nintendo-Switch-2-za-27999-zl_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "3 dni po premierze, a gracze WoW Forever już „stworzyli historię”. To największa premiera w dziejach serii Blizzarda",
