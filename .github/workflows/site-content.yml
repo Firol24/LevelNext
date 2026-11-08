@@ -23,7 +23,7 @@ jobs:
           from pathlib import Path
           body = os.environ.get("ISSUE_BODY", "")
           def field(name):
-              m = re.search(r"^### " + re.escape(name) + r"\s*\n([\s\\S]*?)(?=\n### |\\Z)", body, re.M)
+              m = re.search(r"^### " + re.escape(name) + r"\s*\n([\s\S]*?)(?=\n### |\Z)", body, re.M)
               return m.group(1).strip() if m else ""
           op = field("Operacja").lower()
           path = field("Podstrona")
