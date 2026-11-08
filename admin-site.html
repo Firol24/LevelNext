@@ -93,7 +93,7 @@ function refresh(){
 }
 function loadSelected(){
  const b=data.blocks.find(x=>x.id===$('block').value);if(!b)return;
- $('page').value=b.page;$('column').value=b.column;$('position').value=b.position;$('title').value=b.title;$('body').value=b.body;$('image').value=b.image||'';$('link').value=b.link||'';preview();
+ $('page').value=b.page;$('column').value=b.column;$('position').value=b.position;$('title').value=b.title;$('body').value=b.body;$('image').value=b.image||'';$('link').value=b.link||'';loadFullPreview();preview();
 }
 $('block').addEventListener('change',()=>{loadSelected();preview();});
 $('page').addEventListener('change',loadFullPreview);
