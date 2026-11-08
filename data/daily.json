@@ -1,16 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T19:01+01:00",
+  "updatedAt": "2026-11-08T20:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Physint będzie fabularnym molochem. Poznaliśmy pierwsze szczegóły scenariusza gry Hideo Kojimy",
-    "summary": "Hideo Kojima nie od dziś znany jest z tworzenia nietypowych historii, które poruszają jak żadne inne medium w branży rozrywkowej. Już teraz wiemy, że japoński deweloper pracuje nad dwoma wyjątkowymi projektami - OD i Physint.",
-    "sourceUrl": "https://www.ppe.pl/news/432547/physint-bedzie-fabularnym-molochem-poznalismy-pierwsze-szczegoly-scenariusza-gry-hideo-kojimy.html"
+    "category": "PROMOCJE",
+    "title": "Tygodniowe podsumowanie promocji na Steamie. GTA IV za 25,47 zł i obniżki do -95%",
+    "summary": "Łowcy, czas na kolejne tygodniowe podsumowanie najciekawszych promocji na gry PC dostępnych na Steamie. Tym razem na pierwszy plan wysuwają się 007 First Light – Deluxe Edition za 155,40 zł, Grand Theft Auto IV: The Complete Edition za 25,47 zł oraz CONTROL Resonant za 159,99 zł. Jeśli szukacie czegoś za kilka złotych, warto sprawdzić Severed Steel za 6,29 zł i Owlboy za 6,99 zł. W dobrych cenach kupicie również Borderlands GOTY Enhanced za 12,89 zł, polskie The Alters za 54,45 zł, Absolum za 47,99 zł oraz Spiritfarer: Farewell Edition za 12,99 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tygodniowe-podsumowanie-promocji-na-steamie-gta-iv-za-2547-zl-i-obnizki-do-95/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tygodniowe-podsumowanie-promocji-na-Steamie.-GTA-IV-za-2547-zl-i-obnizki-do-95_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tygodniowe podsumowanie promocji na Steamie. GTA IV za 25,47 zł i obniżki do -95%",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tygodniowe-podsumowanie-promocji-na-steamie-gta-iv-za-2547-zl-i-obnizki-do-95/",
+      "publishedAt": "2026-11-08T19:58+01:00",
+      "summary": "Łowcy, czas na kolejne tygodniowe podsumowanie najciekawszych promocji na gry PC dostępnych na Steamie. Tym razem na pierwszy plan wysuwają się 007 First Light – Deluxe Edition za 155,40 zł, Grand Theft Auto IV: The Complete Edition za 25,47 zł oraz CONTROL Resonant za 159,99 zł. Jeśli szukacie czegoś za kilka złotych, warto sprawdzić Severed Steel za 6,29 zł i Owlboy za 6,99 zł. W dobrych cenach kupicie również Borderlands GOTY Enhanced za 12,89 zł, polskie The Alters za 54,45 zł, Absolum za 47,99 zł oraz Spiritfarer: Farewell Edition za 12,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tygodniowe-podsumowanie-promocji-na-Steamie.-GTA-IV-za-2547-zl-i-obnizki-do-95_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Detektywistyczny beat’em up tanio jak nigdy. Klucz Steam do BROK the InvestiGator za 3,18 zł w Kinguinie",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/detektywistyczny-beatem-up-tanio-jak-nigdy-klucz-steam-do-brok-the-investigator-za-318-zl-w-kinguinie/",
+      "publishedAt": "2026-11-08T19:31+01:00",
+      "summary": "BROK the InvestiGator kupicie teraz w Kinguinie w rekordowo niskiej cenie. Produkcja niezależnego studia COWCAT stanowi nietypowe połączenie przygodówki detektywistycznej z klasycznym beat’em upem. Klucz Steam możecie nabyć z kolei już za 3,18 zł, dzięki zastosowaniu kodu znizkowego. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Promocja-na-brok-the-investigator_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Physint będzie fabularnym molochem. Poznaliśmy pierwsze szczegóły scenariusza gry Hideo Kojimy",
