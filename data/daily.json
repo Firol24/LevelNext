@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T14:01+01:00",
+  "updatedAt": "2026-11-08T15:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Dopasowana polska cena i polskie napisy. Nowy cyberpunkowy hit ze Steama zasługuje na uwagę Polaków [Aktualizacja: aktualna sprzedaż]",
-    "summary": "Probably Stolen, czyli cyberpunkowa gra o prowadzeniu sklepu, stała się przebojem na Steamie. Informacja Dopasowana polska cena i polskie napisy. Nowy cyberpunkowy hit ze Steama zasługuje na uwagę Polaków [Aktualizacja: aktualna sprzedaż] została opublikowana przez GRYOnline.pl 8 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/dopasowana-polska-cena-i-polskie-napisy-nowy-cyberpunkowy-hit-ze/z232157",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/530980250.jpg"
+    "title": "Nadciągają duchowi następcy kultowego Thiefa i legendarnego System Shocka, a twórcy bestsellerowego Wall World przygotowują RTS-a",
+    "summary": "Doskonale zapowiadający się The Citadel Project, klimatyczny Derelikt i RTS Wall World Strategy to tylko trzy spośród kilkudziesięciu pozycji, które w minionym tygodniu trafiły do Wielkiej Encyklopedii Gier. Informacja Nadciągają duchowi następcy kultowego Thiefa i legendarnego System Shocka, a twórcy bestsellerowego Wall World przygotowują RTS-a została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nadciagaja-duchowi-nastepcy-kultowego-thiefa-i-legendarnego-syste/z032254",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531659704.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nadciągają duchowi następcy kultowego Thiefa i legendarnego System Shocka, a twórcy bestsellerowego Wall World przygotowują RTS-a",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nadciagaja-duchowi-nastepcy-kultowego-thiefa-i-legendarnego-syste/z032254",
+      "publishedAt": "2026-11-08T15:00+01:00",
+      "summary": "Doskonale zapowiadający się The Citadel Project, klimatyczny Derelikt i RTS Wall World Strategy to tylko trzy spośród kilkudziesięciu pozycji, które w minionym tygodniu trafiły do Wielkiej Encyklopedii Gier. Informacja Nadciągają duchowi następcy kultowego Thiefa i legendarnego System Shocka, a twórcy bestsellerowego Wall World przygotowują RTS-a została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531659704.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Słuchawki bezprzewodowe HyperX Cloud III S z Bluetooth za 369 zł w polskim Amazonie",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/sluchawki-bezprzewodowe-hyperx-cloud-iii-s-z-bluetooth-za-369-zl-w-polskim-amazonie/",
+      "publishedAt": "2026-11-08T14:57+01:00",
+      "summary": "Bezprzewodowe słuchawki gamingowe HyperX Cloud III S pojawiły się w dobrej cenie w polskim Amazonie. Model oferuje łączność 2,4 GHz i Bluetooth, 53-milimetrowe przetworniki oraz odpinany mikrofon, a deklarowany przez producenta czas pracy sięga 120 godzin przez odbiornik USB lub 200 godzin w trybie Bluetooth na jednym ładowaniu. Słuchawki mogą być Wasze za 369 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/03/Promocja-na-HyperX-Cloud-III-_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Dopasowana polska cena i polskie napisy. Nowy cyberpunkowy hit ze Steama zasługuje na uwagę Polaków [Aktualizacja: aktualna sprzedaż]",
@@ -29,6 +47,23 @@
       "summary": "Możliwe, że po raz pierwszy i ostatni czytacie o tej grze. Ratchet & Clank: Ranger Rumble zostało bowiem anulowane, nim się ukazało, przynajmniej oficjalnie. Informacja Sony anulowało darmową grę z kultowej 22-letniej serii. Oficjalnej premiery Ratchet & Clank: Ranger Rumble nigdy nie będzie została opublikowana przez GRYOnline.pl 8 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531841030.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony ma szansę wygrać następną generację. Były prezes PlayStation stawia jeden warunek",
+      "sourceUrl": "https://www.ppe.pl/news/432500/sony-ma-szanse-wygrac-nastepna-generacje-byly-prezes-playstation-stawia-jeden-warunek.html",
+      "publishedAt": "2026-11-08T14:30+01:00",
+      "summary": "Sony ma spore doświadczenie na rynku konsol przenośnych, choć historie PSP i PS Vity potoczyły się zupełnie inaczej. Shawn Layden uważa, że firma mogłaby wykorzystać wyciągnięte wnioski i odnieść sukces z handheldem nowej generacji. Były ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kabel przedłużający z wtyczką Euro (typ C), długość 3m za jedyne 10 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/kabel-przedluzajacy-z-wtyczka-euro-typ-c-dlugosc-3m-za-jedyne-10-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-08T14:25+01:00",
+      "summary": "Trzymetrowy kabel przedłużający połączenie z urządzeniem wyposażonym we wtyczkę typu C, zwaną również europejską, pojawił się w rewelacyjnej cenie w polskim oddziale sklepu Amazon. Jeśli posiadacie sprzęt z płaską wtyczką z dwoma bolcami bez uziemienia, za przewód w kolorze białym zapłacicie nieco ponad 10 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/przedluzacz-euro-m-f-3m-3b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
