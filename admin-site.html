@@ -22,15 +22,87 @@
 <p class="smallprint">To narzędzie zarządza wyłącznie stroną LEVEL NEXT. Nie zmienia LEVEL NEXT DAILY, wydań gazety ani archiwum redakcyjnego.</p>
 </section></main><footer class="footer"><a href="index.html">Powrót na stronę »</a></footer></div>
 <script>
-(()=>{const $=id=>document.getElementById(id),file='data/site-content.json';let data={blocks:[]};
-const labels={'index.html':'START','o-nas.html':'O NAS','materialy.html':'MATERIAŁY','retro-misja.html':'RETRO MISJA','sprzet.html':'SPRZĘT','opinie.html':'WPISY','archiwum.html':'ARCHIWUM','kontakt.html':'KONTAKT','pobieranie.html':'POBIERANIE','felietony.html':'FELIETONY'};
-function esc(s){return String(s||'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',\"'\":'&#39;'}[c]));}\nfunction renderBlock(b,draft=false){const el=document.createElement('div');el.className='preview-block'+(draft?' preview-draft':'');const h=document.createElement('strong');h.textContent=b.title||'Bez tytułu';el.append(h);if(b.body){const p=document.createElement('p');p.textContent=b.body;el.append(p);}if(b.image){const im=document.createElement('img');im.src=b.image;im.alt='';im.onerror=()=>im.remove();el.append(im);}if(b.link){const a=document.createElement('a');a.href=b.link;a.textContent='Otwórz odnośnik »';a.target='_blank';a.rel='noopener';el.append(a);}return el;}\nfunction preview(){const page=$('page').value,cols={leftcol:$('preview-left'),maincol:$('preview-main'),rightcol:$('preview-right')};for(const [key,el] of Object.entries(cols)){el.replaceChildren();const h=document.createElement('h3');h.textContent=key==='leftcol'?'LEWA KOLUMNA':key==='maincol'?'KOLUMNA GŁÓWNA':'PRAWA KOLUMNA';el.append(h);const list=data.blocks.filter(b=>b.page===page&&b.column===key).sort((x,y)=>(+x.position||1)-(+y.position||1));for(const b of list)el.append(renderBlock(b));}const op=$('operation').value; if(op!=='delete'&&($('title').value.trim()||$('body').value.trim()||$('image').value.trim()||$('link').value.trim())){const draft={title:$('title').value,body:$('body').value,image:$('image').value,link:$('link').value};const col=cols[$('column').value];const draftEl=renderBlock(draft,true);const pos=Math.max(1,+$('position').value||1);const existing=[...col.querySelectorAll('.preview-block:not(.preview-draft)')];col.insertBefore(draftEl,existing[pos-1]||null);}}\nfunction renderHistory(){const root=$('history');root.replaceChildren();const hist=data.history||[];if(!hist.length){root.textContent='Brak zapisanych wersji. Historia zacznie się tworzyć po pierwszej zmianie.';return;}for(const h of hist){const row=document.createElement('div');row.className='history-entry';const info=document.createElement('div');info.textContent=(h.created_at||'')+' / '+(h.description||'Poprzednia wersja')+' / '+((h.blocks||[]).length)+' bloków';const btn=document.createElement('button');btn.type='button';btn.textContent='Przywróć tę wersję';btn.onclick=()=>{if(!confirm('Przywrócić wybraną wersję? Aktualny stan też zostanie zapisany w historii.'))return;const body=['### Operacja','restore','### ID bloku',h.id,'### Podstrona','index.html','### Kolumna','maincol','### Kolejność','1','### Nagłówek','Przywrócenie wersji','### Treść','Przywrócenie kopii','### Obrazek','Brak','### Odnośnik','Brak'].join('\\n\\n');location.href='https://github.com/Firol24/LevelNext/issues/new?'+new URLSearchParams({title:'[SITE-CMS] RESTORE '+h.id,body});};row.append(info,btn);root.append(row);}}\nfunction refresh(){const select=$('block'),old=select.value;select.replaceChildren(new Option('Wybierz blok...',''));for(const b of data.blocks){const opt=new Option((b.title||'Bez tytułu')+' / '+(labels[b.page]||b.page)+' / '+b.column,b.id);select.add(opt);}if(old)select.value=old;
-const list=$('items');list.replaceChildren();if(!data.blocks.length){list.textContent='Brak własnych bloków. Dodaj pierwszy powyżej.';return;}for(const b of data.blocks){const card=document.createElement('div');card.className='admin-item';const title=document.createElement('b');title.textContent=b.title+' / '+(labels[b.page]||b.page)+' / '+b.column+' / poz. '+b.position;const desc=document.createElement('p');desc.textContent=(b.body||'').slice(0,180);const edit=document.createElement('button');edit.textContent='Edytuj';edit.type='button';edit.onclick=()=>{ $('operation').value='edit';$('block').value=b.id;loadSelected();window.scrollTo({top:0,behavior:'smooth'});};card.append(title,desc,edit);list.append(card);}preview();renderHistory();}
-function loadSelected(){const b=data.blocks.find(x=>x.id===$('block').value);if(!b)return;$('page').value=b.page;$('column').value=b.column;$('position').value=b.position;$('title').value=b.title;$('body').value=b.body;$('image').value=b.image||'';$('link').value=b.link||'';}
-$('block').addEventListener('change',()=>{loadSelected();preview();});['operation','page','column','position','title','body','image','link'].forEach(id=>$(id).addEventListener('input',preview));$('operation').addEventListener('change',()=>{const del=$('operation').value==='delete';$('title').disabled=del;$('body').disabled=del;$('image').disabled=del;$('link').disabled=del;$('page').disabled=del;$('column').disabled=del;$('position').disabled=del;preview();});
-$('clear').onclick=()=>{['title','body','image','link'].forEach(id=>$(id).value='');$('block').value='';$('operation').value='add';$('position').value=1;preview();};
-$('submit').onclick=()=>{const op=$('operation').value,id=$('block').value;if(op!=='add'&&!id){alert('Wybierz blok do edycji lub usunięcia.');return;}const payload={operation:op,id,page:$('page').value,column:$('column').value,position:Number($('position').value)||1,title:$('title').value.trim(),body:$('body').value.trim(),image:$('image').value.trim(),link:$('link').value.trim()};if(op!=='delete'&&(!payload.title||!payload.body)){alert('Uzupełnij nagłówek i treść.');return;}for(const u of [payload.image,payload.link])if(u){try{if(!['http:','https:'].includes(new URL(u).protocol))throw 0;}catch{alert('Adres obrazka lub odnośnika jest nieprawidłowy.');return;}}
-const body=['### Operacja',payload.operation,'### ID bloku',payload.id||'NOWY','### Podstrona',payload.page,'### Kolumna',payload.column,'### Kolejność',String(payload.position),'### Nagłówek',payload.title||'Brak','### Treść',payload.body||'Brak','### Obrazek',payload.image||'Brak','### Odnośnik',payload.link||'Brak'].join('\n\n');const url='https://github.com/Firol24/LevelNext/issues/new?'+new URLSearchParams({title:'[SITE-CMS] '+op.toUpperCase()+' '+(payload.title||id||'blok'),body});location.href=url;};
+(()=>{
+const $=id=>document.getElementById(id),file='data/site-content.json';
+let data={blocks:[],history:[]};
+const labels={'index.html':'START','o-nas.html':'O NAS','materialy.html':'MATERIAŁY','retro-misja.html':'RETRO MISJA','sprzet.html':'SPRZĘT','opinie.html':'WPISY','archiwum.html':'ARCHIWUM','kontakt.html':'KONTAKT','pobieranie.html':'POBIERANIE'};
+function renderBlock(b,draft=false){
+ const el=document.createElement('div');el.className='preview-block'+(draft?' preview-draft':'');
+ const h=document.createElement('strong');h.textContent=b.title||'Bez tytułu';el.append(h);
+ if(b.body){const p=document.createElement('p');p.textContent=b.body;el.append(p);}
+ if(b.image){const im=document.createElement('img');im.src=b.image;im.alt='';im.onerror=()=>im.remove();el.append(im);}
+ if(b.link){const a=document.createElement('a');a.href=b.link;a.textContent='Otwórz odnośnik »';a.target='_blank';a.rel='noopener';el.append(a);}
+ return el;
+}
+function preview(){
+ const page=$('page').value,cols={leftcol:$('preview-left'),maincol:$('preview-main'),rightcol:$('preview-right')};
+ for(const [key,el] of Object.entries(cols)){
+  el.replaceChildren();const head=document.createElement('h3');head.textContent=key==='leftcol'?'LEWA KOLUMNA':key==='maincol'?'KOLUMNA GŁÓWNA':'PRAWA KOLUMNA';el.append(head);
+  const list=data.blocks.filter(b=>b.page===page&&b.column===key).sort((x,y)=>(+x.position||1)-(+y.position||1));
+  for(const b of list)el.append(renderBlock(b));
+ }
+ const op=$('operation').value;
+ if(op!=='delete'&&($('title').value.trim()||$('body').value.trim()||$('image').value.trim()||$('link').value.trim())){
+  const draft={title:$('title').value,body:$('body').value,image:$('image').value,link:$('link').value};
+  const col=cols[$('column').value],draftEl=renderBlock(draft,true),pos=Math.max(1,+$('position').value||1);
+  const existing=[...col.querySelectorAll('.preview-block:not(.preview-draft)')];col.insertBefore(draftEl,existing[pos-1]||null);
+ }
+}
+function renderHistory(){
+ const root=$('history');root.replaceChildren();const hist=data.history||[];
+ if(!hist.length){root.textContent='Brak zapisanych wersji. Historia zacznie się tworzyć po pierwszej zmianie.';return;}
+ for(const h of hist.slice().reverse()){
+  const row=document.createElement('div');row.className='history-entry';const info=document.createElement('div');
+  info.textContent=(h.created_at||'')+' / '+(h.description||'Poprzednia wersja')+' / '+((h.blocks||[]).length)+' bloków';
+  const btn=document.createElement('button');btn.type='button';btn.textContent='Przywróć tę wersję';
+  btn.onclick=()=>{
+   if(!confirm('Przywrócić wybraną wersję? Aktualny stan też zostanie zapisany w historii.'))return;
+   const body=['### Operacja','restore','### ID bloku',h.id,'### Podstrona','index.html','### Kolumna','maincol','### Kolejność','1','### Nagłówek','Przywrócenie wersji','### Treść','Przywrócenie kopii','### Obrazek','Brak','### Odnośnik','Brak'].join('\n\n');
+   location.href='https://github.com/Firol24/LevelNext/issues/new?'+new URLSearchParams({title:'[SITE-CMS] RESTORE '+h.id,body});
+  };
+  row.append(info,btn);root.append(row);
+ }
+}
+function refresh(){
+ const select=$('block'),old=select.value;select.replaceChildren(new Option('Wybierz blok...',''));
+ for(const b of data.blocks){const opt=new Option((b.title||'Bez tytułu')+' / '+(labels[b.page]||b.page)+' / '+b.column,b.id);select.add(opt);}
+ if(old)select.value=old;
+ const list=$('items');list.replaceChildren();
+ if(!data.blocks.length)list.textContent='Brak własnych bloków. Dodaj pierwszy powyżej.';
+ else for(const b of data.blocks){
+  const card=document.createElement('div');card.className='admin-item';const title=document.createElement('b');
+  title.textContent=b.title+' / '+(labels[b.page]||b.page)+' / '+b.column+' / poz. '+b.position;
+  const desc=document.createElement('p');desc.textContent=(b.body||'').slice(0,180);
+  const edit=document.createElement('button');edit.textContent='Edytuj';edit.type='button';
+  edit.onclick=()=>{$('operation').value='edit';$('block').value=b.id;loadSelected();window.scrollTo({top:0,behavior:'smooth'});};
+  card.append(title,desc,edit);list.append(card);
+ }
+ preview();renderHistory();
+}
+function loadSelected(){
+ const b=data.blocks.find(x=>x.id===$('block').value);if(!b)return;
+ $('page').value=b.page;$('column').value=b.column;$('position').value=b.position;$('title').value=b.title;$('body').value=b.body;$('image').value=b.image||'';$('link').value=b.link||'';preview();
+}
+$('block').addEventListener('change',loadSelected);
+['page','column','position','title','body','image','link'].forEach(id=>$(id).addEventListener('input',preview));
+$('operation').addEventListener('change',()=>{
+ const del=$('operation').value==='delete';
+ ['title','body','image','link','page','column','position'].forEach(id=>$(id).disabled=del);
+ preview();
+});
+$('clear').onclick=()=>{
+ ['title','body','image','link'].forEach(id=>$(id).value='');$('block').value='';$('operation').value='add';$('position').value=1;
+ ['title','body','image','link','page','column','position'].forEach(id=>$(id).disabled=false);preview();
+};
+$('submit').onclick=()=>{
+ const op=$('operation').value,id=$('block').value;
+ if(op!=='add'&&!id){alert('Wybierz blok do edycji lub usunięcia.');return;}
+ const payload={operation:op,id,page:$('page').value,column:$('column').value,position:Number($('position').value)||1,title:$('title').value.trim(),body:$('body').value.trim(),image:$('image').value.trim(),link:$('link').value.trim()};
+ if(op!=='delete'&&(!payload.title||!payload.body)){alert('Uzupełnij nagłówek i treść.');return;}
+ for(const u of [payload.image,payload.link])if(u){try{if(!['http:','https:'].includes(new URL(u).protocol))throw 0;}catch{alert('Adres obrazka lub odnośnika jest nieprawidłowy.');return;}}
+ const body=['### Operacja',payload.operation,'### ID bloku',payload.id||'NOWY','### Podstrona',payload.page,'### Kolumna',payload.column,'### Kolejność',String(payload.position),'### Nagłówek',payload.title||'Brak','### Treść',payload.body||'Brak','### Obrazek',payload.image||'Brak','### Odnośnik',payload.link||'Brak'].join('\n\n');
+ const url='https://github.com/Firol24/LevelNext/issues/new?'+new URLSearchParams({title:'[SITE-CMS] '+op.toUpperCase()+' '+(payload.title||id||'blok'),body});location.href=url;
+};
 fetch(file+'?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():{blocks:[],history:[]}).then(v=>{data=v;data.blocks=data.blocks||[];data.history=data.history||[];refresh();}).catch(()=>{$('items').textContent='Nie udało się wczytać listy bloków.';});
 })();
 </script></body></html>
