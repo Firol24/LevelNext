@@ -172,6 +172,8 @@
         if (button.disabled) return;
         button.disabled = true;
         button.classList.add("is-rolling");
+        var consoleBox = result.closest(".mission-console");
+        if (consoleBox) consoleBox.classList.add("is-rolling");
         if (status) status.textContent = "LOSOWANIE W TOKU...";
         result.classList.remove("mission-reveal");
         result.classList.add("is-shuffling");
@@ -185,6 +187,7 @@
             result.classList.remove("is-shuffling");
             result.classList.add("mission-reveal");
             button.classList.remove("is-rolling");
+            if (consoleBox) consoleBox.classList.remove("is-rolling");
             button.disabled = false;
             if (status) status.textContent = "MISSION SELECTED // POWODZENIA!";
           }
