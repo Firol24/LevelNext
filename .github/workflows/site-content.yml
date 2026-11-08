@@ -1,0 +1,71 @@
+name: LEVEL NEXT site content manager
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: level-next-site-cms
+  cancel-in-progress: false
+jobs:
+  update-site-content:
+    if: github.event.issue.user.login == 'Firol24' && startsWith(github.event.issue.title, '[SITE-CMS]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply CMS operation
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          python - <<'PY'
+          import json, os, re, sys, uuid
+          from pathlib import Path
+          body = os.environ.get("ISSUE_BODY", "")
+          def field(name):
+              m = re.search(r"^### " + re.escape(name) + r"\\s*\\n([\\s\\S]*?)(?=\\n### |\\Z)", body, re.M)
+              return m.group(1).strip() if m else ""
+          op = field("Operacja").lower()
+          path = field("Podstrona")
+          column = field("Kolumna")
+          if path not in {"index.html","o-nas.html","materialy.html","retro-misja.html","sprzet.html","opinie.html","archiwum.html","kontakt.html","pobieranie.html","felietony.html"}:
+              sys.exit("Niedozwolona podstrona.")
+          if column not in {"leftcol","maincol","rightcol"}:
+              sys.exit("Nieprawidłowa kolumna.")
+          data_path = Path("data/site-content.json")
+          data = json.loads(data_path.read_text(encoding="utf-8")) if data_path.exists() else {"blocks":[]}
+          blocks = data.setdefault("blocks", [])
+          block_id = field("ID bloku")
+          if op == "add":
+              item = {"id": uuid.uuid4().hex[:10], "page":path, "column":column, "position":int(field("Kolejność") or 1), "title":field("Nagłówek"), "body":field("Treść"), "image":"" if field("Obrazek")=="Brak" else field("Obrazek"), "link":"" if field("Odnośnik")=="Brak" else field("Odnośnik")}
+              if not item["title"] or not item["body"]: sys.exit("Brak nagłówka lub treści.")
+              blocks.append(item)
+          elif op == "edit":
+              item = next((x for x in blocks if x.get("id")==block_id), None)
+              if not item: sys.exit("Nie znaleziono bloku do edycji.")
+              item.update({"page":path,"column":column,"position":int(field("Kolejność") or 1),"title":field("Nagłówek"),"body":field("Treść"),"image":"" if field("Obrazek")=="Brak" else field("Obrazek"),"link":"" if field("Odnośnik")=="Brak" else field("Odnośnik")})
+          elif op == "delete":
+              before = len(blocks)
+              data["blocks"] = [x for x in blocks if x.get("id") != block_id]
+              if len(data["blocks"]) == before: sys.exit("Nie znaleziono bloku do usunięcia.")
+          else: sys.exit("Nieznana operacja.")
+          data["blocks"].sort(key=lambda x:(x.get("page",""),x.get("column",""),int(x.get("position",1))))
+          data_path.write_text(json.dumps(data, ensure_ascii=False, indent=2)+"\\n", encoding="utf-8")
+          print("Zapisano operację CMS:", op)
+          PY
+      - name: Commit CMS changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/site-content.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update LEVEL NEXT website content"
+          git push
+      - name: Confirm and close request
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "Zmiana treści witryny LEVEL NEXT została opublikowana. Odśwież stronę przez Ctrl+F5."
+          gh issue close "$ISSUE_NUMBER"
