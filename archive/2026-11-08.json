@@ -1,17 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T15:01+01:00",
+  "updatedAt": "2026-11-08T16:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Nadciągają duchowi następcy kultowego Thiefa i legendarnego System Shocka, a twórcy bestsellerowego Wall World przygotowują RTS-a",
-    "summary": "Doskonale zapowiadający się The Citadel Project, klimatyczny Derelikt i RTS Wall World Strategy to tylko trzy spośród kilkudziesięciu pozycji, które w minionym tygodniu trafiły do Wielkiej Encyklopedii Gier. Informacja Nadciągają duchowi następcy kultowego Thiefa i legendarnego System Shocka, a twórcy bestsellerowego Wall World przygotowują RTS-a została opublikowana przez GRYOnline.pl 8 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nadciagaja-duchowi-nastepcy-kultowego-thiefa-i-legendarnego-syste/z032254",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531659704.jpg"
+    "category": "PROMOCJE",
+    "title": "Tygodniowe podsumowanie promocji na gry PlayStation i Xbox. Mocne okazje z rabatami do -90%",
+    "summary": "Łowcy, przyszedłe czas na pierwsze w tym miesiącu tygodniowe podsumowanie najciekawszych promocji dostępnych w PlayStation Store oraz Microsoft Store. Tym razem coś dla siebie znajdą zarówno miłośnicy horrorów i rozbudowanych RPG, jak i fani survivalu. Na pierwszy plan wysuwają się SILENT HILL 2 oraz SILENT HILL f po 83,72 zł, FINAL FANTASY VII REMAKE INTERGRADE za 43,80 zł, Subnautica za 32,25 zł, Kingdom Come: Deliverance II za 104,65 zł oraz The Thaumaturge za 41,99 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tygodniowe-podsumowanie-promocji-na-gry-playstation-i-xbox-mocne-okazje-z-rabatami-do-90/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tygodniowe-podsumowanie-promocji-na-gry-PlayStation-i-Xbox.-Mocne-okazje-z-rabatami-do-90_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tygodniowe podsumowanie promocji na gry PlayStation i Xbox. Mocne okazje z rabatami do -90%",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tygodniowe-podsumowanie-promocji-na-gry-playstation-i-xbox-mocne-okazje-z-rabatami-do-90/",
+      "publishedAt": "2026-11-08T15:57+01:00",
+      "summary": "Łowcy, przyszedłe czas na pierwsze w tym miesiącu tygodniowe podsumowanie najciekawszych promocji dostępnych w PlayStation Store oraz Microsoft Store. Tym razem coś dla siebie znajdą zarówno miłośnicy horrorów i rozbudowanych RPG, jak i fani survivalu. Na pierwszy plan wysuwają się SILENT HILL 2 oraz SILENT HILL f po 83,72 zł, FINAL FANTASY VII REMAKE INTERGRADE za 43,80 zł, Subnautica za 32,25 zł, Kingdom Come: Deliverance II za 104,65 zł oraz The Thaumaturge za 41,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tygodniowe-podsumowanie-promocji-na-gry-PlayStation-i-Xbox.-Mocne-okazje-z-rabatami-do-90_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Gamerweb",
+      "title": "Recenzja Culdcept Begins",
+      "sourceUrl": "https://gamerweb.pl/recenzja-culdcept-begins/",
+      "publishedAt": "2026-11-08T15:43+01:00",
+      "summary": "Jako fan raczej niszowych, niezbyt popularnych i nierozpoznawalnych gier z Japonii mam sporo szczęścia. W ostatnich latach wydarzyło się coś",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/11/Culdcept-Begins.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Minecraft jest NIEŚMIERTELNY! Gra wskoczyła na podium rankingu sprzedaży w Japonii",
+      "sourceUrl": "https://www.ppe.pl/news/432499/minecraft-jest-niesmiertelny-gra-wskoczyla-na-podium-rankingu-sprzedazy-w-japonii.html",
+      "publishedAt": "2026-11-08T15:30+01:00",
+      "summary": "Minione tygodnie przyniosły naprawdę dobre wyniki sprzedaży, a końcówka roku wyraźnie pobudziła graczy do kolejnych zakupów. Duże premiery regularnie przejmują czołowe miejsca zestawień, lecz obok nich świetnie radzą sobie również starsz...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Smartfon Motorola Moto G77 5G 12/256 GB AMOLED 120 Hz za 1199 zł w Media Markt",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/smartfon-motorola-moto-g77-5g-12-256-gb-amoled-120-hz-za-1199-zl-w-media-markt/",
+      "publishedAt": "2026-11-08T15:28+01:00",
+      "summary": "W sklepie internetowym Media Markt możecie obecnie kupić Motorolę Moto G77 5G w wersji 12/256 GB w dobrej cenie. Smartfon oferuje 6,78-calowy ekran AMOLED z odświeżaniem 120 Hz, procesor MediaTek Dimensity 6400, aparat główny 108 Mpix oraz baterię o pojemności 5200 mAh z ładowaniem 30 W. Model w kolorze ciemnobrązowym może być Wasz za 1199 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Smartfon-Motorola-Moto-G77-5G-12256-GB-AMOLED-120-Hzn_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nadciągają duchowi następcy kultowego Thiefa i legendarnego System Shocka, a twórcy bestsellerowego Wall World przygotowują RTS-a",
@@ -20,6 +55,14 @@
       "summary": "Doskonale zapowiadający się The Citadel Project, klimatyczny Derelikt i RTS Wall World Strategy to tylko trzy spośród kilkudziesięciu pozycji, które w minionym tygodniu trafiły do Wielkiej Encyklopedii Gier. Informacja Nadciągają duchowi następcy kultowego Thiefa i legendarnego System Shocka, a twórcy bestsellerowego Wall World przygotowują RTS-a została opublikowana przez GRYOnline.pl 8 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531659704.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Spędzisz z tą grą pół godziny i stracisz głowę!",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432544/spedzisz-z-ta-gra-pol-godziny-i-stracisz-glowe.html",
+      "publishedAt": "2026-11-08T15:00+01:00",
+      "summary": "Największe gry nie zawsze powstają za milionowe budżety, współczesna historia elektronicznej rozrywki kwitnie od przykładów ze sceny niezależnej. Jej przedstawiciele rzadko boją się ryzyka z uwagi na skromne oczekiwania. Znany dzisiaj hity pok...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
