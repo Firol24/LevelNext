@@ -163,11 +163,11 @@ $('submit').onclick=()=>{
  if(op!=='add'&&!id){alert('Wybierz blok do edycji lub usunięcia.');return;}
  if(native&&op!=='edit'){alert('Istniejące sekcje strony można edytować, ale nie usuwać z tego panelu.');return;}
  const bits=native?id.split('|'):[],nativeHeading=native?bits[2]:'';
- const payload={operation:op,id:native?'':id,native:native?'yes':'no',sourceHeading:nativeHeading,page:$('page').value,column:$('column').value,position:Number($('position').value)||1,title:$('title').value.trim(),body:$('body').value,image:$('image').value.trim(),link:$('link').value.trim()};
+ const payload={operation:op,id:native?'':id,native:native?'yes':'no',sourceHeading:nativeHeading,occurrence:native?Number(bits[3]):0,page:$('page').value,column:$('column').value,position:Number($('position').value)||1,title:$('title').value.trim(),body:$('body').value,image:$('image').value.trim(),link:$('link').value.trim()};
  if(op!=='delete'&&(!payload.title||!payload.body.trim())){alert('Uzupełnij nagłówek i treść.');return;}
  if(native&&payload.body.length>30000){alert('Kod sekcji jest zbyt długi.');return;}
  for(const u of [payload.image,payload.link])if(u){try{if(!['http:','https:'].includes(new URL(u).protocol))throw 0;}catch{alert('Adres obrazka lub odnośnika jest nieprawidłowy.');return;}}
- const body=['### Operacja',payload.operation,'### Typ bloku',payload.native,'### ID bloku',payload.id||'NATIVE','### Nagłówek źródłowy',payload.sourceHeading||'Brak','### Podstrona',payload.page,'### Kolumna',payload.column,'### Kolejność',String(payload.position),'### Nagłówek',payload.title||'Brak','### Treść',payload.body||'Brak','### Obrazek',payload.image||'Brak','### Odnośnik',payload.link||'Brak'].join('\n\n');
+ const body=['### Operacja',payload.operation,'### Typ bloku',payload.native,'### ID bloku',payload.id||'NATIVE','### Nagłówek źródłowy',payload.sourceHeading||'Brak','### Wystąpienie',String(payload.occurrence||0),'### Podstrona',payload.page,'### Kolumna',payload.column,'### Kolejność',String(payload.position),'### Nagłówek',payload.title||'Brak','### Treść',payload.body||'Brak','### Obrazek',payload.image||'Brak','### Odnośnik',payload.link||'Brak'].join('\n\n');
  const url='https://github.com/Firol24/LevelNext/issues/new?'+new URLSearchParams({title:'[SITE-CMS] '+op.toUpperCase()+' '+(payload.title||id||'blok'),body});location.href=url;
 };
 Promise.all([fetch(file+'?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():{blocks:[],history:[]}),discoverNativePanels()]).then(([v])=>{data=v;data.blocks=data.blocks||[];data.history=data.history||[];refresh();}).catch(()=>{$('items').textContent='Nie udało się wczytać listy bloków.';});
