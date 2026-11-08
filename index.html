@@ -259,23 +259,83 @@ a:hover{color:#fff2b3;background:#3a2450}
  .nav a{flex:1 1 33.33%;text-align:center;padding:9px 5px}
 }
 
+
+/* STRONA GŁÓWNA - trzy niezależne kolumny */
+.masthead-grid{display:grid;grid-template-columns:190px minmax(0,1fr) 190px;gap:14px;padding:14px 18px 0}
+.masthead{grid-column:2;display:flex;justify-content:center;align-items:center;min-width:0;padding:18px;background:linear-gradient(110deg,#21132f,#171020 58%,#2b1740);border:1px solid #604879;border-bottom:3px double #8e63bd;text-align:center}
+.masthead>a{display:inline-flex;justify-content:center;align-items:center}
+.masthead .logo{display:block;width:min(210px,70%);height:auto;margin:auto}
+.layout{display:grid;grid-template-columns:190px minmax(0,1fr) 190px;grid-template-areas:"left main right";gap:14px;align-items:start;padding:14px 18px 18px}
+.leftcol{grid-area:left}.maincol{grid-area:main}.rightcol{grid-area:right}
+.leftcol,.maincol,.rightcol{display:flex;flex-direction:column;gap:14px;min-width:0}
+.leftcol>.panel,.maincol>.panel,.rightcol>.panel{width:100%;margin:0}
+.panel{box-shadow:3px 3px 0 rgba(0,0,0,.32)}
+.maincol .panelbody{padding:17px}
+.maincol .welcome{grid-template-columns:minmax(0,1fr) 155px;gap:18px}
+.maincol .columns{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.maincol .feature{min-height:0}
+.leftcol .socials{display:grid;grid-template-columns:1fr}
+.leftcol .socials a{min-width:0}
+.leftcol .panelbody,.rightcol .panelbody{padding:12px}
+.rightcol .tiktok-frame{max-width:100%;width:100%;aspect-ratio:9/12}
+.rightcol .counter{flex-wrap:nowrap}
+.rightcol .counter span{flex:1;min-width:0}
+@media(max-width:980px){
+ .masthead-grid{grid-template-columns:150px minmax(0,1fr) 150px;gap:10px;padding:12px 12px 0}
+ .layout{grid-template-columns:150px minmax(0,1fr) 150px;gap:10px;padding:12px}
+ .maincol .columns{grid-template-columns:1fr}
+ .maincol .feature{min-height:0}
+ .maincol .welcome{grid-template-columns:1fr}
+ .maincol .ascii{display:none}
+}
+@media(max-width:760px){
+ .masthead-grid{grid-template-columns:1fr 2fr 1fr;padding:10px 10px 0}
+ .layout{grid-template-columns:1fr 1fr;grid-template-areas:"main main" "left right";gap:10px;padding:10px}
+ .maincol .columns{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media(max-width:560px){
+ .masthead-grid{display:block;padding:8px 8px 0}
+ .masthead{padding:12px}
+ .masthead .logo{width:min(175px,70%)}
+ .layout{display:flex;flex-direction:column;padding:9px}
+ .maincol,.leftcol,.rightcol{width:100%}
+ .maincol{order:0}.leftcol{order:1}.rightcol{order:2}
+ .maincol .columns{grid-template-columns:1fr}
+ .maincol .panelbody{padding:12px}
+ .leftcol .socials{grid-template-columns:1fr 1fr}
+}
+
 </style>
 </head>
 <body>
 <div class="site">
   <div class="topline"><span>● LEVEL NEXT NETWORK / niezależny serwis</span><span id="clock">ŁĄCZENIE...</span></div>
-  <header class="masthead">
-    <div class="brandrow">
+  <div class="masthead-grid">
+    <header class="masthead">
       <a href="index.html" aria-label="LEVEL NEXT - strona główna"><img src="logo.png" alt="LEVEL NEXT" class="logo"></a>
-      <div class="brandcopy"><h1>LEVEL NEXT</h1><p>gry • wspomnienia • kultura cyfrowa // odłącz się od feedu</p></div>
-      <div class="stamp">EDYCJA<br><strong>WEB 2003</strong><br>PL / ONLINE</div>
-    </div>
-  </header>
+    </header>
+  </div>
   <nav class="nav" aria-label="Nawigacja główna">
     <a href="#start">START</a><a href="#materialy">MATERIAŁY</a><a href="sprzet.html">SPRZĘT</a><a href="retro-misja.html">RETRO MISJA</a><a href="daily.html">DAILY</a><a href="#archiwum">ARCHIWUM</a><a href="#ksiega">KSIĘGA GOŚCI</a><a href="#kontakt">KONTAKT</a>
   </nav>
-  <div class="ticker"><b>WIADOMOŚĆ DNIA</b><div class="ticker-track"><span>WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY • WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY •</span></div></div>
   <div class="layout" id="start">
+    <aside class="leftcol">
+<section class="panel"><div class="panelhead"><h3>07 / ŁĄCZA ZEWNĘTRZNE</h3><small>NETWORK</small></div><div class="panelbody"><div class="socials">
+        <a href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener"><img src="pngegg (1).png" alt="">Discord</a>
+        <a href="https://www.twitch.tv/tu_firol" target="_blank" rel="noopener"><img src="pngegg.png" alt="">Twitch</a>
+        <a href="https://www.youtube.com/@tufirol9695" target="_blank" rel="noopener"><img src="icons8-youtube-48.png" alt="">YouTube</a>
+        <a href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener"><img src="icons8-tiktok-48.png" alt="">TikTok</a>
+        <a href="https://www.instagram.com/_firol_" target="_blank" rel="noopener"><img src="icons8-instagram-48.png" alt="">Instagram</a>
+      </div><a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Dołącz do Discorda »</a></div></section>
+<section class="panel"><div class="panelhead"><h3>08 / LICZNIK ODWIEDZIN</h3><small>LOCAL DATA</small></div><div class="panelbody">
+        <div class="counter" id="visitCounter" aria-label="Przykładowy licznik odwiedzin"><span>0</span><span>1</span><span>2</span><span>4</span><span>8</span></div>
+        <p class="smallprint">LICZNIK TESTOWY - wartość przykładowa. Statystyki globalne zostaną podłączone później.</p>
+      </div></section>
+<section class="panel" id="kontakt"><div class="panelhead"><h3>09 / KONTAKT</h3><small>END OF LINE</small></div><div class="panelbody">
+        <div class="guestnote">Masz wspomnienie związane ze starą grą? Znalazłeś ciekawy temat? Odezwij się przez społeczności LEVEL NEXT.</div>
+        <a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Napisz na Discordzie »</a>
+      </div></section>
+    </aside>
     <main class="maincol">
       <section class="panel" id="ksiega">
         <div class="panelhead"><h2>05 / KSIĘGA GOŚCI</h2><small>GUESTBOOK.TXT</small></div>
@@ -292,11 +352,11 @@ a:hover{color:#fff2b3;background:#3a2450}
           <div class="welcome">
             <div><h2>Witaj, podróżniku internetu.</h2>
               <p><strong>LEVEL NEXT</strong> to niezależny serwis o grach, sprzęcie i kulturze cyfrowej.</p>
-              <p>Publikuję tu wiadomości, felietony, materiały z gier, wspomnienia z dawnych lat i odkrycia warte uwagi. Zajrzyj do działów, przejrzyj archiwum i zostań na dłużej.</p>
+              <p>Znajdziesz tu moje zainteresowania, materiały z gier, wspomnienia z dawnych lat, projekty i odkrycia warte uwagi. Rozejrzyj się po stronie i zostań na dłużej.</p>
             </div>
             <div class="ascii"><strong>LVL↑</strong>INSERT COIN<br>PRESS START<br><span>EST. 2025</span></div>
           </div>
-          <div class="notice">[ WITAMY ] Nowe materiały pojawiają się w LEVEL NEXT DAILY. Pozostałe działy są aktualizowane na bieżąco.</div>
+
         </div>
       </section>
       <section class="panel" id="materialy">
@@ -304,7 +364,6 @@ a:hover{color:#fff2b3;background:#3a2450}
         <div class="panelbody">
           <div class="columns">
             <div class="feature"><h3>📼 Najnowszy film</h3><div id="latestVideo" class="video-frame"><p>ODCZYTYWANIE DANYCH Z KANAŁU...</p></div><a class="button" href="https://www.youtube.com/@tufirol9695/videos" target="_blank" rel="noopener">Otwórz kanał YouTube »</a></div>
-            <div class="feature"><h3>🗞 LEVEL NEXT DAILY</h3><p>Codzienna porcja gier, premier, kina i ciekawych znalezisk. Redagowana gazeta dla tych, którzy lubią wiedzieć, co dzieje się poza głównym nurtem.</p><p><span class="tag">GAZETA</span><span class="tag">GAMING</span><span class="tag">KINO</span></p><a class="button" href="daily.html">Czytaj najnowsze wydanie »</a></div>
             <div class="feature"><h3>🕹 Retro misja</h3><p>Powrót do starszych gier, konsol i historii, które ukształtowały granie.</p><a class="button" href="retro-misja.html">Wejdź do archiwum »</a></div>
             <div class="feature"><h3>🔧 Sprzęt i stanowisko</h3><p>Konfiguracje, sprzęt, peryferia i moje miejsce do grania.</p><a class="button" href="sprzet.html">Zobacz sprzęt »</a></div>
           </div>
@@ -312,47 +371,24 @@ a:hover{color:#fff2b3;background:#3a2450}
       </section>
       <section class="panel">
         <div class="panelhead"><h2>03 / NOTATKA REDAKCYJNA</h2><small>PLIK: ABOUT.TXT</small></div>
-        <div class="panelbody"><p>LEVEL NEXT powstaje z ciekawości do gier i wszystkiego, co wokół nich. Interesują mnie zarówno klasyczne produkcje i dawne platformy, jak i współczesne wydarzenia z branży.</p><p class="smallprint">Masz temat, który warto opisać? Daj znać. Sugestie i wiadomości są mile widziane.</p></div>
+        <div class="panelbody"><p>LEVEL NEXT powstaje z ciekawości do gier i wszystkiego, co wokół nich. Interesują mnie klasyczne produkcje, dawne platformy, sprzęt i kultura cyfrowa.</p><p class="smallprint">Masz pytanie albo chcesz się odezwać? Napisz przez jedną z podanych społeczności.</p></div>
       </section>
 
-      <section class="panel" id="archiwum">
-        <div class="panelhead"><h2>04 / ARCHIWUM WYDAŃ</h2><small>ARCHIVE.DAT</small></div>
-        <div class="panelbody">
-          <p>Wszystkie dotychczasowe wydania LEVEL NEXT DAILY zebrane w jednym miejscu.</p>
-          <div id="homeArchive" class="archive-preview"><span class="smallprint">ŁADOWANIE ARCHIWUM...</span></div>
-          <a class="button" href="daily.html">Przejdź do pełnego archiwum »</a>
-        </div>
-      </section>
+
 
     </main>
-    <aside class="sidecol">
-      <section class="panel"><div class="panelhead"><h3>07 / ŁĄCZA ZEWNĘTRZNE</h3><small>NETWORK</small></div><div class="panelbody"><div class="socials">
-        <a href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener"><img src="pngegg (1).png" alt="">Discord</a>
-        <a href="https://www.twitch.tv/tu_firol" target="_blank" rel="noopener"><img src="pngegg.png" alt="">Twitch</a>
-        <a href="https://www.youtube.com/@tufirol9695" target="_blank" rel="noopener"><img src="icons8-youtube-48.png" alt="">YouTube</a>
-        <a href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener"><img src="icons8-tiktok-48.png" alt="">TikTok</a>
-        <a href="https://www.instagram.com/_firol_" target="_blank" rel="noopener"><img src="icons8-instagram-48.png" alt="">Instagram</a>
-      </div><a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Dołącz do Discorda »</a></div></section>
-      <section class="panel"><div class="panelhead"><h3>08 / LICZNIK ODWIEDZIN</h3><small>LOCAL DATA</small></div><div class="panelbody">
-        <div class="counter" id="visitCounter" aria-label="Przykładowy licznik odwiedzin"><span>0</span><span>1</span><span>2</span><span>4</span><span>8</span></div>
-        <p class="smallprint">LICZNIK TESTOWY - wartość przykładowa. Statystyki globalne zostaną podłączone później.</p>
-      </div></section>
-      <section class="panel" id="kontakt"><div class="panelhead"><h3>09 / KONTAKT</h3><small>END OF LINE</small></div><div class="panelbody">
-        <div class="guestnote">Masz wspomnienie związane ze starą grą? Znalazłeś ciekawy temat? Odezwij się przez społeczności LEVEL NEXT.</div>
-        <a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Napisz na Discordzie »</a>
-      </div></section>
-      <section class="panel"><div class="panelhead"><h3>04 / STATUS SYSTEMU</h3><small>LIVE</small></div><div class="panelbody">
+    <aside class="rightcol">
+<section class="panel"><div class="panelhead"><h3>04 / STATUS SYSTEMU</h3><small>LIVE</small></div><div class="panelbody">
         <div class="statusline"><span><i class="led"></i>Serwer strony</span><strong>ONLINE</strong></div>
         <div class="statusline"><span>Połączenie</span><strong>STABILNE</strong></div>
-        <div class="statusline"><span>Ostatnia sekcja</span><strong>DAILY</strong></div>
         <div class="statusline"><span>Twoja sesja</span><strong id="sessionStatus">AKTYWNA</strong></div>
         <p class="smallprint">Status interfejsu, nie monitoring serwera.</p>
       </div></section>
-      <section class="panel"><div class="panelhead"><h3>05 / KLIP ZE STREAMU</h3><small>TIKTOK</small></div><div class="panelbody">
+<section class="panel"><div class="panelhead"><h3>05 / KLIP ZE STREAMU</h3><small>TIKTOK</small></div><div class="panelbody">
         <div id="latestTikTok" class="tiktok-frame"><p style="color:#ddd;text-align:center;padding:12px">ODCZYTYWANIE KLIPU...</p></div>
         <a class="button" href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener">Otwórz TikTok »</a>
       </div></section>
-      <section class="panel"><div class="panelhead"><h3>06 / ODTWARZACZ</h3><small>VHS AUDIO</small></div><div class="panelbody">
+<section class="panel"><div class="panelhead"><h3>06 / ODTWARZACZ</h3><small>VHS AUDIO</small></div><div class="panelbody">
         <div class="playerbox"><span class="player-label">▶ SZUM TAŚMY / AMBIENT</span><audio controls preload="none"><source src="vhs.wav" type="audio/wav">Twoja przeglądarka nie obsługuje audio.</audio><p class="smallprint">Odtwarzanie ręczne. Dźwięk nie uruchamia się sam.</p></div>
       </div></section>
     </aside>
