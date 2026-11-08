@@ -1,16 +1,50 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T17:01+01:00",
+  "updatedAt": "2026-11-08T18:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Branża kontra AI. Czyli kto wygra decydujące starcie o przyszłość gier wideo",
-    "summary": "Tworzenie gier nigdy nie było prostsze. Przynajmniej tak to teraz wygląda z perspektywy zwykłych graczy, bo w ostatnich miesiącach zostaliśmy dosłownie zalani niespotykaną wcześniej liczbą produkcji, które są niestety wątpliwej jakości.",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/432461/branza-kontra-ai-czyli-kto-wygra-decydujace-starcie-o-przyszlosc-gier-wideo.html"
+    "title": "Nic cię nie zaskoczy? Mylisz się. O tym filmie mówi dosłownie cały świat",
+    "summary": "Wydawało nam się, że sprawę Elizabeth Holmes i jej medycznego imperium z kartonu przemielono już na wszystkie możliwe strony. Mieliśmy przecież świetną książkę Johna Carreyrou, głośny dokument od HBO i obsypany nagrodami miniserial z Aman...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/432476/nic-cie-nie-zaskoczy-mylisz-sie-o-tym-filmie-mowi-doslownie-caly-swiat.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Nic cię nie zaskoczy? Mylisz się. O tym filmie mówi dosłownie cały świat",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432476/nic-cie-nie-zaskoczy-mylisz-sie-o-tym-filmie-mowi-doslownie-caly-swiat.html",
+      "publishedAt": "2026-11-08T18:00+01:00",
+      "summary": "Wydawało nam się, że sprawę Elizabeth Holmes i jej medycznego imperium z kartonu przemielono już na wszystkie możliwe strony. Mieliśmy przecież świetną książkę Johna Carreyrou, głośny dokument od HBO i obsypany nagrodami miniserial z Aman...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze poznali zakończenie Grand Theft Auto VI. Napisy końcowe trwają więcej niż niejedna gra",
+      "sourceUrl": "https://www.ppe.pl/news/432546/gracze-poznali-zakonczenie-grand-theft-auto-vi-napisy-koncowe-trwaja-wiecej-niz-niejedna-gra.html",
+      "publishedAt": "2026-11-08T17:57+01:00",
+      "summary": "Wielce wyczekiwana premiera Grand Theft Auto VI nastąpi za niespełna 11 dni, dlatego też cała branża odlicza i szykuje się na największy debiut gry w dziejach branży rozrywkowej.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Forza Horizon 6 doczekała się paru pożądanych zmian i zaskakujących aut, ale IKEA odwraca od nich uwagę. Motoprzegląd Drauga",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/forza-horizon-6-doczekala-sie-paru-pozadanych-zmian-i-zaskakujacy/z43227f",
+      "publishedAt": "2026-11-08T17:46+01:00",
+      "summary": "Za nami wyjątkowo ciche dwa tygodnie w świecie wyścigów – niekoniecznie z winy GTA 6, bo mamy jeszcze kilka gatunkowych wydarzeń zapowiedzianych na następne dni, poprzedzające premierę tego behemota. Informacja Forza Horizon 6 doczekała się paru pożądanych zmian i zaskakujących aut, ale IKEA odwraca od nich uwagę. Motoprzegląd Drauga została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531852269.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Balatro Special Edition na Nintendo Switch za 94,99 zł (+ wysyłka) w Perfect Blue",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-balatro-special-edition-na-nintendo-switch-za-9499-zl-wysylka-w-perfect-blue/",
+      "publishedAt": "2026-11-08T17:32+01:00",
+      "summary": "Pudełkowe Balatro Special Edition na Nintendo Switch kupicie teraz w dobrej cenie w sklepie Perfect Blue. To inspirowany pokerem karciany roguelike, w którym budujecie talię, wykorzystujecie specjalne zdolności jokerów i tworzycie kombinacje pozwalające zdobywać coraz wyższe wyniki. Wydanie z grą na kartridżu, polskimi napisami oraz 10 fizycznymi kartami może być Wasze za 94,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/balatro-special-edition-miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Branża kontra AI. Czyli kto wygra decydujące starcie o przyszłość gier wideo",
