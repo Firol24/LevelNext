@@ -59,7 +59,7 @@ function updateFullPreview(){
   $('previewStatus').textContent='Podgląd: '+($('page').value)+' / '+column+' / pozycja '+pos;
  }catch(error){$('previewStatus').textContent='Nie udało się zaktualizować podglądu.';}
 }
-function startPreviewRefresh(){let attempts=0;const timer=setInterval(()=>{attempts++;try{if($('liveFrame').contentDocument.querySelector('.layout')){updateFullPreview();clearInterval(timer);}}catch(e){}if(attempts>=40){clearInterval(timer);$('previewStatus').textContent='Podgląd nie odpowiada. Kliknij Odśwież podstronę.';}},250);}
+function startPreviewRefresh(){let attempts=0;const timer=setInterval(()=>{attempts++;try{if($('liveFrame').contentDocument.querySelector('.layout')&&$('liveFrame').contentDocument.documentElement.dataset.cmsLoaded==='true'){updateFullPreview();clearInterval(timer);}}catch(e){}if(attempts>=40){clearInterval(timer);$('previewStatus').textContent='Podgląd nie odpowiada. Kliknij Odśwież podstronę.';}},250);}
 function renderHistory(){
  const root=$('history');root.replaceChildren();const hist=data.history||[];
  if(!hist.length){root.textContent='Brak zapisanych wersji. Historia zacznie się tworzyć po pierwszej zmianie.';return;}
