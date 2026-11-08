@@ -38,7 +38,7 @@ function preview(){
  const page=$('page').value,cols={leftcol:$('preview-left'),maincol:$('preview-main'),rightcol:$('preview-right')};
  for(const [key,el] of Object.entries(cols)){
   el.replaceChildren();const head=document.createElement('h3');head.textContent=key==='leftcol'?'LEWA KOLUMNA':key==='maincol'?'KOLUMNA GŁÓWNA':'PRAWA KOLUMNA';el.append(head);
-  const list=data.blocks.filter(b=>b.page===page&&b.column===key).sort((x,y)=>(+x.position||1)-(+y.position||1));
+  const list=data.blocks.filter(b=>b.page===page&&b.column===key&&!($('operation').value==='edit'&&b.id===$('block').value)).sort((x,y)=>(+x.position||1)-(+y.position||1));
   for(const b of list)el.append(renderBlock(b));
  }
  const op=$('operation').value;
