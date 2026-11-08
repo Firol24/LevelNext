@@ -107,9 +107,9 @@ h1,h2,h3{line-height:1.25}
 
 
 /* PLYWAJACE OKNO ODTWARZACZA - KLASYCZNY UKLAD WINAMP */
-.winamp-window{position:fixed;z-index:1000;right:24px;bottom:24px;width:310px;background:#c6c6c6;border:2px solid;border-color:#f7f7f7 #343434 #343434 #f7f7f7;box-shadow:2px 3px 8px #0009;color:#111;font:10px Tahoma,Verdana,sans-serif;user-select:none}
-.winamp-titlebar{height:23px;display:flex;align-items:center;gap:6px;padding:2px 3px 2px 6px;background:linear-gradient(90deg,#101c42,#315ca0 60%,#162b59);color:#fff;font:bold 11px Tahoma,Verdana,sans-serif;cursor:move;touch-action:none}
-.winamp-app-icon{font-size:13px;color:#b9e45b;text-shadow:1px 1px #000}
+.winamp-window{position:absolute;z-index:1000;left:0;top:0;width:310px;background:#c6c6c6;border:2px solid;border-color:#f7f7f7 #343434 #343434 #f7f7f7;box-shadow:2px 3px 8px #0009;color:#111;font:10px Tahoma,Verdana,sans-serif;user-select:none}
+.winamp-titlebar{height:23px;display:flex;align-items:center;gap:6px;padding:2px 3px 2px 6px;background:linear-gradient(90deg,#101c42,#315ca0 60%,#162b59);color:#fff;font:bold 11px Tahoma,Verdana,sans-serif;cursor:grab;touch-action:none}
+.winamp-titlebar:active{cursor:grabbing}\n.winamp-app-icon{font-size:13px;color:#b9e45b;text-shadow:1px 1px #000}
 .winamp-title-spacer{flex:1}
 .winamp-window-btn{width:19px;height:17px;padding:0;border:1px solid;border-color:#fff #555 #555 #fff;background:#c6c6c6;color:#111;font:bold 12px Tahoma;line-height:12px;cursor:pointer}
 .winamp-window-btn:active{border-color:#555 #fff #fff #555}
@@ -135,5 +135,5 @@ h1,h2,h3{line-height:1.25}
 .winamp-foot{color:#333;font:9px "Courier New",monospace}
 .winamp-bottom{display:flex;justify-content:space-between;padding:4px 8px;background:#aaa;border-top:1px solid #eee;color:#333;font:bold 8px Tahoma;letter-spacing:.04em}
 .winamp-launcher{position:fixed;right:16px;bottom:16px;z-index:1001;padding:8px 12px;background:linear-gradient(#315ca0,#14274e);border:2px outset #c6c6c6;color:#fff;font:bold 11px Tahoma;cursor:pointer;box-shadow:2px 2px 5px #0008}
-@media(max-width:620px){.winamp-window{right:8px;bottom:8px;width:min(310px,calc(100vw - 16px))}}
+@media(max-width:620px){.winamp-window{width:min(310px,calc(100vw - 16px))}}
 @media(prefers-reduced-motion:reduce){.winamp-window.is-playing .winamp-spectrum i{animation:none}}
