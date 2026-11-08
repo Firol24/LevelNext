@@ -1,4 +1,15 @@
 {
-  "blocks": [],
+  "blocks": [
+    {
+      "id": "pliki",
+      "page": "pobieranie.html",
+      "column": "maincol",
+      "position": 2,
+      "title": "DOSTĘPNE PLIKI I PROGRAMY",
+      "body": "GET WINRAR\n\nWinRAR · Oficjalna strona producenta\n\nPopularny program do otwierania i tworzenia archiwów RAR, ZIP i wielu innych formatów. Pobieranie instalatora odbywa się bezpośrednio z witryny WinRAR.",
+      "image": "https://media.thuvien.org/photo/55237/image/b310d63416864e0da7c00b14fe73270c.gif",
+      "link": "https://www.win-rar.com/start.html?&L=12"
+    }
+  ],
   "history": []
 }
