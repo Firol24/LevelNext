@@ -13,7 +13,7 @@
 <div><label for="position">Kolejność w kolumnie</label><input id="position" type="number" min="1" max="99" value="1"></div>
 <div><label for="title">Nagłówek bloku</label><input id="title" maxlength="100" placeholder="Np. OSTATNIE ZNALEZISKA"></div>
 </div>
-<label for="body">Treść</label><textarea id="body" maxlength="10000" placeholder="Treść bloku. Oddziel akapity pustą linią. Prosty tekst, bez HTML."></textarea>
+<label for="body" id="bodyLabel">Treść</label><p class="smallprint" id="bodyHelp">Własny blok CMS: zwykły tekst, akapity oddzielaj pustą linią.</p><textarea id="body" maxlength="30000" placeholder="Treść bloku..."></textarea>
 <div class="admin-grid"><div><label for="image">Adres obrazka (opcjonalnie)</label><input id="image" type="url" placeholder="https://..."></div><div><label for="link">Adres odnośnika (opcjonalnie)</label><input id="link" type="url" placeholder="https://..."></div></div>
 <div class="admin-actions"><button class="button" id="submit">Wyślij zmianę na GitHub »</button><button class="button" type="button" id="clear">Wyczyść formularz</button></div>
 <section class="admin-preview"><h2>PODGLĄD STRONY NA ŻYWO</h2><p class="smallprint">Poniżej widzisz prawdziwą podstronę LEVEL NEXT z jej obecnym wyglądem, treścią, nagłówkiem, menu i kolumnami. Wpis roboczy pojawi się dokładnie w wybranej kolumnie i kolejności. Zmiany formularza są odświeżane automatycznie, bez publikowania.</p><div class="live-toolbar"><button type="button" id="viewDesktop">Widok desktop 980 px</button><button type="button" id="viewMobile">Widok telefonu 390 px</button><button type="button" id="reloadPreview">Odśwież podstronę</button><span id="previewStatus" class="smallprint">Ładowanie podglądu...</span></div><div class="live-frame-wrap" id="liveFrameWrap"><iframe id="liveFrame" class="live-frame" title="Podgląd strony LEVEL NEXT"></iframe></div></section>
@@ -24,7 +24,7 @@
 <script>
 (()=>{
 const $=id=>document.getElementById(id),file='data/site-content.json';
-let data={blocks:[],history:[]};
+let data={blocks:[],history:[]},nativePanels=[];
 const labels={'index.html':'START','o-nas.html':'O NAS','materialy.html':'MATERIAŁY','retro-misja.html':'RETRO MISJA','sprzet.html':'SPRZĘT','opinie.html':'WPISY','archiwum.html':'ARCHIWUM','kontakt.html':'KONTAKT','pobieranie.html':'POBIERANIE'};
 function renderBlock(b,draft=false){
  const el=document.createElement('div');el.className='preview-block'+(draft?' preview-draft':'');
@@ -44,6 +44,12 @@ function updateFullPreview(){
   doc.querySelectorAll('[data-admin-draft="true"]').forEach(el=>el.remove());
   const op=$('operation').value,id=$('block').value;
   if(op==='delete'){const old=doc.querySelector('[data-cms-id="'+CSS.escape(id)+'"]');if(old)old.remove();$('previewStatus').textContent='Podgląd po usunięciu wybranego bloku.';return;}
+  const selected=$('block').value;
+  if(selected.startsWith('native|')){
+   const bits=selected.split('|'),page=bits[1],heading=bits[2],index=Number(bits[3]);
+   const matches=Array.from(doc.querySelectorAll('.layout .'+$('column').value+' > .panel')).filter(panel=>{const h=panel.querySelector('.panelhead h1,.panelhead h2,.panelhead h3,.panelhead h4');return h&&h.textContent.trim()===heading&&!panel.dataset.cmsId;});
+   const old=matches[index];if(old){const h=old.querySelector('.panelhead h1,.panelhead h2,.panelhead h3,.panelhead h4');if(h)h.textContent=$('title').value;const b=old.querySelector('.panelbody');if(b)b.innerHTML=$('body').value;$('previewStatus').textContent='Podgląd edycji oryginalnego panelu w jego miejscu.';return;}
+  }
   const column=$('column').value,target=layout.querySelector('.'+column);
   if(!target){$('previewStatus').textContent='Nie znaleziono wybranej kolumny.';return;}
   const draft=doc.createElement('section');draft.className='panel cms-panel';draft.dataset.adminDraft='true';draft.style.outline='2px dashed #ffdc55';draft.style.outlineOffset='2px';
@@ -77,7 +83,12 @@ function renderHistory(){
 }
 function refresh(){
  const select=$('block'),old=select.value;select.replaceChildren(new Option('Wybierz blok...',''));
- for(const b of data.blocks){const opt=new Option((b.title||'Bez tytułu')+' / '+(labels[b.page]||b.page)+' / '+b.column,b.id);select.add(opt);}
+ const nativeGroup=document.createElement('optgroup');nativeGroup.label='Istniejące sekcje strony';
+ for(const b of nativePanels){const opt=new Option(b.title+' / '+(labels[b.page]||b.page)+' / '+b.column,'native|'+b.page+'|'+b.heading+'|'+b.index);nativeGroup.append(opt);}
+ if(nativeGroup.children.length)select.append(nativeGroup);
+ const cmsGroup=document.createElement('optgroup');cmsGroup.label='Bloki dodane przez CMS';
+ for(const b of data.blocks){const opt=new Option((b.title||'Bez tytułu')+' / '+(labels[b.page]||b.page)+' / '+b.column,b.id);cmsGroup.append(opt);}
+ if(cmsGroup.children.length)select.append(cmsGroup);
  if(old)select.value=old;
  const list=$('items');list.replaceChildren();
  if(!data.blocks.length)list.textContent='Brak własnych bloków. Dodaj pierwszy powyżej.';
@@ -91,9 +102,44 @@ function refresh(){
  }
  preview();renderHistory();
 }
-function loadSelected(){
- const b=data.blocks.find(x=>x.id===$('block').value);if(!b)return;
- $('page').value=b.page;$('column').value=b.column;$('position').value=b.position;$('title').value=b.title;$('body').value=b.body;$('image').value=b.image||'';$('link').value=b.link||'';loadFullPreview();preview();
+async function loadSelected(){
+ const selected=$('block').value;
+ if(selected.startsWith('native|')){
+  const bits=selected.split('|'),page=bits[1],heading=bits[2],index=Number(bits[3]);
+  const item=nativePanels.find(x=>x.page===page&&x.heading===heading&&x.index===index);if(!item)return;
+  $('page').value=page;$('column').value=item.column;$('position').value=item.position;$('title').value=item.title;
+  $('body').value=item.html;$('image').value='';$('link').value='';
+  $('bodyLabel').textContent='Treść sekcji (HTML)';$('bodyHelp').textContent='Edytujesz oryginalny kod HTML istniejącego panelu. Zachowaj znaczniki i klasy, jeśli chcesz zachować jego wygląd i działanie.';
+  $('image').disabled=true;$('link').disabled=true;
+  loadFullPreview();preview();return;
+ }
+ const b=data.blocks.find(x=>x.id===selected);if(!b)return;
+ $('page').value=b.page;$('column').value=b.column;$('position').value=b.position;$('title').value=b.title;$('body').value=b.body;$('image').value=b.image||'';$('link').value=b.link||'';
+ $('bodyLabel').textContent='Treść';$('bodyHelp').textContent='Własny blok CMS: zwykły tekst, akapity oddzielaj pustą linią.';
+ $('image').disabled=false;$('link').disabled=false;loadFullPreview();preview();
+}
+async function discoverNativePanels(){
+ nativePanels=[];
+ await Promise.all(Object.keys(labels).map(async page=>{
+  try{
+   const response=await fetch(page+'?native-cms-scan='+Date.now(),{cache:'no-store'});if(!response.ok)return;
+   const source=await response.text(),doc=new DOMParser().parseFromString(source,'text/html');
+   const columns=['leftcol','maincol','rightcol'];
+   columns.forEach(column=>{
+    const root=doc.querySelector('.layout .'+column);if(!root)return;
+    let position=0;
+    Array.from(root.querySelectorAll(':scope > .panel')).forEach(panel=>{
+     position++;
+     if(panel.dataset.cmsId||panel.id==='misja'||panel.id==='latestVideo'||panel.querySelector('form,iframe,canvas,audio,video,button'))return;
+     const heading=panel.querySelector('.panelhead h1,.panelhead h2,.panelhead h3,.panelhead h4');
+     const body=panel.querySelector('.panelbody');if(!heading||!body)return;
+     const title=heading.textContent.trim();if(!title)return;
+     const same=nativePanels.filter(x=>x.page===page&&x.heading===title).length;
+     nativePanels.push({page,column,position,title,heading:title,index:same,html:body.innerHTML});
+    });
+   });
+  }catch(e){}
+ }));
 }
 $('block').addEventListener('change',()=>{loadSelected();preview();});
 $('page').addEventListener('change',loadFullPreview);
@@ -113,14 +159,17 @@ $('clear').onclick=()=>{
  ['title','body','image','link','page','column','position'].forEach(id=>$(id).disabled=false);preview();
 };
 $('submit').onclick=()=>{
- const op=$('operation').value,id=$('block').value;
+ const op=$('operation').value,id=$('block').value,native=id.startsWith('native|');
  if(op!=='add'&&!id){alert('Wybierz blok do edycji lub usunięcia.');return;}
- const payload={operation:op,id,page:$('page').value,column:$('column').value,position:Number($('position').value)||1,title:$('title').value.trim(),body:$('body').value.trim(),image:$('image').value.trim(),link:$('link').value.trim()};
- if(op!=='delete'&&(!payload.title||!payload.body)){alert('Uzupełnij nagłówek i treść.');return;}
+ if(native&&op!=='edit'){alert('Istniejące sekcje strony można edytować, ale nie usuwać z tego panelu.');return;}
+ const bits=native?id.split('|'):[],nativeHeading=native?bits[2]:'';
+ const payload={operation:op,id:native?'':id,native:native?'yes':'no',sourceHeading:nativeHeading,page:$('page').value,column:$('column').value,position:Number($('position').value)||1,title:$('title').value.trim(),body:$('body').value,image:$('image').value.trim(),link:$('link').value.trim()};
+ if(op!=='delete'&&(!payload.title||!payload.body.trim())){alert('Uzupełnij nagłówek i treść.');return;}
+ if(native&&payload.body.length>30000){alert('Kod sekcji jest zbyt długi.');return;}
  for(const u of [payload.image,payload.link])if(u){try{if(!['http:','https:'].includes(new URL(u).protocol))throw 0;}catch{alert('Adres obrazka lub odnośnika jest nieprawidłowy.');return;}}
- const body=['### Operacja',payload.operation,'### ID bloku',payload.id||'NOWY','### Podstrona',payload.page,'### Kolumna',payload.column,'### Kolejność',String(payload.position),'### Nagłówek',payload.title||'Brak','### Treść',payload.body||'Brak','### Obrazek',payload.image||'Brak','### Odnośnik',payload.link||'Brak'].join('\n\n');
+ const body=['### Operacja',payload.operation,'### Typ bloku',payload.native,'### ID bloku',payload.id||'NATIVE','### Nagłówek źródłowy',payload.sourceHeading||'Brak','### Podstrona',payload.page,'### Kolumna',payload.column,'### Kolejność',String(payload.position),'### Nagłówek',payload.title||'Brak','### Treść',payload.body||'Brak','### Obrazek',payload.image||'Brak','### Odnośnik',payload.link||'Brak'].join('\n\n');
  const url='https://github.com/Firol24/LevelNext/issues/new?'+new URLSearchParams({title:'[SITE-CMS] '+op.toUpperCase()+' '+(payload.title||id||'blok'),body});location.href=url;
 };
-fetch(file+'?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():{blocks:[],history:[]}).then(v=>{data=v;data.blocks=data.blocks||[];data.history=data.history||[];refresh();}).catch(()=>{$('items').textContent='Nie udało się wczytać listy bloków.';});
+Promise.all([fetch(file+'?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():{blocks:[],history:[]}),discoverNativePanels()]).then(([v])=>{data=v;data.blocks=data.blocks||[];data.history=data.history||[];refresh();}).catch(()=>{$('items').textContent='Nie udało się wczytać listy bloków.';});
 })();
 </script></body></html>
