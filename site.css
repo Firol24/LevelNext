@@ -76,3 +76,31 @@ h1,h2,h3{line-height:1.25}
 @media(max-width:850px){.site{max-width:calc(100% - 12px)}.layout{grid-template-columns:165px minmax(0,1fr)}.rightcol{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}.hero-grid{grid-template-columns:1fr 100px}}
 @media(max-width:620px){body{padding:0}.site{width:100%;max-width:100%;margin:0;border-left:0;border-right:0}.masthead{padding:12px 8px}.logo{width:280px}.nav a{flex:1 1 33.33%;text-align:center;padding:7px 3px;font-size:10px}.layout{display:flex;flex-direction:column;padding:6px}.col{width:100%}.maincol{order:0}.leftcol{order:1}.rightcol{order:2;display:flex}.hero-grid{grid-template-columns:1fr}.hero-stamp{display:none}.grid2,.grid3{grid-template-columns:1fr}.gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;scroll-behavior:auto!important}}
+
+
+/* MINI ODTWARZACZ LEVEL NEXT / WINAMP-INSPIRED */
+.winamp{padding:7px;background:#171b20;border:2px solid #697078;box-shadow:inset 0 0 0 1px #080a0d;color:#d7d7d7;font:10px "Courier New",monospace}
+.winamp-title{height:19px;display:flex;align-items:center;gap:6px;padding:2px 5px;background:linear-gradient(#59616b,#303740);color:#f5f5f5;font:bold 9px Verdana,Arial,sans-serif;letter-spacing:.08em}
+.winamp-led{width:6px;height:6px;background:#b7ed49;box-shadow:0 0 5px #b7ed49;border-radius:50%}
+.winamp-version{margin-left:auto;color:#d8c76d}
+.winamp-display{margin-top:6px;padding:7px 8px 6px;background:#090e0b;border:1px inset #5c6464;color:#a8d76b}
+.winamp-trackline,.winamp-foot{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.winamp-playstate{font-size:9px;color:#8fae69;letter-spacing:.1em}
+.winamp-time{font-size:17px;font-weight:bold;letter-spacing:.04em;color:#d4f39a}
+.winamp-track{overflow:hidden;white-space:nowrap;margin:4px 0 6px;color:#c4e38e;font-size:11px}
+.winamp-track span{display:block;overflow:hidden;text-overflow:ellipsis}
+.winamp-meter{height:13px;display:flex;align-items:end;gap:2px;overflow:hidden}
+.winamp-meter i{display:block;flex:1;height:2px;background:#648a42}
+.winamp.is-playing .winamp-meter i{animation:winampBars .48s ease-in-out infinite alternate}
+.winamp.is-playing .winamp-meter i:nth-child(3n){animation-delay:-.3s}
+.winamp.is-playing .winamp-meter i:nth-child(3n + 1){animation-delay:-.15s}
+@keyframes winampBars{0%{height:2px}25%{height:6px}50%{height:11px}75%{height:5px}100%{height:9px}}
+.winamp-controls{display:flex;align-items:center;gap:4px;margin-top:7px}
+.winamp-controls button{width:27px;height:23px;padding:0;background:linear-gradient(#626a73,#353c44);border:1px outset #9299a0;color:#f1f1f1;font:bold 12px Arial,sans-serif;cursor:pointer}
+.winamp-controls button:active{border-style:inset;background:#252b31}
+.winamp-control-label{margin-left:auto;color:#b9c48d;font:bold 8px Verdana,Arial,sans-serif}
+.winamp-volume{width:64px;height:13px;accent-color:#a4c76b;cursor:pointer}
+.winamp-seek{display:block;width:100%;height:12px;margin:6px 0 2px;accent-color:#a4c76b;cursor:pointer}
+.winamp-foot{color:#9aa18c;font-size:9px}
+.winamp-note{margin-top:8px}
+@media(prefers-reduced-motion:reduce){.winamp.is-playing .winamp-meter i{animation:none}}
