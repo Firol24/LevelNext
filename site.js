@@ -197,6 +197,63 @@
     setupMission("rollMission", "mission", "missionState");
     setupMission("rollRetro", "retro-action", "retroMissionState");
 
+
+    // Wlasny CMS witryny LEVEL NEXT. Dane sa oddzielone od LEVEL NEXT DAILY.
+    (function loadSiteContent() {
+      var page = (window.location.pathname.split("/").pop() || "index.html").toLowerCase();
+      fetch("data/site-content.json?ts=" + Date.now(), { cache: "no-store" })
+        .then(function (response) { if (!response.ok) throw new Error("CMS unavailable"); return response.json(); })
+        .then(function (data) {
+          (Array.isArray(data.blocks) ? data.blocks : [])
+            .filter(function (block) { return block.page === page && block.enabled !== false; })
+            .sort(function (a, b) {
+              var order = { leftcol: 0, maincol: 1, rightcol: 2 };
+              return (order[a.column] - order[b.column]) || (Number(a.position || 1) - Number(b.position || 1));
+            })
+            .forEach(function (block) {
+              var column = document.querySelector(".layout ." + block.column);
+              if (!column) return;
+              var panel = document.createElement("section");
+              panel.className = "panel cms-panel";
+              var head = document.createElement("div");
+              head.className = "panelhead";
+              var heading = document.createElement("h2");
+              heading.textContent = block.title || "NOTATKA";
+              head.appendChild(heading);
+              var body = document.createElement("div");
+              body.className = "panelbody";
+              String(block.body || "").split(/\\n\\s*\\n/).filter(Boolean).forEach(function (paragraph) {
+                var p = document.createElement("p");
+                p.textContent = paragraph;
+                body.appendChild(p);
+              });
+              if (block.image) {
+                var img = document.createElement("img");
+                img.src = block.image;
+                img.alt = block.title || "";
+                img.loading = "lazy";
+                img.style.maxWidth = "100%";
+                img.style.height = "auto";
+                body.insertBefore(img, body.firstChild);
+              }
+              if (block.link) {
+                var a = document.createElement("a");
+                a.href = block.link;
+                a.textContent = "Otwórz odnośnik »";
+                a.target = "_blank";
+                a.rel = "noopener";
+                a.className = "button";
+                body.appendChild(a);
+              }
+              panel.append(head, body);
+              var panels = Array.from(column.querySelectorAll(":scope > .panel"));
+              var position = Math.max(1, Number(block.position || 1));
+              if (panels.length >= position) column.insertBefore(panel, panels[position - 1]);
+              else column.appendChild(panel);
+            });
+        }).catch(function () {});
+    })();
+
     // Zaznaczenie aktywnej zakladki na kazdej podstronie.
     var currentPage = (window.location.pathname.split("/").pop() || "index.html").toLowerCase();
     document.querySelectorAll(".nav a").forEach(function (link) {
