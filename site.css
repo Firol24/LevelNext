@@ -32,7 +32,7 @@ h1,h2,h3{line-height:1.25}
 .page-title{margin:0;color:#ffdf69;font:bold 24px Georgia,"Times New Roman",serif;letter-spacing:0}
 .lead{font:13px/1.5 Verdana,Arial,sans-serif;color:#e0d5e9;max-width:760px}
 .hero{padding:12px;background:#2a1d38;border:2px ridge #76588d}
-.hero-grid{display:grid;grid-template-columns:minmax(0,1fr) 120px;gap:12px;align-items:center}
+.hero-grid{display:grid;grid-template-columns:1fr;gap:12px;align-items:center}
 .hero h1{margin:5px 0 8px;color:#ffdf69;font:bold 26px Georgia,"Times New Roman",serif;line-height:1.1}
 .hero p{max-width:700px}
 .hero-stamp{padding:9px 5px;text-align:center;border:2px dashed #9b7bb7;color:var(--yellow);background:#170f20;font:bold 18px Georgia,"Times New Roman",serif}
@@ -73,7 +73,7 @@ h1,h2,h3{line-height:1.25}
 .formfield input,.formfield textarea,.formfield select{width:100%;padding:7px;background:#100b17;color:var(--text);border:2px inset #76588d}
 .formfield textarea{min-height:100px;resize:vertical}
 [hidden]{display:none!important}
-@media(max-width:850px){.site{max-width:calc(100% - 12px)}.layout{grid-template-columns:165px minmax(0,1fr)}.rightcol{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}.hero-grid{grid-template-columns:1fr 100px}}
+@media(max-width:850px){.site{max-width:calc(100% - 12px)}.layout{grid-template-columns:165px minmax(0,1fr)}.rightcol{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}.hero-grid{grid-template-columns:1fr}}
 @media(max-width:620px){body{padding:0}.site{width:100%;max-width:100%;margin:0;border-left:0;border-right:0}.masthead{padding:12px 8px}.logo{width:280px}.nav a{flex:1 1 33.33%;text-align:center;padding:7px 3px;font-size:10px}.layout{display:flex;flex-direction:column;padding:6px}.col{width:100%}.maincol{order:0}.leftcol{order:1}.rightcol{order:2;display:flex}.hero-grid{grid-template-columns:1fr}.hero-stamp{display:none}.grid2,.grid3{grid-template-columns:1fr}.gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;scroll-behavior:auto!important}}
 
