@@ -218,3 +218,17 @@ h1,h2,h3{line-height:1.25}
 .download-empty{display:flex;align-items:center;gap:12px;padding:12px;background:#170f20;border:1px dashed #76588d}
 .download-empty p{margin:5px 0 0;font:11px Verdana,Arial,sans-serif}
 .download-icon{color:#a77be0;font:28px "Courier New",monospace}
+
+/* Y2K KID / DOWNLOAD ZONE */
+.footer-y2k{display:block;width:88px;height:31px;object-fit:contain}
+.welcome-y2k{display:flex;justify-content:center;margin:0 0 10px}
+.welcome-y2k img{display:block;width:88px;height:31px;object-fit:contain}
+.download-entry{display:flex;align-items:flex-start;gap:12px;padding:12px;background:#170f20;border:2px ridge #76588d}
+.download-entry-icon{flex:0 0 42px;width:42px;height:42px;display:grid;place-items:center;background:#100b17;border:2px inset #76588d;color:#ffdf69;font:28px "Courier New",monospace}
+.download-entry-copy{min-width:0}
+.download-entry-copy>strong{display:block;color:#ffdf69;font:bold 13px Verdana,Arial,sans-serif}
+.download-entry-copy p{margin:7px 0;font:11px/1.5 Verdana,Arial,sans-serif;color:#e0d5e9}
+.download-version{display:block;margin-top:3px;color:#bcaecb;font:9px "Courier New",monospace}
+.webbutton-entry{align-items:center}
+.webbutton-entry>img{display:block;flex:0 0 88px;width:88px;height:31px;object-fit:contain}
+@media(max-width:620px){.download-entry{flex-direction:column}.webbutton-entry{align-items:flex-start}}
