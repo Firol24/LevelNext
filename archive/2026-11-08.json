@@ -1,17 +1,61 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T13:01+01:00",
+  "updatedAt": "2026-11-08T14:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Na 11 dni przed premierą GTA 6 pudełkowa wersja gry niesie obietnicę miłej niespodzianki. Wyciekła liczba osiągnięć",
-    "summary": "Wiele wskazuje na to, że gracze, którzy zdecydują się na fizyczną wersję GTA 6, znajdą w pudełku miłą niespodziankę. Wyciekły też nowe szczegóły dotyczące rozmiaru gry i osiągnięć. Informacja Na 11 dni przed premierą GTA 6 pudełkowa wersja gry niesie obietnicę miłej niespodzianki. Wyciekła liczba osiągnięć została opublikowana przez GRYOnline.pl 8 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/na-11-dni-przed-premiera-gta-6-pudelkowa-wersja-gry-niesie-obietn/z23227d",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531837542.jpg"
+    "title": "Dopasowana polska cena i polskie napisy. Nowy cyberpunkowy hit ze Steama zasługuje na uwagę Polaków [Aktualizacja: aktualna sprzedaż]",
+    "summary": "Probably Stolen, czyli cyberpunkowa gra o prowadzeniu sklepu, stała się przebojem na Steamie. Informacja Dopasowana polska cena i polskie napisy. Nowy cyberpunkowy hit ze Steama zasługuje na uwagę Polaków [Aktualizacja: aktualna sprzedaż] została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/dopasowana-polska-cena-i-polskie-napisy-nowy-cyberpunkowy-hit-ze/z232157",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/530980250.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dopasowana polska cena i polskie napisy. Nowy cyberpunkowy hit ze Steama zasługuje na uwagę Polaków [Aktualizacja: aktualna sprzedaż]",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dopasowana-polska-cena-i-polskie-napisy-nowy-cyberpunkowy-hit-ze/z232157",
+      "publishedAt": "2026-11-08T14:54+01:00",
+      "summary": "Probably Stolen, czyli cyberpunkowa gra o prowadzeniu sklepu, stała się przebojem na Steamie. Informacja Dopasowana polska cena i polskie napisy. Nowy cyberpunkowy hit ze Steama zasługuje na uwagę Polaków [Aktualizacja: aktualna sprzedaż] została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/530980250.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Sony anulowało darmową grę z kultowej 22-letniej serii. Oficjalnej premiery Ratchet & Clank: Ranger Rumble nigdy nie będzie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/sony-anulowalo-darmowa-gre-z-kultowej-22-letniej-serii-oficjalnej/z33227e",
+      "publishedAt": "2026-11-08T14:37+01:00",
+      "summary": "Możliwe, że po raz pierwszy i ostatni czytacie o tej grze. Ratchet & Clank: Ranger Rumble zostało bowiem anulowane, nim się ukazało, przynajmniej oficjalnie. Informacja Sony anulowało darmową grę z kultowej 22-letniej serii. Oficjalnej premiery Ratchet & Clank: Ranger Rumble nigdy nie będzie została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531841030.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Padłem przed nim na kolana i błagałem”. Richard Gere od 30 lat marzy o współpracy z tym reżyserem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/padlem-przed-nim-na-kolana-i-blagalem-richard-gere-od-30-lat-marz/z03225d",
+      "publishedAt": "2026-11-08T14:02+01:00",
+      "summary": "Richard Gere 30 lat temu błagał reżysera Królowej bandytów o rolę w jego produkcji i do dziś żałuje, że jego prośba nie została spełniona. Informacja „Padłem przed nim na kolana i błagałem”. Richard Gere od 30 lat marzy o współpracy z tym reżyserem została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531664732.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Disney+ zaczyna dodawać całe kanały telewizyjne. Streaming wymyśla kablówkę od nowa?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/431755/disney-zaczyna-dodawac-cale-kanaly-telewizyjne-streaming-wymysla-kablowke-od-nowa.html",
+      "publishedAt": "2026-11-08T14:00+01:00",
+      "summary": "Przez lata streaming obiecywał nam coś ważnego - koniec z czekaniem, aż ktoś łaskawie wyemituje interesujący nas film o 21:35. Wybierasz, oglądasz, zatrzymujesz, wracasz jutro. Ramówka miała zostać w historii. Tymczasem otwieramy Disney+ w 20...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ceniona kosmiczna strategia tanio jak nigdy! Klucz Steam do Space Haven za 2,71 zł w Kinguinie",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/ceniona-kosmiczna-strategia-tanio-jak-nigdy-klucz-steam-do-space-haven-za-271-zl-w-kinguinie/",
+      "publishedAt": "2026-11-08T13:55+01:00",
+      "summary": "W Kinguinie możecie obecnie kupić klucz Steam do Space Haven w historycznie najniższej cenie. To kosmiczna strategia od studia Bugbyte, w której budujecie własne statki, zarządzacie zasobami i dbacie o potrzeby załogi, przemierzając galaktykę w poszukiwaniu nowego domu. Produkcja oferuje polską wersję językową, ma około 85% pozytywnych recenzji na Steamie, a po wykorzystaniu kodu zniżkowego może być Wasza za 2,71 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Space-Haven_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Na 11 dni przed premierą GTA 6 pudełkowa wersja gry niesie obietnicę miłej niespodzianki. Wyciekła liczba osiągnięć",
@@ -20,6 +64,23 @@
       "summary": "Wiele wskazuje na to, że gracze, którzy zdecydują się na fizyczną wersję GTA 6, znajdą w pudełku miłą niespodziankę. Wyciekły też nowe szczegóły dotyczące rozmiaru gry i osiągnięć. Informacja Na 11 dni przed premierą GTA 6 pudełkowa wersja gry niesie obietnicę miłej niespodzianki. Wyciekła liczba osiągnięć została opublikowana przez GRYOnline.pl 8 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531837542.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Marvel może wykonać ruch, którego w MCU jeszcze nie było. Twórca ma gotowy pomysł",
+      "sourceUrl": "https://www.ppe.pl/news/432492/marvel-moze-wykonac-ruch-ktorego-w-mcu-jeszcze-nie-bylo-tworca-ma-gotowy-pomysl.html",
+      "publishedAt": "2026-11-08T13:30+01:00",
+      "summary": "VisionQuest” zbliża się do finału i zgodnie z dotychczasowymi zapowiedziami ma zamknąć telewizyjną trylogię rozpoczętą przez „WandaVision”, a następnie rozwiniętą w „Agatha All Along”. Każda z poprzednich produkcji otrzymała tylk...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Technic Aston Martin Valkyrie za 139 zł (cena katalogowa 269,99 zł) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-technic-aston-martin-valkyrie-za-139-zl-cena-katalogowa-26999-zl-w-media-expert/",
+      "publishedAt": "2026-11-08T13:24+01:00",
+      "summary": "Dobrze prezentujący się zestaw LEGO Technic Aston Martin Valkyrie znajdziecie w promocji w sklepie Media Expert. Składający się z 707 elementów model brytyjskiego hipersamochodu wyróżnia się turkusową karoserią, otwieranymi drzwiami oraz silnikiem V12 z ruchomymi tłokami i działającym układem kierowniczym. Zestaw może być Wasz w historycznie najniższej cenie wynoszącej 139 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/06/LEGO-Technic-Aston-Martin-Valkyrie-miniatura-224x224.jpg"
     },
     {
       "sourceName": "PPE",
