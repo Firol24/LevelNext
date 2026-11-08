@@ -1,387 +1,207 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Level Next - Retro Gaming Channel</title>
-  <meta name="description" content="Oficjalna strona kanalu Level Next - gry retro, lets play, recenzje i pasja do gamingu!" />
-  <meta name="keywords" content="Level Next, polski kanal gamingowy, retro gry, lets play PL, recenzje gier" />
-  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <style>
-    :root {
-      --purple: #6a0dad;
-      --dark-purple: #330066;
-      --yellow: #fff200;
-      --neon-glow: 0 0 10px #fff200, 0 0 20px #ff0, 0 0 30px #ff0;
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'IBM Plex Mono', 'Courier New', monospace;
-      background-color: #000;
-      background-image: linear-gradient(45deg, var(--dark-purple) 0%, #000 100%);
-      color: var(--yellow);
-      position: relative;
-      min-height: 100vh;
-      overflow-x: hidden;
-    }
-    body::before {
-      content: "";
-      position: fixed;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background-image: repeating-linear-gradient(to bottom, rgba(255,255,255,0.05), rgba(255,255,255,0.05) 1px, transparent 1px, transparent 2px);
-      pointer-events: none;
-      opacity: 0.3;
-      z-index: 9999;
-      mix-blend-mode: overlay;
-    }
-    .logo {
-      position: absolute;
-      top: 20px;
-      left: 20px;
-      width: 180px;
-      filter: drop-shadow(var(--neon-glow));
-      z-index: 100;
-      image-rendering: pixelated;
-    }
-    .social-sidebar {
-      position: fixed;
-      left: 10px;
-      top: 50%;
-      transform: translateY(-50%);
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-      z-index: 90;
-    }
-    .social-btn {
-      width: 50px;
-      height: 50px;
-      border: 3px solid var(--yellow);
-      border-radius: 50%;
-      background: rgba(106, 13, 173, 0.7);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      transition: all 0.3s;
-      box-shadow: 0 0 5px var(--yellow);
-    }
-    .social-btn:hover {
-      transform: scale(1.2) skewX(-10deg);
-      background: var(--yellow);
-      box-shadow: var(--neon-glow);
-    }
-    .social-btn img {
-      width: 30px;
-      height: 30px;
-      object-fit: contain;
-    }
-    .container {
-      max-width: 1000px;
-      margin: 0 auto;
-      padding: 50px 15px 30px 80px;
-      display: grid;
-      grid-template-columns: 1fr 300px;
-      gap: 15px;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 16px;
-      grid-column: 1 / -1;
-    }
-    h1 {
-      font-size: 3.2em;\n      font-weight: 700;
-      margin: 0;
-      color: var(--yellow);
-      text-shadow: 0 0 10px var(--yellow), 0 0 20px var(--purple);
-      letter-spacing: 3px;
-    }
-    nav {
-      margin: 12px 0;
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      flex-wrap: wrap;
-      grid-column: 1 / -1;
-    }
-    nav a {
-      color: var(--yellow);
-      text-decoration: none;
-      font-size: 0.85em;
-      padding: 6px 10px;
-      border: 2px solid var(--yellow);
-      background: rgba(51, 0, 102, 0.5);
-      transition: all 0.3s;
-      text-transform: uppercase;
-    }
-    nav a:hover {
-      background: var(--yellow);
-      color: var(--dark-purple);
-      box-shadow: var(--neon-glow);
-    }
-    .fake-marquee-wrapper {
-      overflow: hidden;
-      border-top: 1px solid var(--yellow);
-      border-bottom: 1px solid var(--yellow);
-      background: rgba(106, 13, 173, 0.5);
-      height: 30px;
-      position: relative;
-      grid-column: 1 / -1;
-      margin-bottom: 12px;
-    }
-    .fake-marquee-track {
-      display: flex;
-      white-space: nowrap;
-      animation: scroll-left 20s linear infinite;
-    }
-    .fake-marquee-track span {
-      color: var(--yellow);
-      font-size: 1.1em;
-      letter-spacing: 1px;
-      padding-right: 100px;
-    }
-    @keyframes scroll-left {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(-50%); }
-    }
-    .content {
-      background: rgba(0, 0, 0, 0.7);
-      border: 3px solid var(--yellow);
-      padding: 14px;
-      margin-bottom: 1px;
-      position: relative;
-    }
-    .content::before {
-      content: "";
-      position: absolute;
-      top: 0; left: 0; right: 0; bottom: 0;
-      background: linear-gradient(90deg, transparent 50%, rgba(255, 242, 0, 0.1) 50%),
-                  linear-gradient(transparent 50%, rgba(255, 242, 0, 0.1) 50%);
-      background-size: 5px 5px;
-      pointer-events: none;
-      opacity: 0.3;
-    }
-    .content h2 {
-      color: var(--yellow);
-      margin-top: 0;
-      font-size: 1.2em;
-      border-bottom: 2px dashed var(--yellow);
-      padding-bottom: 6px;
-    }
-    .news-sidebar {
-      padding: 14px;
-      background: rgba(0, 0, 0, 0.7);
-      border: 3px solid var(--yellow);
-    }
-    .news-sidebar h3 {
-      color: var(--yellow);
-      border-bottom: 2px dashed var(--yellow);
-      padding-bottom: 6px;
-      margin-top: 0;
-    }
-    .twitch-embed {
-      width: 100%;
-      height: 220px;
-      background: #000;
-      margin-bottom: 10px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      position: relative;
-      overflow: hidden;
-      border: 2px solid var(--purple);
-    }
-    .clips-panel, .channel-panel, .discord-panel { width:100%; min-height:190px; padding:18px 12px; background:linear-gradient(135deg,#160028,#050008); border:2px solid var(--purple); display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center; gap:12px; }
-    .clips-label { color:var(--yellow); font-size:1rem; margin:0; text-shadow:0 0 8px var(--purple); }
-    .clips-copy, .channel-panel p, .discord-panel p { color:#ddd; font-size:.78rem; line-height:1.6; margin:0; }
-    .channel-link { display:inline-block; color:var(--yellow); border:1px solid var(--yellow); padding:10px 12px; text-decoration:none; font-size:.72rem; line-height:1.5; box-shadow:0 0 8px rgba(255,242,0,.2); }
-    .channel-link:hover { background:var(--yellow); color:#000; }
-    footer {
-      margin-top: 20px;
-      text-align: center;
-      font-size: 0.7em;
-      color: var(--yellow);
-      padding: 10px;
-      border-top: 1px dashed var(--yellow);
-      grid-column: 1 / -1;
-    }
-    @keyframes glitch {
-      0% { transform: translate(0); }
-      20% { transform: translate(-3px, 3px); }
-      40% { transform: translate(-3px, -3px); }
-      60% { transform: translate(3px, 3px); }
-      80% { transform: translate(3px, -3px); }
-      100% { transform: translate(0); }
-    }
-    .glitch-effect:hover {
-      animation: glitch 0.5s linear infinite;
-    }
-  
-    @media (max-width: 760px) {
-      .container { grid-template-columns: minmax(0, 1fr); width: 100%; padding: 104px 14px 24px; gap: 12px; }
-      .social-sidebar { left: auto; right: 10px; top: 12px; transform: none; flex-direction: row; gap: 6px; }
-      .social-btn { width: 36px; height: 36px; }
-      .social-btn img { width: 22px; height: 22px; }
-      .logo { top: 10px; left: 10px; width: 110px; }
-      h1 { font-size: clamp(1.7rem, 8vw, 2.8rem); letter-spacing: 1px; }
-      nav { gap: 6px; }
-      nav a { font-size: .72em; padding: 7px 8px; }
-      .content, .news-sidebar { min-width: 0; }
-      .tiktok-embed { max-width: 100%; }
-    }
-
-    .latest-video-frame { width: 100%; aspect-ratio: 16 / 9; background: #090611; border: 2px solid #f0e500; display: grid; place-items: center; overflow: hidden; }
-    .latest-video-frame iframe { width: 100%; height: 100%; border: 0; display: block; }
-    .latest-video-frame p { color: #f0e500; text-align: center; padding: 12px; }
-    .latest-video-panel { align-items:stretch; }
-    .latest-video-frame { width:100%; aspect-ratio:16 / 9; background:#090611; border:2px solid var(--yellow); overflow:hidden; }
-    .latest-video-frame iframe { width:100%; height:100%; border:0; display:block; }
-    .latest-video-frame p { color:var(--yellow); text-align:center; padding:12px; }
-    .tiktok-clips-panel { height:auto; min-height:0; overflow:visible; display:flex; flex-direction:column; align-items:center; gap:10px; padding:14px 8px; }
-    .tiktok-video-frame { width:100%; max-width:340px; aspect-ratio:9 / 16; background:#090611; border:2px solid var(--purple); overflow:hidden; }
-    .tiktok-video-frame iframe { width:100%; height:100%; border:0; display:block; }
-    .tiktok-clips-panel .clips-copy { text-align:center; }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LEVEL NEXT // archiwum gier i wspomnień</title>
+<meta name="description" content="LEVEL NEXT - niezależny portal o grach, retro gamingu, kulturze internetu i materiałach Firola.">
+<meta name="theme-color" content="#241b35">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=VT323&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#292438;--muted:#716b7b;--paper:#e8e4eb;--paper2:#f4f0f4;--line:#aaa1b4;--purple:#604477;--purple2:#39284d;--lilac:#c8b7d8;--acid:#d7dc9b;--red:#a84c62;--shadow:rgba(24,15,34,.18)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:#211b2a;color:var(--ink);font:13px 'IBM Plex Mono',monospace;line-height:1.55}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:20;opacity:.13;background:repeating-linear-gradient(0deg,transparent 0 2px,rgba(20,12,28,.22) 3px);mix-blend-mode:multiply}
+a{color:#59416e;text-decoration:underline;text-decoration-style:dotted;text-underline-offset:3px}
+a:hover{color:#a23e62;background:#e5d9e9}
+button{font:inherit;cursor:pointer}
+.site{width:min(1180px,calc(100% - 28px));margin:22px auto;background:var(--paper);border:1px solid #8e8498;box-shadow:0 18px 70px #09060e80}
+.topline{background:var(--purple2);color:#e8dff0;padding:6px 13px;display:flex;justify-content:space-between;gap:10px;font-size:10px;letter-spacing:.08em;text-transform:uppercase}
+.masthead{padding:18px 22px 14px;background:linear-gradient(110deg,#d8d0df,#f1edf1 58%,#d6ccdf);border-bottom:4px double var(--purple)}
+.brandrow{display:flex;align-items:center;gap:18px}
+.logo{width:116px;height:auto;image-rendering:pixelated;filter:drop-shadow(2px 2px 0 #9b8aaa)}
+.brandcopy{flex:1}
+.brandcopy h1{font:clamp(42px,7vw,76px)/.82 'VT323',monospace;letter-spacing:.04em;color:#342542;margin:0;text-shadow:2px 2px 0 #b9a9c7}
+.brandcopy p{margin:9px 0 0;color:#655a70;font-size:10px;letter-spacing:.19em;text-transform:uppercase}
+.stamp{border:1px dashed #82718e;padding:8px 10px;text-align:center;font-size:9px;transform:rotate(2deg);color:#65516f;background:#eee8f1}
+.nav{display:flex;flex-wrap:wrap;gap:0;background:#d2c8da;border-top:1px solid #f8f4f8;border-bottom:1px solid #94879e}
+.nav a{padding:10px 14px;border-right:1px solid #b4a9bd;color:#382a47;text-decoration:none;text-transform:uppercase;font-size:10px;font-weight:700}
+.nav a:hover{background:var(--purple);color:white}
+.ticker{display:flex;align-items:center;overflow:hidden;background:#342744;color:#e7dfea;border-bottom:3px solid #b5a6c2;height:31px;font-size:11px}
+.ticker b{background:var(--acid);color:#302b3a;padding:7px 12px;white-space:nowrap}
+.ticker span{white-space:nowrap;padding-left:18px;animation:scroll 28s linear infinite}
+@keyframes scroll{to{transform:translateX(-50%)}}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 285px;gap:13px;padding:14px}
+.maincol,.sidecol{min-width:0}
+.panel{background:var(--paper2);border:1px solid var(--line);box-shadow:3px 3px 0 var(--shadow);margin-bottom:13px}
+.panelhead{background:linear-gradient(90deg,#d6c9df,#e8e1eb);border-bottom:1px solid #b7aabd;padding:7px 10px;display:flex;align-items:center;justify-content:space-between;gap:8px}
+.panelhead h2,.panelhead h3{font-size:11px;letter-spacing:.09em;text-transform:uppercase;margin:0;color:#40314e}
+.panelhead small{font-size:9px;color:#74687e}
+.panelbody{padding:12px}
+.welcome{display:grid;grid-template-columns:1fr 145px;gap:14px;align-items:center}
+.welcome h2{font:28px 'VT323',monospace;color:#49345c;margin:0 0 5px}
+.welcome p{margin:5px 0}
+.ascii{background:#332641;color:#d8cce2;padding:10px 7px;text-align:center;font:11px/1.35 'IBM Plex Mono',monospace;border:1px dashed #9d8eaa}
+.ascii strong{font:28px 'VT323',monospace;color:#d7dc9b;display:block}
+.notice{background:#f0e9d8;border:1px dashed #a99b78;padding:8px 10px;font-size:10px;margin-top:10px}
+.columns{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.feature{background:#ebe5ee;border:1px solid #b9adbf;padding:10px;min-width:0}
+.feature h3{margin:0 0 6px;font-size:11px;text-transform:uppercase;color:#4a365c}
+.feature p{font-size:11px;margin:0 0 8px}
+.linklist{list-style:none;margin:0;padding:0}
+.linklist li{border-bottom:1px dotted #c1b7c7;padding:6px 0;font-size:11px}
+.linklist li:last-child{border:0}
+.tag{display:inline-block;background:#ded4e5;color:#554163;border:1px solid #b6a7c2;padding:1px 5px;font-size:9px;margin-right:4px}
+.video-frame{width:100%;aspect-ratio:16/9;background:#17121e;border:2px solid #746183;display:grid;place-items:center;overflow:hidden}
+.video-frame iframe{width:100%;height:100%;border:0;display:block}
+.video-frame p{color:#d9cce3;text-align:center;padding:12px;font-size:10px}
+.tiktok-frame{width:100%;max-width:250px;aspect-ratio:9/16;background:#17121e;border:2px solid #746183;overflow:hidden;margin:auto}
+.tiktok-frame iframe{width:100%;height:100%;border:0}
+.button{display:inline-block;background:#4a365b;color:#f3edf5;border:1px solid #2e213a;padding:7px 10px;text-decoration:none;font-size:10px;text-transform:uppercase;margin-top:8px}
+.button:hover{background:#756087;color:white}
+.socials{display:flex;flex-wrap:wrap;gap:7px}
+.socials a{display:flex;align-items:center;gap:6px;background:#e8e0eb;border:1px solid #b7aabd;padding:6px 8px;text-decoration:none;font-size:10px;color:#493657}
+.socials img{width:17px;height:17px;object-fit:contain}
+.statusline{display:flex;justify-content:space-between;gap:8px;padding:5px 0;border-bottom:1px dotted #c2b8c8;font-size:10px}
+.led{display:inline-block;width:7px;height:7px;background:#758b58;border-radius:50%;margin-right:5px;box-shadow:0 0 5px #758b58}
+.counter{display:flex;gap:3px;justify-content:center;margin:7px 0}
+.counter span{background:#28212e;color:#d7dc9b;padding:3px 5px;font:18px 'VT323',monospace;border:1px solid #81748b}
+.smallprint{font-size:9px;color:#746b79}
+.guestnote{background:#eee8f0;border-left:3px solid #887397;padding:8px;font-size:10px}
+.footer{background:#d4cbdc;border-top:3px double #9c8da8;padding:14px;text-align:center;font-size:10px;color:#62576b}
+.footer a{margin:0 5px}
+.modalback{position:fixed;inset:0;background:#100b18b8;z-index:50;display:grid;place-items:center;padding:18px}
+.modal{width:min(430px,100%);background:#e9e3eb;border:2px solid #6f5a7d;box-shadow:8px 8px 0 #100b18;padding:0}
+.modalbar{background:#493657;color:#f2eaf5;padding:7px 10px;font-size:11px;display:flex;justify-content:space-between}
+.modalbody{padding:17px;font-size:12px}
+.modalbody h2{font:27px 'VT323',monospace;margin:0 0 5px;color:#493657}
+.modalactions{text-align:right;margin-top:14px}
+.modalactions button{background:#4a365b;color:white;border:1px solid #2b1e36;padding:6px 15px}
+.hidden{display:none!important}
+@media(max-width:800px){.layout{grid-template-columns:1fr}.sidecol{display:grid;grid-template-columns:1fr 1fr;gap:10px;align-items:start}.sidecol .panel{margin:0}.brandcopy p{letter-spacing:.08em}.stamp{display:none}}
+@media(max-width:520px){.site{width:100%;margin:0;border-left:0;border-right:0}.topline{font-size:8px}.masthead{padding:13px}.brandrow{gap:10px}.logo{width:76px}.brandcopy h1{font-size:47px}.brandcopy p{font-size:8px}.nav a{flex:1 1 33.33%;text-align:center;padding:9px 5px;font-size:9px;border-bottom:1px solid #b4a9bd}.layout{padding:9px;gap:9px}.welcome{grid-template-columns:1fr}.ascii{display:none}.columns{grid-template-columns:1fr}.sidecol{grid-template-columns:1fr}.panelbody{padding:10px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
-<a href="https://firol24.github.io/LevelNext">
-  <img src="logo.png" alt="Level Next Logo" class="logo" />
-</a>
-<div class="social-sidebar">
-  <a href="https://discord.gg/vtQ72NDNZb" class="social-btn" target="_blank" title="Discord"><img src="pngegg (1).png" alt="Discord" /></a>
-  <a href="https://www.twitch.tv/tu_firol" class="social-btn" target="_blank" title="Twitch"><img src="pngegg.png" alt="Twitch" /></a>
-  <a href="https://www.youtube.com/@tufirol9695" class="social-btn" target="_blank" title="YouTube"><img src="icons8-youtube-48.png" alt="YouTube" /></a>
-  <a href="https://www.tiktok.com/@tu_firol" class="social-btn" target="_blank" title="TikTok"><img src="icons8-tiktok-48.png" alt="TikTok" /></a>
-  <a href="https://www.instagram.com/_firol_" class="social-btn" target="_blank" title="Instagram"><img src="icons8-instagram-48.png" alt="Instagram" /></a>
-</div>
-<div class="container">
-  <header>
-    <h1>LEVEL NEXT</h1>
-    <p>RETRO GAMING CHANNEL</p>
+<div class="site">
+  <div class="topline"><span>● LEVEL NEXT NETWORK / niezależny serwis</span><span id="clock">ŁĄCZENIE...</span></div>
+  <header class="masthead">
+    <div class="brandrow">
+      <a href="index.html" aria-label="LEVEL NEXT - strona główna"><img src="logo.png" alt="LEVEL NEXT" class="logo"></a>
+      <div class="brandcopy"><h1>LEVEL NEXT</h1><p>gry • wspomnienia • kultura cyfrowa // odłącz się od feedu</p></div>
+      <div class="stamp">EDYCJA<br><strong>WEB 2003</strong><br>PL / ONLINE</div>
+    </div>
   </header>
-  <div class="fake-marquee-wrapper">
-    <div class="fake-marquee-track">
-      <span>🎮 NOWY FILM CO TYDZIEN! 🎮 SUBSCRIBE! 🎮 FOLLOW NA TWITCH! 🎮</span>
-      <span>🎮 NOWY FILM CO TYDZIEN! 🎮 SUBSCRIBE! 🎮 FOLLOW NA TWITCH! 🎮</span>
-    </div>
-  </div>
-  <nav>
-    <a href="#about">📝 O KANALE</a>
-    <a href="#latest">📼 FILMY</a>
-    <a href="sprzet.html">🕹️ SPRZET</a>
-    <a href="retro-misja.html">🎲 RETRO MISJA</a>
-    <a href="daily.html">📰 DAILY</a>
+  <nav class="nav" aria-label="Nawigacja główna">
+    <a href="#start">⌂ START</a><a href="#materialy">▣ MATERIAŁY</a><a href="sprzet.html">▤ SPRZĘT</a><a href="retro-misja.html">◈ RETRO MISJA</a><a href="daily.html">▦ DAILY</a><a href="#kontakt">✉ KONTAKT</a>
   </nav>
-  <main>
-    <div id="about" class="content">
-      <h2>O KANALE</h2>
-      <p>
-        LEVEL NEXT to strona poswiecona <strong>mojej tworczosci</strong>, <strong>zajawkom</strong> i <strong>kulturze gamingowej lat 90/00</strong>.<br><br>
-        Znajdziesz tu lifestyle, recenzje starych gier, muzyke, gameplaye z komentarzem i mase nostalgii!<br>
-        Wbijaj na streamy i sociale!
-      </p>
-    </div>
-    <div id="latest" class="content">
-      <h2>NAJNOWSZY FILM</h2>
-      <div class="channel-panel latest-video-panel">
-        <div id="latestVideo" class="latest-video-frame">
-          <p>ŁADOWANIE NAJNOWSZEGO FILMU...</p>
+  <div class="ticker"><b>WIADOMOŚĆ DNIA</b><span>WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY • WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY •</span></div>
+  <div class="layout" id="start">
+    <main class="maincol">
+      <section class="panel">
+        <div class="panelhead"><h2>01 / O WITRYNIE</h2><small>STRONA GŁÓWNA :: README.TXT</small></div>
+        <div class="panelbody">
+          <div class="welcome">
+            <div><h2>Witaj, podróżniku internetu.</h2>
+              <p><strong>LEVEL NEXT</strong> to mój mały zakątek sieci poświęcony grom, retro sprzętowi, kulturze internetu i rzeczom, do których chce się wracać.</p>
+              <p>Znajdziesz tu materiały z gier, osobiste teksty, stare konsole, nowe odkrycia i trochę cyfrowej nostalgii. Bez gonienia algorytmu. Rozgość się.</p>
+            </div>
+            <div class="ascii"><strong>LVL↑</strong>INSERT COIN<br>PRESS START<br><span>EST. 2025</span></div>
+          </div>
+          <div class="notice">[ INFO ] Ta strona najlepiej wygląda na komputerze. Działa również na telefonie, ale jej układ celowo przypomina stare witryny.</div>
         </div>
-        <a class="channel-link" href="https://www.youtube.com/@tufirol9695/videos" target="_blank" rel="noopener">▶ OTWÓRZ KANAŁ YOUTUBE</a>
-      </div>
-    </div>
-  </main>
-  <div class="news-sidebar">
-    <h3>AKTUALNOSCI</h3>
-    <div class="twitch-embed tiktok-clips-panel">
-      <p class="clips-label">SHOTY ZE STREAMÓW</p>
-      <p class="clips-copy">Najnowsze klipy z mojego TikToka</p>
-      <div id="latestTikTok" class="tiktok-video-frame">
-        <p>ŁADOWANIE NAJNOWSZEGO TIKTOKA...</p>
-      </div>
-      <a class="channel-link" href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener">▶ OGLĄDAJ NA TIKTOKU</a>
-    </div>
-    <h3>DOLACZ NA DISCORDA</h3>
-    <div class="discord-panel">
-        <p>WPADAJ NA SERWER LEVEL NEXT</p>
-        <a class="channel-link" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">✦ DOŁĄCZ DO DISCORDA</a>
-      </div>
+      </section>
+      <section class="panel" id="materialy">
+        <div class="panelhead"><h2>02 / STREFA MATERIAŁÓW</h2><small>OSTATNIE AKTYWNOŚCI</small></div>
+        <div class="panelbody">
+          <div class="columns">
+            <div class="feature"><h3>📼 Najnowszy film</h3><div id="latestVideo" class="video-frame"><p>ODCZYTYWANIE DANYCH Z KANAŁU...</p></div><a class="button" href="https://www.youtube.com/@tufirol9695/videos" target="_blank" rel="noopener">Otwórz kanał YouTube »</a></div>
+            <div class="feature"><h3>🗞 LEVEL NEXT DAILY</h3><p>Codzienna porcja gier, premier, kina i ciekawych znalezisk. Redagowana gazeta dla tych, którzy lubią wiedzieć, co dzieje się poza głównym nurtem.</p><p><span class="tag">GAZETA</span><span class="tag">GAMING</span><span class="tag">KINO</span></p><a class="button" href="daily.html">Czytaj najnowsze wydanie »</a></div>
+            <div class="feature"><h3>🕹 Retro misja</h3><p>Powrót do starszych gier, konsol i historii, które ukształtowały granie.</p><a class="button" href="retro-misja.html">Wejdź do archiwum »</a></div>
+            <div class="feature"><h3>🔧 Sprzęt i stanowisko</h3><p>Konfiguracje, sprzęt, peryferia i moje miejsce do grania.</p><a class="button" href="sprzet.html">Zobacz sprzęt »</a></div>
+          </div>
+        </div>
+      </section>
+      <section class="panel">
+        <div class="panelhead"><h2>03 / NOTATKA REDAKCYJNA</h2><small>PLIK: ABOUT.TXT</small></div>
+        <div class="panelbody"><p>Nie chcę, żeby LEVEL NEXT był kolejnym portalem ścigającym zasięgi. To raczej internetowy pokój pełen gier, wspomnień, własnych opinii i rzeczy znalezionych po drodze.</p><p class="smallprint">Jeśli pamiętasz czasy forów, ksiąg gości, własnych stron i ręcznie robionych buttonów - jesteś u siebie.</p></div>
+      </section>
+    </main>
+    <aside class="sidecol">
+      <section class="panel"><div class="panelhead"><h3>04 / STATUS SYSTEMU</h3><small>LIVE</small></div><div class="panelbody">
+        <div class="statusline"><span><i class="led"></i>Serwer strony</span><strong>ONLINE</strong></div>
+        <div class="statusline"><span>Połączenie</span><strong>STABILNE</strong></div>
+        <div class="statusline"><span>Ostatnia sekcja</span><strong>DAILY</strong></div>
+        <div class="statusline"><span>Twoja sesja</span><strong id="sessionStatus">AKTYWNA</strong></div>
+        <p class="smallprint">Status interfejsu, nie monitoring serwera.</p>
+      </div></section>
+      <section class="panel"><div class="panelhead"><h3>05 / KLIP ZE STREAMU</h3><small>TIKTOK</small></div><div class="panelbody">
+        <div id="latestTikTok" class="tiktok-frame"><p style="color:#ddd;text-align:center;padding:12px">ODCZYTYWANIE KLIPU...</p></div>
+        <a class="button" href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener">Otwórz TikTok »</a>
+      </div></section>
+      <section class="panel"><div class="panelhead"><h3>06 / ŁĄCZA ZEWNĘTRZNE</h3><small>NETWORK</small></div><div class="panelbody"><div class="socials">
+        <a href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener"><img src="pngegg (1).png" alt="">Discord</a>
+        <a href="https://www.twitch.tv/tu_firol" target="_blank" rel="noopener"><img src="pngegg.png" alt="">Twitch</a>
+        <a href="https://www.youtube.com/@tufirol9695" target="_blank" rel="noopener"><img src="icons8-youtube-48.png" alt="">YouTube</a>
+        <a href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener"><img src="icons8-tiktok-48.png" alt="">TikTok</a>
+        <a href="https://www.instagram.com/_firol_" target="_blank" rel="noopener"><img src="icons8-instagram-48.png" alt="">Instagram</a>
+      </div><a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Dołącz do Discorda »</a></div></section>
+      <section class="panel"><div class="panelhead"><h3>07 / LICZNIK ODWIEDZIN</h3><small>LOCAL DATA</small></div><div class="panelbody">
+        <div class="counter" id="visitCounter" aria-label="Liczba lokalnych odwiedzin"><span>0</span><span>0</span><span>0</span><span>1</span></div>
+        <p class="smallprint">Licznik lokalny zapisany w tej przeglądarce. Nie jest globalną statystyką witryny.</p>
+      </div></section>
+      <section class="panel" id="kontakt"><div class="panelhead"><h3>08 / KONTAKT</h3><small>END OF LINE</small></div><div class="panelbody">
+        <div class="guestnote">Masz wspomnienie związane ze starą grą? Znalazłeś ciekawy temat? Odezwij się przez społeczności LEVEL NEXT.</div>
+        <a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Napisz na Discordzie »</a>
+      </div></section>
+    </aside>
   </div>
-  <footer>
-    &copy; 2025 LEVEL NEXT | WSZELKIE PRAWA ZASTRZEZONE<br>
-    <span id="visitorCount">ODWIEDZIN: 0</span> | 
-    <span id="currentTime">00:00:00</span>
-  </footer>
+  <footer class="footer">© 2025-2026 LEVEL NEXT // NIEZALEŻNA WITRYNA INTERNETOWA<br><span>MADE WITH CURIOSITY, NOT AN ALGORITHM</span><br><a href="index.html">START</a> · <a href="daily.html">DAILY</a> · <a href="sprzet.html">SPRZĘT</a> · <a href="retro-misja.html">RETRO MISJA</a></footer>
+</div>
+<div class="modalback" id="welcomeModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal"><div class="modalbar"><span>LEVEL NEXT // KOMUNIKAT SYSTEMOWY</span><span>LN-0001</span></div><div class="modalbody"><h2 id="modalTitle">Witaj w sieci.</h2><p>Połączenie z LEVEL NEXT zostało nawiązane. Przeglądasz niezależną witrynę poświęconą grom, retro klimatowi i kulturze internetu.</p><p class="smallprint">Zalecana rozdzielczość: 1024 × 768 lub wyższa.</p><div class="modalactions"><button id="closeModal" type="button">OK, WCHODZĘ</button></div></div></div>
 </div>
 <script>
-  // Local browser counter only; this is not a site-wide visitor statistic.
-  try {
-    const visits = Number(localStorage.getItem('visitCount') || 0) + 1;
-    localStorage.setItem('visitCount', String(visits));
-    document.getElementById('visitorCount').textContent = `LOKALNE WEJŚCIA: ${visits}`;
-  } catch { document.getElementById('visitorCount').textContent = 'LEVEL NEXT'; }
-
-  function updateClock() {
-    const now = new Date();
-    const timeStr = now.toLocaleTimeString('pl-PL', { hour12: false });
-    document.getElementById('currentTime').textContent = timeStr;
-  }
-  setInterval(updateClock, 1000);
-  updateClock();
-
-  const header = document.querySelector('h1');
-  header.addEventListener('mouseover', () => {
-    header.classList.add('glitch-effect');
-  });
-  header.addEventListener('mouseout', () => {
-    header.classList.remove('glitch-effect');
-  });
-</script>
-
-<script>
-  // Latest public upload is refreshed by GitHub Actions from the channel's free YouTube feed.
-  fetch('data/latest_video.json', { cache: 'no-store' })
-    .then(response => {
-      if (!response.ok) throw new Error('Brak danych najnowszego filmu');
-      return response.json();
-    })
-    .then(video => {
-      if (!video.videoId) throw new Error('Brak ID filmu');
-      const frame = document.createElement('iframe');
-      frame.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(video.videoId);
-      frame.title = video.title || 'Najnowszy film LEVEL NEXT';
-      frame.loading = 'lazy';
-      frame.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
-      frame.allowFullscreen = true;
-      const target = document.getElementById('latestVideo');
-      target.replaceChildren(frame);
-    })
-    .catch(() => {
-      const target = document.getElementById('latestVideo');
-      target.innerHTML = '<p>NAJNOWSZY FILM POJAWI SIĘ PO PIERWSZYM ODCZYTANIU KANAŁU.<br>Sprawdź materiały bezpośrednio na YouTube.</p>';
-    });
+(function(){
+  const clock=document.getElementById('clock');
+  function tick(){clock.textContent=new Date().toLocaleString('pl-PL',{weekday:'short',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',second:'2-digit'}).toUpperCase();}
+  tick();setInterval(tick,1000);
+  try{
+    const key='levelNextLocalVisits';
+    const count=Number(localStorage.getItem(key)||0)+1;
+    localStorage.setItem(key,String(count));
+    document.getElementById('visitCounter').innerHTML=String(count).padStart(4,'0').slice(-4).split('').map(n=>'<span>'+n+'</span>').join('');
+  }catch(e){}
+  const modal=document.getElementById('welcomeModal');
+  const close=()=>{modal.classList.add('hidden');try{sessionStorage.setItem('lnWelcomeSeen','1')}catch(e){}};
+  document.getElementById('closeModal').addEventListener('click',close);
+  modal.addEventListener('click',e=>{if(e.target===modal)close()});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape')close()});
+  try{if(sessionStorage.getItem('lnWelcomeSeen'))modal.classList.add('hidden')}catch(e){}
+})();
 </script>
 <script>
-  // Latest public TikTok upload is resolved by GitHub Actions via yt-dlp.
-  fetch('data/latest_tiktok.json', { cache: 'no-store' })
-    .then(response => {
-      if (!response.ok) throw new Error('Brak danych najnowszego TikToka');
-      return response.json();
-    })
-    .then(video => {
-      if (!/^\d+$/.test(String(video.videoId || ''))) throw new Error('Nieprawidłowe ID TikToka');
-      const frame = document.createElement('iframe');
-      frame.src = 'https://www.tiktok.com/player/v1/' + encodeURIComponent(video.videoId) + '?controls=1&description=1&music_info=1';
-      frame.title = video.title || 'Najnowszy TikTok @tu_firol';
-      frame.loading = 'lazy';
-      frame.allow = 'encrypted-media; fullscreen; picture-in-picture';
-      frame.allowFullscreen = true;
-      document.getElementById('latestTikTok').replaceChildren(frame);
-    })
-    .catch(() => {
-      document.getElementById('latestTikTok').innerHTML = '<p>NAJNOWSZY KLIP POJAWI SIĘ PO PIERWSZYM ODCZYTANIU PROFILU.<br>Otwórz profil na TikToku.</p>';
-    });
+fetch('data/latest_video.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('no video');return r.json()}).then(video=>{
+  if(!video.videoId)throw new Error('no id');
+  const frame=document.createElement('iframe');
+  frame.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(video.videoId);
+  frame.title=video.title||'Najnowszy film LEVEL NEXT';frame.loading='lazy';
+  frame.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';frame.allowFullscreen=true;
+  document.getElementById('latestVideo').replaceChildren(frame);
+}).catch(()=>{document.getElementById('latestVideo').innerHTML='<p>NAJNOWSZY FILM POJAWI SIĘ PO AKTUALIZACJI DANYCH KANAŁU.<br>Otwórz materiały bezpośrednio na YouTube.</p>'});
+</script>
+<script>
+fetch('data/latest_tiktok.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('no tiktok');return r.json()}).then(video=>{
+  if(!/^\d+$/.test(String(video.videoId||'')))throw new Error('invalid id');
+  const frame=document.createElement('iframe');
+  frame.src='https://www.tiktok.com/player/v1/'+encodeURIComponent(video.videoId)+'?controls=1&description=1&music_info=1';
+  frame.title=video.title||'Najnowszy TikTok @tu_firol';frame.loading='lazy';frame.allow='encrypted-media; fullscreen; picture-in-picture';frame.allowFullscreen=true;
+  document.getElementById('latestTikTok').replaceChildren(frame);
+}).catch(()=>{document.getElementById('latestTikTok').innerHTML='<p style="color:#ddd;text-align:center;padding:12px">KLIP POJAWI SIĘ PO AKTUALIZACJI DANYCH.<br>Otwórz profil na TikToku.</p>'});
 </script>
 </body>
 </html>
