@@ -205,6 +205,7 @@ function resetEditorFields(){
 }
 $('clear').textContent='Nowy blok / odznacz wybór';
 $('clear').onclick=()=>{
+ capturePendingEdit();
  $('block').value='';
  $('operation').value='add';
  resetEditorFields();
