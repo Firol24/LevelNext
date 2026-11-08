@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T08:01+01:00",
+  "updatedAt": "2026-11-08T08:49+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "The Elder Scrolls 6: Sentinel musi naprawić dwa duże problemy Skyrima. Todd Howard ma świetnie rozumieć potrzeby graczy",
-    "summary": "17-letni weteran Bethesdy zasugerował, jakie problemy Skyrima powinny zostać naprawione w The Elder Scrolls VI: Sentinel. Bruce Nesmith twierdzi, że Todd Howard świetnie rozumie potrzeby i oczekiwania graczy. Informacja The Elder Scrolls 6: Sentinel musi naprawić dwa duże problemy Skyrima. Todd Howard ma świetnie rozumieć potrzeby graczy została opublikowana przez GRYOnline.pl 7 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/the-elder-scrolls-6-sentinel-musi-naprawic-dwa-duze-problemy-skyr/z032272",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531695442.jpg"
+    "title": "Call of Duty zalicza niespodziewaną premierę. Grę można już pobierać na nowej konsoli!",
+    "summary": "Nintendo Switch 2 właśnie otrzymał kolejną dużą produkcję i tym razem obyło się bez wcześniejszego odliczania. Call of Duty: Warzone zadebiutowało z zaskoczenia w Nintendo eShopie, dzięki czemu posiadacze konsoli mogą już sprawdzić popula...",
+    "sourceUrl": "https://www.ppe.pl/news/432472/call-of-duty-zalicza-niespodziewana-premiere-gre-mozna-juz-pobierac-na-nowej-konsoli.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Call of Duty zalicza niespodziewaną premierę. Grę można już pobierać na nowej konsoli!",
+      "sourceUrl": "https://www.ppe.pl/news/432472/call-of-duty-zalicza-niespodziewana-premiere-gre-mozna-juz-pobierac-na-nowej-konsoli.html",
+      "publishedAt": "2026-11-08T08:30+01:00",
+      "summary": "Nintendo Switch 2 właśnie otrzymał kolejną dużą produkcję i tym razem obyło się bez wcześniejszego odliczania. Call of Duty: Warzone zadebiutowało z zaskoczenia w Nintendo eShopie, dzięki czemu posiadacze konsoli mogą już sprawdzić popula...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "The Elder Scrolls 6: Sentinel musi naprawić dwa duże problemy Skyrima. Todd Howard ma świetnie rozumieć potrzeby graczy",
@@ -24,150 +31,158 @@
   ],
   "indie": [
     {
-      "title": "Tenebris Somnia",
-      "date": "2026-10-16",
+      "title": "The 9th Haunted Corridor",
+      "date": "2026-11-08",
       "platform": "PC (Steam)",
-      "summary": "Retro survival horror w 2D pixelartowej oprawie, zagadkami i scenami FMV nakręconymi z aktorami. W duchu Silent Hill i Resident Evil, ale z własnym, filmowym sposobem opowiadania.",
-      "sourceUrl": "https://tenebrissomnia.org/fr/"
+      "summary": "Krótki horror obserwacyjny o nieskończonym korytarzu. Trzeba wyłapywać anomalie i zdecydować, kiedy zawrócić, zanim pętla znów cofnie nas na początek.",
+      "sourceUrl": "https://store.steampowered.com/app/4646360/The_9th_Haunted_Corridor/"
     },
     {
-      "title": "In Full Bloom",
-      "date": "2026-11-05",
-      "platform": "PC, macOS",
-      "summary": "Niepokojący miks Tamagotchi i Katamari: opiekujesz się głodnym stworzeniem, które rośnie, pożerając kolejne elementy świata. Surrealistyczna, krótka gra z makabrycznym podtekstem.",
-      "sourceUrl": "https://obleakgames.itch.io/in-full-bloom/devlog/1671849/release-date-announcement"
-    },
-    {
-      "title": "DREADMOOR",
-      "date": "2026-11-09",
-      "platform": "PC (Steam, Early Access)",
-      "summary": "Mroczna przygodówka o połowie ryb w świecie zatopionym po katastrofie. Naprawiasz trawler, zbierasz złom i wypływasz na wody, w których czają się zmutowane stworzenia.",
-      "sourceUrl": "https://www.gamespress.com/uk-UA/Spooky-Fishing-Adventure-DREADMOOR-Sets-Course-for-Steam-Early-Access-"
-    },
-    {
-      "title": "Casualties: Unknown",
+      "title": "Amnea28: Two Eternities",
       "date": "2026-11-09",
       "platform": "PC (Steam)",
-      "summary": "2D survival na obcej planecie, gdzie zejście w głąb jaskiń oznacza walkę z ranami, infekcjami, utratą krwi i psychicznym załamaniem. Ciało bohatera jest tu osobnym systemem przetrwania.",
-      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
+      "summary": "Psychologiczna visual novel osadzona w starym hotelu, w którym grupa studentów odkrywa kolejne sekrety. Wybory wpływają na stan psychiczny bohaterów, a opowieść rozgałęzia się na pięć tras.",
+      "sourceUrl": "https://store.steampowered.com/app/2869560/Amnea28_Two_Eternities/"
     },
     {
-      "title": "Hillthorn",
+      "title": "REC:REWIND",
       "date": "2026-11-10",
       "platform": "PC (Steam)",
-      "summary": "Mroczna gra detektywistyczna opowiadana bez dialogów, za pomocą kart wskazówek. W odizolowanej górskiej społeczności zaginęło dziecko, a kolejne tropy odsłaniają niepokojące sekrety.",
-      "sourceUrl": "https://store.steampowered.com/app/3504050/_Hillthorn/"
+      "summary": "Horror VHS z mechaniką cofania się przez nagrania: odtwarzana taśma przenosi do zapisanej sceny, w której można znaleźć kolejne nagranie i dotrzeć do jeszcze wcześniejszych wydarzeń.",
+      "sourceUrl": "https://store.steampowered.com/app/5379260/RECREWIND/"
     },
     {
-      "title": "Haunted Echoes",
-      "date": null,
+      "title": "DERELIKT",
+      "date": "2026-11-13",
+      "platform": "PC (Steam, GOG, Epic Games Store)",
+      "summary": "Retro FPS w klimacie klaustrofobicznego horroru science fiction z ery pierwszego PlayStation. Na opuszczonej stacji orbitalnej liczą się amunicja, zapasy i odkrywanie sprzecznych relacji ocalałych.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+    },
+    {
+      "title": "HOOKEYE",
+      "date": "2026-12-09",
       "platform": "PC (Steam)",
-      "summary": "Psychologiczny horror z perspektywy bodycama. W opuszczonych budynkach szukasz anomalii, pilnujesz ograniczonego światła latarki i próbujesz odróżnić nagranie od koszmaru.",
-      "sourceUrl": "https://store.steampowered.com/app/4854170"
+      "summary": "Psychologiczna opowieść grozy o rybaku, który na mglistej przystani obsesyjnie poluje na coraz większy połów. PSX-owa estetyka, ograniczone zasoby i syrena czająca się pod wodą.",
+      "sourceUrl": "https://www.gamespress.com/uk-UA/Psychological-horror-fishing-game-HOOKEYE-casts-its-line-out-this-Dece"
+    },
+    {
+      "title": "Lightkeeper: Frozen Bay",
+      "date": null,
+      "platform": "PC (Windows)",
+      "summary": "Survival horror na skutej lodem wyspie: trzeba utrzymywać latarnię, piec i samochód, a podczas śnieżnych burz po wyspie krąży wendigo. Dostępne jest krótkie demo.",
+      "sourceUrl": "https://madstormone.itch.io/lightkeeper-frozen-bay"
     }
   ],
   "releases": [
     {
       "date": "2026-11-09",
-      "title": "DREADMOOR",
-      "platform": "PC (Steam, Early Access)",
-      "status": "confirmed",
-      "note": "Mroczna przygodówka o połowie ryb i przetrwaniu w zatopionym, postapokaliptycznym świecie. Wczesny dostęp ma zawierać pełny główny wątek.",
-      "sourceUrl": "https://www.gamespress.com/uk-UA/Spooky-Fishing-Adventure-DREADMOOR-Sets-Course-for-Steam-Early-Access-"
-    },
-    {
-      "date": "2026-11-09",
-      "title": "Casualties: Unknown",
+      "title": "Amnea28: Two Eternities",
       "platform": "PC (Steam)",
       "status": "confirmed",
-      "note": "2D survival na obcej planecie z rozbudowaną symulacją obrażeń, krwawienia, infekcji i kondycji psychicznej. Pełna wersja rozwija jaskiniową wyprawę znaną z dema.",
-      "sourceUrl": "https://www.gamespress.com/Casualties-Unknown-launches-Nov-9th-with-500000-demo-players-Cave-expl"
+      "note": "Psychologiczna visual novel o studentach uwięzionych w atmosferze starego hotelu. Pięć tras fabularnych i system stresu wpływający na zachowanie postaci.",
+      "sourceUrl": "https://store.steampowered.com/app/2869560/Amnea28_Two_Eternities/"
     },
     {
       "date": "2026-11-10",
-      "title": "Hillthorn",
-      "platform": "PC (Steam), Nintendo Switch, iOS, Android",
+      "title": "Warhammer Survivors",
+      "platform": "PC (Steam, GOG), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2, iOS, Android",
       "status": "confirmed",
-      "note": "Detektywistyczna opowieść bez dialogów, budowana z kart wskazówek. Sprawa zaginięcia prowadzi do odizolowanej społeczności i tajemnicy skrywanej przez górę.",
-      "sourceUrl": "https://steamcommunity.com/app/3504050/"
+      "note": "Dynamiczny roguelite typu bullet heaven z ponad 40 bohaterami z uniwersów Warhammer 40,000 i Age of Sigmar.",
+      "sourceUrl": "https://www.warhammer-community.com/en-gb/articles/m5cfelii/try-the-new-demo-for-warhammer-survivors-now/"
     },
     {
       "date": "2026-11-10",
-      "title": "TANUKI: Pon's Summer",
-      "platform": "PC (Steam), Nintendo Switch, Nintendo Switch 2, PlayStation 4, PlayStation 5, Xbox Series X|S",
+      "title": "DreamWorks Shrek 2 Remastered",
+      "platform": "PC (Steam, Epic Games Store), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Przygodówka z otwartym światem: tanuki dostarcza przesyłki na BMX-ie, zaprzyjaźnia się z mieszkańcami i odbudowuje lokalną świątynię. Gra trafi też do Xbox Game Pass w dniu premiery.",
-      "sourceUrl": "https://www.gamespress.com/en-US/YOUVE-GOT-MAIL-CRITICAL-REFLEX-DENKIWORKS-REVEAL-NOVEMBER-10-RELEASE-D"
+      "note": "Odświeżona wersja przygodowej gry z 2004 roku. Ulepszona oprawa, tryb fotograficzny oraz lokalna i sieciowa kooperacja dla maksymalnie czterech osób.",
+      "sourceUrl": "https://www.gamespress.com/en-US/Aspyr-Reveals-DreamWorks-Shrek-2-Remastered-Launching-on-PC-Consoles-N"
     },
     {
-      "date": "2026-11-11",
-      "title": "Haunted Echoes",
+      "date": "2026-11-10",
+      "title": "Football Manager 27",
+      "platform": "PC, macOS, PlayStation 5, Xbox Series X|S, iOS, Android",
+      "status": "confirmed",
+      "note": "Nowa odsłona menedżera piłkarskiego z przebudowanym zarządzaniem taktyką, treningiem i prezentacją dnia meczowego. Wersja mobilna będzie dostępna przez Netflix.",
+      "sourceUrl": "https://www.footballmanager.com/news/football-manager-27-launches-10-november"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Ashes of the Singularity II",
       "platform": "PC (Steam)",
-      "status": "listed",
-      "note": "Steam podaje tę datę dla psychologicznego horroru bodycam. W opuszczonych lokacjach trzeba tropić anomalie i oszczędzać światło latarki.",
-      "sourceUrl": "https://store.steampowered.com/app/4854170"
+      "status": "confirmed",
+      "note": "Strategia czasu rzeczywistego o wojnie ludzi, zbuntowanej sztucznej inteligencji i postludzkiej koalicji. Kampania, kooperacja i rywalizacja sieciowa.",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/ashes-of-the-singularity-ii-launches-november-10-2026-302908672.html"
     },
     {
-      "date": "2026-11-19",
-      "title": "Grand Theft Auto VI",
-      "platform": "PlayStation 5, Xbox Series X|S",
+      "date": "2026-11-10",
+      "title": "REC:REWIND",
+      "platform": "PC (Steam)",
       "status": "confirmed",
-      "note": "Rockstar nadal wskazuje 19 listopada. Nowość: cyfrowe pobieranie wstępne rozpocznie się 10 listopada; akcja śledzi Jasona i Lucię w stanie Leonida.",
-      "sourceUrl": "https://www.rockstargames.com/VI"
+      "note": "Horror VHS oparty na odwróconej pętli czasu. Nagrania prowadzą do kolejnych, coraz wcześniejszych zapisów, a historię poznajemy z perspektywy zaginionego męża i szukającej go żony.",
+      "sourceUrl": "https://www.gamespark.jp/article/2026/10/29/174206.html"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "DERELIKT",
+      "platform": "PC (Steam, GOG, Epic Games Store)",
+      "status": "confirmed",
+      "note": "Klaustrofobiczny retro FPS science fiction inspirowany estetyką PS1. Eksploracja opuszczonej stacji, zagadki środowiskowe i ograniczone zasoby.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
     }
   ],
   "cinema": [
     {
-      "date": "2026-11-11",
-      "title": "Nasza rewolucja",
-      "genre": "Dramat historyczny",
-      "summary": "Portret Jacka i Grażyny Kuroniów, których prywatna relacja splata się z działalnością opozycyjną i walką o wolność w Polsce lat 80.",
-      "sourceUrl": "https://next-film.pl/film/nasza-rewolucja-historia-milosci-grazyny-i-jacka-kuroniow/"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Victorian Psycho",
-      "genre": "Horror gotycki",
-      "summary": "Guwernantka przybywa do posępnej posiadłości Ensor House. Jej poprzednie miejsca pracy łączy seria tajemniczych tragedii, a nowy dom szybko odsłania mroczną stronę bohaterki.",
-      "sourceUrl": "https://kinoswiat.pl/film/victorian-psycho/"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Dziki koń dziewięć",
-      "genre": "Thriller / dramat",
-      "summary": "Krótko przed zamachem stanu w Chile agenci CIA trafiają na Wyspę Wielkanocną. Dawne sekrety, polityczne spiski i napięcia między bohaterami zaczynają wymykać się spod kontroli.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/dziki-kon-dziewiec/8161s2r"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Jak obrabować bank",
-      "genre": "Kryminał / thriller",
-      "summary": "Gang transmitujący napady w mediach społecznościowych zwraca na siebie uwagę FBI i specjalistki od oprogramowania. Stawka rośnie wraz z przygotowaniami do największego skoku.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/jak-obrabowac-bank/8309s2r"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Ebenezer Scrooge. Opowieść wigilijna",
-      "genre": "Fantasy",
-      "summary": "Nowa ekranizacja klasycznej opowieści Dickensa. Skąpiec zostaje skonfrontowany z własną przeszłością, teraźniejszością i przyszłością przez wizyty niezwykłych duchów.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/ebenezer-scrooge-opowiesc-wigilijna/8344s2r"
+      "date": "2026-11-20",
+      "title": "Jestem Rocky",
+      "genre": "Biograficzny / dramat",
+      "summary": "Historia młodego Sylvestra Stallone'a, który ryzykuje wszystko, by zagrać w napisanym przez siebie filmie i doprowadzić do narodzin kinowej legendy.",
+      "sourceUrl": "https://kinoswiat.pl/film/jestem-rocky/"
     },
     {
       "date": "2026-11-20",
-      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-      "genre": "Sci-fi / akcja",
-      "summary": "Na długo przed historią Katniss młody Haymitch zostaje wylosowany do brutalnej edycji Głodowych Igrzysk. Musi zmierzyć się z areną i systemem, który odbiera ludziom nadzieję.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/igrzyska-smierci-wschod-slonca-w-dniu-dozynek/7803s2r"
+      "title": "Przemytnicy",
+      "genre": "Thriller",
+      "summary": "Weteran wojenny podejmuje się przemytu złota przez Oregon, licząc na odzyskanie córki. Plan szybko zamienia się w niebezpieczną grę interesów.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/przemytnicy/8585s2r"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hokus: Królestwo Magii",
+      "genre": "Animacja / fantasy",
+      "summary": "Nastolatka odkrywa magiczne zdolności i wyrusza z matką do niezwykłej krainy. Wspólna podróż odsłania rodzinne tajemnice mogące zmienić świat czarów.",
+      "sourceUrl": "https://www.disney.pl/filmy/hokus-krolestwo-magii"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Poznaj swojego teścia",
+      "genre": "Komedia",
+      "summary": "Greg Focker ponownie musi zmierzyć się z wymagającym Jackiem Byrnesem. Czwarta część serii rozwija rodzinne perypetie znane z poprzednich filmów.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/poznaj-swojego-tescia/8181s2r"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Violetta Villas",
+      "genre": "Dramat / biograficzny",
+      "summary": "Portret polskiej divy opowiedziany z perspektywy jej syna. Film przygląda się narodzinom i upadkowi gwiazdy oraz cenie wielkiej kariery.",
+      "sourceUrl": "https://kinoswiat.pl/film/violetta-villas/"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Wszyscy tak mówią",
+      "genre": "Horror / thriller",
+      "summary": "Pierwszy obiad z rodziną dziewczyny zmienia się w koszmar. Krótki polski horror o spotkaniu, po którym pojęcie rodziny nabiera złowrogiego znaczenia.",
+      "sourceUrl": "https://kinoradar.pl/pl/premiery/1814376/"
     }
   ],
   "film": {
-    "title": "Suspiria",
+    "title": "Ghostland",
     "year": "2018",
     "platform": "Prime Video",
-    "summary": "Amerykańska baletnica rozpoczyna naukę w prestiżowej berlińskiej akademii tańca. Za perfekcyjną fasadą szkoły kryją się mroczne sekrety, a atmosfera stopniowo zmienia się w hipnotyczny, psychodeliczny koszmar.",
-    "availabilityNote": "JustWatch Polska sprawdził katalog 5 listopada 2026 r. i wskazuje Suspiria w abonamencie Amazon Prime Video; osobno wymienia też opcje wypożyczenia i zakupu.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/suspiria"
+    "summary": "Po śmierci ciotki matka z dwiema córkami dziedziczy odosobniony dom. Brutalne wydarzenia pierwszej nocy naznaczają rodzinę, a po latach powrót do posiadłości ponownie uruchamia spiralę traumy i paranoi.",
+    "availabilityNote": "JustWatch Polska potwierdził 7 listopada 2026 r. dostępność filmu w abonamencie Amazon Prime Video. Serwis osobno wymienia także opcje wypożyczenia i zakupu.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/ghostland"
   },
-  "editorialUpdatedAt": "2026-11-07",
-  "editorialHash": "5a9353b8667f9c3f3cce9f9bb61b68d1e1bc32e33c21623c22891a03d8fbbe66"
+  "editorialUpdatedAt": "2026-11-08",
+  "editorialHash": "d96eb45618aa32cc4100196a5827c988d291f8d70c25f7bc05142119118e40e1"
 }
