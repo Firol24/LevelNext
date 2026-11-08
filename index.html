@@ -31,16 +31,15 @@
     <div class="winamp-controls">
       <button type="button" id="winampPlay" aria-label="Odtwórz">▶</button>
       <button type="button" id="winampPause" aria-label="Pauza">Ⅱ</button>
-      <button type="button" id="winampStop" aria-label="Zatrzymaj">■</button>
+      
       <span class="winamp-volume-label">VOL</span><input id="winampVolume" type="range" min="0" max="1" step="0.01" value="0.75" aria-label="Głośność">
     </div>
-    <input id="winampSeek" class="winamp-seek" type="range" min="0" max="1000" step="1" value="0" aria-label="Pozycja utworu">
-    <div class="winamp-foot"><span id="winampElapsed">00:00</span><span id="winampDuration">--:--</span></div>
-    <audio id="winampAudio" preload="metadata"><source src="assets/audio/untitled.mp3" type="audio/mpeg"></audio>
+    
+    <audio id="winampAudio" preload="metadata" loop><source src="assets/audio/untitled.mp3" type="audio/mpeg"></audio>
   </div>
   <div class="winamp-bottom"><span>STEREO</span><span>44 KHZ</span><span>LEVEL NEXT RADIO</span></div>
 </div>
 <button type="button" id="winampLauncher" class="winamp-launcher" hidden>♫ WINAMP</button>
 
 <footer class="footer">© 2025-2026 LEVEL NEXT // NIEZALEŻNA WITRYNA INTERNETOWA<br><a href="index.html">START</a><a href="retro-misja.html">RETRO MISJA</a><a href="sprzet.html">SPRZĘT</a><a href="daily.html">DAILY</a><a href="kontakt.html">KONTAKT</a><br><span class="smallprint">MADE WITH CURIOSITY, NOT AN ALGORITHM</span></footer></div><div class="modalback" id="welcomeModal"><div class="modal"><div class="modalbar">LEVEL NEXT // KOMUNIKAT SYSTEMOWY <span style="float:right">LN-0001</span></div><div class="modalbody"><h2>Witaj w sieci.</h2><p>Połączenie z LEVEL NEXT zostało nawiązane. Rozejrzyj się po stronie i zostań na dłużej.</p><p class="smallprint">Zalecana rozdzielczość: 1024 × 768 lub wyższa.</p><button class="button" id="closeModal" type="button" onclick="var welcome=document.getElementById('welcomeModal');if(welcome){welcome.remove();}">OK, WCHODZĘ</button></div></div></div>
-<script src="site.js?v=4"></script></body></html>
+<script src="site.js?v=5"></script></body></html>
