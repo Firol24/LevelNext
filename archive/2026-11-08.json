@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T09:01+01:00",
+  "updatedAt": "2026-11-08T10:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Assassin’s Creed ma zabrać graczy do starożytnego Rzymu i Jerozolimy. Ubisoft pracuje ponoć po cichu nad 2 nowymi grami",
-    "summary": "Ubisoft ma podobno pracować nad dwiema nowymi grami z serii Assassin’s Creed. Akcja pierwszej ma rozgrywać się w starożytnym Rzymie, a drugiej w Jerozolimie. Informacja Assassin’s Creed ma zabrać graczy do starożytnego Rzymu i Jerozolimy. Ubisoft pracuje ponoć po cichu nad 2 nowymi grami została opublikowana przez GRYOnline.pl 8 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/assassins-creed-ma-zabrac-graczy-do-starozytnego-rzymu-i-jerozoli/z632278",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531824245.jpg"
+    "title": "Project Helix zabije PC do gier. Microsoft na nowo wymyśla konsole",
+    "summary": "Granica między klasyczną konsolą pod telewizorem a komputerem osobistym zaciera się na naszych oczach szybciej, niż ktokolwiek przypuszczał jeszcze kilka lat temu. Odkąd Microsoft oficjalnie potwierdził prace nad nową generacją sprzętu ukryt�...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/432394/project-helix-zabije-pc-do-gier-microsoft-na-nowo-wymysla-konsole.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Project Helix zabije PC do gier. Microsoft na nowo wymyśla konsole",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432394/project-helix-zabije-pc-do-gier-microsoft-na-nowo-wymysla-konsole.html",
+      "publishedAt": "2026-11-08T10:00+01:00",
+      "summary": "Granica między klasyczną konsolą pod telewizorem a komputerem osobistym zaciera się na naszych oczach szybciej, niż ktokolwiek przypuszczał jeszcze kilka lat temu. Odkąd Microsoft oficjalnie potwierdził prace nad nową generacją sprzętu ukryt�...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Assassin’s Creed ma zabrać graczy do starożytnego Rzymu i Jerozolimy. Ubisoft pracuje ponoć po cichu nad 2 nowymi grami",
@@ -20,6 +27,22 @@
       "summary": "Ubisoft ma podobno pracować nad dwiema nowymi grami z serii Assassin’s Creed. Akcja pierwszej ma rozgrywać się w starożytnym Rzymie, a drugiej w Jerozolimie. Informacja Assassin’s Creed ma zabrać graczy do starożytnego Rzymu i Jerozolimy. Ubisoft pracuje ponoć po cichu nad 2 nowymi grami została opublikowana przez GRYOnline.pl 8 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531824245.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze z PS5 są URADOWANI. Nowy szczegół o GTA 6 zachęcił do grania",
+      "sourceUrl": "https://www.ppe.pl/news/432489/gracze-z-ps5-sa-uradowani-nowy-szczegol-o-gta-6-zachecil-do-grania.html",
+      "publishedAt": "2026-11-08T09:53+01:00",
+      "summary": "Właściciele konsol PlayStation mają powody do ogromnej radości, ponieważ w sieci pojawiły się świetne wieści dotyczące trofeów w nadchodzącym Grand Theft Auto 6.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Blizzard dokonał niemożliwego. Najnowsza premiera przechodzi do historii World of Warcraft!",
+      "sourceUrl": "https://www.ppe.pl/news/432473/blizzard-dokonal-niemozliwego-najnowsza-premiera-przechodzi-do-historii-world-of-warcraft.html",
+      "publishedAt": "2026-11-08T09:30+01:00",
+      "summary": "Dla wielu będzie to zaskakujące, dla innych nie okaże się niczym niezwykłym, ale... Ponad dwie dekady na rynku najwyraźniej nie odebrały World of Warcraft zdolności do przyciągania tłumów. Wydane 4 listopada World of Warcraft: Forever zanotow...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
