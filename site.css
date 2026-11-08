@@ -232,3 +232,5 @@ h1,h2,h3{line-height:1.25}
 .webbutton-entry{align-items:center}
 .webbutton-entry>img{display:block;flex:0 0 88px;width:88px;height:31px;object-fit:contain}
 @media(max-width:620px){.download-entry{flex-direction:column}.webbutton-entry{align-items:flex-start}}
+
+.download-entry-gif{display:block;flex:0 0 88px;width:88px;height:31px;object-fit:contain}
