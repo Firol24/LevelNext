@@ -213,6 +213,52 @@ a:hover{color:#fff2b3;background:#3a2450}
  .panelbody{padding:12px}
 }
 
+
+/* UKŁAD DWUKOLUMNOWY - główna treść i prawa kolumna */
+.ticker{height:auto;display:flex;flex-direction:column;align-items:stretch;gap:0;padding:0 0 7px}
+.ticker b{display:block;width:100%;padding:6px 13px;background:#ffd84d;color:#21132f;font-size:10px;letter-spacing:.12em}
+.ticker-track{height:28px;display:flex;align-items:center;overflow:hidden;width:100%}
+.ticker-track span{display:inline-block;white-space:nowrap;padding-left:100%;animation:scroll 30s linear infinite}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 265px;gap:16px;align-items:start;padding:18px}
+.maincol,.sidecol{display:flex;flex-direction:column;gap:14px;min-width:0}
+.maincol>.panel,.sidecol>.panel{width:100%;margin:0}
+.maincol>.panel:first-child{order:-1}
+.sidecol .panelbody{min-height:0}
+.masthead{padding:23px 26px 20px}
+.brandrow{gap:22px}
+.logo{width:150px}
+.brandcopy h1{font-size:clamp(62px,8vw,94px);line-height:.82}
+.brandcopy p{font-size:11px}
+.nav a{padding:11px 16px}
+.sidecol .tiktok-frame{max-width:100%;width:100%;aspect-ratio:9/12}
+.sidecol .socials{display:grid;grid-template-columns:1fr 1fr}
+.sidecol .socials a{min-width:0}
+.sidecol .counter{flex-wrap:nowrap}
+.sidecol .counter span{flex:1;min-width:0}
+@media(max-width:850px){
+ .layout{grid-template-columns:minmax(0,1fr) 225px;gap:12px;padding:12px}
+ .logo{width:115px}
+ .brandcopy h1{font-size:65px}
+ .nav a{padding:10px 11px}
+}
+@media(max-width:650px){
+ .layout{display:flex;flex-direction:column;padding:10px}
+ .maincol,.sidecol{width:100%}
+ .sidecol{display:grid;grid-template-columns:1fr 1fr;align-items:start}
+ .sidecol>.panel{width:100%}
+ .sidecol>.panel:nth-child(5),.sidecol>.panel:nth-child(6){grid-column:span 1}
+ .brandrow{gap:12px}
+ .logo{width:82px}
+ .brandcopy h1{font-size:48px}
+ .brandcopy p{font-size:8px;letter-spacing:.04em}
+}
+@media(max-width:440px){
+ .sidecol{display:flex;flex-direction:column}
+ .sidecol>.panel{width:100%}
+ .stamp{display:none}
+ .nav a{flex:1 1 33.33%;text-align:center;padding:9px 5px}
+}
+
 </style>
 </head>
 <body>
@@ -226,11 +272,20 @@ a:hover{color:#fff2b3;background:#3a2450}
     </div>
   </header>
   <nav class="nav" aria-label="Nawigacja główna">
-    <a href="#start">⌂ START</a><a href="#materialy">▣ MATERIAŁY</a><a href="sprzet.html">▤ SPRZĘT</a><a href="retro-misja.html">◈ RETRO MISJA</a><a href="daily.html">▦ DAILY</a><a href="#archiwum">▧ ARCHIWUM</a><a href="#ksiega">✎ KSIĘGA GOŚCI</a><a href="#kontakt">✉ KONTAKT</a>
+    <a href="#start">START</a><a href="#materialy">MATERIAŁY</a><a href="sprzet.html">SPRZĘT</a><a href="retro-misja.html">RETRO MISJA</a><a href="daily.html">DAILY</a><a href="#archiwum">ARCHIWUM</a><a href="#ksiega">KSIĘGA GOŚCI</a><a href="#kontakt">KONTAKT</a>
   </nav>
-  <div class="ticker"><b>WIADOMOŚĆ DNIA</b><span>WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY • WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY •</span></div>
+  <div class="ticker"><b>WIADOMOŚĆ DNIA</b><div class="ticker-track"><span>WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY • WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY •</span></div></div>
   <div class="layout" id="start">
     <main class="maincol">
+      <section class="panel" id="ksiega">
+        <div class="panelhead"><h2>05 / KSIĘGA GOŚCI</h2><small>GUESTBOOK.TXT</small></div>
+        <div class="panelbody">
+          <p>Wpisz się do księgi gości. Możesz zostawić pozdrowienia, wspomnienie związane z grą albo polecić coś innym czytelnikom.</p>
+          <div id="guestbookEntries" class="guestbook-list"><span class="smallprint">SPRAWDZANIE WPISÓW...</span></div>
+          <a class="button" href="#ksiega" aria-disabled="true">Dodawanie wpisów wkrótce</a>
+          <p class="guestbook-note">Podgląd przykładowych wpisów. Formularz publikowania zostanie uruchomiony w kolejnej aktualizacji.</p>
+        </div>
+      </section>
       <section class="panel">
         <div class="panelhead"><h2>01 / O WITRYNIE</h2><small>STRONA GŁÓWNA :: README.TXT</small></div>
         <div class="panelbody">
@@ -268,32 +323,9 @@ a:hover{color:#fff2b3;background:#3a2450}
           <a class="button" href="daily.html">Przejdź do pełnego archiwum »</a>
         </div>
       </section>
-      <section class="panel" id="ksiega">
-        <div class="panelhead"><h2>05 / KSIĘGA GOŚCI</h2><small>GUESTBOOK.TXT</small></div>
-        <div class="panelbody">
-          <p>Wpisz się do księgi gości. Możesz zostawić pozdrowienia, wspomnienie związane z grą albo polecić coś innym czytelnikom.</p>
-          <div id="guestbookEntries" class="guestbook-list"><span class="smallprint">SPRAWDZANIE WPISÓW...</span></div>
-          <a class="button" href="#ksiega" aria-disabled="true">Dodawanie wpisów wkrótce</a>
-          <p class="guestbook-note">Podgląd przykładowych wpisów. Formularz publikowania zostanie uruchomiony w kolejnej aktualizacji.</p>
-        </div>
-      </section>
+
     </main>
     <aside class="sidecol">
-      <section class="panel"><div class="panelhead"><h3>04 / STATUS SYSTEMU</h3><small>LIVE</small></div><div class="panelbody">
-        <div class="statusline"><span><i class="led"></i>Serwer strony</span><strong>ONLINE</strong></div>
-        <div class="statusline"><span>Połączenie</span><strong>STABILNE</strong></div>
-        <div class="statusline"><span>Ostatnia sekcja</span><strong>DAILY</strong></div>
-        <div class="statusline"><span>Twoja sesja</span><strong id="sessionStatus">AKTYWNA</strong></div>
-        <p class="smallprint">Status interfejsu, nie monitoring serwera.</p>
-      </div></section>
-      <section class="panel"><div class="panelhead"><h3>05 / KLIP ZE STREAMU</h3><small>TIKTOK</small></div><div class="panelbody">
-        <div id="latestTikTok" class="tiktok-frame"><p style="color:#ddd;text-align:center;padding:12px">ODCZYTYWANIE KLIPU...</p></div>
-        <a class="button" href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener">Otwórz TikTok »</a>
-      </div></section>
-
-      <section class="panel"><div class="panelhead"><h3>06 / ODTWARZACZ</h3><small>VHS AUDIO</small></div><div class="panelbody">
-        <div class="playerbox"><span class="player-label">▶ SZUM TAŚMY / AMBIENT</span><audio controls preload="none"><source src="vhs.wav" type="audio/wav">Twoja przeglądarka nie obsługuje audio.</audio><p class="smallprint">Odtwarzanie ręczne. Dźwięk nie uruchamia się sam.</p></div>
-      </div></section>
       <section class="panel"><div class="panelhead"><h3>07 / ŁĄCZA ZEWNĘTRZNE</h3><small>NETWORK</small></div><div class="panelbody"><div class="socials">
         <a href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener"><img src="pngegg (1).png" alt="">Discord</a>
         <a href="https://www.twitch.tv/tu_firol" target="_blank" rel="noopener"><img src="pngegg.png" alt="">Twitch</a>
@@ -308,6 +340,20 @@ a:hover{color:#fff2b3;background:#3a2450}
       <section class="panel" id="kontakt"><div class="panelhead"><h3>09 / KONTAKT</h3><small>END OF LINE</small></div><div class="panelbody">
         <div class="guestnote">Masz wspomnienie związane ze starą grą? Znalazłeś ciekawy temat? Odezwij się przez społeczności LEVEL NEXT.</div>
         <a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Napisz na Discordzie »</a>
+      </div></section>
+      <section class="panel"><div class="panelhead"><h3>04 / STATUS SYSTEMU</h3><small>LIVE</small></div><div class="panelbody">
+        <div class="statusline"><span><i class="led"></i>Serwer strony</span><strong>ONLINE</strong></div>
+        <div class="statusline"><span>Połączenie</span><strong>STABILNE</strong></div>
+        <div class="statusline"><span>Ostatnia sekcja</span><strong>DAILY</strong></div>
+        <div class="statusline"><span>Twoja sesja</span><strong id="sessionStatus">AKTYWNA</strong></div>
+        <p class="smallprint">Status interfejsu, nie monitoring serwera.</p>
+      </div></section>
+      <section class="panel"><div class="panelhead"><h3>05 / KLIP ZE STREAMU</h3><small>TIKTOK</small></div><div class="panelbody">
+        <div id="latestTikTok" class="tiktok-frame"><p style="color:#ddd;text-align:center;padding:12px">ODCZYTYWANIE KLIPU...</p></div>
+        <a class="button" href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener">Otwórz TikTok »</a>
+      </div></section>
+      <section class="panel"><div class="panelhead"><h3>06 / ODTWARZACZ</h3><small>VHS AUDIO</small></div><div class="panelbody">
+        <div class="playerbox"><span class="player-label">▶ SZUM TAŚMY / AMBIENT</span><audio controls preload="none"><source src="vhs.wav" type="audio/wav">Twoja przeglądarka nie obsługuje audio.</audio><p class="smallprint">Odtwarzanie ręczne. Dźwięk nie uruchamia się sam.</p></div>
       </div></section>
     </aside>
   </div>
