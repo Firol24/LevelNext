@@ -155,6 +155,64 @@ a:hover{color:#fff2b3;background:#3a2450}
 .easter-terminal button{margin-top:12px;background:#ffd84d;color:#21132f;border:0;padding:7px 12px;font-weight:700}
 @media(max-width:520px){.web-badges{gap:6px}.badge88{flex:0 0 88px}}
 
+
+/* LANDING PAGE - układ sekcyjny */
+.layout{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:15px;align-items:start;padding:18px}
+.maincol,.sidecol{display:contents}
+.maincol>.panel:nth-child(1){grid-column:1/-1}
+.maincol>.panel:nth-child(2){grid-column:1/-1}
+.maincol>.panel:nth-child(3){grid-column:span 5}
+.maincol>.panel:nth-child(4){grid-column:span 7}
+.maincol>.panel:nth-child(5){grid-column:1/-1}
+.sidecol>.panel:nth-child(1){grid-column:span 4}
+.sidecol>.panel:nth-child(2){grid-column:span 4}
+.sidecol>.panel:nth-child(3){grid-column:span 4}
+.sidecol>.panel:nth-child(4){grid-column:span 6}
+.sidecol>.panel:nth-child(5){grid-column:span 3}
+.sidecol>.panel:nth-child(6){grid-column:span 3}
+.panel{margin:0;box-shadow:4px 4px 0 rgba(0,0,0,.28)}
+.panelhead{padding:10px 13px;min-height:38px}
+.panelhead h2,.panelhead h3{font-size:11px;letter-spacing:.13em}
+.panelbody{padding:16px}
+.welcome{grid-template-columns:minmax(0,1fr) 190px;gap:24px;padding:8px 4px}
+.welcome h2{font:clamp(32px,4vw,48px)/1 'VT323',monospace;color:#f0d16b;margin-bottom:12px}
+.welcome p{max-width:760px;font-size:13px;line-height:1.8}
+.ascii{padding:17px 10px;font-size:12px}
+.ascii strong{font-size:38px}
+.notice{font-size:10px;padding:10px 13px;margin-top:17px}
+.columns{grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.feature{padding:13px;min-height:180px;display:flex;flex-direction:column;align-items:flex-start}
+.feature p{font-size:11px;line-height:1.7}
+.feature .button{margin-top:auto}
+.video-frame{margin:9px 0}
+.archive-preview{grid-template-columns:repeat(2,minmax(0,1fr))}
+.guestbook-list{grid-template-columns:repeat(3,minmax(0,1fr))}
+.guestbook-entry{min-width:0;line-height:1.6}
+.guestbook-entry span{font-size:10px}
+.sidecol .panelbody{min-height:130px}
+.counter span{min-width:25px;text-align:center;padding:5px 7px;font-size:23px}
+.web-badges{padding:17px;gap:10px}
+@media(max-width:850px){
+ .layout{grid-template-columns:repeat(6,minmax(0,1fr));padding:12px;gap:11px}
+ .maincol>.panel:nth-child(1),.maincol>.panel:nth-child(2),.maincol>.panel:nth-child(5){grid-column:1/-1}
+ .maincol>.panel:nth-child(3){grid-column:span 3}
+ .maincol>.panel:nth-child(4){grid-column:span 3}
+ .sidecol>.panel:nth-child(n){grid-column:span 3}
+ .columns{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .guestbook-list{grid-template-columns:1fr}
+}
+@media(max-width:520px){
+ .layout{display:flex;flex-direction:column;padding:9px;width:100%}
+ .layout>.panel,.maincol>.panel,.sidecol>.panel{width:100%}
+ .welcome{grid-template-columns:1fr}
+ .ascii{display:none}
+ .columns{grid-template-columns:1fr}
+ .feature{min-height:0}
+ .archive-preview{grid-template-columns:1fr}
+ .guestbook-list{grid-template-columns:1fr}
+ .panelbody{padding:12px}
+}
+
 </style>
 </head>
 <body>
@@ -178,12 +236,12 @@ a:hover{color:#fff2b3;background:#3a2450}
         <div class="panelbody">
           <div class="welcome">
             <div><h2>Witaj, podróżniku internetu.</h2>
-              <p><strong>LEVEL NEXT</strong> to mój mały zakątek sieci poświęcony grom, retro sprzętowi, kulturze internetu i rzeczom, do których chce się wracać.</p>
-              <p>Znajdziesz tu materiały z gier, osobiste teksty, stare konsole, nowe odkrycia i trochę cyfrowej nostalgii. Bez gonienia algorytmu. Rozgość się.</p>
+              <p><strong>LEVEL NEXT</strong> to niezależny serwis o grach, sprzęcie i kulturze cyfrowej.</p>
+              <p>Publikuję tu wiadomości, felietony, materiały z gier, wspomnienia z dawnych lat i odkrycia warte uwagi. Zajrzyj do działów, przejrzyj archiwum i zostań na dłużej.</p>
             </div>
             <div class="ascii"><strong>LVL↑</strong>INSERT COIN<br>PRESS START<br><span>EST. 2025</span></div>
           </div>
-          <div class="notice">[ INFO ] Ta strona najlepiej wygląda na komputerze. Działa również na telefonie, ale jej układ celowo przypomina stare witryny.</div>
+          <div class="notice">[ WITAMY ] Nowe materiały pojawiają się w LEVEL NEXT DAILY. Pozostałe działy są aktualizowane na bieżąco.</div>
         </div>
       </section>
       <section class="panel" id="materialy">
@@ -199,13 +257,13 @@ a:hover{color:#fff2b3;background:#3a2450}
       </section>
       <section class="panel">
         <div class="panelhead"><h2>03 / NOTATKA REDAKCYJNA</h2><small>PLIK: ABOUT.TXT</small></div>
-        <div class="panelbody"><p>Nie chcę, żeby LEVEL NEXT był kolejnym portalem ścigającym zasięgi. To raczej internetowy pokój pełen gier, wspomnień, własnych opinii i rzeczy znalezionych po drodze.</p><p class="smallprint">Jeśli pamiętasz czasy forów, ksiąg gości, własnych stron i ręcznie robionych buttonów - jesteś u siebie.</p></div>
+        <div class="panelbody"><p>LEVEL NEXT powstaje z ciekawości do gier i wszystkiego, co wokół nich. Interesują mnie zarówno klasyczne produkcje i dawne platformy, jak i współczesne wydarzenia z branży.</p><p class="smallprint">Masz temat, który warto opisać? Daj znać. Sugestie i wiadomości są mile widziane.</p></div>
       </section>
 
       <section class="panel" id="archiwum">
         <div class="panelhead"><h2>04 / ARCHIWUM WYDAŃ</h2><small>ARCHIVE.DAT</small></div>
         <div class="panelbody">
-          <p>Poprzednie wydania LEVEL NEXT DAILY. Bez nieskończonego feedu, po prostu uporządkowana historia.</p>
+          <p>Wszystkie dotychczasowe wydania LEVEL NEXT DAILY zebrane w jednym miejscu.</p>
           <div id="homeArchive" class="archive-preview"><span class="smallprint">ŁADOWANIE ARCHIWUM...</span></div>
           <a class="button" href="daily.html">Przejdź do pełnego archiwum »</a>
         </div>
@@ -213,10 +271,10 @@ a:hover{color:#fff2b3;background:#3a2450}
       <section class="panel" id="ksiega">
         <div class="panelhead"><h2>05 / KSIĘGA GOŚCI</h2><small>GUESTBOOK.TXT</small></div>
         <div class="panelbody">
-          <p>Stare strony miały księgi gości. LEVEL NEXT też powinien mieć swoją. Zostaw kilka słów, wspomnienie o grze albo polecajkę.</p>
+          <p>Wpisz się do księgi gości. Możesz zostawić pozdrowienia, wspomnienie związane z grą albo polecić coś innym czytelnikom.</p>
           <div id="guestbookEntries" class="guestbook-list"><span class="smallprint">SPRAWDZANIE WPISÓW...</span></div>
-          <a class="button" href="https://github.com/Firol24/LevelNext/issues/new?title=Ksi%C4%99ga%20go%C5%9Bci%3A%20Tw%C3%B3j%20wpis&body=**Wpis%20do%20ksi%C4%99gi%20go%C5%9Bci%20LEVEL%20NEXT**%0A%0ANick%3A%0AWiadomo%C5%9B%C4%87%3A" target="_blank" rel="noopener">Dodaj wpis do księgi »</a>
-          <p class="guestbook-note">Wpisy są publiczne i trafiają do księgi po zatwierdzeniu. Dodawanie wymaga konta GitHub.</p>
+          <a class="button" href="#ksiega" aria-disabled="true">Dodawanie wpisów wkrótce</a>
+          <p class="guestbook-note">Podgląd przykładowych wpisów. Formularz publikowania zostanie uruchomiony w kolejnej aktualizacji.</p>
         </div>
       </section>
     </main>
@@ -244,8 +302,8 @@ a:hover{color:#fff2b3;background:#3a2450}
         <a href="https://www.instagram.com/_firol_" target="_blank" rel="noopener"><img src="icons8-instagram-48.png" alt="">Instagram</a>
       </div><a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Dołącz do Discorda »</a></div></section>
       <section class="panel"><div class="panelhead"><h3>08 / LICZNIK ODWIEDZIN</h3><small>LOCAL DATA</small></div><div class="panelbody">
-        <div class="counter" id="visitCounter" aria-label="Liczba lokalnych odwiedzin"><span>0</span><span>0</span><span>0</span><span>1</span></div>
-        <p class="smallprint">Licznik lokalny zapisany w tej przeglądarce. Nie jest globalną statystyką witryny.</p>
+        <div class="counter" id="visitCounter" aria-label="Przykładowy licznik odwiedzin"><span>0</span><span>1</span><span>2</span><span>4</span><span>8</span></div>
+        <p class="smallprint">LICZNIK TESTOWY - wartość przykładowa. Statystyki globalne zostaną podłączone później.</p>
       </div></section>
       <section class="panel" id="kontakt"><div class="panelhead"><h3>09 / KONTAKT</h3><small>END OF LINE</small></div><div class="panelbody">
         <div class="guestnote">Masz wspomnienie związane ze starą grą? Znalazłeś ciekawy temat? Odezwij się przez społeczności LEVEL NEXT.</div>
@@ -271,12 +329,7 @@ a:hover{color:#fff2b3;background:#3a2450}
   const clock=document.getElementById('clock');
   function tick(){clock.textContent=new Date().toLocaleString('pl-PL',{weekday:'short',day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',second:'2-digit'}).toUpperCase();}
   tick();setInterval(tick,1000);
-  try{
-    const key='levelNextLocalVisits';
-    const count=Number(localStorage.getItem(key)||0)+1;
-    localStorage.setItem(key,String(count));
-    document.getElementById('visitCounter').innerHTML=String(count).padStart(4,'0').slice(-4).split('').map(n=>'<span>'+n+'</span>').join('');
-  }catch(e){}
+  // Licznik jest obecnie demonstracyjny. Globalne zliczanie wymaga podłączenia API.
   const modal=document.getElementById('welcomeModal');
   const close=()=>{modal.classList.add('hidden');try{sessionStorage.setItem('lnWelcomeSeen','1')}catch(e){}};
   document.getElementById('closeModal').addEventListener('click',close);
@@ -323,19 +376,17 @@ fetch('data/latest_tiktok.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new 
     }));
   }catch(e){archiveBox.textContent='Archiwum jest chwilowo niedostępne. Otwórz LEVEL NEXT DAILY.';}
   const guestbook=document.getElementById('guestbookEntries');
-  try{
-    const r=await fetch('https://api.github.com/repos/Firol24/LevelNext/issues?state=all&per_page=100',{headers:{'Accept':'application/vnd.github+json'}});
-    if(!r.ok)throw new Error('guestbook unavailable');
-    const issues=await r.json();
-    const entries=issues.filter(x=>!x.pull_request&&/^Księga gości:/i.test(x.title)).slice(0,4);
-    if(!entries.length){guestbook.textContent='Księga jest jeszcze pusta. Możesz być pierwszą osobą, która zostawi wpis.';}
-    else guestbook.replaceChildren(...entries.map(item=>{
-      const a=document.createElement('a');a.className='guestbook-entry';a.href=item.html_url;a.target='_blank';a.rel='noopener';
-      const title=document.createElement('span');title.textContent=item.title;
-      const meta=document.createElement('small');meta.textContent='WPIS '+new Date(item.created_at).toLocaleDateString('pl-PL')+' / OTWÓRZ';
-      a.append(title,meta);return a;
-    }));
-  }catch(e){guestbook.textContent='Nie udało się pobrać wpisów. Możesz przejść bezpośrednio do księgi gości.';}
+  const demoEntries=[
+    {name:'pixelhunter',date:'08.11.2026',message:'GTA San Andreas na PS2 - setki godzin i nadal wracam. Pozdro!'},
+    {name:'kaseta_vhs',date:'06.11.2026',message:'Świetny kierunek z tym serwisem. Czekam na kolejne materiały o starym sprzęcie.'},
+    {name:'Mati',date:'02.11.2026',message:'Polecam wszystkim sprawdzić Silent Hill 2. Klimat nie do podrobienia.'}
+  ];
+  guestbook.replaceChildren(...demoEntries.map(item=>{
+    const entry=document.createElement('div');entry.className='guestbook-entry';
+    const title=document.createElement('span');title.textContent=item.name+': '+item.message;
+    const meta=document.createElement('small');meta.textContent='WPIS '+item.date+' / WPIS PRZYKŁADOWY';
+    entry.append(title,meta);return entry;
+  }));
 })();
 (function(){
   const sequence=['ArrowUp','ArrowUp','ArrowDown','ArrowDown','ArrowLeft','ArrowRight','ArrowLeft','ArrowRight','b','a'];
