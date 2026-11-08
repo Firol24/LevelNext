@@ -238,3 +238,15 @@ h1,h2,h3{line-height:1.25}
 
 /* LOGO 3D I STOPKA BUTTONOW */
 @media(prefers-reduced-motion:reduce){.logo{animation:none!important}}
+
+
+/* WEBCORE: POWOLI PRZESUWAJACY SIE WZOR TLA */
+.site{position:relative;isolation:isolate;background:transparent}
+.site:before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background-image:linear-gradient(rgba(16,11,23,.70),rgba(16,11,23,.70)),url("https://media.thuvien.org/photo/3714/image/81b3f85ff0b9d00626c3544de3fee346.gif");background-repeat:repeat,repeat;background-size:auto,150px 150px;background-position:0 0,0 0;animation:sitePatternDrift 100s linear infinite}
+@keyframes sitePatternDrift{from{background-position:0 0,0 0}to{background-position:0 0,150px 150px}}
+.panel{background:rgba(33,23,44,.88)}
+.panelbody{background:rgba(38,26,51,.86)}
+.hero{background:rgba(42,29,56,.87)}
+.feature{background:rgba(43,30,56,.85)}
+.footer{background:rgba(23,15,32,.90)}
+@media(prefers-reduced-motion:reduce){.site:before{animation:none!important}}
