@@ -171,3 +171,28 @@ h1,h2,h3{line-height:1.25}
 /* STOPKA: GIF-Y BEZ ODNOSNIKOW */
 .footer-copyright-gif{display:inline-block;width:88px;height:31px;object-fit:contain;vertical-align:middle;margin-left:5px}
 .retro-badges img{display:block;width:88px;height:31px;object-fit:contain}
+
+
+/* WEB 2000: DODATKOWE ODZNAKI I DROBNE OZDOBNIKI */
+.copyright-line{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;min-height:31px;font: bold 11px/1.25 Verdana,Arial,sans-serif;letter-spacing:.02em}
+.footer-copyright-gif{display:block;width:auto;height:auto;max-width:88px;max-height:31px;object-fit:contain;vertical-align:middle;margin:0}
+.hero-web-badge{display:block;width:88px;height:31px;object-fit:contain;margin:9px auto 0}
+.security-sticker{display:flex;align-items:center;justify-content:center;gap:7px;margin:10px auto 0;padding-top:8px;border-top:1px dotted #76588d}
+.security-sticker img,.webcore-callout img,.mission-badge img{display:block;width:88px;height:31px;object-fit:contain;image-rendering:auto}
+.security-sticker span,.mission-badge span{color:#a995b9;font:8px "Courier New",monospace;letter-spacing:.06em}
+.webcore-callout{display:flex;align-items:center;gap:10px;margin-top:12px;padding:8px;background:#170f20;border:1px dashed #76588d}
+.webcore-callout strong{color:#ffdf69;font:bold 10px Verdana,Arial,sans-serif}
+.webcore-callout a,.archive-promo a{font:bold 10px Verdana,Arial,sans-serif}
+.web-note{margin:12px 0;padding:8px 6px;text-align:center;background:#100b17;border:1px dotted #a184b5;color:#ffdf69;font:bold 10px "Courier New",monospace;letter-spacing:.04em}
+.web-note-icon{color:#c7a5ed;animation:starBlink .9s steps(2,end) infinite}
+@keyframes starBlink{50%{opacity:.25}}
+.mission-badge{display:flex;align-items:center;justify-content:center;gap:9px;margin:4px auto 10px}
+.hardware-note{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:8px;margin-top:10px;padding:6px;background:#100b17;border:1px inset #76588d;color:#b9e58a;font:bold 9px "Courier New",monospace}
+.hardware-led{color:#ffdc55;animation:ledPulse 1s steps(2,end) infinite}
+.guestbook-stamp{margin:10px 0;padding:7px;text-align:center;background:#170f20;border:2px dotted #9b79b5;color:#ffdf69;font:bold 11px "Courier New",monospace}
+.guestbook-stamp span{display:block;margin-top:3px;color:#cbbbd8;font:9px Verdana,Arial,sans-serif}
+.archive-promo{margin:12px 0 0;padding:9px;background:#170f20;border:2px groove #76588d}
+.archive-promo strong{color:#ffdf69;font:bold 10px Verdana,Arial,sans-serif}
+.archive-promo p{margin:5px 0;font:10px Verdana,Arial,sans-serif}
+@media(max-width:620px){.copyright-line{font-size:10px}.webcore-callout{align-items:flex-start;flex-direction:column}.security-sticker{flex-wrap:wrap}}
+@media(prefers-reduced-motion:reduce){.web-note-icon,.hardware-led{animation:none!important}}
