@@ -106,6 +106,7 @@ async function loadSelected(){
  const selected=$('block').value;
  if(selected.startsWith('native|')){
   $('operation').value='edit';
+  ['title','body','page','column','position'].forEach(id=>$(id).disabled=false);
   const bits=selected.split('|'),page=bits[1],heading=bits[2],index=Number(bits[3]);
   const item=nativePanels.find(x=>x.page===page&&x.heading===heading&&x.index===index);if(!item)return;
   $('page').value=page;$('column').value=item.column;$('position').value=item.position;$('title').value=item.title;
