@@ -1,16 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T08:50+01:00",
+  "updatedAt": "2026-11-08T09:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Call of Duty zalicza niespodziewaną premierę. Grę można już pobierać na nowej konsoli!",
-    "summary": "Nintendo Switch 2 właśnie otrzymał kolejną dużą produkcję i tym razem obyło się bez wcześniejszego odliczania. Call of Duty: Warzone zadebiutowało z zaskoczenia w Nintendo eShopie, dzięki czemu posiadacze konsoli mogą już sprawdzić popula...",
-    "sourceUrl": "https://www.ppe.pl/news/432472/call-of-duty-zalicza-niespodziewana-premiere-gre-mozna-juz-pobierac-na-nowej-konsoli.html"
+    "title": "Assassin’s Creed ma zabrać graczy do starożytnego Rzymu i Jerozolimy. Ubisoft pracuje ponoć po cichu nad 2 nowymi grami",
+    "summary": "Ubisoft ma podobno pracować nad dwiema nowymi grami z serii Assassin’s Creed. Akcja pierwszej ma rozgrywać się w starożytnym Rzymie, a drugiej w Jerozolimie. Informacja Assassin’s Creed ma zabrać graczy do starożytnego Rzymu i Jerozolimy. Ubisoft pracuje ponoć po cichu nad 2 nowymi grami została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/assassins-creed-ma-zabrac-graczy-do-starozytnego-rzymu-i-jerozoli/z632278",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531824245.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Assassin’s Creed ma zabrać graczy do starożytnego Rzymu i Jerozolimy. Ubisoft pracuje ponoć po cichu nad 2 nowymi grami",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/assassins-creed-ma-zabrac-graczy-do-starozytnego-rzymu-i-jerozoli/z632278",
+      "publishedAt": "2026-11-08T09:58+01:00",
+      "summary": "Ubisoft ma podobno pracować nad dwiema nowymi grami z serii Assassin’s Creed. Akcja pierwszej ma rozgrywać się w starożytnym Rzymie, a drugiej w Jerozolimie. Informacja Assassin’s Creed ma zabrać graczy do starożytnego Rzymu i Jerozolimy. Ubisoft pracuje ponoć po cichu nad 2 nowymi grami została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531824245.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 3 tygodnie na Prime Video trafi sequel arcydzieła science fiction, jednak wcale nie musisz znać poprzednich filmów, by go obejrzeć",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-3-tygodnie-na-prime-video-trafi-sequel-arcydziela-science-fict/zf32235",
+      "publishedAt": "2026-11-08T09:02+01:00",
+      "summary": "Na Prime Video w tym miesiącu ukaże się kolejna odsłona cenionego uniwersum science fiction. Do zrozumienia serialu nie będzie jednak potrzebna znajomość filmów. Informacja Za 3 tygodnie na Prime Video trafi sequel arcydzieła science fiction, jednak wcale nie musisz znać poprzednich filmów, by go obejrzeć została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531577526.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "10 ustawień graficznych i sztuczek, które poprawiają obraz w grach i podnoszą płynność",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432384/10-ustawien-graficznych-i-sztuczek-ktore-poprawiaja-obraz-w-grach-i-podnosza-plynnosc.html",
+      "publishedAt": "2026-11-08T09:00+01:00",
+      "summary": "Pewne wartościowe ustawienia i funkcje w świecie gier pecetowych są albo bardzo słabo nagłośnione, albo wręcz zaszyte w głębiach menu, do których w ogóle nie zagląda przeciętny gracz. Mam nadzieję, że ten tekst choć trochę pomoże w ori...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Call of Duty zalicza niespodziewaną premierę. Grę można już pobierać na nowej konsoli!",
