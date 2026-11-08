@@ -1,17 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T20:01+01:00",
+  "updatedAt": "2026-11-08T21:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Tygodniowe podsumowanie promocji na Steamie. GTA IV za 25,47 zł i obniżki do -95%",
-    "summary": "Łowcy, czas na kolejne tygodniowe podsumowanie najciekawszych promocji na gry PC dostępnych na Steamie. Tym razem na pierwszy plan wysuwają się 007 First Light – Deluxe Edition za 155,40 zł, Grand Theft Auto IV: The Complete Edition za 25,47 zł oraz CONTROL Resonant za 159,99 zł. Jeśli szukacie czegoś za kilka złotych, warto sprawdzić Severed Steel za 6,29 zł i Owlboy za 6,99 zł. W dobrych cenach kupicie również Borderlands GOTY Enhanced za 12,89 zł, polskie The Alters za 54,45 zł, Absolum za 47,99 zł oraz Spiritfarer: Farewell Edition za 12,99 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tygodniowe-podsumowanie-promocji-na-steamie-gta-iv-za-2547-zl-i-obnizki-do-95/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tygodniowe-podsumowanie-promocji-na-Steamie.-GTA-IV-za-2547-zl-i-obnizki-do-95_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Nadchodzi polski rywal Hogwarts Legacy. Akademia Pana Kleksa zawalczy o uwagę graczy z Grand Theft Auto VI",
+    "summary": "Akademia Pana Kleksa jest polskim odpowiednikiem Harry'ego Pottera, czyli najbardziej magiczną i kultową serią o czarodziejach oraz ich magicznych świata, które przenikają się z szarą rzeczywistością.",
+    "sourceUrl": "https://www.ppe.pl/news/432549/nadchodzi-polski-rywal-hogwarts-legacy-akademia-pana-kleksa-zawalczy-o-uwage-graczy-z-grand-theft-auto-vi.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Nadchodzi polski rywal Hogwarts Legacy. Akademia Pana Kleksa zawalczy o uwagę graczy z Grand Theft Auto VI",
+      "sourceUrl": "https://www.ppe.pl/news/432549/nadchodzi-polski-rywal-hogwarts-legacy-akademia-pana-kleksa-zawalczy-o-uwage-graczy-z-grand-theft-auto-vi.html",
+      "publishedAt": "2026-11-08T20:56+01:00",
+      "summary": "Akademia Pana Kleksa jest polskim odpowiednikiem Harry'ego Pottera, czyli najbardziej magiczną i kultową serią o czarodziejach oraz ich magicznych świata, które przenikają się z szarą rzeczywistością.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Godzilla DOMINUJE w kinach, ale ma kilku bardzo mocnych rywali. Zobaczcie wyniki Box Office",
+      "sourceUrl": "https://www.ppe.pl/news/432548/godzilla-dominuje-w-kinach-ale-ma-kilku-bardzo-mocnych-rywali-zobaczcie-wyniki-box-office.html",
+      "publishedAt": "2026-11-08T20:16+01:00",
+      "summary": "Kinowe premiery tego miesiąca są niezwykle ekscytujące, zwłaszcza jeśli chodzi o filmy mniej nastawione na bycie gigantycznymi miliardowymi premierami, a po prostu ciekawymi produkcjami dla fanów konkretnego gatunku.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Tygodniowe podsumowanie promocji na Steamie. GTA IV za 25,47 zł i obniżki do -95%",
