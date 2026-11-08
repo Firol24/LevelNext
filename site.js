@@ -215,6 +215,7 @@
               if (!column) return;
               var panel = document.createElement("section");
               panel.className = "panel cms-panel";
+              panel.dataset.cmsId = block.id || "";
               var head = document.createElement("div");
               head.className = "panelhead";
               var heading = document.createElement("h2");
@@ -251,7 +252,9 @@
               if (panels.length >= position) column.insertBefore(panel, panels[position - 1]);
               else column.appendChild(panel);
             });
-        }).catch(function () {});
+          document.documentElement.dataset.cmsLoaded = "true";
+          document.dispatchEvent(new Event("levelnextcmsready"));
+        }).catch(function () { document.documentElement.dataset.cmsLoaded = "true"; });
     })();
 
     // Zaznaczenie aktywnej zakladki na kazdej podstronie.
