@@ -1,17 +1,33 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T18:35+01:00",
+  "updatedAt": "2026-11-08T19:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Pudełkowe Assassin’s Creed Black Flag Resynced Launch Edition na PS5 za 179,99 zł w RTV Euro AGD",
-    "summary": "Pudełkowe Assassin’s Creed Black Flag Resynced Launch Edition na PlayStation 5 kupicie teraz w dobrej cenie w sklepie RTV Euro AGD. Remake pirackiej odsłony serii pozwala ponownie wcielić się w Edwarda Kenwaya, przemierzać Karaiby i toczyć morskie bitwy, oferując przy tym odświeżoną grafikę oraz usprawnioną rozgrywkę. Wydanie z polskimi napisami, 34-stronicowym artbookiem, dwustronnym plakatem oraz Szkarłatnym Pakietem Czarnobrodego może być Wasze za 179,99 zł po zastosowaniu kodu zniżkowego. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-assassins-creed-black-flag-resynced-launch-edition-na-ps5-za-17999-zl-w-rtv-euro-agd/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Promocja-na-Assassins-Creed-Black-Flag-Resynced-Launch-Edition-PS5_miniaturka1-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Physint będzie fabularnym molochem. Poznaliśmy pierwsze szczegóły scenariusza gry Hideo Kojimy",
+    "summary": "Hideo Kojima nie od dziś znany jest z tworzenia nietypowych historii, które poruszają jak żadne inne medium w branży rozrywkowej. Już teraz wiemy, że japoński deweloper pracuje nad dwoma wyjątkowymi projektami - OD i Physint.",
+    "sourceUrl": "https://www.ppe.pl/news/432547/physint-bedzie-fabularnym-molochem-poznalismy-pierwsze-szczegoly-scenariusza-gry-hideo-kojimy.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Physint będzie fabularnym molochem. Poznaliśmy pierwsze szczegóły scenariusza gry Hideo Kojimy",
+      "sourceUrl": "https://www.ppe.pl/news/432547/physint-bedzie-fabularnym-molochem-poznalismy-pierwsze-szczegoly-scenariusza-gry-hideo-kojimy.html",
+      "publishedAt": "2026-11-08T19:00+01:00",
+      "summary": "Hideo Kojima nie od dziś znany jest z tworzenia nietypowych historii, które poruszają jak żadne inne medium w branży rozrywkowej. Już teraz wiemy, że japoński deweloper pracuje nad dwoma wyjątkowymi projektami - OD i Physint.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka Anker 511 Nano Pro 20W z USB-C za 35,99 zł (zamiast 70,88 zł) w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-anker-511-nano-pro-20w-z-usb-c-za-3599-zl-zamiast-7088-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-08T19:00+01:00",
+      "summary": "Dobra okazja na zakup Anker 511 Nano Pro, pojawiła się w polskim oddziale sklepu Amazon. Kompaktowa ładowarka wyposażona w jeden port USB-C, idealna do ładowania smartfona, słuchawek lub innych akcesoriów, kosztuje aktualnie 35,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/anker-nano-2b-224x224.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Pudełkowe Assassin’s Creed Black Flag Resynced Launch Edition na PS5 za 179,99 zł w RTV Euro AGD",
