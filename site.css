@@ -10,8 +10,8 @@ a:hover{color:#fff;background:#49305f}
 button,input,textarea,select{font:12px Verdana,Arial,sans-serif}
 .site{width:980px;max-width:calc(100% - 20px);margin:0 auto;background:#21172c;border:3px ridge #76588d;box-shadow:none}
 .topline{display:none}
-.masthead{display:block;text-align:center;padding:14px 10px;background:#1b1225;border-bottom:4px double #9b79b5}
-.logo{display:block;width:340px;max-width:85%;height:auto;margin:0 auto;filter:none;image-rendering:auto}
+.masthead{display:block;text-align:center;padding:10px;background:transparent;border:0}
+.masthead>a{display:inline-block;perspective:900px;line-height:0}.logo{display:block;width:320px;max-width:85%;height:auto;margin:0 auto;filter:none;image-rendering:auto;transform-style:preserve-3d;animation:logoTurn3D 24s linear infinite}
 .brand-note{display:none}
 .nav{display:flex;flex-wrap:wrap;justify-content:center;gap:0;padding:4px;background:#39264c;border-top:1px solid #9a7ab1;border-bottom:3px ridge #76588d}
 .nav a{display:block;padding:7px 11px;margin:2px;background:#2b1d39;border:2px outset #9474a9;color:#fff0bd;text-decoration:none;font:bold 11px Verdana,Arial,sans-serif;letter-spacing:0}
@@ -146,15 +146,16 @@ h1,h2,h3{line-height:1.25}
 @keyframes tickerScroll{from{transform:translateX(0)}to{transform:translateX(-35%)}}
 .led{border-radius:50%;animation:ledPulse 1.6s steps(2,end) infinite;box-shadow:0 0 5px #9ac45a}
 @keyframes ledPulse{50%{opacity:.35;box-shadow:none}}
-.retro-badges{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:7px;margin:12px auto 2px;padding-top:9px;border-top:1px dotted #76588d}
+.retro-badges{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:5px;margin:12px auto 2px;padding-top:9px;border-top:1px dotted #76588d}.badge-row{display:flex;justify-content:center;align-items:center;flex-wrap:nowrap;gap:5px;max-width:100%}
 .retro-badges a{display:inline-flex;width:88px;height:31px;line-height:0;background:#100b17;border:1px solid #76588d}
 .retro-badges img{display:block;width:88px;height:31px;object-fit:contain}
-.badge-caption{flex-basis:100%;color:#a995b9;font:8px "Courier New",monospace;letter-spacing:.08em}
+.badge-caption{color:#a995b9;font:8px "Courier New",monospace;letter-spacing:.08em;text-align:center}
 .mission-console{display:flex;align-items:center;gap:9px;min-height:54px;padding:8px;background:#100b17;border:1px inset #76588d}
 .mission-console-large{min-height:82px;margin:10px 0}
 .mission-spinner{display:inline-flex;flex:0 0 24px;width:24px;height:24px;align-items:center;justify-content:center;color:#ffdc55;font:24px/1 Arial,sans-serif}
 .mission-console.is-rolling .mission-spinner{animation:missionSpin .35s linear infinite}
 @keyframes missionSpin{to{transform:rotate(360deg)}}
+@keyframes logoTurn3D{0%{transform:rotateY(0deg) rotateX(0deg)}25%{transform:rotateY(90deg) rotateX(2deg)}50%{transform:rotateY(180deg) rotateX(0deg)}75%{transform:rotateY(270deg) rotateX(-2deg)}100%{transform:rotateY(360deg) rotateX(0deg)}}
 .mission-result{margin:0;color:#e9dff2}
 .mission-result.is-shuffling{color:#ffdf69;filter:blur(.25px);opacity:.78}
 .mission-result.mission-reveal{animation:missionReveal .42s steps(4,end) both}
@@ -162,7 +163,7 @@ h1,h2,h3{line-height:1.25}
 .mission-button .button-icon{display:inline-block;font-size:15px;vertical-align:-1px;margin-right:3px}
 .mission-button.is-rolling .button-icon{animation:missionSpin .35s linear infinite}
 .mission-state{margin:6px 0 0;color:#b9a6cb;font:9px "Courier New",monospace;letter-spacing:.08em}
-.mission-button:disabled{opacity:.75;cursor:wait}
+.mission-button:disabled{opacity:.75;cursor:wait}.press-start-button{display:block;margin:14px auto 10px;padding:9px 22px;font-size:14px;letter-spacing:.1em}
 .panelhead h2:before,.panelhead h3:before{content:"◆";display:inline-block;margin-right:6px;color:#c4a2e8;font-size:8px;vertical-align:2px}
 .winamp-window.is-playing .winamp-spectrum i{animation:winampSpectrum .48s ease-in-out infinite alternate}
 @media(prefers-reduced-motion:reduce){.ticker span,.led,.mission-console.is-rolling .mission-spinner,.mission-button.is-rolling .button-icon,.mission-result.mission-reveal,.winamp-window.is-playing .winamp-spectrum i{animation:none!important}}
@@ -234,3 +235,6 @@ h1,h2,h3{line-height:1.25}
 @media(max-width:620px){.download-entry{flex-direction:column}.webbutton-entry{align-items:flex-start}}
 
 .download-entry-gif{display:block;flex:0 0 88px;width:88px;height:31px;object-fit:contain}
+
+/* LOGO 3D I STOPKA BUTTONOW */
+@media(prefers-reduced-motion:reduce){.logo{animation:none!important}}
