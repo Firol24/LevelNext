@@ -56,67 +56,39 @@
       var audio = document.getElementById("winampAudio");
       var play = document.getElementById("winampPlay");
       var pause = document.getElementById("winampPause");
-      var stop = document.getElementById("winampStop");
-      var seek = document.getElementById("winampSeek");
       var volume = document.getElementById("winampVolume");
       var state = document.getElementById("winampState");
       var time = document.getElementById("winampTime");
-      var elapsed = document.getElementById("winampElapsed");
-      var duration = document.getElementById("winampDuration");
       var drag = document.getElementById("winampDrag");
       var minimize = document.getElementById("winampMinimize");
       var closePlayer = document.getElementById("winampClose");
       var launcher = document.getElementById("winampLauncher");
-      var seeking = false;
 
       function formatTime(value) {
         if (!Number.isFinite(value) || value < 0) return "00:00";
         return String(Math.floor(value / 60)).padStart(2, "0") + ":" + String(Math.floor(value % 60)).padStart(2, "0");
       }
-      function updateTime() {
-        var current = formatTime(audio.currentTime);
-        time.textContent = current;
-        elapsed.textContent = current;
-        duration.textContent = Number.isFinite(audio.duration) ? formatTime(audio.duration) : "--:--";
-        if (!seeking && Number.isFinite(audio.duration) && audio.duration > 0) seek.value = String(Math.round(audio.currentTime / audio.duration * 1000));
-      }
+      function updateTime() { time.textContent = formatTime(audio.currentTime); }
       function setState(value) { state.textContent = value; }
+
+      audio.loop = true;
       play.addEventListener("click", function () {
-        if (audio.error) {
-          audio.load();
-        }
+        if (audio.error) audio.load();
         var result = audio.play();
-        if (result && typeof result.catch === "function") result.catch(function () { setState("PLAYBACK ERROR"); });
+        if (result && typeof result.catch === "function") result.catch(function () { setState("PLAY ERROR"); });
       });
       pause.addEventListener("click", function () { audio.pause(); });
-      stop.addEventListener("click", function () {
-        audio.pause();
-        try { audio.currentTime = 0; } catch (error) {}
-        updateTime();
-        player.classList.remove("is-playing");
-        setState("STOPPED");
-      });
       volume.addEventListener("input", function () { audio.volume = Number(volume.value); });
-      seek.addEventListener("input", function () {
-        seeking = true;
-        if (Number.isFinite(audio.duration) && audio.duration > 0) time.textContent = formatTime(Number(seek.value) / 1000 * audio.duration);
-      });
-      seek.addEventListener("change", function () {
-        if (Number.isFinite(audio.duration) && audio.duration > 0) audio.currentTime = Number(seek.value) / 1000 * audio.duration;
-        seeking = false;
-        updateTime();
-      });
       audio.addEventListener("loadedmetadata", updateTime);
       audio.addEventListener("timeupdate", updateTime);
       audio.addEventListener("play", function () { player.classList.add("is-playing"); setState("PLAYING"); });
-      audio.addEventListener("pause", function () { player.classList.remove("is-playing"); if (!audio.ended && audio.currentTime > 0) setState("PAUSED"); });
-      audio.addEventListener("ended", function () { player.classList.remove("is-playing"); setState("FINISHED"); updateTime(); });
+      audio.addEventListener("pause", function () { player.classList.remove("is-playing"); setState("PAUSED"); });
       audio.addEventListener("error", function () {
         player.classList.remove("is-playing");
         setState(audio.error ? "FILE ERROR " + audio.error.code : "FILE ERROR");
       });
-      audio.volume = Number(volume.value);
       audio.addEventListener("canplay", function () { if (state.textContent.indexOf("ERROR") !== -1) setState("STOPPED"); });
+      audio.volume = Number(volume.value);
       updateTime();
 
       minimize.addEventListener("click", function () { player.hidden = true; launcher.hidden = false; });
