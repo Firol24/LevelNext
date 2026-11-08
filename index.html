@@ -84,6 +84,77 @@ button{font:inherit;cursor:pointer}
 @media(max-width:800px){.layout{grid-template-columns:1fr}.sidecol{display:grid;grid-template-columns:1fr 1fr;gap:10px;align-items:start}.sidecol .panel{margin:0}.brandcopy p{letter-spacing:.08em}.stamp{display:none}}
 @media(max-width:520px){.site{width:100%;margin:0;border-left:0;border-right:0}.topline{font-size:8px}.masthead{padding:13px}.brandrow{gap:10px}.logo{width:76px}.brandcopy h1{font-size:47px}.brandcopy p{font-size:8px}.nav a{flex:1 1 33.33%;text-align:center;padding:9px 5px;font-size:9px;border-bottom:1px solid #b4a9bd}.layout{padding:9px;gap:9px}.welcome{grid-template-columns:1fr}.ascii{display:none}.columns{grid-template-columns:1fr}.sidecol{grid-template-columns:1fr}.panelbody{padding:10px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+
+/* LEVEL NEXT NIGHT MODE */
+:root{--ink:#eee8f7;--muted:#b6a9c9;--paper:#171020;--paper2:#21172d;--line:#4c3960;--purple:#a77be0;--purple2:#29143d;--lilac:#49315f;--acid:#ffd84d;--red:#e16b89;--shadow:rgba(0,0,0,.48)}
+body{background:#0b0711;color:var(--ink)}
+body:before{opacity:.18;background:repeating-linear-gradient(0deg,transparent 0 2px,rgba(0,0,0,.32) 3px);mix-blend-mode:screen}
+a{color:#ffdc62}
+a:hover{color:#fff2b3;background:#3a2450}
+.site{background:var(--paper);border-color:#604879;box-shadow:0 20px 80px #000}
+.topline{background:#12091d;color:#d7c5eb;border-bottom:1px solid #604879}
+.masthead{background:linear-gradient(110deg,#21132f,#171020 58%,#2b1740);border-bottom:4px double #8e63bd}
+.logo{filter:drop-shadow(2px 2px 0 #12091d)}
+.brandcopy h1{color:#f3eaff;text-shadow:2px 2px 0 #6f4c91}
+.brandcopy p{color:#c1acd7}
+.stamp{border-color:#8c6aa8;color:#f5d65b;background:#241630}
+.nav{background:#21132f;border-top-color:#503766;border-bottom-color:#6c4a89}
+.nav a{border-right-color:#49325f;color:#e9dff4}
+.nav a:hover{background:#ffd84d;color:#21132f}
+.ticker{background:#11091a;color:#e8dcf2;border-bottom:3px solid #8a62b4}
+.ticker b{background:#ffd84d;color:#21132f}
+.panel{background:var(--paper2);border-color:var(--line);box-shadow:3px 3px 0 rgba(0,0,0,.35)}
+.panelhead{background:linear-gradient(90deg,#38234d,#24172f);border-bottom-color:#604879}
+.panelhead h2,.panelhead h3{color:#f2e8ff}
+.panelhead small{color:#c1afd3}
+.welcome h2{color:#e6c5ff}
+.ascii{background:#100a18;color:#d8cce2;border-color:#79589b}
+.ascii strong{color:#ffd84d}
+.notice{background:#2c2419;border-color:#8f7336;color:#f0dca4}
+.feature{background:#281b36;border-color:#58416f}
+.feature h3{color:#f0d878}
+.tag{background:#38264a;color:#f7dc70;border-color:#74538e}
+.linklist li{border-bottom-color:#49375a}
+.video-frame,.tiktok-frame{background:#09060d;border-color:#79589b}
+.video-frame p,.tiktok-frame p{color:#e5d8f2}
+.button{background:#563478;color:#fff3c4;border-color:#8b65aa}
+.button:hover{background:#ffd84d;color:#24152f}
+.socials a{background:#2c1e3b;border-color:#604879;color:#f1e6fa}
+.statusline{border-bottom-color:#49375a}
+.led{background:#b5d66a;box-shadow:0 0 7px #b5d66a}
+.counter span{background:#09060d;color:#ffd84d;border-color:#76568f}
+.smallprint{color:#b8a9c8}
+.guestnote{background:#2b1d39;border-left-color:#ffd84d;color:#eadcf7}
+.footer{background:#120b1b;border-top:3px double #76528f;color:#bdaaca}
+.footer a{color:#ffdc62}
+.modal{background:#21172d;border-color:#a77be0;box-shadow:8px 8px 0 #000}
+.modalbar{background:#4a2d65;color:#fff0b0}
+.modalbody h2{color:#f0d16b}
+.modalbody{color:#eee8f7}
+.modalbody .smallprint{color:#b8a9c8}
+.modalactions button{background:#ffd84d;color:#21132f;border-color:#b99a3a;font-weight:700}
+.archive-preview{display:grid;gap:7px}
+.archive-entry{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:8px 9px;background:#291b38;border:1px solid #513968;text-decoration:none;color:#f2e8ff}
+.archive-entry:hover{background:#3b2850;color:#ffe37a}
+.archive-entry small{color:#c0add4;font-size:9px;white-space:nowrap}
+.guestbook-list{display:grid;gap:7px;margin:10px 0}
+.guestbook-entry{display:block;padding:8px 9px;border-left:2px solid #ffd84d;background:#291b38;text-decoration:none;color:#f0e7fa}
+.guestbook-entry small{display:block;color:#bba8cf;font-size:9px;margin-top:3px}
+.guestbook-note{font-size:10px;color:#c3b2d4}
+.web-badges{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;padding:13px;background:#120b1b;border-top:1px solid #503766}
+.badge88{width:88px;height:31px;display:flex;align-items:center;justify-content:center;text-align:center;border:1px solid #a77be0;background:linear-gradient(135deg,#38204f,#150d20);color:#ffd84d;text-decoration:none;font:10px/1 'VT323',monospace;letter-spacing:.04em;box-shadow:inset 1px 1px 0 #76528f,2px 2px 0 #07040b}
+.badge88:hover{background:#ffd84d;color:#21132f}
+.playerbox{display:grid;gap:8px}
+.playerbox audio{width:100%;height:34px;filter:sepia(.5) saturate(.7)}
+.player-label{font-size:10px;color:#f3d96c}
+.playerbox .smallprint{margin:0}
+.easter-overlay{position:fixed;inset:0;z-index:80;background:#050308ed;display:grid;place-items:center;padding:18px}
+.easter-terminal{width:min(560px,100%);border:1px solid #9c72c3;background:#100b17;box-shadow:0 0 35px #6e3b91;padding:18px;color:#d8c4ed;font:12px/1.8 'IBM Plex Mono',monospace}
+.easter-terminal h2{font:30px 'VT323',monospace;color:#ffd84d;margin:0 0 8px}
+.easter-terminal .prompt{color:#a8d46c}
+.easter-terminal button{margin-top:12px;background:#ffd84d;color:#21132f;border:0;padding:7px 12px;font-weight:700}
+@media(max-width:520px){.web-badges{gap:6px}.badge88{flex:0 0 88px}}
+
 </style>
 </head>
 <body>
@@ -97,7 +168,7 @@ button{font:inherit;cursor:pointer}
     </div>
   </header>
   <nav class="nav" aria-label="Nawigacja główna">
-    <a href="#start">⌂ START</a><a href="#materialy">▣ MATERIAŁY</a><a href="sprzet.html">▤ SPRZĘT</a><a href="retro-misja.html">◈ RETRO MISJA</a><a href="daily.html">▦ DAILY</a><a href="#kontakt">✉ KONTAKT</a>
+    <a href="#start">⌂ START</a><a href="#materialy">▣ MATERIAŁY</a><a href="sprzet.html">▤ SPRZĘT</a><a href="retro-misja.html">◈ RETRO MISJA</a><a href="daily.html">▦ DAILY</a><a href="#archiwum">▧ ARCHIWUM</a><a href="#ksiega">✎ KSIĘGA GOŚCI</a><a href="#kontakt">✉ KONTAKT</a>
   </nav>
   <div class="ticker"><b>WIADOMOŚĆ DNIA</b><span>WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY • WITAJ W LEVEL NEXT • NIEZALEŻNYM MIEJSCU W SIECI • GRY Z LAT 90. I 00. • RECENZJE • ARCHIWUM • LEVEL NEXT DAILY •</span></div>
   <div class="layout" id="start">
@@ -130,6 +201,24 @@ button{font:inherit;cursor:pointer}
         <div class="panelhead"><h2>03 / NOTATKA REDAKCYJNA</h2><small>PLIK: ABOUT.TXT</small></div>
         <div class="panelbody"><p>Nie chcę, żeby LEVEL NEXT był kolejnym portalem ścigającym zasięgi. To raczej internetowy pokój pełen gier, wspomnień, własnych opinii i rzeczy znalezionych po drodze.</p><p class="smallprint">Jeśli pamiętasz czasy forów, ksiąg gości, własnych stron i ręcznie robionych buttonów - jesteś u siebie.</p></div>
       </section>
+
+      <section class="panel" id="archiwum">
+        <div class="panelhead"><h2>04 / ARCHIWUM WYDAŃ</h2><small>ARCHIVE.DAT</small></div>
+        <div class="panelbody">
+          <p>Poprzednie wydania LEVEL NEXT DAILY. Bez nieskończonego feedu, po prostu uporządkowana historia.</p>
+          <div id="homeArchive" class="archive-preview"><span class="smallprint">ŁADOWANIE ARCHIWUM...</span></div>
+          <a class="button" href="daily.html">Przejdź do pełnego archiwum »</a>
+        </div>
+      </section>
+      <section class="panel" id="ksiega">
+        <div class="panelhead"><h2>05 / KSIĘGA GOŚCI</h2><small>GUESTBOOK.TXT</small></div>
+        <div class="panelbody">
+          <p>Stare strony miały księgi gości. LEVEL NEXT też powinien mieć swoją. Zostaw kilka słów, wspomnienie o grze albo polecajkę.</p>
+          <div id="guestbookEntries" class="guestbook-list"><span class="smallprint">SPRAWDZANIE WPISÓW...</span></div>
+          <a class="button" href="https://github.com/Firol24/LevelNext/issues/new?title=Ksi%C4%99ga%20go%C5%9Bci%3A%20Tw%C3%B3j%20wpis&body=**Wpis%20do%20ksi%C4%99gi%20go%C5%9Bci%20LEVEL%20NEXT**%0A%0ANick%3A%0AWiadomo%C5%9B%C4%87%3A" target="_blank" rel="noopener">Dodaj wpis do księgi »</a>
+          <p class="guestbook-note">Wpisy są publiczne i trafiają do księgi po zatwierdzeniu. Dodawanie wymaga konta GitHub.</p>
+        </div>
+      </section>
     </main>
     <aside class="sidecol">
       <section class="panel"><div class="panelhead"><h3>04 / STATUS SYSTEMU</h3><small>LIVE</small></div><div class="panelbody">
@@ -143,22 +232,34 @@ button{font:inherit;cursor:pointer}
         <div id="latestTikTok" class="tiktok-frame"><p style="color:#ddd;text-align:center;padding:12px">ODCZYTYWANIE KLIPU...</p></div>
         <a class="button" href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener">Otwórz TikTok »</a>
       </div></section>
-      <section class="panel"><div class="panelhead"><h3>06 / ŁĄCZA ZEWNĘTRZNE</h3><small>NETWORK</small></div><div class="panelbody"><div class="socials">
+
+      <section class="panel"><div class="panelhead"><h3>06 / ODTWARZACZ</h3><small>VHS AUDIO</small></div><div class="panelbody">
+        <div class="playerbox"><span class="player-label">▶ SZUM TAŚMY / AMBIENT</span><audio controls preload="none"><source src="vhs.wav" type="audio/wav">Twoja przeglądarka nie obsługuje audio.</audio><p class="smallprint">Odtwarzanie ręczne. Dźwięk nie uruchamia się sam.</p></div>
+      </div></section>
+      <section class="panel"><div class="panelhead"><h3>07 / ŁĄCZA ZEWNĘTRZNE</h3><small>NETWORK</small></div><div class="panelbody"><div class="socials">
         <a href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener"><img src="pngegg (1).png" alt="">Discord</a>
         <a href="https://www.twitch.tv/tu_firol" target="_blank" rel="noopener"><img src="pngegg.png" alt="">Twitch</a>
         <a href="https://www.youtube.com/@tufirol9695" target="_blank" rel="noopener"><img src="icons8-youtube-48.png" alt="">YouTube</a>
         <a href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener"><img src="icons8-tiktok-48.png" alt="">TikTok</a>
         <a href="https://www.instagram.com/_firol_" target="_blank" rel="noopener"><img src="icons8-instagram-48.png" alt="">Instagram</a>
       </div><a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Dołącz do Discorda »</a></div></section>
-      <section class="panel"><div class="panelhead"><h3>07 / LICZNIK ODWIEDZIN</h3><small>LOCAL DATA</small></div><div class="panelbody">
+      <section class="panel"><div class="panelhead"><h3>08 / LICZNIK ODWIEDZIN</h3><small>LOCAL DATA</small></div><div class="panelbody">
         <div class="counter" id="visitCounter" aria-label="Liczba lokalnych odwiedzin"><span>0</span><span>0</span><span>0</span><span>1</span></div>
         <p class="smallprint">Licznik lokalny zapisany w tej przeglądarce. Nie jest globalną statystyką witryny.</p>
       </div></section>
-      <section class="panel" id="kontakt"><div class="panelhead"><h3>08 / KONTAKT</h3><small>END OF LINE</small></div><div class="panelbody">
+      <section class="panel" id="kontakt"><div class="panelhead"><h3>09 / KONTAKT</h3><small>END OF LINE</small></div><div class="panelbody">
         <div class="guestnote">Masz wspomnienie związane ze starą grą? Znalazłeś ciekawy temat? Odezwij się przez społeczności LEVEL NEXT.</div>
         <a class="button" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Napisz na Discordzie »</a>
       </div></section>
     </aside>
+  </div>
+
+  <div class="web-badges" aria-label="Przyciski i odnośniki LEVEL NEXT">
+    <a class="badge88" href="index.html" title="LEVEL NEXT">LEVEL NEXT<br>EST. 2025</a>
+    <a class="badge88" href="daily.html" title="LEVEL NEXT DAILY">DAILY<br>PRESS START</a>
+    <a class="badge88" href="retro-misja.html" title="Retro Misja">RETRO<br>ZONE</a>
+    <a class="badge88" href="sprzet.html" title="Sprzęt">HARDWARE<br>INSIDE</a>
+    <a class="badge88" href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener" title="Discord">JOIN THE<br>NETWORK</a>
   </div>
   <footer class="footer">© 2025-2026 LEVEL NEXT // NIEZALEŻNA WITRYNA INTERNETOWA<br><span>MADE WITH CURIOSITY, NOT AN ALGORITHM</span><br><a href="index.html">START</a> · <a href="daily.html">DAILY</a> · <a href="sprzet.html">SPRZĘT</a> · <a href="retro-misja.html">RETRO MISJA</a></footer>
 </div>
@@ -203,5 +304,55 @@ fetch('data/latest_tiktok.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new 
   document.getElementById('latestTikTok').replaceChildren(frame);
 }).catch(()=>{document.getElementById('latestTikTok').innerHTML='<p style="color:#ddd;text-align:center;padding:12px">KLIP POJAWI SIĘ PO AKTUALIZACJI DANYCH.<br>Otwórz profil na TikToku.</p>'});
 </script>
+
+<script>
+(async function(){
+  const archiveBox=document.getElementById('homeArchive');
+  try{
+    const r=await fetch('archive/index.json?ts='+Date.now(),{cache:'no-store'});
+    if(!r.ok)throw new Error('archive unavailable');
+    const data=await r.json();
+    const editions=Array.isArray(data.editions)?data.editions.slice(0,5):[];
+    if(!editions.length)throw new Error('empty archive');
+    archiveBox.replaceChildren(...editions.map(item=>{
+      const a=document.createElement('a');a.className='archive-entry';
+      a.href='daily.html?date='+encodeURIComponent(item.date);
+      const title=document.createElement('span');title.textContent=item.headline||'Wydanie LEVEL NEXT DAILY';
+      const date=document.createElement('small');date.textContent=item.date;
+      a.append(title,date);return a;
+    }));
+  }catch(e){archiveBox.textContent='Archiwum jest chwilowo niedostępne. Otwórz LEVEL NEXT DAILY.';}
+  const guestbook=document.getElementById('guestbookEntries');
+  try{
+    const r=await fetch('https://api.github.com/repos/Firol24/LevelNext/issues?state=all&per_page=100',{headers:{'Accept':'application/vnd.github+json'}});
+    if(!r.ok)throw new Error('guestbook unavailable');
+    const issues=await r.json();
+    const entries=issues.filter(x=>!x.pull_request&&/^Księga gości:/i.test(x.title)).slice(0,4);
+    if(!entries.length){guestbook.textContent='Księga jest jeszcze pusta. Możesz być pierwszą osobą, która zostawi wpis.';}
+    else guestbook.replaceChildren(...entries.map(item=>{
+      const a=document.createElement('a');a.className='guestbook-entry';a.href=item.html_url;a.target='_blank';a.rel='noopener';
+      const title=document.createElement('span');title.textContent=item.title;
+      const meta=document.createElement('small');meta.textContent='WPIS '+new Date(item.created_at).toLocaleDateString('pl-PL')+' / OTWÓRZ';
+      a.append(title,meta);return a;
+    }));
+  }catch(e){guestbook.textContent='Nie udało się pobrać wpisów. Możesz przejść bezpośrednio do księgi gości.';}
+})();
+(function(){
+  const sequence=['ArrowUp','ArrowUp','ArrowDown','ArrowDown','ArrowLeft','ArrowRight','ArrowLeft','ArrowRight','b','a'];
+  let progress=0;
+  const overlay=document.createElement('div');
+  overlay.className='easter-overlay hidden';
+  overlay.innerHTML='<div class="easter-terminal" role="dialog" aria-modal="true"><h2>LEVEL NEXT // SECRET TERMINAL</h2><div><span class="prompt">C:\LEVELNEXT&gt;</span> connection_established</div><div>USER: VISITOR</div><div>ACCESS: GRANTED</div><p>Nie wszystko w sieci musi być podane na tacy. Czasem warto trochę poklikać.</p><div class="prompt">> YOU FOUND THE HIDDEN ROOM_</div><button type="button">WRÓĆ DO WITRYNY</button></div>';
+  document.body.appendChild(overlay);
+  overlay.querySelector('button').addEventListener('click',()=>overlay.classList.add('hidden'));
+  overlay.addEventListener('click',e=>{if(e.target===overlay)overlay.classList.add('hidden')});
+  document.addEventListener('keydown',e=>{
+    if(e.key==='Escape'){overlay.classList.add('hidden');return;}
+    if(e.key===sequence[progress]||(e.key.toLowerCase()===sequence[progress])){progress++;if(progress===sequence.length){overlay.classList.remove('hidden');progress=0;}}
+    else progress=e.key===sequence[0]?1:0;
+  });
+})();
+</script>
+
 </body>
 </html>
