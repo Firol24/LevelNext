@@ -14,7 +14,7 @@
 <div><label for="title">Nagłówek bloku</label><input id="title" maxlength="100" placeholder="Np. OSTATNIE ZNALEZISKA"></div>
 </div>
 <label for="body" id="bodyLabel">Treść</label><p class="smallprint" id="bodyHelp">Własny blok CMS: zwykły tekst, akapity oddzielaj pustą linią.</p><textarea id="body" maxlength="30000" placeholder="Treść bloku..."></textarea>
-<div class="admin-grid"><div><label for="image">Adres obrazka (opcjonalnie)</label><input id="image" type="url" placeholder="https://..."></div><div><label for="link">Adres odnośnika (opcjonalnie)</label><input id="link" type="url" placeholder="https://..."></div></div>
+<div class="admin-grid"><div><label for="image">Adres obrazka lub GIF-a (opcjonalnie)</label><input id="image" type="url" placeholder="https://..."></div><div><label for="link">Adres odnośnika (opcjonalnie)</label><input id="link" type="url" placeholder="https://..."></div></div><p class="smallprint">GIF-y działają tak samo jak zwykłe obrazki. Wklej bezpośredni adres pliku kończący się np. na .gif, .png, .jpg lub .webp.</p>
 <div class="admin-actions"><button class="button" id="submit">Wyślij zmianę na GitHub »</button><button class="button" type="button" id="clear">Wyczyść formularz</button></div>
 <section class="admin-preview"><h2>PODGLĄD STRONY NA ŻYWO</h2><p class="smallprint">Poniżej widzisz prawdziwą podstronę LEVEL NEXT. Edycja istniejącej sekcji jest podglądana w jej oryginalnym miejscu, a nowy blok w wybranej kolumnie i kolejności. Zmiany formularza są odświeżane automatycznie, bez publikowania.</p><div class="live-toolbar"><button type="button" id="viewDesktop">Widok desktop 980 px</button><button type="button" id="viewMobile">Widok telefonu 390 px</button><button type="button" id="reloadPreview">Odśwież podstronę</button><span id="previewStatus" class="smallprint">Ładowanie podglądu...</span></div><div class="live-frame-wrap" id="liveFrameWrap"><iframe id="liveFrame" class="live-frame" title="Podgląd strony LEVEL NEXT"></iframe></div></section>
 <h2>Bloki opublikowane przez CMS</h2><div id="items" class="admin-items">Wczytywanie...</div>
@@ -24,7 +24,7 @@
 <script>
 (()=>{
 const $=id=>document.getElementById(id),file='data/site-content.json';
-let data={blocks:[],history:[]},nativePanels=[];
+let data={blocks:[],history:[]},nativePanels=[],pendingEdits={};
 const labels={'index.html':'START','o-nas.html':'O NAS','materialy.html':'MATERIAŁY','retro-misja.html':'RETRO MISJA','sprzet.html':'SPRZĘT','opinie.html':'WPISY','archiwum.html':'ARCHIWUM','kontakt.html':'KONTAKT','pobieranie.html':'POBIERANIE'};
 function renderBlock(b,draft=false){
  const el=document.createElement('div');el.className='preview-block'+(draft?' preview-draft':'');
@@ -35,6 +35,24 @@ function renderBlock(b,draft=false){
  return el;
 }
 function preview(){updateFullPreview();}
+function capturePendingEdit(){
+ const id=$('block').value;
+ if($('operation').value!=='edit'||!id||id.startsWith('native|'))return;
+ pendingEdits[id]={title:$('title').value,body:$('body').value,image:$('image').value,link:$('link').value,page:$('page').value,column:$('column').value,position:$('position').value};
+}
+function applyPendingEdits(doc){
+ Object.keys(pendingEdits).forEach(id=>{
+  const b=pendingEdits[id],panel=doc.querySelector('[data-cms-id="'+CSS.escape(id)+'"]');
+  if(!panel)return;
+  const h=panel.querySelector('.panelhead h1,.panelhead h2,.panelhead h3,.panelhead h4');
+  if(h)h.textContent=b.title||'Bez tytułu';
+  const body=panel.querySelector('.panelbody');if(!body)return;
+  body.replaceChildren();
+  if(b.image){const img=doc.createElement('img');img.src=b.image;img.alt=b.title||'';img.style.maxWidth='100%';img.style.height='auto';body.append(img);}
+  String(b.body||'').split(/\n\s*\n/).filter(Boolean).forEach(paragraph=>{const p=doc.createElement('p');p.textContent=paragraph;body.append(p);});
+  if(b.link){const a=doc.createElement('a');a.href=b.link;a.textContent='Otwórz odnośnik »';a.target='_blank';a.rel='noopener';a.className='button';body.append(a);}
+ });
+}
 function setPreviewMode(mode){const frame=$('liveFrame'),wrap=$('liveFrameWrap');frame.style.width=mode==='mobile'?'390px':'980px';wrap.classList.toggle('mobile-view',mode==='mobile');}
 function loadFullPreview(){const frame=$('liveFrame');$('previewStatus').textContent='Ładowanie podstrony...';frame.src=new URL($('page').value,location.href).href+'?cms-preview='+Date.now();}
 function updateFullPreview(){
@@ -42,6 +60,7 @@ function updateFullPreview(){
  try{
   const doc=frame.contentDocument,layout=doc&&doc.querySelector('.layout');if(!layout)return;
   doc.querySelectorAll('[data-admin-draft="true"]').forEach(el=>el.remove());
+  applyPendingEdits(doc);
   const op=$('operation').value,id=$('block').value;
   if(op==='delete'){const old=doc.querySelector('[data-cms-id="'+CSS.escape(id)+'"]');if(old)old.remove();$('previewStatus').textContent='Podgląd po usunięciu wybranego bloku.';return;}
   const selected=$('block').value;
@@ -118,7 +137,8 @@ async function loadSelected(){
   loadFullPreview();preview();return;
  }
  const b=data.blocks.find(x=>x.id===selected);if(!b)return;
- $('page').value=b.page;$('column').value=b.column;$('position').value=b.position;$('title').value=b.title;$('body').value=b.body;$('image').value=b.image||'';$('link').value=b.link||'';
+ const draft=pendingEdits[selected]||b;
+ $('page').value=draft.page||b.page;$('column').value=draft.column||b.column;$('position').value=draft.position||b.position;$('title').value=draft.title??b.title;$('body').value=draft.body??b.body;$('image').value=draft.image??(b.image||'');$('link').value=draft.link??(b.link||'');
  $('bodyLabel').textContent='Treść';$('bodyHelp').textContent='Własny blok CMS: zwykły tekst, akapity oddzielaj pustą linią.';
  $('image').disabled=false;$('link').disabled=false;loadFullPreview();preview();
 }
@@ -162,6 +182,7 @@ loadFullPreview();
 $('operation').addEventListener('change',()=>{
  const op=$('operation').value;
  if(op==='add'){
+  capturePendingEdit();
   $('block').value='';
   resetEditorFields();
  }else if(!$('block').value){
@@ -200,7 +221,10 @@ $('submit').onclick=()=>{
  if(native&&payload.body.length>30000){alert('Kod sekcji jest zbyt długi.');return;}
  for(const u of [payload.image,payload.link])if(u){try{if(!['http:','https:'].includes(new URL(u).protocol))throw 0;}catch{alert('Adres obrazka lub odnośnika jest nieprawidłowy.');return;}}
  const body=['### Operacja',payload.operation,'### Typ bloku',payload.native,'### ID bloku',payload.id||'NATIVE','### Nagłówek źródłowy',payload.sourceHeading||'Brak','### Wystąpienie',String(payload.occurrence||0),'### Podstrona',payload.page,'### Kolumna',payload.column,'### Kolejność',String(payload.position),'### Nagłówek',payload.title||'Brak','### Treść',payload.body||'Brak','### Obrazek',payload.image||'Brak','### Odnośnik',payload.link||'Brak'].join('\n\n');
- const url='https://github.com/Firol24/LevelNext/issues/new?'+new URLSearchParams({title:'[SITE-CMS] '+op.toUpperCase()+' '+(payload.title||id||'blok'),body});location.href=url;
+ const url='https://github.com/Firol24/LevelNext/issues/new?'+new URLSearchParams({title:'[SITE-CMS] '+op.toUpperCase()+' '+(payload.title||id||'blok'),body});
+ const issueTab=window.open(url,'_blank');
+ if(!issueTab){location.href=url;return;}
+ $('previewStatus').textContent='Zgłoszenie otwarto w nowej karcie. Wróć tutaj, aby kontynuować kolejne zmiany.';
 };
 Promise.all([fetch(file+'?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():{blocks:[],history:[]}),discoverNativePanels()]).then(([v])=>{data=v;data.blocks=data.blocks||[];data.history=data.history||[];refresh();}).catch(()=>{$('items').textContent='Nie udało się wczytać listy bloków.';});
 })();
