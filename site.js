@@ -216,6 +216,7 @@
               var panel = document.createElement("section");
               panel.className = "panel cms-panel";
               panel.dataset.cmsId = block.id || "";
+              if (block.id) panel.id = block.id;
               var head = document.createElement("div");
               head.className = "panelhead";
               var heading = document.createElement("h2");
@@ -223,7 +224,7 @@
               head.appendChild(heading);
               var body = document.createElement("div");
               body.className = "panelbody";
-              String(block.body || "").split(/\\n\\s*\\n/).filter(Boolean).forEach(function (paragraph) {
+              String(block.body || "").split(/\n\s*\n/).filter(Boolean).forEach(function (paragraph) {
                 var p = document.createElement("p");
                 p.textContent = paragraph;
                 body.appendChild(p);
