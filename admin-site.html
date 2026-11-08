@@ -101,6 +101,7 @@ $('viewDesktop').addEventListener('click',()=>setPreviewMode('desktop'));
 $('viewMobile').addEventListener('click',()=>setPreviewMode('mobile'));
 $('reloadPreview').addEventListener('click',loadFullPreview);
 $('liveFrame').addEventListener('load',startPreviewRefresh);
+loadFullPreview();
 ['page','column','position','title','body','image','link'].forEach(id=>$(id).addEventListener('input',preview));
 $('operation').addEventListener('change',()=>{
  const del=$('operation').value==='delete';
