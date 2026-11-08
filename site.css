@@ -137,3 +137,31 @@ h1,h2,h3{line-height:1.25}
 .winamp-launcher{position:fixed;right:16px;bottom:16px;z-index:1001;padding:8px 12px;background:linear-gradient(#315ca0,#14274e);border:2px outset #c6c6c6;color:#fff;font:bold 11px Tahoma;cursor:pointer;box-shadow:2px 2px 5px #0008}
 @media(max-width:620px){.winamp-window{width:min(310px,calc(100vw - 16px))}}
 @media(prefers-reduced-motion:reduce){.winamp-window.is-playing .winamp-spectrum i{animation:none}}
+
+
+/* RETRO WARSTWA: BANERY, IKONY I MIKROANIMACJE */
+.ticker span{animation:tickerScroll 28s linear infinite}
+.ticker:hover span{animation-play-state:paused}
+@keyframes tickerScroll{from{transform:translateX(0)}to{transform:translateX(-35%)}}
+.led{border-radius:50%;animation:ledPulse 1.6s steps(2,end) infinite;box-shadow:0 0 5px #9ac45a}
+@keyframes ledPulse{50%{opacity:.35;box-shadow:none}}
+.retro-badges{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:7px;margin:12px auto 2px;padding-top:9px;border-top:1px dotted #76588d}
+.retro-badges a{display:inline-flex;width:88px;height:31px;line-height:0;background:#100b17;border:1px solid #76588d}
+.retro-badges img{display:block;width:88px;height:31px;object-fit:contain}
+.badge-caption{flex-basis:100%;color:#a995b9;font:8px "Courier New",monospace;letter-spacing:.08em}
+.mission-console{display:flex;align-items:center;gap:9px;min-height:54px;padding:8px;background:#100b17;border:1px inset #76588d}
+.mission-console-large{min-height:82px;margin:10px 0}
+.mission-spinner{display:inline-flex;flex:0 0 24px;width:24px;height:24px;align-items:center;justify-content:center;color:#ffdc55;font:24px/1 Arial,sans-serif}
+.mission-console.is-rolling .mission-spinner{animation:missionSpin .35s linear infinite}
+@keyframes missionSpin{to{transform:rotate(360deg)}}
+.mission-result{margin:0;color:#e9dff2}
+.mission-result.is-shuffling{color:#ffdf69;filter:blur(.25px);opacity:.78}
+.mission-result.mission-reveal{animation:missionReveal .42s steps(4,end) both}
+@keyframes missionReveal{0%{opacity:0;transform:translateY(5px)}100%{opacity:1;transform:translateY(0)}}
+.mission-button .button-icon{display:inline-block;font-size:15px;vertical-align:-1px;margin-right:3px}
+.mission-button.is-rolling .button-icon{animation:missionSpin .35s linear infinite}
+.mission-state{margin:6px 0 0;color:#b9a6cb;font:9px "Courier New",monospace;letter-spacing:.08em}
+.mission-button:disabled{opacity:.75;cursor:wait}
+.panelhead h2:before,.panelhead h3:before{content:"◆";display:inline-block;margin-right:6px;color:#c4a2e8;font-size:8px;vertical-align:2px}
+.winamp-window.is-playing .winamp-spectrum i{animation:winampSpectrum .48s ease-in-out infinite alternate}
+@media(prefers-reduced-motion:reduce){.ticker span,.led,.mission-console.is-rolling .mission-spinner,.mission-button.is-rolling .button-icon,.mission-result.mission-reveal,.winamp-window.is-playing .winamp-spectrum i{animation:none!important}}
