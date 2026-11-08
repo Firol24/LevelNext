@@ -134,7 +134,7 @@ async function discoverNativePanels(){
      const heading=panel.querySelector('.panelhead h1,.panelhead h2,.panelhead h3,.panelhead h4');
      const body=panel.querySelector('.panelbody');if(!heading||!body)return;
      const title=heading.textContent.trim();if(!title)return;
-     const same=nativePanels.filter(x=>x.page===page&&x.heading===title).length;
+     const same=nativePanels.filter(x=>x.page===page&&x.column===column&&x.heading===title).length;
      nativePanels.push({page,column,position,title,heading:title,index:same,html:body.innerHTML});
     });
    });
@@ -151,12 +151,15 @@ loadFullPreview();
 ['page','column','position','title','body','image','link'].forEach(id=>$(id).addEventListener('input',preview));
 $('operation').addEventListener('change',()=>{
  const del=$('operation').value==='delete';
- ['title','body','image','link','page','column','position'].forEach(id=>$(id).disabled=del);
+ ['title','body','page','column','position'].forEach(id=>$(id).disabled=del);
+ const native=$('block').value.startsWith('native|');
+ ['image','link'].forEach(id=>$(id).disabled=del||native);
  preview();
 });
 $('clear').onclick=()=>{
  ['title','body','image','link'].forEach(id=>$(id).value='');$('block').value='';$('operation').value='add';$('position').value=1;
- ['title','body','image','link','page','column','position'].forEach(id=>$(id).disabled=false);preview();
+ ['title','body','image','link','page','column','position'].forEach(id=>$(id).disabled=false);
+ $('bodyLabel').textContent='Treść';$('bodyHelp').textContent='Własny blok CMS: zwykły tekst, akapity oddzielaj pustą linią.';preview();
 };
 $('submit').onclick=()=>{
  const op=$('operation').value,id=$('block').value,native=id.startsWith('native|');
