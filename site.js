@@ -95,27 +95,55 @@
       closePlayer.addEventListener("click", function () { audio.pause(); player.hidden = true; launcher.hidden = false; });
       launcher.addEventListener("click", function () { player.hidden = false; launcher.hidden = true; });
 
+      // Okno jest pozycjonowane względem całego dokumentu, a nie ekranu.
+      var positionKey = "levelNextWinampPosition";
+      var savedPosition = null;
+      try { savedPosition = JSON.parse(window.localStorage.getItem(positionKey) || "null"); } catch (error) {}
+      if (savedPosition && Number.isFinite(savedPosition.left) && Number.isFinite(savedPosition.top)) {
+        player.style.left = Math.max(0, savedPosition.left) + "px";
+        player.style.top = Math.max(0, savedPosition.top) + "px";
+      } else {
+        var initialRect = player.getBoundingClientRect();
+        player.style.left = Math.max(0, window.scrollX + window.innerWidth - initialRect.width - 24) + "px";
+        player.style.top = Math.max(0, window.scrollY + window.innerHeight - initialRect.height - 24) + "px";
+      }
+
       var dragState = null;
       drag.addEventListener("pointerdown", function (event) {
         if (event.target.closest("button")) return;
+        event.preventDefault();
         var rect = player.getBoundingClientRect();
-        dragState = {x:event.clientX,y:event.clientY,left:rect.left,top:rect.top};
-        player.style.left = rect.left + "px";
-        player.style.top = rect.top + "px";
-        player.style.right = "auto";
-        player.style.bottom = "auto";
-        if (drag.setPointerCapture) drag.setPointerCapture(event.pointerId);
+        dragState = {
+          pointerId: event.pointerId,
+          startX: event.pageX,
+          startY: event.pageY,
+          left: rect.left + window.scrollX,
+          top: rect.top + window.scrollY
+        };
+        drag.classList.add("dragging");
       });
-      drag.addEventListener("pointermove", function (event) {
-        if (!dragState) return;
-        var left = Math.max(0, Math.min(window.innerWidth - player.offsetWidth, dragState.left + event.clientX - dragState.x));
-        var top = Math.max(0, Math.min(window.innerHeight - player.offsetHeight, dragState.top + event.clientY - dragState.y));
+      document.addEventListener("pointermove", function (event) {
+        if (!dragState || event.pointerId !== dragState.pointerId) return;
+        var maxLeft = Math.max(0, document.documentElement.scrollWidth - player.offsetWidth);
+        var maxTop = Math.max(0, document.documentElement.scrollHeight - player.offsetHeight);
+        var left = Math.max(0, Math.min(maxLeft, dragState.left + event.pageX - dragState.startX));
+        var top = Math.max(0, Math.min(maxTop, dragState.top + event.pageY - dragState.startY));
         player.style.left = left + "px";
         player.style.top = top + "px";
       });
-      function endDrag() { dragState = null; }
-      drag.addEventListener("pointerup", endDrag);
-      drag.addEventListener("pointercancel", endDrag);
+      function endDrag(event) {
+        if (!dragState || (event && event.pointerId !== dragState.pointerId)) return;
+        dragState = null;
+        drag.classList.remove("dragging");
+        try {
+          window.localStorage.setItem(positionKey, JSON.stringify({
+            left: parseFloat(player.style.left) || 0,
+            top: parseFloat(player.style.top) || 0
+          }));
+        } catch (error) {}
+      }
+      document.addEventListener("pointerup", endDrag);
+      document.addEventListener("pointercancel", endDrag);
     }
 
     var roll = document.getElementById("rollMission");
