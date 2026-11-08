@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T12:01+01:00",
+  "updatedAt": "2026-11-08T12:40+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -20,6 +20,31 @@
       "summary": "World of Warcraft: Forever zaliczyło największy debiut w historii serii pod względem liczby jednocześnie grających osób. Produkcja przyciągnęła również rekordową liczbę powracających użytkowników. Informacja 3 dni po premierze, a gracze WoW Forever już „stworzyli historię”. To największa premiera w dziejach serii Blizzarda została opublikowana przez GRYOnline.pl 8 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531834327.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowa gra Wiedźmin przedstawiona ze szczegółami. W roli głównej figury Geralta i Letho",
+      "sourceUrl": "https://www.ppe.pl/news/432541/nowa-gra-wiedzmin-przedstawiona-ze-szczegolami-w-roli-glownej-figury-geralta-i-letho.html",
+      "publishedAt": "2026-11-08T12:38+01:00",
+      "summary": "Fani uniwersum Białego Wilka mogą zacząć szykować miejsca na stołach, ponieważ w drodze jest zupełnie nowa gra z tej znanej serii, która zaoferuje zupełnie inne doświadczenia niż dotychczasowe produkcje RPG.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nie grafika i nie wydajność? Były szef PlayStation wskazuje ważniejszy kierunek dla PS6",
+      "sourceUrl": "https://www.ppe.pl/news/432491/nie-grafika-i-nie-wydajnosc-byly-szef-playstation-wskazuje-wazniejszy-kierunek-dla-ps6.html",
+      "publishedAt": "2026-11-08T12:30+01:00",
+      "summary": "Każda kolejna generacja konsol przynosi większą moc, lepszą grafikę i coraz bardziej rozbudowane technologie, ale wraz z nimi rosną również ceny sprzętu. Shawn Layden uważa, że Sony powinno przerwać ten wyścig. Zdaniem byłego szefa PlaySta...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "GTA VI za 1 zł przy zakupie telewizora TCL! Znakomita promocja w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/gta-vi-za-1-zl-przy-zakupie-telewizora-tcl-znakomita-promocja-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-08T12:22+01:00",
+      "summary": "Planujecie zakup nowego telewizora? Czekacie na premierę Grand Theft Auto VI? Jeśli odpowiedź na oba te pytania brzmi tak, to w RTV Euro AGD możecie skorzyć z akcji, dzięki której najnowsze dzieło studia Rockstar zgarniecie za 1 zł przy zakupie wybranego modelu TCL C6K o przekątnej 50, 55, 65, 75, 85 lub 98 cali. Wystarczy dodać telewizor i grę do jednego koszyka, a następnie zastosować kod rabatowy. Promocja obejmuje wydania na PS5 oraz Xbox Series X, opisane przez sklep jako kod aktywacyjny w pudełku, przy czym obecnie zamówić można wersję na PlayStation 5 (wydanie na XSX jest aktualnie niedostępne). Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-za-1-zl-przy-zakupie-telewizora-TCL-Znakomita-promocja-w-RTV-Euro-AGD_miniaturka-1-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
