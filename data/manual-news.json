@@ -35,5 +35,16 @@
       "imageUrl": "https://thehood.pl/images/home/hood-3.png",
       "sourceUrl": "https://thehood.pl"
     }
+  ],
+  "2026-11-09": [
+    {
+      "title": "WAŻNE! Ban w PoE 2 za grę na Geforce Now!",
+      "category": "WIADOMOŚCI",
+      "summary": "Dziś chciałem zagrać w PoE 2. Z racji, że jestem na starszym lapku, to odpaliłem grę, przez Geforce Now. Pierwsza próba wejścia do gry, ban, powód?  \"Third Party Software\". Nie używajcie Geforce Now jak nie chcecie bana",
+      "sourceName": "LEVEL NEXT / REDAKCJA",
+      "publishedAt": "2026-11-09T19:59+01:00",
+      "issueNumber": 9,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2HsZ3vrlNfJx5a86nxqgjuvK6gvjF2M_zUnVrHHl6Ag&s=10"
+    }
   ]
 }
