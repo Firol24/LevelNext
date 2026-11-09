@@ -1,17 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T17:01+01:00",
+  "updatedAt": "2026-11-09T18:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 może być ocenzurowane w niektórych krajach. Najpewniej chodzi o jedną kontrowersyjną rzecz",
-    "summary": "GTA 6 mogło zostać lekko ocenzurowane w Nowej Zelandii oraz Australii. Dataminerzy zauważyli plik, którego brakuje w pobranej grze. Informacja GTA 6 może być ocenzurowane w niektórych krajach. Najpewniej chodzi o jedną kontrowersyjną rzecz została opublikowana przez GRYOnline.pl 9 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moze-byc-ocenzurowane-w-niektorych-krajach-najpewniej-chodz/z9322a1",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531937343.jpg"
+    "title": "Główny projektant Skyrima był w szoku, grając w Baldur’s Gate 3. Tu zupełne przeciwieństwo tego, co robi Bethesda",
+    "summary": "Twórca Skyrima zdradził, co najbardziej zaskoczyło go w Baldur&apos;s Gate 3. Przy okazji wyjaśnił, co jego zdaniem zadecydowało o sukcesie kultowego RPG Bethesdy i dlaczego gracze nigdy nie powinni słyszeć, że grają w niewłaściwy sposób. Informacja Główny projektant Skyrima był w szoku, grając w Baldur’s Gate 3. Tu zupełne przeciwieństwo tego, co robi Bethesda została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/glowny-projektant-skyrima-byl-w-szoku-grajac-w-baldurs-gate-3-tu/za322a2",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531940635.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Główny projektant Skyrima był w szoku, grając w Baldur’s Gate 3. Tu zupełne przeciwieństwo tego, co robi Bethesda",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/glowny-projektant-skyrima-byl-w-szoku-grajac-w-baldurs-gate-3-tu/za322a2",
+      "publishedAt": "2026-11-09T18:19+01:00",
+      "summary": "Twórca Skyrima zdradził, co najbardziej zaskoczyło go w Baldur&apos;s Gate 3. Przy okazji wyjaśnił, co jego zdaniem zadecydowało o sukcesie kultowego RPG Bethesdy i dlaczego gracze nigdy nie powinni słyszeć, że grają w niewłaściwy sposób. Informacja Główny projektant Skyrima był w szoku, grając w Baldur’s Gate 3. Tu zupełne przeciwieństwo tego, co robi Bethesda została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531940635.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Warhammer zalicza opóźnienie. Padła nowa data premiery",
+      "sourceUrl": "https://www.ppe.pl/news/432607/warhammer-zalicza-opoznienie-padla-nowa-data-premiery.html",
+      "publishedAt": "2026-11-09T17:45+01:00",
+      "summary": "Fani Warhammera będą musieli poczekać dłużej na nową odsłonę Blood Bowl. Wydawca Slitherine poinformował podczas wydarzenia Dominion Days w Berlinie, że gra nie zadebiutuje już w 2026 roku.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na kabel toocki z wtyczką kątową (100W, 1m, USB-C) za 15,99 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-kabel-toocki-z-wtyczka-katowa-100w-1m-usb-c-za-1599-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-09T17:27+01:00",
+      "summary": "W polskim oddziale sklepu Amazon możecie zakupić tanio kabel toocki z wtyczką kątową. Model wspierający technologie szybkiego ładowania PD 3.0 oraz PPS do 100 W może być Wasz za jedyne 15,99 zł. Wariant o długości 1 m posiada dwie końcówki w standardzie USB-C. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-kabel-toocki-z-wtyczka-katowa-100W-1m-USB-C-za-1599-zl-w-Amazon-PL_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 może być ocenzurowane w niektórych krajach. Najpewniej chodzi o jedną kontrowersyjną rzecz",
@@ -20,6 +46,31 @@
       "summary": "GTA 6 mogło zostać lekko ocenzurowane w Nowej Zelandii oraz Australii. Dataminerzy zauważyli plik, którego brakuje w pobranej grze. Informacja GTA 6 może być ocenzurowane w niektórych krajach. Najpewniej chodzi o jedną kontrowersyjną rzecz została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531937343.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Red Dead Revolver doczekało się portu na PC. Gra otrzymała sporo przydatnych funkcji",
+      "sourceUrl": "https://www.ppe.pl/news/432609/red-dead-revolver-doczekalo-sie-portu-na-pc-gra-otrzymala-sporo-przydatnych-funkcji.html",
+      "publishedAt": "2026-11-09T17:15+01:00",
+      "summary": "Pierwsza odsłona serii Red Dead doczekała się nieoficjalnego portu na PC.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Football Manager 27 otrzyma patch w dniu premiery. Co poprawi SI?",
+      "sourceUrl": "https://www.ppe.pl/news/432601/football-manager-27-otrzyma-patch-w-dniu-premiery-co-poprawi-si.html",
+      "publishedAt": "2026-11-09T17:02+01:00",
+      "summary": "Sports Interactive potwierdziło, że Football Manager 27 zadebiutuje 10 listopada o godzinie 17:00 czasu polskiego na wszystkich obsługiwanych platformach. Wraz z premierą gry udostępnione zostaną również edytory Pre-Game Editor oraz In-Game Edit...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Duchowy spadkobierca Thiefa i Dark Messiah of Might & Magic już wkrótce trafi do wczesnego dostępu. To dzieło jednego twórcy",
+      "sourceUrl": "https://cdaction.pl/newsy/duchowy-spadkobierca-thiefa-i-dark-messiah-of-might-magic-juz-wkrotce-trafi-do-wczesnego-dostepu-to-dzielo-jednego-tworcy/",
+      "publishedAt": "2026-11-09T17:00+01:00",
+      "summary": "Idealny prezent na dzień wolny od pracy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-09T133634.271-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
