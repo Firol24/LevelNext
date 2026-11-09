@@ -1,17 +1,86 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T14:01+01:00",
+  "updatedAt": "2026-11-09T15:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "To będzie wielki rok dla fanów jednego z największych hitów anime ostatnich lat. W 2027 roku przebojowa seria powróci z 4. sezonem i filmem",
-    "summary": "Przebojowe anime szykuje wielki powrót w 2027 roku. Fani mogą spodziewać się nie tylko nowego sezonu, lecz również filmu, który trafi do kin. Informacja To będzie wielki rok dla fanów jednego z największych hitów anime ostatnich lat. W 2027 roku przebojowa seria powróci z 4. sezonem i filmem została opublikowana przez GRYOnline.pl 9 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/to-bedzie-wielki-rok-dla-fanow-jednego-z-najwiekszych-hitow-anime/z53228f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531918463.jpg"
+    "title": "Dwie gry PlayStation przekroczyły miliard dolarów przychodu premium. Lista największych hitów PS5 według analityków",
+    "summary": "God of War: Ragnarok ma być najbardziej dochodową produkcją PlayStation Studios w tej generacji konsol Sony. Informacja Dwie gry PlayStation przekroczyły miliard dolarów przychodu premium. Lista największych hitów PS5 według analityków została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/dwie-gry-playstation-przekroczyly-miliard-dolarow-przychodu-premi/z33229c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531928953.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dwie gry PlayStation przekroczyły miliard dolarów przychodu premium. Lista największych hitów PS5 według analityków",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dwie-gry-playstation-przekroczyly-miliard-dolarow-przychodu-premi/z33229c",
+      "publishedAt": "2026-11-09T15:05+01:00",
+      "summary": "God of War: Ragnarok ma być najbardziej dochodową produkcją PlayStation Studios w tej generacji konsol Sony. Informacja Dwie gry PlayStation przekroczyły miliard dolarów przychodu premium. Lista największych hitów PS5 według analityków została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531928953.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Polacy dogadali się z Microsoftem! Trzy polskie hity trafią do Xbox Game Pass",
+      "sourceUrl": "https://www.ppe.pl/news/432595/polacy-dogadali-sie-z-microsoftem-trzy-polskie-hity-trafia-do-xbox-game-pass.html",
+      "publishedAt": "2026-11-09T14:46+01:00",
+      "summary": "Xbox Game Pass może otrzymać w 2027 roku trzy kolejne gry z portfolio wydawniczego polskiego 11 bit studios. Informacja pojawiła się w dokumencie finansowym spółki, który ujawnił użytkownik MauroNL na platformie X.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Komputer G4M3R HERO 2.0 AMD Ryzen 7 7800X3D 32GB RAM RTX 5070 za 9999 zł (1200 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/komputer-g4m3r-hero-2-0-amd-ryzen-7-7800x3d-32gb-ram-rtx-5070-za-9999-zl-1200-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-09T14:39+01:00",
+      "summary": "Solidny komputer stacjonarny G4M3R HERO 2.0 w niezłej konfiguracji, pojawił się w ofercie sklepu x-kom w niższej cenie. Jednostka posiadająca w swojej konfiguracji 32GB RAM, procesor AMD Ryzen 7 7800X3D oraz kartę graficzną Nvidia GeForce RTX 5070, kosztuje 9999 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/g4m3r-20-miniaturka-cyfra-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Kolejna gra nie boi się GTA 6! Akademia Pana Kleksa, czyli polskie Hogwarts Legacy, oferuje demo i przygotowuje się do hucznej premiery",
+      "sourceUrl": "https://cdaction.pl/newsy/kolejna-gra-nie-boi-sie-gta-6-akademia-pana-kleksa-czyli-polskie-hogwarts-legacy-oferuje-demo-i-przygotowuje-sie-do-hucznej-premiery/",
+      "publishedAt": "2026-11-09T14:30+01:00",
+      "summary": "Developerzy z Raccoons Studio się nie patyczkują.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Akademia-Pana-Kleksa.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wydanie fizyczne GTA 6 bez tajemnic. Tak wygląda zawartość pudełka z hitem Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/news/432597/wydanie-fizyczne-gta-6-bez-tajemnic-tak-wyglada-zawartosc-pudelka-z-hitem-rockstar-games.html",
+      "publishedAt": "2026-11-09T14:30+01:00",
+      "summary": "Nadszedł ten moment. Weszliśmy już w erę pobierania Grand Theft Auto VI z PlayStation Store, Xbox Store, bądź kodu, który jest dołączany do fizycznego wydania gry. Oczywiście strefy czasowe rządzą się swoimi prawami, dlatego pierwsi gracze ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Super Mario Automat do gry Donkey Kong za 499 zł (cena kat. 729,99 zł) na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-super-mario-automat-do-gry-donkey-kong-za-499-zl-cena-kat-72999-zl-na-allegro/",
+      "publishedAt": "2026-11-09T14:17+01:00",
+      "summary": "Składający się z 1371 klocków zestaw stanowiący ukłon dla klasyki gier retro, czyli LEGO Super Mario – Automat do gry Donkey Kong, dostępny jest na Allegro w historycznie najniższej cenie. Interaktywny model, pozwalający na przeskakiwanie nad beczkami obsługując replikę automatu o wymiarach 39 cm x 27 cm x 15 cm, kosztuje 499 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Preorder-LEGO-Donkey-Kong-w-Sklepie-LEGO.-Automat-do-gry-1371-el.-dostepny-za-72999-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 Pro dostanie wyjątkową wersję GTA 6? Odkryto nową wersję PSSR 2 i tryb 120 Hz",
+      "sourceUrl": "https://www.ppe.pl/news/432604/ps5-pro-dostanie-wyjatkowa-wersje-gta-6-odkryto-nowa-wersje-pssr-2-i-tryb-120-hz.html",
+      "publishedAt": "2026-11-09T14:17+01:00",
+      "summary": "Najnowsze odkrycie dataminerów sugeruje, że GTA 6 wykorzysta ulepszoną wersję technologii PSSR 2 na PS5 Pro. W danych konfiguracyjnych gry znaleziono również wzmianki o obsłudze odświeżania 120 Hz.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Złodzieje ukradli sprzęt NVIDII wart ponad 44 mln zł. Sześć palet zniknęło bez śladu podczas transportu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zlodzieje-ukradli-sprzet-nvidii-wart-ponad-44-mln-zl-szesc-palet/z13229a",
+      "publishedAt": "2026-11-09T14:15+01:00",
+      "summary": "NVIDIA straciła sprzęt o wartości ponad 11 milionów dolarów. Transport ze sprzętem NVIDII zniknął po odebraniu ładunku przez ciężarówkę. Informacja Złodzieje ukradli sprzęt NVIDII wart ponad 44 mln zł. Sześć palet zniknęło bez śladu podczas transportu została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531925553.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "To będzie wielki rok dla fanów jednego z największych hitów anime ostatnich lat. W 2027 roku przebojowa seria powróci z 4. sezonem i filmem",
@@ -20,6 +89,14 @@
       "summary": "Przebojowe anime szykuje wielki powrót w 2027 roku. Fani mogą spodziewać się nie tylko nowego sezonu, lecz również filmu, który trafi do kin. Informacja To będzie wielki rok dla fanów jednego z największych hitów anime ostatnich lat. W 2027 roku przebojowa seria powróci z 4. sezonem i filmem została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531918463.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Path of Exile 3 na razie nie powstanie. Deweloperzy skupiają się na dwóch grach",
+      "sourceUrl": "https://www.ppe.pl/news/432594/path-of-exile-3-na-razie-nie-powstanie-deweloperzy-skupiaja-sie-na-dwoch-grach.html",
+      "publishedAt": "2026-11-09T14:02+01:00",
+      "summary": "Grinding Gear Games nie zamierza rezygnować z pierwszego Path of Exile, nawet po rozwoju i premierze jego następcy.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
