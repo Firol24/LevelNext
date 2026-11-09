@@ -1,16 +1,78 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T16:01+01:00",
+  "updatedAt": "2026-11-09T17:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Evercade Nexus - test konsoli. Retro w nowoczesnym wydaniu. Czy warto było czekać na nowego handhelda?",
-    "summary": "Producenci prześcigają się w oferowaniu coraz wydajniejszych urządzeń przenośnych, a granie w klasyczne tytuły najczęściej sprowadza się dziś do cyfrowych bibliotek, i emulatorów. Na tym tle Evercade konsekwentnie idzie własną drogą. Firm...",
-    "sourceUrl": "https://www.ppe.pl/recenzje/432611/evercade-nexus-test-konsoli-retro-w-nowoczesnym-wydaniu-czy-warto-bylo-czekac-na-nowego-handhelda.html"
+    "title": "GTA 6 może być ocenzurowane w niektórych krajach. Najpewniej chodzi o jedną kontrowersyjną rzecz",
+    "summary": "GTA 6 mogło zostać lekko ocenzurowane w Nowej Zelandii oraz Australii. Dataminerzy zauważyli plik, którego brakuje w pobranej grze. Informacja GTA 6 może być ocenzurowane w niektórych krajach. Najpewniej chodzi o jedną kontrowersyjną rzecz została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moze-byc-ocenzurowane-w-niektorych-krajach-najpewniej-chodz/z9322a1",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531937343.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 może być ocenzurowane w niektórych krajach. Najpewniej chodzi o jedną kontrowersyjną rzecz",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moze-byc-ocenzurowane-w-niektorych-krajach-najpewniej-chodz/z9322a1",
+      "publishedAt": "2026-11-09T17:25+01:00",
+      "summary": "GTA 6 mogło zostać lekko ocenzurowane w Nowej Zelandii oraz Australii. Dataminerzy zauważyli plik, którego brakuje w pobranej grze. Informacja GTA 6 może być ocenzurowane w niektórych krajach. Najpewniej chodzi o jedną kontrowersyjną rzecz została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531937343.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nicolas Cage cieszy się z anulowania Spider-Noir. Aktor zdradził zaskakujący powód",
+      "sourceUrl": "https://www.ppe.pl/news/432602/nicolas-cage-cieszy-sie-z-anulowania-spider-noir-aktor-zdradzil-zaskakujacy-powod.html",
+      "publishedAt": "2026-11-09T16:44+01:00",
+      "summary": "Amazon zakończył Spider-Noir po zaledwie jednym sezonie, ale Nicolas Cage wcale nie jest rozczarowany. Aktor przyznał, że poczuł ulgę, gdy zdecydowano o rezygnacji z kontynuacji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Dwie japońskie produkcje wkrótce trafią do PlayStation Plus Extra! W listopadzie otrzymamy Dragon Quest 3 HD-2D Remake",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/dwie-japonskie-produkcje-wkrotce-trafia-do-playstation-plus-extra-w-listopadzie-otrzymamy-dragon-quest-3-hd-2d-remake/",
+      "publishedAt": "2026-11-09T16:29+01:00",
+      "summary": "Na japońskim Blogu PlayStation pojawił się wpis traktujący o nadchodzących nowościach do abonamentu PS+. Można z niego wyczytać, że wariant Extra jeszcze w tym roku otrzyma dwie japońskie produkcje, za których stworzeniem stoją Square Enix i KOEI TECMO. W listopadzie będziemy mogli ograć Dragon Quest 3 HD-2D Remake, z kolei w grudniu zagramy w Dynasty Warriors ORIGINS. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/06/dragon-quest-hd-2d-remake-miniaturka-cyfra-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Disney zmarnował szansę. Gwiazda Indiany Jonesa rozczarowana ostatnim filmem",
+      "sourceUrl": "https://www.ppe.pl/news/432603/disney-zmarnowal-szanse-gwiazda-indiany-jonesa-rozczarowana-ostatnim-filmem.html",
+      "publishedAt": "2026-11-09T16:16+01:00",
+      "summary": "John Rhys-Davies, który powrócił jako Sallah w filmie Indiana Jones i artefakt przeznaczenia, nie ukrywa rozczarowania piątą odsłoną przygód słynnego archeologa.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Być może poznaliśmy tytuł kolejnej odsłony Mortal Kombat. Współtwórca serii poprosił fanów o pomoc",
+      "sourceUrl": "https://cdaction.pl/newsy/byc-moze-poznalismy-tytul-kolejnej-odslony-mortal-kombat-wspoltworca-serii-poprosil-fanow-o-pomoc/",
+      "publishedAt": "2026-11-09T16:15+01:00",
+      "summary": "Pomożecie Boonowi policzyć do 13?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Mortal-Kombat-1.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Debiut w EA ogłoszony 4 dni wcześniej i finansowe kłopoty wydawcy. Akademia Pana Kleksa wchodzi na Steama",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/premiera-ogloszona-4-dni-wczesniej-i-finansowe-klopoty-wydawcy-ak/z8322a0",
+      "publishedAt": "2026-11-09T16:10+01:00",
+      "summary": "Problemy grupy BeardedBrothers.Games kładą się cieniem na najnowszą premierę Raccoons Studio. Akademia Pana Kleksa zadebiutuje we wczesnym dostępie Steama już za kilka dni. Informacja Debiut w EA ogłoszony 4 dni wcześniej i finansowe kłopoty wydawcy. Akademia Pana Kleksa wchodzi na Steama została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531932831.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na doładowanie do Nintendo eShop. Karta podarunkowa 370 PLN za 329 zł w Kinguinie!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/promocja-na-doladowanie-do-nintendo-eshop-karta-podarunkowa-370-pln-za-329-zl-w-kinguinie/",
+      "publishedAt": "2026-11-09T16:05+01:00",
+      "summary": "W cyfrowym sklepie Kinguin, wykorzystując specjalny kod zniżkowy, możecie zakupić doładowanie do Nintendo eShop. Karta podarunkowa o wartości 370 PLN, którą możecie wykorzystać w Nintendo eShop na zakup gier na Switcha, będzie Wasza za nieco ponad 329 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/03/Promocja-na-doladowanie-370-PLN-do-Nintendo-eShop_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Evercade Nexus - test konsoli. Retro w nowoczesnym wydaniu. Czy warto było czekać na nowego handhelda?",
@@ -18,6 +80,24 @@
       "publishedAt": "2026-11-09T16:00+01:00",
       "summary": "Producenci prześcigają się w oferowaniu coraz wydajniejszych urządzeń przenośnych, a granie w klasyczne tytuły najczęściej sprowadza się dziś do cyfrowych bibliotek, i emulatorów. Na tym tle Evercade konsekwentnie idzie własną drogą. Firm...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy numer 1 HBO Max w Polsce. Brytyjski dramat z 2025 roku zdetronizował Igrzyska śmierci",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-numer-1-hbo-max-w-polsce-brytyjski-dramat-z-2025-roku-zdetro/z23229b",
+      "publishedAt": "2026-11-09T16:00+01:00",
+      "summary": "Na HBO Max pojawił się nowy lider oglądalności w Polsce. Brytyjski dramat biograficzny I Swear, oparty na prawdziwych wydarzeniach, wyprzedził Igrzyska śmierci i pozostałe hity platformy. Informacja Nowy numer 1 HBO Max w Polsce. Brytyjski dramat z 2025 roku zdetronizował Igrzyska śmierci została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531928578.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Niespodziewanie poznaliśmy tytuły 2 nowych gier w PS Plus. Produkcje dołączą do oferty w listopadzie i grudniu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/niespodziewanie-poznalismy-tytuly-2-nowych-gier-w-ps-plus-produkc/z63229f",
+      "publishedAt": "2026-11-09T15:58+01:00",
+      "summary": "Dzięki japońskiemu oddziałowi Sony poznaliśmy przed czasem dwie z gier, które wkrótce trafią do abonamentu PS Plus. Informacja Niespodziewanie poznaliśmy tytuły 2 nowych gier w PS Plus. Produkcje dołączą do oferty w listopadzie i grudniu została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531932277.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
