@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T11:01+01:00",
+  "updatedAt": "2026-11-09T12:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„Najlepsza opcja jaką dodali od dawna.” Zdaniem masy fanów WoW Forever, ten niepozorny detal to strzał w dziesiątkę Blizzarda",
-    "summary": "WoW Forever zbiera pochwały za całą masę elementów, ale jeden z nich jest dość niepozorny. Dzięki niemu, MMO znów ma nieco bardziej społecznościowy charakter. Informacja „Najlepsza opcja jaką dodali od dawna.” Zdaniem masy fanów WoW Forever, ten niepozorny detal to strzał w dziesiątkę Blizzarda została opublikowana przez GRYOnline.pl 9 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/najlepsza-opcja-jaka-dodali-od-dawna-zdaniem-masy-fanow-wow-forev/z33228d",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531916903.jpg"
+    "title": "Wzięli sprawy we własne ręce i przywrócili Mass Effectowi to, czego zabrakło w remasterze. Fanowski multiplayer już działa",
+    "summary": "Brakowało wam trybu multiplayer w legendarnej edycji Mass Effecta? Grupa moderów przywróciła porzucony element gry. Informacja Wzięli sprawy we własne ręce i przywrócili Mass Effectowi to, czego zabrakło w remasterze. Fanowski multiplayer już działa została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/wzieli-sprawy-we-wlasne-rece-i-przywrocili-mass-effectowi-to-czeg/z332293",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531921207.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wzięli sprawy we własne ręce i przywrócili Mass Effectowi to, czego zabrakło w remasterze. Fanowski multiplayer już działa",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wzieli-sprawy-we-wlasne-rece-i-przywrocili-mass-effectowi-to-czeg/z332293",
+      "publishedAt": "2026-11-09T12:56+01:00",
+      "summary": "Brakowało wam trybu multiplayer w legendarnej edycji Mass Effecta? Grupa moderów przywróciła porzucony element gry. Informacja Wzięli sprawy we własne ręce i przywrócili Mass Effectowi to, czego zabrakło w remasterze. Fanowski multiplayer już działa została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531921207.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracz WoW Forever osiągnął 60. poziom i odkrył zmianę, która może kosztować wszystkich mnóstwo golda. „To okropne”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-wow-forever-osiagnal-60-poziom-i-odkryl-zmiane-ktora-moze-k/z232292",
+      "publishedAt": "2026-11-09T12:38+01:00",
+      "summary": "Pierwsza grupa graczy WoW Forever już wbiła maksymalny poziom w MMO. Ich radość nieco nadszarpnęło jednak odkrycie jakiego dokonano nieco później. Informacja Gracz WoW Forever osiągnął 60. poziom i odkrył zmianę, która może kosztować wszystkich mnóstwo golda. „To okropne” została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531920130.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Polska wieś w Wiedźminie 3: Pieśniach przeszłości. Twórcy zdradzają, czym zaskoczy nas trzeci dodatek",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/polska-wies-w-wiedzminie-3-piesniach-przeszlosci-tworcy-zdradzaja/z032290",
+      "publishedAt": "2026-11-09T12:17+01:00",
+      "summary": "Twórcy dodatku Pieśni przeszłości do Wiedźmina 3 ujawnili nowe informacje na temat regionu Letten. Istotną rolę w jego kształtowaniu odegrał lokalny trunek o nazwie Bracket. Informacja Polska wieś w Wiedźminie 3: Pieśniach przeszłości. Twórcy zdradzają, czym zaskoczy nas trzeci dodatek została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531919007.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "PS6 nie potrzebuje większej mocy, twierdzi były szef PlayStation. Prawdziwą rewolucją byłaby tańsza konsola",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ps6-nie-potrzebuje-wiekszej-mocy-twierdzi-byly-szef-playstation-p/z43228e",
+      "publishedAt": "2026-11-09T12:00+01:00",
+      "summary": "Były szef PlayStation Shawn Layden uważa, że pościg za większą wydajnością konsol nie ma sensu. Obecne konfiguracje są wystarczające, a zmienić musi się cena sprzętu. Informacja PS6 nie potrzebuje większej mocy, twierdzi były szef PlayStation. Prawdziwą rewolucją byłaby tańsza konsola została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531917914.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„Najlepsza opcja jaką dodali od dawna.” Zdaniem masy fanów WoW Forever, ten niepozorny detal to strzał w dziesiątkę Blizzarda",
@@ -22,6 +58,31 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531916903.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Dziś pobierzemy GTA 6! Ważny moment premiery już za chwilę",
+      "sourceUrl": "https://www.ppe.pl/news/432575/dzis-pobierzemy-gta-6-wazny-moment-premiery-juz-za-chwile.html",
+      "publishedAt": "2026-11-09T11:45+01:00",
+      "summary": "Wszystkie drogi w świecie wirtualnej rozrywki prowadzą obecnie do jednego miejsca, a miliony graczy odliczają już godziny do momentu, w którym będą mogli zacząć przygotowania do premiery roku.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wyłącz to, by uzyskać lepszy obraz. Najwyżej oceniana gra 2026 roku z zepsutym HDR",
+      "sourceUrl": "https://www.ppe.pl/news/432564/wylacz-to-by-uzyskac-lepszy-obraz-najwyzej-oceniana-gra-2026-roku-z-zepsutym-hdr.html",
+      "publishedAt": "2026-11-09T11:44+01:00",
+      "summary": "Niestety branża gier kontynuuje trend żenująco słabych implementacji HDR.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Monitor Acer Nitro KG273UW2bmiippx 27″ IPS 240 Hz za 479 zł w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/monitor-acer-nitro-kg273uw2bmiippx-27-ips-240-hz-za-479-zl-w-x-kom/",
+      "publishedAt": "2026-11-09T11:40+01:00",
+      "summary": "W x-komie postanowiono obniżyć cenę Acer Nitro KG273uW2bmiippx. Monitor z matrycą IPS o przekątnej 27 cali, rozdzielczości 2560 x 1440 pikseli i wsparcie dla technologii AMD FreeSync Premium, kosztuje 479 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/acer-nitro-KG273UW2bmiippx-2b-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Nowości na Steam. GTA 6 omija PC, więc w sklepie Valve wysyp premier",
       "sourceUrl": "https://www.gry-online.pl/newsroom/nowosci-na-steam-gta-6-omija-pc-wiec-w-sklepie-valve-wysyp-premie/z23228c",
@@ -29,6 +90,24 @@
       "summary": "W tym tygodniu na Steamie zadebiutują takie produkcje, jak Football Manager 27, Ashes of the Singularity II, Dreadmoor, Pool of Madness, Derelikt, Wall World Strategy, Warhammer Survivors jak również dwa dodatki do Euro Truck Simulator 2. Informacja Nowości na Steam. GTA 6 omija PC, więc w sklepie Valve wysyp premier została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531916213.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Szef Nvidii pod lupą śledczych. Jensen Huang mógł mieć romans z agentką chińskiego wywiadu",
+      "sourceUrl": "https://cdaction.pl/newsy/szef-nvidii-pod-lupa-sledczych-jensen-huang-mogl-miec-romans-z-agentka-chinskiego-wywiadu/",
+      "publishedAt": "2026-11-09T11:33+01:00",
+      "summary": "Szpiegowski thriller rozwija się na naszych oczach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/nvidia.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Jeden z twórców „Pierścieni Władzy” broni swojej wizji Śródziemia. „To nie fani tu rządzą”",
+      "sourceUrl": "https://cdaction.pl/kultura/jeden-z-tworcow-pierscieni-wladzy-broni-swojej-wizji-srodziemia-to-nie-fani-tu-rzadza/",
+      "publishedAt": "2026-11-09T11:30+01:00",
+      "summary": "Amazon nie ugnie się pod krytyką.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Pierscienie-Wladzy-1.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -47,6 +126,40 @@
       "summary": "Jeden z największych przebojów Netfliksa doczeka się prequela. Nowy serial science fiction ma jednak dość odległą datę premiery. Informacja Największe science fiction Netflixa powróci z prequelem. Fani będą musieli jednak uzbroić się w cierpliwość, czekając na nowy serial została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531915831.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Mass Effect Edycja Legendarna otrzymało drugie życie. Emocjonalne pożegnanie graczy",
+      "sourceUrl": "https://www.ppe.pl/news/432572/mass-effect-edycja-legendarna-otrzymalo-drugie-zycie-emocjonalne-pozegnanie-graczy.html",
+      "publishedAt": "2026-11-09T11:18+01:00",
+      "summary": "Tegoroczne święto miłośników uniwersum kapitana Sheparda miało niezwykle emocjonalny i słodko-gorzki charakter ze względu na niedawne, smutne wiadomości o zamknięciu legendarnego studia BioWare.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Niedługo nikogo nie będzie stać na sprzęt do grania. Ceny najlepszych kart przekroczyły 40000 zł",
+      "sourceUrl": "https://www.ppe.pl/news/432573/niedlugo-nikogo-nie-bedzie-stac-na-sprzet-do-grania-ceny-najlepszych-kart-przekroczyly-40000-zl.html",
+      "publishedAt": "2026-11-09T11:09+01:00",
+      "summary": "To, co dzieje się obecnie z cenami hardware'u do gier, jest zatrważające.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na gry planszowe Jakub Wędrowycz na Allegro. Dziki Samogon i Upiorne Wczasy od 29,95 zł",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/promocje-na-gry-planszowe-jakub-wedrowycz-na-allegro-dziki-samogon-i-upiorne-wczasy-po-2995-zl/",
+      "publishedAt": "2026-11-09T11:07+01:00",
+      "summary": "Wydane przez Portal Games dwie karcianki z Jakubem Wędrowyczem, będącego bohaterem książek Andrzeja Pilipiuka, pojawiły się w świetnej cenie na Allegro. Gry Dziki Samogon oraz Upiorne Wczasy, będziecie mogli nabyć za mniej niż 30 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/03/jakub-wedrowycz-dziki-samogon-upiorne-wczasy-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "GTA VI za 1 zł przy zakupie telewizora Hisense! RTV Euro AGD zachęca graczy kolejną promocją",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/gta-vi-za-1-zl-przy-zakupie-telewizora-hisense-rtv-euro-agd-zacheca-graczy-kolejna-promocja/",
+      "publishedAt": "2026-11-09T11:02+01:00",
+      "summary": "Sklep RTV Euro AGD nie zwalnia tempa, proponując Grand Theft Auto VI za 1 zł tym razem przy zakupie wybranych telewizorów marki Hisense. Promocja dotyczy serii E8S o przekątnej 50, 55, 65 i 75 cali, a także 55-calowego modelu U7S. Aby skorzystać z oferty, dodajcie wspomniany telewizor oraz grę GTA VI na PS5. Po wpisaniu kodu rabatowego, cena gry studia Rockstar ulegnie zmianie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/hisense-gta-vi-1-zl-miniaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
