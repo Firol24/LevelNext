@@ -1,16 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T06:01+01:00",
+  "updatedAt": "2026-11-09T07:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Polacy SZALEJĄ za tymi komediami. Od dziś są na Netflix!",
-    "summary": "Wielbiciele rodzimych komedii romantycznych z zimowym klimatem w tle mogą zacząć szykować wygodne fotele i kubki z gorącą herbatą, bo na platformie Netflix pojawiła się właśnie prawdziwa gratka.",
-    "sourceUrl": "https://www.ppe.pl/news/432550/polacy-szaleja-za-tymi-komediami-od-dzis-sa-na-netflix.html"
+    "title": "Croc 2: Kingdom of the Gobbos - recenzja gry. Przygody Croca nigdy nie były tak przyjemne",
+    "summary": "Stało się! Po niespodziewanym powrocie i remasterze pierwszego Croca, dostaliśmy wielce wyczekiwany remaster Croc 2: Kingdom of the Gobbos. Czy warto jednak było czekać prawie 30 lat, aby znów zagrać w tę kultową przygodę?",
+    "sourceUrl": "https://www.ppe.pl/recenzje/432497/croc-2-kingdom-of-the-gobbos-recenzja-gry-przygody-croca-nigdy-nie-byly-tak-przyjemne.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Croc 2: Kingdom of the Gobbos - recenzja gry. Przygody Croca nigdy nie były tak przyjemne",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432497/croc-2-kingdom-of-the-gobbos-recenzja-gry-przygody-croca-nigdy-nie-byly-tak-przyjemne.html",
+      "publishedAt": "2026-11-09T07:00+01:00",
+      "summary": "Stało się! Po niespodziewanym powrocie i remasterze pierwszego Croca, dostaliśmy wielce wyczekiwany remaster Croc 2: Kingdom of the Gobbos. Czy warto jednak było czekać prawie 30 lat, aby znów zagrać w tę kultową przygodę?",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kolejny remake Zeldy z EKSPRESOWĄ zapowiedzią? Ocarina of Time",
+      "sourceUrl": "https://www.ppe.pl/news/432552/kolejny-remake-zeldy-z-ekspresowa-zapowiedzia-ocarina-of-time.html",
+      "publishedAt": "2026-11-09T06:48+01:00",
+      "summary": "Premiera odświeżonej wersji kultowej przygody Linka dopiero co się odbyła, a fani już przeszukują każdy zakamarek gry w poszukiwaniu ukrytych smaczków i zapowiedzi kolejnych projektów.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "3 dni wolnego na granie w GTA 6. To \"kurs edukacyjny\"",
+      "sourceUrl": "https://www.ppe.pl/news/432551/3-dni-wolnego-na-granie-w-gta-6-to-kurs-edukacyjny.html",
+      "publishedAt": "2026-11-09T06:23+01:00",
+      "summary": "Nadchodząca premiera Grand Theft Auto 6 wywołuje tak gigantyczne poruszenie na całym świecie, że rządy i pracodawcy zaczynają wymyślać naprawdę niesamowite sposoby na poradzenie sobie z tym growym szaleństwem.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Polacy SZALEJĄ za tymi komediami. Od dziś są na Netflix!",
