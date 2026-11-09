@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T12:01+01:00",
+  "updatedAt": "2026-11-09T13:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Wzięli sprawy we własne ręce i przywrócili Mass Effectowi to, czego zabrakło w remasterze. Fanowski multiplayer już działa",
-    "summary": "Brakowało wam trybu multiplayer w legendarnej edycji Mass Effecta? Grupa moderów przywróciła porzucony element gry. Informacja Wzięli sprawy we własne ręce i przywrócili Mass Effectowi to, czego zabrakło w remasterze. Fanowski multiplayer już działa została opublikowana przez GRYOnline.pl 9 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wzieli-sprawy-we-wlasne-rece-i-przywrocili-mass-effectowi-to-czeg/z332293",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531921207.jpg"
+    "title": "Marines szanujesz, Orków nie żałujesz. Twórcy Dawn of War 4 tłumaczą, jak zaprojektowali frakcje",
+    "summary": "Twórcy Dawn of War 4 przykładają dużą wagę do stworzenia intuicyjnych różnic pomiędzy frakcjami. Zbalansowanie wszystkich to jednak spore wyzwanie. Informacja Marines szanujesz, Orków nie żałujesz. Twórcy Dawn of War 4 tłumaczą, jak zaprojektowali frakcje została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/marines-szanujesz-orkow-nie-zalujesz-tworcy-dawn-of-war-4-tlumacz/z732297",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531924599.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Marines szanujesz, Orków nie żałujesz. Twórcy Dawn of War 4 tłumaczą, jak zaprojektowali frakcje",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/marines-szanujesz-orkow-nie-zalujesz-tworcy-dawn-of-war-4-tlumacz/z732297",
+      "publishedAt": "2026-11-09T13:50+01:00",
+      "summary": "Twórcy Dawn of War 4 przykładają dużą wagę do stworzenia intuicyjnych różnic pomiędzy frakcjami. Zbalansowanie wszystkich to jednak spore wyzwanie. Informacja Marines szanujesz, Orków nie żałujesz. Twórcy Dawn of War 4 tłumaczą, jak zaprojektowali frakcje została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531924599.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nie ufa AI, ale boi się zostać w tyle. Legenda Nintendo o przyszłości tworzenia gier",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nie-ufa-ai-ale-boi-sie-zostac-w-tyle-legenda-nintendo-o-przyszlos/z632296",
+      "publishedAt": "2026-11-09T13:35+01:00",
+      "summary": "Masahiro Sakurai nie korzysta z narzędzi AI, ale nie może obiecać, że nie zmieni się to w przyszłości. Informacja Nie ufa AI, ale boi się zostać w tyle. Legenda Nintendo o przyszłości tworzenia gier została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531923512.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Elon Musk postawił na Cybertrucka, ale nie tylko on się przeliczył. Amerykańscy giganci motoryzacji tracą miliardy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/elon-musk-postawil-na-cybertrucka-ale-nie-tylko-on-sie-przeliczyl/z432294",
+      "publishedAt": "2026-11-09T13:15+01:00",
+      "summary": "Elon Musk ogłosił wygaszanie produkcji Cybertrucka. Według spekulacji powodem jest kiepska sprzedaż samochodu, ale miliarder uważa, że jest wręcz przeciwnie. Informacja Elon Musk postawił na Cybertrucka, ale nie tylko on się przeliczył. Amerykańscy giganci motoryzacji tracą miliardy została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531922388.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Wzięli sprawy we własne ręce i przywrócili Mass Effectowi to, czego zabrakło w remasterze. Fanowski multiplayer już działa",
@@ -20,6 +47,31 @@
       "summary": "Brakowało wam trybu multiplayer w legendarnej edycji Mass Effecta? Grupa moderów przywróciła porzucony element gry. Informacja Wzięli sprawy we własne ręce i przywrócili Mass Effectowi to, czego zabrakło w remasterze. Fanowski multiplayer już działa została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531921207.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Park Beyond na PS5 za jedyne 28,50 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-park-beyond-na-ps5-za-jedyne-2850-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-09T12:53+01:00",
+      "summary": "W polskim oddziale sklepu Amazon możecie teraz kupić taniej Park Beyond w pudełkowym wydaniu. Strategia ekonomiczna, w której będziecie zarządzać parkiem rozrywki i budować szalone rollecoastery, kosztuje zaledwie 28,50 zł, w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/park-beyond-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Te trzy RPG mogą przypomnieć Wam, za co pokochaliście ten gatunek",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432577/te-trzy-rpg-moga-przypomniec-wam-za-co-pokochaliscie-ten-gatunek.html",
+      "publishedAt": "2026-11-09T12:50+01:00",
+      "summary": "Podniebne miasta skrywające niewygodną prawdę, celtyckie legendy zderzające się z przemysłową rewolucją i wyprawa po zaginione kryształy, z której poprzedni śmiałkowie nigdy nie wrócili. Full Circle, Forge of the Fae i Crystals of Irm mają...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy PlayStation Portal powstaje. Sony podaje szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/432588/nowy-playstation-portal-powstaje-sony-podaje-szczegoly.html",
+      "publishedAt": "2026-11-09T12:41+01:00",
+      "summary": "PlayStation Portal okazał się jednym z najbardziej zaskakujących sukcesów Sony w tej generacji konsol. Mimo początkowych wątpliwości graczy, sprzęt przeznaczony początkowo tylko do strumieniowania gier z domowego ekranu zyskał ogromną popular...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +83,32 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531920130.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Nowy Mass Effect kosztowałby gigantyczne pieniądze. Współzałożyciel BioWare’u wyjawia ogromne koszta dokończenia gry",
+      "sourceUrl": "https://cdaction.pl/newsy/nowy-mass-effect-kosztowalby-gigantyczne-pieniadze-wspolzalozyciel-biowareu-wyjawia-ogromne-koszta-dokonczenia-gry/",
+      "publishedAt": "2026-11-09T12:30+01:00",
+      "summary": "Ktoś musiałby wyłożyć naprawdę ogromną kasę na stół.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/04/mass-effect-4893.jpeg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preload GTA VI w Polsce rozpocznie się tej nocy! Pierwsi gracze na świecie mogą już pobierać grę studia Rockstar",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/preload-gta-vi-w-polsce-rozpocznie-sie-tej-nocy-pierwsi-gracze-na-swiecie-moga-juz-pobierac-gre-studia-rockstar/",
+      "publishedAt": "2026-11-09T12:30+01:00",
+      "summary": "Powoli, acz nieubłaganie, zbliżamy się do premiery GTA VI. Gra zadebiutuje 19 listopada, lecz już za kilkanaście godzin, będziecie mogli rozpocząć pobieranie plików, aby w przyszłym tygodniu móc jak najszybciej ruszyć z zabawą. W Polsce godziny startu preloadu GTA VI są różne w zależności od platformy, na której planujecie grać, lecz zarówno w przypadku PlayStation 5, jak i Xbox Series X|S, wszystko uruchomi się już tej nocy. A jeśli macie konto w nowozelandzkim regionie (w przypadku PS5) lub też zmienicie chwilowo region konsoli (Xbox), ściąganie odpalicie już teraz! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Zwiastun-premierowy-gry-Grand-Theft-Auto-VI.-Rockstar-promuje-GTA-6-nowym-singlem_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation inwestuje w \"Elden Ring w stylu anime\". Trzy duże chińskie gry ze wsparciem Sony",
+      "sourceUrl": "https://www.ppe.pl/news/432590/playstation-inwestuje-w-elden-ring-w-stylu-anime-trzy-duze-chinskie-gry-ze-wsparciem-sony.html",
+      "publishedAt": "2026-11-09T12:29+01:00",
+      "summary": "O Unending Dawn piszemy na PPE od wielu lat. Niestety ostatnio rzadziej, bo w sprawie zapanowała podejrzana cisza.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Polska wieś w Wiedźminie 3: Pieśniach przeszłości. Twórcy zdradzają, czym zaskoczy nas trzeci dodatek",
       "sourceUrl": "https://www.gry-online.pl/newsroom/polska-wies-w-wiedzminie-3-piesniach-przeszlosci-tworcy-zdradzaja/z032290",
@@ -40,6 +118,32 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531919007.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "GTA 6 z kolejnym przeciekiem. Zobaczcie strukturę gry",
+      "sourceUrl": "https://www.ppe.pl/news/432576/gta-6-z-kolejnym-przeciekiem-zobaczcie-strukture-gry.html",
+      "publishedAt": "2026-11-09T12:17+01:00",
+      "summary": "Im bliżej upragnionej premiery nowego Grand Theft Auto 6, tym więcej ciekawostek wypływa do sieci. Fani dosłownie rozkładają na czynniki pierwsze wszystko, co tylko wpadnie im w ręce przed debiutem zaplanowanym na dziewiętnastego listopada.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera Stellar Blade Complete Edition na Nintendo Switch 2 za nami. Pełna gra na kartridżu w cenie od 221 zł",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/premiera-stellar-blade-complete-edition-na-nintendo-switch-2-za-nami-pelna-gra-na-kartridzu-w-cenie-od-221-zl/",
+      "publishedAt": "2026-11-09T12:14+01:00",
+      "summary": "Posiadacze konsol Nintendo Switch 2 mogą już zapoznać się z kompletnym wydaniem slashera koreańskiego studia SHIFT UP z piękną Eve w roli głównej. Premiera Stellar Blade Complete Edition stała się już faktem, bowiem tytuł właśnie zadebiutował na rynku. Warto wspomnieć, że gra ukaże się w pełni na kartridżu, a jeśli chcecie się zaopatrzyć we własną kopię, tę kupicie już od 221 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/stellar-blade-complete-edition-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kolekcjonerka Gothic Remake na PS5 za 541,27 zł w Amazon PL. Mocno limitowany nakład",
+      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/kolekcjonerka-gothic-remake-na-ps5-za-54127-zl-w-amazon-pl-mocno-limitowany-naklad/",
+      "publishedAt": "2026-11-09T12:03+01:00",
+      "summary": "Limitowane do 7500 egzemplarzy wydanie Gothic Remake Edycja Kolekcjonerska, jest dostępne w dobrej cenie w polskim oddziale sklepu Amazon. Pudełko zawierające oprócz podstawowej edycji gry również między innymi maskę Śniącego do powieszenia, kosztuje 541,27 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Edycja-Kolekcjonerska-Gothic-Remake-na-PC-PS5-i-XSX-ponownie-dostepna-w-sklepie-Empik_minaturka-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "PS6 nie potrzebuje większej mocy, twierdzi były szef PlayStation. Prawdziwą rewolucją byłaby tańsza konsola",
       "sourceUrl": "https://www.gry-online.pl/newsroom/ps6-nie-potrzebuje-wiekszej-mocy-twierdzi-byly-szef-playstation-p/z43228e",
@@ -47,6 +151,15 @@
       "summary": "Były szef PlayStation Shawn Layden uważa, że pościg za większą wydajnością konsol nie ma sensu. Obecne konfiguracje są wystarczające, a zmienić musi się cena sprzętu. Informacja PS6 nie potrzebuje większej mocy, twierdzi były szef PlayStation. Prawdziwą rewolucją byłaby tańsza konsola została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531917914.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Niemcy znaleźli legalny sposób na wzięcie urlopu, by grać w GTA 6. Rozwiązaniem okazał się specjalny kurs",
+      "sourceUrl": "https://cdaction.pl/newsy/niemcy-znalezli-legalny-sposob-na-wziecie-urlopu-by-grac-w-gta-6-rozwiazaniem-okazal-sie-specjalny-kurs/",
+      "publishedAt": "2026-11-09T12:00+01:00",
+      "summary": "Sąsiedzi zza Odry też mają w sobie coś z kombinatorów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta-6-lucia-1260x709.jpg"
     },
     {
       "sourceName": "GRY-Online",
