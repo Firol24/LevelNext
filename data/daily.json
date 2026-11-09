@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T07:01+01:00",
+  "updatedAt": "2026-11-09T08:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Croc 2: Kingdom of the Gobbos - recenzja gry. Przygody Croca nigdy nie były tak przyjemne",
-    "summary": "Stało się! Po niespodziewanym powrocie i remasterze pierwszego Croca, dostaliśmy wielce wyczekiwany remaster Croc 2: Kingdom of the Gobbos. Czy warto jednak było czekać prawie 30 lat, aby znów zagrać w tę kultową przygodę?",
-    "sourceUrl": "https://www.ppe.pl/recenzje/432497/croc-2-kingdom-of-the-gobbos-recenzja-gry-przygody-croca-nigdy-nie-byly-tak-przyjemne.html"
+    "title": "Krągłości zachęciły graczy do zakupów? Hitowy akcyjniak z przeogromną sprzedażą",
+    "summary": "Sukces akcji zatytułowanej Stellar Blade udowadnia, że czasem ryzyko i stawianie na zupełnie nową markę potrafi przynieść wręcz gigantyczne owoce.",
+    "sourceUrl": "https://www.ppe.pl/news/432554/kraglosci-zachecily-graczy-do-zakupow-hitowy-akcyjniak-z-przeogromna-sprzedaza.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Krągłości zachęciły graczy do zakupów? Hitowy akcyjniak z przeogromną sprzedażą",
+      "sourceUrl": "https://www.ppe.pl/news/432554/kraglosci-zachecily-graczy-do-zakupow-hitowy-akcyjniak-z-przeogromna-sprzedaza.html",
+      "publishedAt": "2026-11-09T07:43+01:00",
+      "summary": "Sukces akcji zatytułowanej Stellar Blade udowadnia, że czasem ryzyko i stawianie na zupełnie nową markę potrafi przynieść wręcz gigantyczne owoce.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation na 6 dni przed premierą przekłada debiut nowości",
+      "sourceUrl": "https://www.ppe.pl/news/432553/playstation-na-6-dni-przed-premiera-przeklada-debiut-nowosci.html",
+      "publishedAt": "2026-11-09T07:17+01:00",
+      "summary": "Wielkie korporacje technologiczne bywają nieprzewidywalne, a najnowszy ruch japońskiego giganta w świecie konsol mocno zaskoczył wszystkich graczy czekających na jesienne nowinki.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Croc 2: Kingdom of the Gobbos - recenzja gry. Przygody Croca nigdy nie były tak przyjemne",
