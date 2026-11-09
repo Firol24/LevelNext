@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T21:23+01:00",
+  "updatedAt": "2026-11-09T22:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -22,6 +22,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531955052.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Nintendo jest fenomenem, ale zaliczyło kilka wpadek. Poczytajcie, które przeszły do historii",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432644/nintendo-jest-fenomenem-ale-zaliczylo-kilka-wpadek-poczytajcie-ktore-przeszly-do-historii.html",
+      "publishedAt": "2026-11-09T22:00+01:00",
+      "summary": "Nintendo potrafiło przekonać miliony ludzi do grania rysikiem, wymachiwania kontrolerem i zabierania domowej konsoli w daleką podróż. Potrafiło też wypuścić urządzenie, którego sens trudno było wyjaśnić. Do tego zrazić do siebie wielkiego...",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Wielkie kosmiczne bitwy dla wszystkich graczy EVE Online. Idą duże zmiany, także dla „gry ekstrakcyjnej wszech czasów”",
       "sourceUrl": "https://www.gry-online.pl/newsroom/wielkie-kosmiczne-bitwy-dla-wszystkich-graczy-eve-online-ida-duze/z0322a8",
@@ -29,6 +37,32 @@
       "summary": "EVE Online szykuje się na wielkie zmiany. Nadchodzące rozszerzenie ma sprawić, że nawet początkujący gracze będą mogli uczestniczyć w gigantycznych kosmicznych bitwach, które dotąd były domeną weteranów. Informacja Wielkie kosmiczne bitwy dla wszystkich graczy EVE Online. Idą duże zmiany, także dla „gry ekstrakcyjnej wszech czasów” została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531953557.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na pad do PS5 dla fanów militariów. DualSense Grey Camo za 264,99 zł w Amazon PL!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocja-na-pad-do-ps5-dla-fanow-militariow-dualsense-grey-camo-za-26499-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-09T21:42+01:00",
+      "summary": "Jeśli są wśród Was fani militariów lub po prostu lubicie kolorystykę nawiązującą do kamuflażu, to w polskim oddziale sklepu Amazon możecie zakupić taniej kontrolery DualSense. Pad dedykowany konsoli PlayStation 5 dostępny w kolorze Grey Camo dostępny jest za 264,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Promocja-na-pad-do-PS5-dla-fanow-militariow.-DualSense-Grey-Camo-za-257-zl-w-Amazon-PL_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Romans szefa Nvidii ze szpiegiem z Chin ma OGROMNE konsekwencje",
+      "sourceUrl": "https://www.ppe.pl/news/432642/romans-szefa-nvidii-ze-szpiegiem-z-chin-ma-ogromne-konsekwencje.html",
+      "publishedAt": "2026-11-09T21:42+01:00",
+      "summary": "Ostatnie dni przyniosły istne trzęsienie ziemi w świecie nowych technologii, a wszystko za sprawą ogromnego skandalu na samym szczycie korporacyjnej drabiny.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Polskie studio, które przepraszało za AI, szuka teraz eksperta od AI. Pytanie, do czego",
+      "sourceUrl": "https://cdaction.pl/newsy/polskie-studio-ktore-przepraszalo-za-ai-szuka-teraz-eksperta-od-ai-pytanie-do-czego/",
+      "publishedAt": "2026-11-09T21:28+01:00",
+      "summary": "Odważny krok.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/alters1-1260x709.jpg"
     },
     {
       "sourceName": "GRY-Online",
