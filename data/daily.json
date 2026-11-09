@@ -1,17 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T18:01+01:00",
+  "updatedAt": "2026-11-09T19:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Główny projektant Skyrima był w szoku, grając w Baldur’s Gate 3. Tu zupełne przeciwieństwo tego, co robi Bethesda",
-    "summary": "Twórca Skyrima zdradził, co najbardziej zaskoczyło go w Baldur&apos;s Gate 3. Przy okazji wyjaśnił, co jego zdaniem zadecydowało o sukcesie kultowego RPG Bethesdy i dlaczego gracze nigdy nie powinni słyszeć, że grają w niewłaściwy sposób. Informacja Główny projektant Skyrima był w szoku, grając w Baldur’s Gate 3. Tu zupełne przeciwieństwo tego, co robi Bethesda została opublikowana przez GRYOnline.pl 9 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/glowny-projektant-skyrima-byl-w-szoku-grajac-w-baldurs-gate-3-tu/za322a2",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531940635.jpg"
+    "title": "Obiecujące RPG sci-fi uderzy na początku nowego roku. Warhammer 40K: Dark Heresy z datą premiery, ale bez polskiej wersji",
+    "summary": "Poznaliśmy datę premiery Warhammer 40,000: Dark Heresy. Gra od studia Owlcat Games zadebiutuje na początku przyszłego roku. Informacja Obiecujące RPG sci-fi uderzy na początku nowego roku. Warhammer 40K: Dark Heresy z datą premiery, ale bez polskiej wersji została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/obiecujace-rpg-sci-fi-uderzy-na-poczatku-nowego-roku-warhammer-40/zb322a3",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531944243.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Obiecujące RPG sci-fi uderzy na początku nowego roku. Warhammer 40K: Dark Heresy z datą premiery, ale bez polskiej wersji",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/obiecujace-rpg-sci-fi-uderzy-na-poczatku-nowego-roku-warhammer-40/zb322a3",
+      "publishedAt": "2026-11-09T19:19+01:00",
+      "summary": "Poznaliśmy datę premiery Warhammer 40,000: Dark Heresy. Gra od studia Owlcat Games zadebiutuje na początku przyszłego roku. Informacja Obiecujące RPG sci-fi uderzy na początku nowego roku. Warhammer 40K: Dark Heresy z datą premiery, ale bez polskiej wersji została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531944243.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Trzęsienie ziemi w Warner Bros. James Gunn i Peter Safran odchodzą ze stanowiska szefów DC Studios!",
+      "sourceUrl": "https://cdaction.pl/kultura/trzesienie-ziemi-w-warner-bros-james-gunn-i-peter-safran-odchodza-ze-stanowiska-szefow-dc-studios/",
+      "publishedAt": "2026-11-09T18:47+01:00",
+      "summary": "Ogromne zamieszanie wokół przyszłości nowego uniwersum DCU.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/DC.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ceny płaskie jak gry 2D w Instant Gaming. Polecane oferty na klucze Steam do 20 zł!",
+      "sourceUrl": "https://lowcygier.pl/gry-za-grosze/ceny-plaskie-jak-gry-2d-w-instant-gaming-polecane-oferty-na-klucze-steam-do-20-zl/",
+      "publishedAt": "2026-11-09T18:42+01:00",
+      "summary": "Łowcy, przed Wami pierwsze w tym tygodniu zestawienie z serii „Gry za grosze” . Tym razem na tapet bierzemy mało wymagające gry PC z grafiką 2D. W dalszej części wpisu znajdziecie najlepsze oferty na tanie gry Steam, które dostępne są w sklepie Instant Gaming za mniej niż symboliczne 20 zł! Życzymy udanych łowów 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Ceny-plaskie-jak-gry-2D-w-Instant-Gaming.-Polecane-oferty-na-klucze-Steam-do-20-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Battlefield 6 szykuje napad na serce Las Vegas. Wielka dawka nowości jest już za rogiem",
+      "sourceUrl": "https://www.ppe.pl/news/432616/battlefield-6-szykuje-napad-na-serce-las-vegas-wielka-dawka-nowosci-jest-juz-za-rogiem.html",
+      "publishedAt": "2026-11-09T18:30+01:00",
+      "summary": "Nie tak dawno temu w Battlefield 6 rozpoczęło się wirtualne oblężenie Las Vegas. Z kolei teraz przyszedł czas dokonać skoku na serce Miasta Grzechu.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Główny projektant Skyrima był w szoku, grając w Baldur’s Gate 3. Tu zupełne przeciwieństwo tego, co robi Bethesda",
@@ -20,6 +55,23 @@
       "summary": "Twórca Skyrima zdradził, co najbardziej zaskoczyło go w Baldur&apos;s Gate 3. Przy okazji wyjaśnił, co jego zdaniem zadecydowało o sukcesie kultowego RPG Bethesdy i dlaczego gracze nigdy nie powinni słyszeć, że grają w niewłaściwy sposób. Informacja Główny projektant Skyrima był w szoku, grając w Baldur’s Gate 3. Tu zupełne przeciwieństwo tego, co robi Bethesda została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531940635.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "EA Sports FC 27 czekają wielkie zmiany. Już za chwilę ukaże się duża aktualizacja rozgrywki i nie tylko",
+      "sourceUrl": "https://www.ppe.pl/news/432614/ea-sports-fc-27-czekaja-wielkie-zmiany-juz-za-chwile-ukaze-sie-duza-aktualizacja-rozgrywki-i-nie-tylko.html",
+      "publishedAt": "2026-11-09T18:08+01:00",
+      "summary": "Zbliża się dzień wielkich zmian w EA Sports FC 27. Twórcy zapowiedzieli aktualizację, która wprowadzi długo wyczekiwane zmiany w rozgrywce.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Theos: Cities of Myth miał być następcą Zeusa: Pana Olimpu, a tu wyszła raczej syzyfowa strategia [RECENZJA]",
+      "sourceUrl": "https://cdaction.pl/recenzje/theos-cities-of-myth-mial-byc-nastepca-zeusa-pana-olimpu-a-tu-wyszla-raczej-syzyfowa-strategia-recenzja/",
+      "publishedAt": "2026-11-09T18:00+01:00",
+      "summary": "Wróciłem na ziemie Hellady, by raz jeszcze poznać historię, wznieść monumentalne miasta oraz podbić wrogów w Theos: Cities of Myth. Jakże dawno się tak nie wynudziłem, budując etapami świątynie ku czci greckich bogów…",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/page_bg_raw-1260x710.jpg"
     },
     {
       "sourceName": "PPE",
