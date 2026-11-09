@@ -1,17 +1,83 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T15:01+01:00",
+  "updatedAt": "2026-11-09T16:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Dwie gry PlayStation przekroczyły miliard dolarów przychodu premium. Lista największych hitów PS5 według analityków",
-    "summary": "God of War: Ragnarok ma być najbardziej dochodową produkcją PlayStation Studios w tej generacji konsol Sony. Informacja Dwie gry PlayStation przekroczyły miliard dolarów przychodu premium. Lista największych hitów PS5 według analityków została opublikowana przez GRYOnline.pl 9 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/dwie-gry-playstation-przekroczyly-miliard-dolarow-przychodu-premi/z33229c",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531928953.jpg"
+    "title": "Evercade Nexus - test konsoli. Retro w nowoczesnym wydaniu. Czy warto było czekać na nowego handhelda?",
+    "summary": "Producenci prześcigają się w oferowaniu coraz wydajniejszych urządzeń przenośnych, a granie w klasyczne tytuły najczęściej sprowadza się dziś do cyfrowych bibliotek, i emulatorów. Na tym tle Evercade konsekwentnie idzie własną drogą. Firm...",
+    "sourceUrl": "https://www.ppe.pl/recenzje/432611/evercade-nexus-test-konsoli-retro-w-nowoczesnym-wydaniu-czy-warto-bylo-czekac-na-nowego-handhelda.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Evercade Nexus - test konsoli. Retro w nowoczesnym wydaniu. Czy warto było czekać na nowego handhelda?",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432611/evercade-nexus-test-konsoli-retro-w-nowoczesnym-wydaniu-czy-warto-bylo-czekac-na-nowego-handhelda.html",
+      "publishedAt": "2026-11-09T16:00+01:00",
+      "summary": "Producenci prześcigają się w oferowaniu coraz wydajniejszych urządzeń przenośnych, a granie w klasyczne tytuły najczęściej sprowadza się dziś do cyfrowych bibliotek, i emulatorów. Na tym tle Evercade konsekwentnie idzie własną drogą. Firm...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Trwa Allegro Black Weeks 2026. Przegląd ofert na pudełkowe gry konsolowe",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/trwa-allegro-black-weeks-2026-przeglad-ofert-na-pudelkowe-gry-konsolowe/",
+      "publishedAt": "2026-11-09T15:45+01:00",
+      "summary": "Rozpoczął się listopad, więc tym razem zamiast Allegro Days, w ramach nadchodzącego Czarnego Piątku, serwis wystartował z tegoroczną edycją Black Weeks. Rozpoczynamy cykl od przyjrzenia się ofertom na pudełkowe gry na konsole. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/allegro-black-weeks-pudelkowe-gry-2026-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Elder Scrolls 6: Sentinel może naprawić problem Skyrima. Bethesda ignoruje go od lat",
+      "sourceUrl": "https://www.ppe.pl/news/432600/the-elder-scrolls-6-sentinel-moze-naprawic-problem-skyrima-bethesda-ignoruje-go-od-lat.html",
+      "publishedAt": "2026-11-09T15:41+01:00",
+      "summary": "The Elder Scrolls 6: Sentinel może wprowadzić zmianę, na którą fani serii czekają od lat. Bruce Nesmith, jeden z głównych projektantów Skyrima, uważa, że kolejna odsłona RPG Bethesdy powinna wreszcie pozwolić na normalne wspinanie się po d...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 otrzyma własny festiwal. Rockstar Games zapowiada wyjątkowe wydarzenie",
+      "sourceUrl": "https://www.ppe.pl/news/432610/gta-6-otrzyma-wlasny-festiwal-rockstar-games-zapowiada-wyjatkowe-wydarzenie.html",
+      "publishedAt": "2026-11-09T15:32+01:00",
+      "summary": "Długo wyczekiwany debiut to ważny moment nie tylko dla graczy, którzy czekali na GTA 6 przez 13 lat. Rockstar Games dał właśnie do zrozumienia, że zamierza celebrować wydanie tytułu także chwilę po premierze.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ponad milion sprzedanych kopii Star Wars Zero Company to za mało. Część twórców gry właśnie zwolniono",
+      "sourceUrl": "https://cdaction.pl/newsy/ponad-milion-sprzedanych-kopii-star-wars-zero-company-to-za-malo-czesc-tworcow-gry-wlasnie-zwolniono/",
+      "publishedAt": "2026-11-09T15:30+01:00",
+      "summary": "Początkowo wydawało się, że trudna sytuacja twórców została rozwiązana po ciepłym przyjęciu Star Wars Zero Company.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Star-Wars-Zero-Company.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Mass Effect 3 otrzymuje OGROMNE rozszerzenie finału. Przywrócono wyciętą zawartość i nie tylko",
+      "sourceUrl": "https://www.ppe.pl/news/432598/mass-effect-3-otrzymuje-ogromne-rozszerzenie-finalu-przywrocono-wycieta-zawartosc-i-nie-tylko.html",
+      "publishedAt": "2026-11-09T15:25+01:00",
+      "summary": "Fani Mass Effect 3 ponownie zabrali się za poprawianie jednej z najbardziej kontrowersyjnych części trylogii. Z okazji tegorocznego N7 Day zespół modderów zaprezentował Take Earth Back 2.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder Grand Theft Auto VI Ultimate Edition za 366,81 zł (zamiast 429 zł) w amerykańskim PS Store",
+      "sourceUrl": "https://lowcygier.pl/preordery/preorder-grand-theft-auto-vi-ultimate-edition-za-36681-zl-zamiast-429-zl-w-amerykanskim-ps-store/",
+      "publishedAt": "2026-11-09T15:16+01:00",
+      "summary": "Już wkrótce startuje możliwość wstępnego pobierania nadchodzącej produkcji studia Rockstar Games. Jeśli nie zaopatrzyliście się jeszcze w preorder Grand Theft Auto VI na PlayStation 5, możecie ciut zaoszczędzić, sięgając po wersję z amerykańskiego regionu PS Store. Wystarczy założyć konto USA i skorzystać z doładowania na 100 USD, aby zgarnąć wersję GTA VI Ultimate Edition taniej o 60 zł w porównaniu do naszego regionu. Ostatecznie zapłacicie 366,81 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Zwiastun-premierowy-gry-Grand-Theft-Auto-VI.-Rockstar-promuje-GTA-6-nowym-singlem_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Niespodzianka dla członków PS Plus Extra i Premium. Znamy pierwsze gry na listopad i grudzień",
+      "sourceUrl": "https://www.ppe.pl/news/432605/niespodzianka-dla-czlonkow-ps-plus-extra-i-premium-znamy-pierwsze-gry-na-listopad-i-grudzien.html",
+      "publishedAt": "2026-11-09T15:15+01:00",
+      "summary": "Subskrybenci PlayStation Plus Extra i PlayStation Plus Premium zwykle muszą czekać do drugiej środy miesiąca, aby dowiedzieć się, co nowego będą mogli ograć bez ponoszenia dodatkowych kosztów. Tym razem jednak Sony postanowiło przyspieszyć n...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Dwie gry PlayStation przekroczyły miliard dolarów przychodu premium. Lista największych hitów PS5 według analityków",
@@ -20,6 +86,15 @@
       "summary": "God of War: Ragnarok ma być najbardziej dochodową produkcją PlayStation Studios w tej generacji konsol Sony. Informacja Dwie gry PlayStation przekroczyły miliard dolarów przychodu premium. Lista największych hitów PS5 według analityków została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531928953.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Najnowsza odsłona serii Ratchet & Clank skasowana. Darmowa gra nie przetrwała nawet roku",
+      "sourceUrl": "https://cdaction.pl/newsy/najnowsza-odslona-serii-ratchet-clank-skasowana-darmowa-gra-nie-przetrwala-nawet-roku/",
+      "publishedAt": "2026-11-09T15:00+01:00",
+      "summary": "Ratchet & Clank: Ranger Rumble wyszło tylko w niektórych regionach świata i nie miało nawet właściwej, globalnej premiery.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Ratchet-Clanck.jpg"
     },
     {
       "sourceName": "PPE",
