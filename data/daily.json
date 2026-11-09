@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T21:01+01:00",
+  "updatedAt": "2026-11-09T21:23+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Wielkie kosmiczne bitwy dla wszystkich graczy EVE Online. Idą duże zmiany, także dla „gry ekstrakcyjnej wszech czasów”",
-    "summary": "EVE Online szykuje się na wielkie zmiany. Nadchodzące rozszerzenie ma sprawić, że nawet początkujący gracze będą mogli uczestniczyć w gigantycznych kosmicznych bitwach, które dotąd były domeną weteranów. Informacja Wielkie kosmiczne bitwy dla wszystkich graczy EVE Online. Idą duże zmiany, także dla „gry ekstrakcyjnej wszech czasów” została opublikowana przez GRYOnline.pl 9 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wielkie-kosmiczne-bitwy-dla-wszystkich-graczy-eve-online-ida-duze/z0322a8",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531953557.jpg"
+    "title": "Jedna rzecz w Battlefield 6 wkurza graczy niczym snajper. „Powiedzieć, że jesteście oderwani od rzeczywistości, to za mało”",
+    "summary": "Nadchodząca aktualizacja Battlefield 6 zapowiada się imponująco, ale nie wszystkie decyzje twórców przypadły społeczności do gustu. Informacja Jedna rzecz w Battlefield 6 wkurza graczy niczym snajper. „Powiedzieć, że jesteście oderwani od rzeczywistości, to za mało” została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/jedna-rzecz-w-battlefield-6-wkurza-graczy-niczym-snajper-powiedzi/z9322aa",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531955052.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jedna rzecz w Battlefield 6 wkurza graczy niczym snajper. „Powiedzieć, że jesteście oderwani od rzeczywistości, to za mało”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jedna-rzecz-w-battlefield-6-wkurza-graczy-niczym-snajper-powiedzi/z9322aa",
+      "publishedAt": "2026-11-09T22:18+01:00",
+      "summary": "Nadchodząca aktualizacja Battlefield 6 zapowiada się imponująco, ale nie wszystkie decyzje twórców przypadły społeczności do gustu. Informacja Jedna rzecz w Battlefield 6 wkurza graczy niczym snajper. „Powiedzieć, że jesteście oderwani od rzeczywistości, to za mało” została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531955052.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Wielkie kosmiczne bitwy dla wszystkich graczy EVE Online. Idą duże zmiany, także dla „gry ekstrakcyjnej wszech czasów”",
@@ -29,6 +38,14 @@
       "summary": "We wrześniu zapowiedzieli Maneater 2, a teraz znów zwalniają, po raz drugi w tym roku, tyle że na większa skalę. Tripwire Interactive podjęło „niełatwą”, ale „konieczną” decyzję. Informacja 2 miesiące temu huczna zapowiedź, a teraz to. Twórcy krwawej gry akcji z otwartym światem są bezlitośni jak rekin z Maneater 2 została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531952052.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Mass Effect 5 można stworzyć znacznie taniej! Była twórczyni BioWare wskazuje na hit RPG",
+      "sourceUrl": "https://www.ppe.pl/news/432625/mass-effect-5-mozna-stworzyc-znacznie-taniej-byla-tworczyni-bioware-wskazuje-na-hit-rpg.html",
+      "publishedAt": "2026-11-09T21:15+01:00",
+      "summary": "Czy kolejny Mass Effect naprawdę potrzebuje budżetu przekraczającego 200 milionów dolarów? Christina Norman, była główna programistka scen przerywnikowych pierwszej części oraz projektantka rozgrywki i systemów w Mass Effect 2 i 3, uważa, ż...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
