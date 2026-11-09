@@ -1,17 +1,68 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T19:01+01:00",
+  "updatedAt": "2026-11-09T20:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Obiecujące RPG sci-fi uderzy na początku nowego roku. Warhammer 40K: Dark Heresy z datą premiery, ale bez polskiej wersji",
-    "summary": "Poznaliśmy datę premiery Warhammer 40,000: Dark Heresy. Gra od studia Owlcat Games zadebiutuje na początku przyszłego roku. Informacja Obiecujące RPG sci-fi uderzy na początku nowego roku. Warhammer 40K: Dark Heresy z datą premiery, ale bez polskiej wersji została opublikowana przez GRYOnline.pl 9 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/obiecujace-rpg-sci-fi-uderzy-na-poczatku-nowego-roku-warhammer-40/zb322a3",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531944243.jpg"
+    "title": "W nieodżałowanym GTA: Tokyo „z pewnością byłyby miecze samurajskie”. Rockstar miał „poważne plany” względem GTA w Japonii",
+    "summary": "Po ponad dwóch dekadach poznaliśmy kolejny intrygujący szczegół dotyczący porzuconego GTA: Tokyo. Informacja W nieodżałowanym GTA: Tokyo „z pewnością byłyby miecze samurajskie”. Rockstar miał „poważne plany” względem GTA w Japonii została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/w-nieodzalowanym-gta-tokyo-z-pewnoscia-bylyby-miecze-samurajskie/zd322a5",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531948078.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "W nieodżałowanym GTA: Tokyo „z pewnością byłyby miecze samurajskie”. Rockstar miał „poważne plany” względem GTA w Japonii",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-nieodzalowanym-gta-tokyo-z-pewnoscia-bylyby-miecze-samurajskie/zd322a5",
+      "publishedAt": "2026-11-09T20:23+01:00",
+      "summary": "Po ponad dwóch dekadach poznaliśmy kolejny intrygujący szczegół dotyczący porzuconego GTA: Tokyo. Informacja W nieodżałowanym GTA: Tokyo „z pewnością byłyby miecze samurajskie”. Rockstar miał „poważne plany” względem GTA w Japonii została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531948078.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Trzęsienie ziemi w DC Studios. James Gunn i Peter Safran odchodzą po czterech latach, a stery przejmuje weteran Marvela",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/trzesienie-ziemi-w-dc-studios-james-gunn-i-peter-safran-odchodza/zc322a4",
+      "publishedAt": "2026-11-09T20:11+01:00",
+      "summary": "W DC Studios szykuje się wielka zmiana. James Gunn i Peter Safran opuszczają stanowiska szefów studia po czterech latach kierowania uniwersum superbohaterów. Informacja Trzęsienie ziemi w DC Studios. James Gunn i Peter Safran odchodzą po czterech latach, a stery przejmuje weteran Marvela została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531946961.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "NVIDIA DLSS 5 działa już na kartach AMD Radeon. Nowy mod obiecuje nawet 64% więcej FPS-ów",
+      "sourceUrl": "https://www.ppe.pl/news/432623/nvidia-dlss-5-dziala-juz-na-kartach-amd-radeon-nowy-mod-obiecuje-nawet-64-wiecej-fps-ow.html",
+      "publishedAt": "2026-11-09T20:01+01:00",
+      "summary": "Społeczność modderów nie przestaje zaskakiwać. Eksperymentalny projekt AMDLSS5 doczekał się wersji 2.0, która przenosi funkcje Neural Rendering inspirowane technologią DLSS 5 na karty graficzne AMD Radeon.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na Thermaltake AH T200 w Amazon PL. Futurystyczna obudowa do PC już za 311,33 zł!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocja-na-thermaltake-ah-t200-w-amazon-pl-futurystyczna-obudowa-do-pc-juz-za-31133-zl/",
+      "publishedAt": "2026-11-09T19:54+01:00",
+      "summary": "Łowcy, jeśli macie ochotę na odrobinę ekstrawagancji, a w dodatku nie straszny jest Wam wszędobylski kurz, to w polskim oddziale sklepu Amazon pojawiła się bardzo ciekawa oferta na Thermaltake AH T200 Tempered Glass. Futurystyczna obudowa do komputera, przeznaczona dla płyt głównych w formatach Micro ATX oraz Mini ITX, dostępna jest za 311,33 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Thermaltake-AH-T200-w-Amazon-PL.-Futurystyczna-obudowa-do-PC-juz-za-31133-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "HBO pokazało nowe plakaty serialu Harry Potter. Tak wyglądają Harry, Ron i Hermiona",
+      "sourceUrl": "https://www.ppe.pl/news/432617/hbo-pokazalo-nowe-plakaty-serialu-harry-potter-tak-wygladaja-harry-ron-i-hermiona.html",
+      "publishedAt": "2026-11-09T19:44+01:00",
+      "summary": "HBO zaprezentowało nowe plakaty promujące serialową adaptację „Harry’ego Pottera”. Materiały przedstawiają trójkę głównych bohaterów: Harry’ego Pottera granego przez Dominica McLaughlina, Hermionę Granger, w którą wciela się Arabe...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wardogs zbanowało 185 tysięcy kont! Twórcy wykorzystali AI, aby wykryć nieuczciwych graczy",
+      "sourceUrl": "https://www.ppe.pl/news/432608/wardogs-zbanowalo-185-tysiecy-kont-tworcy-wykorzystali-ai-aby-wykryc-nieuczciwych-graczy.html",
+      "publishedAt": "2026-11-09T19:31+01:00",
+      "summary": "Bulkhead Studio szykuje trzeci sezon strzelanki Wardogs, ale zanim gracze wkroczą na nowe pole bitwy, twórcy przeprowadzili potężną akcję przeciwko oszustom.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Obiecujące RPG sci-fi uderzy na początku nowego roku. Warhammer 40K: Dark Heresy z datą premiery, ale bez polskiej wersji",
@@ -20,6 +71,31 @@
       "summary": "Poznaliśmy datę premiery Warhammer 40,000: Dark Heresy. Gra od studia Owlcat Games zadebiutuje na początku przyszłego roku. Informacja Obiecujące RPG sci-fi uderzy na początku nowego roku. Warhammer 40K: Dark Heresy z datą premiery, ale bez polskiej wersji została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531944243.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Skydance zwalnia pracowników działu gier. Pracę straciło co najmniej 30 osób",
+      "sourceUrl": "https://www.ppe.pl/news/432615/skydance-zwalnia-pracownikow-dzialu-gier-prace-stracilo-co-najmniej-30-osob.html",
+      "publishedAt": "2026-11-09T19:16+01:00",
+      "summary": "W dziale gier firmy Skydance rozpoczęły się zwolnienia grupowe. Według informacji serwisu Insider Gaming redukcje zatrudnienia ruszyły w ubiegłym tygodniu i objęły pracowników z różnych stanowisk. Z dotychczasowych ustaleń wynika, że pracę...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "James Gunn i Peter Safran odchodzą z kierownictwa DC Studios! Znamy nazwisko nowego szefa",
+      "sourceUrl": "https://www.ppe.pl/news/432624/james-gunn-i-peter-safran-odchodza-z-kierownictwa-dc-studios-znamy-nazwisko-nowego-szefa.html",
+      "publishedAt": "2026-11-09T19:08+01:00",
+      "summary": "James Gunn i Peter Safran przestaną pełnić funkcje dyrektorów generalnych i współprzewodniczących DC Studios. Ich następcą zostanie Jeremy Latcham, który obejmie stanowisko prezesa oraz dyrektora kreatywnego studia. O zmianach poinformował se...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Rekordowa promocja na LEGO Botanicals na Allegro. Bukiet Tulipanów (576 el.) za 139,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/rekordowa-promocja-na-lego-botanicals-na-allegro-bukiet-tulipanow-576-el-za-13999-zl/",
+      "publishedAt": "2026-11-09T19:03+01:00",
+      "summary": "Bezpośrednio w Oficjalnym sklepie Allegro, w ramach oferty Black Weeks, pojawiła się świetna oferta na klocki LEGO z serii Botanicals. Zestaw Bukiet Tulipanów, składający się z 576 elementów, dostępny jest w historycznie najniższej cenie 139,99 zł. Oferta na ten model wystartowała punktualnie o godzinie 19:00. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Rekordowa-promocja-na-LEGO-Botanicals-na-Allegro.-Bukiet-Tulipanow-576-el.-za-13999-zl_obrazek_minaturka-224x224.jpg"
     },
     {
       "sourceName": "CD-Action",
