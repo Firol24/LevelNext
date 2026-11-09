@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-11-09",
+      "headline": "Świeże sygnały ze świata gier",
+      "path": "2026-11-09.json"
+    },
+    {
       "date": "2026-11-08",
       "headline": "Świeże sygnały ze świata gier",
       "path": "2026-11-08.json"

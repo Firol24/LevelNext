@@ -1,0 +1,179 @@
+{
+  "status": "rss-only",
+  "date": "2026-11-09",
+  "updatedAt": "2026-11-09T06:01+01:00",
+  "headline": "Świeże sygnały ze świata gier",
+  "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
+  "lead": {
+    "category": "WIADOMOŚCI",
+    "title": "Polacy SZALEJĄ za tymi komediami. Od dziś są na Netflix!",
+    "summary": "Wielbiciele rodzimych komedii romantycznych z zimowym klimatem w tle mogą zacząć szykować wygodne fotele i kubki z gorącą herbatą, bo na platformie Netflix pojawiła się właśnie prawdziwa gratka.",
+    "sourceUrl": "https://www.ppe.pl/news/432550/polacy-szaleja-za-tymi-komediami-od-dzis-sa-na-netflix.html"
+  },
+  "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Polacy SZALEJĄ za tymi komediami. Od dziś są na Netflix!",
+      "sourceUrl": "https://www.ppe.pl/news/432550/polacy-szaleja-za-tymi-komediami-od-dzis-sa-na-netflix.html",
+      "publishedAt": "2026-11-09T05:55+01:00",
+      "summary": "Wielbiciele rodzimych komedii romantycznych z zimowym klimatem w tle mogą zacząć szykować wygodne fotele i kubki z gorącą herbatą, bo na platformie Netflix pojawiła się właśnie prawdziwa gratka.",
+      "category": "WIADOMOŚCI"
+    }
+  ],
+  "indie": [
+    {
+      "title": "The 9th Haunted Corridor",
+      "date": "2026-11-08",
+      "platform": "PC (Steam)",
+      "summary": "Krótki horror obserwacyjny o nieskończonym korytarzu. Trzeba wyłapywać anomalie i zdecydować, kiedy zawrócić, zanim pętla znów cofnie nas na początek.",
+      "sourceUrl": "https://store.steampowered.com/app/4646360/The_9th_Haunted_Corridor/"
+    },
+    {
+      "title": "Amnea28: Two Eternities",
+      "date": "2026-11-09",
+      "platform": "PC (Steam)",
+      "summary": "Psychologiczna visual novel osadzona w starym hotelu, w którym grupa studentów odkrywa kolejne sekrety. Wybory wpływają na stan psychiczny bohaterów, a opowieść rozgałęzia się na pięć tras.",
+      "sourceUrl": "https://store.steampowered.com/app/2869560/Amnea28_Two_Eternities/"
+    },
+    {
+      "title": "REC:REWIND",
+      "date": "2026-11-10",
+      "platform": "PC (Steam)",
+      "summary": "Horror VHS z mechaniką cofania się przez nagrania: odtwarzana taśma przenosi do zapisanej sceny, w której można znaleźć kolejne nagranie i dotrzeć do jeszcze wcześniejszych wydarzeń.",
+      "sourceUrl": "https://www.gamespark.jp/article/2026/10/29/174206.html"
+    },
+    {
+      "title": "DERELIKT",
+      "date": "2026-11-13",
+      "platform": "PC (Steam, GOG, Epic Games Store)",
+      "summary": "Retro FPS w klimacie klaustrofobicznego horroru science fiction z ery pierwszego PlayStation. Na opuszczonej stacji orbitalnej liczą się amunicja, zapasy i odkrywanie sprzecznych relacji ocalałych.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+    },
+    {
+      "title": "HOOKEYE",
+      "date": "2026-12-09",
+      "platform": "PC (Steam)",
+      "summary": "Psychologiczna opowieść grozy o rybaku, który na mglistej przystani obsesyjnie poluje na coraz większy połów. PSX-owa estetyka, ograniczone zasoby i syrena czająca się pod wodą.",
+      "sourceUrl": "https://www.gamespress.com/uk-UA/Psychological-horror-fishing-game-HOOKEYE-casts-its-line-out-this-Dece"
+    },
+    {
+      "title": "Lightkeeper: Frozen Bay",
+      "date": null,
+      "platform": "PC (Windows)",
+      "summary": "Survival horror na skutej lodem wyspie: utrzymujesz latarnię podczas burzy, a w ciemności coś krąży wokół wyspy. Dostępne jest krótkie demo; pełna wersja rozwinie lokacje o dom latarnika, samochód, kopalnię węgla i las.",
+      "sourceUrl": "https://madstormone.itch.io/lightkeeper-frozen-bay"
+    }
+  ],
+  "releases": [
+    {
+      "date": "2026-11-09",
+      "title": "Amnea28: Two Eternities",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Psychologiczna visual novel o studentach uwięzionych w atmosferze starego hotelu. Pięć tras fabularnych i system stresu wpływający na zachowanie postaci.",
+      "sourceUrl": "https://store.steampowered.com/app/2869560/Amnea28_Two_Eternities/"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Warhammer Survivors",
+      "platform": "PC (Steam, GOG), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2, iOS, Android",
+      "status": "confirmed",
+      "note": "Dynamiczny roguelite typu bullet heaven z ponad 40 bohaterami z uniwersów Warhammer 40,000 i Age of Sigmar.",
+      "sourceUrl": "https://www.gamespress.com/en-US/Warhammer-Survivors-release-date-revealed"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "DreamWorks Shrek 2 Remastered",
+      "platform": "PC (Steam, Epic Games Store), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Odświeżona wersja przygodowej gry z 2004 roku. Ulepszona oprawa, tryb fotograficzny oraz lokalna i sieciowa kooperacja dla maksymalnie czterech osób.",
+      "sourceUrl": "https://www.gamespress.com/en-US/Aspyr-Reveals-DreamWorks-Shrek-2-Remastered-Launching-on-PC-Consoles-N"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Football Manager 27",
+      "platform": "PC, macOS, PlayStation 5, Xbox Series X|S, iOS, Android",
+      "status": "confirmed",
+      "note": "Nowa odsłona menedżera piłkarskiego z przebudowanym zarządzaniem taktyką, treningiem i prezentacją dnia meczowego. Wersja mobilna będzie dostępna przez Netflix.",
+      "sourceUrl": "https://www.footballmanager.com/news/football-manager-27-launches-10-november"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Ashes of the Singularity II",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Strategia czasu rzeczywistego o wojnie ludzi, zbuntowanej sztucznej inteligencji i postludzkiej koalicji. Kampania, kooperacja i rywalizacja sieciowa.",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/ashes-of-the-singularity-ii-launches-november-10-2026-302908672.html"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "REC:REWIND",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Horror VHS oparty na odwróconej pętli czasu. Nagrania prowadzą do kolejnych, coraz wcześniejszych zapisów, a historię poznajemy z perspektywy zaginionego męża i szukającej go żony.",
+      "sourceUrl": "https://www.gamespark.jp/article/2026/10/29/174206.html"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "DERELIKT",
+      "platform": "PC (Steam, GOG, Epic Games Store)",
+      "status": "confirmed",
+      "note": "Klaustrofobiczny retro FPS science fiction inspirowany estetyką PS1. Eksploracja opuszczonej stacji, zagadki środowiskowe i ograniczone zasoby.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+    }
+  ],
+  "cinema": [
+    {
+      "date": "2026-11-20",
+      "title": "Jestem Rocky",
+      "genre": "Biograficzny / dramat",
+      "summary": "Historia młodego Sylvestra Stallone'a, który ryzykuje wszystko, by zagrać w napisanym przez siebie filmie i doprowadzić do narodzin kinowej legendy.",
+      "sourceUrl": "https://kinoswiat.pl/film/jestem-rocky/"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Przemytnicy",
+      "genre": "Thriller",
+      "summary": "Weteran wojenny podejmuje się przemytu złota przez Oregon, licząc na odzyskanie córki. Plan szybko zamienia się w niebezpieczną grę interesów.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/przemytnicy/8585s2r"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hokus: Królestwo Magii",
+      "genre": "Animacja / fantasy",
+      "summary": "Nastolatka odkrywa magiczne zdolności i wyrusza z matką do niezwykłej krainy. Wspólna podróż odsłania rodzinne tajemnice mogące zmienić świat czarów.",
+      "sourceUrl": "https://www.disney.pl/filmy/hokus-krolestwo-magii"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Poznaj swojego teścia",
+      "genre": "Komedia",
+      "summary": "Greg Focker ponownie musi zmierzyć się z wymagającym Jackiem Byrnesem. Czwarta część serii rozwija rodzinne perypetie znane z poprzednich filmów.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/poznaj-swojego-tescia/8181s2r"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Violetta Villas",
+      "genre": "Dramat / biograficzny",
+      "summary": "Portret polskiej divy opowiedziany z perspektywy jej syna. Film przygląda się narodzinom i upadkowi gwiazdy oraz cenie wielkiej kariery.",
+      "sourceUrl": "https://kinoswiat.pl/film/violetta-villas/"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Wszyscy tak mówią",
+      "genre": "Horror / thriller",
+      "summary": "Pierwszy obiad z rodziną dziewczyny zmienia się w koszmar. Krótki polski horror o spotkaniu, po którym pojęcie rodziny nabiera złowrogiego znaczenia.",
+      "sourceUrl": "https://kinoradar.pl/pl/premiery/1814376/"
+    }
+  ],
+  "film": {
+    "title": "Ghostland",
+    "year": "2018",
+    "platform": "Prime Video",
+    "summary": "Po śmierci ciotki matka z dwiema córkami dziedziczy odosobniony dom. Brutalne wydarzenia pierwszej nocy naznaczają rodzinę, a po latach powrót do posiadłości ponownie uruchamia spiralę traumy i paranoi.",
+    "availabilityNote": "JustWatch Polska potwierdził 7 listopada 2026 r. dostępność filmu w abonamencie Amazon Prime Video. Serwis osobno wymienia także opcje wypożyczenia i zakupu.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/ghostland"
+  },
+  "editorialUpdatedAt": "2026-11-08",
+  "editorialHash": "33f0d8cbd3d3f2cfee27eb300d80e0e3b3ff9083ba920f04790b3dc54d07d09a"
+}
