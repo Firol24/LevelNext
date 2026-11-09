@@ -1,17 +1,76 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T20:01+01:00",
+  "updatedAt": "2026-11-09T21:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "W nieodżałowanym GTA: Tokyo „z pewnością byłyby miecze samurajskie”. Rockstar miał „poważne plany” względem GTA w Japonii",
-    "summary": "Po ponad dwóch dekadach poznaliśmy kolejny intrygujący szczegół dotyczący porzuconego GTA: Tokyo. Informacja W nieodżałowanym GTA: Tokyo „z pewnością byłyby miecze samurajskie”. Rockstar miał „poważne plany” względem GTA w Japonii została opublikowana przez GRYOnline.pl 9 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/w-nieodzalowanym-gta-tokyo-z-pewnoscia-bylyby-miecze-samurajskie/zd322a5",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531948078.jpg"
+    "title": "Wielkie kosmiczne bitwy dla wszystkich graczy EVE Online. Idą duże zmiany, także dla „gry ekstrakcyjnej wszech czasów”",
+    "summary": "EVE Online szykuje się na wielkie zmiany. Nadchodzące rozszerzenie ma sprawić, że nawet początkujący gracze będą mogli uczestniczyć w gigantycznych kosmicznych bitwach, które dotąd były domeną weteranów. Informacja Wielkie kosmiczne bitwy dla wszystkich graczy EVE Online. Idą duże zmiany, także dla „gry ekstrakcyjnej wszech czasów” została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/wielkie-kosmiczne-bitwy-dla-wszystkich-graczy-eve-online-ida-duze/z0322a8",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531953557.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wielkie kosmiczne bitwy dla wszystkich graczy EVE Online. Idą duże zmiany, także dla „gry ekstrakcyjnej wszech czasów”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wielkie-kosmiczne-bitwy-dla-wszystkich-graczy-eve-online-ida-duze/z0322a8",
+      "publishedAt": "2026-11-09T21:53+01:00",
+      "summary": "EVE Online szykuje się na wielkie zmiany. Nadchodzące rozszerzenie ma sprawić, że nawet początkujący gracze będą mogli uczestniczyć w gigantycznych kosmicznych bitwach, które dotąd były domeną weteranów. Informacja Wielkie kosmiczne bitwy dla wszystkich graczy EVE Online. Idą duże zmiany, także dla „gry ekstrakcyjnej wszech czasów” została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531953557.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "2 miesiące temu huczna zapowiedź, a teraz to. Twórcy krwawej gry akcji z otwartym światem są bezlitośni jak rekin z Maneater 2",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/2-miesiace-temu-huczna-zapowiedz-a-teraz-to-tworcy-krwawej-gry-ak/zf322a7",
+      "publishedAt": "2026-11-09T21:27+01:00",
+      "summary": "We wrześniu zapowiedzieli Maneater 2, a teraz znów zwalniają, po raz drugi w tym roku, tyle że na większa skalę. Tripwire Interactive podjęło „niełatwą”, ale „konieczną” decyzję. Informacja 2 miesiące temu huczna zapowiedź, a teraz to. Twórcy krwawej gry akcji z otwartym światem są bezlitośni jak rekin z Maneater 2 została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531952052.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zaginiona (2026) recenzja 4 odcinków serialu (BBC). Najpierw wytrzyj buty, a potem mów o trupie",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432558/zaginiona-2026-recenzja-4-odcinkow-serialu-bbc-najpierw-wytrzyj-buty-a-potem-mow-o-trupie.html",
+      "publishedAt": "2026-11-09T21:00+01:00",
+      "summary": "Brytyjczycy mają jakiś nieludzki dar do kręcenia kryminałów, w których przez godzinę nikt nie wyciąga broni, a ty i tak siedzisz na brzegu fotela i obgryzasz paznokcie. Wystarczy im zachmurzone niebo nad Bristolem, korytarze elitarnej szkoły pr...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Darmowe DLC do Wiedźmina 3! Kilka godzin rozgrywki w Toussaint",
+      "sourceUrl": "https://www.ppe.pl/news/432641/darmowe-dlc-do-wiedzmina-3-kilka-godzin-rozgrywki-w-toussaint.html",
+      "publishedAt": "2026-11-09T20:43+01:00",
+      "summary": "Fani kultowej gry o łowcy potworów mają kolejny powód, by ponownie odpalić produkcję CD Projekt RED. Wszystko za sprawą nowej, niezwykle ambitnej fanowskiej przygody pod tytułem „Kroniki Księstwa”, która właśnie trafiła do sieci.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Oferta Śródtygodniowa na Steam. Rekordowo tanie Mortal Shell II za 126,75 zł na PC!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/oferta-srodtygodniowa-na-steam-rekordowo-tanie-mortal-shell-ii-za-12675-zl-na-pc/",
+      "publishedAt": "2026-11-09T20:37+01:00",
+      "summary": "Łowcy, czas na kolejną w listopadzie edycję oferty Szaleństwo w środku tygodnia w sklepie Valve. Najnowsza wyprzedaż pozwala zakupić wybrane tytuły w cenach niższych o nawet -90%. Wśród oferowanych tytułów znajdziecie wiele rekordowo tanich produkcji . Na szczególne wyróżnienie zasługuje tutaj wysoko oceniane Mortal Shell II w historycznie najniższej cenie 126,75 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Oferta-Srodtygodniowa-na-Steam.-Rekordowo-tanie-Mortal-Shell-II-za-12675-zl-na-PC_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Szał cenowy na soundbar LG S40TR z 400W za jedyne 624 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/432649/szal-cenowy-na-soundbar-lg-s40tr-z-400w-za-jedyne-624-zl.html",
+      "publishedAt": "2026-11-09T20:33+01:00",
+      "summary": "W sklepie Mirapol poprzez platformę Allegro w ramach wyprzedaży możemy nabyć taniej o ponad 100 złotych porządny soundbar firmy LG.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Blizzard traci kontrolę nad własnymi grami! Kolejne kultowe tytuły zostały złamane",
+      "sourceUrl": "https://www.ppe.pl/news/432619/blizzard-traci-kontrole-nad-wlasnymi-grami-kolejne-kultowe-tytuly-zostaly-zlamane.html",
+      "publishedAt": "2026-11-09T20:31+01:00",
+      "summary": "Zespół ZLOEmu, rozwijający emulatory serwerów Battle.net, poinformował o obsłudze najnowszych wersji dwóch gier Blizzarda.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "W nieodżałowanym GTA: Tokyo „z pewnością byłyby miecze samurajskie”. Rockstar miał „poważne plany” względem GTA w Japonii",
@@ -22,6 +81,23 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531948078.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Na premierę GTA 6 odbędzie się festiwal muzyczny. Wejściówkę można wygrać na loterii",
+      "sourceUrl": "https://cdaction.pl/newsy/na-premiere-gta-6-odbedzie-sie-festiwal-muzyczny-wejsciowke-mozna-wygrac-na-loterii/",
+      "publishedAt": "2026-11-09T20:18+01:00",
+      "summary": "Wyjątkowa oprawa premiery.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-1-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Blade Runner 2099 na finałowym zwiastunie. Premiera serialu już w listopadzie!",
+      "sourceUrl": "https://www.ppe.pl/news/432620/blade-runner-2099-na-finalowym-zwiastunie-premiera-serialu-juz-w-listopadzie.html",
+      "publishedAt": "2026-11-09T20:16+01:00",
+      "summary": "Prime Video opublikowało oficjalny finałowy zwiastun serialu „Blade Runner 2099”. Produkcja rozszerzy znane uniwersum science fiction o kolejną historię, której akcja rozgrywa się 50 lat po wydarzeniach przedstawionych w filmie „Blade Runner...",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Trzęsienie ziemi w DC Studios. James Gunn i Peter Safran odchodzą po czterech latach, a stery przejmuje weteran Marvela",
       "sourceUrl": "https://www.gry-online.pl/newsroom/trzesienie-ziemi-w-dc-studios-james-gunn-i-peter-safran-odchodza/zc322a4",
@@ -29,6 +105,15 @@
       "summary": "W DC Studios szykuje się wielka zmiana. James Gunn i Peter Safran opuszczają stanowiska szefów studia po czterech latach kierowania uniwersum superbohaterów. Informacja Trzęsienie ziemi w DC Studios. James Gunn i Peter Safran odchodzą po czterech latach, a stery przejmuje weteran Marvela została opublikowana przez GRYOnline.pl 9 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531946961.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Biurko Sense7 NOJO Light (140×70 cm) z elektryczną regulacją za 329 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/biurko-sense7-nojo-light-140x70-cm-z-elektryczna-regulacja-za-329-zl-na-allegro/",
+      "publishedAt": "2026-11-09T20:09+01:00",
+      "summary": "W oficjalnym sklepie Sense7 na Allegro, z okazji oferty Black Weeks, możecie zakupić tanio biurko Sense7 NOJO Light. Model z blatem o wymiarach 140 x 70 cm, elektryczną regulacją wysokości oraz uchwytami na słuchawki i kable może być Wasz za 329 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Biurko-Sense7-NOJO-Light-140x70-cm-z-elektryczna-regulacja-za-329-zl-na-Allegro_minaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
