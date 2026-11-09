@@ -1,16 +1,77 @@
 {
   "status": "rss-only",
   "date": "2026-11-09",
-  "updatedAt": "2026-11-09T08:01+01:00",
+  "updatedAt": "2026-11-09T09:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Krągłości zachęciły graczy do zakupów? Hitowy akcyjniak z przeogromną sprzedażą",
-    "summary": "Sukces akcji zatytułowanej Stellar Blade udowadnia, że czasem ryzyko i stawianie na zupełnie nową markę potrafi przynieść wręcz gigantyczne owoce.",
-    "sourceUrl": "https://www.ppe.pl/news/432554/kraglosci-zachecily-graczy-do-zakupow-hitowy-akcyjniak-z-przeogromna-sprzedaza.html"
+    "title": "GTA 6: preload w Polsce rozpocznie się dziś w nocy: jak rozpocząć pobieranie, jaki jest rozmiar pliku i co warto wiedzieć przed rozpoczęciem - relacja na żywo",
+    "summary": "Już za kilka godzin pierwsi gracze będą mogli rozpocząć pobieranie GTA 6. W przypadku Polski preload wystartuje w okolicach północy. Informacja GTA 6: preload w Polsce rozpocznie się dziś w nocy: jak rozpocząć pobieranie, jaki jest rozmiar pliku i co warto wiedzieć przed rozpoczęciem - relacja na żywo została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-preload-w-polsce-rozpocznie-sie-dzis-w-nocy-jak-rozpoczac-p/z332284",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531910262.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6: preload w Polsce rozpocznie się dziś w nocy: jak rozpocząć pobieranie, jaki jest rozmiar pliku i co warto wiedzieć przed rozpoczęciem - relacja na żywo",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-preload-w-polsce-rozpocznie-sie-dzis-w-nocy-jak-rozpoczac-p/z332284",
+      "publishedAt": "2026-11-09T09:52+01:00",
+      "summary": "Już za kilka godzin pierwsi gracze będą mogli rozpocząć pobieranie GTA 6. W przypadku Polski preload wystartuje w okolicach północy. Informacja GTA 6: preload w Polsce rozpocznie się dziś w nocy: jak rozpocząć pobieranie, jaki jest rozmiar pliku i co warto wiedzieć przed rozpoczęciem - relacja na żywo została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531910262.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Woda jest mokra, a GTA 6 Online istnieje. Dowody znaleziono w kodzie gry",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/woda-jest-mokra-a-gta-6-online-istnieje-dowody-znaleziono-w-kodzi/z232283",
+      "publishedAt": "2026-11-09T09:38+01:00",
+      "summary": "Gracze dostali istotny dowód na to, że GTA 6 prędzej czy później otrzyma własną wersję Grand Theft Auto Online. Informacja Woda jest mokra, a GTA 6 Online istnieje. Dowody znaleziono w kodzie gry została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531909241.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "To już pewne: PlayStation rakiem wycofuje się z PC. W nowe gry ekskluzywne Sony zagramy wyłącznie na PS5 i PS6 [Aktualizacja: znaczek PlayStation Exclusive]",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/to-juz-pewne-playstation-rakiem-wycofuje-sie-z-pc-w-nowe-gry-eksk/zc30e13",
+      "publishedAt": "2026-11-09T09:05+01:00",
+      "summary": "Sony miało oficjalnie potwierdzić, że wycofuje się z wydawania gier singleplayer na PC. Oznacza to, iż ukażą się one tylko na PlayStation 5, a w dalszej perspektywie – PlayStation 6. Mamy na to kolejny dowód. Informacja To już pewne: PlayStation rakiem wycofuje się z PC. W nowe gry ekskluzywne Sony zagramy wyłącznie na PS5 i PS6 [Aktualizacja: znaczek PlayStation Exclusive] została opublikowana przez GRYOnline.pl 9 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/516836084.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nawet oceny 10/10 nie pomogły. Zwolnienia u twórców przeboju 2026 roku",
+      "sourceUrl": "https://www.ppe.pl/news/432557/nawet-oceny-10-10-nie-pomogly-zwolnienia-u-tworcow-przeboju-2026-roku.html",
+      "publishedAt": "2026-11-09T09:01+01:00",
+      "summary": "Branża gier wideo po raz kolejny pokazuje swoje bezwzględne oblicze, w którym nawet ogromny sukces artystyczny i świetne oceny od recenzentów nie dają pracownikom żadnej gwarancji bezpieczeństwa.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Laptop HP Omen 16 Intel Core i7-13620H 16GB RTX 4060 za 3999 zł (1200 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/laptop-hp-omen-16-intel-core-i7-13620h-16gb-rtx-4060-za-3999-zl-1200-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-09T08:50+01:00",
+      "summary": "Wyposażony w procesor Intel Core i7 13. generacji HP Omen 16, pojawił się w Hicie Dnia sklepu Media Expert. Model z matrycą IPS o częstotliwości odświeżania 144 Hz, kartą graficzną Nvidia GeForce RTX 4060 i systemem operacyjnym Windows 11, kosztuje 3999 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/07/hp-omen-16-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 Online KOLEJNĄ premierą Rockstar Games?! \"Zero integracji w tryb fabularny\"",
+      "sourceUrl": "https://www.ppe.pl/news/432556/gta-6-online-kolejna-premiera-rockstar-games-zero-integracji-w-tryb-fabularny.html",
+      "publishedAt": "2026-11-09T08:39+01:00",
+      "summary": "Wokół nadchodzącej premiery szóstej odsłony Grand Theft Auto krąży coraz więcej ciekawostek, a najnowsze doniesienia prosto z pudełek z grami rzucają zupełnie nowe światło na popularny tryb sieciowy.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowa wersja trailera Mass Effect Universe. Fani są rozgoryczeni",
+      "sourceUrl": "https://www.ppe.pl/news/432555/nowa-wersja-trailera-mass-effect-universe-fani-sa-rozgoryczeni.html",
+      "publishedAt": "2026-11-09T08:11+01:00",
+      "summary": "Obchodzone przedwczoraj święto fanów Mass Effecta przyniosło niesamowitą, choć mocno słodko-gorzką niespodziankę, która wywołała ogromne emocje w całej społeczności.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Krągłości zachęciły graczy do zakupów? Hitowy akcyjniak z przeogromną sprzedażą",
@@ -58,6 +119,24 @@
       "publishedAt": "2026-11-09T05:55+01:00",
       "summary": "Wielbiciele rodzimych komedii romantycznych z zimowym klimatem w tle mogą zacząć szykować wygodne fotele i kubki z gorącą herbatą, bo na platformie Netflix pojawiła się właśnie prawdziwa gratka.",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ogromna nowa kampania do Bitwy o Śródziemie 2 pozwala odtworzyć wszystkie trzy filmy z serii Władca Pierścieni",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ogromna-nowa-kampania-do-bitwy-o-srodziemie-2-pozwala-odtworzyc-w/z132282",
+      "publishedAt": "2026-11-08T21:45+01:00",
+      "summary": "Wielki mod Age of the Ring do LOTR The Battle for Middle-Earth II dostał wersję 10. Zyskał w niej nową kampanię i stał się samodzielną produkcją, w praktyce przeobrażając się w darmową grę. Informacja Ogromna nowa kampania do Bitwy o Śródziemie 2 pozwala odtworzyć wszystkie trzy filmy z serii Władca Pierścieni została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531863154.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Czy warto kupić? SSD Lexar NQ790 2TB za 1179 zł? Kości QLC, o wadach trzeba więc pamiętać",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/czy-warto-kupic-ssd-lexar-nq790-2tb-za-1179-zl-kosci-qlc-o-wadach/z032281",
+      "publishedAt": "2026-11-08T20:42+01:00",
+      "summary": "Nośnik SSD Lexar NQ790 2 TB pojawił się w obniżonej cenie: 1179 zł. Testy tego dysku SSD jasno wskazują na obecność kości QLC (gorsze od TLC), z czym wiąże się największa wada takich SSD: bardzo wolny zapis po wyczerpaniu bufora SLC. Warto go kupić? Informacja Czy warto kupić? SSD Lexar NQ790 2TB za 1179 zł? Kości QLC, o wadach trzeba więc pamiętać została opublikowana przez GRYOnline.pl 8 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531862878.jpg"
     }
   ],
   "indie": [
