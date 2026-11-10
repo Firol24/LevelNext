@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T21:12+01:00",
+  "updatedAt": "2026-11-10T22:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Sony dostało nagrodę dla „szemranych” firm. Wszystko przez rezygnację z gier na płytach i manipulacje w PS Store",
-    "summary": "Przyznano Shonky Award 2026, nagrody dla „szemranych” firm, produktów i usług. W tym roku w galerii hańby znalazło się m.in. Sony. Informacja Sony dostało nagrodę dla „szemranych” firm. Wszystko przez rezygnację z gier na płytach i manipulacje w PS Store została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/sony-dostalo-nagrode-dla-szemranych-firm-wszystko-przez-rezygnacj/z0322d5",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532040859.jpg"
+    "title": "Legenda powróciła i próbuje zachwycać jak 25 lat temu. Ale dla części graczy nowe Icy Tower to nostalgiczny skok na kasę",
+    "summary": "Kultowa platformówka powróciła, a jej nowa wersja zbiera na Steamie bardzo dobre oceny. Nie wszyscy są jednak zachwyceni rebootem Icy Tower – część graczy uważa, że twórcy zbyt mocno polegają na nostalgii. Informacja Legenda powróciła i próbuje zachwycać jak 25 lat temu. Ale dla części graczy nowe Icy Tower to nostalgiczny skok na kasę została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/legenda-powrocila-i-probuje-zachwycac-jak-25-lat-temu-ale-dla-wie/z1322d6",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532042097.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Legenda powróciła i próbuje zachwycać jak 25 lat temu. Ale dla części graczy nowe Icy Tower to nostalgiczny skok na kasę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/legenda-powrocila-i-probuje-zachwycac-jak-25-lat-temu-ale-dla-wie/z1322d6",
+      "publishedAt": "2026-11-10T22:29+01:00",
+      "summary": "Kultowa platformówka powróciła, a jej nowa wersja zbiera na Steamie bardzo dobre oceny. Nie wszyscy są jednak zachwyceni rebootem Icy Tower – część graczy uważa, że twórcy zbyt mocno polegają na nostalgii. Informacja Legenda powróciła i próbuje zachwycać jak 25 lat temu. Ale dla części graczy nowe Icy Tower to nostalgiczny skok na kasę została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532042097.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Sony dostało nagrodę dla „szemranych” firm. Wszystko przez rezygnację z gier na płytach i manipulacje w PS Store",
@@ -20,6 +29,31 @@
       "summary": "Przyznano Shonky Award 2026, nagrody dla „szemranych” firm, produktów i usług. W tym roku w galerii hańby znalazło się m.in. Sony. Informacja Sony dostało nagrodę dla „szemranych” firm. Wszystko przez rezygnację z gier na płytach i manipulacje w PS Store została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532040859.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Weterani BioWare chcą uratować Mass Effect i Dragon Age. Przygtujcie się na wielki powrót!",
+      "sourceUrl": "https://www.ppe.pl/news/432775/weterani-bioware-chca-uratowac-mass-effect-i-dragon-age-przygtujcie-sie-na-wielki-powrot.html",
+      "publishedAt": "2026-11-10T22:00+01:00",
+      "summary": "Trent Oster, współzałożyciel BioWare, rozważa możliwość odzyskania praw do najważniejszych marek studia i ponownego zgromadzenia dawnych twórców.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Chińskie gry PC z okazji Dnia Singla w Humble Bundle. Zestaw 6 kluczy Steam za 72 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/chinskie-gry-pc-z-okazji-dnia-singla-w-humble-bundle-zestaw-6-kluczy-steam-za-72-zl/",
+      "publishedAt": "2026-11-10T21:42+01:00",
+      "summary": "Łowcy, zespół Humble Bundle świętuje jutrzejszy Dzień Singla i prezentuje Wam zestaw z grami pochodzącymi z Państwa Środka. W ramach pakietu Humble 11.11 Singles Day – Celebration Chinese Faming Bundle otrzymacie 6 tytułów na Steam. Całość oferowana jest w jednym progu cenowym za nieco ponad 72 zł, co pozwala otrzymać jedną pozycję na PC za ok. 12,08zł ! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Chinskie-gry-PC-z-okazji-Dnia-Singla-w-Humble-Bundle.-Zestaw-6-kluczy-Steam-za-72-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Daniel Radcliffe zabrał głos w sprawie serialu HBO Max. Aktor nie zamierza oglądać nowego Harry’ego Pottera",
+      "sourceUrl": "https://www.ppe.pl/news/432764/daniel-radcliffe-zabral-glos-w-sprawie-serialu-hbo-max-aktor-nie-zamierza-ogladac-nowego-harry-ego-pottera.html",
+      "publishedAt": "2026-11-10T21:15+01:00",
+      "summary": "Daniel Radcliffe, który wcielał się w Harry’ego Pottera na wielkim ekranie, odniósł się do nadchodzącego serialu HBO Max.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
