@@ -1,17 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T05:01+01:00",
+  "updatedAt": "2026-11-10T06:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Uchwyt King Mount do telewizorów (od 32″ do 70″) za 59,90 zł (możliwe 53,91 zł) na Allegro",
-    "summary": "W ramach oferty Black Weeks, na platfromie Allegro, możecie zakupić tanio uchwyt King Mount do telewizorów w rozmiarze od 32″ do 70″. Wzmocniona konstrukcja, pozwalająca zawiesić na ścianie modele TV o wadze do aż 50 kg, dostępna jest za 59,90 zł. Model ten zgodny jest ze standardem VESA 400 X 400, więc będzie kompatybilny ze zdecydowaną większością dostępnych na rynku sprzętów. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/uchwyt-king-mount-do-telewizorow-od-32-do-70-za-5990-zl-mozliwe-5391-zl-na-allegro/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Uchwyt-King-Mount-do-telewizorow-od-32_-do-70_-za-5990-zl-mozliwe-5391-zl-na-Allegro_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "NAJCIEKAWSZY serial listopada w szczegółach. Prime Video ma HIT",
+    "summary": "Dla fanów Śródziemia nadszedł wreszcie moment, na który z niecierpliwością czekali. Amazon właśnie opublikował pełny harmonogram swojej najważniejszej premiery tego miesiąca - trzeciego sezonu \"Władcy Pierścieni: Pierścieni Władzy\".",
+    "sourceUrl": "https://www.ppe.pl/news/432643/najciekawszy-serial-listopada-w-szczegolach-prime-video-ma-hit.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "NAJCIEKAWSZY serial listopada w szczegółach. Prime Video ma HIT",
+      "sourceUrl": "https://www.ppe.pl/news/432643/najciekawszy-serial-listopada-w-szczegolach-prime-video-ma-hit.html",
+      "publishedAt": "2026-11-10T05:54+01:00",
+      "summary": "Dla fanów Śródziemia nadszedł wreszcie moment, na który z niecierpliwością czekali. Amazon właśnie opublikował pełny harmonogram swojej najważniejszej premiery tego miesiąca - trzeciego sezonu \"Władcy Pierścieni: Pierścieni Władzy\".",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 rozbiło bank! Wydawca gry potwierdza MASĘ znakomitych informacji",
+      "sourceUrl": "https://www.ppe.pl/news/432654/gta-6-rozbilo-bank-wydawca-gry-potwierdza-mase-znakomitych-informacji.html",
+      "publishedAt": "2026-11-10T05:35+01:00",
+      "summary": "Zaledwie na kilka dni przed największą premierą tej dekady, wydawca serii Grand Theft Auto pochwalił się swoimi najnowszymi wynikami finansowymi. Poniedziałkowy raport firmy Take-Two Interactive wywołał ogromny entuzjazm wśród inwestorów z ca...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Połączenie Paramount+ i HBO Max to już tylko kwestia czasu. Ujawniono nowe szczegóły na temat fuzji",
+      "sourceUrl": "https://www.ppe.pl/news/432655/polaczenie-paramount-i-hbo-max-to-juz-tylko-kwestia-czasu-ujawniono-nowe-szczegoly-na-temat-fuzji.html",
+      "publishedAt": "2026-11-10T05:15+01:00",
+      "summary": "David Ellison, czyli szef Paramount Skydance, który niedawno przejął Warner Bros. Discovery, ujawnił, kiedy HBO Max i Paramount+ zostaną połączone.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Uchwyt King Mount do telewizorów (od 32″ do 70″) za 59,90 zł (możliwe 53,91 zł) na Allegro",
