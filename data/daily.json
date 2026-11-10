@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T08:01+01:00",
+  "updatedAt": "2026-11-10T08:22+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "3 nowe gry w Xbox Game Pass, i to same premiery. Na pierwszy plan wysuwa się Football Manager 27",
-    "summary": "Na dzisiaj dla abonentów usług Xbox Game Pass Ultimate i PC Game Pass przygotowano trzy premierowe tytuły. Mowa o Football Managerze 27 Console, Warhammer Survivors i Tanuki: Pon’s Summer. Informacja 3 nowe gry w Xbox Game Pass, i to same premiery. Na pierwszy plan wysuwa się Football Manager 27 została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/3-nowe-gry-w-xbox-game-pass-i-to-same-premiery-na-pierwszy-plan-w/zb322ac",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531990955.jpg"
+    "title": "Nowe plakaty serialu Harry Potter od HBO trafiły do sieci. Fanów zainteresowało jednak coś innego",
+    "summary": "Pojawiły się nowe plakaty serialu Harry Potter od HBO z Harrym, Ronem i Hermioną, ale fani zwrócili uwagę na inny szczegół, niż przedstawieni na nich bohaterowie. Informacja Nowe plakaty serialu Harry Potter od HBO trafiły do sieci. Fanów zainteresowało jednak coś innego została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nowe-plakaty-serialu-harry-potter-od-hbo-trafily-do-sieci-fanow-z/zc322ad",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531993703.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowe plakaty serialu Harry Potter od HBO trafiły do sieci. Fanów zainteresowało jednak coś innego",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowe-plakaty-serialu-harry-potter-od-hbo-trafily-do-sieci-fanow-z/zc322ad",
+      "publishedAt": "2026-11-10T09:03+01:00",
+      "summary": "Pojawiły się nowe plakaty serialu Harry Potter od HBO z Harrym, Ronem i Hermioną, ale fani zwrócili uwagę na inny szczegół, niż przedstawieni na nich bohaterowie. Informacja Nowe plakaty serialu Harry Potter od HBO trafiły do sieci. Fanów zainteresowało jednak coś innego została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531993703.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "10 lat temu twórcy Maxa Payne'a i Alana Wake'a stworzyli grę, która miała być również serialem. Dziś wiem, dlaczego nikt nie poszedł ich śladem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/10-lat-temu-tworcy-maxa-paynea-i-alana-wakea-stworzyli-gre-ktora/ze322a6",
+      "publishedAt": "2026-11-10T09:00+01:00",
+      "summary": "Niedawna premiera Control Resonant sprawiła, że zapragnąłem wrócić do „Remedyverse” i zagrać w Quantum Break, która była wspaniałym, acz trochę (spoiler alert) przehajpowanym mariażem wysokobudżetowego serialu live action z niezłą obsadą i gry komputerowej doprawionej pomysłami Sama Lake’a. Informacja 10 lat temu twórcy Maxa Payne&apos;a i Alana Wake&apos;a stworzyli grę, która miała być również serialem. Dziś wiem, dlaczego nikt nie poszedł ich śladem została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531948108.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "3 nowe gry w Xbox Game Pass, i to same premiery. Na pierwszy plan wysuwa się Football Manager 27",
@@ -150,46 +168,39 @@
   ],
   "indie": [
     {
-      "title": "Pestilence",
-      "date": "2026-10-15",
-      "platform": "PC (Windows, Steam)",
-      "summary": "Psychologiczny horror FPP osadzony w 2001 roku. Po zaginięciu córki bohater wraca do sprawy, korzystając z komputera, telefonu i nagrań na taśmach.",
-      "sourceUrl": "https://kookystudios.com/"
-    },
-    {
-      "title": "Haunted Echoes",
-      "date": "2026-11-11",
+      "title": "Casualties: Unknown",
+      "date": "2026-11-09",
       "platform": "PC (Steam)",
-      "summary": "Klaustrofobiczny horror z perspektywy kamery nasobnej. W opuszczonych budynkach trzeba tropić anomalie, pilnować baterii latarki i uważać na manekiny, które nie zawsze pozostają nieruchome.",
-      "sourceUrl": "https://store.steampowered.com/app/4854170/Haunted_Echoes/"
+      "summary": "2D-owy survival w podziemiach obcej planety. Eksploracja kolejnych warstw łączy się z craftingiem oraz szczegółową symulacją obrażeń i kondycji organizmu.",
+      "sourceUrl": "https://store.steampowered.com/app/4576490/Casualties_Unknown/"
     },
     {
-      "title": "8AM: The Graveyard",
-      "date": "2026-11-24",
+      "title": "DREADMOOR",
+      "date": "2026-11-09",
+      "platform": "PC (Steam, Early Access)",
+      "summary": "Lovecraftowski horror FPP o połowach w zalanym świecie po katastrofie. Rozwijasz kuter, zbierasz zasoby i walczysz z potworami kryjącymi się pod wodą oraz na lądzie.",
+      "sourceUrl": "https://store.steampowered.com/app/3629430/"
+    },
+    {
+      "title": "ANOMALITH",
+      "date": "2026-10-28",
       "platform": "PC (Steam)",
-      "summary": "Nocny dyżur na cmentarzu obserwowany przez ziarnisty monitoring. Z budki strażnika śledzisz groby i kaplice, próbując odróżnić zmęczenie od czegoś, co naprawdę porusza się między nagrobkami.",
-      "sourceUrl": "https://store.steampowered.com/app/4135110/"
+      "summary": "Survival horror TPP w Japonii stylizowanej na epokę Shōwa. Reona wyrusza do liminalnych stref anomalii, szukając zaginionej przyjaciółki.",
+      "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/"
     },
     {
-      "title": "Am I Nima",
-      "date": "2026-11-27",
+      "title": "Nocturnal 2",
+      "date": "2026-11-10",
       "platform": "PC (Steam)",
-      "summary": "Psychologiczny horror o dziewczynie bez wspomnień, uwięzionej w piwnicy przez własną matkę. Słowa znalezione w otoczeniu łączysz w myślach bohaterki, by prowadzić rozmowy i odkrywać, kim naprawdę jest.",
-      "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/"
+      "summary": "Mroczna, ręcznie rysowana metroidvania o eksploracji miasta Ytash. Odkrywasz nowe przejścia, sekrety i kolejne fragmenty historii zapomnianej wyspy.",
+      "sourceUrl": "https://store.steampowered.com/app/2847780/"
     },
     {
-      "title": "Aberrant Domain Demo",
-      "date": null,
-      "platform": "PC (Steam, demo)",
-      "summary": "Krótki survival horror w mglistej, nieistniejącej na mapach metropolii. Z fragmentaryczną mapą i zawodnym kompasem szukasz drogi przez opustoszałe miejsca, w których nie wszystko da się zabić.",
-      "sourceUrl": "https://store.steampowered.com/app/5239000/Carpik_Alem_Demo/"
-    },
-    {
-      "title": "The Road of Dust and Sorrow",
-      "date": "2026-12-03",
-      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
-      "summary": "Pixelartowy survival horror inspirowany klasykami Resident Evil i Silent Hill. Matka z córką przemierzają zrujnowany świat, walczą z potworami i rozwiązują zagadki, próbując znaleźć bezpieczne miejsce.",
-      "sourceUrl": "https://www.gematsu.com/2026/10/the-road-of-dust-and-sorrow-launches-december-3"
+      "title": "DERELIKT",
+      "date": "2026-11-13",
+      "platform": "PC (Steam)",
+      "summary": "Retro FPS z estetyką późnej ery PS1, osadzony na opuszczonej placówce w pobliżu Saturna. Eksploracja, zagadki, zarządzanie zasobami i nieufność wobec ocalałych budują klimat sci-fi horroru.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
     }
   ],
   "releases": [
@@ -198,7 +209,7 @@
       "title": "Haunted Echoes",
       "platform": "PC (Steam)",
       "status": "listed",
-      "note": "Psychologiczny horror bodycam o badaniu opuszczonych lokacji i anomalii. Steam podaje planowaną datę premiery 11 listopada.",
+      "note": "Steam podaje planowaną datę 11 listopada. Horror bodycam o badaniu opuszczonych lokacji, anomaliach i ograniczonym świetle.",
       "sourceUrl": "https://store.steampowered.com/app/4854170/Haunted_Echoes/"
     },
     {
@@ -206,102 +217,116 @@
       "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
       "platform": "Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Rozszerzona edycja dodaje Akademię Dandori, komendy głosowe dla Oatchiego, GameShare i wyższą rozdzielczość.",
-      "sourceUrl": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-dandori-academy-125241/"
+      "note": "Rozszerzona edycja dodaje Akademię Dandori, komendy głosowe dla Oatchiego i ulepszenia obrazu.",
+      "sourceUrl": "https://www.nintendo.com/my/news/article/5S711JpOsIpjyRP5hhXgpu"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Metaphor: ReFantazio",
+      "platform": "Nintendo Switch 2, Nintendo Switch",
+      "status": "confirmed",
+      "note": "Fantasy RPG twórców Persona 5 debiutuje na konsolach Nintendo. Oficjalny kalendarz Nintendo podaje 12 listopada.",
+      "sourceUrl": "https://www.nintendo.dk/nyheder/kommende-spil-november-2026"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "DERELIKT",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Twórcy i wydawca potwierdzili premierę na 13 listopada. Retro FPS inspirowany kosmicznymi horrorami z ery pierwszego PlayStation.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "The Binding of Isaac: Repentance+",
+      "platform": "Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Nowa wersja kultowego roguelike'a z sieciową kooperacją do czterech graczy.",
+      "sourceUrl": "https://www.nintendo.dk/nyheder/kommende-spil-november-2026"
     },
     {
       "date": "2026-11-19",
       "title": "Grand Theft Auto VI",
       "platform": "PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
-      "note": "Jason i Lucia trafiają w sam środek przestępczego spisku w Leonidzie. Rockstar potwierdza premierę na 19 listopada.",
+      "note": "Rockstar nadal potwierdza premierę 19 listopada. Rozpoczęcie pobierania wstępnego zaplanowano na 10 listopada.",
       "sourceUrl": "https://www.rockstargames.com/VI"
     },
     {
-      "date": "2026-11-27",
-      "title": "Am I Nima",
-      "platform": "PC (Steam)",
-      "status": "listed",
-      "note": "Horror psychologiczny, w którym bohaterka bez wspomnień musi przekonać matkę, że naprawdę jest jej córką. Steam pokazuje planowaną datę 27 listopada.",
-      "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/"
-    },
-    {
       "date": "2026-12-03",
-      "title": "The Road of Dust and Sorrow",
-      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
+      "platform": "Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Fabularny survival horror w pixel arcie, inspirowany Resident Evil i Silent Hill. W centrum opowieści są matka, córka i świat zniszczony przez nieudany eksperyment.",
-      "sourceUrl": "https://www.gematsu.com/2026/10/the-road-of-dust-and-sorrow-launches-december-3"
-    },
-    {
-      "date": "2026-12-03",
-      "title": "DRAGON QUEST MONSTERS: The Withered World",
-      "platform": "PC (Steam)",
-      "status": "listed",
-      "note": "Nowa odsłona serii o łapaniu, łączeniu i trenowaniu potworów. Steam podaje 3 grudnia, ale kalendarze premier wskazują rozbieżności regionalne, dlatego termin oznaczamy jako listed.",
-      "sourceUrl": "https://store.steampowered.com/app/3681610/"
-    },
-    {
-      "date": "2026-12-03",
-      "title": "Rayman Legends Retold",
-      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
-      "status": "confirmed",
-      "note": "Nowa wersja platformówki z odświeżoną oprawą, dodatkowym królestwem, nowymi etapami muzycznymi i lokalną kooperacją dla maksymalnie czterech osób.",
-      "sourceUrl": "https://www.ubisoft.com/en-us/games/rayman-legends-retold"
+      "note": "Nintendo podaje 3 grudnia jako datę premiery nowej edycji na Switch 2.",
+      "sourceUrl": "https://www.nintendo.dk/spil/kommende-spil"
     }
   ],
   "cinema": [
     {
       "date": "2026-11-11",
       "title": "Nasza rewolucja",
-      "genre": "Dramat biograficzny",
-      "summary": "Portret Jacka i Grażyny Kuroniów w latach 80. Ich mieszkanie staje się punktem spotkań opozycji, a walka o wolność splata się z próbą ochrony rodzinnej bliskości.",
+      "genre": "Biografia / dramat",
+      "summary": "Portret Jacka i Grażyny Kuroniów, których mieszkanie staje się punktem spotkań opozycji. Film pokazuje, jak walka o wolność splata się z życiem rodzinnym.",
       "sourceUrl": "https://www.cinema-city.pl/filmy/nasza-rewolucja/8607o2r"
     },
     {
       "date": "2026-11-13",
-      "title": "Victorian Psycho",
-      "genre": "Horror psychologiczny / kostiumowy",
-      "summary": "Nowa guwernantka przybywa do odizolowanej wiktoriańskiej posiadłości. Gdy zaczyna znikać służba, na jaw wychodzi znacznie mroczniejsza strona jej osobowości.",
-      "sourceUrl": "https://kinoswiat.pl/premiery/kino/"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Dziki Koń Dziewięć",
-      "genre": "Thriller / dramat",
-      "summary": "Dwaj agenci CIA zostają wysłani z Chile na Wyspę Wielkanocną tuż przed zamachem stanu w 1973 roku. Dawne sekrety i narastające spiski wystawiają ich współpracę na próbę.",
+      "title": "Dziki koń dziewięć",
+      "genre": "Dramat / thriller",
+      "summary": "Przed chilijskim zamachem stanu w 1973 roku dwaj agenci CIA trafiają na Wyspę Wielkanocną, gdzie dawne sekrety i polityczne napięcia komplikują ich misję.",
       "sourceUrl": "https://www.cinema-city.pl/filmy/dziki-kon-dziewiec/8161s2r"
     },
     {
       "date": "2026-11-13",
-      "title": "Ebenezer Scrooge. Opowieść wigilijna",
-      "genre": "Fantasy / dramat gotycki",
-      "summary": "Ti West przenosi klasyczną opowieść Dickensa w gotycki świat duchów i świątecznej magii. W tytułowej roli występuje Johnny Depp.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/ebenezer-scrooge-opowiesc-wigilijna/8344s2r"
-    },
-    {
-      "date": "2026-11-13",
       "title": "Jak obrabować bank",
-      "genre": "Akcja / thriller kryminalny",
-      "summary": "Grupa rabusiów transmituje napady w mediach społecznościowych. Rosnąca popularność ściąga na nich uwagę agenta FBI i specjalistki od oprogramowania.",
+      "genre": "Kryminał / thriller / akcja",
+      "summary": "Grupa rabusiów transmituje napady w mediach społecznościowych. Internetowa sława sprowadza na ich trop agenta FBI i specjalistkę od oprogramowania.",
       "sourceUrl": "https://www.cinema-city.pl/filmy/jak-obrabowac-bank/8309s2r"
     },
     {
       "date": "2026-11-13",
-      "title": "Niech żyją nam",
-      "genre": "Thriller psychologiczny",
-      "summary": "Przygotowania do 40. urodzin Nory zakłócają obcy mężczyźni, którzy pojawiają się na odludnej farmie. Kameralna historia o tajemnicach i utracie poczucia bezpieczeństwa.",
-      "sourceUrl": "https://www.filmweb.pl/film/Niech%2B%C5%BCyj%C4%85%2Bnam-2026-10083687"
+      "title": "Ebenezer Scrooge. Opowieść wigilijna",
+      "genre": "Fantasy",
+      "summary": "Ti West przedstawia historię skąpca nawiedzanego przez ducha dawnego wspólnika i duchy Bożego Narodzenia, które zmuszają go do konfrontacji z własnym życiem.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/ebenezer-scrooge-opowiesc-wigilijna/8344s2r"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+      "genre": "Akcja / thriller sci-fi",
+      "summary": "Młody Haymitch Abernathy zostaje wylosowany do brutalnej edycji Głodowych Igrzysk, na długo przed wydarzeniami pierwszego filmu.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/igrzyska-smierci-wschod-slonca-w-dniu-dozynek/7803s2r"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Przemytnicy",
+      "genre": "Thriller",
+      "summary": "Weteran wojenny zostaje wciągnięty w niebezpieczny przemyt złota, widząc w nim szansę na odzyskanie córki. W rolach głównych Ethan Hawke i Russell Crowe.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/przemytnicy/8585s2r"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hokus: Królestwo magii",
+      "genre": "Animacja / fantasy",
+      "summary": "Nastolatka odkrywa magiczne zdolności i trafia do niezwykłej krainy, gdzie razem z matką odkrywa rodzinne tajemnice.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/hokus-krolestwo-magii/8297d2r"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Violetta Villas",
+      "genre": "Biografia / dramat",
+      "summary": "Portret polskiej divy muzycznej opowiedziany z perspektywy jej syna, od narodzin wielkiej kariery po jej upadek.",
+      "sourceUrl": "https://www.cinema-city.pl/filmy/violetta-villas/8606o2r"
     }
   ],
   "film": {
-    "title": "Rytuał",
-    "year": "2017",
+    "title": "Bulbbul",
+    "year": "2020",
     "platform": "Netflix",
-    "summary": "Po śmierci przyjaciela czwórka znajomych rusza na szlak w szwedzkich górach. Skrót przez odludny las zamienia wyprawę w walkę o przetrwanie, gdy grupa natrafia na coś, czego nie potrafi wyjaśnić.",
-    "availabilityNote": "JustWatch Polska sprawdził katalog 6 listopada 2026 r. i potwierdza dostępność filmu w abonamencie Netflix w Polsce.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/rytual"
+    "summary": "W odizolowanej bengalskiej wiosce seria nadnaturalnych zbrodni splata się z historią kobiety, która skrywa bolesną przeszłość. Gotycka opowieść grozy czerpiąca z lokalnego folkloru.",
+    "availabilityNote": "JustWatch Polska potwierdził 1 listopada 2026 dostępność filmu w abonamencie Netflix w Polsce.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/bulbbul"
   },
-  "editorialUpdatedAt": "2026-11-09",
-  "editorialHash": "a2648247b9e3bd8fd20a7f9a8aa466930b46d84ac81acfb98596744348f10a01"
+  "editorialUpdatedAt": "2026-11-10",
+  "editorialHash": "e2eb84d82935adcf310960fd3316fc9c3438368d68362da68b8a599018f319c1"
 }
