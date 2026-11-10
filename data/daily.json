@@ -1,17 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T09:01+01:00",
+  "updatedAt": "2026-11-10T10:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 7 szybciej niż GTA 6? Prezes Take-Two daje fanom nadzieję",
-    "summary": "Strauss Zelnick stwierdził, że w ciągu najbliższej dekady sposób rozwijania największych marek, w tym GTA, ulegnie zmianie. Następne gry Rockstara powinny powstawać szybciej. Informacja GTA 7 szybciej niż GTA 6? Prezes Take-Two daje fanom nadzieję została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-7-szybciej-niz-gta-6-prezes-take-two-daje-fanom-nadzieje/zd322ae",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531995579.jpg"
+    "title": "Tak miało wyglądać Dragon Age 4 przed The Veilguard. Napady, niszczenie otoczenia i reaktywny świat",
+    "summary": "Były producent BioWare opowiedział o pierwotnej wizji Dragon Age 4. Została ona zapisana w specjalnej książce przygotowanej z myślą o kierownictwie studia i Electronic Arts. Informacja Tak miało wyglądać Dragon Age 4 przed The Veilguard. Napady, niszczenie otoczenia i reaktywny świat została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/tak-mialo-wygladac-dragon-age-4-przed-the-veilguard-napady-niszcz/zc322b3",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532000570.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Tak miało wyglądać Dragon Age 4 przed The Veilguard. Napady, niszczenie otoczenia i reaktywny świat",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tak-mialo-wygladac-dragon-age-4-przed-the-veilguard-napady-niszcz/zc322b3",
+      "publishedAt": "2026-11-10T10:56+01:00",
+      "summary": "Były producent BioWare opowiedział o pierwotnej wizji Dragon Age 4. Została ona zapisana w specjalnej książce przygotowanej z myślą o kierownictwie studia i Electronic Arts. Informacja Tak miało wyglądać Dragon Age 4 przed The Veilguard. Napady, niszczenie otoczenia i reaktywny świat została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532000570.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„PC nie różnią się znacząco od konsol”. Szef Take-Two zaskoczył graczy wypowiedzią o GTA",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pc-nie-roznia-sie-znaczaco-od-konsol-szef-take-two-zaskoczyl-grac/za322b1",
+      "publishedAt": "2026-11-10T10:20+01:00",
+      "summary": "Na 9 dni przed premierą GTA 6 Strauss Zelnick odniósł się do kwestii różnic między pecetami i konsolami oraz do modów. Informacja „PC nie różnią się znacząco od konsol”. Szef Take-Two zaskoczył graczy wypowiedzią o GTA została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531997658.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Tu nie ma łatwych pieniędzy”. Prezes Take-Two o BioShocku 4 i powrocie starych marek",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tu-nie-ma-latwych-pieniedzy-prezes-take-two-o-bioshocku-4-i-powro/z9322b0",
+      "publishedAt": "2026-11-10T09:55+01:00",
+      "summary": "W rozmowie z serwisem GamesIndustry.biz prezes Take-Two wypowiedział się o dwóch wyczekiwanych projektach firmy poza GTA 6. Przyznał, że BioShock 4 miał problemy produkcyjne, a publiczna beta Project Ethos rozczarowała. Informacja „Tu nie ma łatwych pieniędzy”. Prezes Take-Two o BioShocku 4 i powrocie starych marek została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531996602.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 w złocie! Co z wersją PC i wydaniem na płycie w pudełku?",
+      "sourceUrl": "https://www.ppe.pl/news/432704/gta-6-w-zlocie-co-z-wersja-pc-i-wydaniem-na-plycie-w-pudelku.html",
+      "publishedAt": "2026-11-10T09:42+01:00",
+      "summary": "Stało się! To już nie są tylko plotki czy pobożne życzenia fanów - Grand Theft Auto 6 oficjalnie otrzymało złoty status. Oznacza to, że główne prace deweloperskie nad grą zostały w 100 procentach zakończone, a ostateczna wersja kodu jest ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nintendo w opałach. Najwyżej oceniana gra 2026 roku działa idealnie na PC po 4 dniach od premiery",
+      "sourceUrl": "https://www.ppe.pl/news/432712/nintendo-w-opalach-najwyzej-oceniana-gra-2026-roku-dziala-idealnie-na-pc-po-4-dniach-od-premiery.html",
+      "publishedAt": "2026-11-10T09:36+01:00",
+      "summary": "Nintendo utraciło kontrolę nad swoimi exclusivami. Sytuacja z wyrastającymi jak grzyby po deszczu emulatorami, a nawet portami gier ze Switch 2, może niepokoić japońskiego producenta konsol.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 7 szybciej niż GTA 6? Prezes Take-Two daje fanom nadzieję",
@@ -22,6 +65,57 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531995579.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Pierwszy odtwórca Harry’ego Pottera nie wie, czy obejrzy serial HBO. 8 godzin to dla niego za dużo",
+      "sourceUrl": "https://cdaction.pl/kultura/pierwszy-odtworca-harryego-pottera-nie-wie-czy-obejrzy-serial-hbo-8-godzin-to-dla-niego-za-duzo/",
+      "publishedAt": "2026-11-10T09:30+01:00",
+      "summary": "Ten rozdział jest już definitywnie zamknięty?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/11/Harry-Potter.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Podkładki pod klawiaturę i mysz z japońskimi wzorami (800 x 300 mm) za 19,99 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/podkladki-pod-klawiature-i-mysz-z-japonskimi-wzorami-800-x-300-mm-za-1999-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-10T09:28+01:00",
+      "summary": "W ofercie polskiego oddziału sklepu Amazon pojawiła się okazja na podkładki pod mysz i klawiaturę w rozmiarach 80 x 30 cm. Modele nawiązujące swoim wyglądem do samurajów i japońskiej estetyki, kosztują po 19,99 zł. Do wyboru macie trzy wzory. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/podkladka-pod-mysz-i-klawiature-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Red Dead Redemption 2 onieśmiela! Wydawca chwali się nowym konkretem",
+      "sourceUrl": "https://www.ppe.pl/news/432703/red-dead-redemption-2-oniesmiela-wydawca-chwali-sie-nowym-konkretem.html",
+      "publishedAt": "2026-11-10T09:18+01:00",
+      "summary": "Wszyscy mówią teraz tylko o zbliżającej się wielkimi krokami premierze GTA 6, co jest w pełni zrozumiałe, biorąc pod uwagę kaliber tego wydarzenia.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Alan Wake 2 na PS5 w pudełku za 109 zł + 20 zł na kolejne zakupy",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432716/alan-wake-2-na-ps5-w-pudelku-za-109-zl-20-zl-na-kolejne-zakupy.html",
+      "publishedAt": "2026-11-10T09:13+01:00",
+      "summary": "Amazon przygotował na Black Weeks ciekawą ofertę promocyjną.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gamingowy laptop ASUS z RTX 5070, 1 TB SSD, R7 260, 165 Hz przy 1200p z rabatem 1000 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/432715/gamingowy-laptop-asus-z-rtx-5070-1-tb-ssd-r7-260-165-hz-przy-1200p-z-rabatem-1000-zl.html",
+      "publishedAt": "2026-11-10T09:11+01:00",
+      "summary": "Dzięki ofertom Black Weeks w sklepie internetowym X-Kom taniej nabędziemy laptopa firmy ASUS.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 mogło zarobić fortunę na preorderach, ale Take-Two nie chce podać konkretnych liczb. Analitycy policzyli sami",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-moglo-zarobic-fortune-na-preorderach-ale-take-two-nie-chce-podac-konkretnych-liczb-analitycy-policzyli-sami/",
+      "publishedAt": "2026-11-10T09:05+01:00",
+      "summary": "Bogactwo, część główna.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1260x709.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Nowe plakaty serialu Harry Potter od HBO trafiły do sieci. Fanów zainteresowało jednak coś innego",
       "sourceUrl": "https://www.gry-online.pl/newsroom/nowe-plakaty-serialu-harry-potter-od-hbo-trafily-do-sieci-fanow-z/zc322ad",
@@ -29,6 +123,15 @@
       "summary": "Pojawiły się nowe plakaty serialu Harry Potter od HBO z Harrym, Ronem i Hermioną, ale fani zwrócili uwagę na inny szczegół, niż przedstawieni na nich bohaterowie. Informacja Nowe plakaty serialu Harry Potter od HBO trafiły do sieci. Fanów zainteresowało jednak coś innego została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531993703.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw Thrustmaster T248R Shifter Pack z pedałami do PC, PS4 i PS5 za 1299 zł (100 zł taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/zestaw-thrustmaster-t248r-shifter-pack-z-pedalami-do-pc-ps4-i-ps5-za-1299-zl-100-zl-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-10T09:01+01:00",
+      "summary": "Hit Dnia sklepu RTV Euro AGD to dziś możliwość kupienia Thrustmaster T248R Shifter Pack taniej. Kierownica wraz z dźwignią zmiany biegów TH8S i 3 pedałami, kompatybilna z PC oraz konsolami Sony PlayStation 5 i PS4, kosztuje 1299 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/thrustmaster-t248R-shifter-pack-2b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
