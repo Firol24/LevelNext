@@ -1,17 +1,78 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T16:01+01:00",
+  "updatedAt": "2026-11-10T17:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Blizzard zapowiada specjalne wydarzenie Diablo 2: Resurrected na 30. urodziny serii. Graczy czekają wyjątkowe wyzwania i bonusy",
-    "summary": "Świętowanie czas zacząć!",
-    "sourceUrl": "https://cdaction.pl/newsy/blizzard-zapowiada-specjalne-wydarzenie-diablo-2-resurrected-na-30-urodziny-serii-graczy-czekaja-wyjatkowe-wyzwania-i-bonusy/",
-    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/02/diablo2-diablo4.jpg"
+    "title": "Akademia pana Kleksa to najsmutniejsza gra, w jaką grałam w tym roku [RECENZJA WCZESNEGO DOSTĘPU]",
+    "summary": "Nie należy oceniać książki po okładce – święta prawda. Czasem projekty z pozoru głupie, nieznaczące, a nawet zrealizowane po łebkach okazują się genialne. Niestety Akademia pana Kleksa nie jest jednym z tych przypadków.",
+    "sourceUrl": "https://cdaction.pl/recenzje/akademia-pana-kleksa-to-najsmutniejsza-gra-w-jaka-gralam-w-tym-roku-recenzja-wczesnego-dostepu/",
+    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-45-1260x709.jpg"
   },
   "news": [
+    {
+      "sourceName": "CD-Action",
+      "title": "Akademia pana Kleksa to najsmutniejsza gra, w jaką grałam w tym roku [RECENZJA WCZESNEGO DOSTĘPU]",
+      "sourceUrl": "https://cdaction.pl/recenzje/akademia-pana-kleksa-to-najsmutniejsza-gra-w-jaka-gralam-w-tym-roku-recenzja-wczesnego-dostepu/",
+      "publishedAt": "2026-11-10T17:00+01:00",
+      "summary": "Nie należy oceniać książki po okładce – święta prawda. Czasem projekty z pozoru głupie, nieznaczące, a nawet zrealizowane po łebkach okazują się genialne. Niestety Akademia pana Kleksa nie jest jednym z tych przypadków.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-45-1260x709.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Hollow Knight: Silksong dostanie więcej darmowych dodatków! Sea of Sorrow będzie „pierwszym wielkim rozszerzeniem”",
+      "sourceUrl": "https://cdaction.pl/newsy/hollow-knight-silksong-dostanie-wiecej-darmowych-dodatkow-sea-of-sorrow-bedzie-pierwszym-wielkim-rozszerzeniem/",
+      "publishedAt": "2026-11-10T16:45+01:00",
+      "summary": "Fani Hollow Knighta znów oszaleli.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Hollow-Knight-Silksong.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Take-Two chce chronić GTA 6 przed AI. Strach przed utratą pieniędzy to nie jedyny powód",
+      "sourceUrl": "https://www.ppe.pl/news/432736/take-two-chce-chronic-gta-6-przed-ai-strach-przed-utrata-pieniedzy-to-nie-jedyny-powod.html",
+      "publishedAt": "2026-11-10T16:44+01:00",
+      "summary": "Take-Two przygotowuje się do ochrony GTA 6. Wydawca przygotowuje już techniczne i prawne zabezpieczenia, które mają chronić przyszłą wersję PC przed portami AI.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 można już pobierać, a przy okazji Rockstar podeptał nadzieje graczy. Wiemy w ilu klatkach ruszy gra i ile zajmie na Xboksie Series S",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-mozna-juz-pobierac-a-przy-okazji-rockstar-podeptal-nadzieje-graczy-wiemy-w-ilu-klatkach-ruszy-gra-i-ile-zajmie-na-xboksie-series-s/",
+      "publishedAt": "2026-11-10T16:35+01:00",
+      "summary": "No i cześć.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-3-1260x709.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowy Wiedźmin 3 na Switcha, PS4, PS5 i XSX już od 89,99 zł w Perfect Blue",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowy-wiedzmin-3-na-switcha-ps4-ps5-i-xsx-juz-od-8999-zl-w-perfect-blue/",
+      "publishedAt": "2026-11-10T16:25+01:00",
+      "summary": "W Perfect Blue znajdziecie kilka pudełkowych wydań Wiedźmina 3 w dobrych cenach. Wersję na PS4 kupicie za 94,99 zł, na Xbox Series X za 89,99 zł, a edycję na PS5 za 109,99 zł. Szczególnie warto zwrócić uwagę na wydanie na Nintendo Switch za 159,99 zł, które stopniowo znika ze sklepów i może być coraz trudniej dostępne. Tym bardziej że już 29 września 2026 roku zadebiutuje remaster Wiedźmina 3 na Switcha 2, a posiadacze obecnego wydania otrzymają do niego bezpłatny upgrade. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Pudelkowy-Wiedzmin-3-na-Switcha-PS4-PS5-i-XSX-juz-od-8499-zl-w-Perfect-Blue_miniaturka1-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Legend of Zelda: Ocarina of Time Remake doczekała się trybu multiplayer na PC. Gracze mogą grać razem",
+      "sourceUrl": "https://www.ppe.pl/news/432747/the-legend-of-zelda-ocarina-of-time-remake-doczekala-sie-trybu-multiplayer-na-pc-gracze-moga-grac-razem.html",
+      "publishedAt": "2026-11-10T16:20+01:00",
+      "summary": "Nieoficjalna pecetowa wersja The Legend of Zelda: Ocarina of Time Remake doczekała się kolejnej niespodzianki.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Dziś premiera Warhammer Survivors na PC. Najnowszy Bullet Heaven kosztuje tylko 22 zł!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/dzis-premiera-warhammer-survivors-na-pc-najnowszy-bullet-heaven-kosztuje-tylko-22-zl/",
+      "publishedAt": "2026-11-10T16:11+01:00",
+      "summary": "Warhammer Survivors, czyli owoc współpracy studia Auroch Digital i poncle, osadzony w uniwersum Games Workshop, debiutuje dziś na rynku. Jeśli lubicie ten gatunek, spędziliście setki godzin w Vampire Survivors i podobnych tytułach, koła w tej produkcji nie wymyślono na nowo, ale na pewno fani „Młotka” i bullet heaven będą się dobrze bawić. Gra na PC jest dostępna za zaledwie 22 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/warhammer-survivors-miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "CD-Action",
       "title": "Blizzard zapowiada specjalne wydarzenie Diablo 2: Resurrected na 30. urodziny serii. Graczy czekają wyjątkowe wyzwania i bonusy",
