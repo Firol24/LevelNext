@@ -1,17 +1,131 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T12:01+01:00",
+  "updatedAt": "2026-11-10T13:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Harry Potter, Gra o tron, Yellowstone i Star Trek w jednym miejscu. HBO Max i Paramount+ szykują wielkie połączenie na 2027 rok",
-    "summary": "HBO Max i Paramount+ będą dostępne w ramach jednego abonamentu już na początku 2027 roku. David Ellison potwierdził termin uruchomienia wspólnej oferty, która ma być pierwszym krokiem do całkowitego połączenia obu serwisów streamingowych. Informacja Harry Potter, Gra o tron, Yellowstone i Star Trek w jednym miejscu. HBO Max i Paramount+ szykują wielkie połączenie na 2027 rok została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/harry-potter-gra-o-tron-yellowstone-i-star-trek-w-jednym-miejscu/zb322b2",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531999528.jpg"
+    "title": "Gra, która powstawała 14 lat, znów daje znać o sobie. Fani Duke’a Nukema węszą wielki powrót",
+    "summary": "Duke Nukem Forever daje podejrzane oznaki życia jak na tytuł, który niektórzy uznali za martwy już po premierze 15 lat temu. Informacja Gra, która powstawała 14 lat, znów daje znać o sobie. Fani Duke’a Nukema węszą wielki powrót została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gra-ktora-powstawala-14-lat-znow-daje-znac-o-sobie-fani-dukea-nuk/ze322be",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532009605.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gra, która powstawała 14 lat, znów daje znać o sobie. Fani Duke’a Nukema węszą wielki powrót",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gra-ktora-powstawala-14-lat-znow-daje-znac-o-sobie-fani-dukea-nuk/ze322be",
+      "publishedAt": "2026-11-10T13:27+01:00",
+      "summary": "Duke Nukem Forever daje podejrzane oznaki życia jak na tytuł, który niektórzy uznali za martwy już po premierze 15 lat temu. Informacja Gra, która powstawała 14 lat, znów daje znać o sobie. Fani Duke’a Nukema węszą wielki powrót została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532009605.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zdaniem graczy, ten problem w WoW Forever „zabije serwer PvP”. Blizzard pracuje nad przywróceniem balansu między frakcjami",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zdaniem-graczy-ten-problem-w-wow-forever-zabije-serwer-pvp-blizza/za322ba",
+      "publishedAt": "2026-11-10T13:21+01:00",
+      "summary": "W sieci pojawiło się wiele zarzutów wobec Blizzarda, że granie po stronie Przymierza w WoW: Forever jest niegrywalne przez dysproporcje w liczebności frakcji. Deweloper szybko zareagował, ale nie wszystkim podoba się obrany właśnie kurs. Informacja Zdaniem graczy, ten problem w WoW Forever „zabije serwer PvP”. Blizzard pracuje nad przywróceniem balansu między frakcjami została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532008445.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "AMD potwierdziło, że sterownik może po cichu zużywać SSD. Jeden użytkownik stracił 1% zdrowia dysku miesięcznie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/amd-potwierdzilo-ze-sterownik-moze-po-cichu-zuzywac-ssd-jeden-uzy/zd322bd",
+      "publishedAt": "2026-11-10T13:20+01:00",
+      "summary": "Gracze odkryli, że sterowniki AMD obniżają żywotność dysków SSD. Firma przyznała się do problemu i zapewnia, że prowadzone są prace nad odpowiednią łatką. Informacja AMD potwierdziło, że sterownik może po cichu zużywać SSD. Jeden użytkownik stracił 1% zdrowia dysku miesięcznie została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532009019.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kibicuje Diablo 5, ale przestrzega Blizzarda. „Jeśli tworzysz grę dla wszystkich, to stworzysz grę dla nikogo”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworca-poe-kibicuje-diablo-5-ale-przestrzega-blizzarda-jesli-twor/z2322b9",
+      "publishedAt": "2026-11-10T13:05+01:00",
+      "summary": "Współtwórca Path of Exile podzielił się swoim największym zmartwieniem dotyczącym Diablo 5. Obawia się, że Blizzard będzie próbował zadowolić zbyt szerokie grono graczy. Informacja Kibicuje Diablo 5, ale przestrzega Blizzarda. „Jeśli tworzysz grę dla wszystkich, to stworzysz grę dla nikogo” została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532008197.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kolekcjonerka Little Nightmares III Mirror Edition na Nintendo Switch 2 za 209,99 zł (taniej o 90 zł) w Perfect Blue",
+      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/kolekcjonerka-little-nightmares-iii-mirror-edition-na-nintendo-switch-2-za-20999-zl-taniej-o-90-zl-w-perfect-blue/",
+      "publishedAt": "2026-11-10T12:57+01:00",
+      "summary": "W sklepie Perfect Blue obniżono cenę kolekcjonerki Little Nightmares III Mirror Edition. Za wydanie gry na Nintendo Switch 2, zawierające figurkę, steelbook i kilka innych gadżetów, zapłacicie teraz 209,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/little-nightmares-3-mirror-edition-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gasnący blask skórzanej kurtki. Jest pozew, który może zakończyć karierę szefa NVIDIA",
+      "sourceUrl": "https://www.ppe.pl/news/432727/gasnacy-blask-skorzanej-kurtki-jest-pozew-ktory-moze-zakonczyc-kariere-szefa-nvidia.html",
+      "publishedAt": "2026-11-10T12:32+01:00",
+      "summary": "Wydawało się blasku paradującego w skórzanej kurtce Jensena Huanga nie da się zgasić. Szef NVIDIA znalazł się jednak w opałach.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Doładowanie na 430 PLN do PlayStation Store za 350 zł w Media Expert. Zaoszczędź na zakupie GTA VI Ultimate Edition!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/doladowanie-na-430-pln-do-playstation-store-za-350-zl-w-media-expert-zaoszczedz-na-zakupie-gta-vi-ultimate-edition/",
+      "publishedAt": "2026-11-10T12:30+01:00",
+      "summary": "W Media Expert możecie skorzystać ze świetnej promocji na karty podarunkowe PSN. Kupując doładowanie na kwotę 350 PLN, wpisując specjalny kod rabatowy, otrzymacie na maila dodatkowo 80 PLN. W ten sposób będziecie mieć do wykorzystania na gry PS4 i PS5 aż 430 złotych! Wiecie, co to oznacza 🙂 Będziecie mogli w ten sposób taniej kupić Grand Theft Auto VI w bogatszej edycji Ultimate. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/doladowanie-psn-350-PLN-80-ps-store-media-expert-1b-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na planszówki z okazji Allegro Black Weeks. Dobre gry dorwiecie już od 29,95 zł",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/promocje-na-planszowki-z-okazji-allegro-black-weeks-dobre-gry-dorwiecie-juz-od-2995-zl/",
+      "publishedAt": "2026-11-10T12:26+01:00",
+      "summary": "Allegro wystartowało ze swoją wyprzedażą z okazji nadchodzącego Czarnego Piątku. Z tej okazji macie teraz szansę zakupić gry planszowe dużo taniej niż zazwyczaj. Wybraliśmy dla Was kilkadziesiąt ciekawych ofert. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gry-planszowe-Allegro-promocja-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gry cyfrowe wcale nie tak złe? OGROMNY hit 2025 roku taniej o ponad 100 zł względem pudełka",
+      "sourceUrl": "https://www.ppe.pl/news/432723/gry-cyfrowe-wcale-nie-tak-zle-ogromny-hit-2025-roku-taniej-o-ponad-100-zl-wzgledem-pudelka.html",
+      "publishedAt": "2026-11-10T12:22+01:00",
+      "summary": "Wielu graczy z ogromnym sentymentem podchodzi do zbierania fizycznych wydań swoich ulubionych tytułów, regularnie narzekając na rosnącą dominację rynków cyfrowych. Często padają argumenty, że w wirtualnych sklepach trudniej o naprawdę dobre ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "2. sezon „Ahsoki” może przywrócić kolejnego uwielbianego bohatera. Miałby go zagrać aktor z Death Stranding",
+      "sourceUrl": "https://cdaction.pl/kultura/2-sezon-ahsoki-moze-przywrocic-kolejnego-uwielbianego-bohatera-mialby-go-zagrac-aktor-z-death-stranding/",
+      "publishedAt": "2026-11-10T12:15+01:00",
+      "summary": "To byłby już trzeci odtwórca tej roli.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Ahsoka.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zakrzywiony monitor Hisense 34G6Q Pro 240 Hz UWQHD za 1299 zł (200 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/zakrzywiony-monitor-hisense-34g6q-pro-240-hz-uwqhd-za-1299-zl-200-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-10T12:13+01:00",
+      "summary": "Korzystając z kodu zniżkowego, będziecie mogli kupić w niższej cenie Hisense 34G6Q. Monitor w panoramicznym formacie 21:9, z matrycą VA o przekątnej 34 cale, rozdzielczości 3440 x 1440 pikseli, wsparciu dla technologii AMD FreeSync Premium, a dodatkowo posiadający dwa porty HDMI 2.1, kosztuje 1299 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/hisense-34g6q-pro-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy smartfon ze starą pamięcią RAM. Producenci znaleźli sposób na kryzys, który jeszcze niedawno wydawałby się absurdalny",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-smartfon-ze-stara-pamiecia-ram-producenci-znalezli-sposob-na/z1322b8",
+      "publishedAt": "2026-11-10T12:10+01:00",
+      "summary": "Producenci smartfonów radzą sobie z niedoborem podzespołów, odzyskując pamięć RAM ze starych telefonów. Na razie stanowi ona niewielki procent produkcji nowego sprzętu, ale z biegiem czasu udział ma rosnąć. Informacja Nowy smartfon ze starą pamięcią RAM. Producenci znaleźli sposób na kryzys, który jeszcze niedawno wydawałby się absurdalny została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532004703.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 pod presją cenzorów. Zmiany w plikach gry na PS5 w przynajmniej dwóch krajach",
+      "sourceUrl": "https://www.ppe.pl/news/432726/gta-6-pod-presja-cenzorow-zmiany-w-plikach-gry-na-ps5-w-przynajmniej-dwoch-krajach.html",
+      "publishedAt": "2026-11-10T12:06+01:00",
+      "summary": "Branża gier znajduje się pod coraz większą presją ze strony cenzorów. Wygląda na to, że sytuacja dotyczy również GTA 6.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Harry Potter, Gra o tron, Yellowstone i Star Trek w jednym miejscu. HBO Max i Paramount+ szykują wielkie połączenie na 2027 rok",
