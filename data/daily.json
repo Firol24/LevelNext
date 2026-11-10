@@ -1,17 +1,87 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T13:03+01:00",
+  "updatedAt": "2026-11-10T14:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gra, która powstawała 14 lat, znów daje znać o sobie. Fani Duke’a Nukema węszą wielki powrót",
-    "summary": "Duke Nukem Forever daje podejrzane oznaki życia jak na tytuł, który niektórzy uznali za martwy już po premierze 15 lat temu. Informacja Gra, która powstawała 14 lat, znów daje znać o sobie. Fani Duke’a Nukema węszą wielki powrót została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gra-ktora-powstawala-14-lat-znow-daje-znac-o-sobie-fani-dukea-nuk/ze322be",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532009605.jpg"
+    "title": "„Cyberfurasy” trafiły do Battlefield 6. Zdaniem graczy, skiny w FPS-ie coraz bardziej zbliżają się do standardów CoD-a",
+    "summary": "Jeśli wciąż liczyliście na powrót poważniejszej stylistyki do Battlefielda 6, to chyba czas pogodzić się z losem. Kolejne skiny znów zirytowały dużą część społeczności. Informacja „Cyberfurasy” trafiły do Battlefield 6. Zdaniem graczy, skiny w FPS-ie coraz bardziej zbliżają się do standardów CoD-a została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/cyberfurasy-trafily-do-battlefield-6-zdaniem-graczy-skiny-w-fps-i/zb322c1",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532012544.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Cyberfurasy” trafiły do Battlefield 6. Zdaniem graczy, skiny w FPS-ie coraz bardziej zbliżają się do standardów CoD-a",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/cyberfurasy-trafily-do-battlefield-6-zdaniem-graczy-skiny-w-fps-i/zb322c1",
+      "publishedAt": "2026-11-10T14:18+01:00",
+      "summary": "Jeśli wciąż liczyliście na powrót poważniejszej stylistyki do Battlefielda 6, to chyba czas pogodzić się z losem. Kolejne skiny znów zirytowały dużą część społeczności. Informacja „Cyberfurasy” trafiły do Battlefield 6. Zdaniem graczy, skiny w FPS-ie coraz bardziej zbliżają się do standardów CoD-a została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532012544.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wiedźmin 3 dostał nową przygodę z pełnym polskim dubbingiem. Bez AI, za to z 13 aktorami",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-3-dostal-nowa-przygode-z-pelnym-polskim-dubbingiem-bez-a/zc322c2",
+      "publishedAt": "2026-11-10T14:18+01:00",
+      "summary": "Wiedźmin 3 zyskał ciekawą fanowską przygodę: Kroniki Księstwa. Jednym z jej najbardziej imponujących elementów jest fakt, że posiada pełny polski dubbing. Informacja Wiedźmin 3 dostał nową przygodę z pełnym polskim dubbingiem. Bez AI, za to z 13 aktorami została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532012703.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Od razu na 1. miejscu na Prime Video: thriller z wielkim gwiazdorem, który nakręcił dla swojego wieloletniego dublera kaskaderskiego",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/od-razu-na-1-miejscu-na-prime-video-thriller-z-wielkim-gwiazdorem/zb322bb",
+      "publishedAt": "2026-11-10T14:02+01:00",
+      "summary": "Prime Video ma u siebie nowy filmowy przebój. Thriller akcji z Liamem Neesonem w roli głównej prędko wspiął się na pierwsze miejsce listy hitów. Informacja Od razu na 1. miejscu na Prime Video: thriller z wielkim gwiazdorem, który nakręcił dla swojego wieloletniego dublera kaskaderskiego została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532008733.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO City Betoniarka za 108,99 zł (cena katalogowa 169,99 zł) w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-city-betoniarka-za-10899-zl-cena-katalogowa-16999-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-10T13:56+01:00",
+      "summary": "Składający się z 371 elementów zestaw LEGO City Betoniarka, pojawił się w dobrej cenie w polskim oddziale sklepu Amazon, Empiku oraz w serwisie aukcyjnym Allegro. Klocki, z których zbudujecie interaktywny pojazd budowlany, mieszający cement, mogą być wasze za 108,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/lego-city-betoniarka-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nie boi się AI i nie wierzy w łatwe przeboje. Przed premierą GTA 6 szef Take-Two mówi o swoim podejściu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nie-boi-sie-ai-i-nie-wierzy-w-latwe-przeboje-przed-premiera-gta-6/zc322bc",
+      "publishedAt": "2026-11-10T13:55+01:00",
+      "summary": "Strauss Zelnick docenia potencjał AI, ale nie uważa, by miało ono komukolwiek ułatwić tworzenie wielkich przebojów. Informacja Nie boi się AI i nie wierzy w łatwe przeboje. Przed premierą GTA 6 szef Take-Two mówi o swoim podejściu została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532008782.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Koniec kupowania gier w ciemno na Steam Decku! Valve wprowadza przydatną nowość",
+      "sourceUrl": "https://www.ppe.pl/news/432730/koniec-kupowania-gier-w-ciemno-na-steam-decku-valve-wprowadza-przydatna-nowosc.html",
+      "publishedAt": "2026-11-10T13:46+01:00",
+      "summary": "Valve rozwija system oceniania kompatybilności gier ze Steam Deckiem. Po najnowszej aktualizacji klienta Steam, na ekranie zgodności pojawią się rzeczywiste dane dotyczące średniej liczby klatek na sekundę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rockstar szykuje tryb online dla GTA 6? Gracze odkryli trzy tajemnicze wpisy",
+      "sourceUrl": "https://www.ppe.pl/news/432729/rockstar-szykuje-tryb-online-dla-gta-6-gracze-odkryli-trzy-tajemnicze-wpisy.html",
+      "publishedAt": "2026-11-10T13:31+01:00",
+      "summary": "W danych GTA 6 na PlayStation 5 pojawiły się trzy wpisy sugerujące przygotowanie obsługi rozgrywki wieloosobowej. Odkrycia dokonało konto PlayStation Game Size, które analizuje informacje pochodzące z zaplecza PlayStation Store.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nie musicie już czekać na nowe DLC do Wiedźmina 3. Fani stworzyli ambitny dodatek z pełnym dubbingiem",
+      "sourceUrl": "https://cdaction.pl/newsy/nie-musicie-juz-czekac-na-nowe-dlc-do-wiedzmina-3-fani-stworzyli-ambitny-dodatek-z-pelnym-dubbingiem/",
+      "publishedAt": "2026-11-10T13:30+01:00",
+      "summary": "W trakcie oczekiwania na Pieśni przeszłości możemy umilić sobie czas, ogrywając pierwszy rozdział najnowszego fanowskiego dodatku Kroniki Księstwa.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Wiedzmin-3-Kroniki-Ksiestwa.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gra, która powstawała 14 lat, znów daje znać o sobie. Fani Duke’a Nukema węszą wielki powrót",
@@ -20,6 +90,15 @@
       "summary": "Duke Nukem Forever daje podejrzane oznaki życia jak na tytuł, który niektórzy uznali za martwy już po premierze 15 lat temu. Informacja Gra, która powstawała 14 lat, znów daje znać o sobie. Fani Duke’a Nukema węszą wielki powrót została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532009605.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Laptop Lenovo Legion 5 AMD Ryzen 7 250 16GB RAM RTX 5060 za 4740,99 zł w (zamiast 5499 zł) w MediaMarkt",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/laptop-lenovo-legion-5-amd-ryzen-7-250-16gb-ram-rtx-5060-za-474099-zl-w-zamiast-5499-zl-w-mediamarkt/",
+      "publishedAt": "2026-11-10T13:27+01:00",
+      "summary": "Black Weeks w MediaMarkt trwa w najlepsze, a sklep przygotował kolejną promocję, która pozwoli Wam zaoszczędzić na zakupach. Tym razem jest to 70 zł rabatu za każde wydane 500 zł. Przykładowo, wybierając Lenovo Legion 5 w konfiguracji z 16GB RAM z wolnym gniazdem do rozbudowy, procesorem AMD Ryzen 7 250 i kartą graficzną Nvidia GeForce RTX 5060, kosztuje 4740,99 zł. Ważne, by w koszyku znalazł się drugi, biorący udział w akcji produkt. Proponujemy kabel jack 3,5 mm M-M o długości 1,5 metra. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/lenovo-legion-5-15-ai-2b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -40,6 +119,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532009019.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Wielkie gry potrzebują szalonych wizjonerów. Były szef PlayStation wskazuje na kilku z nich",
+      "sourceUrl": "https://www.ppe.pl/news/432728/wielkie-gry-potrzebuja-szalonych-wizjonerow-byly-szef-playstation-wskazuje-na-kilku-z-nich.html",
+      "publishedAt": "2026-11-10T13:15+01:00",
+      "summary": "Hideo Kojima, Ken Levine, Neil Druckmann czy Todd Howard - zdaniem Shawna Laydena to właśnie twórcy z wyrazistą wizją odpowiadają za najważniejsze produkcje w historii branży.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Kibicuje Diablo 5, ale przestrzega Blizzarda. „Jeśli tworzysz grę dla wszystkich, to stworzysz grę dla nikogo”",
       "sourceUrl": "https://www.gry-online.pl/newsroom/tworca-poe-kibicuje-diablo-5-ale-przestrzega-blizzarda-jesli-twor/z2322b9",
@@ -47,6 +134,23 @@
       "summary": "Współtwórca Path of Exile podzielił się swoim największym zmartwieniem dotyczącym Diablo 5. Obawia się, że Blizzard będzie próbował zadowolić zbyt szerokie grono graczy. Informacja Kibicuje Diablo 5, ale przestrzega Blizzarda. „Jeśli tworzysz grę dla wszystkich, to stworzysz grę dla nikogo” została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532008197.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kup doładowanie PS Store, otrzymasz 80 zł gratis. Świetna okazja",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432732/kup-doladowanie-ps-store-otrzymasz-80-zl-gratis-swietna-okazja.html",
+      "publishedAt": "2026-11-10T13:05+01:00",
+      "summary": "Zbliżające się wielkie premiery i trwające w cyfrowych sklepach wyprzedaże to idealny moment na to, by trochę doładować swój wirtualny portfel.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ujawniono listę najlepiej sprzedających się gier PlayStation Studios tej generacji. Nie brakuje zaskoczeń!",
+      "sourceUrl": "https://cdaction.pl/newsy/ujawniono-liste-najlepiej-sprzedajacych-sie-gier-playstation-studios-tej-generacji-nie-brakuje-zaskoczen/",
+      "publishedAt": "2026-11-10T13:00+01:00",
+      "summary": "Szacunki znanego analityka jasno pokazują, czemu Sony porzuca Steama.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/playstation-5904.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
