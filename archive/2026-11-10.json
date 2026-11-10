@@ -1,17 +1,86 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T11:01+01:00",
+  "updatedAt": "2026-11-10T12:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Wyciekły pliki z Half-Life 2: Episode 3. Wrogowie, bronie i nigdy niepokazane mapy z Portala 2",
-    "summary": "Half-Life 2: Episoe 3 i Portal 2 odsłoniły kolejne sekrety, najpewniej za sprawą głośnego 12-terabajtowego przecieku ze Steama. Informacja Wyciekły pliki z Half-Life 2: Episode 3. Wrogowie, bronie i nigdy niepokazane mapy z Portala 2 została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wyciekly-pliki-z-half-life-2-episode-3-wrogowie-bronie-i-nigdy-ni/zd322b4",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532000932.jpg"
+    "title": "Harry Potter, Gra o tron, Yellowstone i Star Trek w jednym miejscu. HBO Max i Paramount+ szykują wielkie połączenie na 2027 rok",
+    "summary": "HBO Max i Paramount+ będą dostępne w ramach jednego abonamentu już na początku 2027 roku. David Ellison potwierdził termin uruchomienia wspólnej oferty, która ma być pierwszym krokiem do całkowitego połączenia obu serwisów streamingowych. Informacja Harry Potter, Gra o tron, Yellowstone i Star Trek w jednym miejscu. HBO Max i Paramount+ szykują wielkie połączenie na 2027 rok została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/harry-potter-gra-o-tron-yellowstone-i-star-trek-w-jednym-miejscu/zb322b2",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531999528.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Harry Potter, Gra o tron, Yellowstone i Star Trek w jednym miejscu. HBO Max i Paramount+ szykują wielkie połączenie na 2027 rok",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/harry-potter-gra-o-tron-yellowstone-i-star-trek-w-jednym-miejscu/zb322b2",
+      "publishedAt": "2026-11-10T12:00+01:00",
+      "summary": "HBO Max i Paramount+ będą dostępne w ramach jednego abonamentu już na początku 2027 roku. David Ellison potwierdził termin uruchomienia wspólnej oferty, która ma być pierwszym krokiem do całkowitego połączenia obu serwisów streamingowych. Informacja Harry Potter, Gra o tron, Yellowstone i Star Trek w jednym miejscu. HBO Max i Paramount+ szykują wielkie połączenie na 2027 rok została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531999528.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Rok temu przepraszali za AI, teraz szukają eksperta od sztucznej inteligencji. 11 bit studios zmienia kurs",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/rok-temu-przepraszali-za-ai-teraz-szukaja-eksperta-od-sztucznej-i/z0322b7",
+      "publishedAt": "2026-11-10T11:59+01:00",
+      "summary": "Rok potrafi zmienić wszystko w branży gier. Jeszcze kilkanaście miesięcy temu 11 bit studios przepraszało za wykorzystanie AI w The Alters i usuwało opracowane za jego pomocą elementy, a dzisiaj firma otwarcie szuka specjalisty od wdrażania tej technologii do procesu produkcyjnego. Informacja Rok temu przepraszali za AI, teraz szukają eksperta od sztucznej inteligencji. 11 bit studios zmienia kurs została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532004348.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PC i konsole niczym się nie różnią? Wydawca GTA 6 zszokował graczy",
+      "sourceUrl": "https://www.ppe.pl/news/432721/pc-i-konsole-niczym-sie-nie-roznia-wydawca-gta-6-zszokowal-graczy.html",
+      "publishedAt": "2026-11-10T11:57+01:00",
+      "summary": "Premiera nowego Grand Theft Auto zbliża się wielkimi krokami, a wokół gry cały czas krążą gorące dyskusje.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LG OLED48B65LA 48″ OLED AI 4K 120Hz Dolby Vision HDMI 2.1 za 2999 zł (1300 zł taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lg-oled48b65la-48-oled-ai-4k-120hz-dolby-vision-hdmi-2-1-za-2999-zl-1300-zl-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-10T11:36+01:00",
+      "summary": "W ofercie sklepu RTV Euro AGD znajdziecie dobrą promocję na mniejszy telewizor z matrycą OLED. LG OLED48B65LA o przekątnej 48 cali, wyposażony w porty HDMI 2.1 oraz wspierający technologię Dolby Vision i Dolby Atmos, kosztuje 2999 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lg-oled-b65la-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Xbox Nano Controller za 206,89 zł w Empiku. Odbierz 50 zł na kolejne zakupy!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/xbox-nano-controller-za-20689-zl-w-empiku-odbierz-50-zl-na-kolejne-zakupy/",
+      "publishedAt": "2026-11-10T11:34+01:00",
+      "summary": "Przystosowany do osób z małymi dłońmi i dzieci pad bezprzewodowy Xbox Nano Controller, zadebiutował już na rynku. Sprzęt możecie kupić w ciekawej promocji w Empiku. Kupując wspomniane akcesorium za 206,89 zł, łapiecie się na akcję 50 zł do wykorzystania na kolejne zakupy. Wystarczy, że zalogujecie się na swoim koncie w sklepie, a po sfinalizowaniu transakcji w ciągu 4 dni otrzymacie eKartę do wykorzystania. Warto się pospieszyć, bowiem promocja kończy się 16 listopada! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/xbox-nano-controller-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tak miał wyglądać Dragon Age 4. Inkluzywne The Veilguard wszystko popsuło",
+      "sourceUrl": "https://www.ppe.pl/news/432720/tak-mial-wygladac-dragon-age-4-inkluzywne-the-veilguard-wszystko-popsulo.html",
+      "publishedAt": "2026-11-10T11:33+01:00",
+      "summary": "Choć legendarne studio BioWare zostało niedawno zamknięte, to echa jego działalności wciąż odbijają się szerokim echem w sieci.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Samolot został ewakuowany, bo pasażer grał w Call of Duty. Rozmowę z kolegą z drużyny pomylono z zagrożeniem terrorystycznym",
+      "sourceUrl": "https://cdaction.pl/newsy/samolot-zostal-ewakuowany-bo-pasazer-gral-w-call-of-duty-rozmowe-z-kolega-z-druzyny-pomylono-z-zagrozeniem-terrorystycznym/",
+      "publishedAt": "2026-11-10T11:30+01:00",
+      "summary": "Niezręczna sytuacja.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/pexels-planespotter-geneva-1877406873-31403077-1-1260x840.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "\"Staroświeckie\" PlayStation właśnie zostało w tyle za Steam, Xbox i Nintendo",
+      "sourceUrl": "https://www.ppe.pl/news/432724/staroswieckie-playstation-wlasnie-zostalo-w-tyle-za-steam-xbox-i-nintendo.html",
+      "publishedAt": "2026-11-10T11:30+01:00",
+      "summary": "Wiemy już, że oficjalnie Nintendo wprowadzi za kilka dni możliwość podarowywania cyfrowych wersji gier na eShop. Co z taką możliwością na PlayStation Store?",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Wyciekły pliki z Half-Life 2: Episode 3. Wrogowie, bronie i nigdy niepokazane mapy z Portala 2",
@@ -22,6 +91,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532000932.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "GTA 7 na PS6 i Xbox Project Helix? Wydawca GTA 6 ZAPOWIADA drastyczną zmianę",
+      "sourceUrl": "https://www.ppe.pl/news/432718/gta-7-na-ps6-i-xbox-project-helix-wydawca-gta-6-zapowiada-drastyczna-zmiane.html",
+      "publishedAt": "2026-11-10T11:14+01:00",
+      "summary": "Premiera Grand Theft Auto 6 (gry, która jest w złocie) jest już na wyciągnięcie ręki. Po trzynastu długich latach czekania, lada moment w końcu odpalimy nową odsłonę tej kultowej serii.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "NVIDIA może zapłacić ogromne odszkodowania. Inwestorzy oskarżają firmę o wprowadzanie ich w błąd w sprawie romansu Jensena Huanga",
       "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-moze-zaplacic-ogromne-odszkodowania-inwestorzy-oskarzaja-f/ze322b5",
@@ -29,6 +106,15 @@
       "summary": "NVIDIA mierzy się z konsekwencjami czynów Jensena Huanga. W kuluarach mówi się o pozwach ze strony inwestorów, którzy uważają, że firma ukrywała prawdę na temat relacji CEO. Informacja NVIDIA może zapłacić ogromne odszkodowania. Inwestorzy oskarżają firmę o wprowadzanie ich w błąd w sprawie romansu Jensena Huanga została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532001333.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka Anker Nano 100W z kablem USB-C za 75 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-anker-nano-100w-z-kablem-usb-c-za-75-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-10T11:04+01:00",
+      "summary": "Wygodna ładowarka firmy Anker, którą naładujecie sprzęt firmy Apple, Samsung, czy też pozostałe urządzenia wyposażone w port USB-C, pojawiła się w promocyjnej cenie w polskim oddziale sklepu Amazon. Model Nano o mocy 100W, może być wasz za 75,05 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/anker-nano-100W-3b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -41,11 +127,28 @@
     },
     {
       "sourceName": "PPE",
+      "title": "AI zmienia branżę gier. Ta strzelanka powstała w 8 godzin i zagrasz w nią w przeglądarce",
+      "sourceUrl": "https://www.ppe.pl/news/432722/ai-zmienia-branze-gier-ta-strzelanka-powstala-w-8-godzin-i-zagrasz-w-nia-w-przegladarce.html",
+      "publishedAt": "2026-11-10T11:02+01:00",
+      "summary": "Anthropic w nocy zademonstrowało swój nowy model Fable 5.2. Gracze już mogą sprawdzać, co można osiągnąć z Fable 5.2 w zaledwie kilka godzin.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
       "title": "Warhammer Survivors - recenzja gry. Warhammer w pikselach wciąż rządzi",
       "sourceUrl": "https://www.ppe.pl/recenzje/432647/warhammer-survivors-recenzja-gry-warhammer-w-pikselach-wciaz-rzadzi.html",
       "publishedAt": "2026-11-10T11:00+01:00",
       "summary": "Oficjalny crossover wciągającej i definiującej gatunek gry Vampire Survivors z niezwykle popularnym uniwersum Warhammera brzmi jak połączenie idealne, choć nie powiem zaskakujące. Inna sprawa, że nie mamy tu do czynienia z wysokobudżetową prod...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Cliff Bleszinski walczy z Epikiem o prawa do kultowej serii Jazz Jackrabbit. Twórca Gears of War nie wyklucza duchowego następcy",
+      "sourceUrl": "https://cdaction.pl/newsy/cliff-bleszinski-walczy-z-epikiem-o-prawa-do-kultowej-serii-jazz-jackrabbit-tworca-gears-of-war-nie-wyklucza-duchowego-nastepcy/",
+      "publishedAt": "2026-11-10T11:00+01:00",
+      "summary": "Pamiętacie Jazza Jackrabbita, czyli pecetową odpowiedź na Mario i Sonica?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Jazz-Jackrabbit-2.jpeg"
     },
     {
       "sourceName": "GRY-Online",
