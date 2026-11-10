@@ -1,17 +1,34 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T22:01+01:00",
+  "updatedAt": "2026-11-10T23:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Legenda powróciła i próbuje zachwycać jak 25 lat temu. Ale dla części graczy nowe Icy Tower to nostalgiczny skok na kasę",
-    "summary": "Kultowa platformówka powróciła, a jej nowa wersja zbiera na Steamie bardzo dobre oceny. Nie wszyscy są jednak zachwyceni rebootem Icy Tower – część graczy uważa, że twórcy zbyt mocno polegają na nostalgii. Informacja Legenda powróciła i próbuje zachwycać jak 25 lat temu. Ale dla części graczy nowe Icy Tower to nostalgiczny skok na kasę została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/legenda-powrocila-i-probuje-zachwycac-jak-25-lat-temu-ale-dla-wie/z1322d6",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532042097.jpg"
+    "category": "PROMOCJE",
+    "title": "Gra Dying Light na PC za grosze. Klucz Steam z wydaniem Essentials Edition za 5 zł w Kinguinie!",
+    "summary": "W cyfrowym sklepie Kinguin, wykorzystując specjalny kod zniżkowy, możecie zakupić tanio Dying Light Essentials Edition na PC. Podstawowe wydanie gry w pakiecie z aż 10 DLC (głównie pakiety przedmiotów kosmetycznych) dostępne jest w historycznie najniższej cenie. Za klucz Steam zapłacicie nieco ponad 5 zł! Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/keyshopy/gra-dying-light-na-pc-za-grosze-klucz-steam-z-wydaniem-essentials-edition-za-5-zl-w-kinguinie/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gra-Dying-Light-na-PC-za-grosze.-Klucz-Steam-z-wydaniem-Essentials-Edition-za-5-zl-w-Kinguinie_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gra Dying Light na PC za grosze. Klucz Steam z wydaniem Essentials Edition za 5 zł w Kinguinie!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/gra-dying-light-na-pc-za-grosze-klucz-steam-z-wydaniem-essentials-edition-za-5-zl-w-kinguinie/",
+      "publishedAt": "2026-11-10T22:43+01:00",
+      "summary": "W cyfrowym sklepie Kinguin, wykorzystując specjalny kod zniżkowy, możecie zakupić tanio Dying Light Essentials Edition na PC. Podstawowe wydanie gry w pakiecie z aż 10 DLC (głównie pakiety przedmiotów kosmetycznych) dostępne jest w historycznie najniższej cenie. Za klucz Steam zapłacicie nieco ponad 5 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gra-Dying-Light-na-PC-za-grosze.-Klucz-Steam-z-wydaniem-Essentials-Edition-za-5-zl-w-Kinguinie_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "FromSoftware ma poważny problem! Ekskluzywna gra Nintendo Switch 2 trafiła na PC",
+      "sourceUrl": "https://www.ppe.pl/news/432762/fromsoftware-ma-powazny-problem-ekskluzywna-gra-nintendo-switch-2-trafila-na-pc.html",
+      "publishedAt": "2026-11-10T22:31+01:00",
+      "summary": "The Duskbloods, czyli nadchodząca produkcja FromSoftware przygotowywana wyłącznie na Nintendo Switch 2, doczekała się nieoficjalnego uruchomienia na komputerach.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Legenda powróciła i próbuje zachwycać jak 25 lat temu. Ale dla części graczy nowe Icy Tower to nostalgiczny skok na kasę",
@@ -20,6 +37,14 @@
       "summary": "Kultowa platformówka powróciła, a jej nowa wersja zbiera na Steamie bardzo dobre oceny. Nie wszyscy są jednak zachwyceni rebootem Icy Tower – część graczy uważa, że twórcy zbyt mocno polegają na nostalgii. Informacja Legenda powróciła i próbuje zachwycać jak 25 lat temu. Ale dla części graczy nowe Icy Tower to nostalgiczny skok na kasę została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532042097.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation kasuje kolejną grę! Nie będzie drugiego Concorda",
+      "sourceUrl": "https://www.ppe.pl/news/432781/playstation-kasuje-kolejna-gre-nie-bedzie-drugiego-concorda.html",
+      "publishedAt": "2026-11-10T22:20+01:00",
+      "summary": "Pojawiły się nowe wieści w sprawie gry Fairgames. Jednak nie są to najlepsze wieści, ponieważ według najnowszego raportu zapowiedziany kilka lat temu tytuł został anulowany.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
