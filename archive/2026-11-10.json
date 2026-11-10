@@ -1,17 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T19:01+01:00",
+  "updatedAt": "2026-11-10T20:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "PS Plus Extra i Premium na listopad 2026: Sony ujawniło 10 gier. Są wśród nich hity pokroju Death Stranding 2 i Atomfall",
-    "summary": "Za tydzień do PS Plusa Extra i Premium trafi 10 nowych produkcji. Sony przygotowało naprawdę niezłą ofertę, w której pierwsze skrzypce grają Death Stranding 2: On the Beach, Like a Dragon: Pirate Yakuza in Hawaii i Atomfall. Informacja PS Plus Extra i Premium na listopad 2026: Sony ujawniło 10 gier. Są wśród nich hity pokroju Death Stranding 2 i Atomfall została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/ps-plus-extra-i-premium-na-listopad-2026-sony-ujawnilo-10-gier-sa/zc322d1",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532030531.jpg"
+    "title": "Koniec grania w gry z PlayStation na PC. Sony zabije aplikację PS Plus, tłumacząc, że korzystało z niej 0,4% graczy",
+    "summary": "Pecetowi użytkownicy PlayStation Plus stracą dostęp do oficjalnej aplikacji, a wraz z nią do streamingu gier z konsol Sony. Japoński gigant przekonuje, że korzystała z niej zaledwie garstka subskrybentów. Informacja Koniec grania w gry z PlayStation na PC. Sony zabije aplikację PS Plus, tłumacząc, że korzystało z niej 0,4% graczy została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/koniec-grania-w-gry-z-playstation-na-pc-sony-zabije-aplikacje-ps/ze322d3",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532035636.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Koniec grania w gry z PlayStation na PC. Sony zabije aplikację PS Plus, tłumacząc, że korzystało z niej 0,4% graczy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/koniec-grania-w-gry-z-playstation-na-pc-sony-zabije-aplikacje-ps/ze322d3",
+      "publishedAt": "2026-11-10T20:49+01:00",
+      "summary": "Pecetowi użytkownicy PlayStation Plus stracą dostęp do oficjalnej aplikacji, a wraz z nią do streamingu gier z konsol Sony. Japoński gigant przekonuje, że korzystała z niej zaledwie garstka subskrybentów. Informacja Koniec grania w gry z PlayStation na PC. Sony zabije aplikację PS Plus, tłumacząc, że korzystało z niej 0,4% graczy została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532035636.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Weterani BioWare tworzą „ruch oporu”, by uratować Mass Effect i Dragon Age. Wyrwanie serii z rąk EA będzie jednak trudne",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/weterani-bioware-tworza-ruch-oporu-by-uratowac-mass-effect-i-drag/zd322d2",
+      "publishedAt": "2026-11-10T20:09+01:00",
+      "summary": "Dawni twórcy ze studia BioWare bardzo chętnie ponownie połączą siły, aby uratować Mass Effect i Dragon Age. Entuzjazm deweloperów może jednak nie wystarczyć, ponieważ Electronic Arts nadal posiada prawa do tych dwóch serii. Informacja Weterani BioWare tworzą „ruch oporu”, by uratować Mass Effect i Dragon Age. Wyrwanie serii z rąk EA będzie jednak trudne została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532033705.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 pobiło rekord Cyberpunka 2077? Analitycy ujawnili imponujące wyniki",
+      "sourceUrl": "https://www.ppe.pl/news/432740/gta-6-pobilo-rekord-cyberpunka-2077-analitycy-ujawnili-imponujace-wyniki.html",
+      "publishedAt": "2026-11-10T20:01+01:00",
+      "summary": "GTA 6 może już być nowym królem przedsprzedaży. Według szacunków firmy analitycznej Sensor Tower gra zebrała 9,69 mln zamówień przedpremierowych.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Koniec PlayStation Plus na PC. Sony wycofuje aplikację do grania w chmurze na komputerach!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/koniec-playstation-plus-na-pc-sony-wycofuje-aplikacje-do-grania-w-chmurze-na-komputerach/",
+      "publishedAt": "2026-11-10T19:37+01:00",
+      "summary": "Łowcy, od początku roku docierały do nas wieści, że firma Sony będzie rezygnować z wydawania swoich tytułów ekskluzywnych poza środowisko konsolowe. Dziś japoński gigant postanowił iść o krok dalej, ogłaszając całkowite wycofanie aplikacji PlayStation Plus na PC. Oznacza to, że od 10 grudnia posiadacze abonamentu PS+ Premium nie będą mogli już uruchomić żadnych tytułów na komputerach. Do tej pory granie w chmurze stanowiło swego rodzaju obejście dla produkcji wydanych wyłącznie na PlayStation 5 oraz starszych sprzętach od Sony. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Koniec-PlayStation-Plus-na-PC.-Sony-wycofuje-aplikacje-do-grania-w-chmurze-na-komputerach_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Until Dawn 2 nie zmieni się pod jednym względem. Twórcy horroru na PS5 potwierdzili ważną decyzję",
+      "sourceUrl": "https://www.ppe.pl/news/432748/until-dawn-2-nie-zmieni-sie-pod-jednym-wzgledem-tworcy-horroru-playstation-potwierdzili-wazna-decyzje.html",
+      "publishedAt": "2026-11-10T19:31+01:00",
+      "summary": "Firesprite potwierdziło, że Until Dawn 2 będzie przygodą przeznaczoną wyłącznie dla jednego gracza.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "PS Plus Extra i Premium na listopad 2026: Sony ujawniło 10 gier. Są wśród nich hity pokroju Death Stranding 2 i Atomfall",
@@ -20,6 +63,31 @@
       "summary": "Za tydzień do PS Plusa Extra i Premium trafi 10 nowych produkcji. Sony przygotowało naprawdę niezłą ofertę, w której pierwsze skrzypce grają Death Stranding 2: On the Beach, Like a Dragon: Pirate Yakuza in Hawaii i Atomfall. Informacja PS Plus Extra i Premium na listopad 2026: Sony ujawniło 10 gier. Są wśród nich hity pokroju Death Stranding 2 i Atomfall została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532030531.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy film z serii Koszmar z ulicy Wiązów stracił konkurencyjny projekt. Warner Bros. rezygnuje",
+      "sourceUrl": "https://www.ppe.pl/news/432779/nowy-film-z-serii-koszmar-z-ulicy-wiazow-stracil-konkurencyjny-projekt-warner-bros-rezygnuje.html",
+      "publishedAt": "2026-11-10T19:15+01:00",
+      "summary": "Warner Bros. nie rozwija już własnego projektu nowego filmu z serii „Koszmar z ulicy Wiązów”. Jak informuje serwis Dread Central, studio zakończyło prace nad konkurencyjną produkcją, przy której scenariusz i reżyserię miał przejąć Lee ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "PS Plus w listopadzie daje nowe hity, ale zabiera stare. Piraci, postapokalipsa i Kojima",
+      "sourceUrl": "https://cdaction.pl/newsy/ps-plus-w-listopadzie-daje-nowe-hity-ale-zabiera-stare-piraci-postapokalipsa-i-kojima/",
+      "publishedAt": "2026-11-10T19:09+01:00",
+      "summary": "Interesujący wybór.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/death-stranding1234-1260x530.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rockstar sprzedaje prawdziwe auto z GTA 6. Cena zwala z nóg!",
+      "sourceUrl": "https://www.ppe.pl/news/432744/rockstar-sprzedaje-prawdziwe-auto-z-gta-6-cena-zwala-z-nog.html",
+      "publishedAt": "2026-11-10T19:04+01:00",
+      "summary": "Rockstar Games połączyło siły z West Coast Customs, aby przenieść jeden z samochodów z GTA 6 do prawdziwego świata. Efekt?",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
