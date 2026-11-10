@@ -1,16 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T21:01+01:00",
+  "updatedAt": "2026-11-10T21:12+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Straż wiejska 3 (2026) - recenzja filmu [Disney]. Miłość nie wybiera... Zwykle",
-    "summary": "Dwadzieścia pięć lat po premierze części pierwszej, najbardziej nieogarnięta policja stanowa powraca z nową sprawą. W rejonie pojawił się nowy narkotyk, zwany \"kanadyjskim kryształem\", lecz to nie to jest największym problemem Thorny'ego, a ...",
-    "sourceUrl": "https://www.ppe.pl/recenzje/432756/straz-wiejska-3-2026-recenzja-filmu-disney-milosc-nie-wybiera-zwykle.html"
+    "title": "Sony dostało nagrodę dla „szemranych” firm. Wszystko przez rezygnację z gier na płytach i manipulacje w PS Store",
+    "summary": "Przyznano Shonky Award 2026, nagrody dla „szemranych” firm, produktów i usług. W tym roku w galerii hańby znalazło się m.in. Sony. Informacja Sony dostało nagrodę dla „szemranych” firm. Wszystko przez rezygnację z gier na płytach i manipulacje w PS Store została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/sony-dostalo-nagrode-dla-szemranych-firm-wszystko-przez-rezygnacj/z0322d5",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532040859.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Sony dostało nagrodę dla „szemranych” firm. Wszystko przez rezygnację z gier na płytach i manipulacje w PS Store",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/sony-dostalo-nagrode-dla-szemranych-firm-wszystko-przez-rezygnacj/z0322d5",
+      "publishedAt": "2026-11-10T22:07+01:00",
+      "summary": "Przyznano Shonky Award 2026, nagrody dla „szemranych” firm, produktów i usług. W tym roku w galerii hańby znalazło się m.in. Sony. Informacja Sony dostało nagrodę dla „szemranych” firm. Wszystko przez rezygnację z gier na płytach i manipulacje w PS Store została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532040859.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Straż wiejska 3 (2026) - recenzja filmu [Disney]. Miłość nie wybiera... Zwykle",
