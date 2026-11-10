@@ -1,17 +1,75 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T17:01+01:00",
+  "updatedAt": "2026-11-10T18:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Akademia pana Kleksa to najsmutniejsza gra, w jaką grałam w tym roku [RECENZJA WCZESNEGO DOSTĘPU]",
-    "summary": "Nie należy oceniać książki po okładce – święta prawda. Czasem projekty z pozoru głupie, nieznaczące, a nawet zrealizowane po łebkach okazują się genialne. Niestety Akademia pana Kleksa nie jest jednym z tych przypadków.",
-    "sourceUrl": "https://cdaction.pl/recenzje/akademia-pana-kleksa-to-najsmutniejsza-gra-w-jaka-gralam-w-tym-roku-recenzja-wczesnego-dostepu/",
-    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-45-1260x709.jpg"
+    "title": "Gracze przeszli samych siebie, zbierając rekordową sumę na szczytny cel. Twórcy Phasmophobii od razu ich nagrodzili",
+    "summary": "Gracze survival horroru Phasmophobia zebrali imponującą sumę na cel charytatywny. Twórcy gry w zamian przygotowali nagrodę dla społeczności i zapowiedzieli nadejście dużej aktualizacji do wspomnianego tytułu. Informacja Gracze przeszli samych siebie, zbierając rekordową sumę na szczytny cel. Twórcy Phasmophobii od razu ich nagrodzili została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-przeszli-samych-siebie-zbierajac-rekordowa-sume-na-szczytn/z0322cf",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532026253.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracze przeszli samych siebie, zbierając rekordową sumę na szczytny cel. Twórcy Phasmophobii od razu ich nagrodzili",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-przeszli-samych-siebie-zbierajac-rekordowa-sume-na-szczytn/z0322cf",
+      "publishedAt": "2026-11-10T18:05+01:00",
+      "summary": "Gracze survival horroru Phasmophobia zebrali imponującą sumę na cel charytatywny. Twórcy gry w zamian przygotowali nagrodę dla społeczności i zapowiedzieli nadejście dużej aktualizacji do wspomnianego tytułu. Informacja Gracze przeszli samych siebie, zbierając rekordową sumę na szczytny cel. Twórcy Phasmophobii od razu ich nagrodzili została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532026253.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS Plus Extra i Premium na listopad. Sony zaskakuje i za chwilę dorzuci masę hitowych gier",
+      "sourceUrl": "https://www.ppe.pl/news/432774/ps-plus-extra-i-premium-na-listopad-sony-zaskakuje-i-za-chwile-dorzuci-mase-hitowych-gier.html",
+      "publishedAt": "2026-11-10T18:00+01:00",
+      "summary": "Sony zrobiło sporą niespodziankę wszystkim użytkownikom najatrakcyjniejszych wariantów Plusa. Właśnie poznaliśmy zestaw gier, które już za kilka dni trafią do oferty PlayStation Plus Extra i PlayStation Plus Premium.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Microsoft nawiązał długą współpracę z wydawcą GTA 6. Hity Rockstara wkrótce trafią do chmury",
+      "sourceUrl": "https://www.ppe.pl/news/432768/microsoft-nawiazal-dluga-wspolprace-z-wydawca-gta-6-hity-rockstara-wkrotce-trafia-do-chmury.html",
+      "publishedAt": "2026-11-10T17:41+01:00",
+      "summary": "Potwierdziły się spekulacje i marzenia fanów Xbox, którzy cenią sobie gry wypuszczane przez Rockstar Games. Już wkrótce GTA 6 i inne kultowe gry firmy staną się częścią usługi Xbox Cloud Gaming.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin 3 Remastered na PS5, XSX i NS2 w pudełku od 89 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/432773/wiedzmin-3-remastered-na-ps5-xsx-i-ns2-w-pudelku-od-89-zl.html",
+      "publishedAt": "2026-11-10T17:39+01:00",
+      "summary": "Sklep Perfect Blue uśmiechnął się do wszystkich fanów Wiedźmina 3 chcących spróbować po taniości wersji Remastered.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Motorola G67 do nawet 12 GB RAM, 256 GB, 5200 mAh, AMOLED 120 Hz poniżej 900 zł + baterie AA",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/smartfony-1/432772/motorola-g67-do-nawet-12-gb-ram-256-gb-5200-mah-amoled-120-hz-ponizej-900-zl-baterie-aa.html",
+      "publishedAt": "2026-11-10T17:36+01:00",
+      "summary": "W sklepie Media Markt możemy nabyć wyjątkowo dobry smartfon firmy Motorola.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "ARC Raiders przekroczyło 17 milionów sprzedanych kopii. Twórcy mają ambitne plany",
+      "sourceUrl": "https://www.ppe.pl/news/432750/arc-raiders-przekroczylo-17-milionow-sprzedanych-kopii-tworcy-maja-ambitne-plany.html",
+      "publishedAt": "2026-11-10T17:31+01:00",
+      "summary": "ARC Raiders przekroczyło granicę 17 milionów sprzedanych egzemplarzy. Imponujący wynik ujawnił Nexon w raporcie finansowym za trzeci kwartał 2026 roku.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na doładowania do PlayStation Store. Giftcard 300 PLN za 283,69 zł w Instant Gaming!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/promocja-na-doladowania-do-playstation-store-giftcard-300-pln-za-28369-zl-w-instant-gaming/",
+      "publishedAt": "2026-11-10T17:24+01:00",
+      "summary": "Do oferty cyfrowego sklepu Instant Gaming powróciła promocja na karty podarunkowe PSN. W ramach ofert kartę podarunkową do PlayStation Store o wartości 300 PLN możecie zakupić już za 283,69 zł. Taniej dostępne są także znacznie wyższe nominały. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/300-500-pln-playstation-store-psn-2b-224x224.jpg"
+    },
     {
       "sourceName": "CD-Action",
       "title": "Akademia pana Kleksa to najsmutniejsza gra, w jaką grałam w tym roku [RECENZJA WCZESNEGO DOSTĘPU]",
@@ -48,6 +106,15 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-3-1260x709.jpg"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "GTA San Andreas skrywa brutalną historię prawdziwej wojny gangów. W 1992 roku Los Angeles stanęło w ogniu, a Rockstar wykorzystał to w grze",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-san-andreas-skrywa-brutalna-historie-prawdziwej-wojny-gangow/z0322c6",
+      "publishedAt": "2026-11-10T16:30+01:00",
+      "summary": "Twórcy serii Grand Theft Auto słyną z dbałości o najdrobniejsze detale w swoich grach, z pomysłowych, czasem zaskakujących skojarzeń z realnym światem. Nie inaczej jest w kwestii ponurego świata gangów w fikcyjnym Los Santos i prawdziwym Mieście Aniołów. Informacja GTA San Andreas skrywa brutalną historię prawdziwej wojny gangów. W 1992 roku Los Angeles stanęło w ogniu, a Rockstar wykorzystał to w grze została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532013948.jpg"
+    },
+    {
       "sourceName": "Łowcy Gier",
       "title": "Pudełkowy Wiedźmin 3 na Switcha, PS4, PS5 i XSX już od 89,99 zł w Perfect Blue",
       "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowy-wiedzmin-3-na-switcha-ps4-ps5-i-xsx-juz-od-8999-zl-w-perfect-blue/",
@@ -65,6 +132,24 @@
       "category": "WIADOMOŚCI"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "Niedługo uwielbiane Fallout New Vegas ogracie w całkowicie nowy sposób. Nadchodzi papierowe RPG na bazie produkcji Obsidianu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/niedlugo-uwielbiane-fallout-new-vegas-ogracie-w-calkowicie-nowy-s/zf322ce",
+      "publishedAt": "2026-11-10T16:20+01:00",
+      "summary": "Nowy dodatek do Fallout RPG przeniesie was na piaszczyste pustkowia rodem z New Vegas. Podręcznik w języku angielskim jest już dostępny. Informacja Niedługo uwielbiane Fallout New Vegas ogracie w całkowicie nowy sposób. Nadchodzi papierowe RPG na bazie produkcji Obsidianu została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532019925.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Vampire Survivors w świecie Warhammera zadebiutowało z wysokimi ocenami i prawie 10 tysiącami osób naraz na Steamie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/vampire-survivors-w-swiecie-warhammera-zadebiutowalo-z-wysokimi-o/zd322cc",
+      "publishedAt": "2026-11-10T16:15+01:00",
+      "summary": "Premiera Warhammer Survivors już za nami. Gra zbiera dobre recenzje, zarówno od mediów branżowych, jak i graczy. Informacja Vampire Survivors w świecie Warhammera zadebiutowało z wysokimi ocenami i prawie 10 tysiącami osób naraz na Steamie została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532018472.jpg"
+    },
+    {
       "sourceName": "Łowcy Gier",
       "title": "Dziś premiera Warhammer Survivors na PC. Najnowszy Bullet Heaven kosztuje tylko 22 zł!",
       "sourceUrl": "https://lowcygier.pl/keyshopy/dzis-premiera-warhammer-survivors-na-pc-najnowszy-bullet-heaven-kosztuje-tylko-22-zl/",
@@ -72,6 +157,15 @@
       "summary": "Warhammer Survivors, czyli owoc współpracy studia Auroch Digital i poncle, osadzony w uniwersum Games Workshop, debiutuje dziś na rynku. Jeśli lubicie ten gatunek, spędziliście setki godzin w Vampire Survivors i podobnych tytułach, koła w tej produkcji nie wymyślono na nowo, ale na pewno fani „Młotka” i bullet heaven będą się dobrze bawić. Gra na PC jest dostępna za zaledwie 22 zł. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/warhammer-survivors-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 na wszystkich konsolach w 30 klatkach na sekundę. Nowy zwiastun już w sieci",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-na-konsolach-w-30-klatkach-na-sekunde-nowy-zwiastun-juz-w-s/ze322cd",
+      "publishedAt": "2026-11-10T16:09+01:00",
+      "summary": "Do sieci trafił nowy zwiastun Grand Theft Auto VI. Rockstar Games ujawniło też pierwsze szczegóły techniczne wydań konsolowych. Informacja GTA 6 na wszystkich konsolach w 30 klatkach na sekundę. Nowy zwiastun już w sieci została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532019298.jpg"
     },
     {
       "sourceName": "CD-Action",
