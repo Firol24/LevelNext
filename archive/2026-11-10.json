@@ -1,17 +1,113 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T14:01+01:00",
+  "updatedAt": "2026-11-10T15:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„Cyberfurasy” trafiły do Battlefield 6. Zdaniem graczy, skiny w FPS-ie coraz bardziej zbliżają się do standardów CoD-a",
-    "summary": "Jeśli wciąż liczyliście na powrót poważniejszej stylistyki do Battlefielda 6, to chyba czas pogodzić się z losem. Kolejne skiny znów zirytowały dużą część społeczności. Informacja „Cyberfurasy” trafiły do Battlefield 6. Zdaniem graczy, skiny w FPS-ie coraz bardziej zbliżają się do standardów CoD-a została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/cyberfurasy-trafily-do-battlefield-6-zdaniem-graczy-skiny-w-fps-i/zb322c1",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532012544.jpg"
+    "title": "Zaledwie 10 linijek kodu wygenerowanych z pomocą AI wywołało kontrowersje. Twórcy Big Walk przepraszają, choć chatbot uratował wydajność gry",
+    "summary": "Zespół House House Games wytłumaczył, jak wykorzystał AI w swojej grze, i podkreśla, że nie chce normalizacji generatywnej sztucznej inteligencji w branży gier. Informacja Zaledwie 10 linijek kodu wygenerowanych z pomocą AI wywołało kontrowersje. Twórcy Big Walk przepraszają, choć chatbot uratował wydajność gry została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/zaledwie-10-linijek-kodu-wygenerowanych-z-pomoca-ai-wywolalo-kont/zc322cb",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532017379.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zaledwie 10 linijek kodu wygenerowanych z pomocą AI wywołało kontrowersje. Twórcy Big Walk przepraszają, choć chatbot uratował wydajność gry",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zaledwie-10-linijek-kodu-wygenerowanych-z-pomoca-ai-wywolalo-kont/zc322cb",
+      "publishedAt": "2026-11-10T15:50+01:00",
+      "summary": "Zespół House House Games wytłumaczył, jak wykorzystał AI w swojej grze, i podkreśla, że nie chce normalizacji generatywnej sztucznej inteligencji w branży gier. Informacja Zaledwie 10 linijek kodu wygenerowanych z pomocą AI wywołało kontrowersje. Twórcy Big Walk przepraszają, choć chatbot uratował wydajność gry została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532017379.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Autor grafik z wiedźmińskiej kolekcji Medicine oskarżony o użycie AI. Artysta odpowiada: „absolutnie zero AI” i pokazuje dowody",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/autor-grafik-z-wiedzminskiej-kolekcji-medicine-oskarzony-o-uzycie/z3322c9",
+      "publishedAt": "2026-11-10T15:35+01:00",
+      "summary": "W sieci wybuchła dyskusja o grafikach z kolekcji ubrań z motywami z Wiedźmina marki Medicine. Część użytkowników uważa, że powstały z użyciem AI, czemu zdecydowanie zaprzecza ich autor. Informacja Autor grafik z wiedźmińskiej kolekcji Medicine oskarżony o użycie AI. Artysta odpowiada: „absolutnie zero AI” i pokazuje dowody została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532016899.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Steam dostał funkcję, której od dawna brakowało graczom. Teraz pokazuje rzeczywiste FPS-y z tysięcy gier na Steam Decku, a w przyszłości zrobi to także na zwykłych pecetach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/steam-dostal-funkcje-ktorej-od-dawna-brakowalo-graczom-teraz-poka/za322c0",
+      "publishedAt": "2026-11-10T15:30+01:00",
+      "summary": "Valve wprowadziło na Steama nową funkcję, która pozwala sprawdzić, ile klatek na sekundę osiąga dana gra na Steam Decku. Dane pochodzą bezpośrednio od graczy, a w przyszłości rozwiązanie ma objąć również komputery stacjonarne. Informacja Steam dostał funkcję, której od dawna brakowało graczom. Teraz pokazuje rzeczywiste FPS-y z tysięcy gier na Steam Decku, a w przyszłości zrobi to także na zwykłych pecetach została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532011349.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tekken 8 - Roger Jr. powraca! Jak prezentuje się kangur?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432741/tekken-8-roger-jr-powraca-jak-prezentuje-sie-kangur.html",
+      "publishedAt": "2026-11-10T15:00+01:00",
+      "summary": "Przedostatnia postać DLC 3. sezonu Tekkena 8 trafi do nas już w czwartek, 12 listopada. Obecność Rogera Jr. w Tekkenie 8 jest jednak zaskoczeniem. Nie dlatego, że Tekken zrezygnował z „ Pokemonów”, a dlatego, że twórcy sami zapowiedzieli ki...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 pobiło rekord Cyberpunka 2077. Analitycy mówią o niemal 10 mln zamówień",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-pobilo-rekord-cyberpunka-2077-analitycy-mowia-o-niemal-10-m/z1322c7",
+      "publishedAt": "2026-11-10T14:58+01:00",
+      "summary": "Według szacunków firmy Sensor Tower przedsprzedaż GTA 6 osiągnęła już 9,69 mln egzemplarzy. To więcej niż 8 mln, którymi swego czasu chwalił się CD Projekt RED przy Cyberpunku 2077. Informacja GTA 6 pobiło rekord Cyberpunka 2077. Analitycy mówią o niemal 10 mln zamówień została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532015014.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na ładowarki i powerbanki w x-kom. Ceny rozpoczynają się od 19,50 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-ladowarki-i-powerbanki-w-x-kom-ceny-rozpoczynaja-sie-od-1950-zl/",
+      "publishedAt": "2026-11-10T14:57+01:00",
+      "summary": "Szukacie taniej i kompaktowej ładowarki do telefonu, handhelda lub innych urządzeń elektronicznych? Podczas trwających Black Weeks w x-komie, możecie liczyć na promocje związane z wszelakimi akcesoriami, w tym wspomnianymi ładowarkami. Zebraliśmy dla Was w jednym miejscu najciekawsze oferty. Dodaliśmy również listę z powerbankami, którą znajdziecie nieco niżej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/ladowarki-powerbanki-x-kom-black-weeks-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Take-Two chce wskrzesić kultowe i zapomniane marki. Prace nad nimi już trwają",
+      "sourceUrl": "https://www.ppe.pl/news/432735/take-two-chce-wskrzesic-kultowe-i-zapomniane-marki-prace-nad-nimi-juz-trwaja.html",
+      "publishedAt": "2026-11-10T14:43+01:00",
+      "summary": "Take-Two nie patrzy tylko na GTA. To jasne. Strauss Zelnick, szef firmy, potwierdził coś ważnego. Wydawca pracuje nad powrotem starszych serii. Takich, które od lat nie miały nowej części.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Z tym narzędziem codziennie automatycznie poinformujecie Sama Altmana ile RAM-u zmarnowaliście na gierki zamiast centra danych",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/z-tym-narzedziem-codziennie-automatycznie-poinformujecie-sama-alt/zf322c5",
+      "publishedAt": "2026-11-10T14:33+01:00",
+      "summary": "Bycie niezrozumianym w dzisiejszych czasach jest chyba domeną wszystkich wielkich „myślicieli” będących na świeczniku. Całe szczęście mamy oddolne projekty, które pomagają nieco rozjaśnić niejasne sytuacje. Informacja Z tym narzędziem codziennie automatycznie poinformujecie Sama Altmana ile RAM-u zmarnowaliście na gierki zamiast centra danych została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532013482.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Twórcy tegorocznego niezależnego hitu przyznali się do minimalnego wykorzystania AI po głośnej aferze. Jury nagród IGF podzielone",
+      "sourceUrl": "https://cdaction.pl/newsy/tworcy-tegorocznego-niezaleznego-hitu-przyznali-sie-do-minimalnego-wykorzystania-ai-po-glosnej-aferze-jury-nagrod-igf-podzielone/",
+      "publishedAt": "2026-11-10T14:30+01:00",
+      "summary": "Sztuczna inteligencja pomagała w debugowaniu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/big-walk-1260x945.avif"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Detektywistyczny beat’em up tanio jak nigdy. Klucz Steam do BROK the InvestiGator za 2,63 zł w Kinguinie",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/detektywistyczny-beatem-up-tanio-jak-nigdy-klucz-steam-do-brok-the-investigator-za-263-zl-w-kinguinie/",
+      "publishedAt": "2026-11-10T14:26+01:00",
+      "summary": "BROK the InvestiGator kupicie teraz w Kinguinie w rekordowo niskiej cenie. Produkcja niezależnego studia COWCAT stanowi nietypowe połączenie przygodówki detektywistycznej z klasycznym beat’em upem. Klucz Steam możecie nabyć z kolei już za 2,63 zł, dzięki zastosowaniu kodu zniżkowego. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Promocja-na-brok-the-investigator_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Koniec modyfikowania Nintendo Switch 2? Japończycy rozprawiają się z przerabianiem gier",
+      "sourceUrl": "https://www.ppe.pl/news/432733/koniec-modyfikowania-nintendo-switch-2-japonczycy-rozprawiaja-sie-z-przerabianiem-gier.html",
+      "publishedAt": "2026-11-10T14:22+01:00",
+      "summary": "Nintendo wypuściło aktualizację systemową 23.5.0 dla Switcha 2, która zamyka jedną z najważniejszych luk wykorzystywanych przez społeczność modderów.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„Cyberfurasy” trafiły do Battlefield 6. Zdaniem graczy, skiny w FPS-ie coraz bardziej zbliżają się do standardów CoD-a",
@@ -38,6 +134,23 @@
       "summary": "Prime Video ma u siebie nowy filmowy przebój. Thriller akcji z Liamem Neesonem w roli głównej prędko wspiął się na pierwsze miejsce listy hitów. Informacja Od razu na 1. miejscu na Prime Video: thriller z wielkim gwiazdorem, który nakręcił dla swojego wieloletniego dublera kaskaderskiego została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532008733.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Red Dead Redemption 2 otrzymało sprzętowy ray tracing! Dziki Zachód jeszcze piękniejszy",
+      "sourceUrl": "https://www.ppe.pl/news/432731/red-dead-redemption-2-otrzymalo-sprzetowy-ray-tracing-dziki-zachod-jeszcze-piekniejszy.html",
+      "publishedAt": "2026-11-10T14:02+01:00",
+      "summary": "Red Dead Redemption 2 na PC doczekało się kolejnego graficznego ulepszenia.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 7 powstanie szybciej niż szósta część serii. Szef Take-Two zapowiada przyspieszenie Rockstara",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-7-powstanie-szybciej-niz-szosta-czesc-serii-szef-take-two-zapowiada-przyspieszenie-rockstara/",
+      "publishedAt": "2026-11-10T14:00+01:00",
+      "summary": "Od czasu premier dwóch ostatnich gier Rockstara minęło 8 i 13 lat.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-2.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
