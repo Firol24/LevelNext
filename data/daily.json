@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T08:22+01:00",
+  "updatedAt": "2026-11-10T09:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nowe plakaty serialu Harry Potter od HBO trafiły do sieci. Fanów zainteresowało jednak coś innego",
-    "summary": "Pojawiły się nowe plakaty serialu Harry Potter od HBO z Harrym, Ronem i Hermioną, ale fani zwrócili uwagę na inny szczegół, niż przedstawieni na nich bohaterowie. Informacja Nowe plakaty serialu Harry Potter od HBO trafiły do sieci. Fanów zainteresowało jednak coś innego została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nowe-plakaty-serialu-harry-potter-od-hbo-trafily-do-sieci-fanow-z/zc322ad",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531993703.jpg"
+    "title": "GTA 7 szybciej niż GTA 6? Prezes Take-Two daje fanom nadzieję",
+    "summary": "Strauss Zelnick stwierdził, że w ciągu najbliższej dekady sposób rozwijania największych marek, w tym GTA, ulegnie zmianie. Następne gry Rockstara powinny powstawać szybciej. Informacja GTA 7 szybciej niż GTA 6? Prezes Take-Two daje fanom nadzieję została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-7-szybciej-niz-gta-6-prezes-take-two-daje-fanom-nadzieje/zd322ae",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531995579.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 7 szybciej niż GTA 6? Prezes Take-Two daje fanom nadzieję",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-7-szybciej-niz-gta-6-prezes-take-two-daje-fanom-nadzieje/zd322ae",
+      "publishedAt": "2026-11-10T09:34+01:00",
+      "summary": "Strauss Zelnick stwierdził, że w ciągu najbliższej dekady sposób rozwijania największych marek, w tym GTA, ulegnie zmianie. Następne gry Rockstara powinny powstawać szybciej. Informacja GTA 7 szybciej niż GTA 6? Prezes Take-Two daje fanom nadzieję została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531995579.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nowe plakaty serialu Harry Potter od HBO trafiły do sieci. Fanów zainteresowało jednak coś innego",
@@ -29,6 +38,31 @@
       "summary": "Niedawna premiera Control Resonant sprawiła, że zapragnąłem wrócić do „Remedyverse” i zagrać w Quantum Break, która była wspaniałym, acz trochę (spoiler alert) przehajpowanym mariażem wysokobudżetowego serialu live action z niezłą obsadą i gry komputerowej doprawionej pomysłami Sama Lake’a. Informacja 10 lat temu twórcy Maxa Payne&apos;a i Alana Wake&apos;a stworzyli grę, która miała być również serialem. Dziś wiem, dlaczego nikt nie poszedł ich śladem została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531948108.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GOTY 2025 pokonane! Nintendo dokonało niemożliwego",
+      "sourceUrl": "https://www.ppe.pl/news/432653/goty-2025-pokonane-nintendo-dokonalo-niemozliwego.html",
+      "publishedAt": "2026-11-10T08:51+01:00",
+      "summary": "Od dawna wiedzieliśmy, że powrót do klasycznej odsłony przygód Linka będzie wielkim wydarzeniem, ale chyba nikt nie spodziewał się aż tak gigantycznego sukcesu.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Psychonauts 2 na PC za jedyne 5,21 zł w Kinguinie. Tak tanio jeszcze nie było",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/psychonauts-2-na-pc-za-jedyne-521-zl-w-kinguinie-tak-tanio-jeszcze-nie-bylo/",
+      "publishedAt": "2026-11-10T08:42+01:00",
+      "summary": "W rekordowo niskiej cenie możecie teraz kupić Psychonauts 2, jeśli sięgniecie po ofertę dostępną w sklepie Kinguin. Trójwymiarowa platformówka studia Double Fine Productions, w której ponownie wcielicie się w Raza i będziecie eksplorować zakamarki umysłów, kosztuje 5,21 zł w pecetowym wydaniu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2021/08/psychonauts-2-miniaturka-scaled.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rockstar Games udowadnia, że GTA 6 to gra dla dużych chłopców. Tancerki, drinki i więcej",
+      "sourceUrl": "https://www.ppe.pl/news/432652/rockstar-games-udowadnia-ze-gta-6-to-gra-dla-duzych-chlopcow-tancerki-drinki-i-wiecej.html",
+      "publishedAt": "2026-11-10T08:23+01:00",
+      "summary": "Premiera nadchodzącego hitu od Rockstar Games zbliża się wielkimi krokami, a twórcy postanowili podgrzać atmosferę, pokazując nam nieco bardziej pikantną stronę wirtualnego świata.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
