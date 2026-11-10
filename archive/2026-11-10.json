@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T06:01+01:00",
+  "updatedAt": "2026-11-10T07:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "NAJCIEKAWSZY serial listopada w szczegółach. Prime Video ma HIT",
-    "summary": "Dla fanów Śródziemia nadszedł wreszcie moment, na który z niecierpliwością czekali. Amazon właśnie opublikował pełny harmonogram swojej najważniejszej premiery tego miesiąca - trzeciego sezonu \"Władcy Pierścieni: Pierścieni Władzy\".",
-    "sourceUrl": "https://www.ppe.pl/news/432643/najciekawszy-serial-listopada-w-szczegolach-prime-video-ma-hit.html"
+    "title": "Mass Effect Universe może w każdej chwili powrócić w chwale. Jest ważny komentarz",
+    "summary": "Niedawne obchody święta fanów serii Mass Effect miały w tym roku wyjątkowo gorzki i smutny smak. Zamiast radosnego wyczekiwania na kolejne wielkie zapowiedzi, społeczność wciąż opłakiwała szokującą decyzję wydawcy o zamknięciu kultowego ...",
+    "sourceUrl": "https://www.ppe.pl/news/432646/mass-effect-universe-moze-w-kazdej-chwili-powrocic-w-chwale-jest-wazny-komentarz.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Mass Effect Universe może w każdej chwili powrócić w chwale. Jest ważny komentarz",
+      "sourceUrl": "https://www.ppe.pl/news/432646/mass-effect-universe-moze-w-kazdej-chwili-powrocic-w-chwale-jest-wazny-komentarz.html",
+      "publishedAt": "2026-11-10T06:47+01:00",
+      "summary": "Niedawne obchody święta fanów serii Mass Effect miały w tym roku wyjątkowo gorzki i smutny smak. Zamiast radosnego wyczekiwania na kolejne wielkie zapowiedzi, społeczność wciąż opłakiwała szokującą decyzję wydawcy o zamknięciu kultowego ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kobiety panikują przez GTA 6. Lucia powodem kłótni i zerwań w związkach",
+      "sourceUrl": "https://www.ppe.pl/news/432645/kobiety-panikuja-przez-gta-6-lucia-powodem-klotni-i-zerwan-w-zwiazkach.html",
+      "publishedAt": "2026-11-10T06:21+01:00",
+      "summary": "Premiera najnowszej odsłony Grand Theft Auto zbliża się dosłownie wielkimi krokami i na zaledwie dziewięć dni przed tym historycznym wydarzeniem w sieci zaczyna robić się naprawdę dziwnie.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "NAJCIEKAWSZY serial listopada w szczegółach. Prime Video ma HIT",
