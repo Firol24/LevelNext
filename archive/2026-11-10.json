@@ -1,17 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T15:01+01:00",
+  "updatedAt": "2026-11-10T16:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Zaledwie 10 linijek kodu wygenerowanych z pomocą AI wywołało kontrowersje. Twórcy Big Walk przepraszają, choć chatbot uratował wydajność gry",
-    "summary": "Zespół House House Games wytłumaczył, jak wykorzystał AI w swojej grze, i podkreśla, że nie chce normalizacji generatywnej sztucznej inteligencji w branży gier. Informacja Zaledwie 10 linijek kodu wygenerowanych z pomocą AI wywołało kontrowersje. Twórcy Big Walk przepraszają, choć chatbot uratował wydajność gry została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/zaledwie-10-linijek-kodu-wygenerowanych-z-pomoca-ai-wywolalo-kont/zc322cb",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532017379.jpg"
+    "title": "Blizzard zapowiada specjalne wydarzenie Diablo 2: Resurrected na 30. urodziny serii. Graczy czekają wyjątkowe wyzwania i bonusy",
+    "summary": "Świętowanie czas zacząć!",
+    "sourceUrl": "https://cdaction.pl/newsy/blizzard-zapowiada-specjalne-wydarzenie-diablo-2-resurrected-na-30-urodziny-serii-graczy-czekaja-wyjatkowe-wyzwania-i-bonusy/",
+    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/02/diablo2-diablo4.jpg"
   },
   "news": [
+    {
+      "sourceName": "CD-Action",
+      "title": "Blizzard zapowiada specjalne wydarzenie Diablo 2: Resurrected na 30. urodziny serii. Graczy czekają wyjątkowe wyzwania i bonusy",
+      "sourceUrl": "https://cdaction.pl/newsy/blizzard-zapowiada-specjalne-wydarzenie-diablo-2-resurrected-na-30-urodziny-serii-graczy-czekaja-wyjatkowe-wyzwania-i-bonusy/",
+      "publishedAt": "2026-11-10T16:00+01:00",
+      "summary": "Świętowanie czas zacząć!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/02/diablo2-diablo4.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tekken 8 i Nike łączą siły. Wielka współpraca OFICJALNIE potwierdzona",
+      "sourceUrl": "https://www.ppe.pl/news/432746/tekken-8-i-nike-lacza-sily-wielka-wspolpraca-oficjalnie-potwierdzona.html",
+      "publishedAt": "2026-11-10T16:00+01:00",
+      "summary": "To musiało się kiedyś w końcu stać. Twórcy gry Tekken 8 nawiązali współpracę ze słynną firmą produkującą obuwie, Nike.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "GTA VI zaoferuje tylko 30 klatek na sekundę na konsolach. Gra trafi do XBOX Cloud Gaming, ale na PC nie zagramy",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/gta-vi-zaoferuje-tylko-30-klatek-na-sekunde-na-konsolach-gra-trafi-do-xbox-cloud-gaming-ale-na-pc-nie-zagramy/",
+      "publishedAt": "2026-11-10T15:57+01:00",
+      "summary": "Przy okazji startu preloadu GTA VI Rocktar podzielił się z nami kilkoma nowymi szczegółami na temat swojej nadchodzącej produkcji. Niestety, plotki, o których pisaliśmy Wam pod koniec wakacji, znalazły swoje potwierdzenie. Twórcy przyznali się, że ich produkcja celuje w 30 klatek na sekundę na konsolach PlayStation 5 oraz XBOX Series. Na większą płynność nie mogą liczyć też posiadacze PS5 Pro. Zamiast tego otrzymają oni podkręcone efekty wizualne z wyraźniejszym obrazem dzięki PlayStation Spectral Super Resolution (PSSR) oraz cienie śledzone za pomocą promieni. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/GTA-VI-logo2-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Girls Just Wanna Have Guns Bundle w Green Man Gaming. Sześć gier PC z kobietami w roli głównej za 65 zł",
+      "sourceUrl": "https://lowcygier.pl/bundle/girls-just-wanna-have-guns-bundle-w-green-man-gaming-szesc-gier-pc-z-kobietami-w-roli-glownej-za-65-zl/",
+      "publishedAt": "2026-11-10T15:52+01:00",
+      "summary": "Sześć kobiet, sześć różnych historii. To mógłby być początek filmu lub serialu, ale nie tym razem. Green Man Gaming Bundles proponuje Wam paczkę Girls Just Wanna Have Guns, w której znajdziecie 6 gier Steam. Zapłacicie za nią 65 złotych, a znajdziecie w niej między innymi Control Ultimate Edition, Severed Steel i debiutujące w bundlach Skin Deep. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/girls-just-wanna-have-guns-gmg-bundles-miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Zaledwie 10 linijek kodu wygenerowanych z pomocą AI wywołało kontrowersje. Twórcy Big Walk przepraszają, choć chatbot uratował wydajność gry",
@@ -20,6 +55,14 @@
       "summary": "Zespół House House Games wytłumaczył, jak wykorzystał AI w swojej grze, i podkreśla, że nie chce normalizacji generatywnej sztucznej inteligencji w branży gier. Informacja Zaledwie 10 linijek kodu wygenerowanych z pomocą AI wywołało kontrowersje. Twórcy Big Walk przepraszają, choć chatbot uratował wydajność gry została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532017379.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rozmowa o Call of Duty doprowadziła do ewakuacji samolotu. Interweniowała policja",
+      "sourceUrl": "https://www.ppe.pl/news/432739/rozmowa-o-call-of-duty-doprowadzila-do-ewakuacji-samolotu-interweniowala-policja.html",
+      "publishedAt": "2026-11-10T15:50+01:00",
+      "summary": "Wieczorem 8 listopada na Ontario International Airport w Kalifornii zrobiło się gorąco. Pasażerowie samolotu Frontier Airlines usłyszeli coś o bombie i o eksplozji.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +74,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532016899.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "The Elder Scrolls 6: Sentinel doczeka się jakiś dodatków? Bethesda zarejestrowała nowe znaki towarowe",
+      "sourceUrl": "https://www.ppe.pl/news/432737/the-elder-scrolls-6-sentinel-doczeka-sie-jakis-dodatkow-bethesda-zarejestrowala-nowe-znaki-towarowe.html",
+      "publishedAt": "2026-11-10T15:31+01:00",
+      "summary": "Bethesda jeszcze nie zdradziła zbyt wiele na temat The Elder Scrolls 6: Sentinel, ale już zabezpiecza kolejne możliwości sprzedaży produktów związanych z grą.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Steam dostał funkcję, której od dawna brakowało graczom. Teraz pokazuje rzeczywiste FPS-y z tysięcy gier na Steam Decku, a w przyszłości zrobi to także na zwykłych pecetach",
       "sourceUrl": "https://www.gry-online.pl/newsroom/steam-dostal-funkcje-ktorej-od-dawna-brakowalo-graczom-teraz-poka/za322c0",
@@ -40,12 +91,64 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532011349.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Sprzedaż ARC Raiders jest ogromna. Mimo to twórcy mają istotny powód do zmartwień",
+      "sourceUrl": "https://cdaction.pl/newsy/sprzedaz-arc-raiders-jest-ogromna-mimo-to-tworcy-maja-istotny-powod-do-zmartwien/",
+      "publishedAt": "2026-11-10T15:30+01:00",
+      "summary": "Choć ARC Raiders sprzedało się w wielu milionach sztuk, to na dłuższą metę sytuacja Embark Studio nie jest różowa.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/ARC-Raiders.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Limitowany pad Xbox Gears of War E-Day za 309 zł w Komputronik",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/limitowany-pad-xbox-gears-of-war-e-day-za-309-zl-w-komputronik/",
+      "publishedAt": "2026-11-10T15:24+01:00",
+      "summary": "Korzystając z kodu zniżkowego, będziecie mieli możliwość kupić kontroler bezprzewodowy Xbox Gears of War: E-Day Limited Edition taniej. Wystarczy skierować swoje kroki do oferty sklepu Komputronik, gdzie akcesorium nawiązujące swoim wyglądem do Dnia Wyłonienia, kosztuje 309 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Kontroler-Xbox-Gears-of-War-E-day-log-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 będzie działać w 30 FPS na wszystkich konsolach! Rockstar przekazuje kluczowe szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/432743/gta-6-bedzie-dzialac-w-30-fps-na-wszystkich-konsolach-rockstar-przekazuje-kluczowe-szczegoly.html",
+      "publishedAt": "2026-11-10T15:14+01:00",
+      "summary": "Rockstar Games oficjalnie potwierdziło, że Grand Theft Auto 6 będzie działać na konsolach z docelową płynnością 30 klatek na sekundę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rockstar Games zaskakuje. Grand Theft Auto VI dostało preload i nowy zwiastun",
+      "sourceUrl": "https://www.ppe.pl/news/432745/rockstar-games-zaskakuje-grand-theft-auto-vi-dostalo-preload-i-nowy-zwiastun.html",
+      "publishedAt": "2026-11-10T15:14+01:00",
+      "summary": "Miało już nie być żadnych trailerów z GTA 6. Tymczasem Rockstar Games zaskoczyło i opublikowało jeszcze jeden zwiastun.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Apple iPhone 18 Pro 256GB za 6099 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/apple-iphone-18-pro-256gb-za-6099-zl-na-allegro/",
+      "publishedAt": "2026-11-10T15:03+01:00",
+      "summary": "Najnowszy smartfon z logo Apple, jest dostępny taniej w serwisie Allegro. Cena iPhone 18 Pro, w wersji z 256GB pamięci, wynosi bowiem 6099 złotych. Urządzenie zostało wyposażone w aparat główny Fusion 48 MP, 6‑rdzeniowy procesor A20 Pro oraz wyświetlacz Super Retina XDR o przekątnej 6.3 cala. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/ihone-18-pro-2b-224x224.jpg"
+    },
+    {
       "sourceName": "PPE",
       "title": "Tekken 8 - Roger Jr. powraca! Jak prezentuje się kangur?",
       "sourceUrl": "https://www.ppe.pl/publicystyka/432741/tekken-8-roger-jr-powraca-jak-prezentuje-sie-kangur.html",
       "publishedAt": "2026-11-10T15:00+01:00",
       "summary": "Przedostatnia postać DLC 3. sezonu Tekkena 8 trafi do nas już w czwartek, 12 listopada. Obecność Rogera Jr. w Tekkenie 8 jest jednak zaskoczeniem. Nie dlatego, że Tekken zrezygnował z „ Pokemonów”, a dlatego, że twórcy sami zapowiedzieli ki...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Wyciekła znaczna część kodu źródłowego Half-Life 2: Episode 3. Fani już analizują assety, a modderzy zacierają ręce",
+      "sourceUrl": "https://cdaction.pl/newsy/wyciekla-znaczna-czesc-kodu-zrodlowego-half-life-2-episode-3-fani-juz-analizuja-assety-a-modderzy-zacieraja-rece/",
+      "publishedAt": "2026-11-10T15:00+01:00",
+      "summary": "Odkryto również nieużyte mapy z Portala 2.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/Half-Life-3-1260x691.jpg"
     },
     {
       "sourceName": "GRY-Online",
