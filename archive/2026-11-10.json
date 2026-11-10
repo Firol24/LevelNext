@@ -1,17 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T10:01+01:00",
+  "updatedAt": "2026-11-10T11:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Tak miało wyglądać Dragon Age 4 przed The Veilguard. Napady, niszczenie otoczenia i reaktywny świat",
-    "summary": "Były producent BioWare opowiedział o pierwotnej wizji Dragon Age 4. Została ona zapisana w specjalnej książce przygotowanej z myślą o kierownictwie studia i Electronic Arts. Informacja Tak miało wyglądać Dragon Age 4 przed The Veilguard. Napady, niszczenie otoczenia i reaktywny świat została opublikowana przez GRYOnline.pl 10 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/tak-mialo-wygladac-dragon-age-4-przed-the-veilguard-napady-niszcz/zc322b3",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532000570.jpg"
+    "title": "Wyciekły pliki z Half-Life 2: Episode 3. Wrogowie, bronie i nigdy niepokazane mapy z Portala 2",
+    "summary": "Half-Life 2: Episoe 3 i Portal 2 odsłoniły kolejne sekrety, najpewniej za sprawą głośnego 12-terabajtowego przecieku ze Steama. Informacja Wyciekły pliki z Half-Life 2: Episode 3. Wrogowie, bronie i nigdy niepokazane mapy z Portala 2 została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/wyciekly-pliki-z-half-life-2-episode-3-wrogowie-bronie-i-nigdy-ni/zd322b4",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532000932.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wyciekły pliki z Half-Life 2: Episode 3. Wrogowie, bronie i nigdy niepokazane mapy z Portala 2",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wyciekly-pliki-z-half-life-2-episode-3-wrogowie-bronie-i-nigdy-ni/zd322b4",
+      "publishedAt": "2026-11-10T11:20+01:00",
+      "summary": "Half-Life 2: Episoe 3 i Portal 2 odsłoniły kolejne sekrety, najpewniej za sprawą głośnego 12-terabajtowego przecieku ze Steama. Informacja Wyciekły pliki z Half-Life 2: Episode 3. Wrogowie, bronie i nigdy niepokazane mapy z Portala 2 została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532000932.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "NVIDIA może zapłacić ogromne odszkodowania. Inwestorzy oskarżają firmę o wprowadzanie ich w błąd w sprawie romansu Jensena Huanga",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-moze-zaplacic-ogromne-odszkodowania-inwestorzy-oskarzaja-f/ze322b5",
+      "publishedAt": "2026-11-10T11:10+01:00",
+      "summary": "NVIDIA mierzy się z konsekwencjami czynów Jensena Huanga. W kuluarach mówi się o pozwach ze strony inwestorów, którzy uważają, że firma ukrywała prawdę na temat relacji CEO. Informacja NVIDIA może zapłacić ogromne odszkodowania. Inwestorzy oskarżają firmę o wprowadzanie ich w błąd w sprawie romansu Jensena Huanga została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532001333.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "To może być nowy hit Netflixa. Denzel Washington i Robert Pattinson napadną na bank w nadchodzącym thrillerze",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/to-moze-byc-nowy-hit-netflixa-denzel-washington-i-robert-pattinso/ze322af",
+      "publishedAt": "2026-11-10T11:02+01:00",
+      "summary": "Netflix na początku przyszłego roku będzie miał dla swoich subskrybentów ciekawy tytuł do obejrzenia. Będzie to thriller o napadzie z gwiazdorską obsadą. Informacja To może być nowy hit Netflixa. Denzel Washington i Robert Pattinson napadną na bank w nadchodzącym thrillerze została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531996085.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Warhammer Survivors - recenzja gry. Warhammer w pikselach wciąż rządzi",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432647/warhammer-survivors-recenzja-gry-warhammer-w-pikselach-wciaz-rzadzi.html",
+      "publishedAt": "2026-11-10T11:00+01:00",
+      "summary": "Oficjalny crossover wciągającej i definiującej gatunek gry Vampire Survivors z niezwykle popularnym uniwersum Warhammera brzmi jak połączenie idealne, choć nie powiem zaskakujące. Inna sprawa, że nie mamy tu do czynienia z wysokobudżetową prod...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Tak miało wyglądać Dragon Age 4 przed The Veilguard. Napady, niszczenie otoczenia i reaktywny świat",
@@ -22,6 +57,57 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532000570.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Physint wciska w fotel rozmachem. Zdradzono sekret gry Xboxa",
+      "sourceUrl": "https://www.ppe.pl/news/432717/physint-wciska-w-fotel-rozmachem-zdradzono-sekret-gry-xboxa.html",
+      "publishedAt": "2026-11-10T10:54+01:00",
+      "summary": "Wszyscy doskonale wiemy, że Hideo Kojima to twórca, który równie mocno kocha gry wideo, co wielkie, hollywoodzkie kino. Jego produkcje od zawsze słynęły z niesamowicie długich i rozbudowanych filmików przerywnikowych, przy których można było...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Trzy premiery gier w Xbox Game Pass! Debiut Football Manager 27 w usłudze",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/trzy-premiery-gier-w-xbox-game-pass-debiut-football-manager-27-w-usludze/",
+      "publishedAt": "2026-11-10T10:38+01:00",
+      "summary": "Oferta abonamentu giganta z Redmond dziś powiększy się o trzy produkcje. Każda z nich przy okazji ma swój debiut właśnie tego dnia. Pierwszą jest Football Manager 27 Console Edition, czyli najnowsza odsłona produkcji Sports Interactive, w której przyjdzie Wam zarządzać drużyną i piłkarzami. Oprócz tego, będziecie mogli ograć urocze Tanuki: Pon’s Summer oraz Warhammer Survivors, które jest owocem współpracy Auroch Digital i poncle. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/football-manager-27-xgp-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Stworzyli jedną z najgorszych gier generacji. Teraz zebrali tego żniwa",
+      "sourceUrl": "https://www.ppe.pl/news/432708/stworzyli-jedna-z-najgorszych-gier-generacji-teraz-zebrali-tego-zniwa.html",
+      "publishedAt": "2026-11-10T10:31+01:00",
+      "summary": "W branży gier wideo błędy bywają niezwykle kosztowne, o czym właśnie boleśnie przekonało się studio Reflector Entertainment.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Zapraszamy na Łódzkie Targi Książki i Sztuki 2026!",
+      "sourceUrl": "https://cdaction.pl/newsy/zapraszamy-na-lodzkie-targi-ksiazki-i-sztuki-2026/",
+      "publishedAt": "2026-11-10T10:30+01:00",
+      "summary": "Łódź Fabryczna ponownie stanie się literacką stolicą Polski. CD-Action też tam będzie!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/LODZKIE-TARGI-KSIAZKI-i-SZTUKI-2025-TOMEK-OGRODOWCZYK-MONIKA-MAJDA-2.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Już wkrótce kupicie grę w prezencie posiadaczom Switcha. Funkcja giftów trafi do Nintendo eShop",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/juz-wkrotce-kupicie-gre-w-prezencie-posiadaczom-switcha-funkcja-giftow-trafi-do-nintendo-eshop/",
+      "publishedAt": "2026-11-10T10:25+01:00",
+      "summary": "Święta coraz bliżej. Jeśli zawsze macie problem z tym, co wręczyć swoim bliskim, Nintendo już wkrótce przyjdzie Wam z pomocą. Na 17 listopada zaplanowana została bowiem premiera nowej funkcji w Nintendo eShop – będziecie mogli podarować cyfrowe gry, a także DLC i ulepszenia (np. upgrade danego tytułu do wersji NS2) członkom swojej grupy rodzinnej. Cała procedura będzie banalnie prosta. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/03/Nintendo-ceny-gier-pudelka-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Silent Hill 2 wreszcie przestaje straszyć grafiką na PS5 i PS5 Pro? Jest patch, na który czekali gracze",
+      "sourceUrl": "https://www.ppe.pl/news/432719/silent-hill-2-wreszcie-przestaje-straszyc-grafika-na-ps5-i-ps5-pro-jest-patch-na-ktory-czekali-gracze.html",
+      "publishedAt": "2026-11-10T10:23+01:00",
+      "summary": "Historia Silent Hill 2 Remake to niestety pasmo graficznych wpadek na konsolach.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "„PC nie różnią się znacząco od konsol”. Szef Take-Two zaskoczył graczy wypowiedzią o GTA",
       "sourceUrl": "https://www.gry-online.pl/newsroom/pc-nie-roznia-sie-znaczaco-od-konsol-szef-take-two-zaskoczyl-grac/za322b1",
@@ -29,6 +115,32 @@
       "summary": "Na 9 dni przed premierą GTA 6 Strauss Zelnick odniósł się do kwestii różnic między pecetami i konsolami oraz do modów. Informacja „PC nie różnią się znacząco od konsol”. Szef Take-Two zaskoczył graczy wypowiedzią o GTA została opublikowana przez GRYOnline.pl 10 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/531997658.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Weteran BioWare’u opowiedział o niezrealizowanej wizji Dragon Age’a 4. Dynamiczna pogoda, rozbudowane interakcje społeczne i świat reagujący na decyzje gracza",
+      "sourceUrl": "https://cdaction.pl/newsy/weteran-biowareu-opowiedzial-o-niezrealizowanej-wizji-dragon-agea-4-dynamiczna-pogoda-rozbudowane-interakcje-spoleczne-i-swiat-reagujacy-na-decyzje-gracza/",
+      "publishedAt": "2026-11-10T10:15+01:00",
+      "summary": "Tak wyglądał projekt Joplin w marzeniach developerów BioWare’u.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/veilguard-1260x709.webp"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ważna aktualizacja Nintendo Switch. Szczegóły nowości najnowszego oprogramowania",
+      "sourceUrl": "https://www.ppe.pl/news/432705/wazna-aktualizacja-nintendo-switch-szczegoly-nowosci-najnowszego-oprogramowania.html",
+      "publishedAt": "2026-11-10T10:05+01:00",
+      "summary": "Posiadacze konsol od wielkiego \"N\" mogą już śmiało uruchamiać swoje urządzenia i wypatrywać paska pobierania. Japońska firma właśnie wypuściła nową, dość sporą aktualizację systemu oznaczoną numerkiem 23.5.0.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Słoniątko na niebie za 49,99 zł (cena katalogowa 124,99 zł) w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-sloniatko-na-niebie-za-4999-zl-cena-katalogowa-12499-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-10T10:02+01:00",
+      "summary": "Liczący 402 elementy, uroczy zestaw LEGO Słoniątko na niebie, jest dostępny w dobrej cenie w wybranych sklepach internetowych. Klocki, z których zbudujecie siedzącego na chmurce uszatego malucha z podniesioną trąbą, kosztują zaledwie 49,99 zł. Jednocześnie, w Oficjalnym sklepie LEGO zestaw ten posiada oznaczenie „Ostatnie sztuki”, więc naszym zdaniem warto uzupełnić swoją kolekcję, póki jest dostępny. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/lego-iconic-sloniatko-na-niebie-2b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
