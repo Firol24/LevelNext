@@ -415,7 +415,6 @@
       var url;
       try { url = new URL(link.href, window.location.href); } catch (error) { return; }
       if (url.origin !== window.location.origin || !/\.html$/i.test(url.pathname)) return;
-      if (/^(admin|dodaj)\.html$/i.test(url.pathname.split("/").pop())) return;
       if (url.href === window.location.href) return;
       event.preventDefault();
       navigatePage(url, true);
