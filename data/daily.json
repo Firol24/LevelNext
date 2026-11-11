@@ -1,16 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T21:01+01:00",
+  "updatedAt": "2026-11-11T22:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Dziki koń dziewięć (2026) - recenzja filmu [Disney]. O przemijaniu, Kennedym, Chile i dinozaurach",
-    "summary": "Chris i Lee pracują wspólnie w CIA już od wielu lat. Razem obalali rządy, destabilizowali gospodarki i robili całą masę innych, moralnie nieciekawych rzeczy. Teraz, w przededniu wydarzeń z Chile roku 1973, wspólnie wybierają się na tygodniowy...",
-    "sourceUrl": "https://www.ppe.pl/recenzje/432876/dziki-kon-dziewiec-2026-recenzja-filmu-disney-o-przemijaniu-kennedym-chile-i-dinozaurach.html"
+    "title": "3 sezon uwielbianego hitu Netflixa z ekspresową premierą",
+    "summary": "Fani kostiumowych dramatów i namiętnych, dworskich intryg mają wreszcie doskonały powód do radości. Jeśli z wypiekami na twarzy śledziliście losy austriackiej rodziny królewskiej, to koniecznie przygotujcie sobie wolny wieczór.",
+    "sourceUrl": "https://www.ppe.pl/news/432766/3-sezon-uwielbianego-hitu-netflixa-z-ekspresowa-premiera.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "3 sezon uwielbianego hitu Netflixa z ekspresową premierą",
+      "sourceUrl": "https://www.ppe.pl/news/432766/3-sezon-uwielbianego-hitu-netflixa-z-ekspresowa-premiera.html",
+      "publishedAt": "2026-11-11T21:44+01:00",
+      "summary": "Fani kostiumowych dramatów i namiętnych, dworskich intryg mają wreszcie doskonały powód do radości. Jeśli z wypiekami na twarzy śledziliście losy austriackiej rodziny królewskiej, to koniecznie przygotujcie sobie wolny wieczór.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin przemówi innym głosem w Pieśniach przeszłości. CD Projekt RED potwierdza wykorzystanie AI",
+      "sourceUrl": "https://www.ppe.pl/news/432884/wiedzmin-przemowi-innym-glosem-w-piesniach-przeszlosci-cd-projekt-red-potwierdza-wykorzystanie-ai.html",
+      "publishedAt": "2026-11-11T21:28+01:00",
+      "summary": "Już w przyszłym roku Geralt z Rivii wróci na szlak za sprawą nowego rozszerzenia fabularnego do flagowej produkcji CD Projekt RED. Wiedźmin 3: Dziki Gon. Pieśni przeszłości to pierwszy od ponad 10 lat duży dodatek, który zaprezentuje nowe przy...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Epic Games nie chce oddać praw do gry. Twórca Gears of War nie zamierza odpuszczać",
+      "sourceUrl": "https://www.ppe.pl/news/432862/epic-games-nie-chce-oddac-praw-do-gry-tworca-gears-of-war-nie-zamierza-odpuszczac.html",
+      "publishedAt": "2026-11-11T21:15+01:00",
+      "summary": "Cliff Bleszinski (twórca serii Gears of War) chciał odzyskać prawa do Jazz Jackrabbit. To jedna z jego pierwszych rozpoznawalnych postaci.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Dziki koń dziewięć (2026) - recenzja filmu [Disney]. O przemijaniu, Kennedym, Chile i dinozaurach",
