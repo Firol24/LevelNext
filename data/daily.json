@@ -1,17 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T19:01+01:00",
+  "updatedAt": "2026-11-11T20:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Winy zostały odkupione, gracze są niemal jednomyślni: Football Manager 27 podbija Steama",
-    "summary": "Football Manager 27 oficjalnie zadebiutował na rynku. Pierwsze recenzje sugerują, że deweloperzy odrobili pracę domową po zeszłorocznej wpadce. Informacja Winy zostały odkupione, gracze są niemal jednomyślni: Football Manager 27 podbija Steama została opublikowana przez GRYOnline.pl 11 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/winy-zostaly-odkupione-gracze-sa-niemal-jednomyslni-football-mana/zd322e1",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532116476.jpg"
+    "title": "Phantom Blade Zero stało się znacznie trudniejsze. Walka to prawdziwy koszmar",
+    "summary": "Phantom Blade Zero dopiero co zadebiutowało na PC i PS5, a moderzy zaczęli eksperymentować.",
+    "sourceUrl": "https://www.ppe.pl/news/432851/phantom-blade-zero-stalo-sie-znacznie-trudniejsze-walka-to-prawdziwy-koszmar.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Phantom Blade Zero stało się znacznie trudniejsze. Walka to prawdziwy koszmar",
+      "sourceUrl": "https://www.ppe.pl/news/432851/phantom-blade-zero-stalo-sie-znacznie-trudniejsze-walka-to-prawdziwy-koszmar.html",
+      "publishedAt": "2026-11-11T20:01+01:00",
+      "summary": "Phantom Blade Zero dopiero co zadebiutowało na PC i PS5, a moderzy zaczęli eksperymentować.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "We wrześniu w kinach, w tym tygodniu na Disney+! Ten HIT już za chwilę obejrzycie w domu",
+      "sourceUrl": "https://www.ppe.pl/news/432849/we-wrzesniu-w-kinach-w-tym-tygodniu-na-disney-ten-hit-juz-za-chwile-obejrzycie-w-domu.html",
+      "publishedAt": "2026-11-11T19:38+01:00",
+      "summary": "Fani Marvela będą mogli ponownie zobaczyć jedno z najważniejszych widowisk w historii MCU. „Avengers: Koniec gry – wersja rozszerzona” trafi na Disney+ już 13 listopada 2026 roku. To kolejna okazja, by obejrzeć film w domowym zaciszu, tym ra...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin 3 w Twojej kieszeni to już fakt. Gra działa na telefonie bez emulatora w 1080p",
+      "sourceUrl": "https://www.ppe.pl/news/432847/wiedzmin-3-w-twojej-kieszeni-to-juz-fakt-gra-dziala-na-telefonie-bez-emulatora-w-1080p.html",
+      "publishedAt": "2026-11-11T19:30+01:00",
+      "summary": "Wiedźmin 3: Dziki Gon może wkrótce trafić na smartfony w zupełnie nowej formie.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Winy zostały odkupione, gracze są niemal jednomyślni: Football Manager 27 podbija Steama",
@@ -20,6 +43,15 @@
       "summary": "Football Manager 27 oficjalnie zadebiutował na rynku. Pierwsze recenzje sugerują, że deweloperzy odrobili pracę domową po zeszłorocznej wpadce. Informacja Winy zostały odkupione, gracze są niemal jednomyślni: Football Manager 27 podbija Steama została opublikowana przez GRYOnline.pl 11 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532116476.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Na tę grę czeka już 150 tysięcy osób. Słowacki Hellforged wkrótce wkracza do wczesnego dostępu",
+      "sourceUrl": "https://cdaction.pl/newsy/na-te-gre-czeka-juz-150-tysiecy-osob-slowacki-hellforged-wkrotce-wkracza-do-wczesnego-dostepu/",
+      "publishedAt": "2026-11-11T19:05+01:00",
+      "summary": "Piekło to inni.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/hellforged123-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
