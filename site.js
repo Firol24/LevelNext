@@ -52,7 +52,20 @@
     }
 
     var player = document.getElementById("winampWindow");
+    if (!player) {
+      document.body.insertAdjacentHTML("beforeend",
+        '<div class="winamp-window" id="winampWindow" aria-label="Odtwarzacz LEVEL NEXT">' +
+          '<div class="winamp-titlebar" id="winampDrag"><span class="winamp-app-icon">▰</span><strong>WINAMP 2.9x</strong><span class="winamp-title-spacer"></span><button type="button" class="winamp-window-btn" id="winampMinimize" aria-label="Minimalizuj">_</button><button type="button" class="winamp-window-btn winamp-close" id="winampClose" aria-label="Zamknij">×</button></div>' +
+          '<div class="winamp-inner"><div class="winamp-display"><div class="winamp-display-top"><span id="winampState">STARTING</span><span id="winampTime">00:00</span></div><div class="winamp-track"><span id="winampTrackName">untitled.mp3</span></div><div class="winamp-spectrum" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></div>' +
+          '<div class="winamp-controls"><button type="button" id="winampPlay" aria-label="Odtwórz">▶</button><button type="button" id="winampPause" aria-label="Pauza">Ⅱ</button><span class="winamp-volume-label">VOL</span><input id="winampVolume" type="range" min="0" max="1" step="0.01" value="0.75" aria-label="Głośność"></div><audio id="winampAudio" preload="auto" autoplay loop><source src="assets/audio/untitled.mp3" type="audio/mpeg"></audio></div>' +
+          '<div class="winamp-bottom"><span>STEREO</span><span>44 KHZ</span><span>LEVEL NEXT RADIO</span></div></div>' +
+          '<button type="button" id="winampLauncher" class="winamp-launcher" hidden>♫ WINAMP</button>');
+      player = document.getElementById("winampWindow");
+    }
     if (player) {
+      if (player.parentElement !== document.body) document.body.appendChild(player);
+      var existingLauncher = document.getElementById("winampLauncher");
+      if (existingLauncher && existingLauncher.parentElement !== document.body) document.body.appendChild(existingLauncher);
       var audio = document.getElementById("winampAudio");
       var play = document.getElementById("winampPlay");
       var pause = document.getElementById("winampPause");
@@ -72,10 +85,11 @@
       function setState(value) { state.textContent = value; }
 
       audio.loop = true;
+      audio.autoplay = true;
       play.addEventListener("click", function () {
         if (audio.error) audio.load();
         var result = audio.play();
-        if (result && typeof result.catch === "function") result.catch(function () { setState("PLAY ERROR"); });
+        if (result && typeof result.catch === "function") result.catch(function () { setState("CLICK TO PLAY"); });
       });
       pause.addEventListener("click", function () { audio.pause(); });
       volume.addEventListener("input", function () { audio.volume = Number(volume.value); });
@@ -91,22 +105,50 @@
       audio.volume = Number(volume.value);
       updateTime();
 
+      // Proba startu od razu po wejsciu. Jesli przegladarka blokuje dzwiek,
+      // ponawiamy ja przy pierwszej interakcji odwiedzajacego ze strona.
+      var autoplayStarted = false;
+      function tryAutoplay() {
+        if (autoplayStarted || !audio.paused) return;
+        var attempt = audio.play();
+        if (attempt && typeof attempt.then === "function") {
+          attempt.then(function () {
+            autoplayStarted = true;
+            document.removeEventListener("pointerdown", retryAutoplay, true);
+            document.removeEventListener("keydown", retryAutoplay, true);
+          }).catch(function (error) {
+            if (error && error.name === "NotAllowedError") setState("CLICK TO PLAY");
+            else setState("FILE ERROR");
+          });
+        }
+      }
+      function retryAutoplay() { tryAutoplay(); }
+      tryAutoplay();
+      document.addEventListener("pointerdown", retryAutoplay, true);
+      document.addEventListener("keydown", retryAutoplay, true);
+
       minimize.addEventListener("click", function () { player.hidden = true; launcher.hidden = false; });
       closePlayer.addEventListener("click", function () { audio.pause(); player.hidden = true; launcher.hidden = false; });
       launcher.addEventListener("click", function () { player.hidden = false; launcher.hidden = true; });
 
-      // Okno jest pozycjonowane względem całego dokumentu, a nie ekranu.
+      // Okno jest przypiete do body, wiec zapisane wspolrzedne sa wspolrzednymi dokumentu.
       var positionKey = "levelNextWinampPosition";
       var savedPosition = null;
       try { savedPosition = JSON.parse(window.localStorage.getItem(positionKey) || "null"); } catch (error) {}
-      if (savedPosition && Number.isFinite(savedPosition.left) && Number.isFinite(savedPosition.top)) {
-        player.style.left = Math.max(0, savedPosition.left) + "px";
-        player.style.top = Math.max(0, savedPosition.top) + "px";
-      } else {
-        var initialRect = player.getBoundingClientRect();
-        player.style.left = Math.max(0, window.scrollX + window.innerWidth - initialRect.width - 24) + "px";
-        player.style.top = Math.max(0, window.scrollY + window.innerHeight - initialRect.height - 24) + "px";
+      function clampPlayerPosition(left, top) {
+        var maxLeft = Math.max(0, document.documentElement.scrollWidth - player.offsetWidth);
+        var maxTop = Math.max(0, document.documentElement.scrollHeight - player.offsetHeight);
+        return {
+          left: Math.max(0, Math.min(maxLeft, left)),
+          top: Math.max(0, Math.min(maxTop, top))
+        };
       }
+      var initialRect = player.getBoundingClientRect();
+      var initialPosition = savedPosition && Number.isFinite(savedPosition.left) && Number.isFinite(savedPosition.top)
+        ? clampPlayerPosition(savedPosition.left, savedPosition.top)
+        : clampPlayerPosition(window.scrollX + window.innerWidth - initialRect.width - 24, window.scrollY + window.innerHeight - initialRect.height - 24);
+      player.style.left = initialPosition.left + "px";
+      player.style.top = initialPosition.top + "px";
 
       var dragState = null;
       drag.addEventListener("pointerdown", function (event) {
