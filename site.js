@@ -393,6 +393,27 @@
           });
 
           markCurrentNavigation();
+          var welcomeModal = document.getElementById("welcomeModal");
+          var welcomeClose = document.getElementById("closeModal");
+          if (welcomeModal && welcomeClose && !welcomeModal.dataset.pjaxBound) {
+            welcomeModal.dataset.pjaxBound = "true";
+            function dismissWelcome() {
+              welcomeModal.style.display = "none";
+              welcomeModal.hidden = true;
+              try { window.sessionStorage.setItem("lnWelcomeSeen", "1"); } catch (error) {}
+            }
+            welcomeClose.addEventListener("click", function (event) {
+              event.preventDefault();
+              event.stopPropagation();
+              dismissWelcome();
+            });
+            welcomeModal.addEventListener("click", function (event) {
+              if (event.target === welcomeModal) dismissWelcome();
+            });
+            try {
+              if (window.sessionStorage.getItem("lnWelcomeSeen") === "1") dismissWelcome();
+            } catch (error) {}
+          }
           if (window.levelNextSetupMission) {
             window.levelNextSetupMission("rollMission", "mission", "missionState");
             window.levelNextSetupMission("rollRetro", "retro-action", "retroMissionState");
