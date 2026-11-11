@@ -1,17 +1,120 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T11:01+01:00",
+  "updatedAt": "2026-11-11T12:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Rekordowe The Legend of Zelda: Ocarina of Time najlepiej sprzedającą się grą na Nintendo Switch 2!",
-    "summary": "Premiera The Legend of Zelda: Ocarina of Time już za nami. Odświeżone wydanie jednej z najlepiej ocenianych gier wszechczasów pojawiło się na rynku 5 listopada 2026 roku. Jak podaje gigant z Kioto w oficjalnym komunikacie, najnowsze przygody Linka stały się najlepiej sprzedającą się grą na Nintendo Switch 2 w historii! W ciągu zaledwie 4 dni tytuł ekskluzywny dla „Pstryczka” sprzedał się na świecie w ponad 5,2 miliona egzemplarzy. W statystykę wliczono oczywiście fizyczne oraz cyfrowe kopie produkcji. W samej Japonii swoich nabywców znalazło aż 810 000 sztuk. Trzeba przyznać, że takie liczby robią wrażenie, szczególnie że The Legend of Zelda:",
-    "sourceUrl": "https://lowcygier.pl/aktualnosci/rekordowe-the-legend-of-zelda-ocarina-of-time-najlepiej-sprzedajaca-sie-gra-na-nintendo-switch-2/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Rekordowe-The-Legend-of-Zelda_-Ocarina-of-Time-najlepiej-sprzedajaca-sie-gra-na-Nintendo-Switch-2_minaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Najpierw wyłączyli grę, potem całą firmę. Studio z 440 pracownikami upada, a Bandai Namco zamyka twórców Unknown 9",
+    "summary": "Kolejne zwolnienia w branży gier. Bandai Namco zamknęło studio odpowiedzialne za Unknown 9: Awakening. Duży wydawca gier mobilnych również kończy swoją działalność. Informacja Najpierw wyłączyli grę, potem całą firmę. Studio z 440 pracownikami upada, a Bandai Namco zamyka twórców Unknown 9 została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/najpierw-wylaczyli-gre-potem-cala-firme-studio-z-440-pracownikami/zf322dd",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532091546.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Najpierw wyłączyli grę, potem całą firmę. Studio z 440 pracownikami upada, a Bandai Namco zamyka twórców Unknown 9",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/najpierw-wylaczyli-gre-potem-cala-firme-studio-z-440-pracownikami/zf322dd",
+      "publishedAt": "2026-11-11T12:18+01:00",
+      "summary": "Kolejne zwolnienia w branży gier. Bandai Namco zamknęło studio odpowiedzialne za Unknown 9: Awakening. Duży wydawca gier mobilnych również kończy swoją działalność. Informacja Najpierw wyłączyli grę, potem całą firmę. Studio z 440 pracownikami upada, a Bandai Namco zamyka twórców Unknown 9 została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532091546.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Konsekwencje nietrzymania swojego przyrodzenia w spodniach są ogromne! Nvidia traci majątek",
+      "sourceUrl": "https://www.ppe.pl/news/432833/konsekwencje-nietrzymania-swojego-przyrodzenia-w-spodniach-sa-ogromne-nvidia-traci-majatek.html",
+      "publishedAt": "2026-11-11T11:55+01:00",
+      "summary": "Gigant technologiczny trzęsie się w posadach, a wszystko przez... klasyczny romans. Jensen Huang, charyzmatyczny szef i założyciel Nvidii - firmy, która niemal w pojedynkę napędza obecną rewolucję sztucznej inteligencji - przyznał się do inty...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Podsumowali kwartał i zapowiadają rok pełen premier: Dawn of War 4, Titan Quest 2, Metro 2039 i Tomb Raider: Legacy of Atlantis",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/podsumowali-kwartal-i-zapowiadaja-rok-pelen-premier-dawn-of-war-4/ze322dc",
+      "publishedAt": "2026-11-11T11:41+01:00",
+      "summary": "Grupa Embracer opublikowała wyniki za drugi kwartał roku finansowego 2026/27. Firma podkreśla dobrą przedsprzedaż nadchodzących gier i podtrzymuje prognozę na cały rok. Informacja Podsumowali kwartał i zapowiadają rok pełen premier: Dawn of War 4, Titan Quest 2, Metro 2039 i Tomb Raider: Legacy of Atlantis została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532089639.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Już w najbliższy weekend odbędzie się Wielki Finał Mistrzostw Polski w Heroes 3! Zobaczcie, co przygotowali dla was organizatorzy",
+      "sourceUrl": "https://cdaction.pl/newsy/juz-w-najblizszy-weekend-odbedzie-sie-wielki-final-mistrzostw-polski-w-heroes-3-zobaczcie-co-przygotowali-dla-was-organizatorzy/",
+      "publishedAt": "2026-11-11T11:30+01:00",
+      "summary": "Kto wyjdzie zwycięsko z ostatecznego starcia?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/heroes-3-mistrzostwa-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Fairgame$ byłoby NAJWIĘKSZYM pośmiewiskiem PlayStation? Testerzy exa Sony pękali ze śmiechu",
+      "sourceUrl": "https://www.ppe.pl/news/432832/fairgame-byloby-najwiekszym-posmiewiskiem-playstation-testerzy-exa-sony-pekali-ze-smiechu.html",
+      "publishedAt": "2026-11-11T11:28+01:00",
+      "summary": "Wielkie ambicje Sony związane z rynkiem gier-usług po raz kolejny zderzyły się z brutalną rzeczywistością.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition za 2499 zł w Media Expert!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-za-2499-zl-w-media-expert/",
+      "publishedAt": "2026-11-11T11:25+01:00",
+      "summary": "Kolekcjonerska wersja konsoli Nintendo Switch 2 pojawiła się na rynku 29 października 2026 roku w cenie około 2699 zł. Jednak zaledwie dwa tygodnie po debiucie, w ramach wyprzedaży Media Expert Days, możecie zakupić sprzęt przyozdobiony symbolem Triforce, kilkoma małymi detalami i utrzymany w złoto-zielonej kolorystyce aż 200 zł taniej. Po wykorzystaniu specjalnego kodu zniżkowego, cena Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition wynosi 2499 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Premiera-Nintendo-Switch-2_-The-Legend-of-Zelda-40th-Anniversary-Edition-oficjalnie-ogloszona_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wyrzucani z pracy za poglądy. Patologia branży gier sięga znacznie dalej niż BioWare",
+      "sourceUrl": "https://www.ppe.pl/news/432826/wyrzucani-z-pracy-za-poglady-patologia-branzy-gier-siega-znacznie-dalej-niz-bioware.html",
+      "publishedAt": "2026-11-11T11:13+01:00",
+      "summary": "Autor najlepszego RPG w dziejach gier niedawno obnażył patologię, jaka panowała w procesie rekrutacyjnym w BioWare. Okazuje się, że z podobną sytuacją mamy do czynienia również w innych zespołach tworzących gry.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórca legendarnego Garry’s Mod udostępnia za darmo swoją nową grę. „Nie potrzebujemy opłaty za wstęp, potrzebujemy graczy”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworca-legendarnego-garrys-mod-udostepnia-za-darmo-swoja-nowa-gre/z431f5e",
+      "publishedAt": "2026-11-11T11:05+01:00",
+      "summary": "Twórca sandboxa Garry’s Mod ma problemy ze swoją najnowszą grą. Żeby przyciągnąć do niej fanów, zapowiedział jej dystrybucję w modelu free-to-play. Informacja Twórca legendarnego Garry’s Mod udostępnia za darmo swoją nową grę. „Nie potrzebujemy opłaty za wstęp, potrzebujemy graczy” została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/529693613.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "TOP 10 gier Sony generacji PS5. Wielkie zestawienie z masą niespodzianek",
+      "sourceUrl": "https://www.ppe.pl/news/432830/top-10-gier-sony-generacji-ps5-wielkie-zestawienie-z-masa-niespodzianek.html",
+      "publishedAt": "2026-11-11T11:04+01:00",
+      "summary": "Przy okazji hucznie ogłoszonego przekroczenia bariery 100 milionów sprzedanych konsol PlayStation 5, w sieci pojawiło się niezwykle ciekawe zestawienie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Remake The Legend of Zelda: Ocarina of Time notuje rekordową sprzedaż. Nintendo chwali się szalonymi liczbami",
+      "sourceUrl": "https://cdaction.pl/newsy/remake-the-legend-of-zelda-ocarina-of-time-notuje-rekordowa-sprzedaz-nintendo-chwali-sie-szalonymi-liczbami/",
+      "publishedAt": "2026-11-11T11:00+01:00",
+      "summary": "Nawet świeże bułeczki nie rozchodzą się tak szybko.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/The-Legend-of-Zelda-Ocarina-of-Time-remake.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kobieta przez dziewięć lat oszczędzała na działkę i zainwestowała w nią wszystkie oszczędności. Następnie grupa wolontariuszy zbudowała jej dom z 850 klocków z plastiku z recyklingu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kobieta-przez-dziewiec-lat-oszczedzala-na-dzialke-i-zainwestowala/z53229e",
+      "publishedAt": "2026-11-11T11:00+01:00",
+      "summary": "Organizacje społeczne w Kostaryce pomogły samotnej matce zbudować dom z plastiku. Kobieta wydała wszystkie oszczędności na działkę, przez co zabrakło jej na postawienie budynku. Informacja Kobieta przez dziewięć lat oszczędzała na działkę i zainwestowała w nią wszystkie oszczędności. Następnie grupa wolontariuszy zbudowała jej dom z 850 klocków z plastiku z recyklingu została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531929804.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Silent Hill 2 jest bardziej gotycki niż Resident Evil Village. Nie potrzeba zamków i wampirów, by stworzyć prawdziwy horror",
+      "sourceUrl": "https://www.gry-online.pl/opinie/silent-hill-2-i-polski-klasyk-literatury-maja-zaskakujaco-duzo-ws/z949d8",
+      "publishedAt": "2026-11-11T11:00+01:00",
+      "summary": "Gotyk to nie tylko kostium, który ma straszyć. To fabuły, które robią spustoszenie w głowie, każąc nam krążyć po niekoniecznie dosłownych labiryntach, jak w Silent Hill 2. Informacja Silent Hill 2 jest bardziej gotycki niż Resident Evil Village. Nie potrzeba zamków i wampirów, by stworzyć prawdziwy horror została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Rekordowe The Legend of Zelda: Ocarina of Time najlepiej sprzedającą się grą na Nintendo Switch 2!",
