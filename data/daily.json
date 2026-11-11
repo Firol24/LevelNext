@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T05:01+01:00",
+  "updatedAt": "2026-11-11T06:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Promocja na Hot Wheels Mattel Lamborghini Miura P400 SV (1523 el.) za 399 zł w Media Expert!",
-    "summary": "Świetna promocja na klocki Hot Wheels pojawiła się w internetowym sklepie Media Expert. W ramach okazji, najnowszy aktualnie wariant z serii Mattel Brick Shop Premium Series dostępny jest za 399,99 zł. Model Lamborghini Miura P400 SV w skali 1:12, składający się z imponującej liczby 1523 elementów, zawiera kultowy samochód włoskiej marki z unikalnymi elementami, metalowy resorak (1:64) z gablotką oraz breloczek. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-hot-wheels-mattel-lamborghini-miura-p400-sv-1523-el-za-399-zl-w-media-expert/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-Hot-Wheels-Mattel-Lamborghini-Miura-P400-SV-1523-el.-za-419-zl-na-Allegro_obrazek_minaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "GTA 6 z recenzjami od pierwszych graczy. Nie mogło być inaczej",
+    "summary": "Premiera Grand Theft Auto 6 to w tym momencie temat numer jeden na całym świecie. Do oficjalnego debiutu zostało już tylko kilka dni, a atmosfera wyczekiwania gęstnieje z każdą kolejną godziną.",
+    "sourceUrl": "https://www.ppe.pl/news/432749/gta-6-z-recenzjami-od-pierwszych-graczy-nie-moglo-byc-inaczej.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z recenzjami od pierwszych graczy. Nie mogło być inaczej",
+      "sourceUrl": "https://www.ppe.pl/news/432749/gta-6-z-recenzjami-od-pierwszych-graczy-nie-moglo-byc-inaczej.html",
+      "publishedAt": "2026-11-11T05:52+01:00",
+      "summary": "Premiera Grand Theft Auto 6 to w tym momencie temat numer jeden na całym świecie. Do oficjalnego debiutu zostało już tylko kilka dni, a atmosfera wyczekiwania gęstnieje z każdą kolejną godziną.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Promocja na Hot Wheels Mattel Lamborghini Miura P400 SV (1523 el.) za 399 zł w Media Expert!",
