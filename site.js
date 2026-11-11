@@ -2,8 +2,8 @@
   "use strict";
 
   function init() {
-    var clock = document.getElementById("clock");
     function tick() {
+      var clock = document.getElementById("clock");
       if (!clock) return;
       clock.textContent = new Date().toLocaleString("pl-PL", {
         weekday: "short",
@@ -244,12 +244,13 @@
         }, 95);
       });
     }
+    window.levelNextSetupMission = setupMission;
     setupMission("rollMission", "mission", "missionState");
     setupMission("rollRetro", "retro-action", "retroMissionState");
 
 
     // Wlasny CMS witryny LEVEL NEXT. Dane sa oddzielone od LEVEL NEXT DAILY.
-    (function loadSiteContent() {
+    function loadSiteContent() {
       var page = (window.location.pathname.split("/").pop() || "index.html").toLowerCase();
       fetch("data/site-content.json?ts=" + Date.now(), { cache: "no-store" })
         .then(function (response) { if (!response.ok) throw new Error("CMS unavailable"); return response.json(); })
@@ -306,13 +307,121 @@
           document.documentElement.dataset.cmsLoaded = "true";
           document.dispatchEvent(new Event("levelnextcmsready"));
         }).catch(function () { document.documentElement.dataset.cmsLoaded = "true"; });
-    })();
+    }
+    window.levelNextLoadSiteContent = loadSiteContent;
+    loadSiteContent();
 
     // Zaznaczenie aktywnej zakladki na kazdej podstronie.
-    var currentPage = (window.location.pathname.split("/").pop() || "index.html").toLowerCase();
-    document.querySelectorAll(".nav a").forEach(function (link) {
-      var target = (link.getAttribute("href") || "").split("#")[0].toLowerCase();
-      if (target === currentPage) link.setAttribute("aria-current", "page");
+    function markCurrentNavigation() {
+      var currentPage = (window.location.pathname.split("/").pop() || "index.html").toLowerCase();
+      document.querySelectorAll(".nav a").forEach(function (link) {
+        var target = (link.getAttribute("href") || "").split(/[?#]/)[0].toLowerCase();
+        if (target === currentPage) link.setAttribute("aria-current", "page");
+        else link.removeAttribute("aria-current");
+      });
+    }
+    markCurrentNavigation();
+
+    // Nawigacja bez przeladowania dokumentu. Winamp pozostaje w tym samym
+    // elemencie DOM, wiec audio nie przerywa pracy podczas zmiany podstron.
+    function syncPageHead(nextDocument) {
+      document.title = nextDocument.title || "LEVEL NEXT";
+      var description = nextDocument.querySelector('meta[name="description"]');
+      var currentDescription = document.querySelector('meta[name="description"]');
+      if (description && currentDescription) currentDescription.setAttribute("content", description.content);
+      document.querySelectorAll("style[data-levelnext-page-style],link[data-levelnext-page-head]").forEach(function (node) { node.remove(); });
+      nextDocument.querySelectorAll("style").forEach(function (node) {
+        var copy = document.createElement("style");
+        copy.setAttribute("data-levelnext-page-style", "");
+        copy.textContent = node.textContent;
+        document.head.appendChild(copy);
+      });
+      nextDocument.querySelectorAll('link[rel="stylesheet"],link[rel="preconnect"]').forEach(function (node) {
+        var href = node.getAttribute("href");
+        if (!href) return;
+        if (href.indexOf("site.css") !== -1) return;
+        var copy = document.createElement("link");
+        Array.from(node.attributes).forEach(function (attribute) { copy.setAttribute(attribute.name, attribute.value); });
+        copy.setAttribute("data-levelnext-page-head", "");
+        document.head.appendChild(copy);
+      });
+    }
+
+    var pageLoading = false;
+    function navigatePage(url, addHistory) {
+      if (pageLoading) return;
+      pageLoading = true;
+      fetch(url.href, { credentials: "same-origin" })
+        .then(function (response) {
+          if (!response.ok) throw new Error("Page load failed");
+          return response.text();
+        })
+        .then(function (html) {
+          var nextDocument = new DOMParser().parseFromString(html, "text/html");
+          if (!nextDocument.body) throw new Error("Invalid page");
+          var nextPlayer = nextDocument.getElementById("winampWindow");
+          if (nextPlayer) nextPlayer.remove();
+          var nextLauncher = nextDocument.getElementById("winampLauncher");
+          if (nextLauncher) nextLauncher.remove();
+
+          var persistentPlayer = document.getElementById("winampWindow");
+          var persistentLauncher = document.getElementById("winampLauncher");
+          Array.from(document.body.children).forEach(function (node) {
+            if (node !== persistentPlayer && node !== persistentLauncher) node.remove();
+          });
+          Array.from(nextDocument.body.children).forEach(function (node) {
+            if (node.tagName === "SCRIPT") return;
+            document.body.appendChild(document.importNode(node, true));
+          });
+          if (persistentPlayer) document.body.appendChild(persistentPlayer);
+          if (persistentLauncher) document.body.appendChild(persistentLauncher);
+
+          syncPageHead(nextDocument);
+          document.documentElement.lang = nextDocument.documentElement.lang || "pl";
+          if (addHistory) history.pushState({ levelNext: true }, "", url.href);
+          window.scrollTo(0, 0);
+
+          // Uruchom skrypty danej podstrony, ale nie laduj ponownie wspolnego site.js.
+          nextDocument.body.querySelectorAll("script").forEach(function (oldScript) {
+            if (oldScript.src && oldScript.src.indexOf("site.js") !== -1) return;
+            var script = document.createElement("script");
+            Array.from(oldScript.attributes).forEach(function (attribute) { script.setAttribute(attribute.name, attribute.value); });
+            script.textContent = oldScript.textContent;
+            document.body.appendChild(script);
+            if (!script.src) script.remove();
+          });
+
+          markCurrentNavigation();
+          if (window.levelNextSetupMission) {
+            window.levelNextSetupMission("rollMission", "mission", "missionState");
+            window.levelNextSetupMission("rollRetro", "retro-action", "retroMissionState");
+          }
+          if (window.levelNextLoadSiteContent) window.levelNextLoadSiteContent();
+          document.dispatchEvent(new CustomEvent("levelnext:pagechange", { detail: { url: url.href } }));
+          if (url.hash) {
+            var target = document.getElementById(decodeURIComponent(url.hash.slice(1)));
+            if (target) target.scrollIntoView();
+          }
+        })
+        .catch(function () { window.location.href = url.href; })
+        .finally(function () { pageLoading = false; });
+    }
+
+    document.addEventListener("click", function (event) {
+      if (event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      var link = event.target.closest("a[href]");
+      if (!link || link.target === "_blank" || link.hasAttribute("download") || link.hasAttribute("data-no-pjax")) return;
+      var url;
+      try { url = new URL(link.href, window.location.href); } catch (error) { return; }
+      if (url.origin !== window.location.origin || !/\.html$/i.test(url.pathname)) return;
+      if (/^(admin|dodaj)\.html$/i.test(url.pathname.split("/").pop())) return;
+      if (url.href === window.location.href) return;
+      event.preventDefault();
+      navigatePage(url, true);
+    });
+
+    window.addEventListener("popstate", function () {
+      navigatePage(new URL(window.location.href), false);
     });
   }
 
