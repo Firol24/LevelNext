@@ -1,17 +1,50 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T12:01+01:00",
+  "updatedAt": "2026-11-11T13:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Najpierw wyłączyli grę, potem całą firmę. Studio z 440 pracownikami upada, a Bandai Namco zamyka twórców Unknown 9",
-    "summary": "Kolejne zwolnienia w branży gier. Bandai Namco zamknęło studio odpowiedzialne za Unknown 9: Awakening. Duży wydawca gier mobilnych również kończy swoją działalność. Informacja Najpierw wyłączyli grę, potem całą firmę. Studio z 440 pracownikami upada, a Bandai Namco zamyka twórców Unknown 9 została opublikowana przez GRYOnline.pl 11 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/najpierw-wylaczyli-gre-potem-cala-firme-studio-z-440-pracownikami/zf322dd",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532091546.jpg"
+    "title": "Nowa gra po GTA 6 wspomniana przez Take-Two. Rockstar Games szykuje się do akcji",
+    "summary": "Premiera Grand Theft Auto 6 jest już na wyciągnięcie ręki. Po wielu latach wyczerpującego oczekiwania - w końcu od debiutu „piątki” i Red Dead Redemption 2 minęła cała epoka - pierwsza nowa gra Rockstar Games trafi do graczy już za kilkan...",
+    "sourceUrl": "https://www.ppe.pl/news/432835/nowa-gra-po-gta-6-wspomniana-przez-take-two-rockstar-games-szykuje-sie-do-akcji.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Nowa gra po GTA 6 wspomniana przez Take-Two. Rockstar Games szykuje się do akcji",
+      "sourceUrl": "https://www.ppe.pl/news/432835/nowa-gra-po-gta-6-wspomniana-przez-take-two-rockstar-games-szykuje-sie-do-akcji.html",
+      "publishedAt": "2026-11-11T12:48+01:00",
+      "summary": "Premiera Grand Theft Auto 6 jest już na wyciągnięcie ręki. Po wielu latach wyczerpującego oczekiwania - w końcu od debiutu „piątki” i Red Dead Redemption 2 minęła cała epoka - pierwsza nowa gra Rockstar Games trafi do graczy już za kilkan...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Kupiliście kiedyś grę na Steam Decka, nie wiedząc, jak będzie na nim działać? Od teraz nie będziecie musieli już tego robić",
+      "sourceUrl": "https://cdaction.pl/newsy/kupiliscie-kiedys-gre-na-steam-decka-nie-wiedzac-jak-bedzie-na-nim-dzialac-od-teraz-nie-bedziecie-musieli-juz-tego-robic/",
+      "publishedAt": "2026-11-11T12:30+01:00",
+      "summary": "Valve wprowadza przydatną funkcję dla tych, którym zależy na wysokich fps-ach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/steam-8858.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Sony skasowało grę Fairgames! Czy PlayStation uczy się na błędach Concord i Marathon?",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/sony-skasowalo-gre-fairgames-czy-playstation-uczy-sie-na-bledach-concord-i-marathon/",
+      "publishedAt": "2026-11-11T12:29+01:00",
+      "summary": "Łowcy, jeszcze w czerwcu informowaliśmy Was, że japoński gigant z uporem maniaka brnie w GaaS (Games as a Service) . Zdaniem Sony gry live-service mają ogromny, niewykorzystany potencjał jako wciąż świeży gatunek. Kończący się właśnie rok jednak mocno weryfikuje te zapowiedzi… Według oficjalnych komunikatów Japończycy anulowali grę Fairgames! W dużym skrócie oznacza to wyrzucenie do kosza powstającego od 5 lat projektu (początek prac datuje się na 2021 rok) , który nie zyskał przychylności graczy w ramach ostatnich, zamkniętych testów. Tym razem obędzie się bez zwolnień, ponieważ członkowie kanadyjskiego zespołu Haven Studios zostaną oddelego",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Sony-skasowalo-gre-Fairgames-Czy-PlayStation-uczy-sie-na-bledach-Concord-i-Marathon__miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowa zakładka PS Store na PS5. Już dostępna",
+      "sourceUrl": "https://www.ppe.pl/news/432834/nowa-zakladka-ps-store-na-ps5-juz-dostepna.html",
+      "publishedAt": "2026-11-11T12:21+01:00",
+      "summary": "Sony postanowiło odświeżyć interfejs cyfrowego sklepu na PlayStation 5, dodając do niego nową, na pierwszy rzut oka bardzo obiecującą zakładkę.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Najpierw wyłączyli grę, potem całą firmę. Studio z 440 pracownikami upada, a Bandai Namco zamyka twórców Unknown 9",
@@ -20,6 +53,23 @@
       "summary": "Kolejne zwolnienia w branży gier. Bandai Namco zamknęło studio odpowiedzialne za Unknown 9: Awakening. Duży wydawca gier mobilnych również kończy swoją działalność. Informacja Najpierw wyłączyli grę, potem całą firmę. Studio z 440 pracownikami upada, a Bandai Namco zamyka twórców Unknown 9 została opublikowana przez GRYOnline.pl 11 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532091546.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation próbuje uratować nową strzelankę. Tydzień darmowej rozgrywki i tryb PvE",
+      "sourceUrl": "https://www.ppe.pl/news/432836/playstation-probuje-uratowac-nowa-strzelanke-tydzien-darmowej-rozgrywki-i-tryb-pve.html",
+      "publishedAt": "2026-11-11T12:14+01:00",
+      "summary": "Nowa gra Bungie debiutowała z mocnymi wynikami, ale paliwo skończyło się tutaj bardzo szybko.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ważny patch Marathonu dostał nowy zwiastun. Dwa świeże tryby rozgrywki mają pomóc poprawić sytuację gry",
+      "sourceUrl": "https://cdaction.pl/newsy/wazny-patch-marathonu-dostal-nowy-zwiastun-dwa-swieze-tryby-rozgrywki-maja-pomoc-poprawic-sytuacje-gry/",
+      "publishedAt": "2026-11-11T12:00+01:00",
+      "summary": "Marathon dostał zadyszki i teraz szuka nowej energii, by biec dalej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Marathon-1260x658.jpg"
     },
     {
       "sourceName": "PPE",
