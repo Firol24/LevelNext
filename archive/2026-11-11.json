@@ -1,16 +1,95 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T09:03+01:00",
+  "updatedAt": "2026-11-11T10:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "God of War Trilogy Remake będzie PRZEOGROMNE. Wyciekają nowe szczegóły",
-    "summary": "Przygody Kratosa w starożytnej Grecji to dla wielu z nas absolutny fundament i jedne z najlepszych wspomnień z czasów starszych konsol PlayStation. Od jakiegoś czasu natomiast po sieci krążą plotki o powrocie pierwszej trylogii God of War, co sam...",
-    "sourceUrl": "https://www.ppe.pl/news/432760/god-of-war-trilogy-remake-bedzie-przeogromne-wyciekaja-nowe-szczegoly.html"
+    "title": "30 fps w GTA 6 to dla jednych dramat, dla innych cena za najbardziej szczegółowy świat. Internet kłóci się o klatki",
+    "summary": "Informacja o możliwości zabawy w 30 fps-ach w GTA 6 na konsolach podzieliła graczy. Część fanów rozumie decyzję Rockstara, a niektórzy coraz bardziej tracą entuzjazm. Informacja 30 fps w GTA 6 to dla jednych dramat, dla innych cena za najbardziej szczegółowy świat. Internet kłóci się o klatki została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/30-fps-w-gta-6-to-dla-jednych-dramat-dla-innych-cena-za-najbardzi/zd322db",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532086334.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "30 fps w GTA 6 to dla jednych dramat, dla innych cena za najbardziej szczegółowy świat. Internet kłóci się o klatki",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/30-fps-w-gta-6-to-dla-jednych-dramat-dla-innych-cena-za-najbardzi/zd322db",
+      "publishedAt": "2026-11-11T10:49+01:00",
+      "summary": "Informacja o możliwości zabawy w 30 fps-ach w GTA 6 na konsolach podzieliła graczy. Część fanów rozumie decyzję Rockstara, a niektórzy coraz bardziej tracą entuzjazm. Informacja 30 fps w GTA 6 to dla jednych dramat, dla innych cena za najbardziej szczegółowy świat. Internet kłóci się o klatki została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532086334.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zelda Ocarina of Time Remake z NIEWYOBRAŻALNYM sukcesem. Sprzedaż zwala z nóg",
+      "sourceUrl": "https://www.ppe.pl/news/432828/zelda-ocarina-of-time-remake-z-niewyobrazalnym-sukcesem-sprzedaz-zwala-z-nog.html",
+      "publishedAt": "2026-11-11T09:43+01:00",
+      "summary": "Powrót do krainy Hyrule okazał się strzałem w dziesiątkę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "PlayStation 5 osiągnęło coś, czego do tej pory dokonały tylko trzy inne konsole Sony",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/playstation-5-osiagnelo-cos-czego-do-tej-pory-dokonaly-tylko-trzy/zc322da",
+      "publishedAt": "2026-11-11T09:34+01:00",
+      "summary": "Sony poinformowało, że do 10 listopada 2026 roku wysłało do sklepów ponad 100 mln konsol PlayStation 5. Do tej pory ten pułap przekroczyły tylko trzy poprzednie konsole firmy. Informacja PlayStation 5 osiągnęło coś, czego do tej pory dokonały tylko trzy inne konsole Sony została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532081980.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony traci kontrolę nad swoimi exclusivami. Kilka hitów z PS5 już działa w 60 fps na PC",
+      "sourceUrl": "https://www.ppe.pl/news/432825/sony-traci-kontrole-nad-swoimi-exclusivami-kilka-hitow-z-ps5-juz-dziala-w-60-fps-na-pc.html",
+      "publishedAt": "2026-11-11T09:28+01:00",
+      "summary": "Co dzieje się aktualnie w sprawie emulacji gier z PS5 na PC? Twórcy takich projektów nie zwalniają.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Sony odtrąbiło wielki sukces PS5 tydzień przed premierą GTA 6. Konsola sprzedała się w imponującej liczbie",
+      "sourceUrl": "https://cdaction.pl/newsy/sony-odtrabilo-wielki-sukces-ps5-tydzien-przed-premiera-gta-6-konsola-sprzedala-sie-w-imponujacej-liczbie/",
+      "publishedAt": "2026-11-11T09:26+01:00",
+      "summary": "PlayStation 5 się rozmnożyło... nie wiedzieć kiedy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/playstation2-1260x837.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Pięć milionów w 4 dni. Remake Zeldy z najlepszym startem w historii Switcha 2",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/piec-milionow-w-4-dni-remake-zeldy-z-najlepszym-startem-w-histori/z4322d9",
+      "publishedAt": "2026-11-11T09:23+01:00",
+      "summary": "Nintendo pochwaliło się wynikami sprzedaży remake&apos;u The Legend of Zelda: Ocarina of Time. Gra notuje najlepszy start spośród wszystkich tytułów firmy na Switchu 2. Informacja Pięć milionów w 4 dni. Remake Zeldy z najlepszym startem w historii Switcha 2 została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532081398.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Football Manager 27 za jedyne 142 zł! Sprawdź gdzie kupić klucz Steam w świetnej cenie",
+      "sourceUrl": "https://lowcygier.pl/preordery/football-manager-27-za-jedyne-142-zl-sprawdz-gdzie-kupic-klucz-steam-w-swietnej-cenie/",
+      "publishedAt": "2026-11-11T09:20+01:00",
+      "summary": "Jeśli ograliście Football Manager 27 w ramach darmowego okresu próbnego i macie niedosyt, spieszymy z pomocą. 10 listopada miała miejsce premiera najnowszej odsłony serii gier studia Sports Interactive. Miłośnicy piłki nożnej oraz tabelek, statystyk i cyferek, mogą sięgnąć po grę m.in. w Kinguinie, gdzie klucz Steam został wyceniony na nieco ponad 140 zł. Warto wspomnieć, że FM27 korzysta z silnika Unity. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/football-manager-27-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 w szczegółach po 6 latach od premiery. Przebito NAJWAŻNIEJSZY kamień milowy",
+      "sourceUrl": "https://www.ppe.pl/news/432829/ps5-w-szczegolach-po-6-latach-od-premiery-przebito-najwazniejszy-kamien-milowy.html",
+      "publishedAt": "2026-11-11T09:18+01:00",
+      "summary": "PlayStation 5 właśnie przekroczyło magiczną barierę, udowadniając swoją potęgę na rynku gamingowym.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nawet Diuna i Steven Spielberg nie mieli szans w starciu z jej twórczością w 2022 roku: jej nowy film wchodzi na ekrany za 2 dni",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nawet-diuna-i-steven-spielberg-nie-mieli-szans-w-starciu-z-jej-tw/zf322bf",
+      "publishedAt": "2026-11-11T09:02+01:00",
+      "summary": "Na Apple TV zmierza nowy film reżyserki, której poprzednia produkcja w 2022 roku wróciła do domu z Oscarem dla najlepszego filmu. Informacja Nawet Diuna i Steven Spielberg nie mieli szans w starciu z jej twórczością w 2022 roku: jej nowy film wchodzi na ekrany za 2 dni została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532010608.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "God of War Trilogy Remake będzie PRZEOGROMNE. Wyciekają nowe szczegóły",
@@ -76,6 +155,15 @@
       "publishedAt": "2026-11-11T06:49+01:00",
       "summary": "Twórcy ze studia SHIFT UP mają ostatnio mnóstwo powodów do zadowolenia, a przy okazji publikacji swojego najnowszego kwartalnego raportu finansowego postanowili podzielić się z fanami garścią świetnych informacji.",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Pierwsza „gra AAA” od Devolver Digital. Popularny wydawca jak zwykle spłatał graczom niezłego psikusa",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pierwsza-gra-aaa-od-devolver-digital-popularny-wydawca-jak-zwykle/zf322d4",
+      "publishedAt": "2026-11-11T06:30+01:00",
+      "summary": "Devolver Digital pokazało swoją pierwszą grę „AAA”. Nowy roguelike to kolorowa i chaotyczna produkcja, której demo wkrótce będzie dostępne. Informacja Pierwsza „gra AAA” od Devolver Digital. Popularny wydawca jak zwykle spłatał graczom niezłego psikusa została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532042779.jpg"
     },
     {
       "sourceName": "PPE",
