@@ -1,17 +1,50 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T18:01+01:00",
+  "updatedAt": "2026-11-11T19:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 ocenzurowane? Gracze zauważyli, że japońska wersja waży o 1 GB mniej",
-    "summary": "Japońska wersja GTA 6 zajmuje wyraźnie mniej miejsca na dysku niż w pozostałych regionach. Niewykluczone, że została ona ocenzurowana. Informacja GTA 6 ocenzurowane? Gracze zauważyli, że japońska wersja waży o 1 GB mniej została opublikowana przez GRYOnline.pl 11 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-ocenzurowane-gracze-zauwazyli-ze-japonska-wersja-wazy-o-1-g/zc322e0",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532110833.jpg"
+    "title": "Winy zostały odkupione, gracze są niemal jednomyślni: Football Manager 27 podbija Steama",
+    "summary": "Football Manager 27 oficjalnie zadebiutował na rynku. Pierwsze recenzje sugerują, że deweloperzy odrobili pracę domową po zeszłorocznej wpadce. Informacja Winy zostały odkupione, gracze są niemal jednomyślni: Football Manager 27 podbija Steama została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/winy-zostaly-odkupione-gracze-sa-niemal-jednomyslni-football-mana/zd322e1",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532116476.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Winy zostały odkupione, gracze są niemal jednomyślni: Football Manager 27 podbija Steama",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/winy-zostaly-odkupione-gracze-sa-niemal-jednomyslni-football-mana/zd322e1",
+      "publishedAt": "2026-11-11T19:08+01:00",
+      "summary": "Football Manager 27 oficjalnie zadebiutował na rynku. Pierwsze recenzje sugerują, że deweloperzy odrobili pracę domową po zeszłorocznej wpadce. Informacja Winy zostały odkupione, gracze są niemal jednomyślni: Football Manager 27 podbija Steama została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532116476.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS Plus zaczyna od mocnego uderzenia! Pierwszy hit dostępny do pobrania",
+      "sourceUrl": "https://www.ppe.pl/news/432855/ps-plus-zaczyna-od-mocnego-uderzenia-pierwszy-hit-dostepny-do-pobrania.html",
+      "publishedAt": "2026-11-11T19:00+01:00",
+      "summary": "Listopadowa oferta PlayStation Plus Extra zaczyna trafiać do subskrybentów.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 prezentuje niewyobrażalny poziom. Twórca nie kryje podziwu",
+      "sourceUrl": "https://www.ppe.pl/news/432863/gta-6-prezentuje-niewyobrazalny-poziom-tworca-nie-kryje-podziwu.html",
+      "publishedAt": "2026-11-11T18:45+01:00",
+      "summary": "Grand Theft Auto VI to pierwsza odsłona flagowej serii Rockstar Games od 13 lat. Zespół miał jednak podstawy, by się nie spieszyć z wypuszczeniem kolejnej dużej gry z otwartym światem. Produkcja ma oferować niewyobrażalny poziom dopracowania, ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nintendo nie odpuszcza piratom. Najpierw gry, teraz modchipy",
+      "sourceUrl": "https://www.ppe.pl/news/432858/nintendo-nie-odpuszcza-piratom-najpierw-gry-teraz-modchipy.html",
+      "publishedAt": "2026-11-11T18:31+01:00",
+      "summary": "Nintendo kontynuuje walkę z piractwem. Firma tym razem uderza w oprogramowanie wykorzystywane do modyfikowania Switcha.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 ocenzurowane? Gracze zauważyli, że japońska wersja waży o 1 GB mniej",
