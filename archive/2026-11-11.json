@@ -1,16 +1,68 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T15:01+01:00",
+  "updatedAt": "2026-11-11T16:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Driver 2 wygląda przepięknie! Unreal Engine 5 i NVIDIA DLSS 5 odmienił klasyka PlayStation",
-    "summary": "Driver 2 zadebiutował na pierwszym PlayStation w listopadzie 2000 roku, ale jeden z fanów postanowił sprawdzić, jak jego kultowe lokacje prezentowałyby się we współczesnej oprawie.",
-    "sourceUrl": "https://www.ppe.pl/news/432845/driver-2-wyglada-przepieknie-unreal-engine-5-i-nvidia-dlss-5-odmienil-klasyka-playstation.html"
+    "title": "Nowy dodatek do ETS2 ma aż 94% pozytywnych ocen na Steamie i miło zaskoczył graczy ceną",
+    "summary": "Islandia jest już dostępna w ramach najnowszego dodatku do Euro Truck Simulator 2. Rozszerzenie zebrało bardzo pozytywne recenzje na Steamie i zachwyciło graczy pięknymi krajobrazami. Informacja Nowy dodatek do ETS2 ma aż 94% pozytywnych ocen na Steamie i miło zaskoczył graczy ceną została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-dodatek-do-ets2-ma-az-94-pozytywnych-ocen-na-steamie-i-milo/z1322df",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532107660.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy dodatek do ETS2 ma aż 94% pozytywnych ocen na Steamie i miło zaskoczył graczy ceną",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-dodatek-do-ets2-ma-az-94-pozytywnych-ocen-na-steamie-i-milo/z1322df",
+      "publishedAt": "2026-11-11T16:41+01:00",
+      "summary": "Islandia jest już dostępna w ramach najnowszego dodatku do Euro Truck Simulator 2. Rozszerzenie zebrało bardzo pozytywne recenzje na Steamie i zachwyciło graczy pięknymi krajobrazami. Informacja Nowy dodatek do ETS2 ma aż 94% pozytywnych ocen na Steamie i miło zaskoczył graczy ceną została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532107660.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Superman 3 i inne filmy były w planach. Odejście Jamesa Gunna może wszystko przekreślić",
+      "sourceUrl": "https://www.ppe.pl/news/432856/superman-3-i-inne-filmy-byly-w-planach-odejscie-jamesa-gunna-moze-wszystko-przekreslic.html",
+      "publishedAt": "2026-11-11T15:56+01:00",
+      "summary": "James Gunn i Peter Safran mieli ambitniejsze plany wobec DCU, niż oficjalnie ujawniono. Według najnowszych doniesień twórca nowego DCU pracował już nad Superman 3.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na klocki LEGO w Media Expert. Zestaw Disney Heihei (566 el.) już za 99 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-klocki-lego-w-media-expert-zestaw-disney-heihei-566-el-juz-za-99-zl/",
+      "publishedAt": "2026-11-11T15:56+01:00",
+      "summary": "W ramach wyprzedaży Media Expert Days możecie wykorzystać specjalny kod zniżkowy i zakupić tanio LEGO Disney Heiheia. Składający się z 566 elementów model kurczaka z animowanego filmu Vaiana dostępny jest za jedyne 99 zł. Warto dodać, że wariant ten posiada ruchome elementy, dzięki czemu będziecie mogli dostosować jego wygląd do swoich upodobań. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/07/lego-disney-heihei-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Masz konsolę i chcesz zagrać w najbrutalniejszą grę roku? Zagraj w demo i sprawdź czy to coś dla Ciebie",
+      "sourceUrl": "https://www.ppe.pl/news/432850/masz-konsole-i-chcesz-zagrac-w-najbrutalniejsza-gre-roku-zagraj-w-demo-i-sprawdz-czy-to-cos-dla-ciebie.html",
+      "publishedAt": "2026-11-11T15:35+01:00",
+      "summary": "Użytkownicy konsol, którzy są fanami mocnych wrażeń mogą od teraz sprawdzić najnowszy survival horror. Otóż na PlayStation 5 i Xbox Series X|S pojawiło się demo wydanej niedawno produkcji, która nie stroni od brutalności.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Urodzinowy Mystery Chest Bundle w Fanatical. Zestaw aż 25 losowych kluczy Steam za 79 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/urodzinowy-mystery-chest-bundle-w-fanatical-zestaw-az-25-losowych-kluczy-steam-za-79-zl/",
+      "publishedAt": "2026-11-11T15:33+01:00",
+      "summary": "Łowcy, z okazji 31. urodzin sklepu, zespół Fanatical przygotował dla Was specjalną odsłonę pakietu z losowymi grami PC. W ramach gigantycznego zestawu Mystery Birthday Bundle macie szansę zdobyć maksymalnie 25 tytułów Steam. Całość oferowana jest w aż sześciu progach kwotowych, a najdroższy z nich został wyceniony na niecałe niecałe 79 zł, co daje nam przelicznik ok. 3,15 zł za jedną pozycję na PC! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Urodzinowy-Mystery-Chest-Bundle-w-Fanatical.-Zestaw-az-25-losowych-kluczy-Steam-za-79-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nintendo usuwa dwie popularne metody logowania. Gracze mają niewiele czasu",
+      "sourceUrl": "https://www.ppe.pl/news/432844/nintendo-usuwa-dwie-popularne-metody-logowania-gracze-maja-niewiele-czasu.html",
+      "publishedAt": "2026-11-11T15:16+01:00",
+      "summary": "Nintendo zapowiedziało istotną zmianę dotyczącą kont użytkowników.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Driver 2 wygląda przepięknie! Unreal Engine 5 i NVIDIA DLSS 5 odmienił klasyka PlayStation",
@@ -60,6 +112,24 @@
       "summary": "Obie firmy jednak nie ujawniły, jak będą wyglądać ich wspólne działania.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-3.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W 1972 roku Japończycy zbudowali wieżowiec ze 140 wymiennych mieszkań, które miały przetrwać kolejne dekady. Przez 50 lat nie wymieniono ani jednego w zaplanowany sposób",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-1972-roku-japonczycy-zbudowali-wiezowiec-ze-140-wymiennych-mies/zb322ca",
+      "publishedAt": "2026-11-11T14:00+01:00",
+      "summary": "W Japonii przez 50 lat stał wieżowiec zbudowany z modułowych kapsuł. Według założeń każdą z nich miano niezależnie odłączać i naprawiać. Nigdy do tego nie doszło, a budowlę ostatecznie rozebrano. Informacja W 1972 roku Japończycy zbudowali wieżowiec ze 140 wymiennych mieszkań, które miały przetrwać kolejne dekady. Przez 50 lat nie wymieniono ani jednego w zaplanowany sposób została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532017055.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Miała wykorzystać lukę po GTA 6, a utknęła w sporze o AI. Olbrzymia skala nie pomogła nowej strategii na Steamie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/miala-wykorzystac-luke-po-gta-6-a-utknela-w-sporze-o-ai-olbrzymia/z0322de",
+      "publishedAt": "2026-11-11T13:58+01:00",
+      "summary": "Debiutujące na moment przed GTA 6 Ashes of the Singularity 2 zbiera mieszane recenzje. Gracze dyskutują na temat sposobu wykorzystania AI w produkcji. Informacja Miała wykorzystać lukę po GTA 6, a utknęła w sporze o AI. Olbrzymia skala nie pomogła nowej strategii na Steamie została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532097745.jpg"
     },
     {
       "sourceName": "PPE",
