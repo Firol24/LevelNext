@@ -1,17 +1,33 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T08:40+01:00",
+  "updatedAt": "2026-11-11T09:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Konsola Nintendo Switch 2 za 1799 zł w AliExpress! Wysyłka z terenu Polski",
-    "summary": "Łowcy, dziś Dzień Singla, z tej okazji trwa wyprzedaż w AliExpress. Wraz z promocją pojawiły się nowe kody rabatowe, które podobnie jak w przypadku poprzednich edycji, są dostępne jednie do wyczerpania niewielkiej puli. Jeśli polujecie na konsolę Nintendo Switch 2, to mamy dla Was świetną okazję. Najnowszy sprzęt od giganta z Kioto dostępny jest za 1789 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-za-1799-zl-w-aliexpress-wysylka-z-terenu-polski/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocje-na-Nintendo-Switch-2-w-x-kom.-Konsola-bez-dodatkow-dostepna-za-jedyne-1799-zl_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "God of War Trilogy Remake będzie PRZEOGROMNE. Wyciekają nowe szczegóły",
+    "summary": "Przygody Kratosa w starożytnej Grecji to dla wielu z nas absolutny fundament i jedne z najlepszych wspomnień z czasów starszych konsol PlayStation. Od jakiegoś czasu natomiast po sieci krążą plotki o powrocie pierwszej trylogii God of War, co sam...",
+    "sourceUrl": "https://www.ppe.pl/news/432760/god-of-war-trilogy-remake-bedzie-przeogromne-wyciekaja-nowe-szczegoly.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "God of War Trilogy Remake będzie PRZEOGROMNE. Wyciekają nowe szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/432760/god-of-war-trilogy-remake-bedzie-przeogromne-wyciekaja-nowe-szczegoly.html",
+      "publishedAt": "2026-11-11T08:53+01:00",
+      "summary": "Przygody Kratosa w starożytnej Grecji to dla wielu z nas absolutny fundament i jedne z najlepszych wspomnień z czasów starszych konsol PlayStation. Od jakiegoś czasu natomiast po sieci krążą plotki o powrocie pierwszej trylogii God of War, co sam...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kody rabatowe AliExpress z okazji Dnia Singla i Black Friday 2026. Nowa pula zniżek!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/aktualne-kody-rabatowe-aliexpress-2026/",
+      "publishedAt": "2026-11-11T08:43+01:00",
+      "summary": "Zakupy na AliExpress od lat cieszą się ogromną popularnością wśród Polaków, głównie ze względu na szeroką ofertę i atrakcyjne ceny, które można dodatkowo obniżyć, korzystając z odpowiednich kuponów. Przygotowaliśmy dla Was zestawienie, które zawiera najlepsze kody rabatowe AliExpress na rok 2026. Niezależnie od tego, czy polujecie na promocje na elektronikę z Chin, czy też odświeżacie swoją garderobę, warto z nich skorzystać. Dzięki temu zakupy w sieci stają się jeszcze bardziej opłacalne. Nie ma co dalej przeciągać, w dalszej części tekstu czekają na Was aktualne AliExpress kupony Polska. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/Kody-rabatowe-AliExpress-wrzesien-2025.-Aktualne-kupony-oraz-promocje-dla-Polski_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Konsola Nintendo Switch 2 za 1799 zł w AliExpress! Wysyłka z terenu Polski",
