@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T06:01+01:00",
+  "updatedAt": "2026-11-11T07:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 z recenzjami od pierwszych graczy. Nie mogło być inaczej",
-    "summary": "Premiera Grand Theft Auto 6 to w tym momencie temat numer jeden na całym świecie. Do oficjalnego debiutu zostało już tylko kilka dni, a atmosfera wyczekiwania gęstnieje z każdą kolejną godziną.",
-    "sourceUrl": "https://www.ppe.pl/news/432749/gta-6-z-recenzjami-od-pierwszych-graczy-nie-moglo-byc-inaczej.html"
+    "title": "Co z Stellar Blade Blood Rain? Twórcy chwalą się grą",
+    "summary": "Twórcy ze studia SHIFT UP mają ostatnio mnóstwo powodów do zadowolenia, a przy okazji publikacji swojego najnowszego kwartalnego raportu finansowego postanowili podzielić się z fanami garścią świetnych informacji.",
+    "sourceUrl": "https://www.ppe.pl/news/432757/co-z-stellar-blade-blood-rain-tworcy-chwala-sie-gra.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Co z Stellar Blade Blood Rain? Twórcy chwalą się grą",
+      "sourceUrl": "https://www.ppe.pl/news/432757/co-z-stellar-blade-blood-rain-tworcy-chwala-sie-gra.html",
+      "publishedAt": "2026-11-11T06:49+01:00",
+      "summary": "Twórcy ze studia SHIFT UP mają ostatnio mnóstwo powodów do zadowolenia, a przy okazji publikacji swojego najnowszego kwartalnego raportu finansowego postanowili podzielić się z fanami garścią świetnych informacji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Netflix chce mieć swoją Carrie. Nowy serial zadebiutował i mrozi krew w żyłach",
+      "sourceUrl": "https://www.ppe.pl/news/432767/netflix-chce-miec-swoja-carrie-nowy-serial-zadebiutowal-i-mrozi-krew-w-zylach.html",
+      "publishedAt": "2026-11-11T06:22+01:00",
+      "summary": "Szykujcie się na potężną dawkę mrocznych emocji, bo na Netfliksie zapowiada się prawdziwy hit dla fanów gęsiej skórki.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 z recenzjami od pierwszych graczy. Nie mogło być inaczej",
