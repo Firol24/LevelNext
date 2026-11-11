@@ -1,16 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T22:01+01:00",
+  "updatedAt": "2026-11-11T22:35+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "3 sezon uwielbianego hitu Netflixa z ekspresową premierą",
-    "summary": "Fani kostiumowych dramatów i namiętnych, dworskich intryg mają wreszcie doskonały powód do radości. Jeśli z wypiekami na twarzy śledziliście losy austriackiej rodziny królewskiej, to koniecznie przygotujcie sobie wolny wieczór.",
-    "sourceUrl": "https://www.ppe.pl/news/432766/3-sezon-uwielbianego-hitu-netflixa-z-ekspresowa-premiera.html"
+    "title": "GTA 6 może przywrócić kultową postać z GTA 4! Rockstar szykuje wielki powrót",
+    "summary": "Rockstar Games może szykować kolejną niespodziankę dla fanów Grand Theft Auto.",
+    "sourceUrl": "https://www.ppe.pl/news/432861/gta-6-moze-przywrocic-kultowa-postac-z-gta-4-rockstar-szykuje-wielki-powrot.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 może przywrócić kultową postać z GTA 4! Rockstar szykuje wielki powrót",
+      "sourceUrl": "https://www.ppe.pl/news/432861/gta-6-moze-przywrocic-kultowa-postac-z-gta-4-rockstar-szykuje-wielki-powrot.html",
+      "publishedAt": "2026-11-11T22:31+01:00",
+      "summary": "Rockstar Games może szykować kolejną niespodziankę dla fanów Grand Theft Auto.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Golden Joystick Awards 2026 rozdane. Masa świetnych gier została doceniona – nie zabrakło polskiego akcentu",
+      "sourceUrl": "https://www.ppe.pl/news/432888/golden-joystick-awards-2026-rozdane-masa-swietnych-gier-zostala-doceniona-nie-zabraklo-polskiego-akcentu.html",
+      "publishedAt": "2026-11-11T22:17+01:00",
+      "summary": "Za nami pierwsza szanowana gala doceniająca wydane w mijającym roku gry. Oto zwycięzcy Golden Joystick Awards 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "ROG Xbox Ally X zyskuje na nowej technologii. Microsoft poprawia grafikę i płynność gier",
+      "sourceUrl": "https://www.ppe.pl/news/432860/rog-xbox-ally-x-zyskuje-na-nowej-technologii-microsoft-poprawia-grafike-i-plynnosc-gier.html",
+      "publishedAt": "2026-11-11T22:02+01:00",
+      "summary": "Microsoft rozszerza możliwości przenośnych urządzeń ROG Xbox Ally X.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "3 sezon uwielbianego hitu Netflixa z ekspresową premierą",
