@@ -1,164 +1,141 @@
 {
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-11",
   "indie": [
     {
-      "title": "Casualties: Unknown",
-      "date": "2026-11-09",
-      "platform": "PC (Steam)",
-      "summary": "2D-owy survival w podziemiach obcej planety. Eksploracja kolejnych warstw łączy się z craftingiem oraz szczegółową symulacją obrażeń i kondycji organizmu.",
-      "sourceUrl": "https://store.steampowered.com/app/4576490/Casualties_Unknown/"
-    },
-    {
-      "title": "DREADMOOR",
-      "date": "2026-11-09",
-      "platform": "PC (Steam, Early Access)",
-      "summary": "Lovecraftowski horror FPP o połowach w zalanym świecie po katastrofie. Rozwijasz kuter, zbierasz zasoby i walczysz z potworami kryjącymi się pod wodą oraz na lądzie.",
-      "sourceUrl": "https://store.steampowered.com/app/3629430/"
-    },
-    {
-      "title": "ANOMALITH",
-      "date": "2026-10-28",
-      "platform": "PC (Steam)",
-      "summary": "Survival horror TPP w Japonii stylizowanej na epokę Shōwa. Reona wyrusza do liminalnych stref anomalii, szukając zaginionej przyjaciółki.",
-      "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/"
-    },
-    {
-      "title": "Nocturnal 2",
+      "title": "Hillthorn",
       "date": "2026-11-10",
       "platform": "PC (Steam)",
-      "summary": "Mroczna, ręcznie rysowana metroidvania o eksploracji miasta Ytash. Odkrywasz nowe przejścia, sekrety i kolejne fragmenty historii zapomnianej wyspy.",
-      "sourceUrl": "https://store.steampowered.com/app/2847780/"
+      "summary": "W odciętej górskiej społeczności znika młoda kobieta. Śledztwo prowadzisz bez dialogów, łącząc wskazówki na kartach, a czas i nieufni mieszkańcy utrudniają odkrycie prawdy.",
+      "sourceUrl": "https://store.steampowered.com/app/3504050/Hillthorn/"
     },
     {
-      "title": "DERELIKT",
-      "date": "2026-11-13",
+      "title": "Tenebris Somnia",
+      "date": "2026-10-16",
       "platform": "PC (Steam)",
-      "summary": "Retro FPS z estetyką późnej ery PS1, osadzony na opuszczonej placówce w pobliżu Saturna. Eksploracja, zagadki, zarządzanie zasobami i nieufność wobec ocalałych budują klimat sci-fi horroru.",
-      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+      "summary": "Dwuwymiarowy survival horror w pikselowej estetyce łączy eksplorację, zagadki i walkę z aktorskimi sekwencjami FMV. Ukłon w stronę klasycznego Silent Hill i Resident Evil.",
+      "sourceUrl": "https://store.steampowered.com/app/2121510/Tenebris_Somnia/"
+    },
+    {
+      "title": "Hyperarousal",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Psychologiczny horror FPP w dolinie Camonica. Eksploracja, sny przodków i mechanika obserwująca reakcje gracza stopniowo zacierają granicę między pamięcią a rzeczywistością.",
+      "sourceUrl": "https://store.steampowered.com/app/4900030/"
+    },
+    {
+      "title": "BLIGHTEN",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Retro survival horror FPS w opuszczonym kompleksie opanowanym przez zainfekowane istoty. Liczą się eksploracja, zbieranie zasobów i oszczędne gospodarowanie amunicją. Steam podaje planowaną premierę w 2026 roku, bez konkretnego dnia.",
+      "sourceUrl": "https://store.steampowered.com/app/4462580/BLIGHTEN/"
+    },
+    {
+      "title": "Holstin",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Polski survival horror w miasteczku lat 90., które pochłania tajemnicza obecność. Eksploracja, rozmowy z mieszkańcami i walka mają doprowadzić do prawdy o zaginionym znajomym.",
+      "sourceUrl": "https://store.steampowered.com/app/2235430/H%C3%B6lstin/"
     }
   ],
   "releases": [
     {
-      "date": "2026-11-11",
-      "title": "Haunted Echoes",
-      "platform": "PC (Steam)",
-      "status": "listed",
-      "note": "Steam podaje planowaną datę 11 listopada. Horror bodycam o badaniu opuszczonych lokacji, anomaliach i ograniczonym świetle.",
-      "sourceUrl": "https://store.steampowered.com/app/4854170/Haunted_Echoes/"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
-      "platform": "Nintendo Switch 2",
+      "date": "2026-12-03",
+      "title": "Warhammer 40,000: Dawn of War IV",
+      "platform": "PC",
       "status": "confirmed",
-      "note": "Rozszerzona edycja dodaje Akademię Dandori, komendy głosowe dla Oatchiego i ulepszenia obrazu.",
-      "sourceUrl": "https://www.nintendo.com/my/news/article/5S711JpOsIpjyRP5hhXgpu"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Metaphor: ReFantazio",
-      "platform": "Nintendo Switch 2, Nintendo Switch",
-      "status": "confirmed",
-      "note": "Fantasy RPG twórców Persona 5 debiutuje na konsolach Nintendo. Oficjalny kalendarz Nintendo podaje 12 listopada.",
-      "sourceUrl": "https://www.nintendo.dk/nyheder/kommende-spil-november-2026"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "DERELIKT",
-      "platform": "PC (Steam)",
-      "status": "confirmed",
-      "note": "Twórcy i wydawca potwierdzili premierę na 13 listopada. Retro FPS inspirowany kosmicznymi horrorami z ery pierwszego PlayStation.",
-      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "The Binding of Isaac: Repentance+",
-      "platform": "Nintendo Switch 2",
-      "status": "confirmed",
-      "note": "Nowa wersja kultowego roguelike'a z sieciową kooperacją do czterech graczy.",
-      "sourceUrl": "https://www.nintendo.dk/nyheder/kommende-spil-november-2026"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "Grand Theft Auto VI",
-      "platform": "PlayStation 5, Xbox Series X|S",
-      "status": "confirmed",
-      "note": "Rockstar nadal potwierdza premierę 19 listopada. Rozpoczęcie pobierania wstępnego zaplanowano na 10 listopada.",
-      "sourceUrl": "https://www.rockstargames.com/VI"
+      "note": "Powrót kultowej strategii RTS na planetę Kronus. Wydawca PLAION i studio KING Art Games potwierdzają premierę 3 grudnia.",
+      "sourceUrl": "https://press.plaion.com/pl/Dawn-of-War-IV"
     },
     {
       "date": "2026-12-03",
-      "title": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
-      "platform": "Nintendo Switch 2",
+      "title": "Thief: The Dark Project Remastered",
+      "platform": "PC (Steam)",
       "status": "confirmed",
-      "note": "Nintendo podaje 3 grudnia jako datę premiery nowej edycji na Switch 2.",
-      "sourceUrl": "https://www.nintendo.dk/spil/kommende-spil"
+      "note": "Odświeżona wersja skradankowego klasyka z 1998 roku, zawierająca także misje z Thief Gold i nową kampanię The Tarnished Mirror.",
+      "sourceUrl": "https://store.steampowered.com/app/4200960/Thief_The_Dark_Project_Remastered/"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "DRAGON QUEST MONSTERS: The Withered World",
+      "platform": "Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, PC",
+      "status": "confirmed",
+      "note": "Nowa odsłona serii o werbowaniu i łączeniu potworów. Square Enix potwierdza premierę konsolową 3 grudnia; wersja Steam ukaże się 4 grudnia.",
+      "sourceUrl": "https://www.square-enix.com/asia/newsportal/en/topics/dragonquest-monsters4/post03"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Rayman Legends Retold",
+      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Nowa interpretacja platformówki Rayman Legends z odświeżoną oprawą, dodatkową krainą i lokalną kooperacją dla maksymalnie czterech osób.",
+      "sourceUrl": "https://www.ubisoft.com/en-us/games/rayman-legends-retold"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "The Road of Dust and Sorrow",
+      "platform": "PC (Steam)",
+      "status": "listed",
+      "note": "Pikselowy horror inspirowany klasykami lat 90. Katherine i jej córka Ava próbują przetrwać w świecie wyniszczonym przez zarazę. Steam podaje planowaną datę 3 grudnia.",
+      "sourceUrl": "https://store.steampowered.com/app/3895110/"
     }
   ],
   "cinema": [
     {
-      "date": "2026-11-11",
-      "title": "Nasza rewolucja",
-      "genre": "Biografia / dramat",
-      "summary": "Portret Jacka i Grażyny Kuroniów, których mieszkanie staje się punktem spotkań opozycji. Film pokazuje, jak walka o wolność splata się z życiem rodzinnym.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/nasza-rewolucja/8607o2r"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Dziki koń dziewięć",
-      "genre": "Dramat / thriller",
-      "summary": "Przed chilijskim zamachem stanu w 1973 roku dwaj agenci CIA trafiają na Wyspę Wielkanocną, gdzie dawne sekrety i polityczne napięcia komplikują ich misję.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/dziki-kon-dziewiec/8161s2r"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Jak obrabować bank",
-      "genre": "Kryminał / thriller / akcja",
-      "summary": "Grupa rabusiów transmituje napady w mediach społecznościowych. Internetowa sława sprowadza na ich trop agenta FBI i specjalistkę od oprogramowania.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/jak-obrabowac-bank/8309s2r"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Ebenezer Scrooge. Opowieść wigilijna",
-      "genre": "Fantasy",
-      "summary": "Ti West przedstawia historię skąpca nawiedzanego przez ducha dawnego wspólnika i duchy Bożego Narodzenia, które zmuszają go do konfrontacji z własnym życiem.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/ebenezer-scrooge-opowiesc-wigilijna/8344s2r"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-      "genre": "Akcja / thriller sci-fi",
-      "summary": "Młody Haymitch Abernathy zostaje wylosowany do brutalnej edycji Głodowych Igrzysk, na długo przed wydarzeniami pierwszego filmu.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/igrzyska-smierci-wschod-slonca-w-dniu-dozynek/7803s2r"
-    },
-    {
-      "date": "2026-11-20",
-      "title": "Przemytnicy",
-      "genre": "Thriller",
-      "summary": "Weteran wojenny zostaje wciągnięty w niebezpieczny przemyt złota, widząc w nim szansę na odzyskanie córki. W rolach głównych Ethan Hawke i Russell Crowe.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/przemytnicy/8585s2r"
-    },
-    {
-      "date": "2026-11-25",
-      "title": "Hokus: Królestwo magii",
-      "genre": "Animacja / fantasy",
-      "summary": "Nastolatka odkrywa magiczne zdolności i trafia do niezwykłej krainy, gdzie razem z matką odkrywa rodzinne tajemnice.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/hokus-krolestwo-magii/8297d2r"
+      "date": "2026-11-27",
+      "title": "Pikkuli i Świąteczny Renifer",
+      "genre": "Animacja / familijny",
+      "summary": "Gdy Boże Narodzenie zostaje odwołane, mały ptaszek Pikkuli i przyjaciele ruszają przez zimowe krajobrazy, by odnaleźć renifera i przywrócić świąteczną magię.",
+      "sourceUrl": "https://www.filmweb.pl/film/Pikkuli%2Bi%2B%C5%9Awi%C4%85teczny%2BRenifer-2026-10133435"
     },
     {
       "date": "2026-11-27",
-      "title": "Violetta Villas",
-      "genre": "Biografia / dramat",
-      "summary": "Portret polskiej divy muzycznej opowiedziany z perspektywy jej syna, od narodzin wielkiej kariery po jej upadek.",
-      "sourceUrl": "https://www.cinema-city.pl/filmy/violetta-villas/8606o2r"
+      "title": "Poznaj swojego teścia",
+      "genre": "Komedia",
+      "summary": "Henry, syn Grega i Pam Fockerów, planuje ślub z niezależną kobietą, która nie pasuje do rodzinnych wyobrażeń. Nadchodzi kolejna porcja rodzinnego chaosu.",
+      "sourceUrl": "https://www.filmweb.pl/film/Poznaj%2Bswojego%2Bte%C5%9Bcia-2026-10084148"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "Buddy",
+      "genre": "Horror / fantasy",
+      "summary": "Grupa dzieci próbuje wydostać się z kolorowego świata programu telewizyjnego dla najmłodszych, gdy pluszowy jednorożec Buddy ujawnia znacznie mroczniejsze oblicze.",
+      "sourceUrl": "https://www.filmweb.pl/film/Buddy-2026-10112372"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "Behemot!",
+      "genre": "Dramat / muzyczny",
+      "summary": "Utalentowany wiolonczelista Alex Serian po dwóch dekadach spędzonych w trasie wraca do rodzinnego Los Angeles.",
+      "sourceUrl": "https://www.filmweb.pl/film/Behemot-2026-10091549"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "Wiklinowy mąż",
+      "genre": "Fantasy / komedia romantyczna",
+      "summary": "Wykluczona przez społeczność rybaczka prosi miejscowego koszykarza o wyplecenie dla niej męża. Gdy wiklinowy człowiek ożywa, jego obecność wywołuje zazdrość i chaos w wiosce.",
+      "sourceUrl": "https://www.filmweb.pl/film/Wiklinowy%2Bm%C4%85%C5%BC-2026-10108008"
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Avengers: Doomsday",
+      "genre": "Sci-fi / akcja",
+      "summary": "Bohaterowie z różnych światów zmierzają ku niebezpiecznej konfrontacji z egzystencjalnym zagrożeniem, jakiego dotąd nie spotkali.",
+      "sourceUrl": "https://www.filmweb.pl/film/Avengers%3A%2BDoomsday-2026-10016660"
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Diuna: Część trzecia",
+      "genre": "Sci-fi",
+      "summary": "Paul Atryda mierzy się z konsekwencjami swojej niezwykłej władzy i planu, który ma uczynić go kimś więcej niż zwykłym władcą.",
+      "sourceUrl": "https://www.filmweb.pl/film/Diuna%3A%2BCz%C4%99%C5%9B%C4%87%2Btrzecia-2026-10068059"
     }
   ],
   "film": {
-    "title": "Bulbbul",
-    "year": "2020",
+    "title": "Apostoł",
+    "year": "2018",
     "platform": "Netflix",
-    "summary": "W odizolowanej bengalskiej wiosce seria nadnaturalnych zbrodni splata się z historią kobiety, która skrywa bolesną przeszłość. Gotycka opowieść grozy czerpiąca z lokalnego folkloru.",
-    "availabilityNote": "JustWatch Polska potwierdził 1 listopada 2026 dostępność filmu w abonamencie Netflix w Polsce.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/bulbbul"
+    "summary": "W 1905 roku mężczyzna wyrusza na odizolowaną wyspę, by wyrwać siostrę z rąk niebezpiecznej sekty. Mroczny folk horror Garetha Evansa buduje napięcie przez niepokojącą atmosferę, przemoc i religijny fanatyzm.",
+    "availabilityNote": "JustWatch Polska sprawdził dostępność 10 listopada 2026 i wskazywał film w standardowym abonamencie Netflix.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/apostol"
   }
 }
