@@ -1,16 +1,48 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T20:01+01:00",
+  "updatedAt": "2026-11-11T21:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Phantom Blade Zero stało się znacznie trudniejsze. Walka to prawdziwy koszmar",
-    "summary": "Phantom Blade Zero dopiero co zadebiutowało na PC i PS5, a moderzy zaczęli eksperymentować.",
-    "sourceUrl": "https://www.ppe.pl/news/432851/phantom-blade-zero-stalo-sie-znacznie-trudniejsze-walka-to-prawdziwy-koszmar.html"
+    "title": "Dziki koń dziewięć (2026) - recenzja filmu [Disney]. O przemijaniu, Kennedym, Chile i dinozaurach",
+    "summary": "Chris i Lee pracują wspólnie w CIA już od wielu lat. Razem obalali rządy, destabilizowali gospodarki i robili całą masę innych, moralnie nieciekawych rzeczy. Teraz, w przededniu wydarzeń z Chile roku 1973, wspólnie wybierają się na tygodniowy...",
+    "sourceUrl": "https://www.ppe.pl/recenzje/432876/dziki-kon-dziewiec-2026-recenzja-filmu-disney-o-przemijaniu-kennedym-chile-i-dinozaurach.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Dziki koń dziewięć (2026) - recenzja filmu [Disney]. O przemijaniu, Kennedym, Chile i dinozaurach",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432876/dziki-kon-dziewiec-2026-recenzja-filmu-disney-o-przemijaniu-kennedym-chile-i-dinozaurach.html",
+      "publishedAt": "2026-11-11T21:00+01:00",
+      "summary": "Chris i Lee pracują wspólnie w CIA już od wielu lat. Razem obalali rządy, destabilizowali gospodarki i robili całą masę innych, moralnie nieciekawych rzeczy. Teraz, w przededniu wydarzeń z Chile roku 1973, wspólnie wybierają się na tygodniowy...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nawet policja nie może doczekać się premiery GTA 6. Powód was rozbawi",
+      "sourceUrl": "https://www.ppe.pl/news/432751/nawet-policja-nie-moze-doczekac-sie-premiery-gta-6-powod-was-rozbawi.html",
+      "publishedAt": "2026-11-11T20:46+01:00",
+      "summary": "Do premiery Grand Theft Auto 6 zostały już tylko dni, a gra bije wszelkie możliwe rekordy popularności.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox Series S utrudnia życie deweloperom. Twórca Tekkena nie gryzł się w język",
+      "sourceUrl": "https://www.ppe.pl/news/432859/xbox-series-s-utrudnia-zycie-deweloperom-tworca-tekkena-nie-gryzl-sie-w-jezyk.html",
+      "publishedAt": "2026-11-11T20:31+01:00",
+      "summary": "Xbox Series S od premiery budzi mieszane reakcje wśród deweloperów. Tym razem o ograniczeniach słabszej konsoli Microsoftu wypowiedział się Katsuhiro Harada (były szef serii Tekken).",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Shrek 2 Remastered bez ocen recenzentów. Pierwsze opinie graczy są podzielone",
+      "sourceUrl": "https://www.ppe.pl/news/432883/shrek-2-remastered-bez-ocen-recenzentow-pierwsze-opinie-graczy-sa-podzielone.html",
+      "publishedAt": "2026-11-11T20:14+01:00",
+      "summary": "Shrek 2 Remastered zadebiutował 10 listopada 2026 roku, ale gra wciąż nie doczekała się ocen ze strony branżowych recenzentów. Według dostępnych informacji kody recenzenckie zostały rozesłane dopiero w dniu premiery, dlatego na pierwsze profe...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Phantom Blade Zero stało się znacznie trudniejsze. Walka to prawdziwy koszmar",
@@ -26,6 +58,15 @@
       "publishedAt": "2026-11-11T19:38+01:00",
       "summary": "Fani Marvela będą mogli ponownie zobaczyć jedno z najważniejszych widowisk w historii MCU. „Avengers: Koniec gry – wersja rozszerzona” trafi na Disney+ już 13 listopada 2026 roku. To kolejna okazja, by obejrzeć film w domowym zaciszu, tym ra...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "18 minut z gry, na którą fani Star Citizena czekają od ponad dekady. Squadron 42 w akcji",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/18-minut-z-gry-na-ktora-fani-star-citizena-czekaja-od-ponad-dekad/ze322e2",
+      "publishedAt": "2026-11-11T19:35+01:00",
+      "summary": "Squadron 42 ukaże się w drugim kwartale 2027 roku, a gracze zdążyli już po raz pierwszy zagrać w solową kampanię Star Citizena. Cloud Imperium pokazało film z wydarzenia dla społeczności w Manchesterze. Informacja 18 minut z gry, na którą fani Star Citizena czekają od ponad dekady. Squadron 42 w akcji została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532117054.jpg"
     },
     {
       "sourceName": "PPE",
