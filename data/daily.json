@@ -1,16 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T23:01+01:00",
+  "updatedAt": "2026-11-11T23:27+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 może przywrócić kultową postać z GTA 4! Rockstar szykuje wielki powrót",
-    "summary": "Rockstar Games może szykować kolejną niespodziankę dla fanów Grand Theft Auto.",
-    "sourceUrl": "https://www.ppe.pl/news/432861/gta-6-moze-przywrocic-kultowa-postac-z-gta-4-rockstar-szykuje-wielki-powrot.html"
+    "title": "To jeszcze Miami czy już Vice City? Nowy materiał promujący GTA 6 rozgrzewa Internet",
+    "summary": "Wygląda na to, że otrzymaliśmy nowy pokaz tego, jak będzie wyglądać Vice City w nadchodzącym GTA VI. Rockstar Games udostępnił materiał, który mocno podkręca oczekiwanie na premierę.",
+    "sourceUrl": "https://www.ppe.pl/news/432889/to-jeszcze-miami-czy-juz-vice-city-nowy-material-promujacy-gta-6-rozgrzewa-internet.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "To jeszcze Miami czy już Vice City? Nowy materiał promujący GTA 6 rozgrzewa Internet",
+      "sourceUrl": "https://www.ppe.pl/news/432889/to-jeszcze-miami-czy-juz-vice-city-nowy-material-promujacy-gta-6-rozgrzewa-internet.html",
+      "publishedAt": "2026-11-11T23:16+01:00",
+      "summary": "Wygląda na to, że otrzymaliśmy nowy pokaz tego, jak będzie wyglądać Vice City w nadchodzącym GTA VI. Rockstar Games udostępnił materiał, który mocno podkręca oczekiwanie na premierę.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 może przywrócić kultową postać z GTA 4! Rockstar szykuje wielki powrót",
