@@ -1,17 +1,34 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T16:49+01:00",
+  "updatedAt": "2026-11-11T17:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nowy dodatek do ETS2 ma aż 94% pozytywnych ocen na Steamie i miło zaskoczył graczy ceną",
-    "summary": "Islandia jest już dostępna w ramach najnowszego dodatku do Euro Truck Simulator 2. Rozszerzenie zebrało bardzo pozytywne recenzje na Steamie i zachwyciło graczy pięknymi krajobrazami. Informacja Nowy dodatek do ETS2 ma aż 94% pozytywnych ocen na Steamie i miło zaskoczył graczy ceną została opublikowana przez GRYOnline.pl 11 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-dodatek-do-ets2-ma-az-94-pozytywnych-ocen-na-steamie-i-milo/z1322df",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532107660.jpg"
+    "title": "GTA 6 ocenzurowane? Gracze zauważyli, że japońska wersja waży o 1 GB mniej",
+    "summary": "Japońska wersja GTA 6 zajmuje wyraźnie mniej miejsca na dysku niż w pozostałych regionach. Niewykluczone, że została ona ocenzurowana. Informacja GTA 6 ocenzurowane? Gracze zauważyli, że japońska wersja waży o 1 GB mniej została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-ocenzurowane-gracze-zauwazyli-ze-japonska-wersja-wazy-o-1-g/zc322e0",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532110833.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 ocenzurowane? Gracze zauważyli, że japońska wersja waży o 1 GB mniej",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-ocenzurowane-gracze-zauwazyli-ze-japonska-wersja-wazy-o-1-g/zc322e0",
+      "publishedAt": "2026-11-11T17:50+01:00",
+      "summary": "Japońska wersja GTA 6 zajmuje wyraźnie mniej miejsca na dysku niż w pozostałych regionach. Niewykluczone, że została ona ocenzurowana. Informacja GTA 6 ocenzurowane? Gracze zauważyli, że japońska wersja waży o 1 GB mniej została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532110833.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "15 lat i kolejny wielki rekord! Bethesda ma hit, który nie chce odejść na emeryturę",
+      "sourceUrl": "https://www.ppe.pl/news/432852/15-lat-i-kolejny-wielki-rekord-bethesda-ma-hit-ktory-nie-chce-odejsc-na-emeryture.html",
+      "publishedAt": "2026-11-11T17:01+01:00",
+      "summary": "Piętnaście lat po premierze The Elder Scrolls V: Skyrim wciąż potrafi przyciągać kolejnych graczy.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nowy dodatek do ETS2 ma aż 94% pozytywnych ocen na Steamie i miło zaskoczył graczy ceną",
