@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T16:01+01:00",
+  "updatedAt": "2026-11-11T16:49+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -20,6 +20,22 @@
       "summary": "Islandia jest już dostępna w ramach najnowszego dodatku do Euro Truck Simulator 2. Rozszerzenie zebrało bardzo pozytywne recenzje na Steamie i zachwyciło graczy pięknymi krajobrazami. Informacja Nowy dodatek do ETS2 ma aż 94% pozytywnych ocen na Steamie i miło zaskoczył graczy ceną została opublikowana przez GRYOnline.pl 11 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532107660.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 trafi nawet na 13-letniego Xboxa One! Gracze PC mogą tylko pozazdrościć",
+      "sourceUrl": "https://www.ppe.pl/news/432848/gta-6-trafi-nawet-na-13-letniego-xboxa-one-gracze-pc-moga-tylko-pozazdroscic.html",
+      "publishedAt": "2026-11-11T16:31+01:00",
+      "summary": "Wczoraj informowaliśmy o 10-letnim strategicznym partnerstwie Microsoftu z Take-Two, dzięki któremu GTA 6 oraz inne produkcje Rockstara trafią do Xbox Cloud Gaming.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 idzie po niesamowity rekord. O takiej przedsprzedaży marzy każdy",
+      "sourceUrl": "https://www.ppe.pl/news/432857/gta-6-idzie-po-niesamowity-rekord-o-takiej-przedsprzedazy-marzy-kazdy.html",
+      "publishedAt": "2026-11-11T16:05+01:00",
+      "summary": "GTA 6 nie daje szans konkurencji. Analitycy donoszą, że przedsprzedaż jest już tak mocna, że to już niemal pewne, iż Rockstar Games może szykować się na trudny do pobicia rekord.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
