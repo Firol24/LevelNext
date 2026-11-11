@@ -104,6 +104,10 @@
       audio.addEventListener("canplay", function () { if (state.textContent.indexOf("ERROR") !== -1) setState("STOPPED"); });
       audio.volume = Number(volume.value);
       updateTime();
+      if (!audio.paused) {
+        player.classList.add("is-playing");
+        setState("PLAYING");
+      }
 
       // Proba startu od razu po wejsciu. Jesli przegladarka blokuje dzwiek,
       // ponawiamy ja przy pierwszej interakcji odwiedzajacego ze strona.
@@ -136,8 +140,10 @@
       var savedPosition = null;
       try { savedPosition = JSON.parse(window.localStorage.getItem(positionKey) || "null"); } catch (error) {}
       function clampPlayerPosition(left, top) {
-        var maxLeft = Math.max(0, document.documentElement.scrollWidth - player.offsetWidth);
-        var maxTop = Math.max(0, document.documentElement.scrollHeight - player.offsetHeight);
+        var pageWidth = Math.max(window.innerWidth, document.body.offsetWidth, document.documentElement.clientWidth);
+        var pageHeight = Math.max(window.innerHeight, document.body.offsetHeight, document.documentElement.clientHeight);
+        var maxLeft = Math.max(0, pageWidth - player.offsetWidth);
+        var maxTop = Math.max(0, pageHeight - player.offsetHeight);
         return {
           left: Math.max(0, Math.min(maxLeft, left)),
           top: Math.max(0, Math.min(maxTop, top))
@@ -166,8 +172,10 @@
       });
       document.addEventListener("pointermove", function (event) {
         if (!dragState || event.pointerId !== dragState.pointerId) return;
-        var maxLeft = Math.max(0, document.documentElement.scrollWidth - player.offsetWidth);
-        var maxTop = Math.max(0, document.documentElement.scrollHeight - player.offsetHeight);
+        var pageWidth = Math.max(window.innerWidth, document.body.offsetWidth, document.documentElement.clientWidth);
+        var pageHeight = Math.max(window.innerHeight, document.body.offsetHeight, document.documentElement.clientHeight);
+        var maxLeft = Math.max(0, pageWidth - player.offsetWidth);
+        var maxTop = Math.max(0, pageHeight - player.offsetHeight);
         var left = Math.max(0, Math.min(maxLeft, dragState.left + event.pageX - dragState.startX));
         var top = Math.max(0, Math.min(maxTop, dragState.top + event.pageY - dragState.startY));
         player.style.left = left + "px";
