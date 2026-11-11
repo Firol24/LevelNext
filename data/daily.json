@@ -1,16 +1,93 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T13:01+01:00",
+  "updatedAt": "2026-11-11T14:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nowa gra po GTA 6 wspomniana przez Take-Two. Rockstar Games szykuje się do akcji",
-    "summary": "Premiera Grand Theft Auto 6 jest już na wyciągnięcie ręki. Po wielu latach wyczerpującego oczekiwania - w końcu od debiutu „piątki” i Red Dead Redemption 2 minęła cała epoka - pierwsza nowa gra Rockstar Games trafi do graczy już za kilkan...",
-    "sourceUrl": "https://www.ppe.pl/news/432835/nowa-gra-po-gta-6-wspomniana-przez-take-two-rockstar-games-szykuje-sie-do-akcji.html"
+    "title": "Największy HIT Xboxa uruchomiony na kolejnej platformie. I wygląda zaskakująco dobrze",
+    "summary": "Kto powiedział, że Halo: Combat Evolved musi być związane wyłącznie z konsolami Microsoftu?",
+    "sourceUrl": "https://www.ppe.pl/news/432840/najwiekszy-hit-xboxa-uruchomiony-na-kolejnej-platformie-i-wyglada-zaskakujaco-dobrze.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Największy HIT Xboxa uruchomiony na kolejnej platformie. I wygląda zaskakująco dobrze",
+      "sourceUrl": "https://www.ppe.pl/news/432840/najwiekszy-hit-xboxa-uruchomiony-na-kolejnej-platformie-i-wyglada-zaskakujaco-dobrze.html",
+      "publishedAt": "2026-11-11T13:51+01:00",
+      "summary": "Kto powiedział, że Halo: Combat Evolved musi być związane wyłącznie z konsolami Microsoftu?",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na Tamagotchi od Bandai w RTV Euro AGD. Nowa seria Paradise już za 189,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocja-na-tamagotchi-od-bandai-w-rtv-euro-agd-nowa-seria-paradise-juz-za-18999-zl/",
+      "publishedAt": "2026-11-11T13:31+01:00",
+      "summary": "Specjalna promocja na Tamagotchi zawitała do oferty internetowego sklepu RTV Euro AGD. W ramach wyprzedaży kultowe konsolki od Bandai dostępne po 189,99 zł. Podana cena dotyczy najnowszej serii Paradise z 2025 roku, która oferuje fizyczne pokrętło do sterowania oraz możliwość połączenia dwóch urządzeń za pomocą specjalnego portu. Wymienione w dalszej części wpisu modele różnią się między sobą nie tylko kolorami obudowy, ale także dostępnością specjalnych ekosystemów w samej grze oraz sekretnych postaci do odblokowania! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Tamagotchi-od-Bandai-w-RTV-Euro-AGD.-Nowa-seria-Paradise-juz-za-18999-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Współzałożyciel BioWare’u chce zebrać starą ekipę studia i wykupić marki EA. Rząd Kanady pomoże w odzyskaniu Mass Effecta i Dragon Age’a?",
+      "sourceUrl": "https://cdaction.pl/newsy/wspolzalozyciel-biowareu-chce-zebrac-stara-ekipe-studia-i-wykupic-marki-ea-rzad-kanady-pomoze-w-odzyskaniu-mass-effecta-i-dragon-agea/",
+      "publishedAt": "2026-11-11T13:30+01:00",
+      "summary": "Brzmi fenomenalnie, tylko czy to jest w ogóle możliwe?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Mass-Effect-i-Dragon-Age.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 piękniejsze na Xboxie niż PS5. Microsoft zamierza wykorzystać najnowszą technologię AMD",
+      "sourceUrl": "https://www.ppe.pl/news/432838/gta-6-piekniejsze-na-xboxie-niz-ps5-microsoft-zamierza-wykorzystac-najnowsza-technologie-amd.html",
+      "publishedAt": "2026-11-11T13:30+01:00",
+      "summary": "GTA 6 może wykorzystać technologię AMD FSR 4.1.2 na konsolach Xbox Series X/S. Wskazują na to pliki odnalezione w kodzie gry podczas analizy wersji udostępnionej w ramach preloadu.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "„Gra z profesjonalnym magazynem”, pismo o tytułach na komórki i takie niepoprawne politycznie. Wspominamy zapomniane czasopisma growe",
+      "sourceUrl": "https://cdaction.pl/retro/gra-z-profesjonalnym-magazynem-pismo-o-tytulach-na-komorki-i-takie-niepoprawne-politycznie-wspominamy-zapomniane-czasopisma-growe/",
+      "publishedAt": "2026-11-11T13:27+01:00",
+      "summary": "Game 4U (2004) To było nie tyle czasopismo z dołączaną pełną wersją gry, co odwrotnie – pełna wersja gry z dołączanym czasopismem o nieimponującej w tym czasie objętości 48 stron za jedyne 26,90 zł (acz dodać należy, że w tej kwocie dostawaliśmy 2 CD). Co zresztą ogłaszano wprost w nadtytule: „Gra z profesjonalnym magazynem”. Zaznaczyć...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/yber-3-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najpiękniejszy Switch w historii! NS 2 z motywem 40-lecia serii Zelda za 2489 zł, już z rabatem 210 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/425776/najpiekniejszy-switch-2-w-historii-motyw-40-lecia-serii-zelda-za-2489-zl-juz-z-rabatem-210-zl.html",
+      "publishedAt": "2026-11-11T13:22+01:00",
+      "summary": "Empik jako pierwszy wystartował ze zbieraniem zamówień przedpremierowych na przepiękne wydanie Nintendo Switch 2 z okazji 40-lecia serii Zelda.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nintendo vs. Donald Trump. Pozew wisi w powietrzu?",
+      "sourceUrl": "https://cdaction.pl/teksty/nintendo-vs-donald-trump-pozew-wisi-w-powietrzu/",
+      "publishedAt": "2026-11-11T13:15+01:00",
+      "summary": "Czy Nintendo powinno pozwać administrację Donalda Trumpa? Tak, ale zapewne tego nie zrobi. Czy Biały Dom powinien promować AI slopy? Nie, ale robi to przez cały czas.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-11T134431.538.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation otrzymało antynagrodę! Sony oberwało za cyfrowe gry, których nie jesteśmy właścicielami",
+      "sourceUrl": "https://www.ppe.pl/news/432837/playstation-otrzymalo-antynagrode-sony-oberwalo-za-cyfrowe-gry-ktorych-nie-jestesmy-wlascicielami.html",
+      "publishedAt": "2026-11-11T13:06+01:00",
+      "summary": "Sony znalazło się na liście „Hall of Shame”, przygotowywanej przez australijską organizację konsumencką Choice.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Obsidian w końcu ujawnił pierwsze DLC do The Outer Worlds 2. Side Effects Guaranteed trafi do nas jeszcze w tym roku",
+      "sourceUrl": "https://cdaction.pl/newsy/obsidian-w-koncu-ujawnil-pierwsze-dlc-do-the-outer-worlds-2-side-effects-guaranteed-trafi-do-nas-jeszcze-w-tym-roku/",
+      "publishedAt": "2026-11-11T13:00+01:00",
+      "summary": "A to dopiero pierwsza część dodatku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/the-outer-worlds-2-1260x709.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Nowa gra po GTA 6 wspomniana przez Take-Two. Rockstar Games szykuje się do akcji",
