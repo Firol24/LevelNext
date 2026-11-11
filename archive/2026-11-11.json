@@ -1,16 +1,66 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T14:01+01:00",
+  "updatedAt": "2026-11-11T15:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Największy HIT Xboxa uruchomiony na kolejnej platformie. I wygląda zaskakująco dobrze",
-    "summary": "Kto powiedział, że Halo: Combat Evolved musi być związane wyłącznie z konsolami Microsoftu?",
-    "sourceUrl": "https://www.ppe.pl/news/432840/najwiekszy-hit-xboxa-uruchomiony-na-kolejnej-platformie-i-wyglada-zaskakujaco-dobrze.html"
+    "title": "Driver 2 wygląda przepięknie! Unreal Engine 5 i NVIDIA DLSS 5 odmienił klasyka PlayStation",
+    "summary": "Driver 2 zadebiutował na pierwszym PlayStation w listopadzie 2000 roku, ale jeden z fanów postanowił sprawdzić, jak jego kultowe lokacje prezentowałyby się we współczesnej oprawie.",
+    "sourceUrl": "https://www.ppe.pl/news/432845/driver-2-wyglada-przepieknie-unreal-engine-5-i-nvidia-dlss-5-odmienil-klasyka-playstation.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Driver 2 wygląda przepięknie! Unreal Engine 5 i NVIDIA DLSS 5 odmienił klasyka PlayStation",
+      "sourceUrl": "https://www.ppe.pl/news/432845/driver-2-wyglada-przepieknie-unreal-engine-5-i-nvidia-dlss-5-odmienil-klasyka-playstation.html",
+      "publishedAt": "2026-11-11T14:55+01:00",
+      "summary": "Driver 2 zadebiutował na pierwszym PlayStation w listopadzie 2000 roku, ale jeden z fanów postanowił sprawdzić, jak jego kultowe lokacje prezentowałyby się we współczesnej oprawie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gigantyczna aktualizacja do Marathon. Studio Bungie wprowadza do gry niezależny tryb PvE!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/gigantyczna-aktualizacja-do-marathon-studio-bungie-wprowadza-do-gry-niezalezny-tryb-pve/",
+      "publishedAt": "2026-11-11T14:41+01:00",
+      "summary": "Łowcy, czy produkcję GaaS (Games as a Service) , która na przestrzeni kilku miesięcy utraciła grubo ponad 90% bazy użytkowników z dnia premiery, można uważać za sukces? Złośliwi powiedzą, że największym osiągnięciem gry Marathon było zmuszenie studia Bungie do przywrócenia wsparcia dla Destiny 2! Jednak amerykański zespół nie składa broni i zapowiada ogromną aktualizację do swojego najnowszego dzieła. Już 8 grudnia dostęp do Marathon Symbiosis za darmo otrzyma każdy posiadacz pełnej wersji tytułu. Rozszerzeni wprowadzi do gry dwa zupełnie nowe tryby: niezależne PvE o nazwie Ekspedycja – opierający się o serię 3 misji ewakuacyjnych o rosnącym",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gigantyczna-aktualizacja-do-Marathon.-Studio-Bungie-wprowadza-do-gry-niezalezny-tryb-PvE_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Sims 4 otrzymało AI. Simowie sami odpisują na wiadomości i pamiętają rozmowy",
+      "sourceUrl": "https://www.ppe.pl/news/432846/the-sims-4-otrzymalo-ai-simowie-sami-odpisuja-na-wiadomosci-i-pamietaja-rozmowy.html",
+      "publishedAt": "2026-11-11T14:35+01:00",
+      "summary": "The Sims 4 doczekało się moda, który może mocno odmienić codzienne życie wirtualnych mieszkańców.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Disney+ wprowadza w Polsce tańszy pakiet z reklamami. Znamy ceny wszystkich subskrypcji",
+      "sourceUrl": "https://www.ppe.pl/news/432843/disney-wprowadza-w-polsce-tanszy-pakiet-z-reklamami-znamy-ceny-wszystkich-subskrypcji.html",
+      "publishedAt": "2026-11-11T14:14+01:00",
+      "summary": "Disney+ wprowadza w Polsce nowy wariant subskrypcji – Standard z reklamami. Pakiet dołącza do dotychczasowej oferty obejmującej plany Standard i Premium. Nowa opcja zapewnia dostęp do biblioteki filmów i seriali platformy, ale podczas oglądania ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Square Enix pokazało nowego Dragon Questa! Pierwszy zwiastun wbija w fotel",
+      "sourceUrl": "https://www.ppe.pl/news/432841/square-enix-pokazalo-nowego-dragon-questa-pierwszy-zwiastun-wbija-w-fotel.html",
+      "publishedAt": "2026-11-11T14:11+01:00",
+      "summary": "Square Enix zaprezentowało pierwszy oficjalny zwiastun Dragon Quest RPG: The Cursed Tree and the Chosen Isle.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 będzie dostępne w chmurze Xboksa na konsolach. To pierwszy krok w nowej 10-letniej współpracy „zielonych” i Take-Two",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-bedzie-dostepne-w-chmurze-xboksa-na-konsolach-to-pierwszy-krok-w-nowej-10-letniej-wspolpracy-zielonych-i-take-two/",
+      "publishedAt": "2026-11-11T14:00+01:00",
+      "summary": "Obie firmy jednak nie ujawniły, jak będą wyglądać ich wspólne działania.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-3.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Największy HIT Xboxa uruchomiony na kolejnej platformie. I wygląda zaskakująco dobrze",
