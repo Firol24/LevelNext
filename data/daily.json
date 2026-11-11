@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T17:01+01:00",
+  "updatedAt": "2026-11-11T18:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
@@ -20,6 +20,23 @@
       "summary": "Japońska wersja GTA 6 zajmuje wyraźnie mniej miejsca na dysku niż w pozostałych regionach. Niewykluczone, że została ona ocenzurowana. Informacja GTA 6 ocenzurowane? Gracze zauważyli, że japońska wersja waży o 1 GB mniej została opublikowana przez GRYOnline.pl 11 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532110833.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nintendo pracuje nad kolejnym remakiem po sukcesie Ocarina of Time? Znany insider ujawnia plany",
+      "sourceUrl": "https://www.ppe.pl/news/432853/nintendo-pracuje-nad-kolejnym-remakiem-po-sukcesie-ocarina-of-time-znany-insider-ujawnia-plany.html",
+      "publishedAt": "2026-11-11T17:31+01:00",
+      "summary": "Sukces remake’u The Legend of Zelda: Ocarina of Time rozbudził nadzieje na powrót kolejnej kultowej przygody Linka. Zaczęto spekulować, że Nintendo przygotowuje odświeżoną wersję Majora’s Mask.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Stawanie w szranki z GTA 6 to szansa dla gier niezależnych. „Nie wszyscy czekają na grę Rockstara”",
+      "sourceUrl": "https://cdaction.pl/newsy/stawanie-w-szranki-z-gta-6-to-szansa-dla-gier-niezaleznych-nie-wszyscy-czekaja-na-gre-rockstara/",
+      "publishedAt": "2026-11-11T17:30+01:00",
+      "summary": "Indyki nie boją się wilka.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/warhammer-survivors-8321.jpg"
     },
     {
       "sourceName": "PPE",
