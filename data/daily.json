@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T07:01+01:00",
+  "updatedAt": "2026-11-11T08:01+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Co z Stellar Blade Blood Rain? Twórcy chwalą się grą",
-    "summary": "Twórcy ze studia SHIFT UP mają ostatnio mnóstwo powodów do zadowolenia, a przy okazji publikacji swojego najnowszego kwartalnego raportu finansowego postanowili podzielić się z fanami garścią świetnych informacji.",
-    "sourceUrl": "https://www.ppe.pl/news/432757/co-z-stellar-blade-blood-rain-tworcy-chwala-sie-gra.html"
+    "title": "Rywal Uncharted z rabatem 50% na PS5. Kolejna piękna oferta na HIT",
+    "summary": "Zupełnie jak wczoraj w przypadku rewelacyjnej promocji na Silent Hill f za niecałe 84 złote, cyfrowe sklepy ponownie udowadniają, że potrafią mocno zawstydzić rynek wydań fizycznych.",
+    "sourceUrl": "https://www.ppe.pl/news/432765/rywal-uncharted-z-rabatem-50-na-ps5-kolejna-piekna-oferta-na-hit.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Rywal Uncharted z rabatem 50% na PS5. Kolejna piękna oferta na HIT",
+      "sourceUrl": "https://www.ppe.pl/news/432765/rywal-uncharted-z-rabatem-50-na-ps5-kolejna-piekna-oferta-na-hit.html",
+      "publishedAt": "2026-11-11T07:42+01:00",
+      "summary": "Zupełnie jak wczoraj w przypadku rewelacyjnej promocji na Silent Hill f za niecałe 84 złote, cyfrowe sklepy ponownie udowadniają, że potrafią mocno zawstydzić rynek wydań fizycznych.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pudełko GTA 6 na Xbox różni się od wersji PS5. Rockstar Games dba o KAŻDY szczegół",
+      "sourceUrl": "https://www.ppe.pl/news/432754/pudelko-gta-6-na-xbox-rozni-sie-od-wersji-ps5-rockstar-games-dba-o-kazdy-szczegol.html",
+      "publishedAt": "2026-11-11T07:12+01:00",
+      "summary": "Zbieranie fizycznych wydań gier wciąż ma ogromną rzeszę fanów, a pudełko z nowym Grand Theft Auto 6 to dla wielu Święty Graal - pomimo braku płyty, posiadanie tego przedmiotu sprawia, że czujemy się w posiadaniu \"gry dekady\".",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Co z Stellar Blade Blood Rain? Twórcy chwalą się grą",
