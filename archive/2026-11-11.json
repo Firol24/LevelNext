@@ -1,16 +1,42 @@
 {
   "status": "rss-only",
   "date": "2026-11-11",
-  "updatedAt": "2026-11-11T08:01+01:00",
+  "updatedAt": "2026-11-11T08:40+01:00",
   "headline": "Świeże sygnały ze świata gier",
   "editorNote": "Wiadomości zbieramy z kilku niezależnych redakcji. Na LEVEL NEXT czytasz krótki opis z kanału RSS; pełny tekst i autorstwo pozostają u wydawcy.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Rywal Uncharted z rabatem 50% na PS5. Kolejna piękna oferta na HIT",
-    "summary": "Zupełnie jak wczoraj w przypadku rewelacyjnej promocji na Silent Hill f za niecałe 84 złote, cyfrowe sklepy ponownie udowadniają, że potrafią mocno zawstydzić rynek wydań fizycznych.",
-    "sourceUrl": "https://www.ppe.pl/news/432765/rywal-uncharted-z-rabatem-50-na-ps5-kolejna-piekna-oferta-na-hit.html"
+    "category": "PROMOCJE",
+    "title": "Konsola Nintendo Switch 2 za 1799 zł w AliExpress! Wysyłka z terenu Polski",
+    "summary": "Łowcy, dziś Dzień Singla, z tej okazji trwa wyprzedaż w AliExpress. Wraz z promocją pojawiły się nowe kody rabatowe, które podobnie jak w przypadku poprzednich edycji, są dostępne jednie do wyczerpania niewielkiej puli. Jeśli polujecie na konsolę Nintendo Switch 2, to mamy dla Was świetną okazję. Najnowszy sprzęt od giganta z Kioto dostępny jest za 1789 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-za-1799-zl-w-aliexpress-wysylka-z-terenu-polski/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocje-na-Nintendo-Switch-2-w-x-kom.-Konsola-bez-dodatkow-dostepna-za-jedyne-1799-zl_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola Nintendo Switch 2 za 1799 zł w AliExpress! Wysyłka z terenu Polski",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-za-1799-zl-w-aliexpress-wysylka-z-terenu-polski/",
+      "publishedAt": "2026-11-11T08:37+01:00",
+      "summary": "Łowcy, dziś Dzień Singla, z tej okazji trwa wyprzedaż w AliExpress. Wraz z promocją pojawiły się nowe kody rabatowe, które podobnie jak w przypadku poprzednich edycji, są dostępne jednie do wyczerpania niewielkiej puli. Jeśli polujecie na konsolę Nintendo Switch 2, to mamy dla Was świetną okazję. Najnowszy sprzęt od giganta z Kioto dostępny jest za 1789 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocje-na-Nintendo-Switch-2-w-x-kom.-Konsola-bez-dodatkow-dostepna-za-jedyne-1799-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox zostawił ich na bruku, a twórcy otwierają szampana. Wprowadzono zmiany, o które prosili gracze",
+      "sourceUrl": "https://www.ppe.pl/news/432763/xbox-zostawil-ich-na-bruku-a-tworcy-otwieraja-szampana-wprowadzono-zmiany-o-ktore-prosili-gracze.html",
+      "publishedAt": "2026-11-11T08:28+01:00",
+      "summary": "Ostatnie miesiące w branży gier to prawdziwy rollercoaster, a jednym z najgłośniejszych wydarzeń było rozstanie studia Undead Labs z gigantem, jakim jest Xbox. Po fali masowych zwolnień ekipa odpowiedzialna za kultową serię State of Decay posta...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Unia Europejska z kolejnym świetnym przepisem dla graczy. Docenicie tę zmianę",
+      "sourceUrl": "https://www.ppe.pl/news/432758/unia-europejska-z-kolejnym-swietnym-przepisem-dla-graczy-docenicie-te-zmiane.html",
+      "publishedAt": "2026-11-11T08:05+01:00",
+      "summary": "Wygląda na to, że w Europie szykuje się prawdziwe trzęsienie ziemi dla twórców gier, którzy opierają swoje zyski na agresywnych mikropłatnościach.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Rywal Uncharted z rabatem 50% na PS5. Kolejna piękna oferta na HIT",
