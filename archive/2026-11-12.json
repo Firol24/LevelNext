@@ -1,0 +1,174 @@
+{
+  "status": "rss-only",
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T00:01+01:00",
+  "headline": "Wiadomości ze świata gier",
+  "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
+  "lead": {
+    "category": "WIADOMOŚCI",
+    "title": "23 lata temu miała podbić Hollywood rolą w Terminatorze 3. Agent zapowiadał, że tłumy fanów nie pozwolą jej nawet spokojnie zatankować auta. Zamiast tego trafiła do filmów Uwe Bolla",
+    "summary": "Kristanna Loken miała podbić Hollywood po występie u boku Arnolda Schwarzeneggera w Terminatorze 3. Jej menedżer przewidywał, że aktorka stanie się tak sławna, iż nie będzie mogła nawet spokojnie zatankować samochodu. Rzeczywistość okazała się jednak zupełnie inna. Informacja 23 lata temu miała podbić Hollywood rolą w Terminatorze 3. Agent zapowiadał, że tłumy fanów nie pozwolą jej nawet spokojnie zatankować auta. Zamiast tego trafiła do filmów Uwe Bolla została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/23-lata-temu-miala-podbic-hollywood-rola-w-terminatorze-3-agent-z/z832289",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531914627.jpg"
+  },
+  "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "23 lata temu miała podbić Hollywood rolą w Terminatorze 3. Agent zapowiadał, że tłumy fanów nie pozwolą jej nawet spokojnie zatankować auta. Zamiast tego trafiła do filmów Uwe Bolla",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/23-lata-temu-miala-podbic-hollywood-rola-w-terminatorze-3-agent-z/z832289",
+      "publishedAt": "2026-11-11T11:00+01:00",
+      "summary": "Kristanna Loken miała podbić Hollywood po występie u boku Arnolda Schwarzeneggera w Terminatorze 3. Jej menedżer przewidywał, że aktorka stanie się tak sławna, iż nie będzie mogła nawet spokojnie zatankować samochodu. Rzeczywistość okazała się jednak zupełnie inna. Informacja 23 lata temu miała podbić Hollywood rolą w Terminatorze 3. Agent zapowiadał, że tłumy fanów nie pozwolą jej nawet spokojnie zatankować auta. Zamiast tego trafiła do filmów Uwe Bolla została opublikowana przez GRYOnline.pl 11 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531914627.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Sony kasuje kolejną grę-usługę PlayStation. Firma zapewnia, że nikt nie straci pracy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/sony-kasuje-kolejna-gre-usluge-firma-zapewnia-ze-nikt-nie-straci/z2322d7",
+      "publishedAt": "2026-11-10T23:53+01:00",
+      "summary": "PlayStation anulowało Fairgame$, sieciową strzelankę rozwijaną przez kanadyjskie Haven Studios. Rzecznik firmy zapewnił, że w firmie nie dojdzie do zwolnień. Informacja Sony kasuje kolejną grę-usługę PlayStation. Firma zapewnia, że nikt nie straci pracy została opublikowana przez GRYOnline.pl 10 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532047143.jpg"
+    }
+  ],
+  "indie": [
+    {
+      "title": "Hillthorn",
+      "date": "2026-11-10",
+      "platform": "PC (Steam)",
+      "summary": "W odciętej górskiej społeczności znika młoda kobieta. Śledztwo prowadzisz bez dialogów, łącząc wskazówki na kartach, a czas i nieufni mieszkańcy utrudniają odkrycie prawdy.",
+      "sourceUrl": "https://store.steampowered.com/app/3504050/Hillthorn/"
+    },
+    {
+      "title": "Tenebris Somnia",
+      "date": "2026-10-16",
+      "platform": "PC (Steam)",
+      "summary": "Dwuwymiarowy survival horror w pikselowej estetyce łączy eksplorację, zagadki i walkę z aktorskimi sekwencjami FMV. Ukłon w stronę klasycznego Silent Hill i Resident Evil.",
+      "sourceUrl": "https://store.steampowered.com/app/2121510/Tenebris_Somnia/"
+    },
+    {
+      "title": "Hyperarousal",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Psychologiczny horror FPP w dolinie Camonica. Eksploracja, sny przodków i mechanika obserwująca reakcje gracza stopniowo zacierają granicę między pamięcią a rzeczywistością.",
+      "sourceUrl": "https://store.steampowered.com/app/4900030/"
+    },
+    {
+      "title": "BLIGHTEN",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Retro survival horror FPS w opuszczonym kompleksie opanowanym przez zainfekowane istoty. Liczą się eksploracja, zbieranie zasobów i oszczędne gospodarowanie amunicją. Steam podaje planowaną premierę w 2026 roku, bez konkretnego dnia.",
+      "sourceUrl": "https://store.steampowered.com/app/4462580/BLIGHTEN/"
+    },
+    {
+      "title": "Holstin",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Polski survival horror w miasteczku lat 90., które pochłania tajemnicza obecność. Eksploracja, rozmowy z mieszkańcami i walka mają doprowadzić do prawdy o zaginionym znajomym.",
+      "sourceUrl": "https://store.steampowered.com/app/2235430/H%C3%B6lstin/"
+    }
+  ],
+  "releases": [
+    {
+      "date": "2026-12-03",
+      "title": "Warhammer 40,000: Dawn of War IV",
+      "platform": "PC",
+      "status": "confirmed",
+      "note": "Powrót kultowej strategii RTS na planetę Kronus. Wydawca PLAION i studio KING Art Games potwierdzają premierę 3 grudnia.",
+      "sourceUrl": "https://press.plaion.com/pl/Dawn-of-War-IV"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Thief: The Dark Project Remastered",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Odświeżona wersja skradankowego klasyka z 1998 roku, zawierająca także misje z Thief Gold i nową kampanię The Tarnished Mirror.",
+      "sourceUrl": "https://store.steampowered.com/app/4200960/Thief_The_Dark_Project_Remastered/"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "DRAGON QUEST MONSTERS: The Withered World",
+      "platform": "Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, PC",
+      "status": "confirmed",
+      "note": "Nowa odsłona serii o werbowaniu i łączeniu potworów. Square Enix potwierdza premierę konsolową 3 grudnia; wersja Steam ukaże się 4 grudnia.",
+      "sourceUrl": "https://www.square-enix.com/asia/newsportal/en/topics/dragonquest-monsters4/post03"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Rayman Legends Retold",
+      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Nowa interpretacja platformówki Rayman Legends z odświeżoną oprawą, dodatkową krainą i lokalną kooperacją dla maksymalnie czterech osób.",
+      "sourceUrl": "https://www.ubisoft.com/en-us/games/rayman-legends-retold"
+    },
+    {
+      "date": "2026-12-03",
+      "title": "The Road of Dust and Sorrow",
+      "platform": "PC (Steam)",
+      "status": "listed",
+      "note": "Pikselowy horror inspirowany klasykami lat 90. Katherine i jej córka Ava próbują przetrwać w świecie wyniszczonym przez zarazę. Steam podaje planowaną datę 3 grudnia.",
+      "sourceUrl": "https://store.steampowered.com/app/3895110/"
+    }
+  ],
+  "cinema": [
+    {
+      "date": "2026-11-27",
+      "title": "Pikkuli i Świąteczny Renifer",
+      "genre": "Animacja / familijny",
+      "summary": "Gdy Boże Narodzenie zostaje odwołane, mały ptaszek Pikkuli i przyjaciele ruszają przez zimowe krajobrazy, by odnaleźć renifera i przywrócić świąteczną magię.",
+      "sourceUrl": "https://www.filmweb.pl/film/Pikkuli%2Bi%2B%C5%9Awi%C4%85teczny%2BRenifer-2026-10133435"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Poznaj swojego teścia",
+      "genre": "Komedia",
+      "summary": "Henry, syn Grega i Pam Fockerów, planuje ślub z niezależną kobietą, która nie pasuje do rodzinnych wyobrażeń. Nadchodzi kolejna porcja rodzinnego chaosu.",
+      "sourceUrl": "https://www.filmweb.pl/film/Poznaj%2Bswojego%2Bte%C5%9Bcia-2026-10084148"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "Buddy",
+      "genre": "Horror / fantasy",
+      "summary": "Grupa dzieci próbuje wydostać się z kolorowego świata programu telewizyjnego dla najmłodszych, gdy pluszowy jednorożec Buddy ujawnia znacznie mroczniejsze oblicze.",
+      "sourceUrl": "https://www.filmweb.pl/film/Buddy-2026-10112372"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "Behemot!",
+      "genre": "Dramat / muzyczny",
+      "summary": "Utalentowany wiolonczelista Alex Serian po dwóch dekadach spędzonych w trasie wraca do rodzinnego Los Angeles.",
+      "sourceUrl": "https://www.filmweb.pl/film/Behemot-2026-10091549"
+    },
+    {
+      "date": "2026-12-11",
+      "title": "Wiklinowy mąż",
+      "genre": "Fantasy / komedia romantyczna",
+      "summary": "Wykluczona przez społeczność rybaczka prosi miejscowego koszykarza o wyplecenie dla niej męża. Gdy wiklinowy człowiek ożywa, jego obecność wywołuje zazdrość i chaos w wiosce.",
+      "sourceUrl": "https://www.filmweb.pl/film/Wiklinowy%2Bm%C4%85%C5%BC-2026-10108008"
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Avengers: Doomsday",
+      "genre": "Sci-fi / akcja",
+      "summary": "Bohaterowie z różnych światów zmierzają ku niebezpiecznej konfrontacji z egzystencjalnym zagrożeniem, jakiego dotąd nie spotkali.",
+      "sourceUrl": "https://www.filmweb.pl/film/Avengers%3A%2BDoomsday-2026-10016660"
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Diuna: Część trzecia",
+      "genre": "Sci-fi",
+      "summary": "Paul Atryda mierzy się z konsekwencjami swojej niezwykłej władzy i planu, który ma uczynić go kimś więcej niż zwykłym władcą.",
+      "sourceUrl": "https://www.filmweb.pl/film/Diuna%3A%2BCz%C4%99%C5%9B%C4%87%2Btrzecia-2026-10068059"
+    }
+  ],
+  "film": {
+    "title": "Apostoł",
+    "year": "2018",
+    "platform": "Netflix",
+    "summary": "W 1905 roku mężczyzna wyrusza na odizolowaną wyspę, by wyrwać siostrę z rąk niebezpiecznej sekty. Mroczny folk horror Garetha Evansa buduje napięcie przez niepokojącą atmosferę, przemoc i religijny fanatyzm.",
+    "availabilityNote": "JustWatch Polska sprawdził dostępność 10 listopada 2026 i wskazywał film w standardowym abonamencie Netflix.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/apostol"
+  },
+  "editorialUpdatedAt": "2026-11-11",
+  "editorialHash": "0ce5a61a5cef89168e5313de9e9b962c39059431e30b00f728b1016c9166d12f"
+}
