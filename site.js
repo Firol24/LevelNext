@@ -255,6 +255,7 @@
       fetch("data/site-content.json?ts=" + Date.now(), { cache: "no-store" })
         .then(function (response) { if (!response.ok) throw new Error("CMS unavailable"); return response.json(); })
         .then(function (data) {
+          if (page !== (window.location.pathname.split("/").pop() || "index.html").toLowerCase()) return;
           (Array.isArray(data.blocks) ? data.blocks : [])
             .filter(function (block) { return block.page === page && block.enabled !== false; })
             .sort(function (a, b) {
