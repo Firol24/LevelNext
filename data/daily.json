@@ -1,16 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T06:01+01:00",
+  "updatedAt": "2026-11-12T07:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Netflix przejął hity HBO Max! Polskie produkcje rozgrzewają fanów",
-    "summary": "Netflix nie zwalnia i ponownie zaskakuje widzów rozbudową swojej biblioteki. Dzięki szerokiej współpracy z Warner Bros. polska oferta platformy regularnie wzbogaca się o produkcje, które wcześniej można było oglądać u konkurencji.",
-    "sourceUrl": "https://www.ppe.pl/news/432881/netflix-przejal-hity-hbo-max-polskie-produkcje-rozgrzewaja-fanow.html"
+    "title": "TRZĘSIENIE ZIEMI w Nvidii! Kolejny romans szefa i widmo zwolnienia. Akcje runęły",
+    "summary": "Nvidia może wkrótce przejść przez największy kryzys wizerunkowy w swojej historii. Jensen Huang, który przez lata stał się twarzą technologicznego giganta i jednym z najważniejszych ludzi w branży sztucznej inteligencji, znalazł się w centr...",
+    "sourceUrl": "https://www.ppe.pl/news/432894/trzesienie-ziemi-w-nvidii-kolejny-romans-szefa-i-widmo-zwolnienia-akcje-runely.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "TRZĘSIENIE ZIEMI w Nvidii! Kolejny romans szefa i widmo zwolnienia. Akcje runęły",
+      "sourceUrl": "https://www.ppe.pl/news/432894/trzesienie-ziemi-w-nvidii-kolejny-romans-szefa-i-widmo-zwolnienia-akcje-runely.html",
+      "publishedAt": "2026-11-12T06:49+01:00",
+      "summary": "Nvidia może wkrótce przejść przez największy kryzys wizerunkowy w swojej historii. Jensen Huang, który przez lata stał się twarzą technologicznego giganta i jednym z najważniejszych ludzi w branży sztucznej inteligencji, znalazł się w centr...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Intergalactic: The Heretic Prophet OFICJALNIE w „końcowym etapie produkcji”. Premiera w 2027 roku jest możliwa",
+      "sourceUrl": "https://www.ppe.pl/news/432891/intergalactic-the-heretic-prophet-oficjalnie-w-koncowym-etapie-produkcji-premiera-w-2027-roku-jest-mozliwa.html",
+      "publishedAt": "2026-11-12T06:40+01:00",
+      "summary": "Neil Druckmann potwierdził znakomitą wiadomość dla fanów PlayStation. Prace nad Intergalactic: The Heretic Prophet, czyli najnowszą produkcją Naughty Dog, zmierzają do wielkiego finału.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze z Xboksów zostali oszukani? Plakat GTA 6 jest znacznie mniejszy od tego z PS5",
+      "sourceUrl": "https://www.ppe.pl/news/432892/gracze-na-xboksach-zostali-oszukani-plakat-gta-6-jest-znacznie-mniejszy-od-tego-z-ps5.html",
+      "publishedAt": "2026-11-12T06:15+01:00",
+      "summary": "Czy właśnie tak wygląda słynne „PlayStation Advantage”? Przez lata gracze żartowali, że Sony zapłaciło miliony dolarów za bonusy dla graczy, ale najnowsze odkrycie jest naprawdę zaskakujące. Okazuje się, że posiadacze PlayStation 5 otrz...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Netflix przejął hity HBO Max! Polskie produkcje rozgrzewają fanów",
