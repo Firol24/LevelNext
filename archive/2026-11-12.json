@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T08:01+01:00",
+  "updatedAt": "2026-11-12T08:18+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -20,6 +20,14 @@
       "summary": "Na abonentów usługi Amazon Luna Standard od dzisiaj będą czekać dwie gry. Mowa o Jurassic World Evolution 2 i Radiolight przypominającym bestsellerowe Firewatch. Informacja 2 gry do odebrania w Amazon Prime Gaming, w tym druga część strategii z cyklu Park Jurajski z 90% pozytywnych ocen na Steam została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532165224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Bo dzień święty trzeba święcić. 7000 pracowników dostaje wolne na premierę GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/432878/bo-dzien-swiety-trzeba-swiecic-7000-pracownikow-dostaje-wolne-na-premiere-gta-6.html",
+      "publishedAt": "2026-11-12T08:15+01:00",
+      "summary": "Zaplanowaliście urlop na premierę GTA 6? Nie wszyscy muszą wykorzystywać dni wolne na to wielkie święto. Szef Logitecha postanowił zaoferować wszystkim pracownikom wolne na granie w Grand Theft Auto 6.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
@@ -107,142 +115,157 @@
   ],
   "indie": [
     {
-      "title": "Hillthorn",
-      "date": "2026-11-10",
-      "platform": "PC (Steam)",
-      "summary": "W odciętej górskiej społeczności znika młoda kobieta. Śledztwo prowadzisz bez dialogów, łącząc wskazówki na kartach, a czas i nieufni mieszkańcy utrudniają odkrycie prawdy.",
-      "sourceUrl": "https://store.steampowered.com/app/3504050/Hillthorn/"
+      "title": "Silver Pines",
+      "date": "2026-10-08",
+      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "summary": "Survival-horror w formie metroidvanii. Prywatny detektyw Red Walker szuka zaginionego muzyka w na wpół opuszczonym miasteczku, gdzie ograniczone zasoby, zagadki i koszmarne stworzenia prowadzą coraz głębiej w tajemnicę.",
+      "sourceUrl": "https://store.steampowered.com/app/2333000/Silver_Pines/"
     },
     {
-      "title": "Tenebris Somnia",
+      "title": "Pestilence",
+      "date": "2026-10-15",
+      "platform": "PC (Steam)",
+      "summary": "Psychologiczny horror FPP o ojcu, który dwa lata po zaginięciu córki więzi podejrzanego i próbuje wydobyć z niego wyznanie. Śledztwo składa z dokumentów, nagrań i materiałów zapisanych na komputerze.",
+      "sourceUrl": "https://store.steampowered.com/app/3525940/"
+    },
+    {
+      "title": "Dreadline Express",
       "date": "2026-10-16",
       "platform": "PC (Steam)",
-      "summary": "Dwuwymiarowy survival horror w pikselowej estetyce łączy eksplorację, zagadki i walkę z aktorskimi sekwencjami FMV. Ukłon w stronę klasycznego Silent Hill i Resident Evil.",
-      "sourceUrl": "https://store.steampowered.com/app/2121510/Tenebris_Somnia/"
+      "summary": "Pierwszoosobowy horror psychologiczny na pokładzie ostatniego pociągu przemierzającego postapokaliptyczny świat. Zbierane karty pomagają łączyć tropy i odkrywać sekrety niepokojących pasażerów.",
+      "sourceUrl": "https://store.steampowered.com/app/3327120/"
     },
     {
-      "title": "Hyperarousal",
-      "date": null,
-      "platform": "PC (Steam)",
-      "summary": "Psychologiczny horror FPP w dolinie Camonica. Eksploracja, sny przodków i mechanika obserwująca reakcje gracza stopniowo zacierają granicę między pamięcią a rzeczywistością.",
-      "sourceUrl": "https://store.steampowered.com/app/4900030/"
+      "title": "Athanasia",
+      "date": "2026-10-19",
+      "platform": "PC (Steam, Early Access)",
+      "summary": "Horror FPS w opuszczonym ośrodku badawczym, w którym eksperymenty obudziły prehistoryczne drapieżniki. Łączy skradanie, eksplorację, zarządzanie zasobami i rozwiązania immersive sim.",
+      "sourceUrl": "https://store.steampowered.com/app/1761910/Athanasia/"
     },
     {
-      "title": "BLIGHTEN",
+      "title": "Bleach & Blood",
       "date": null,
-      "platform": "PC (Steam)",
-      "summary": "Retro survival horror FPS w opuszczonym kompleksie opanowanym przez zainfekowane istoty. Liczą się eksploracja, zbieranie zasobów i oszczędne gospodarowanie amunicją. Steam podaje planowaną premierę w 2026 roku, bez konkretnego dnia.",
-      "sourceUrl": "https://store.steampowered.com/app/4462580/BLIGHTEN/"
-    },
-    {
-      "title": "Holstin",
-      "date": null,
-      "platform": "PC (Steam)",
-      "summary": "Polski survival horror w miasteczku lat 90., które pochłania tajemnicza obecność. Eksploracja, rozmowy z mieszkańcami i walka mają doprowadzić do prawdy o zaginionym znajomym.",
-      "sourceUrl": "https://store.steampowered.com/app/2235430/H%C3%B6lstin/"
+      "platform": "Windows, macOS, Linux (demo)",
+      "summary": "Narracyjny slasher w estetyce PS1, osadzony podczas nocnej zmiany w małomiasteczkowej pralni. Zwykłe obowiązki i rozmowy stopniowo ustępują napięciu, gdy w okolicy działa seryjny morderca. Darmowe demo trwa około 25-30 minut.",
+      "sourceUrl": "https://www.gamespress.com/en-US/BLEACH-BLOOD-FREE-PS1-STYLE-HORROR-DEMO-IS-LIVE-AHEAD-OF-OCTOBER-STEAM"
     }
   ],
   "releases": [
     {
-      "date": "2026-12-03",
-      "title": "Warhammer 40,000: Dawn of War IV",
-      "platform": "PC",
+      "date": "2026-11-12",
+      "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
+      "platform": "Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Powrót kultowej strategii RTS na planetę Kronus. Wydawca PLAION i studio KING Art Games potwierdzają premierę 3 grudnia.",
-      "sourceUrl": "https://press.plaion.com/pl/Dawn-of-War-IV"
+      "note": "Edycja na Switch 2 dodaje nowe funkcje, w tym sterowanie Oatchim głosem oraz tryb Dandori Academy. Nintendo potwierdza premierę 12 listopada.",
+      "sourceUrl": "https://www.nintendo.com/my/news/article/5S711JpOsIpjyRP5hhXgpu"
     },
     {
-      "date": "2026-12-03",
-      "title": "Thief: The Dark Project Remastered",
-      "platform": "PC (Steam)",
-      "status": "confirmed",
-      "note": "Odświeżona wersja skradankowego klasyka z 1998 roku, zawierająca także misje z Thief Gold i nową kampanię The Tarnished Mirror.",
-      "sourceUrl": "https://store.steampowered.com/app/4200960/Thief_The_Dark_Project_Remastered/"
-    },
-    {
-      "date": "2026-12-03",
-      "title": "DRAGON QUEST MONSTERS: The Withered World",
-      "platform": "Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S, PC",
-      "status": "confirmed",
-      "note": "Nowa odsłona serii o werbowaniu i łączeniu potworów. Square Enix potwierdza premierę konsolową 3 grudnia; wersja Steam ukaże się 4 grudnia.",
-      "sourceUrl": "https://www.square-enix.com/asia/newsportal/en/topics/dragonquest-monsters4/post03"
-    },
-    {
-      "date": "2026-12-03",
-      "title": "Rayman Legends Retold",
-      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
-      "status": "confirmed",
-      "note": "Nowa interpretacja platformówki Rayman Legends z odświeżoną oprawą, dodatkową krainą i lokalną kooperacją dla maksymalnie czterech osób.",
-      "sourceUrl": "https://www.ubisoft.com/en-us/games/rayman-legends-retold"
-    },
-    {
-      "date": "2026-12-03",
-      "title": "The Road of Dust and Sorrow",
+      "date": "2026-11-13",
+      "title": "DERELIKT",
       "platform": "PC (Steam)",
       "status": "listed",
-      "note": "Pikselowy horror inspirowany klasykami lat 90. Katherine i jej córka Ava próbują przetrwać w świecie wyniszczonym przez zarazę. Steam podaje planowaną datę 3 grudnia.",
-      "sourceUrl": "https://store.steampowered.com/app/3895110/"
+      "note": "Retro FPS w klaustrofobicznym horrorze sci-fi inspirowanym estetyką PS1. Steam wyświetla 13 listopada jako termin premiery.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Family Business",
+      "platform": "PC (Steam)",
+      "status": "listed",
+      "note": "Horror o nocnej zmianie w podupadłym barze wujka. Obsługa klientów stopniowo odsłania mroczną historię rodziny; Steam podaje 13 listopada jako planowany termin.",
+      "sourceUrl": "https://store.steampowered.com/app/5118760/Family_Business/"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Grand Theft Auto VI",
+      "platform": "PlayStation 5, Xbox Series X|S",
+      "status": "confirmed",
+      "note": "Rockstar potwierdza premierę 19 listopada na PS5 i Xbox Series X|S. Akcja przenosi serię do fikcyjnego stanu Leonida.",
+      "sourceUrl": "https://www.rockstargames.com/VI"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Am I Nima",
+      "platform": "PC (Steam)",
+      "status": "listed",
+      "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę.",
+      "sourceUrl": "https://store.steampowered.com/app/3224600/"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Hela: of Mice & Magic",
+      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Przygodówka w otwartym świecie inspirowanym północną Szwecją, z samotną grą i kooperacją. Wydawca Knights Peak i studio Windup potwierdzają 1 grudnia.",
+      "sourceUrl": "https://www.microids.com/hela-of-mice-magic-will-enchant-players-worldwide-on-december-1st-2026/"
     }
   ],
   "cinema": [
     {
-      "date": "2026-11-27",
-      "title": "Pikkuli i Świąteczny Renifer",
-      "genre": "Animacja / familijny",
-      "summary": "Gdy Boże Narodzenie zostaje odwołane, mały ptaszek Pikkuli i przyjaciele ruszają przez zimowe krajobrazy, by odnaleźć renifera i przywrócić świąteczną magię.",
-      "sourceUrl": "https://www.filmweb.pl/film/Pikkuli%2Bi%2B%C5%9Awi%C4%85teczny%2BRenifer-2026-10133435"
+      "date": "2026-11-13",
+      "title": "Dziki Koń Dziewięć",
+      "genre": "Thriller / dramat",
+      "summary": "Nowy film Martina McDonagha z Samem Rockwellem, Johnem Malkovichem i Steve'em Buscemim.",
+      "sourceUrl": "https://www.rankino.pl/premiery/dziki-kon-dziewiec"
     },
     {
-      "date": "2026-11-27",
-      "title": "Poznaj swojego teścia",
-      "genre": "Komedia",
-      "summary": "Henry, syn Grega i Pam Fockerów, planuje ślub z niezależną kobietą, która nie pasuje do rodzinnych wyobrażeń. Nadchodzi kolejna porcja rodzinnego chaosu.",
-      "sourceUrl": "https://www.filmweb.pl/film/Poznaj%2Bswojego%2Bte%C5%9Bcia-2026-10084148"
+      "date": "2026-11-13",
+      "title": "Ebenezer Scrooge. Opowieść wigilijna",
+      "genre": "Dramat",
+      "summary": "Gotycka interpretacja opowieści Dickensa w ponurym Londynie. Za kamerą Ti West, a w obsadzie Johnny Depp i Ian McKellen.",
+      "sourceUrl": "https://www.rankino.pl/premiery/ebenezer-scrooge-opowiesc-wigilijna"
     },
     {
-      "date": "2026-12-04",
-      "title": "Buddy",
-      "genre": "Horror / fantasy",
-      "summary": "Grupa dzieci próbuje wydostać się z kolorowego świata programu telewizyjnego dla najmłodszych, gdy pluszowy jednorożec Buddy ujawnia znacznie mroczniejsze oblicze.",
-      "sourceUrl": "https://www.filmweb.pl/film/Buddy-2026-10112372"
+      "date": "2026-11-13",
+      "title": "Jak obrabować bank",
+      "genre": "Akcja / thriller",
+      "summary": "Film o skoku na bank w reżyserii Davida Leitcha, twórcy „Bullet Train”. W rolach głównych Nicholas Hoult i Zoë Kravitz.",
+      "sourceUrl": "https://www.rankino.pl/premiery/jak-obrabowac-bank"
     },
     {
-      "date": "2026-12-04",
-      "title": "Behemot!",
-      "genre": "Dramat / muzyczny",
-      "summary": "Utalentowany wiolonczelista Alex Serian po dwóch dekadach spędzonych w trasie wraca do rodzinnego Los Angeles.",
-      "sourceUrl": "https://www.filmweb.pl/film/Behemot-2026-10091549"
-    },
-    {
-      "date": "2026-12-11",
-      "title": "Wiklinowy mąż",
-      "genre": "Fantasy / komedia romantyczna",
-      "summary": "Wykluczona przez społeczność rybaczka prosi miejscowego koszykarza o wyplecenie dla niej męża. Gdy wiklinowy człowiek ożywa, jego obecność wywołuje zazdrość i chaos w wiosce.",
-      "sourceUrl": "https://www.filmweb.pl/film/Wiklinowy%2Bm%C4%85%C5%BC-2026-10108008"
-    },
-    {
-      "date": "2026-12-16",
-      "title": "Avengers: Doomsday",
+      "date": "2026-11-20",
+      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
       "genre": "Sci-fi / akcja",
-      "summary": "Bohaterowie z różnych światów zmierzają ku niebezpiecznej konfrontacji z egzystencjalnym zagrożeniem, jakiego dotąd nie spotkali.",
-      "sourceUrl": "https://www.filmweb.pl/film/Avengers%3A%2BDoomsday-2026-10016660"
+      "summary": "Prequel wraca do Panem na 50. Głodowe Igrzyska, w których młody Haymitch Abernathy trafia na arenę z dwukrotnie większą liczbą trybutów.",
+      "sourceUrl": "https://www.rankino.pl/premiery/igrzyska-smierci-wschod-slonca-w-dniu-dozynek"
     },
     {
-      "date": "2026-12-16",
-      "title": "Diuna: Część trzecia",
-      "genre": "Sci-fi",
-      "summary": "Paul Atryda mierzy się z konsekwencjami swojej niezwykłej władzy i planu, który ma uczynić go kimś więcej niż zwykłym władcą.",
-      "sourceUrl": "https://www.filmweb.pl/film/Diuna%3A%2BCz%C4%99%C5%9B%C4%87%2Btrzecia-2026-10068059"
+      "date": "2026-11-20",
+      "title": "Przemytnicy",
+      "genre": "Akcja / thriller",
+      "summary": "Thriller Padraica McKinleya z Ethanem Hawke'em i Russellem Crowe'em.",
+      "sourceUrl": "https://www.rankino.pl/premiery/przemytnicy"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Morderstwo w filharmonii",
+      "genre": "Czarna komedia / kryminał",
+      "summary": "W filharmonii lat 70. podczas koncertu ginie jeden z widzów. Detektyw Wróbel prowadzi śledztwo wśród artystów, których łączą ambicje i skrywane tajemnice.",
+      "sourceUrl": "https://www.filmweb.pl/film/Morderstwo%2Bw%2Bfilharmonii-2026-10134034"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Papierowy tygrys",
+      "genre": "Thriller / dramat / kryminał",
+      "summary": "Dwaj bracia próbują ocalić rodzinę przed rosyjską mafią. Intryga wystawia ich więź na próbę i zmusza do konfrontacji z przemocą oraz korupcją.",
+      "sourceUrl": "https://www.filmweb.pl/film/Papierowy%2Btygrys-2026-10113103"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Violetta Villas",
+      "genre": "Biograficzny / dramat",
+      "summary": "Historia polskiej divy, której talent zaprowadził ją na sceny Paryża i Las Vegas, opowiedziana z perspektywy jej syna.",
+      "sourceUrl": "https://www.filmweb.pl/film/Violetta%2BVillas-2026-10015384"
     }
   ],
   "film": {
-    "title": "Apostoł",
-    "year": "2018",
+    "title": "Rytuał",
+    "year": "2017",
     "platform": "Netflix",
-    "summary": "W 1905 roku mężczyzna wyrusza na odizolowaną wyspę, by wyrwać siostrę z rąk niebezpiecznej sekty. Mroczny folk horror Garetha Evansa buduje napięcie przez niepokojącą atmosferę, przemoc i religijny fanatyzm.",
-    "availabilityNote": "JustWatch Polska sprawdził dostępność 10 listopada 2026 i wskazywał film w standardowym abonamencie Netflix.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/apostol"
+    "summary": "Czwórka przyjaciół wyrusza do szwedzkich lasów, by uczcić pamięć zmarłego kolegi. Po zejściu ze szlaku gubią orientację, a w dziczy zaczyna ich prześladować coś nieznanego. Nastrojowy survival horror oparty na leśnej izolacji i narastającym lęku.",
+    "availabilityNote": "JustWatch Polska zaktualizował dane 10 listopada 2026 r. i wskazuje film w streamingu w ramach abonamentu Netflix w Polsce.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/rytual"
   },
-  "editorialUpdatedAt": "2026-11-11",
-  "editorialHash": "0ce5a61a5cef89168e5313de9e9b962c39059431e30b00f728b1016c9166d12f"
+  "editorialUpdatedAt": "2026-11-12",
+  "editorialHash": "2becf07a2c238b0aec61113022035ee547268d2c1b54a33e0d14ad2f95d70a06"
 }
