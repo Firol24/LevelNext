@@ -1,17 +1,69 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T20:01+01:00",
+  "updatedAt": "2026-11-12T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Hegemon „wielkich gier strategicznych” zapowiada ważną roszadę na samym szczycie. Paradox ma wejść na wyższe obroty",
-    "summary": "Fredrik Wester ustępuje z pozycji prezesa Paradoxu na rzecz Mattiasa Lilji. Firma zapowiada, że jej kierunek rozwoju pozostanie bez zmian, ale zamierza zwiększyć tempo działania. Informacja Hegemon „wielkich gier strategicznych” zapowiada ważną roszadę na samym szczycie. Paradox ma wejść na wyższe obroty została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/hegemon-wielkich-gier-strategicznych-zapowiada-wazna-roszade-na-s/zc32304",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532205676.jpg"
+    "title": "Twórcy The Blood of Dawnwalker godnie przyjęli wielką porażkę. „To przywilej, którego nie sposób wyrazić słowami”",
+    "summary": "The Blood of Dawnwalker nie zdobył żadnej nagrody podczas Golden Joystick Awards, ale osiągnął wysokie pozycje w niektórych kategoriach. Wyniki skomentował jeden z założycieli Rebel Wolves. Informacja Twórcy The Blood of Dawnwalker godnie przyjęli wielką porażkę. „To przywilej, którego nie sposób wyrazić słowami” została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-the-blood-of-dawnwalker-godnie-przyjeli-wielka-porazke-to/zd32305",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532210555.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy The Blood of Dawnwalker godnie przyjęli wielką porażkę. „To przywilej, którego nie sposób wyrazić słowami”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-the-blood-of-dawnwalker-godnie-przyjeli-wielka-porazke-to/zd32305",
+      "publishedAt": "2026-11-12T21:16+01:00",
+      "summary": "The Blood of Dawnwalker nie zdobył żadnej nagrody podczas Golden Joystick Awards, ale osiągnął wysokie pozycje w niektórych kategoriach. Wyniki skomentował jeden z założycieli Rebel Wolves. Informacja Twórcy The Blood of Dawnwalker godnie przyjęli wielką porażkę. „To przywilej, którego nie sposób wyrazić słowami” została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532210555.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy gameplay z GTA 6 wygląda OBŁĘDNIE. Rockstar reaguje na krytykę 30 FPS?",
+      "sourceUrl": "https://www.ppe.pl/news/432962/nowy-gameplay-z-gta-6-wyglada-oblednie-rockstar-reaguje-na-krytyke-30-fps.html",
+      "publishedAt": "2026-11-12T20:43+01:00",
+      "summary": "GTA 6 ponownie zachwyca graczy! W mediach społecznościowych pojawiło się nowe nagranie prezentujące samochody poruszające się po ulicach Vice City, a jakość oprawy graficznej robi ogromne wrażenie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Szef Take-Two przewiduje, że to jeszcze nie koniec fizycznych wydań gier. „Będzie istniał na podobnej zasadzie, co rynek płyt winylowych”",
+      "sourceUrl": "https://cdaction.pl/newsy/szef-take-two-przewiduje-ze-to-jeszcze-nie-koniec-fizycznych-wydan-gier-bedzie-istnial-na-podobnej-zasadzie-co-rynek-plyt-winylowych/",
+      "publishedAt": "2026-11-12T20:30+01:00",
+      "summary": "Wypowiedź może i niefortunna, ale przewrotnie daje pewną nadzieję.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/winyle-8594.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Sprawdź swoją historię gracza z Xbox Playback i świętuj 25. urodziny konsol Microsoftu!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/sprawdz-swoja-historie-gracza-z-xbox-playback-i-swietuj-25-urodziny-konsol-microsoftu/",
+      "publishedAt": "2026-11-12T20:18+01:00",
+      "summary": "Firma Microsoft świętuje w tym roku 25. urodziny swojej pierwszej konsoli. Z tej okazji gigant z Redmond przygotował wyjątkowe podsumowanie dla użytkowników ekosystemu Xbox. Każdy zainteresowany może przejść na specjalną stronę, zalogować się wybranym profilem MS i sprawdzić swoją historię gracza – począwszy od pierwszej konsoli, poprzez ilość ukończonych na 100% produkcji, skończywszy na łączymy czasie spędzonym na zabawie. Wszystkie statystyki powstały w oparciu o Waszą aktywność przypisaną do konta Xbox. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Sprawdz-swoja-historie-gracza-z-Xbox-Playback-i-swietuj-25.-urodziny-konsol-Microsoftu_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pierścienie Władzy zaliczają najgorszy wynik w historii serialu. Trzeci sezon już na Prime Video",
+      "sourceUrl": "https://www.ppe.pl/news/432971/pierscienie-wladzy-zaliczaja-najgorszy-wynik-w-historii-serialu-trzeci-sezon-juz-na-prime-video.html",
+      "publishedAt": "2026-11-12T20:14+01:00",
+      "summary": "Serial „Władca Pierścieni: Pierścienie Władzy” powrócił z trzecim sezonem na platformie Prime Video. Pierwsze trzy odcinki są już dostępne, a kolejne będą udostępniane w następnych tygodniach. Nowa odsłona produkcji uzyskała jednak ni...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Na premierę na Steamie czeka w kolejce coraz więcej gier. Wszystko to wina AI slopu",
+      "sourceUrl": "https://cdaction.pl/newsy/na-premiere-na-steamie-czeka-w-kolejce-coraz-wiecej-gier-wszystko-to-wina-ai-slopu/",
+      "publishedAt": "2026-11-12T20:00+01:00",
+      "summary": "Czas jest luksusem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/australia-did-it-1260x709.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Hegemon „wielkich gier strategicznych” zapowiada ważną roszadę na samym szczycie. Paradox ma wejść na wyższe obroty",
