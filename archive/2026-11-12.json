@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T05:01+01:00",
+  "updatedAt": "2026-11-12T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "23 lata temu miała podbić Hollywood rolą w Terminatorze 3. Agent zapowiadał, że tłumy fanów nie pozwolą jej nawet spokojnie zatankować auta. Zamiast tego trafiła do filmów Uwe Bolla",
-    "summary": "Kristanna Loken miała podbić Hollywood po występie u boku Arnolda Schwarzeneggera w Terminatorze 3. Jej menedżer przewidywał, że aktorka stanie się tak sławna, iż nie będzie mogła nawet spokojnie zatankować samochodu. Rzeczywistość okazała się jednak zupełnie inna. Informacja 23 lata temu miała podbić Hollywood rolą w Terminatorze 3. Agent zapowiadał, że tłumy fanów nie pozwolą jej nawet spokojnie zatankować auta. Zamiast tego trafiła do filmów Uwe Bolla została opublikowana przez GRYOnline.pl 11 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/23-lata-temu-miala-podbic-hollywood-rola-w-terminatorze-3-agent-z/z832289",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531914627.jpg"
+    "title": "Netflix przejął hity HBO Max! Polskie produkcje rozgrzewają fanów",
+    "summary": "Netflix nie zwalnia i ponownie zaskakuje widzów rozbudową swojej biblioteki. Dzięki szerokiej współpracy z Warner Bros. polska oferta platformy regularnie wzbogaca się o produkcje, które wcześniej można było oglądać u konkurencji.",
+    "sourceUrl": "https://www.ppe.pl/news/432881/netflix-przejal-hity-hbo-max-polskie-produkcje-rozgrzewaja-fanow.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Netflix przejął hity HBO Max! Polskie produkcje rozgrzewają fanów",
+      "sourceUrl": "https://www.ppe.pl/news/432881/netflix-przejal-hity-hbo-max-polskie-produkcje-rozgrzewaja-fanow.html",
+      "publishedAt": "2026-11-12T05:46+01:00",
+      "summary": "Netflix nie zwalnia i ponownie zaskakuje widzów rozbudową swojej biblioteki. Dzięki szerokiej współpracy z Warner Bros. polska oferta platformy regularnie wzbogaca się o produkcje, które wcześniej można było oglądać u konkurencji.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "23 lata temu miała podbić Hollywood rolą w Terminatorze 3. Agent zapowiadał, że tłumy fanów nie pozwolą jej nawet spokojnie zatankować auta. Zamiast tego trafiła do filmów Uwe Bolla",
