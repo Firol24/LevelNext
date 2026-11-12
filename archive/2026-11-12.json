@@ -1,17 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T13:08+01:00",
+  "updatedAt": "2026-11-12T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ojciec chrzestny rynku DRAM nie ma złudzeń: Chiny mogą zalać rynek tanią pamięcią RAM w 2028 roku",
-    "summary": "Ekspert uważa, że chiński RAM może zalać rynek i obniżyć ceny za około 2 lata. Największy producent CXMT ma jednak poważne przeszkody do pokonania. Informacja Ojciec chrzestny rynku DRAM nie ma złudzeń: Chiny mogą zalać rynek tanią pamięcią RAM w 2028 roku została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/ojciec-chrzestny-rynku-dram-nie-ma-zludzen-chiny-moga-zalac-rynek/z6322f9",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532183358.jpg"
+    "title": "Twórcy WoW Forever zareagowali na kontrowersje wokół golda. Problem braku nagród na maksymalnym levelu doczekał się rozwiązania",
+    "summary": "Blizzard odpowiada na kontrowersje związane z przyznawaniem golda. Dla pokrzywdzonych graczy przygotowano zadośćuczynienie. Informacja Twórcy WoW Forever zareagowali na kontrowersje wokół golda. Problem braku nagród na maksymalnym levelu doczekał się rozwiązania została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-wow-forever-zareagowali-na-kontrowersje-wokol-golda-proble/zf322fb",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532185077.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy WoW Forever zareagowali na kontrowersje wokół golda. Problem braku nagród na maksymalnym levelu doczekał się rozwiązania",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-wow-forever-zareagowali-na-kontrowersje-wokol-golda-proble/zf322fb",
+      "publishedAt": "2026-11-12T14:15+01:00",
+      "summary": "Blizzard odpowiada na kontrowersje związane z przyznawaniem golda. Dla pokrzywdzonych graczy przygotowano zadośćuczynienie. Informacja Twórcy WoW Forever zareagowali na kontrowersje wokół golda. Problem braku nagród na maksymalnym levelu doczekał się rozwiązania została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532185077.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zwolnieni z id Software założyli własne studio. Robią brutalnego FPS-a inspirowanego filmem ze Schwarzeneggerem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zwolnieni-z-id-software-zalozyli-wlasne-studio-robia-brutalnego-f/ze322fa",
+      "publishedAt": "2026-11-12T14:10+01:00",
+      "summary": "Część z deweloperów zwolnionych przez Microsoft ze studia id Software założyła nową firmę. Twórcy pracują już nad pierwszym projektem: brutalnym FPS-em zainspirowanym klasycznym filmem akcji z Arnoldem Schwarzeneggerem w roli głównej. Informacja Zwolnieni z id Software założyli własne studio. Robią brutalnego FPS-a inspirowanego filmem ze Schwarzeneggerem została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532184997.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Brendan Fraser to za mało. Kultowy czarny charakter oficjalnie wraca do Mumii 4",
+      "sourceUrl": "https://www.ppe.pl/news/432934/brendan-fraser-to-za-malo-kultowy-czarny-charakter-oficjalnie-wraca-do-mumii-4.html",
+      "publishedAt": "2026-11-12T14:01+01:00",
+      "summary": "No i stało się. To, o czym fani kina przygodowego szeptali po kątach od tegorocznych wakacji, wreszcie nabrało oficjalnych kształtów.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nowa gra w Xbox Game Pass. Możecie już ogrywać John Carpenter’s Toxic Commando",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/nowa-gra-w-xbox-game-pass-mozecie-juz-ogrywac-john-carpenters-toxic-commando/",
+      "publishedAt": "2026-11-12T13:58+01:00",
+      "summary": "Najnowsza aktualizacja oferty abonamentu giganta z Redmond, wprowadziła dziś jedną pozycję do sprawdzenia. Jest to John Carpenter’s Toxic Commando, czyli luźno oparty na twórczości amerykańskiego reżysera shooter kooperacyjny. W strzelance waszym celem będzie pokonać Szlamowe Bóstwo, które zamienia ludzi w zombie i wypacza środowisko. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/toxic-commando-xgp-miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Ojciec chrzestny rynku DRAM nie ma złudzeń: Chiny mogą zalać rynek tanią pamięcią RAM w 2028 roku",
@@ -20,6 +55,23 @@
       "summary": "Ekspert uważa, że chiński RAM może zalać rynek i obniżyć ceny za około 2 lata. Największy producent CXMT ma jednak poważne przeszkody do pokonania. Informacja Ojciec chrzestny rynku DRAM nie ma złudzeń: Chiny mogą zalać rynek tanią pamięcią RAM w 2028 roku została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532183358.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Chcieli zaoszczędzić miliony dzięki AI. Netflix wydał zakaz twórcom hitowego serialu",
+      "sourceUrl": "https://www.ppe.pl/news/432933/chcieli-zaoszczedzic-miliony-dzieki-ai-netflix-wydal-zakaz-tworcom-hitowego-serialu.html",
+      "publishedAt": "2026-11-12T13:41+01:00",
+      "summary": "Pamiętacie Niebieskookiego samuraja? Ten brutalny miks Kill Billa z japońskim folklorem zgarnął aż 97% pozytywnych recenzji. Kontynuacja nadciąga - premiera już 19 stycznia 2027 roku.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Czy polska lokalizacja uratuje Dark and Darker przed zatonięciem? Część graczy już odpłynęła do konkurencji",
+      "sourceUrl": "https://cdaction.pl/newsy/czy-polska-lokalizacja-uratuje-dark-and-darker-przed-zatonieciem-czesc-graczy-juz-odplynela-do-konkurencji/",
+      "publishedAt": "2026-11-12T13:30+01:00",
+      "summary": "Źle się dzieje w dareczkowni.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-12T121601.384-1260x709.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -38,6 +90,23 @@
       "summary": "Heroes of Dragon Age powraca. Gracz ciężko pracował nad przywróceniem strategicznej odsłony smoczej sagi. Informacja Gracz przywrócił do życia porzucony projekt ze świata Dragon Age. Dodał także nieco swoich poprawek została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532182092.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Henry Cavill i Mark Hamill w jednej grze. Ten kosmiczny gigant urywa głowę!",
+      "sourceUrl": "https://www.ppe.pl/news/432932/henry-cavill-i-mark-hamill-w-jednej-grze-ten-kosmiczny-gigant-urywa-glowe.html",
+      "publishedAt": "2026-11-12T13:22+01:00",
+      "summary": "Ucieczka przed premierą GTA 6 to żaden wstyd. Niektórzy woleli odpuścić, żeby ich kosmiczny projekt nie został zadeptany przez Rockstar.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestawy i akcesoria Moza taniej w x-kom. Baza R3 + kierownica + pedały SRP-Lite + zaciski RS074 za 949 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/zestawy-i-akcesoria-moza-taniej-w-x-kom-baza-r3-kierownica-pedaly-srp-lite-zaciski-rs074-za-949-zl/",
+      "publishedAt": "2026-11-12T13:20+01:00",
+      "summary": "Sprzęt firmy Moza, przygotowany z myślą o symulatorach samochodowych i lotniczych, został przeceniony w sklepie x-kom. Zebraliśmy wszystko dla Was do jednego wpisu, dzięki czemu będzie Wam łatwiej podjąć decyzję o zakupie. Przykładowo, podstawowy zestaw z bazą R3, kierownicą, pedałami i zaciskami, który podłączycie do PC, kosztuje 949 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/moza-racing-r3-2b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
