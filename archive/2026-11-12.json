@@ -1,17 +1,85 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T18:01+01:00",
+  "updatedAt": "2026-11-12T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Kosmiczne RPG Obsidianu otrzyma 2 dodatki, pierwszy już za miesiąc. The Outer Worlds 2 i 7 innych gier tanio w Humble Choice",
-    "summary": "Obsidian ujawnił szczegóły pierwszego dodatku do The Outer Worlds 2. Graczy czeka nowa przygoda, pełna trudnych wyborów, których konsekwencje odczują również w przyszłości. Informacja Kosmiczne RPG Obsidianu otrzyma 2 dodatki, pierwszy już za miesiąc. The Outer Worlds 2 i 7 innych gier tanio w Humble Choice została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/kosmiczne-rpg-obsidianu-otrzyma-2-dodatki-pierwszy-juz-za-miesiac/za32302",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532198738.jpg"
+    "title": "Hegemon „wielkich gier strategicznych” zapowiada ważną roszadę na samym szczycie. Paradox ma wejść na wyższe obroty",
+    "summary": "Fredrik Wester ustępuje z pozycji prezesa Paradoxu na rzecz Mattiasa Lilji. Firma zapowiada, że jej kierunek rozwoju pozostanie bez zmian, ale zamierza zwiększyć tempo działania. Informacja Hegemon „wielkich gier strategicznych” zapowiada ważną roszadę na samym szczycie. Paradox ma wejść na wyższe obroty została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/hegemon-wielkich-gier-strategicznych-zapowiada-wazna-roszade-na-s/zc32304",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532205676.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Hegemon „wielkich gier strategicznych” zapowiada ważną roszadę na samym szczycie. Paradox ma wejść na wyższe obroty",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/hegemon-wielkich-gier-strategicznych-zapowiada-wazna-roszade-na-s/zc32304",
+      "publishedAt": "2026-11-12T19:55+01:00",
+      "summary": "Fredrik Wester ustępuje z pozycji prezesa Paradoxu na rzecz Mattiasa Lilji. Firma zapowiada, że jej kierunek rozwoju pozostanie bez zmian, ale zamierza zwiększyć tempo działania. Informacja Hegemon „wielkich gier strategicznych” zapowiada ważną roszadę na samym szczycie. Paradox ma wejść na wyższe obroty została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532205676.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Mapa wielkiego otwartego świata GTA 6 wyciekła do sieci na tydzień przed premierą. Gra Rockstara była o włos od bana",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mapa-wielkiego-otwartego-swiata-gta-6-wyciekla-do-sieci-na-tydzie/zb32303",
+      "publishedAt": "2026-11-12T19:23+01:00",
+      "summary": "Na tydzień przed premierą GTA 6 mapa Leonidy wciąż skrywa wiele tajemnic. Choć Rockstar nie spieszy się z jej ujawnieniem, do sieci trafił materiał, który może zdradzać nieco więcej na temat ogromnego świata gry. Informacja Mapa wielkiego otwartego świata GTA 6 wyciekła do sieci na tydzień przed premierą. Gra Rockstara była o włos od bana została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532203733.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jensen Huang opuszcza NVIDIA po 33 latach. Oto jego najważniejsze dokonania i przełomowe decyzje",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432954/jensen-huang-opuszcza-nvidia-po-33-latach-oto-jego-najwazniejsze-dokonania-i-przelomowe-decyzje.html",
+      "publishedAt": "2026-11-12T19:00+01:00",
+      "summary": "Ostatnie wydarzenia dość jednoznacznie sugerowały, że do rozłamu na linii Jensen-NVIDIA musi w końcu dojść. Były już prezes może sobie teraz pluć w brodę, bo przez brak hamulców doprowadził do gigantycznych strat, a prawdopodobnie równie...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Wyciek mapy z GTA 6. Można zobaczyć stan Leonida w niemal pełnej okazałości",
+      "sourceUrl": "https://cdaction.pl/newsy/wyciek-mapy-z-gta-6-mozna-zobaczyc-stan-leonida-w-niemal-pelnej-okazalosci/",
+      "publishedAt": "2026-11-12T18:45+01:00",
+      "summary": "Źródłem jest podobno krnąbrny pracownik sieci Selfridges.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta-6-8448.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tak będzie brzmiał Wiedźmin w Pieśniach przeszłości. Do sieci trafił klip z polskim głosem Geralta",
+      "sourceUrl": "https://www.ppe.pl/news/432967/tak-bedzie-brzmial-wiedzmin-w-piesniach-przeszlosci-do-sieci-trafil-klip-z-polskim-glosem-geralta.html",
+      "publishedAt": "2026-11-12T18:45+01:00",
+      "summary": "Mamy nowe nagranie z Wiedźmina 3: Dziki Gon – Pieśni przeszłości. Jest to próbka tego, jak będzie brzmieć Geralt w polskiej wersji językowej.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "YouTube szykuje 24-godzinny stream z GTA 6. W wydarzeniu weźmie udział 30 twórców!",
+      "sourceUrl": "https://www.ppe.pl/news/432964/youtube-szykuje-24-godzinny-stream-z-gta-6-w-wydarzeniu-wezmie-udzial-30-tworcow.html",
+      "publishedAt": "2026-11-12T18:38+01:00",
+      "summary": "Premiera Grand Theft Auto VI będzie okazją do specjalnego wydarzenia na YouTube. Platforma zapowiedziała oficjalną współpracę z Rockstar Games, w ramach której 19 listopada 2026 roku rozpocznie się całodobowa transmisja poświęcona nowej ods�...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyluzuj się z nowym zestawem od Fanatical. Wybierz 7 relaksujących gier Steam za 46 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/wyluzuj-sie-z-nowym-zestawem-od-fanatical-wybierz-7-relaksujacych-gier-steam-za-46-zl/",
+      "publishedAt": "2026-11-12T18:35+01:00",
+      "summary": "Łowcy, tym razem zespół Fanatical przygotował coś dla fanów odprężających gier, które nie wymagają zbyt wiele zaangażowania. W ramach najnowszego zestawu Build Your Own Idler Bundle możecie wybrać maksymalnie 7 gier PC. Do Waszej dyspozycji oddano 17 produkcji w postaci kluczy Steam. Całość dostępna jest za 46,21 zł, co daje nam niezły przelicznik na poziomie ok. 6,60 zł za jedną pozycję ! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyluzuj-sie-z-nowym-zestawem-od-Fanatical.-Wybierz-7-relaksujacych-gier-Steam-za-46-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To prawdziwe arcydzieło! Ten jeden mroczny szczegół zbliża serial Amazona do trylogii Petera Jacksona",
+      "sourceUrl": "https://www.ppe.pl/news/432935/to-prawdziwe-arcydzielo-ten-jeden-mroczny-szczegol-zbliza-serial-amazona-do-trylogii-petera-jacksona.html",
+      "publishedAt": "2026-11-12T18:16+01:00",
+      "summary": "Prime Video wreszcie zrzuciło bombę. Pierwsze cztery odcinki trzeciego sezonu Pierścieni Władzy właśnie pojawiły się na platformie. I trzeba przyznać, że Amazon nie bierze już jeńców.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Kosmiczne RPG Obsidianu otrzyma 2 dodatki, pierwszy już za miesiąc. The Outer Worlds 2 i 7 innych gier tanio w Humble Choice",
