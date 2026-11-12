@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T13:01+01:00",
+  "updatedAt": "2026-11-12T13:08+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -47,6 +47,23 @@
       "summary": "Jak wiele trzeba grać, żeby zdobyć wszystkie punkty Legacy w WoW Forever w tydzień? Raczej nie uświadczylibyście w tym czasie zbyt dużo snu. Informacja Pewien gracz WoW Forever już wymaksował wszystkie punkty Legacy. Inni fani pytają czy wszystko z nim w porządku została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532181345.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Todd Howard znów to zrobił. Tak świętuje 15. urodziny kultowego RPG-a",
+      "sourceUrl": "https://www.ppe.pl/news/432931/todd-howard-znow-to-zrobil-tak-swietuje-15-urodziny-kultowego-rpg-a.html",
+      "publishedAt": "2026-11-12T13:05+01:00",
+      "summary": "Zleciało, co? Od piętnastu lat tłuczemy smoki w tej samej grze, a Todd Howard nadal każe nam czekać na następcę. Wiemy już oficjalnie, że 6 to Sentinel. Tyle że szybciej osiwiejemy, niż w to zagramy.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Marvel 1943: Rise of Hydra jest ponoć „niemal gotowe”. Projekt został jednak znacząco okrojony ze skali zawartości",
+      "sourceUrl": "https://cdaction.pl/newsy/marvel-1943-rise-of-hydra-jest-ponoc-niemal-gotowe-projekt-zostal-jednak-znaczaco-okrojony-ze-skali-zawartosci/",
+      "publishedAt": "2026-11-12T13:00+01:00",
+      "summary": "Dokładnej daty premiery niestety wciąż brak.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/11/Marvel1943new-1260x709.webp"
     },
     {
       "sourceName": "PPE",
