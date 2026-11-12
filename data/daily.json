@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T19:01+01:00",
+  "updatedAt": "2026-11-12T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -22,6 +22,32 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532205676.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Control Resonant otrzyma wyczekiwaną funkcję z opóźnieniem. Remedy nie bez powodu podało nowy termin",
+      "sourceUrl": "https://www.ppe.pl/news/432970/control-resonant-otrzyma-wyczekiwana-funkcje-z-opoznieniem-remedy-nie-bez-powodu-podalo-nowy-termin.html",
+      "publishedAt": "2026-11-12T19:36+01:00",
+      "summary": "Jeśli czekacie na premierę trybu fotograficznego w Control Resonant to znajdźcie w sobie dodatkowe pokłady cierpliwości. Na tę funkcję trzeba będzie poczekać jeszcze kilka tygodni.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Stwórz własny Park Jurajski z Prime Gaming. Odbierz dwie gry PC za darmo w Amazon Luna!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/stworz-wlasny-park-jurajski-z-prime-gaming-odbierz-dwie-gry-pc-za-darmo-w-amazon-luna/",
+      "publishedAt": "2026-11-12T19:33+01:00",
+      "summary": "Łowcy, czas na drugą w listopadzie odsłonę subskrypcji Prime Gaming, która od dłuższego czasu stanowi integralną część usługi Luna Standard. Tym razem do swoich kont możecie dodać dwie produkcje na PC za darmo. Najnowsza edycja usługi pozwala odebrać Jurassic World Evolution 2 oraz Radiolight w postaci bezpośredniej aktywacji na platformie Epic Games. Warto podkreślić, że w tym miesiącu otrzymamy łącznie 7 gier PC, ale niestety żadnego klucza do aktywacji na platformie GOG.com! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Stworz-wlasny-Park-Jurajski-z-Prime-Gaming.-Odbierz-dwie-gry-PC-za-darmo-w-Amazon-Luna_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Znany sklep z zestawami gier zignorował podstawowe zasady cyberbezpieczeństwa przy przeróbce projektu strony. Gracze skarżą się na skandaliczne niedopatrzenia",
+      "sourceUrl": "https://cdaction.pl/newsy/znany-sklep-z-zestawami-gier-zignorowal-podstawowe-zasady-cyberbezpieczenstwa-przy-przerobce-projektu-strony-gracze-skarza-sie-na-skandaliczne-niedopatrzenia/",
+      "publishedAt": "2026-11-12T19:30+01:00",
+      "summary": "Brak opcji uwierzytelnienia dwuskładnikowego, banalnie prosta zmiana hasła i inne.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/humble-bundle-1260x662.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Mapa wielkiego otwartego świata GTA 6 wyciekła do sieci na tydzień przed premierą. Gra Rockstara była o włos od bana",
       "sourceUrl": "https://www.gry-online.pl/newsroom/mapa-wielkiego-otwartego-swiata-gta-6-wyciekla-do-sieci-na-tydzie/zb32303",
@@ -29,6 +55,31 @@
       "summary": "Na tydzień przed premierą GTA 6 mapa Leonidy wciąż skrywa wiele tajemnic. Choć Rockstar nie spieszy się z jej ujawnieniem, do sieci trafił materiał, który może zdradzać nieco więcej na temat ogromnego świata gry. Informacja Mapa wielkiego otwartego świata GTA 6 wyciekła do sieci na tydzień przed premierą. Gra Rockstara była o włos od bana została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532203733.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wielkie święto gier zawita na Disney+! Platforma będzie transmitować tegoroczne The Game Awards",
+      "sourceUrl": "https://www.ppe.pl/news/432968/wielkie-swieto-gier-zawita-na-disney-platforma-transmitowac-bedzie-tegoroczne-the-game-awards.html",
+      "publishedAt": "2026-11-12T19:17+01:00",
+      "summary": "Disney+ dobitnie pokazuje, że chce być platformą jednoczącą ze sobą nie tylko fanów Marvela, Gwiezdnych Wojen czy klasycznych dzieł Disneya, ale też miłośników gier wideo.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zagraj w Clive Barker’s Hellraiser: Revival za darmo. Demo gry dostępne na konsolach!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/zagraj-w-clive-barkers-hellraiser-revival-za-darmo-demo-gry-dostepne-na-konsolach/",
+      "publishedAt": "2026-11-12T19:13+01:00",
+      "summary": "Łowcy, premiera Clive Barker’s Hellraiser: Revival już za nami. Odważny tytuł pełen przemocy oraz krwawego gore został zaskakująco ciepło przyjęty przez graczy i na platformie Valve może się pochwalić prawie 5000 recenzji, z czego imponujące 92% to oceny pozytywne. Jeśli mimo to nadal nie chcecie kupować kota w worku, to studio Saber Interactive ma dla Was idealne rozwiązanie. Od teraz posiadacze konsol PlayStation 5 oraz Xbox Series X|S mogą testować zupełnie bezpłatnie wersję demonstracyjną produkcji opartej na kultowej serii filmów zapoczątkowanej 1987 roku. Jako ciekawostkę warto wspomnieć, że pierwsza część cyklu stanowiła reżyserki debi",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Zagraj-w-Clive-Barkers-Hellraiser_-Revival-za-darmo-na-PC.-Demo-gry-dostepne-na-Steam_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wingsuit Simulator zapowiedziany! Widowiskowa gra zmierza na PC i VR",
+      "sourceUrl": "https://www.ppe.pl/news/432958/wingsuit-simulator-zapowiedziany-widowiskowa-gra-zmierza-na-pc-i-vr.html",
+      "publishedAt": "2026-11-12T19:03+01:00",
+      "summary": "Marzenia o lataniu w kombinezonie wingsuit będzie można spełnić bez opuszczania domu. Studio Becoming Games zapowiedziało Wingsuit Simulator – symulator skoków BASE i lotów w specjalnym kombinezonie, który połączy realistyczną fizykę z wyz...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
