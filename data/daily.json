@@ -1,17 +1,96 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T09:01+01:00",
+  "updatedAt": "2026-11-12T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "CD Projekt użył AI, by wesprzeć Jacka Rozenka w Wiedźminie 3: Pieśniach przeszłości. „Mam ogromne zaufanie... do twórców gry”",
-    "summary": "CD Projekt Red wykorzystał AI do podrasowania głosu Jacka Rozenka w dodatku Wiedźmin 3: Pieśni przeszłości. Modyfikacje były konieczne, aby jak najlepiej odtworzyć głos aktora po doznanym udarze. Informacja CD Projekt użył AI, by wesprzeć Jacka Rozenka w Wiedźminie 3: Pieśniach przeszłości. „Mam ogromne zaufanie... do twórców gry” została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/cd-projekt-uzyl-ai-by-wesprzec-jacka-rozenka-w-wiedzminie-3-piesn/z2322e6",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532168156.jpg"
+    "title": "Po 14 latach wysoko oceniane science fantasy wreszcie doczeka się ekranizacji. Premiera już w przyszłym miesiącu",
+    "summary": "W grudniu odbędzie się premiera anime na podstawie wysoko ocenianego science fantasy sprzed 14 lat. Informacja Po 14 latach wysoko oceniane science fantasy wreszcie doczeka się ekranizacji. Premiera już w przyszłym miesiącu została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/po-14-latach-wysoko-oceniane-science-fantasy-wreszcie-doczeka-sie/ze322eb",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532173251.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Po 14 latach wysoko oceniane science fantasy wreszcie doczeka się ekranizacji. Premiera już w przyszłym miesiącu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-14-latach-wysoko-oceniane-science-fantasy-wreszcie-doczeka-sie/ze322eb",
+      "publishedAt": "2026-11-12T10:55+01:00",
+      "summary": "W grudniu odbędzie się premiera anime na podstawie wysoko ocenianego science fantasy sprzed 14 lat. Informacja Po 14 latach wysoko oceniane science fantasy wreszcie doczeka się ekranizacji. Premiera już w przyszłym miesiącu została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532173251.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zarząd NVIDII traci cierpliwość. Drugi romans Jensena Huanga może przesądzić o jego odejściu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zarzad-nvidii-traci-cierpliwosc-drugi-romans-jensena-huanga-moze/zd322ea",
+      "publishedAt": "2026-11-12T10:45+01:00",
+      "summary": "Jensen Huang miał romans nie tylko z kobietą oskarżoną o szpiegostwo. Okazuje się, że CEO zdradzał swoją żonę także z pracownicą, co dodatkowo łamało politykę firmy. Teraz zarząd chce zwolnić Huanga. Informacja Zarząd NVIDII traci cierpliwość. Drugi romans Jensena Huanga może przesądzić o jego odejściu została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532172684.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Gracze będą zaskoczeni, czym ta gra jest naprawdę”. Szef Naughty Dog zdradził nowe szczegóły Intergalactic: The Heretic Prophet",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-beda-zaskoczeni-czym-ta-gra-jest-naprawde-szef-naughty-dog/z5322e9",
+      "publishedAt": "2026-11-12T10:43+01:00",
+      "summary": "Nowa gra twórców serii Uncharted i The Last of Us „jest na finalnym etapie produkcji”. Tworząc Intergalactic: The Heretic Prophet, Naughty Dog inspirowało się swoimi własnymi markami, w tym cyklem Jak and Daxter. Informacja „Gracze będą zaskoczeni, czym ta gra jest naprawdę”. Szef Naughty Dog zdradził nowe szczegóły Intergalactic: The Heretic Prophet została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532172585.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy film z GTA 6 wygląda jak prawdziwe nagranie. Fani niemal zapomnieli o 30 klatkach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-film-z-gta-6-wyglada-jak-prawdziwe-nagranie-fani-niemal-zapo/z3322e7",
+      "publishedAt": "2026-11-12T10:10+01:00",
+      "summary": "GTA 6 zaprezentowało swoje wdzięki na nowym materiale, tym razem bez efektu, który (zdaniem graczy) najwyraźniej nieco wypaczył warstwę wizualną gry. Informacja Nowy film z GTA 6 wygląda jak prawdziwe nagranie. Fani niemal zapomnieli o 30 klatkach została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532170410.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ubisoft z OGROMNYM błędem. Projektanci gry się ośmieszyli",
+      "sourceUrl": "https://www.ppe.pl/news/432898/ubisoft-z-ogromnym-bledem-projektanci-gry-sie-osmieszyli.html",
+      "publishedAt": "2026-11-12T09:56+01:00",
+      "summary": "Właśnie doszło do awaryjnego zablokowania pewnej mechaniki podczas wielkiego turnieju e-sportowego w grze Rainbow Six Siege.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zrobili tak realistyczną strzelankę z zombie, że aż strach w to grać",
+      "sourceUrl": "https://www.ppe.pl/news/432915/zrobili-tak-realistyczna-strzelanke-z-zombie-ze-az-strach-w-to-grac.html",
+      "publishedAt": "2026-11-12T09:49+01:00",
+      "summary": "Okazuje się, że członkowie zespołu Reissad to wielcy fani trybu Zombies z marki Call of Duty. Studio wraca do \"złotej epoki\" horroru z tej marki.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gry Evercade w promocji w Media Expert. Duke Nukem Collection za 87,85 zł",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/gry-evercade-w-promocji-w-media-expert-duke-nukem-collection-za-8785-zl/",
+      "publishedAt": "2026-11-12T09:43+01:00",
+      "summary": "Dziś w Media Expert obniżono ceny wybranych zestawów gier Evercade. Taniej kupicie choćby pakiet zawierający trzy gry z serii Duke Nukem. Liczba sztuk promocyjnych produktów jest ograniczona. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gry-Evercade-Media-Expert-promocja-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kontrolery Sony DualSense Prism Collection dostępne w przedsprzedaży! Przezroczyste pady w cenie od 390 zł",
+      "sourceUrl": "https://lowcygier.pl/preordery/kontrolery-sony-dualsense-prism-collection-dostepne-w-przedsprzedazy-przezroczyste-pady-w-cenie-od-390-zl/",
+      "publishedAt": "2026-11-12T09:33+01:00",
+      "summary": "Preorder Sony DualSense Prism Collection, czyli serii padów do PS5, pojawił się już w polskich sklepach. Urządzenia dostępne są w trzech kolorach, Graphite Gray, Flare Orange oraz Emerald Green. Debiutujący na początku lutego sprzęt, możecie nabyć w cenie od 389,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/dualsense-prism-collection-sony-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Henry Cavill gotowy na powrót do roli Supermana! Odejście Jamesa Gunna z DC otwiera furtkę?",
+      "sourceUrl": "https://cdaction.pl/kultura/henry-cavill-gotowy-na-powrot-do-roli-supermana-odejscie-jamesa-gunna-z-dc-otwiera-furtke/",
+      "publishedAt": "2026-11-12T09:30+01:00",
+      "summary": "Nigdy nie mów nigdy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Superman.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "CD Projekt użył AI, by wesprzeć Jacka Rozenka w Wiedźminie 3: Pieśniach przeszłości. „Mam ogromne zaufanie... do twórców gry”",
@@ -20,6 +99,14 @@
       "summary": "CD Projekt Red wykorzystał AI do podrasowania głosu Jacka Rozenka w dodatku Wiedźmin 3: Pieśni przeszłości. Modyfikacje były konieczne, aby jak najlepiej odtworzyć głos aktora po doznanym udarze. Informacja CD Projekt użył AI, by wesprzeć Jacka Rozenka w Wiedźminie 3: Pieśniach przeszłości. „Mam ogromne zaufanie... do twórców gry” została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532168156.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 za 14,99 zł? Xbox publikuje ceny dla Polaków",
+      "sourceUrl": "https://www.ppe.pl/news/432900/gta-6-za-14-99-zl-xbox-publikuje-ceny-dla-polakow.html",
+      "publishedAt": "2026-11-12T09:28+01:00",
+      "summary": "Granie w chmurze to od jakiegoś czasu prawdziwy hit, który pozwala bawić się w najnowsze tytuły bez posiadania w domu drogiego komputera czy nowoczesnej konsoli.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -32,11 +119,28 @@
     },
     {
       "sourceName": "PPE",
+      "title": "Kandydat do najlepszego RPG-a 2027 roku z nowym gameplayem. Jest zjawiskowo!",
+      "sourceUrl": "https://www.ppe.pl/news/432896/kandydat-do-najlepszego-rpg-a-2027-roku-z-nowym-gameplayem-jest-zjawiskowo.html",
+      "publishedAt": "2026-11-12T09:01+01:00",
+      "summary": "Przyszły rok w świecie gier zapowiada się niesamowicie mocno, a my właśnie dostaliśmy świeżutki materiał z produkcji, która ma ogromne szanse na stanięcie do walki o tytuł Gry Roku 2027.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
       "title": "Moomin: Midsummer Madness - recenzja gry. Piękne i baśniowe opowiadanie w Dolinie Muminków",
       "sourceUrl": "https://www.ppe.pl/recenzje/432895/moomin-midsummer-madness-recenzja-gry-piekne-i-basniowe-opowiadanie-w-dolinie-muminkow.html",
       "publishedAt": "2026-11-12T09:00+01:00",
       "summary": "Są gry, które mierzą się z graczem, i takie, które proszą, żeby zwolnić. „Moomin: Midsummer Madness” należy do tych drugich - i przez większość czasu jest to zaleta. Crossbridge proponuje przygodę, w której liczy się nie wynik, tylko ...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Złote joysticki rozdane po raz 44. Świat czeka na naszego Wiedźmina",
+      "sourceUrl": "https://cdaction.pl/newsy/zlote-joysticki-rozdane-po-raz-44-swiat-czeka-na-naszego-wiedzmina/",
+      "publishedAt": "2026-11-12T09:00+01:00",
+      "summary": "Jest parę niespodzianek, ale niedużych.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/rerequiem-1260x709.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
