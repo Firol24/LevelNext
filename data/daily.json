@@ -1,17 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T22:01+01:00",
+  "updatedAt": "2026-11-12T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 ma sprzedawać się obecnie w zawrotnym tempie miliona kopii na dobę. YouTube uczci premierę gry w wyjątkowy sposób",
-    "summary": "GTA 6 jeszcze nie zadebiutowało, a już może pochwalić się imponującymi wynikami sprzedaży. Tymczasem przygotowania do wielkiej premiery nabierają tempa, a zapowiedziane przez YouTube atrakcje pokazują, że będzie to wydarzenie bez precedensu. Informacja GTA 6 ma sprzedawać się obecnie w zawrotnym tempie miliona kopii na dobę. YouTube uczci premierę gry w wyjątkowy sposób została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-ma-sprzedawac-sie-obecnie-w-zawrotnym-tempie-miliona-kopii/zf32307",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532214525.jpg"
+    "title": "Steam przebudowuje osiągnięcia. Zestawy mają chronić „calaki” przed psuciem przez DLC, sezony i aktualizacje",
+    "summary": "Steam wreszcie pozwala zachować w pełni ukończone gry dzięki zbiorom osiągnięć, nie tylko z podziałem na DLC. Informacja Steam przebudowuje osiągnięcia. Zestawy mają chronić „calaki” przed psuciem przez DLC, sezony i aktualizacje została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/steam-przebudowuje-osiagniecia-zestawy-maja-chronic-calaki-przed/z731f9d",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/529838515.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Steam przebudowuje osiągnięcia. Zestawy mają chronić „calaki” przed psuciem przez DLC, sezony i aktualizacje",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/steam-przebudowuje-osiagniecia-zestawy-maja-chronic-calaki-przed/z731f9d",
+      "publishedAt": "2026-11-12T23:30+01:00",
+      "summary": "Steam wreszcie pozwala zachować w pełni ukończone gry dzięki zbiorom osiągnięć, nie tylko z podziałem na DLC. Informacja Steam przebudowuje osiągnięcia. Zestawy mają chronić „calaki” przed psuciem przez DLC, sezony i aktualizacje została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/529838515.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Przygotujcie dyski, bo strategia Warhammer 40,000: Dawn of War 4 będzie olbrzymia. Wymagania sprzętowe dają do myślenia",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/przygotujcie-dyski-bo-strategia-warhammer-40000-dawn-of-war-4-bed/z032308",
+      "publishedAt": "2026-11-12T23:03+01:00",
+      "summary": "Wymagania sprzętowe strategii Warhammer 40,000: Dawn of War 4 budzą mieszane uczucia. Z jednej strony są raczej niskie, z drugiej rozmiar gry i zalecana ilość pamięci RAM wywołują lekką konsternację. Informacja Przygotujcie dyski, bo strategia Warhammer 40,000: Dawn of War 4 będzie olbrzymia. Wymagania sprzętowe dają do myślenia została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532217028.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Czy Xbox ma kandydata do GOTY 2027?! Fable na nowej rozgrywce",
+      "sourceUrl": "https://www.ppe.pl/news/432972/czy-xbox-ma-kandydata-do-goty-2027-fable-na-nowej-rozgrywce.html",
+      "publishedAt": "2026-11-12T22:41+01:00",
+      "summary": "Microsoft świętuje 25-lecie marki Xbox i z tej okazji przygotował prawdziwą niespodziankę dla graczy. Asha Sharma, szefowa Xboksa, zaprezentowała nowy fragment rozgrywki z Fable, czyli jednej z najbardziej wyczekiwanych produkcji amerykańskiej ko...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jak powstało God of War? Kratos miał wyglądać inaczej, a Sony go pierwotnie nie chciało",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432919/jak-powstalo-god-of-war-kratos-mial-wygladac-inaczej-a-sony-go-pierwotnie-nie-chcialo.html",
+      "publishedAt": "2026-11-12T22:30+01:00",
+      "summary": "God of War połączyło grecką mitologię, brutalną walkę i filmowy rozmach w przygodę, która stała się jedną z wizytówek PlayStation. Gdy w 2005 roku Kratos trafił na PS2, trudno było pomylić go z innym bohaterem. Pierwsze dwie części pok...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 ma sprzedawać się obecnie w zawrotnym tempie miliona kopii na dobę. YouTube uczci premierę gry w wyjątkowy sposób",
@@ -20,6 +54,14 @@
       "summary": "GTA 6 jeszcze nie zadebiutowało, a już może pochwalić się imponującymi wynikami sprzedaży. Tymczasem przygotowania do wielkiej premiery nabierają tempa, a zapowiedziane przez YouTube atrakcje pokazują, że będzie to wydarzenie bez precedensu. Informacja GTA 6 ma sprzedawać się obecnie w zawrotnym tempie miliona kopii na dobę. YouTube uczci premierę gry w wyjątkowy sposób została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532214525.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "25 gier Xboksa od dzisiaj na PC! Wsteczna Kompatybilność wchodzi w nowy etap",
+      "sourceUrl": "https://www.ppe.pl/news/432978/25-gier-xboksa-od-dzisiaj-na-pc-wsteczna-kompatybilnosc-wchodzi-w-nowy-etap.html",
+      "publishedAt": "2026-11-12T22:13+01:00",
+      "summary": "Microsoft świętuje 25-lecie Xboksa i przygotował kolejną niespodziankę dla graczy! Amerykańska korporacja właśnie potwierdziła rozszerzenie wstecznej kompatybilności na komputerach osobistych.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -37,6 +79,15 @@
       "publishedAt": "2026-11-12T22:00+01:00",
       "summary": "Rynek profesjonalnych kontrolerów do PlayStation 5 robi się coraz ciekawszy. Sony ma swojego DualSense Edge, Razer rozwija serię Raiju, a Scuf od lat próbuje przekonać do siebie najbardziej wymagających graczy. Do tego grona ponownie dołącza Nac...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Na 25-lecie marki szefowa Xboksa chwali przede wszystkim AI. „Pojedyncza osoba będzie posiadać możliwości wymagające wcześniej zaangażowania całych narodów”",
+      "sourceUrl": "https://cdaction.pl/newsy/na-25-lecie-marki-szefowa-xboksa-chwali-przede-wszystkim-ai-pojedyncza-osoba-bedzie-posiadac-mozliwosci-wymagajace-wczesniej-zaangazowania-calych-narodow/",
+      "publishedAt": "2026-11-12T22:00+01:00",
+      "summary": "Przyszłość w barwach slopu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/asha-sharma-7855.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
