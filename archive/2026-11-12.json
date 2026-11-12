@@ -1,17 +1,112 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T15:01+01:00",
+  "updatedAt": "2026-11-12T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Miniserial Netflixa miał premierę w zeszłym miesiącu i już stał się jednym z najpopularniejszych seriali ostatnich lat",
-    "summary": "W październiku na Netfliksie ukazał się miniserial, który odnotował jeden z największych wzrostów oglądalności w ostatnim czasie. Informacja Miniserial Netflixa miał premierę w zeszłym miesiącu i już stał się jednym z najpopularniejszych seriali ostatnich lat została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/miniserial-netflixa-mial-premiere-w-zeszlym-miesiacu-i-juz-stal-s/z2322f5",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532181040.jpg"
+    "title": "3,8 mln wyświetleń to za mało, by przebić 1. sezon. Przebojowy thriller Netflixa z 65% spadkiem oglądalności",
+    "summary": "Przebojowy thriller Netfliksa powrócił z drugim sezonem, ale wzbudza znacznie mniejsze zainteresowanie niż 2 lata temu. Informacja 3,8 mln wyświetleń to za mało, by przebić 1. sezon. Przebojowy thriller Netflixa z 65% spadkiem oglądalności została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/38-mln-wyswietlen-to-za-malo-by-przebic-1-sezon-przebojowy-thrill/z0322fc",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532185104.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "3,8 mln wyświetleń to za mało, by przebić 1. sezon. Przebojowy thriller Netflixa z 65% spadkiem oglądalności",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/38-mln-wyswietlen-to-za-malo-by-przebic-1-sezon-przebojowy-thrill/z0322fc",
+      "publishedAt": "2026-11-12T16:02+01:00",
+      "summary": "Przebojowy thriller Netfliksa powrócił z drugim sezonem, ale wzbudza znacznie mniejsze zainteresowanie niż 2 lata temu. Informacja 3,8 mln wyświetleń to za mało, by przebić 1. sezon. Przebojowy thriller Netflixa z 65% spadkiem oglądalności została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532185104.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Sztuczna inteligencja wygrała z edukacją. Popularny konkurs dla młodych twórców gier znika przez AI",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/sztuczna-inteligencja-wygrala-z-edukacja-popularny-konkurs-dla-ml/z3322ff",
+      "publishedAt": "2026-11-12T16:00+01:00",
+      "summary": "Rozwój narzędzi sztucznej inteligencji sprawił, że zdecydowano się zakończyć australijskie zawody dla uczniów pragnących zostać deweloperami. Wielu z nich tworzyło bowiem gry w całości za pomocą AI. Informacja Sztuczna inteligencja wygrała z edukacją. Popularny konkurs dla młodych twórców gier znika przez AI została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532191262.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Sea of Thieves na PC i Xbox za jedyne 26,33 zł w Eneba",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/sea-of-thieves-na-pc-i-xbox-za-jedyne-2633-zl-w-eneba/",
+      "publishedAt": "2026-11-12T15:50+01:00",
+      "summary": "Lubicie awanturnicze życie i abordaże, ale chcielibyście robić to w bezpiecznym schronieniu swojego domu? W sklepie Eneba pojawiła się świetna oferta na Sea of Thieves, która wam trochę ułatwi tę sprawę. W cenie nieco ponad 26 zł dzięki kodowi zniżkowemu, będziecie mogli zgarnąć klucz aktywacyjny do Microsoft Store i ograć tytuł na PC oraz Xboxach. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2019/12/Sea-of-Thieves-Anniversary-scaled.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ten projekt to absolutny hit! Trylogia Gears of War dostała to na co gracze czekali od dawna",
+      "sourceUrl": "https://www.ppe.pl/news/432939/ten-projekt-to-absolutny-hit-trylogia-gears-of-war-dostala-to-na-co-gracze-czekali-od-dawna.html",
+      "publishedAt": "2026-11-12T15:46+01:00",
+      "summary": "Oficjalne pecetowe porty klasycznych odsłon Gears of War to od lat niespełnione marzenie graczy. Microsoft konsekwentnie milczy w tej sprawie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "UE bierze się za mikrotransakcje i FOMO. Nowe przepisy mogą zmienić gry dla nastolatków",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ue-bierze-sie-za-mikrotransakcje-i-fomo-nowe-przepisy-moga-zmieni/z2322fe",
+      "publishedAt": "2026-11-12T15:43+01:00",
+      "summary": "Unia Europejska przedstawiła propozycję Digital Fairness Act, zyskując tak gromkie brawa, jak i ostrą krytykę. Informacja UE bierze się za mikrotransakcje i FOMO. Nowe przepisy mogą zmienić gry dla nastolatków została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532190408.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Zwolnieni twórcy Dooma zakładają nowe studio. Dawni developerzy id Software pracują już nad FPS-em dla pojedynczego gracza",
+      "sourceUrl": "https://cdaction.pl/newsy/zwolnieni-tworcy-dooma-zakladaja-nowe-studio-dawni-developerzy-id-software-pracuja-juz-nad-fps-em-dla-pojedynczego-gracza/",
+      "publishedAt": "2026-11-12T15:37+01:00",
+      "summary": "Hidden Horses – warto sobie zapamiętać tę nazwę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Hidden-Horses.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Trzęsienie ziemi w NVIDII. Jensen Huang OFICJALNIE żegna się z firmą po 33 latach",
+      "sourceUrl": "https://www.ppe.pl/news/432952/trzesienie-ziemi-w-nvidii-jensen-huang-oficjalnie-zegna-sie-z-firma-po-33-latach.html",
+      "publishedAt": "2026-11-12T15:35+01:00",
+      "summary": "NVIDIA opublikowała nowe informacje w sprawie dotyczącej Jensena Huanga. W świetle ostatnich wydarzeń firma oficjalnie przejdzie wielkie zmiany.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kto potrzebuje PS5? Hakerzy udowodnili, że PS4 radzi sobie z najnowszym God of War",
+      "sourceUrl": "https://www.ppe.pl/news/432942/kto-potrzebuje-ps5-hakerzy-udowodnili-ze-ps4-radzi-sobie-z-najnowszym-god-of-war.html",
+      "publishedAt": "2026-11-12T15:26+01:00",
+      "summary": "Scena homebrew przesuwa granice sprzętowego absurdu.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Frostpunk 2 Icebreaker Edition na PS5 za 71 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-frostpunk-2-icebreaker-edition-na-ps5-za-71-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-12T15:10+01:00",
+      "summary": "Zawierające dioramę Nowego Londynu wydanie Frostpunk 2 – Icebreaker Edition, kupicie teraz taniej w polskim oddziale sklepu Amazon. Kontynuacja gry strategicznej polskiego 11 bit studios, w której przyjdzie Wam zarządzać miastem w skutych lodem warunkach, kosztuje 71,51 zł w wersji na konsole Sony PlayStation 5. Jedyne, co może być dla niektórych przeszkodą, to oznaczenie USK na pudełku. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/frostpunk-2-icebreaker-edition-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nie masz Switcha 2? Kolejny hit Nintendo ląduje na PC",
+      "sourceUrl": "https://www.ppe.pl/news/432937/nie-masz-switcha-2-kolejny-hit-nintendo-laduje-na-pc.html",
+      "publishedAt": "2026-11-12T15:08+01:00",
+      "summary": "Nieoficjalny port Metroid Prime 4: Beyond na PC doczekał się gigantycznej aktualizacji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday w Ubisoft Store! Zaoszczędź więcej na grach z kuponem -20%",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-w-ubisoft-store-zaoszczedz-wiecej-na-grach-z-kuponem-20/",
+      "publishedAt": "2026-11-12T15:03+01:00",
+      "summary": "Sklep Ubisoft wystartował właśnie ze swoją wyprzedażą z okazji Czarnego Piątku. Klasycznie dla ostatnich promocji, powraca także kupon HOLIDAY20 z dodatkową zniżką do wykorzystania. Niestety, nadchodzącego Rayman Legends Retold w ten sposób nie zdobędziecie taniej. Na co tym razem warto zwrócić uwagę? The Rogue Prince of Persia kosztuje teraz niecałe 29 złotych, z kolei Beyond Good & Evil 20th Anniversary Edition może być wasze za nieco ponad 38 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-sale-ubisoft-store-miniaturka-cyfra-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Miniserial Netflixa miał premierę w zeszłym miesiącu i już stał się jednym z najpopularniejszych seriali ostatnich lat",
