@@ -1,17 +1,104 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T16:01+01:00",
+  "updatedAt": "2026-11-12T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "3,8 mln wyświetleń to za mało, by przebić 1. sezon. Przebojowy thriller Netflixa z 65% spadkiem oglądalności",
-    "summary": "Przebojowy thriller Netfliksa powrócił z drugim sezonem, ale wzbudza znacznie mniejsze zainteresowanie niż 2 lata temu. Informacja 3,8 mln wyświetleń to za mało, by przebić 1. sezon. Przebojowy thriller Netflixa z 65% spadkiem oglądalności została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/38-mln-wyswietlen-to-za-malo-by-przebic-1-sezon-przebojowy-thrill/z0322fc",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532185104.jpg"
+    "title": "Z Larian do CD Projekt Red. Fabułę tajemniczego Wiedźmina stworzy osoba odpowiedzialna za uwielbiane wątki z Baldur’s Gate 3",
+    "summary": "CD Projekt Red dokonał transferu z Larian Studios. Twórcy Wiedźmina powiększyli zespół scenarzystów Project Sirius o osobę odpowiadającą m.in. za wątek Mrocznej Żądzy. Informacja Z Larian do CD Projekt Red. Fabułę tajemniczego Wiedźmina stworzy osoba odpowiedzialna za uwielbiane wątki z Baldur’s Gate 3 została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/z-larian-do-cd-projekt-red-fabule-tajemniczego-wiedzmina-stworzy/z932301",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532197398.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Z Larian do CD Projekt Red. Fabułę tajemniczego Wiedźmina stworzy osoba odpowiedzialna za uwielbiane wątki z Baldur’s Gate 3",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/z-larian-do-cd-projekt-red-fabule-tajemniczego-wiedzmina-stworzy/z932301",
+      "publishedAt": "2026-11-12T17:37+01:00",
+      "summary": "CD Projekt Red dokonał transferu z Larian Studios. Twórcy Wiedźmina powiększyli zespół scenarzystów Project Sirius o osobę odpowiadającą m.in. za wątek Mrocznej Żądzy. Informacja Z Larian do CD Projekt Red. Fabułę tajemniczego Wiedźmina stworzy osoba odpowiedzialna za uwielbiane wątki z Baldur’s Gate 3 została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532197398.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "W Epic Games Storze czeka na was kolejna darmowa gra. Ten tydzień oferuje kolorowego auto-battlera",
+      "sourceUrl": "https://cdaction.pl/newsy/w-epic-games-storze-czeka-na-was-kolejna-darmowa-gra-ten-tydzien-oferuje-kolorowego-auto-battlera/",
+      "publishedAt": "2026-11-12T17:00+01:00",
+      "summary": "Halloween za nami, a zatem pora na coś weselszego.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/10/epic.jpeg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Koniec zabawy dla piratów. Nintendo brutalnie blokuje pierwszego jailbreaka Switcha 2",
+      "sourceUrl": "https://www.ppe.pl/news/432944/koniec-zabawy-dla-piratow-nintendo-brutalnie-blokuje-pierwszego-jailbreaka-switcha-2.html",
+      "publishedAt": "2026-11-12T16:57+01:00",
+      "summary": "Wojna japońskiego giganta z piratami wchodzi w decydującą fazę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Empik i Media Markt odpalają potężne promocje na GTA 6! Trzeba jednak uważać",
+      "sourceUrl": "https://www.ppe.pl/news/432955/empik-i-media-markt-odpalaja-potezne-promocje-na-gta-6-trzeba-jednak-uwazac.html",
+      "publishedAt": "2026-11-12T16:38+01:00",
+      "summary": "Premiera nowej odsłony Grand Theft Auto 6 wywołała istną wojnę cenową na polskim rynku. Najwięksi sprzedawcy agresywnie walczą o klientów szukających sprzętu pod najnowszy hit Rockstara.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Rozgrzewka przed Black Friday w Loaded! Kup 3 gry i otrzymaj jedną za darmo!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/rozgrzewka-przed-black-friday-w-loaded-kup-3-gry-i-otrzymaj-jedna-za-darmo/",
+      "publishedAt": "2026-11-12T16:34+01:00",
+      "summary": "Sklep Loaded postanowił podgrzać atmosferę przed Black Friday i Cyber Monday, szykując ciekawą promocję. Dodając trzy gry do koszyka jako zalogowany użytkownik, zapłacicie tylko za dwie z nich, a najtańsza będzie całkowicie za darmo! To do dzieła, udanych Łowów 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-pre-sale-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ocarina of Time doczekała się remake'u, ale to jej mroczna kontynuacja najbardziej zasługuje na powrót. Majora's Mask nadal fascynuje",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ocarina-of-time-doczekala-sie-remakeu-ale-to-jej-mroczna-kontynua/z832300",
+      "publishedAt": "2026-11-12T16:30+01:00",
+      "summary": "Świeżo wydany remake Ocarina of Time ponownie zwrócił uwagę graczy na starsze odsłony cyklu The Legend of Zelda. Gigantyczny sukces nowej Okaryny daje nadzieję, że w nowej formie powróci też jej mroczna siostra bliźniaczka: Majora&apos;s Mask. Informacja Ocarina of Time doczekała się remake&apos;u, ale to jej mroczna kontynuacja najbardziej zasługuje na powrót. Majora&apos;s Mask nadal fascynuje została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532192727.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Szef Nvidii podaje się do dymisji. Dwa romanse Jensena Huanga przyczyną utraty posady",
+      "sourceUrl": "https://cdaction.pl/newsy/szef-nvidii-poddaje-sie-do-dymisji-dwa-romanse-jensena-huanga-przyczyna-utraty-posady/",
+      "publishedAt": "2026-11-12T16:22+01:00",
+      "summary": "Wielki finał szpiegowskiego thrillera.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-12T161845.800-1260x709.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Po 33 latach Jensen Huang rezygnuje z pozycji CEO w NVIDIA. To koniec pewnej ery, także i dla nas, graczy",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/po-33-latach-jensen-huang-rezygnuje-z-pozycji-ceo-w-nvidia-to-koniec-pewnej-ery-takze-i-dla-nas-graczy/",
+      "publishedAt": "2026-11-12T16:09+01:00",
+      "summary": "Jensen Huang, amerykańsko-tajwański przedsiębiorca, współzałożyciel NVIDIA Corporation zdecydował się zrezygnować ze swojego stanowiska ze skutkiem natychmiastowym. Jego odejście, po 33 latach kierowania jedną z najbardziej wpływowych firm na świecie, można nazwać końcem pewnej ery. Na stanowisku dyrektora generalnego zastąpi go tymczasowo Colette Kress, aktualna wiceprezes wykonawcza i dyrektor finansowa, która utrzyma swoje stanowiska do czasu wyłonienia stałego następcy. Z pewnością jednak jest to ogromny cios dla NVIDIA, gdyż Jensen Huang był swego rodzaju symbolem firmy i wizjonerem. Znalezienie drugiego technicznego lidera, który dotrzy",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Jensen-Huang-NVIDIA-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gra multiplayer w świecie Wiedźmina powstaje! Projekt Syriusz zyskał potężną gwiazdę",
+      "sourceUrl": "https://www.ppe.pl/news/432950/gra-multiplayer-w-swiecie-wiedzmina-powstaje-projekt-syriusz-zyskal-potezna-gwiazde.html",
+      "publishedAt": "2026-11-12T16:07+01:00",
+      "summary": "CD Projekt RED sięga po branżowe posiłki. Polskie studio oficjalnie zatrudniło Baudelaire'a Welcha.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gra planszowa Splendor za 99,99 zł na Allegro Black Weeks",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/gra-planszowa-splendor-za-9999-zl-na-allegro-black-weeks/",
+      "publishedAt": "2026-11-12T16:04+01:00",
+      "summary": "Popularna gra towarzyska Splendor dostępna jest w dobrej cenie w serwisie Allegro. Planszówka w której staniecie się renesansowym kupcem i porywalizujecie z innymi graczami o względy szlachty, kosztuje teraz 99,99 zł. Warto zwrócić uwagę, że jest to polska edycja gry. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/08/splendor-2b-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "3,8 mln wyświetleń to za mało, by przebić 1. sezon. Przebojowy thriller Netflixa z 65% spadkiem oglądalności",
