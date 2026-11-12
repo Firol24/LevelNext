@@ -1,17 +1,79 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T12:01+01:00",
+  "updatedAt": "2026-11-12T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Strzelanka od twórców Destiny wypadła z rankingów, ale nie składa broni. Symbioza ma odmienić Marathona",
-    "summary": "Bungie zaprezentowało nowości zmierzające do Marathonu ze sporym poślizgiem po rezygnacji z sezonów. Informacja Strzelanka od twórców Destiny wypadła z rankingów, ale nie składa broni. Symbioza ma odmienić Marathona została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/strzelanka-od-tworcow-destiny-wypadla-z-rankingow-ale-nie-sklada/z0322f3",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532178902.jpg"
+    "title": "Ojciec chrzestny rynku DRAM nie ma złudzeń: Chiny mogą zalać rynek tanią pamięcią RAM w 2028 roku",
+    "summary": "Ekspert uważa, że chiński RAM może zalać rynek i obniżyć ceny za około 2 lata. Największy producent CXMT ma jednak poważne przeszkody do pokonania. Informacja Ojciec chrzestny rynku DRAM nie ma złudzeń: Chiny mogą zalać rynek tanią pamięcią RAM w 2028 roku została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/ojciec-chrzestny-rynku-dram-nie-ma-zludzen-chiny-moga-zalac-rynek/z6322f9",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532183358.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ojciec chrzestny rynku DRAM nie ma złudzeń: Chiny mogą zalać rynek tanią pamięcią RAM w 2028 roku",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ojciec-chrzestny-rynku-dram-nie-ma-zludzen-chiny-moga-zalac-rynek/z6322f9",
+      "publishedAt": "2026-11-12T13:45+01:00",
+      "summary": "Ekspert uważa, że chiński RAM może zalać rynek i obniżyć ceny za około 2 lata. Największy producent CXMT ma jednak poważne przeszkody do pokonania. Informacja Ojciec chrzestny rynku DRAM nie ma złudzeń: Chiny mogą zalać rynek tanią pamięcią RAM w 2028 roku została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532183358.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Nie zawiedziemy Was”. Twórcy Wiedźmina 4 czują ogromną presję po zdobyciu jednej z najważniejszych branżowych nagród",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nie-zawiedziemy-was-tworcy-wiedzmina-4-czuja-ogromna-presje-po-zd/z5322f8",
+      "publishedAt": "2026-11-12T13:24+01:00",
+      "summary": "Twórcy Wiedźmina 4 traktują wyróżnienie na Golden Joystick Awards jako zaszczyt, ale też przypomnienie o ich odpowiedzialności wobec fanów. Informacja „Nie zawiedziemy Was”. Twórcy Wiedźmina 4 czują ogromną presję po zdobyciu jednej z najważniejszych branżowych nagród została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532182122.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracz przywrócił do życia porzucony projekt ze świata Dragon Age. Dodał także nieco swoich poprawek",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-przywrocil-do-zycia-porzucony-projekt-ze-swiata-dragon-age/z4322f7",
+      "publishedAt": "2026-11-12T13:24+01:00",
+      "summary": "Heroes of Dragon Age powraca. Gracz ciężko pracował nad przywróceniem strategicznej odsłony smoczej sagi. Informacja Gracz przywrócił do życia porzucony projekt ze świata Dragon Age. Dodał także nieco swoich poprawek została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532182092.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Pewien gracz WoW Forever już wymaksował wszystkie punkty Legacy. Inni fani pytają czy wszystko z nim w porządku",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pewien-gracz-wow-forever-juz-wymaksowal-wszystkie-punkty-legacy-i/z3322f6",
+      "publishedAt": "2026-11-12T13:18+01:00",
+      "summary": "Jak wiele trzeba grać, żeby zdobyć wszystkie punkty Legacy w WoW Forever w tydzień? Raczej nie uświadczylibyście w tym czasie zbyt dużo snu. Informacja Pewien gracz WoW Forever już wymaksował wszystkie punkty Legacy. Inni fani pytają czy wszystko z nim w porządku została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532181345.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy exa konsolowego na PS5 chcą zaoferować grę posiadaczom Xboxa",
+      "sourceUrl": "https://www.ppe.pl/news/432930/tworcy-exa-konsolowego-na-ps5-chca-zaoferowac-gre-posiadaczom-xboxa.html",
+      "publishedAt": "2026-11-12T12:47+01:00",
+      "summary": "Stellar Blade to niewątpliwie jeden z największych hitów ostatnich miesięcy. Gra szturmem podbiła serca posiadaczy PlayStation 5, a niedawno z wielkim sukcesem zadebiutowała też na nowym sprzęcie od Nintendo.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Wolałbym, żeby ten sprzęt w ogóle nie trafił na rynek”. Legenda branży ostro o Xboksie Series S, gdy Paweł Sasko z CD Projekt RED broni konsoli",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wolalbym-zeby-ten-sprzet-w-ogole-nie-trafil-na-rynek-legenda-bran/zf322f2",
+      "publishedAt": "2026-11-12T12:45+01:00",
+      "summary": "Xbox Series S znowu został skrytykowany za swoją wydajność. Tym razem konsoli dostało się od twórcy Tekkena Katsuhiro Harady. Łagodniej o sprzęcie wypowiedział się Paweł Sasko z CD Projekt RED. Informacja „Wolałbym, żeby ten sprzęt w ogóle nie trafił na rynek”. Legenda branży ostro o Xboksie Series S, gdy Paweł Sasko z CD Projekt RED broni konsoli została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532178888.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder LEGO Art 67012 – Obraz Okładka komiksu z Jokerem za 699,99 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/preorder-lego-art-67012-obraz-okladka-komiksu-z-jokerem-za-69999-zl-na-allegro/",
+      "publishedAt": "2026-11-12T12:34+01:00",
+      "summary": "Liczący 1849 klocków zestaw LEGO Art – Obraz – Okładka komiksu z Jokerem, zamówicie w przedsprzedaży również przez Allegro. Set pozwoli Wam zbudować ozdobę ścienną, nawiązującą do wydania numer 880 Batman Detective Comics i może być wasz za 699,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/lego-art-obraz-okladka-z-komiksu-z-jokerem-2b-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Strzelanka od twórców Destiny wypadła z rankingów, ale nie składa broni. Symbioza ma odmienić Marathona",
@@ -20,6 +82,31 @@
       "summary": "Bungie zaprezentowało nowości zmierzające do Marathonu ze sporym poślizgiem po rezygnacji z sezonów. Informacja Strzelanka od twórców Destiny wypadła z rankingów, ale nie składa broni. Symbioza ma odmienić Marathona została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532178902.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 odcięło ludziom dostęp do internetu. Gra dekady sprawiła kłopoty",
+      "sourceUrl": "https://www.ppe.pl/news/432928/gta-6-odcielo-ludziom-dostep-do-internetu-gra-dekady-sprawila-klopoty.html",
+      "publishedAt": "2026-11-12T12:21+01:00",
+      "summary": "Wszyscy doskonale wiedzieliśmy, że premiera nowej odsłony Grand Theft Auto będzie gigantycznym wydarzeniem, ale chyba nikt nie zakładał, że gra dosłownie zatrzęsie fundamentami internetu.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nowe wideo z GTA 6 robi furorę niewiarygodnym fotorealizmem. „Nie wiem, czy to gra, czy prawdziwe życie”",
+      "sourceUrl": "https://cdaction.pl/newsy/nowe-wideo-z-gta-6-robi-furore-niewiarygodnym-fotorealizmem-nie-wiem-czy-to-gra-czy-prawdziwe-zycie/",
+      "publishedAt": "2026-11-12T12:18+01:00",
+      "summary": "Gracze oszołomieni.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/gta-6-8447.jpeg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Piłkarska marka uratowana po miażdżącej krytyce. Nowa odsłona to hit",
+      "sourceUrl": "https://www.ppe.pl/news/432929/pilkarska-marka-uratowana-po-miazdzacej-krytyce-nowa-odslona-to-hit.html",
+      "publishedAt": "2026-11-12T12:17+01:00",
+      "summary": "Football Manager 27 zadebiutował 10 listopada. Sprzedaż gry jest mocna, a przy tym produkcja cieszy się bardzo dobrymi ocenami.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
