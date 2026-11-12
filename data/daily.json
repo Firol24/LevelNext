@@ -1,16 +1,50 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T07:01+01:00",
+  "updatedAt": "2026-11-12T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "TRZĘSIENIE ZIEMI w Nvidii! Kolejny romans szefa i widmo zwolnienia. Akcje runęły",
-    "summary": "Nvidia może wkrótce przejść przez największy kryzys wizerunkowy w swojej historii. Jensen Huang, który przez lata stał się twarzą technologicznego giganta i jednym z najważniejszych ludzi w branży sztucznej inteligencji, znalazł się w centr...",
-    "sourceUrl": "https://www.ppe.pl/news/432894/trzesienie-ziemi-w-nvidii-kolejny-romans-szefa-i-widmo-zwolnienia-akcje-runely.html"
+    "title": "2 gry do odebrania w Amazon Prime Gaming, w tym druga część strategii z cyklu Park Jurajski z 90% pozytywnych ocen na Steam",
+    "summary": "Na abonentów usługi Amazon Luna Standard od dzisiaj będą czekać dwie gry. Mowa o Jurassic World Evolution 2 i Radiolight przypominającym bestsellerowe Firewatch. Informacja 2 gry do odebrania w Amazon Prime Gaming, w tym druga część strategii z cyklu Park Jurajski z 90% pozytywnych ocen na Steam została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-do-odebrania-w-amazon-prime-gaming-w-tym-druga-czesc-strate/zf322e3",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532165224.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "2 gry do odebrania w Amazon Prime Gaming, w tym druga część strategii z cyklu Park Jurajski z 90% pozytywnych ocen na Steam",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-do-odebrania-w-amazon-prime-gaming-w-tym-druga-czesc-strate/zf322e3",
+      "publishedAt": "2026-11-12T08:40+01:00",
+      "summary": "Na abonentów usługi Amazon Luna Standard od dzisiaj będą czekać dwie gry. Mowa o Jurassic World Evolution 2 i Radiolight przypominającym bestsellerowe Firewatch. Informacja 2 gry do odebrania w Amazon Prime Gaming, w tym druga część strategii z cyklu Park Jurajski z 90% pozytywnych ocen na Steam została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532165224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Marvel 1943: Rise of Hydra będzie OGROMNYM rozczarowaniem? Nie na to liczyli gracze",
+      "sourceUrl": "https://www.ppe.pl/news/432893/marvel-1943-rise-of-hydra-bedzie-ogromnym-rozczarowaniem-nie-na-to-liczyli-gracze.html",
+      "publishedAt": "2026-11-12T07:50+01:00",
+      "summary": "Marvel 1943: Rise of Hydra zapowiadało się na jedną z najciekawszych gier superbohaterskich ostatnich lat. Widowiskowe materiały, znakomita oprawa graficzna i możliwość wcielenia się w Kapitana Amerykę oraz Czarną Panterę rozbudziły ogromne ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Cenzura w GTA 6 sprawi, że część graczy zagra w zupełnie inną grę? Fani nie kryją obaw",
+      "sourceUrl": "https://www.ppe.pl/news/432877/cenzura-w-gta-6-sprawi-ze-czesc-graczy-zagra-w-zupelnie-inna-gre-fani-nie-kryja-obaw.html",
+      "publishedAt": "2026-11-12T07:25+01:00",
+      "summary": "GTA 6 zadebiutuje już za tydzień, ale nie wszyscy gracze z niecierpliwością odliczają dni do premiery. W Japonii pojawiły się obawy, że Rockstar Games przygotowało specjalną, ocenzurowaną wersję swojej najnowszej produkcji. Fani zauważyli n...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "5 premier w Xbox Game Pass! Wyśmienite hity zadebiutowały w abonamencie Microsoftu",
+      "sourceUrl": "https://www.ppe.pl/news/432880/5-premier-w-xbox-game-pass-wysmienite-hity-zadebiutowaly-w-abonamencie-microsoftu.html",
+      "publishedAt": "2026-11-12T07:05+01:00",
+      "summary": "Xbox nie próżnuje i zaprasza graczy na kolejne produkcje w ramach swojego abonamentu. Listopad zapowiada się naprawdę interesująco dla użytkowników Xbox Game Pass, a Microsoft właśnie udostępnił pięć kolejnych tytułów. W zaledwie dwa dni ...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "TRZĘSIENIE ZIEMI w Nvidii! Kolejny romans szefa i widmo zwolnienia. Akcje runęły",
@@ -26,6 +60,15 @@
       "publishedAt": "2026-11-12T06:40+01:00",
       "summary": "Neil Druckmann potwierdził znakomitą wiadomość dla fanów PlayStation. Prace nad Intergalactic: The Heretic Prophet, czyli najnowszą produkcją Naughty Dog, zmierzają do wielkiego finału.",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "78. gra za darmo w 2026 roku w Epic Games Store",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/78-gra-za-darmo-w-2026-roku-w-epic-games-store/z3322d8",
+      "publishedAt": "2026-11-12T06:30+01:00",
+      "summary": "Nowa gra oferowana za darmo w Epic Games Store to strategia, która w pierwszej chwili zachwyciła wielu graczy. Czar szybko jednak pryska, bo Knightica oferuje niewiele zawartości. Informacja 78. gra za darmo w 2026 roku w Epic Games Store została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532047717.jpg"
     },
     {
       "sourceName": "PPE",
