@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T21:38+01:00",
+  "updatedAt": "2026-11-12T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -29,6 +29,48 @@
       "summary": "W teorii 1999 zł za 32 GB pamięci RAM Adata XPG Lancer Blade DDR5-6000 to nie jest zła cena. Niestety wysokie opóźnienia – CL48 – sprawiają, że wydajność takiego zestawu jest zaskakująco niska, co wyklucza sensowność zakupu. Testy. Informacja Szybka i wolna pamięć RAM DDR5 jednocześnie: Adata XPG Lancer Blade 32 GB 6000 MHz CL48. Promocja została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532213605.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nacon Revolution 5 Unlimited - test. Kontroler premium, który chce być lepszy od DualSense'a",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432734/nacon-revolution-5-unlimited-test-kontroler-premium-ktory-chce-byc-lepszy-od-dualsense-a.html",
+      "publishedAt": "2026-11-12T22:00+01:00",
+      "summary": "Rynek profesjonalnych kontrolerów do PlayStation 5 robi się coraz ciekawszy. Sony ma swojego DualSense Edge, Razer rozwija serię Raiju, a Scuf od lat próbuje przekonać do siebie najbardziej wymagających graczy. Do tego grona ponownie dołącza Nac...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nowa kolekcja kwiatów LEGO zapowiedziana. Zestawy z serii Botanicals dostępne od 20,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/nowa-kolekcja-kwiatow-lego-zapowiedziana-zestawy-z-serii-botanicals-dostepne-od-2099-zl/",
+      "publishedAt": "2026-11-12T21:57+01:00",
+      "summary": "Łowcy, jeśli chcecie podarować swojej wybrance serca kwiat, co przetrwa nawet 1000 lat lub po prostu lubicie serię Botanicals, to nowa kolekcja klocków LEGO pojawiła się w oficjalnym sklepie duńskiej firmy. W ramach oferty możecie skusić się na jeden z sześciu zestawów małych kwiatów, których cena została ustalona na 20,99 zł. Jeśli jednak wolicie większe kompozycje, to duże modele bukietów oferowane są w przedsprzedaży od 126,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nowa-kolekcja-kwiatow-LEGO-zapowiedziana.-Zestawy-z-serii-Botanicals-dostepne-od-2099-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ebenezer Scrooge. Opowieść wigilijna (2026) - recenzja filmu [UIP]. Idealna na dzisiejsze czasy",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432976/ebenezer-scrooge-opowiesc-wigilijna-2026-recenzja-filmu-uip-idealna-na-dzisiejsze-czasy.html",
+      "publishedAt": "2026-11-12T21:53+01:00",
+      "summary": "Najbardziej klasyczna ze wszystkich historii Charlesa Dickensa powraca w nowej wersji, wyreżyserowanej przez uznanego autora horrorów \"X\", \"Pearl\" oraz \"Maxxxine\", z Johnnym Deppem w tytułowej roli. O tym, czy potrzebowaliśmy nowej wersji \"Opowieśc...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Spędziłem z Football Managerem 27 ponad 50 godzin i już wiem, że trudniej nigdy nie było [RECENZJA]",
+      "sourceUrl": "https://cdaction.pl/recenzje/spedzilem-z-football-managerem-27-ponad-50-godzin-i-juz-wiem-ze-trudniej-nigdy-nie-bylo-recenzja/",
+      "publishedAt": "2026-11-12T21:48+01:00",
+      "summary": "Football Manager 27 stanowi duży krok naprzód względem poprzedniej odsłony cyklu. Gra działa szybciej, interfejs nie przeszkadza w zarządzaniu klubem, a przebudowany system taktyczny bardzo mi się podoba. Nadal zostało kilka rzeczy do poprawy, ale względem FM-a 26 to praktycznie inna gra.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/football-manager-27-video-rzjgo-1260x709.avif"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox przygotował wielką niespodziankę na 25-lecie! Gracze mogą sprawdzić całą swoją historię",
+      "sourceUrl": "https://www.ppe.pl/news/432961/xbox-przygotowal-wielka-niespodzianke-na-25-lecie-gracze-moga-sprawdzic-cala-swoja-historie.html",
+      "publishedAt": "2026-11-12T21:47+01:00",
+      "summary": "Microsoft przygotował wyjątkową atrakcję z okazji 25-lecia Xboksa. Firma właśnie udostępniła Xbox Playback, czyli specjalne podsumowanie, które pozwala graczom prześledzić całą swoją historię z konsolami amerykańskiego giganta.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
