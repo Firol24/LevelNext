@@ -1,17 +1,59 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T14:01+01:00",
+  "updatedAt": "2026-11-12T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Twórcy WoW Forever zareagowali na kontrowersje wokół golda. Problem braku nagród na maksymalnym levelu doczekał się rozwiązania",
-    "summary": "Blizzard odpowiada na kontrowersje związane z przyznawaniem golda. Dla pokrzywdzonych graczy przygotowano zadośćuczynienie. Informacja Twórcy WoW Forever zareagowali na kontrowersje wokół golda. Problem braku nagród na maksymalnym levelu doczekał się rozwiązania została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-wow-forever-zareagowali-na-kontrowersje-wokol-golda-proble/zf322fb",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532185077.jpg"
+    "title": "Miniserial Netflixa miał premierę w zeszłym miesiącu i już stał się jednym z najpopularniejszych seriali ostatnich lat",
+    "summary": "W październiku na Netfliksie ukazał się miniserial, który odnotował jeden z największych wzrostów oglądalności w ostatnim czasie. Informacja Miniserial Netflixa miał premierę w zeszłym miesiącu i już stał się jednym z najpopularniejszych seriali ostatnich lat została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/miniserial-netflixa-mial-premiere-w-zeszlym-miesiacu-i-juz-stal-s/z2322f5",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532181040.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Miniserial Netflixa miał premierę w zeszłym miesiącu i już stał się jednym z najpopularniejszych seriali ostatnich lat",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/miniserial-netflixa-mial-premiere-w-zeszlym-miesiacu-i-juz-stal-s/z2322f5",
+      "publishedAt": "2026-11-12T15:02+01:00",
+      "summary": "W październiku na Netfliksie ukazał się miniserial, który odnotował jeden z największych wzrostów oglądalności w ostatnim czasie. Informacja Miniserial Netflixa miał premierę w zeszłym miesiącu i już stał się jednym z najpopularniejszych seriali ostatnich lat została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532181040.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Metro 2039 to już murowany hit. Wyniki zszokowały samego wydawcę",
+      "sourceUrl": "https://www.ppe.pl/news/432936/metro-2039-to-juz-murowany-hit-wyniki-zszokowaly-samego-wydawce.html",
+      "publishedAt": "2026-11-12T14:47+01:00",
+      "summary": "Dwa miliony graczy na liście życzeń Steam to bariera, której wielu deweloperów nigdy nie udaje się przekroczyć. Studio 4A Games rozbiło ten bank na długo przed oficjalnym debiutem.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Blackview XPLORE 6 kończy z kompromisami! Ten pancerny smartfon to fotograficzna bestia do zadań specjalnych",
+      "sourceUrl": "https://www.ppe.pl/news/432941/blackview-xplore-6-konczy-z-kompromisami-ten-pancerny-smartfon-to-fotograficzna-bestia-do-zadan-specjalnych.html",
+      "publishedAt": "2026-11-12T14:31+01:00",
+      "summary": "Pancerne smartfony zawsze miały jeden irytujący problem. Świetnie znosiły upadki, ale jakość wykonywanych przez nie zdjęć często wołała o pomstę do nieba. Blackview postanowiło ostatecznie zamknąć ten temat.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Let’s Sing ABBA na PS5 za jedyne 18 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-lets-sing-abba-na-ps5-za-jedyne-18-zl-na-allegro/",
+      "publishedAt": "2026-11-12T14:29+01:00",
+      "summary": "Jeśli lubicie gry imprezowe, zwłaszcza śpiewanie do mikrofonu, a do tego jesteście miłośnikami szwedzkich zespołów muzycznych, nie możecie przejść obojętnie obok promocji na Let’s Sing ABBA. Pudełko z grą w wersji na PlayStation 5, z hitami jak Chiquitita, Dancing Queen, Mamma Mia, czy też Money, Money, Money, kosztuje zaledwie 18 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lets-sing-abba-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 7 wreszcie opuści USA? Szef Rockstar Games stawia sprawę jasno",
+      "sourceUrl": "https://www.ppe.pl/news/432938/gta-7-wreszcie-opusci-usa-szef-rockstar-games-stawia-sprawe-jasno.html",
+      "publishedAt": "2026-11-12T14:17+01:00",
+      "summary": "Przeprowadzka serii Grand Theft Auto poza granice Stanów Zjednoczonych to wizja regularnie wracająca w branżowych dyskusjach.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Twórcy WoW Forever zareagowali na kontrowersje wokół golda. Problem braku nagród na maksymalnym levelu doczekał się rozwiązania",
@@ -20,6 +62,15 @@
       "summary": "Blizzard odpowiada na kontrowersje związane z przyznawaniem golda. Dla pokrzywdzonych graczy przygotowano zadośćuczynienie. Informacja Twórcy WoW Forever zareagowali na kontrowersje wokół golda. Problem braku nagród na maksymalnym levelu doczekał się rozwiązania została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532185077.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zmiany w XBOX Cloud Gaming przed premierą GTA VI. Poznaliśmy polskie ceny pakietów godzin. Darmowe granie za oglądanie reklam",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/zmiany-w-xbox-cloud-gaming-przed-premiera-gta-vi-poznalismy-polskie-ceny-pakietow-godzin-darmowe-granie-za-ogladanie-reklam/",
+      "publishedAt": "2026-11-12T14:13+01:00",
+      "summary": "Zapowiadana jakiś czas temu zmiana w końcu zawitała do XBOX Cloud Gaming. Od teraz nowi abonenci Game Passa nie mogą już grać tyle, ile chcą, a mają do dyspozycji mocno limitowane pakiety godzin do wykorzystania w danym miesiącu (zmiany nie dotyczą aktualnych abonentów, oni wciąż mogą się bawić bez ograniczeń, do momentu anulowania subskrypcji). Jeśli chcecie korzystać więcej, musicie dokupić dodatkowy czas. Jeśli zaś wolicie nie wydawać pieniędzy, możecie pooglądać reklamy. Niestety, darmowa wersja ma wiele obostrzeń i raczej nie zagramy dzięki niej w GTA VI na Xbox One. Microsoft dobrze wie, co robi. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-XBOX-Cloud-Gaming-logo-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
