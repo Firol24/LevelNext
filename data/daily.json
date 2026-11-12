@@ -1,17 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T21:01+01:00",
+  "updatedAt": "2026-11-12T21:38+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Twórcy The Blood of Dawnwalker godnie przyjęli wielką porażkę. „To przywilej, którego nie sposób wyrazić słowami”",
-    "summary": "The Blood of Dawnwalker nie zdobył żadnej nagrody podczas Golden Joystick Awards, ale osiągnął wysokie pozycje w niektórych kategoriach. Wyniki skomentował jeden z założycieli Rebel Wolves. Informacja Twórcy The Blood of Dawnwalker godnie przyjęli wielką porażkę. „To przywilej, którego nie sposób wyrazić słowami” została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-the-blood-of-dawnwalker-godnie-przyjeli-wielka-porazke-to/zd32305",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532210555.jpg"
+    "title": "GTA 6 ma sprzedawać się obecnie w zawrotnym tempie miliona kopii na dobę. YouTube uczci premierę gry w wyjątkowy sposób",
+    "summary": "GTA 6 jeszcze nie zadebiutowało, a już może pochwalić się imponującymi wynikami sprzedaży. Tymczasem przygotowania do wielkiej premiery nabierają tempa, a zapowiedziane przez YouTube atrakcje pokazują, że będzie to wydarzenie bez precedensu. Informacja GTA 6 ma sprzedawać się obecnie w zawrotnym tempie miliona kopii na dobę. YouTube uczci premierę gry w wyjątkowy sposób została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-ma-sprzedawac-sie-obecnie-w-zawrotnym-tempie-miliona-kopii/zf32307",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532214525.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 ma sprzedawać się obecnie w zawrotnym tempie miliona kopii na dobę. YouTube uczci premierę gry w wyjątkowy sposób",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-ma-sprzedawac-sie-obecnie-w-zawrotnym-tempie-miliona-kopii/zf32307",
+      "publishedAt": "2026-11-12T22:22+01:00",
+      "summary": "GTA 6 jeszcze nie zadebiutowało, a już może pochwalić się imponującymi wynikami sprzedaży. Tymczasem przygotowania do wielkiej premiery nabierają tempa, a zapowiedziane przez YouTube atrakcje pokazują, że będzie to wydarzenie bez precedensu. Informacja GTA 6 ma sprzedawać się obecnie w zawrotnym tempie miliona kopii na dobę. YouTube uczci premierę gry w wyjątkowy sposób została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532214525.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Szybka i wolna pamięć RAM DDR5 jednocześnie: Adata XPG Lancer Blade 32 GB 6000 MHz CL48. Promocja",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/szybka-i-wolna-pamiec-ram-ddr5-jednoczesnie-adata-xpg-lancer-blad/ze32306",
+      "publishedAt": "2026-11-12T22:07+01:00",
+      "summary": "W teorii 1999 zł za 32 GB pamięci RAM Adata XPG Lancer Blade DDR5-6000 to nie jest zła cena. Niestety wysokie opóźnienia – CL48 – sprawiają, że wydajność takiego zestawu jest zaskakująco niska, co wyklucza sensowność zakupu. Testy. Informacja Szybka i wolna pamięć RAM DDR5 jednocześnie: Adata XPG Lancer Blade 32 GB 6000 MHz CL48. Promocja została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532213605.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Co oglądać w weekend - Netflix, HBO MAX, Disney+, Amazon Prime, Apple TV+, SkyShowtime, kina",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432355/co-ogladac-w-weekend-netflix-hbo-max-disney-amazon-prime-apple-tv-skyshowtime-kina-18.html",
+      "publishedAt": "2026-11-12T21:30+01:00",
+      "summary": "Najważniejszą premierą tygodnia jest bez wątpienia powrót na Amazon Prime jednej z najdroższych produkcji w historii, czerpiącej z twórczości autora “Władcy Pierścieni”. Wielką premierę przygotował również HBO MAX, gdzie pojawi się ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tanio, to znaczy ile? Najlepsze oferty na klucze Steam (do 10 zł) w sklepie Instant Gaming!",
+      "sourceUrl": "https://lowcygier.pl/gry-za-grosze/tanio-to-znaczy-ile-najlepsze-oferty-na-klucze-steam-do-10-zl-w-sklepie-instant-gaming/",
+      "publishedAt": "2026-11-12T21:24+01:00",
+      "summary": "Łowcy, czas na drugi w tym tygodniu wpis z cyklu „Gry za grosze” . Tym razem poprzeczka cenowa zjeżdża drastycznie w dół i zatrzymuje się na kwocie 10 zł. W rozwinięciu wpisu znajdziecie więc najlepsze oferty na tanie klucze Steam, które w atrakcyjnych cenach dostępne są w cyfrowym sklepie Instant Gaming. Życzymy udanych zakupów 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tanio-to-znaczy-ile_-Najlepsze-oferty-na-klucze-Steam-do-10-zl-w-sklepie-Instant-Gaming_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Twórcy The Blood of Dawnwalker godnie przyjęli wielką porażkę. „To przywilej, którego nie sposób wyrazić słowami”",
@@ -20,6 +55,23 @@
       "summary": "The Blood of Dawnwalker nie zdobył żadnej nagrody podczas Golden Joystick Awards, ale osiągnął wysokie pozycje w niektórych kategoriach. Wyniki skomentował jeden z założycieli Rebel Wolves. Informacja Twórcy The Blood of Dawnwalker godnie przyjęli wielką porażkę. „To przywilej, którego nie sposób wyrazić słowami” została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532210555.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy serii DOOM OFICJALNIE pracują nad nową grą. Hugo Martin rozwija projekt",
+      "sourceUrl": "https://www.ppe.pl/news/432975/tworcy-serii-doom-oficjalnie-pracuja-nad-nowa-gra-hugo-martin-rozwija-projekt.html",
+      "publishedAt": "2026-11-12T21:10+01:00",
+      "summary": "id Software nie zamierza zwalniać tempa! Twórcy legendarnej serii DOOM właśnie potwierdzili, że rozpoczęli prace nad kolejną produkcją, a za sterami projektu ponownie stanął Hugo Martin.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Automatyczne bitwy na Twoim telefonie. Mobilna wersja Knightica za darmo w Epic Games!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/automatyczne-bitwy-na-twoim-telefonie-mobilna-wersja-knightica-za-darmo-w-epic-games/",
+      "publishedAt": "2026-11-12T21:03+01:00",
+      "summary": "Łowcy, w tym tygodniu zespół Epic Games przygotował coś dla fanów autobitewniaków. Posiadacze aplikacji EGS mogą odebrać mobilną wersję Knightica od francuskiego studia Mad Mango Games. Produkcja będąca przedstawicielem lubianego przez wielu graczy gatunku auto battler dostępna jest dla osób korzystających z urządzeń opartych o systemy iOS i Android. Kolejny zestaw mobilnych darmówek pojawi się w Epic Games Store już 19 listopada, punktualnie o godzinie 17:00. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Automatyczne-bitwy-na-Twoim-telefonie.-Mobilna-wersja-Knightica-za-darmo-w-Epic-Games_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
