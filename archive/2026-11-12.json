@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-12",
-  "updatedAt": "2026-11-12T11:01+01:00",
+  "updatedAt": "2026-11-12T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Shrek 2 wrócił po latach i rozczarował. Tylko 43% graczy na Steamie poleca remaster gry z dzieciństwa",
-    "summary": "Debiut remastera Shreka 2 zawiódł fanów. Gracze narzekają na masę problemów technicznych gry dzieciństwa, w tym na wymóg połączenia z kontem Epic Games w wersji gry na Steamie. Informacja Shrek 2 wrócił po latach i rozczarował. Tylko 43% graczy na Steamie poleca remaster gry z dzieciństwa została opublikowana przez GRYOnline.pl 12 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/shrek-2-wrocil-po-latach-i-rozczarowal-tylko-43-graczy-na-steamie/zd322f0",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532176880.jpg"
+    "title": "Strzelanka od twórców Destiny wypadła z rankingów, ale nie składa broni. Symbioza ma odmienić Marathona",
+    "summary": "Bungie zaprezentowało nowości zmierzające do Marathonu ze sporym poślizgiem po rezygnacji z sezonów. Informacja Strzelanka od twórców Destiny wypadła z rankingów, ale nie składa broni. Symbioza ma odmienić Marathona została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/strzelanka-od-tworcow-destiny-wypadla-z-rankingow-ale-nie-sklada/z0322f3",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532178902.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Strzelanka od twórców Destiny wypadła z rankingów, ale nie składa broni. Symbioza ma odmienić Marathona",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/strzelanka-od-tworcow-destiny-wypadla-z-rankingow-ale-nie-sklada/z0322f3",
+      "publishedAt": "2026-11-12T12:30+01:00",
+      "summary": "Bungie zaprezentowało nowości zmierzające do Marathonu ze sporym poślizgiem po rezygnacji z sezonów. Informacja Strzelanka od twórców Destiny wypadła z rankingów, ale nie składa broni. Symbioza ma odmienić Marathona została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532178902.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "300 dni z rzędu w pierwszej dziesiątce najpopularniejszych serwisów streamingowych: kasowy hit z Alanem Ritchsonem i Jasonem Stathamem odniósł ogromny sukces",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/300-dni-z-rzedu-w-pierwszej-dziesiatce-najpopularniejszych-serwis/ze322f1",
+      "publishedAt": "2026-11-12T12:11+01:00",
+      "summary": "Jednym z najchętniej oglądanych filmów tego roku na VOD i w streamingu jest widowisko z udziałem Alana Ritchsona i Jasona Stathama. Informacja 300 dni z rzędu w pierwszej dziesiątce najpopularniejszych serwisów streamingowych: kasowy hit z Alanem Ritchsonem i Jasonem Stathamem odniósł ogromny sukces została opublikowana przez GRYOnline.pl 12 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532177745.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Obudowy PS5 Slim Prism Collection dostępne w przedsprzedaży. Polskie ceny rozpoczynają się od 339 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/obudowy-ps5-slim-prism-collection-dostepne-w-przedsprzedazy-polskie-ceny-rozpoczynaja-sie-od-339-zl/",
+      "publishedAt": "2026-11-12T11:57+01:00",
+      "summary": "Wymienne panele konsoli Sony PlayStation 5 Slim z serii Prism Collection, również pojawiły się w przedsprzedaży w polskich sklepach internetowych. W tym przypadku co prawda tylko mniejsza, górna część jest przezroczysta, ale obudowy świetnie dopełniają się z dostępnymi DualSense w tych samych wariantach kolorystycznych. Cena zestawu osłon rozpoczyna się od 339 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/panel-prism-collection-kwadrat-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Shrek 2 wrócił po latach i rozczarował. Tylko 43% graczy na Steamie poleca remaster gry z dzieciństwa",
@@ -20,6 +47,23 @@
       "summary": "Debiut remastera Shreka 2 zawiódł fanów. Gracze narzekają na masę problemów technicznych gry dzieciństwa, w tym na wymóg połączenia z kontem Epic Games w wersji gry na Steamie. Informacja Shrek 2 wrócił po latach i rozczarował. Tylko 43% graczy na Steamie poleca remaster gry z dzieciństwa została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532176880.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin 3 Remastered wywołał stres i niepokój. Polacy z CD Projekt RED dzielą się informacjami",
+      "sourceUrl": "https://www.ppe.pl/news/432927/wiedzmin-3-remastered-wywolal-stres-i-niepokoj-polacy-z-cd-projekt-red-dziela-sie-informacjami.html",
+      "publishedAt": "2026-11-12T11:54+01:00",
+      "summary": "Wiedźmin 3 to bez wątpienia duma naszej branży i tytuł, którego nie trzeba absolutnie nikomu przedstawiać. Produkcja sprzedała się w dziesiątkach milionów egzemplarzy i dla wielu graczy na całym świecie wciąż pozostaje niedoścignionym wzo...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola Predator Atlas 8 już dostępna! Kup ją w Media Expert i odbierz bonusy o wartości ponad 1000 zł GRATIS",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-predator-atlas-8-juz-dostepna-kup-ja-w-media-expert-i-odbierz-bonusy-o-wartosci-ponad-1000-zl-gratis/",
+      "publishedAt": "2026-11-12T11:46+01:00",
+      "summary": "Rynek przenośnych PC do grania przeszedł w ostatnich latach długą drogę. Zaczynaliśmy od niszowych eksperymentów, skończyliśmy na bardzo ważnym segmencie branży, który nieustannie się rozrasta. Nic więc dziwnego, że wielu producentów chce uszczknąć coś dla siebie. Niedawno do sprzedaży trafił ACER Predator Atlas 8, oferując nam potężne podzespoły zamknięte w kompaktowej obudowie. Sprzęt jest już dostępny w Media Expert, a jeśli zdecydujecie się na jego zakup, możecie liczyć na kilka wartościowych bonusów! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/predator-Atlas-8-logo-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +75,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532176002.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Nowy konkurent DLSS działa nawet na starych kartach. Twórcy obiecują szybsze generowanie klatek",
+      "sourceUrl": "https://www.ppe.pl/news/432916/nowy-konkurent-dlss-dziala-nawet-na-starych-kartach-tworcy-obiecuja-szybsze-generowanie-klatek.html",
+      "publishedAt": "2026-11-12T11:40+01:00",
+      "summary": "Na rynku technik skalowania i generowania obrazu pojawił się nowy gracz. Apex Neural Rendering ma docelowo oferować odpowiedniki Super Resolution, Ray Reconstruction oraz Frame Generation, ale bez przywiązania do jednej marki GPU. Pierwsza wersja be...",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Plotki o końcu Marvel 1943 okazały się nieprawdziwe. Gra o Kapitanie Ameryce i Czarnej Panterze wciąż powstaje, ale ma kłopoty",
       "sourceUrl": "https://www.gry-online.pl/newsroom/plotki-o-koncu-marvel-1943-okazaly-sie-nieprawdziwe-gra-o-kapitan/z1322ee",
@@ -40,6 +92,49 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532175815.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Krytycy podzieleni jak nigdy. 3. sezon „Pierścieni Władzy” wystartował najgorzej w historii serii, ale oceny już rosną",
+      "sourceUrl": "https://cdaction.pl/kultura/krytycy-podzieleni-jak-nigdy-3-sezon-pierscieni-wladzy-wystartowal-najgorzej-w-historii-serii-ale-oceny-juz-rosna/",
+      "publishedAt": "2026-11-12T11:30+01:00",
+      "summary": "Od „najlepszego sezonu” po „drętwe dialogi”.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Pierscienie-Wladzy.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Będzie sukces na miarę Crimson Desert? Koreańska gra singleplayer coraz bliżej premiery na PS5 i PC",
+      "sourceUrl": "https://www.ppe.pl/news/432911/bedzie-sukces-na-miare-crimson-desert-koreanska-gra-singleplayer-coraz-blizej-premiery-na-ps5-i-pc.html",
+      "publishedAt": "2026-11-12T11:28+01:00",
+      "summary": "Deweloperzy z Korei Południowej kojarzą się przede wszystkim z gatunkiem MMORPG. Tym razem mamy jednak do czynienia z tytułem, który spodoba się przede wszystkim fanom gier singleplayer AAA.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gorzej być nie mogło. Oprócz romansów szefa Nvidii firma ma kolejny wielki problem",
+      "sourceUrl": "https://www.ppe.pl/news/432917/gorzej-byc-nie-moglo-oprocz-romansow-szefa-nvidii-firma-ma-kolejny-wielki-problem.html",
+      "publishedAt": "2026-11-12T11:28+01:00",
+      "summary": "Sztuczna inteligencja rozwija się w błyskawicznym tempie i powoli staje się technologicznym przekleństwem dla milionów zwykłych graczy na całym świecie. Wielkie korporacje potrafią wydać absolutnie każde pieniądze na stworzenie najpotężnie...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Mysz ergonomiczna Hama EMW-700 Bluetooth 2400 dpi za 89,99 zł w x-kom",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/mysz-ergonomiczna-hama-emw-700-bluetooth-2400-dpi-za-8999-zl-w-x-kom/",
+      "publishedAt": "2026-11-12T11:24+01:00",
+      "summary": "W Gorącym Strzale sklepu x-kom, dorwiecie dziś Hama EMW-700. Mysz bezprzewodowa o pionowej budowie, przez co wymusza naturalne ułożenie ręki i odciążenie nadgarstka, kosztuje 89,99 zł. Urządzenie posiada adapter USB oraz łączność poprzez Bluetooth, podświetlenie RGB oraz możliwość zmiany czułości w zakresie do 2400 dpi. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/hama-EMW-700-1b-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nagrody Golden Joystick Awards rozdane. Poznaliśmy pierwszą Grę Roku 2026! Wielki sukces CD Projekt RED",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/nagrody-golden-joystick-awards-rozdane-poznalismy-pierwsza-gre-roku-2026-wielki-sukces-cd-projekt-red/",
+      "publishedAt": "2026-11-12T11:12+01:00",
+      "summary": "Wczoraj odbyła się ceremonia wręczenia nagród Golden Joystick Awards 2026. W plebiscycie wyłonione zostały najlepsze gry mijającego właśnie roku. Klasycznie już nie obyło się bez niespodzianek. Spore powody do radości mogą mieć Polacy z CD Projekt RED. Twórcy Wiedźmina triumfowali w aż dwóch kategoriach. Mimo kilku nominacji nagrody nie zdobyło za to Rebel Wolves i ich Blood of Dawnwalker. Statuetka dla Gry Roku 2026 powędrowała natomiast do Capcomu i ich Resident Evil: Requiem. Przygotowaliśmy dla Was listę zawierającą wszystkich laureatów. Zapraszamy do dalszej części wpisu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/06/Gameplay-Wiedzmin-4-Ciri-logo-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Wiedźmin 4 najbardziej wyczekiwaną grą na Golden Joystick Awards. Resident Evil Requiem grą roku",
       "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-4-najbardziej-wyczekiwana-gra-na-golden-joystick-awards/zf322ec",
@@ -47,6 +142,23 @@
       "summary": "Capcom był największym zwycięzcą gali Golden Joystick Awards 2026, ale sporo namieszała też pewna niezależna produkcja z ponad 20 milionami sprzedanych egzemplarzy. Informacja Wiedźmin 4 najbardziej wyczekiwaną grą na Golden Joystick Awards. Resident Evil Requiem grą roku została opublikowana przez GRYOnline.pl 12 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532174651.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox Series S to największe nieporozumienie: \"taka konsola nie może znowu powstać\"",
+      "sourceUrl": "https://www.ppe.pl/news/432912/xbox-series-s-to-najwieksze-nieporozumienie-taka-konsola-nie-moze-znowu-powstac.html",
+      "publishedAt": "2026-11-12T11:05+01:00",
+      "summary": "Xbox Series S jest z nami na rynku już od sześciu lat i od samego początku budzi skrajne emocje. Dla wielu graczy to fantastyczna, tania przepustka do nowej generacji, ale po drugiej stronie barykady stoją twórcy gier, dla których ten sprzęt to c...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Pierwsi gracze zagrali w Squadron 42. Pokaz singlowej kampanii Star Citizena zrobił na nich spore wrażenie",
+      "sourceUrl": "https://cdaction.pl/newsy/pierwsi-gracze-zagrali-w-squadron-42-pokaz-singlowej-kampanii-star-citizena-zrobil-na-nich-spore-wrazenie/",
+      "publishedAt": "2026-11-12T11:02+01:00",
+      "summary": "Czyżby można było już mówić: jest dobrze?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Squadron-42.jpg"
     },
     {
       "sourceName": "GRY-Online",
