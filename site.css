@@ -259,3 +259,20 @@ h1,h2,h3{line-height:1.25}
 @keyframes logoTurn3D{0%{transform:perspective(900px) rotateY(0deg) rotateX(1deg) translateZ(2px)}25%{transform:perspective(900px) rotateY(90deg) rotateX(2deg) translateZ(5px)}50%{transform:perspective(900px) rotateY(180deg) rotateX(1deg) translateZ(2px)}75%{transform:perspective(900px) rotateY(270deg) rotateX(0deg) translateZ(5px)}100%{transform:perspective(900px) rotateY(360deg) rotateX(1deg) translateZ(2px)}}
 @media(max-width:620px){.masthead>.logo{width:280px}}
 @media(prefers-reduced-motion:reduce){.masthead>.logo{animation:none!important;transform:none!important}}
+
+
+/* EXTRUDED LOGO: WYRAZNIE GRUBSZA KRAWEDZ 3D */
+.masthead>.logo{
+  filter:
+    drop-shadow(1px 1px 0 #b18bd4)
+    drop-shadow(2px 2px 0 #9870bd)
+    drop-shadow(3px 3px 0 #805aa7)
+    drop-shadow(4px 4px 0 #704991)
+    drop-shadow(5px 5px 0 #603b80)
+    drop-shadow(6px 6px 0 #52316f)
+    drop-shadow(7px 7px 0 #46285f)
+    drop-shadow(8px 8px 0 #3b2052)
+    drop-shadow(9px 9px 0 #301a43)
+    drop-shadow(10px 10px 0 #261536)
+    drop-shadow(12px 12px 1px rgba(0,0,0,.72));
+}
