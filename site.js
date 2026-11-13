@@ -313,7 +313,8 @@
       "Znajdź starą grę, która miała papierową mapę, i obejrzyj jej skan lub oryginał.",
       "Odpal grę, którą pamiętasz z salonu gier, i spróbuj dojść do kolejnego etapu.",
       "Zrób krótką notatkę: co w tej starej grze nadal działa świetnie, a co się zestarzało?",
-    ];    function setupMission(buttonId, resultId, stateId) {
+    ];
+    function setupMission(buttonId, resultId, stateId) {
       var button = document.getElementById(buttonId);
       var result = document.getElementById(resultId);
       var status = document.getElementById(stateId);
