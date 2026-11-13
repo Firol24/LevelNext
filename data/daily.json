@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T05:01+01:00",
+  "updatedAt": "2026-11-13T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Wsteczna kompatybilność na PC rozszerzona. Microsoft dodaje 25 gier na 25. urodziny Xbox!",
-    "summary": "Łowcy, niecałe cztery miesiące temu informowaliśmy Was, że firma Microsoft postanowiła zagrać na strunach nostalgii kolejnej grupy graczy i zaprezentowała wsteczną kompatybilność Xbox na PC! Od tamtego momentu posiadacze sprzętów spełniających podane wymagania mogli ogrywać cztery klasyki znane z pierwszej konsoli giganta z Redmond, które do tej pory nie miały okazji zadebiutować na komputerach osobistych. Z okazji 25. urodzin marki Xbox katalog produkcji został rozbudowany do symbolicznej liczby 25 produkcji. W dalszej częsci wpisu znajdziecie pełną listę nowych gier wraz z aktualnymi cenami w Xbox Store. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/aktualnosci/wsteczna-kompatybilnosc-na-pc-rozszerzona-microsoft-dodaje-25-gier-na-25-urodziny-xbox/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wsteczna-kompatybilnosc-na-PC-rozszerzona.-Microsoft-dodaje-25-gier-na-25.-urodziny-Xbox_minaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "W sierpniu w kinach, a już na HBO Max! Gwiazdorskie science fiction dostępne w streamingu",
+    "summary": "Warner Bros. błyskawicznie przeniósł do streamingu swoje najnowsze widowisko science fiction. Film z Anne Hathaway i Ewanem McGregorem jeszcze w sierpniu można było oglądać w kinach, a od dzisiaj produkcja jest dostępna dla abonentów HBO Max.",
+    "sourceUrl": "https://www.ppe.pl/news/432973/w-sierpniu-w-kinach-a-juz-na-hbo-max-gwiazdorskie-science-fiction-dostepne-w-streamingu.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "W sierpniu w kinach, a już na HBO Max! Gwiazdorskie science fiction dostępne w streamingu",
+      "sourceUrl": "https://www.ppe.pl/news/432973/w-sierpniu-w-kinach-a-juz-na-hbo-max-gwiazdorskie-science-fiction-dostepne-w-streamingu.html",
+      "publishedAt": "2026-11-13T05:45+01:00",
+      "summary": "Warner Bros. błyskawicznie przeniósł do streamingu swoje najnowsze widowisko science fiction. Film z Anne Hathaway i Ewanem McGregorem jeszcze w sierpniu można było oglądać w kinach, a od dzisiaj produkcja jest dostępna dla abonentów HBO Max.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Wsteczna kompatybilność na PC rozszerzona. Microsoft dodaje 25 gier na 25. urodziny Xbox!",
