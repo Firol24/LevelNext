@@ -1,17 +1,50 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T17:02+01:00",
+  "updatedAt": "2026-11-13T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "RPG The Blood of Dawnwalker otrzyma nowy tryb, o który gracze prosili od premiery, i to już w następnym tygodniu",
-    "summary": "The Blood of Dawnwalker otrzyma w przyszłym tygodniu kolejną aktualizację. Studio Rebel Wolves przygotowało dla graczy długo wyczekiwaną nowość, która zachęci do ponownego odwiedzenia Kotliny Sangorskiej. Informacja RPG The Blood of Dawnwalker otrzyma nowy tryb, o który gracze prosili od premiery, i to już w następnym tygodniu została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/rpg-the-blood-of-dawnwalker-otrzyma-nowy-tryb-o-ktory-gracze-pros/ze3232d",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532283800.jpg"
+    "title": "Żadnej taryfy ulgowej i asystenta celowania. Escape from Tarkov zmierza na konsole",
+    "summary": "Wizja przeniesienia najbardziej bezlitosnej strzelanki z komputerów na konsole nabiera wreszcie realnych kształtów. Szef studia Battlestate Games przerwał milczenie.",
+    "sourceUrl": "https://www.ppe.pl/news/433075/zadnej-taryfy-ulgowej-i-asystenta-celowania-escape-from-tarkov-zmierza-na-konsole.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Żadnej taryfy ulgowej i asystenta celowania. Escape from Tarkov zmierza na konsole",
+      "sourceUrl": "https://www.ppe.pl/news/433075/zadnej-taryfy-ulgowej-i-asystenta-celowania-escape-from-tarkov-zmierza-na-konsole.html",
+      "publishedAt": "2026-11-13T17:50+01:00",
+      "summary": "Wizja przeniesienia najbardziej bezlitosnej strzelanki z komputerów na konsole nabiera wreszcie realnych kształtów. Szef studia Battlestate Games przerwał milczenie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Elitarny zestaw Play on the Go w Fanatical. Silly Polly Beast + Strange Antiquities za 66,05 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/elitarny-zestaw-play-on-the-go-w-fanatical-silly-polly-beast-strange-antiquities-za-6605-zl/",
+      "publishedAt": "2026-11-13T17:48+01:00",
+      "summary": "Łowcy, tym razem cyfrowy sklep Fanatical przygotował coś dla posiadaczy Steam Decka. W ramach zestawu Build Your Own Play on the Go Bundle Elite Collection (Fall 2026) możecie skompletować własną paczkę składającą się maksymalnie z 5 gier Steam. Całość oferowana jest za 154,18 zł, co daje nam przelicznik 30,84 zł za jeden tytuł na PC ! Wybierać możecie spośród 20 dostępnych produkcji, które zostały pozytywnie zweryfikowane pod kątem działania na konsoli Valve. Na szczególne wyróżnienie zasługuje tutaj debiutujące w tanich zestawach Silly Polly Beast, które w naszej recenzji otrzymało niezwykle wysoką ocenę 9/10 ! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Elitarny-zestaw-Play-on-the-Go-w-Fanatical.-Silly-Polly-Beast-Strange-Antiquities-za-6605-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Szpile: Casanova z Nvidii",
+      "sourceUrl": "https://cdaction.pl/szpile/szpile-casanova-z-nvidii/",
+      "publishedAt": "2026-11-13T17:46+01:00",
+      "summary": "Twoja cotygodniowa dawka przekąsu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/09/81fc73e9-c2ec-4dfe-9dfc-841092262678.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy God of War OFICJALNIE trafi na PS4. Santa Monica Studio ujawniło datę premiery",
+      "sourceUrl": "https://www.ppe.pl/news/433082/nowy-god-of-war-oficjalnie-trafi-na-ps4-santa-monica-studio-ujawnilo-date-premiery.html",
+      "publishedAt": "2026-11-13T17:40+01:00",
+      "summary": "Potwierdziły się niedawne spekulacje ze świata PlayStation. God of War: Sons of Sparta już za chwilę zadebiutuje na PS4.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "RPG The Blood of Dawnwalker otrzyma nowy tryb, o który gracze prosili od premiery, i to już w następnym tygodniu",
@@ -22,6 +55,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532283800.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Denuvo znowu upokorzone. Hakerzy udostępnili prosty sposób na darmowe wyścigi w Star Wars: Galactic Racer",
+      "sourceUrl": "https://www.ppe.pl/news/433074/denuvo-znowu-upokorzone-hakerzy-udostepnili-prosty-sposob-na-darmowe-wyscigi-w-star-wars-galactic-racer.html",
+      "publishedAt": "2026-11-13T17:26+01:00",
+      "summary": "Antypiracka tarcza Denuvo po raz kolejny okazała się całkowicie dziurawa. Haker znany w sieci pod pseudonimem voices38 opublikował w pełni złamaną, pecetową wersję Star Wars: Galactic Racer.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Szalona teoria fanów GTA 6 została potwierdzona przez Rockstar Games. Oto pierwszy zwiastun nowego projektu",
       "sourceUrl": "https://www.gry-online.pl/newsroom/szalona-teoria-fanow-gta-6-zostala-potwierdzona-przez-rockstar-ga/zd3232c",
@@ -29,6 +70,14 @@
       "summary": "Do sieci trafił pierwszy teaser serialu animowanego Macca & Friends, który zadebiutuje wraz z GTA 6. Informacja Szalona teoria fanów GTA 6 została potwierdzona przez Rockstar Games. Oto pierwszy zwiastun nowego projektu została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532282444.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wyjaśniła się tajemnica kontrowersyjnej figurki z GTA 6. Zobaczcie nowy zwiastun od Rockstara",
+      "sourceUrl": "https://www.ppe.pl/news/433079/wyjasnila-sie-tajemnica-kontrowersyjnej-figurki-z-gta-6-zobaczcie-nowy-zwiastun-od-rockstara.html",
+      "publishedAt": "2026-11-13T17:11+01:00",
+      "summary": "Mamy oficjalne potwierdzenie, że Rockstar Games na potrzeby nadchodzącego GTA 6 stworzył nie tylko ogromny świat wypchany różnymi aktywnościami. Gra doczeka się również własnej kreskówki, co pokazuje nowy zwiastun, który trafił do Internet...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
