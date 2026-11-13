@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T14:01+01:00",
+  "updatedAt": "2026-11-13T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Na Steamie pojawił się duch legendarnego RPG sprzed lat. To jedna z 5 perełek z Cyfrowych Podziemi Drenza",
-    "summary": "Witajcie w kolejnych Cyfrowych Podziemiach! Niemal wszyscy czekają na kolejne GTA a tymczasem jesień nas rozpieszcza dużo mniejszymi tytułami. Informacja Na Steamie pojawił się duch legendarnego RPG sprzed lat. To jedna z 5 perełek z Cyfrowych Podziemi Drenza została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/na-steamie-pojawil-sie-duch-legendarnego-rpg-sprzed-lat-to-jedna/zd32323",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532272786.jpg"
+    "title": "Co trzeci twórca gier stracił pracę, a ponad połowa wciąż jej szuka. Nowy raport GDC nie napawa optymizmem",
+    "summary": "Poznaliśmy wyniki tegorocznej ankiety deweloperskiej GDC. Twórcy gier nadal obawiają się AI oraz zwolnień, a najbardziej popularną platformą sprzętową pozostaje PC. Informacja Co trzeci twórca gier stracił pracę, a ponad połowa wciąż jej szuka. Nowy raport GDC nie napawa optymizmem została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/co-trzeci-tworca-gier-stracil-prace-a-ponad-polowa-wciaz-jej-szuk/zf32325",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532275637.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Co trzeci twórca gier stracił pracę, a ponad połowa wciąż jej szuka. Nowy raport GDC nie napawa optymizmem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/co-trzeci-tworca-gier-stracil-prace-a-ponad-polowa-wciaz-jej-szuk/zf32325",
+      "publishedAt": "2026-11-13T15:20+01:00",
+      "summary": "Poznaliśmy wyniki tegorocznej ankiety deweloperskiej GDC. Twórcy gier nadal obawiają się AI oraz zwolnień, a najbardziej popularną platformą sprzętową pozostaje PC. Informacja Co trzeci twórca gier stracił pracę, a ponad połowa wciąż jej szuka. Nowy raport GDC nie napawa optymizmem została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532275637.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Błyskawicznie na 1. miejscu w 35 krajach. Największy hit serialowy Prime Video znów nie ma sobie równych",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/blyskawicznie-na-1-miejscu-w-35-krajach-najwiekszy-hit-serialowy/z032317",
+      "publishedAt": "2026-11-13T15:02+01:00",
+      "summary": "Najdroższy serial Prime Video powrócił z trzecim sezonem i robi furorę w streamingu. Widzowie chętnie powrócili do tego tytułu po 2 latach przerwy. Informacja Błyskawicznie na 1. miejscu w 35 krajach. Największy hit serialowy Prime Video znów nie ma sobie równych została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532265892.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Doładowanie 500 PLN do Nintendo eShop za jedyne 434,58 zł w Kinguinie",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/doladowanie-500-pln-do-nintendo-eshop-za-jedyne-43458-zl-w-kinguinie/",
+      "publishedAt": "2026-11-13T15:00+01:00",
+      "summary": "Karta podarunkowa do Nintendo eShop o wartości 500 PLN jest dostępna teraz taniej w Kinguinie. Sklep oferuje wspomniane doładowanie za 434,58 zł, po wykorzystaniu kodu zniżkowego. Środki śmiało możecie przeznaczyć na zakup gier Nintendo Switch z licznych wyprzedaży. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/01/giftcard-500-pln-eshop-1b-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Na Steamie pojawił się duch legendarnego RPG sprzed lat. To jedna z 5 perełek z Cyfrowych Podziemi Drenza",
@@ -31,6 +58,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532274075.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Sony milczy, a hakerzy działają. Ekskluzywny hit z PS5 wylądował na nowej platformie",
+      "sourceUrl": "https://www.ppe.pl/news/433054/sony-milczy-a-hakerzy-dzialaja-ekskluzywny-hit-z-ps5-wyladowal-na-nowej-platformie.html",
+      "publishedAt": "2026-11-13T14:44+01:00",
+      "summary": "Niezależna scena deweloperska brutalnie wyprzedza oficjalne plany Sony. Ekskluzywna platformówka z PlayStation 5 trafia na komputery osobiste.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Zapomnianą odsłonę The Elder Scrolls ogracie teraz na PC. Zabierze was w rejon, którego nie pokazała żadna inna część serii",
       "sourceUrl": "https://www.gry-online.pl/newsroom/zapomniana-odslone-the-elder-scrolls-ogracie-teraz-na-pc-zabierze/zc32322",
@@ -38,6 +73,14 @@
       "summary": "W sieci pojawił się fanowski port zapomnianej odsłony podserii The Elder Scrolls Travel. Shadowkey Reforged wspiera teraz ultraszerokie monitory 4K i śmiga w 120 FPS-ach. Informacja Zapomnianą odsłonę The Elder Scrolls ogracie teraz na PC. Zabierze was w rejon, którego nie pokazała żadna inna część serii została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532272229.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rebel Wolves ratuje gatunek. Twórcy polskiego hitu zapowiadają kontynuację",
+      "sourceUrl": "https://www.ppe.pl/news/433053/rebel-wolves-ratuje-gatunek-tworcy-polskiego-hitu-zapowiadaja-kontynuacje.html",
+      "publishedAt": "2026-11-13T14:25+01:00",
+      "summary": "Temat wampirów w grach wideo od lat przypominał pole minowe. Konrad Tomaszkiewicz uważa ten etap za ostatecznie zamknięty.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -49,6 +92,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532271368.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Prince of Persia The Lost Crown na Nintendo Switch za 73,37 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-prince-of-persia-the-lost-crown-na-nintendo-switch-za-7337-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-13T14:15+01:00",
+      "summary": "Niezła oferta na Prince of Persia The Lost Crown w pudełku z kartridżem, dostępna jest w polskim oddziale sklepu Amazon. Platformówka z elementami metroidvanii, może być wasza za 73,37 zł w wersji na Nintendo Switch. Warto również wspomnieć, że okładka jest w języku hiszpańskim. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/03/prince-of-persia-the-lost-crown-ns-miniaturka-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Elon Musk chce zatrudnić Jensena Huanga po jego odejściu z NVIDII. Tim Sweeney uważa, że to był smutny dzień dla całej ludzkości",
       "sourceUrl": "https://www.gry-online.pl/newsroom/elon-musk-chce-zatrudnic-jensena-huanga-po-jego-odejsciu-z-nvidii/ze3231e",
@@ -56,6 +108,14 @@
       "summary": "Elon Musk uważa, że zatrudnienie Jensena Huanga byłoby zaszczytem. Problemem może być jednak stanowisko, którym były CEO NVIDII byłby zainteresowany. Informacja Elon Musk chce zatrudnić Jensena Huanga po jego odejściu z NVIDII. Tim Sweeney uważa, że to był smutny dzień dla całej ludzkości została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532270893.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z pierwszą aktualizacją na długo przed oficjalną premierą. Bez tego nie zagracie",
+      "sourceUrl": "https://www.ppe.pl/news/433056/gta-6-z-pierwsza-aktualizacja-na-dlugo-przed-oficjalna-premiera-bez-tego-nie-zagracie.html",
+      "publishedAt": "2026-11-13T14:05+01:00",
+      "summary": "Machina wydawnicza Rockstar Games ruszyła z pełną mocą. Gracze odliczający dni do premiery Grand Theft Auto 6 właśnie dostali niespodziewany sygnał z serwerów.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "CD-Action",
