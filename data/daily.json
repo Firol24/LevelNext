@@ -1,17 +1,59 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T19:01+01:00",
+  "updatedAt": "2026-11-13T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Dziś zapowiedź, za 3 dni premiera. Najbardziej krytykowany God of War trafi na nową platformę z dwoma dodatkowymi trybami",
-    "summary": "God of War: Sons of Sparta zmierza na kolejną konsolę. Przy okazji twórcy przygotowali aktualizację, która może zainteresować zwłaszcza graczy szukających większego wyzwania. Informacja Dziś zapowiedź, za 3 dni premiera. Najbardziej krytykowany God of War trafi na nową platformę z dwoma dodatkowymi trybami została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-zapowiedz-za-3-dni-premiera-najbardziej-krytykowany-god-of-w/zf3232e",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532289851.jpg"
+    "title": "V z Cyberpunka 2077 zaczyna dziwnie się zachowywać? To sprytna zagrywka CD Projekt Red, by gracz poczuł się niepewnie",
+    "summary": "Jeden z fanów Cyberpunka 2077 zwrócił uwagę na niepozorny szczegół, który skrywa znacznie głębsze znaczenie. Jego spostrzeżenie potwierdził sam Paweł Sasko z CD Projekt Red. Informacja V z Cyberpunka 2077 zaczyna dziwnie się zachowywać? To sprytna zagrywka CD Projekt Red, by gracz poczuł się niepewnie została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/v-z-cyberpunka-2077-zaczyna-dziwnie-sie-zachowywac-to-sprytna-zag/z03232f",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532290475.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "V z Cyberpunka 2077 zaczyna dziwnie się zachowywać? To sprytna zagrywka CD Projekt Red, by gracz poczuł się niepewnie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/v-z-cyberpunka-2077-zaczyna-dziwnie-sie-zachowywac-to-sprytna-zag/z03232f",
+      "publishedAt": "2026-11-13T20:07+01:00",
+      "summary": "Jeden z fanów Cyberpunka 2077 zwrócił uwagę na niepozorny szczegół, który skrywa znacznie głębsze znaczenie. Jego spostrzeżenie potwierdził sam Paweł Sasko z CD Projekt Red. Informacja V z Cyberpunka 2077 zaczyna dziwnie się zachowywać? To sprytna zagrywka CD Projekt Red, by gracz poczuł się niepewnie została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532290475.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy Star Wars: Galactic Racer chwalą się wynikiem i dziękują społeczności",
+      "sourceUrl": "https://www.ppe.pl/news/433091/tworcy-star-wars-galactic-racer-chwala-sie-wynikiem-i-dziekuja-spolecznosci.html",
+      "publishedAt": "2026-11-13T19:49+01:00",
+      "summary": "Minął miesiąc od premiery Star Wars: Galactic Racer na PlayStation 5, Xboksach Series X|S oraz PC. Z tej okazji twórcy podziękowali społeczności i podzielili się pierwszymi statystykami dotyczącymi zainteresowania grą.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Weekendowe Łowy: GTA 6 w tylko 30FPS? Kolejne 3 gry PC za darmo do odebrania!",
+      "sourceUrl": "https://lowcygier.pl/filmy/weekendowe-lowy-gta-6-w-tylko-30fps-kolejne-3-gry-pc-za-darmo-do-odebrania/",
+      "publishedAt": "2026-11-13T19:45+01:00",
+      "summary": "Łowcy, przed Wami drugie w listopadzie podsumowanie ostatniego tygodnia z serii Weekendowe Łowy. Filmowe zestawienie, pozwalające zobaczyć w pigułce najciekawsze okazje minionych sidemiu dni, pojawiła się właśnie na platformie YouTube. W naszym materiale zobaczycie najgorętsze promocje, zbliżające się premiery oraz najciekawsze zestawy z tanimi grami Steam. Znajdziecie w nim także omówienie wszystkich dostępnych aktualnie darmówek, czyli najbardziej popularny segment naszych poprzednich filmów. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Weekendowe-Lowy_-GTA-6-w-tylko-30FPS_-Kolejne-3-gry-PC-za-darmo-do-odebrania_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nadchodzą nominacje do The Game Awards 2026. Kandydatów na Grę Roku poznamy już za kilka dni",
+      "sourceUrl": "https://www.ppe.pl/news/433092/nadchodza-nominacje-do-the-game-awards-2026-kandydatow-na-gre-roku-poznamy-juz-za-kilka-dni.html",
+      "publishedAt": "2026-11-13T19:34+01:00",
+      "summary": "13. edycja The Game Awards zbliża się wielkimi krokami, co potwierdza zapowiedż wejścia w wyczekiwany etap. Już niedługo poznamy nominowanych do miana gry roku i nie tylko w najsłynniejszym plebiscycie gamingowym ostatnich lat.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Forza Horizon 6 z planem rozwoju na 2027 rok. Twórcy ujawnili harmonogram nowej zawartości",
+      "sourceUrl": "https://www.ppe.pl/news/433090/forza-horizon-6-z-planem-rozwoju-na-2027-rok-tworcy-ujawnili-harmonogram-nowej-zawartosci.html",
+      "publishedAt": "2026-11-13T19:21+01:00",
+      "summary": "Playground Games przedstawiło roadmapę rozwoju Forza Horizon 6, obejmującą końcówkę 2026 roku oraz kolejne miesiące. Szczegółowo zapowiedziano przede wszystkim atrakcje przygotowane na styczeń i luty 2027.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Dziś zapowiedź, za 3 dni premiera. Najbardziej krytykowany God of War trafi na nową platformę z dwoma dodatkowymi trybami",
@@ -20,6 +62,15 @@
       "summary": "God of War: Sons of Sparta zmierza na kolejną konsolę. Przy okazji twórcy przygotowali aktualizację, która może zainteresować zwłaszcza graczy szukających większego wyzwania. Informacja Dziś zapowiedź, za 3 dni premiera. Najbardziej krytykowany God of War trafi na nową platformę z dwoma dodatkowymi trybami została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532289851.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Usługi Microsoftu dotknięte ogromną awarią. Na całym świecie nie działa m.in. Outlook, Teams oraz Microsoft 365",
+      "sourceUrl": "https://cdaction.pl/newsy/uslugi-microsoftu-dotkniete-ogromna-awaria-na-calym-swiecie-nie-dziala-m-in-outlook-teams-oraz-microsoft-365/",
+      "publishedAt": "2026-11-13T19:19+01:00",
+      "summary": "Problem podobno powoli jest naprawiany, ale ciągle nie mamy oficjalnej informacji dotyczącej tego, co go spowodowało.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/microsoft-7525.jpg"
     },
     {
       "sourceName": "PPE",
