@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T08:01+01:00",
+  "updatedAt": "2026-11-13T08:46+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ta historia wstrząsnęła Polską. Jan Holoubek powraca z oczekiwaną nowością na weekend",
-    "summary": "HBO Max przygotowało na weekend jedną z najważniejszych polskich premier tej jesieni. Na platformie zadebiutował właśnie serial, który powraca do tragicznych wydarzeń z 1976 roku. Za kamerą stanął Jan Holoubek.",
-    "sourceUrl": "https://www.ppe.pl/news/432984/ta-historia-wstrzasnela-polska-jan-holoubek-powraca-z-oczekiwana-nowoscia-na-weekend.html"
+    "title": "Apple TV ma nowy HIT! Gwiazdy Marvela i 50 twarzy Greya w wielkim thrillerze",
+    "summary": "Apple TV rozpoczyna weekend od głośnej premiery, która powinna zainteresować miłośników kryminalnych historii. Na platformie właśnie zadebiutował nowy thriller z Anthonym Mackiem i Jamiem Dornanem w rolach głównych.",
+    "sourceUrl": "https://www.ppe.pl/news/432974/apple-tv-ma-nowy-hit-gwiazdy-marvela-i-50-twarzy-greya-w-wielkim-thrillerze.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Apple TV ma nowy HIT! Gwiazdy Marvela i 50 twarzy Greya w wielkim thrillerze",
+      "sourceUrl": "https://www.ppe.pl/news/432974/apple-tv-ma-nowy-hit-gwiazdy-marvela-i-50-twarzy-greya-w-wielkim-thrillerze.html",
+      "publishedAt": "2026-11-13T08:40+01:00",
+      "summary": "Apple TV rozpoczyna weekend od głośnej premiery, która powinna zainteresować miłośników kryminalnych historii. Na platformie właśnie zadebiutował nowy thriller z Anthonym Mackiem i Jamiem Dornanem w rolach głównych.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Halo: Campaign Evolved otrzyma nowy tryb. Szefowa Xboksa potwierdza pierwsze informacje",
+      "sourceUrl": "https://www.ppe.pl/news/432963/halo-campaign-evolved-otrzyma-nowy-tryb-szefowa-xboksa-potwierdza-pierwsze-informacje.html",
+      "publishedAt": "2026-11-13T08:20+01:00",
+      "summary": "",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Ta historia wstrząsnęła Polską. Jan Holoubek powraca z oczekiwaną nowością na weekend",
@@ -88,65 +104,65 @@
   ],
   "indie": [
     {
-      "title": "Silver Pines",
-      "date": "2026-10-08",
-      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
-      "summary": "Survival-horror w formie metroidvanii. Prywatny detektyw Red Walker szuka zaginionego muzyka w na wpół opuszczonym miasteczku, gdzie ograniczone zasoby, zagadki i koszmarne stworzenia prowadzą coraz głębiej w tajemnicę.",
-      "sourceUrl": "https://store.steampowered.com/app/2333000/Silver_Pines/"
-    },
-    {
-      "title": "Pestilence",
-      "date": "2026-10-15",
+      "title": "The House Before",
+      "date": "2026-11-03",
       "platform": "PC (Steam)",
-      "summary": "Psychologiczny horror FPP o ojcu, który dwa lata po zaginięciu córki więzi podejrzanego i próbuje wydobyć z niego wyznanie. Śledztwo składa z dokumentów, nagrań i materiałów zapisanych na komputerze.",
-      "sourceUrl": "https://store.steampowered.com/app/3525940/"
+      "summary": "Eksperymentalny body horror, w którym budzimy się jako żywy dom. Wnętrze własnego ciała staje się labiryntem pełnym groteskowych istot, dawnych ran i surrealistycznych tajemnic.",
+      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/"
     },
     {
-      "title": "Dreadline Express",
-      "date": "2026-10-16",
+      "title": "ANOMALITH",
+      "date": "2026-10-28",
       "platform": "PC (Steam)",
-      "summary": "Pierwszoosobowy horror psychologiczny na pokładzie ostatniego pociągu przemierzającego postapokaliptyczny świat. Zbierane karty pomagają łączyć tropy i odkrywać sekrety niepokojących pasażerów.",
-      "sourceUrl": "https://store.steampowered.com/app/3327120/"
+      "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
+      "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/"
     },
     {
-      "title": "Athanasia",
-      "date": "2026-10-19",
-      "platform": "PC (Steam, Early Access)",
-      "summary": "Horror FPS w opuszczonym ośrodku badawczym, w którym eksperymenty obudziły prehistoryczne drapieżniki. Łączy skradanie, eksplorację, zarządzanie zasobami i rozwiązania immersive sim.",
-      "sourceUrl": "https://store.steampowered.com/app/1761910/Athanasia/"
+      "title": "Nocturnal 2",
+      "date": "2026-11-10",
+      "platform": "PC (Steam)",
+      "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
+      "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/"
     },
     {
-      "title": "Bleach & Blood",
+      "title": "Nowhere",
       "date": null,
-      "platform": "Windows, macOS, Linux (demo)",
-      "summary": "Narracyjny slasher w estetyce PS1, osadzony podczas nocnej zmiany w małomiasteczkowej pralni. Zwykłe obowiązki i rozmowy stopniowo ustępują napięciu, gdy w okolicy działa seryjny morderca. Darmowe demo trwa około 25-30 minut.",
-      "sourceUrl": "https://www.gamespress.com/en-US/BLEACH-BLOOD-FREE-PS1-STYLE-HORROR-DEMO-IS-LIVE-AHEAD-OF-OCTOBER-STEAM"
+      "platform": "PC (Steam)",
+      "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
+      "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/"
+    },
+    {
+      "title": "The Road of Dust and Sorrow",
+      "date": "2027-02-19",
+      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "summary": "Pikselowy survival horror inspirowany klasykami lat 90. W postapokaliptycznym świecie Katherine chroni córkę Avę przed zmutowanymi stworzeniami i szuka bezpiecznego schronienia. Premiera została przesunięta z grudnia na luty 2027.",
+      "sourceUrl": "https://www.gematsu.com/2026/11/the-road-of-dust-and-sorrow-delayed-to-february-19-2027"
     }
   ],
   "releases": [
     {
-      "date": "2026-11-12",
-      "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
-      "platform": "Nintendo Switch 2",
-      "status": "confirmed",
-      "note": "Edycja na Switch 2 dodaje nowe funkcje, w tym sterowanie Oatchim głosem oraz tryb Dandori Academy. Nintendo potwierdza premierę 12 listopada.",
-      "sourceUrl": "https://www.nintendo.com/my/news/article/5S711JpOsIpjyRP5hhXgpu"
-    },
-    {
       "date": "2026-11-13",
       "title": "DERELIKT",
       "platform": "PC (Steam)",
-      "status": "listed",
-      "note": "Retro FPS w klaustrofobicznym horrorze sci-fi inspirowanym estetyką PS1. Steam wyświetla 13 listopada jako termin premiery.",
+      "status": "confirmed",
+      "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
     },
     {
-      "date": "2026-11-13",
-      "title": "Family Business",
+      "date": "2026-11-16",
+      "title": "Trees Hate You",
       "platform": "PC (Steam)",
       "status": "listed",
-      "note": "Horror o nocnej zmianie w podupadłym barze wujka. Obsługa klientów stopniowo odsłania mroczną historię rodziny; Steam podaje 13 listopada jako planowany termin.",
-      "sourceUrl": "https://store.steampowered.com/app/5118760/Family_Business/"
+      "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
+      "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Witch the Showdown",
+      "platform": "PC (Steam, Early Access)",
+      "status": "confirmed",
+      "note": "Dynamiczna gra akcji łącząca precyzyjne parowanie ciosów z budowaniem talii. Wydawca Perp Games potwierdza start Early Access na PC 19 listopada.",
+      "sourceUrl": "https://perpgames.com/2026/09/16/a-familiar-date-we-hear-you-say/"
     },
     {
       "date": "2026-11-19",
@@ -157,88 +173,96 @@
       "sourceUrl": "https://www.rockstargames.com/VI"
     },
     {
+      "date": "2026-11-24",
+      "title": "Gothic 3 Classic",
+      "platform": "PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Klasyczne RPG Piranha Bytes trafia na współczesne konsole. THQ Nordic potwierdza premierę 24 listopada na PS5, Xbox Series i Switch 2.",
+      "sourceUrl": "https://thqnordic.com/news/time-for-some-classics-the-original-gothic-trilogy-is-coming-to-play-station-and-xbox-series-s-x"
+    },
+    {
       "date": "2026-11-27",
       "title": "Am I Nima",
       "platform": "PC (Steam)",
       "status": "listed",
-      "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę.",
-      "sourceUrl": "https://store.steampowered.com/app/3224600/"
+      "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
+      "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/"
     },
     {
       "date": "2026-12-01",
       "title": "Hela: of Mice & Magic",
       "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
       "status": "confirmed",
-      "note": "Przygodówka w otwartym świecie inspirowanym północną Szwecją, z samotną grą i kooperacją. Wydawca Knights Peak i studio Windup potwierdzają 1 grudnia.",
-      "sourceUrl": "https://www.microids.com/hela-of-mice-magic-will-enchant-players-worldwide-on-december-1st-2026/"
+      "note": "Przygodówka z otwartym światem inspirowanym północną Szwecją. Wydawca Knights Peak i studio Windup potwierdzają 1 grudnia; gra zaoferuje tryb solo i kooperację.",
+      "sourceUrl": "https://www.gamespress.com/pt/Hela-of-Mice-Magic-will-enchant-players-worldwide-on-December-1st-2026"
     }
   ],
   "cinema": [
     {
-      "date": "2026-11-13",
-      "title": "Dziki Koń Dziewięć",
-      "genre": "Thriller / dramat",
-      "summary": "Nowy film Martina McDonagha z Samem Rockwellem, Johnem Malkovichem i Steve'em Buscemim.",
-      "sourceUrl": "https://www.rankino.pl/premiery/dziki-kon-dziewiec"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Ebenezer Scrooge. Opowieść wigilijna",
-      "genre": "Dramat",
-      "summary": "Gotycka interpretacja opowieści Dickensa w ponurym Londynie. Za kamerą Ti West, a w obsadzie Johnny Depp i Ian McKellen.",
-      "sourceUrl": "https://www.rankino.pl/premiery/ebenezer-scrooge-opowiesc-wigilijna"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Jak obrabować bank",
-      "genre": "Akcja / thriller",
-      "summary": "Film o skoku na bank w reżyserii Davida Leitcha, twórcy „Bullet Train”. W rolach głównych Nicholas Hoult i Zoë Kravitz.",
-      "sourceUrl": "https://www.rankino.pl/premiery/jak-obrabowac-bank"
-    },
-    {
       "date": "2026-11-20",
       "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-      "genre": "Sci-fi / akcja",
-      "summary": "Prequel wraca do Panem na 50. Głodowe Igrzyska, w których młody Haymitch Abernathy trafia na arenę z dwukrotnie większą liczbą trybutów.",
+      "genre": "Akcja / sci-fi",
+      "summary": "Prequel przenosi widzów na 50. Głodowe Igrzyska, w których młody Haymitch Abernathy trafia na arenę z dwukrotnie większą liczbą trybutów.",
       "sourceUrl": "https://www.rankino.pl/premiery/igrzyska-smierci-wschod-slonca-w-dniu-dozynek"
     },
     {
       "date": "2026-11-20",
       "title": "Przemytnicy",
       "genre": "Akcja / thriller",
-      "summary": "Thriller Padraica McKinleya z Ethanem Hawke'em i Russellem Crowe'em.",
+      "summary": "Ethan Hawke i Russell Crowe w thrillerze Padraica McKinleya o przemytniczym świecie i niebezpiecznych układach.",
       "sourceUrl": "https://www.rankino.pl/premiery/przemytnicy"
     },
     {
       "date": "2026-11-20",
       "title": "Morderstwo w filharmonii",
-      "genre": "Czarna komedia / kryminał",
-      "summary": "W filharmonii lat 70. podczas koncertu ginie jeden z widzów. Detektyw Wróbel prowadzi śledztwo wśród artystów, których łączą ambicje i skrywane tajemnice.",
-      "sourceUrl": "https://www.filmweb.pl/film/Morderstwo%2Bw%2Bfilharmonii-2026-10134034"
+      "genre": "Komedia kryminalna",
+      "summary": "W filharmonii lat 70. podczas koncertu ginie jeden z widzów. Inspektor Wróbel prowadzi śledztwo wśród muzyków i publiczności.",
+      "sourceUrl": "https://www.rankino.pl/premiery/morderstwo-w-filharmonii"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Struś Pędziwiatr i zemsta Kojota",
+      "genre": "Animacja / komedia",
+      "summary": "Kojot ma dość wadliwych produktów firmy Acme i postanawia pozwać producenta. Animowana komedia w reżyserii Dave'a Greena.",
+      "sourceUrl": "https://www.rankino.pl/premiery/strus-pedziwiatr-i-zemsta-kojota"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hokus: Królestwo magii",
+      "genre": "Animacja / fantasy",
+      "summary": "Nastolatka Billie odkrywa magiczne zdolności i trafia do krainy czarownic Hexe, gdzie czekają na nią rodzinne sekrety.",
+      "sourceUrl": "https://www.rankino.pl/premiery/hokus-krolestwo-magii"
     },
     {
       "date": "2026-11-27",
       "title": "Papierowy tygrys",
-      "genre": "Thriller / dramat / kryminał",
-      "summary": "Dwaj bracia próbują ocalić rodzinę przed rosyjską mafią. Intryga wystawia ich więź na próbę i zmusza do konfrontacji z przemocą oraz korupcją.",
-      "sourceUrl": "https://www.filmweb.pl/film/Papierowy%2Btygrys-2026-10113103"
+      "genre": "Thriller / dramat",
+      "summary": "Thriller Jamesa Graya prezentowany w Cannes, z Adamem Driverem, Scarlett Johansson i Milesem Tellerem.",
+      "sourceUrl": "https://www.rankino.pl/premiery/papierowy-tygrys"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Poznaj swojego teścia",
+      "genre": "Komedia",
+      "summary": "Czwarta część serii „Poznaj mojego tatę”. Ben Stiller i Robert De Niro wracają, a do rodziny dołącza Ariana Grande.",
+      "sourceUrl": "https://www.rankino.pl/premiery/poznaj-swojego-tescia"
     },
     {
       "date": "2026-11-27",
       "title": "Violetta Villas",
-      "genre": "Biograficzny / dramat",
-      "summary": "Historia polskiej divy, której talent zaprowadził ją na sceny Paryża i Las Vegas, opowiedziana z perspektywy jej syna.",
-      "sourceUrl": "https://www.filmweb.pl/film/Violetta%2BVillas-2026-10015384"
+      "genre": "Dokument / dramat",
+      "summary": "Opowieść o drodze Violetty Villas z Lewina Kłodzkiego na sceny Paryża i Las Vegas oraz o cenie sławy.",
+      "sourceUrl": "https://www.rankino.pl/premiery/violetta-villas"
     }
   ],
   "film": {
-    "title": "Rytuał",
-    "year": "2017",
-    "platform": "Netflix",
-    "summary": "Czwórka przyjaciół wyrusza do szwedzkich lasów, by uczcić pamięć zmarłego kolegi. Po zejściu ze szlaku gubią orientację, a w dziczy zaczyna ich prześladować coś nieznanego. Nastrojowy survival horror oparty na leśnej izolacji i narastającym lęku.",
-    "availabilityNote": "JustWatch Polska zaktualizował dane 10 listopada 2026 r. i wskazuje film w streamingu w ramach abonamentu Netflix w Polsce.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/rytual"
+    "title": "Ghostland",
+    "year": "2018",
+    "platform": "Prime Video",
+    "summary": "Po odziedziczeniu odosobnionego domu matka i jej dwie córki przeżywają brutalny napad. Wydarzenia tamtej nocy na długo odciskają się na rodzinie. Gęsty horror psychologiczny oparty na klaustrofobii, traumie i narastającej paranoi.",
+    "availabilityNote": "JustWatch Polska sprawdził dostępność 7 listopada 2026 r. i wskazuje film w abonamencie Amazon Prime Video (Abo HD) w Polsce. To oferta subskrypcyjna, nie wypożyczenie ani zakup.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/ghostland"
   },
-  "editorialUpdatedAt": "2026-11-12",
-  "editorialHash": "2becf07a2c238b0aec61113022035ee547268d2c1b54a33e0d14ad2f95d70a06"
+  "editorialUpdatedAt": "2026-11-13",
+  "editorialHash": "24251939a05937e5b64a256b5def6d67f2911685f4d2dd3429f092a243391056"
 }
