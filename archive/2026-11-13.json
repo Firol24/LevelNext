@@ -1,17 +1,87 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T10:02+01:00",
+  "updatedAt": "2026-11-13T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Szef wydawcy GTA 6 wierzy, że gry w pudełkach przetrwają, ale jako rarytas, i zrzuca decyzję na Rockstara",
-    "summary": "Wydawca GTA 6 potwierdza dominację dystrybucji cyfrowej, ale wciąż widzi przyszłość dla fizycznych nośników. Informacja Szef wydawcy GTA 6 wierzy, że gry w pudełkach przetrwają, ale jako rarytas, i zrzuca decyzję na Rockstara została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/szef-wydawcy-gta-6-wierzy-ze-gry-w-pudelkach-przetrwaja-ale-jako/zc3230d",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532258122.jpg"
+    "title": "Pracownicy NVIDII chcą powrotu Jensena Huanga, tymczasem pojawiły się doniesienia o kolejnym romansie byłego CEO",
+    "summary": "Pracownicy NVIDII domagają się powrotu Jensena Huanga na stanowisko CEO. Pojawiły się petycje wzywające do przywrócenia byłego szefa firmy, ale w tle pojawił się kolejny skandal związany nie tylko z romansem. Informacja Pracownicy NVIDII chcą powrotu Jensena Huanga, tymczasem pojawiły się doniesienia o kolejnym romansie byłego CEO została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/pracownicy-nvidii-chca-powrotu-jensena-huanga-tymczasem-pojawily/za32311",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532262616.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Pracownicy NVIDII chcą powrotu Jensena Huanga, tymczasem pojawiły się doniesienia o kolejnym romansie byłego CEO",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pracownicy-nvidii-chca-powrotu-jensena-huanga-tymczasem-pojawily/za32311",
+      "publishedAt": "2026-11-13T11:50+01:00",
+      "summary": "Pracownicy NVIDII domagają się powrotu Jensena Huanga na stanowisko CEO. Pojawiły się petycje wzywające do przywrócenia byłego szefa firmy, ale w tle pojawił się kolejny skandal związany nie tylko z romansem. Informacja Pracownicy NVIDII chcą powrotu Jensena Huanga, tymczasem pojawiły się doniesienia o kolejnym romansie byłego CEO została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532262616.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Chyba wiemy już jaka kolejna rasa trafi do WoW Forever. To coś na co fani tego MMO czekali od dawna",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/chyba-wiemy-juz-jaka-kolejna-rasa-trafi-do-wow-forever-to-cos-na/zc32313",
+      "publishedAt": "2026-11-13T11:46+01:00",
+      "summary": "WoW Forever na pewno będzie rozwijany latami. Już teraz pojawiają się pierwsze wskazówki, czego możemy spodziewać się w przyszłości. Informacja Chyba wiemy już jaka kolejna rasa trafi do WoW Forever. To coś na co fani tego MMO czekali od dawna została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532262679.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Jakoś udało nam się to zepsuć”. Twórca PoE 2 mówi o unikatowych przedmiotach, kosztach resetu i zagadkowych śmierciach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jakos-udalo-nam-sie-to-zepsuc-tworca-poe-2-mowi-o-unikatowych-prz/z932310",
+      "publishedAt": "2026-11-13T11:45+01:00",
+      "summary": "Ekran podsumowania śmierci pozwoli graczom PoE 2 zrozumieć przyczyny porażek, a twórcom poprawić balans gry, która zadebiutuje w wersji f2p już 11 grudnia. Twórcy poruszyli również temat przebudowy unikatowych przedmiotów oraz kosztu resetu postaci. Informacja „Jakoś udało nam się to zepsuć”. Twórca PoE 2 mówi o unikatowych przedmiotach, kosztach resetu i zagadkowych śmierciach została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532261895.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Jak w naszym PKS-ie”. 14 lat po premierze ETS2 bije ważny rekord dzięki autokarom",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jak-w-naszym-pks-ie-14-lat-po-premierze-ets2-bije-wazny-rekord-dz/ze3230f",
+      "publishedAt": "2026-11-13T11:18+01:00",
+      "summary": "Fanom Euro Truck Simulator 2 bardzo spodobał się dodatek Coaches. Pozwoliło to 14-letniej grze ustanowić nowy rekord aktywności na Steamie. Informacja „Jak w naszym PKS-ie”. 14 lat po premierze ETS2 bije ważny rekord dzięki autokarom została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532261096.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Deweloperzy tworzą dla PS6 i Xbox Helix oraz korzystają masowo z narzędzi AI. Nowy raport z branży gier",
+      "sourceUrl": "https://www.ppe.pl/news/433042/deweloperzy-tworza-dla-ps6-i-xbox-helix-oraz-korzystaja-masowo-z-narzedzi-ai-nowy-raport-z-branzy-gier.html",
+      "publishedAt": "2026-11-13T10:57+01:00",
+      "summary": "W tegorocznym raporcie State of the Game Industry, przygotowanym z okazji GDC, pojawiło się kilka ważnych informacji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Donald Trump \"wybrał\" już nowego szefa firmy Nvidia. Wybór was zaskoczy",
+      "sourceUrl": "https://www.ppe.pl/news/433030/donald-trump-wybral-juz-nowego-szefa-firmy-nvidia-wybor-was-zaskoczy.html",
+      "publishedAt": "2026-11-13T10:53+01:00",
+      "summary": "Karuzela wokół Nvidii nie zwalnia ani na moment. Po tym, jak dotychczasowy szef firmy, Jensen Huang, wyleciał ze stanowiska w atmosferze potężnego skandalu obyczajowego, fotel prezesa jednego z największych technologicznych gigantów na świecie p...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ponad 130 000 zgłoszeń problemów z Outlookiem. Awaria dotknęła użytkowników na całym świecie, a Microsoft ma problemy z jej naprawą",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-130-000-zgloszen-problemow-z-outlookiem-awaria-dotknela-uzy/zd3230e",
+      "publishedAt": "2026-11-13T10:50+01:00",
+      "summary": "Od kilkunastu godzin nie działają kluczowe usługi Microsoftu. Firmy i agencje rządowe nie mogą poprawnie funkcjonować, a w usuwaniu usterki osiągnięto „marginalny sukces”. Informacja Ponad 130 000 zgłoszeń problemów z Outlookiem. Awaria dotknęła użytkowników na całym świecie, a Microsoft ma problemy z jej naprawą została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532259149.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pad Xbox Series Heart Breaker Edycja Specjalna za 257 zł w Amazon PL. Zgarnij bon 20 zł na kolejne zakupy!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pad-xbox-series-heart-breaker-edycja-specjalna-za-257-zl-w-amazon-pl-zgarnij-bon-20-zl-na-kolejne-zakupy/",
+      "publishedAt": "2026-11-13T10:34+01:00",
+      "summary": "Specjalna edycja kontrolera bezprzewodowego Xbox Series – Heart Breaker, pojawiła się w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Pad w akcentach różu, fioletu i koloru niebieskiego, kosztuje aktualnie 256,97 zł. Dodatkowo, zakup uprawnia Was do otrzymania bonu na kwotę 20 zł do wykorzystania przy kolejnych zakupach! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/heart-breaker-xbox-series-miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Szef wydawcy GTA 6 wierzy, że gry w pudełkach przetrwają, ale jako rarytas, i zrzuca decyzję na Rockstara",
@@ -22,6 +92,23 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532258122.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Te firmy oferują chętnym pracownikom wolne na premierę GTA 6. „Rozrywka nie jest przeciwieństwem pracy”",
+      "sourceUrl": "https://cdaction.pl/newsy/te-firmy-oferuja-chetnym-pracownikom-wolne-na-premiere-gta-6-rozrywka-nie-jest-przeciwienstwem-pracy/",
+      "publishedAt": "2026-11-13T10:30+01:00",
+      "summary": "Również w innych firmach działy HR obserwują przypływ wniosków o urlop.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Jason_Duval_12-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze pokłócili się przez nową reklamę Stellar Blade. Jest ona znakomita",
+      "sourceUrl": "https://www.ppe.pl/news/433029/gracze-poklocili-sie-przez-nowa-reklame-stellar-blade-jest-ona-znakomita.html",
+      "publishedAt": "2026-11-13T10:24+01:00",
+      "summary": "Zaledwie chwilę temu cieszyliśmy się z premiery Stellar Blade na nowej konsoli Nintendo Switch 2, a w sieci już wybuchła kolejna, dość nietypowa drama z nią związana.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "59 lat później do kin trafi nowa wersja kultowego thrillera o napadzie. Zobacz zwiastun remake’u",
       "sourceUrl": "https://www.gry-online.pl/newsroom/59-lat-pozniej-do-kin-trafi-nowa-wersja-kultowego-thrillera-o-nap/zb3230c",
@@ -29,6 +116,23 @@
       "summary": "Wkrótce do kin trafi remake kultowego thrillera. Jego przedsmak oferuje najnowszy zwiastun, w którym można zobaczyć Michaela B. Jordana, Adrię Arjonę i Kennetha Branagha. Informacja 59 lat później do kin trafi nowa wersja kultowego thrillera o napadzie. Zobacz zwiastun remake’u została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532257603.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zainstalujcie to jak najszybciej. Sterowniki AMD faktycznie zużywają błyskawicznie SSD",
+      "sourceUrl": "https://www.ppe.pl/news/433035/zainstalujcie-to-jak-najszybciej-sterowniki-amd-faktycznie-zuzywaja-blyskawicznie-ssd.html",
+      "publishedAt": "2026-11-13T10:18+01:00",
+      "summary": "Żyjemy w czasach, gdy dyski SSD stały się absurdalnie drogie. Dlatego wpadka AMD jest tym bardziej dotkliwa.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Świetna oferta na Xbox Game Pass Essential w Eneba! Trzy miesiące abonamentu za 23 zł",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/swietna-oferta-na-xbox-game-pass-essential-w-eneba-trzy-miesiace-abonamentu-za-23-zl/",
+      "publishedAt": "2026-11-13T10:07+01:00",
+      "summary": "Jeśli od abonamentu giganta z Redmond nie wymagacie zbyt wiele, tylko podstawowych funkcji jak multiplayer, Xbox Play Anywhere i trochę gier do okazjonalnego grania, skorzystajcie z oferty sklepu Eneba. Możecie bowiem za nieco ponad 23 zł zaopatrzyć się w aż 3 miesiące dostępu do usługi. Dodatkowo, kupując miesiąc Game Pass Ultimate za 64 zł, otrzymacie łącznie około 70 dni wyższego wariantu subskrypcji, zgodnie z aktualnymi przelicznikami. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/game-pass-essential-3-miesiace-3b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -55,6 +159,15 @@
       "publishedAt": "2026-11-13T10:02+01:00",
       "summary": "W sklepie Media Expert nabędziemy naprawdę konkretnie przeceniony smartfon iPhone Air.",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Produkcja Wolfensteina 3 oficjalnie ruszyła! Blazkowicz ponownie zmierzy się z nazistami",
+      "sourceUrl": "https://cdaction.pl/newsy/produkcja-wolfensteina-3-oficjalnie-ruszyla-blazkowicz-ponownie-zmierzy-sie-z-nazistami/",
+      "publishedAt": "2026-11-13T10:00+01:00",
+      "summary": "O Wolfensteinie 3 wiedzieliśmy już wcześniej dzięki plotkom, teraz zaś twórcy oficjalnie zapowiedzieli tytuł.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Wolfenstein.jpg"
     },
     {
       "sourceName": "PPE",
