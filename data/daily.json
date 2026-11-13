@@ -1,16 +1,138 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T09:01+01:00",
+  "updatedAt": "2026-11-13T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 bez pudełka z płytą to początek dramatu graczy. Wydawca wyjaśnia",
-    "summary": "Premiera nowej odsłony Grand Theft Auto zbliża się wielkimi krokami, bijąc przy tym wszelkie możliwe rekordy sprzedaży przedpremierowej. Jednak ten historyczny debiut, zaplanowany na 19 listopada, przejdzie do historii z jeszcze jednego, dość ko...",
-    "sourceUrl": "https://www.ppe.pl/news/433026/gta-6-bez-pudelka-z-plyta-to-poczatek-dramatu-graczy-wydawca-wyjasnia.html"
+    "title": "Szef wydawcy GTA 6 wierzy, że gry w pudełkach przetrwają, ale jako rarytas, i zrzuca decyzję na Rockstara",
+    "summary": "Wydawca GTA 6 potwierdza dominację dystrybucji cyfrowej, ale wciąż widzi przyszłość dla fizycznych nośników. Informacja Szef wydawcy GTA 6 wierzy, że gry w pudełkach przetrwają, ale jako rarytas, i zrzuca decyzję na Rockstara została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/szef-wydawcy-gta-6-wierzy-ze-gry-w-pudelkach-przetrwaja-ale-jako/zc3230d",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532258122.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Szef wydawcy GTA 6 wierzy, że gry w pudełkach przetrwają, ale jako rarytas, i zrzuca decyzję na Rockstara",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/szef-wydawcy-gta-6-wierzy-ze-gry-w-pudelkach-przetrwaja-ale-jako/zc3230d",
+      "publishedAt": "2026-11-13T10:30+01:00",
+      "summary": "Wydawca GTA 6 potwierdza dominację dystrybucji cyfrowej, ale wciąż widzi przyszłość dla fizycznych nośników. Informacja Szef wydawcy GTA 6 wierzy, że gry w pudełkach przetrwają, ale jako rarytas, i zrzuca decyzję na Rockstara została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532258122.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "59 lat później do kin trafi nowa wersja kultowego thrillera o napadzie. Zobacz zwiastun remake’u",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/59-lat-pozniej-do-kin-trafi-nowa-wersja-kultowego-thrillera-o-nap/zb3230c",
+      "publishedAt": "2026-11-13T10:21+01:00",
+      "summary": "Wkrótce do kin trafi remake kultowego thrillera. Jego przedsmak oferuje najnowszy zwiastun, w którym można zobaczyć Michaela B. Jordana, Adrię Arjonę i Kennetha Branagha. Informacja 59 lat później do kin trafi nowa wersja kultowego thrillera o napadzie. Zobacz zwiastun remake’u została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532257603.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Startup rzuca wyzwanie DLSS Nvidii. Sprawdziliśmy: jego generator klatek działa nawet na GTX 1660 Super",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/startup-rzuca-wyzwanie-dlss-nividii-sprawdzilismy-jego-generator/za3230b",
+      "publishedAt": "2026-11-13T10:04+01:00",
+      "summary": "Mała firma Apex Compute twierdzi, że jej generowanie klatek jest szybsze od rozwiązania Nvidii i działa na kartach sprzed siedmiu lat. Poza tym używa nawet do 60% mniej pamięci VRAM. Sprawdzaliśmy - to faktycznie działa. Informacja Startup rzuca wyzwanie DLSS Nvidii. Sprawdziliśmy: jego generator klatek działa nawet na GTX 1660 Super została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532256671.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wolfenstein 3 i nowa gra twórców Dooma są w produkcji. Obchody 25-lecia Xboxa przyniosły masę zapowiedzi, ale jedno ogłoszenie mocno zdziwiło graczy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wolfenstein-3-i-nowa-gra-tworcow-dooma-sa-w-produkcji-obchody-25/z93230a",
+      "publishedAt": "2026-11-13T10:04+01:00",
+      "summary": "Wolfenstein 3 oraz nowa gra od id Software są oficjalnie w produkcji. Microsoft przygotował też kilka atrakcji z okazji 25-lecia marki Xbox. Informacja Wolfenstein 3 i nowa gra twórców Dooma są w produkcji. Obchody 25-lecia Xboxa przyniosły masę zapowiedzi, ale jedno ogłoszenie mocno zdziwiło graczy została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532256589.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "\"Nie zawiedziemy Was!\" Polacy składają obietnicę w związku z Wiedźminem 4",
+      "sourceUrl": "https://www.ppe.pl/news/433028/nie-zawiedziemy-was-polacy-skladaja-obietnice-w-zwiazku-z-wiedzminem-4.html",
+      "publishedAt": "2026-11-13T09:58+01:00",
+      "summary": "Oczekiwania wobec czwartej odsłony Wiedźmina są wręcz kosmiczne. Po tym, jak Dziki Gon zawiesił poprzeczkę na absolutnie najwyższym poziomie, stworzenie godnej kontynuacji to dla twórców potężne wyzwanie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zelda Ocarina of Time Remake z dodatkami fizycznymi od 217 zł na Nintendo Switch 2!",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/433038/zelda-ocarina-of-time-remake-z-dodatkami-fizycznymi-od-217-zl-na-nintendo-switch-2.html",
+      "publishedAt": "2026-11-13T09:52+01:00",
+      "summary": "Najważniejsza premiera jesieni dla fanów konsoli Nintendo Switch 2 już się odbyła.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 za 319 zł lub Zelda Ocarina of Time Remake za 217 zł. Nowa promocja!",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/433037/gta-6-za-319-zl-lub-zelda-ocarina-of-time-remake-za-217-zl-nowa-promocja.html",
+      "publishedAt": "2026-11-13T09:50+01:00",
+      "summary": "Zauważyliśmy nową ofertę promocyjną na RTV Euro AGD. Kupując grę za minimum 100 złotych przez BLIK, otrzymujesz potem zwrot w wysokości 50 zł.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Laptop Predator Helios 18 MiniLED 192GB RAM RTX 5080 za 15499 zł (4500 zł taniej!) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/laptop-predator-helios-18-miniled-192gb-ram-rtx-5080-za-15499-zl-4500-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-13T09:47+01:00",
+      "summary": "Potężna maszyna, będąca w zasadzie przenośną stacją roboczą, pojawiła się w promocyjnej cenie w Media Expert. Sklep przecenił bowiem Predator Helios 18, czyli 18-calowego laptopa wyposażonego w matrycę MiniLED o częstotliwości odświeżania 250 Hz, w konfiguracji z bagatela 192GB RAM DDR5, procesor Intel Core Ultra 9-275HX oraz kartę graficzną Nvidia GeForce RTX 5080. Urządzenie wyceniono na 15499 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/predator-helios-18-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Laptop HyperX z ekranem OLED 165 Hz, RTX 5070, i7-14650HX z rabatem 2000 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/433034/laptop-hyperx-z-ekranem-oled-165-hz-rtx-5070-i7-14650hx-z-rabatem-2000-zl.html",
+      "publishedAt": "2026-11-13T09:35+01:00",
+      "summary": "W sklepie X-Kom taniej o dwa tysiące złotych nabędziemy bardzo dobry laptop gamingowy firmy HyperX.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Taniej nie kupisz! The Blood of Dawnwalker na PS5 z mapą, steelbokiem za 183 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/428662/taniej-nie-kupisz-the-blood-of-dawnwalker-na-ps5-z-mapa-steelbokiem-za-219-zl-lub-239-zl-na-xsx.html",
+      "publishedAt": "2026-11-13T09:33+01:00",
+      "summary": "Wydanie premierowe The Blood of Dawnwalker jest sprzedawane po najlepszej cenie rynkowej!",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Arnold Schwarzenegger wraca do swoich kultowych ról! Trwają prace nad kontynuacjami „Predatora”, „Komando” i „Conana”",
+      "sourceUrl": "https://cdaction.pl/kultura/arnold-schwarzenegger-wraca-do-swoich-kultowych-rol-trwaja-prace-nad-kontynuacjami-predatora-komando-i-conana/",
+      "publishedAt": "2026-11-13T09:30+01:00",
+      "summary": "79-letni aktor znów chwyci za broń?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Schwarzenegger.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe The Blood of Dawnwalker Launch Edition na PS5 + Steelbook za 183,26 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-the-blood-of-dawnwalker-launch-edition-na-ps5-steelbook-za-18326-zl-na-allegro/",
+      "publishedAt": "2026-11-13T09:23+01:00",
+      "summary": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 183,26 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Promocja-na-The-Blood-of-Dawnwalker-ps5_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Szef Epica nie może pogodzić się z upadkiem prezesa Nvidii. W całej sprawie widzi spisek i szuka winowajców",
+      "sourceUrl": "https://cdaction.pl/newsy/szef-epica-nie-moze-pogodzic-sie-z-upadkiem-prezesa-nvidii-w-calej-sprawie-widzi-spisek-i-szuka-winowajcow/",
+      "publishedAt": "2026-11-13T09:08+01:00",
+      "summary": "Ktoś tu się lekko puścił poręczy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/epic-games123.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Apple iPhone Air 256GB za 3495 zł w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/apple-iphone-air-256gb-za-3495-zl-w-media-expert/",
+      "publishedAt": "2026-11-13T09:08+01:00",
+      "summary": "Korzystając z kodu zniżkowego, macie możliwość kupić taniej Apple iPhone Air w sklepie Media Expert. Ultracienki smartfon z logo nadgryzionego jabłka, wyposażony w 256GB pamięci wewnętrznej, ekran o przekątnej 6.5 cala oraz procesor Apple A19 Pro, kosztuje 3495 złotych. Oferta dotyczy modeli w kolorze gwiezdnej czerni i błękitnym. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/02/Apple-iPhone-Air-256GB-Gwiezdna-czern-promocja_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 bez pudełka z płytą to początek dramatu graczy. Wydawca wyjaśnia",
@@ -83,6 +205,15 @@
       "publishedAt": "2026-11-13T06:40+01:00",
       "summary": "Już kilka tygodni temu informowaliśmy, że MachineGames pracuje nad kolejną odsłoną serii Wolfenstein, a teraz otrzymaliśmy oficjalne potwierdzenie! Microsoft wykorzystał obchody 25-lecia Xboksa, by zapowiedzieć powrót jednej z najważniejszych...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Szefowa Xboxa prezentuje baśniowe Fable i mroczną wizję, w której AI robi rzeczy „wymagające zaangażowania całych narodów”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/szefowa-xboxa-prezentuje-basniowe-fable-i-mroczna-wizje-w-ktorej/z132309",
+      "publishedAt": "2026-11-13T06:30+01:00",
+      "summary": "Asha Sharma zademonstrowała nowy gameplay z wyczekiwanego Fable. Przy okazji podzieliła się wizją przyszłości branży gier, która może wzbudzić niemałe kontrowersje. Informacja Szefowa Xboxa prezentuje baśniowe Fable i mroczną wizję, w której AI robi rzeczy „wymagające zaangażowania całych narodów” została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532222433.jpg"
     },
     {
       "sourceName": "PPE",
