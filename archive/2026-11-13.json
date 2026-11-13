@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T06:01+01:00",
+  "updatedAt": "2026-11-13T07:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "W sierpniu w kinach, a już na HBO Max! Gwiazdorskie science fiction dostępne w streamingu",
-    "summary": "Warner Bros. błyskawicznie przeniósł do streamingu swoje najnowsze widowisko science fiction. Film z Anne Hathaway i Ewanem McGregorem jeszcze w sierpniu można było oglądać w kinach, a od dzisiaj produkcja jest dostępna dla abonentów HBO Max.",
-    "sourceUrl": "https://www.ppe.pl/news/432973/w-sierpniu-w-kinach-a-juz-na-hbo-max-gwiazdorskie-science-fiction-dostepne-w-streamingu.html"
+    "title": "Wolfenstein 3 OFICJALNIE w produkcji. Znamy pierwsze szczegóły",
+    "summary": "Już kilka tygodni temu informowaliśmy, że MachineGames pracuje nad kolejną odsłoną serii Wolfenstein, a teraz otrzymaliśmy oficjalne potwierdzenie! Microsoft wykorzystał obchody 25-lecia Xboksa, by zapowiedzieć powrót jednej z najważniejszych...",
+    "sourceUrl": "https://www.ppe.pl/news/432981/wolfenstein-3-oficjalnie-w-produkcji-znamy-pierwsze-szczegoly.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Wolfenstein 3 OFICJALNIE w produkcji. Znamy pierwsze szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/432981/wolfenstein-3-oficjalnie-w-produkcji-znamy-pierwsze-szczegoly.html",
+      "publishedAt": "2026-11-13T06:40+01:00",
+      "summary": "Już kilka tygodni temu informowaliśmy, że MachineGames pracuje nad kolejną odsłoną serii Wolfenstein, a teraz otrzymaliśmy oficjalne potwierdzenie! Microsoft wykorzystał obchody 25-lecia Xboksa, by zapowiedzieć powrót jednej z najważniejszych...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Za dużo męskiej nagości w GTA 6?! Gra niemal została zakazana",
+      "sourceUrl": "https://www.ppe.pl/news/432960/za-duzo-meskiej-nagosci-w-gta-6-gra-niemal-zostala-zakazana.html",
+      "publishedAt": "2026-11-13T06:17+01:00",
+      "summary": "GTA 6 jeszcze nie zadebiutowało, a już wywołuje ogromne kontrowersje na całym świecie. Rockstar Games od lat słynie z przekraczania granic, ale najnowsza odsłona Grand Theft Auto najwyraźniej poszła o krok dalej.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "W sierpniu w kinach, a już na HBO Max! Gwiazdorskie science fiction dostępne w streamingu",
