@@ -1,16 +1,33 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T08:46+01:00",
+  "updatedAt": "2026-11-13T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Apple TV ma nowy HIT! Gwiazdy Marvela i 50 twarzy Greya w wielkim thrillerze",
-    "summary": "Apple TV rozpoczyna weekend od głośnej premiery, która powinna zainteresować miłośników kryminalnych historii. Na platformie właśnie zadebiutował nowy thriller z Anthonym Mackiem i Jamiem Dornanem w rolach głównych.",
-    "sourceUrl": "https://www.ppe.pl/news/432974/apple-tv-ma-nowy-hit-gwiazdy-marvela-i-50-twarzy-greya-w-wielkim-thrillerze.html"
+    "title": "GTA 6 bez pudełka z płytą to początek dramatu graczy. Wydawca wyjaśnia",
+    "summary": "Premiera nowej odsłony Grand Theft Auto zbliża się wielkimi krokami, bijąc przy tym wszelkie możliwe rekordy sprzedaży przedpremierowej. Jednak ten historyczny debiut, zaplanowany na 19 listopada, przejdzie do historii z jeszcze jednego, dość ko...",
+    "sourceUrl": "https://www.ppe.pl/news/433026/gta-6-bez-pudelka-z-plyta-to-poczatek-dramatu-graczy-wydawca-wyjasnia.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 bez pudełka z płytą to początek dramatu graczy. Wydawca wyjaśnia",
+      "sourceUrl": "https://www.ppe.pl/news/433026/gta-6-bez-pudelka-z-plyta-to-poczatek-dramatu-graczy-wydawca-wyjasnia.html",
+      "publishedAt": "2026-11-13T08:59+01:00",
+      "summary": "Premiera nowej odsłony Grand Theft Auto zbliża się wielkimi krokami, bijąc przy tym wszelkie możliwe rekordy sprzedaży przedpremierowej. Jednak ten historyczny debiut, zaplanowany na 19 listopada, przejdzie do historii z jeszcze jednego, dość ko...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Klawiatura bezprzewodowa Logitech MX Keys Mini za 293,90 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/klawiatura-bezprzewodowa-logitech-mx-keys-mini-za-29390-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-13T08:52+01:00",
+      "summary": "Dzięki trwającej w polskim oddziale sklepu Amazon akcji, w której kupując produkt za min. 100 zł otrzymujecie 20 zł na kolejne zakupy, możecie kupić świetną klawiaturę Logitech MX Keys Mini taniej i jeszcze zgarnąć wspomniany bon. Model z niskoprofilową klawiaturą typu scissor-switch, kosztuje 293,90 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/logitech-mx-keys-mini-2b-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Apple TV ma nowy HIT! Gwiazdy Marvela i 50 twarzy Greya w wielkim thrillerze",
