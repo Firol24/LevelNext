@@ -1,0 +1,188 @@
+{
+  "status": "rss-only",
+  "date": "2026-11-14",
+  "updatedAt": "2026-11-14T00:01+01:00",
+  "headline": "Wiadomości ze świata gier",
+  "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
+  "lead": {
+    "category": "PROMOCJE",
+    "title": "Zagraj w Sunderfolk za darmo na konsolach Xbox. Cztery nowe gry we Free Play Days!",
+    "summary": "W ramach drugiej w tym miesięcy odsłony Xbox Free Play Days, posiadacze konsol Microsoftu mogą przetestować kolejne cztery produkcje na Xbox One i Xbox Series X|S. Przez najbliższy weekend możecie ograć m.in.: Sunderfolk za darmo. Oferta promocyjna obowiązuje do 15 listopada, do godziny 8:59. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/darmowe/zagraj-w-sunderfolk-za-darmo-na-konsolach-xbox-cztery-nowe-gry-we-free-play-days/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zagraj-w-Sunderfolk-za-darmo-na-konsolach-Xbox.-Cztery-nowe-gry-we-Free-Play-Days_miniaturka-224x224.jpg"
+  },
+  "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zagraj w Sunderfolk za darmo na konsolach Xbox. Cztery nowe gry we Free Play Days!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/zagraj-w-sunderfolk-za-darmo-na-konsolach-xbox-cztery-nowe-gry-we-free-play-days/",
+      "publishedAt": "2026-11-13T23:33+01:00",
+      "summary": "W ramach drugiej w tym miesięcy odsłony Xbox Free Play Days, posiadacze konsol Microsoftu mogą przetestować kolejne cztery produkcje na Xbox One i Xbox Series X|S. Przez najbliższy weekend możecie ograć m.in.: Sunderfolk za darmo. Oferta promocyjna obowiązuje do 15 listopada, do godziny 8:59. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zagraj-w-Sunderfolk-za-darmo-na-konsolach-Xbox.-Cztery-nowe-gry-we-Free-Play-Days_miniaturka-224x224.jpg"
+    }
+  ],
+  "indie": [
+    {
+      "title": "The House Before",
+      "date": "2026-11-03",
+      "platform": "PC (Steam)",
+      "summary": "Eksperymentalny body horror, w którym budzimy się jako żywy dom. Wnętrze własnego ciała staje się labiryntem pełnym groteskowych istot, dawnych ran i surrealistycznych tajemnic.",
+      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/"
+    },
+    {
+      "title": "ANOMALITH",
+      "date": "2026-10-28",
+      "platform": "PC (Steam)",
+      "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
+      "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/"
+    },
+    {
+      "title": "Nocturnal 2",
+      "date": "2026-11-10",
+      "platform": "PC (Steam)",
+      "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
+      "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/"
+    },
+    {
+      "title": "Nowhere",
+      "date": null,
+      "platform": "PC (Steam)",
+      "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
+      "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/"
+    },
+    {
+      "title": "The Road of Dust and Sorrow",
+      "date": "2027-02-19",
+      "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
+      "summary": "Pikselowy survival horror inspirowany klasykami lat 90. W postapokaliptycznym świecie Katherine chroni córkę Avę przed zmutowanymi stworzeniami i szuka bezpiecznego schronienia. Premiera została przesunięta z grudnia na luty 2027.",
+      "sourceUrl": "https://www.gematsu.com/2026/11/the-road-of-dust-and-sorrow-delayed-to-february-19-2027"
+    }
+  ],
+  "releases": [
+    {
+      "date": "2026-11-13",
+      "title": "DERELIKT",
+      "platform": "PC (Steam)",
+      "status": "confirmed",
+      "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Trees Hate You",
+      "platform": "PC (Steam)",
+      "status": "listed",
+      "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
+      "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Witch the Showdown",
+      "platform": "PC (Steam, Early Access)",
+      "status": "confirmed",
+      "note": "Dynamiczna gra akcji łącząca precyzyjne parowanie ciosów z budowaniem talii. Wydawca Perp Games potwierdza start Early Access na PC 19 listopada.",
+      "sourceUrl": "https://perpgames.com/2026/09/16/a-familiar-date-we-hear-you-say/"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Grand Theft Auto VI",
+      "platform": "PlayStation 5, Xbox Series X|S",
+      "status": "confirmed",
+      "note": "Rockstar potwierdza premierę 19 listopada na PS5 i Xbox Series X|S. Akcja przenosi serię do fikcyjnego stanu Leonida.",
+      "sourceUrl": "https://www.rockstargames.com/VI"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Gothic 3 Classic",
+      "platform": "PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Klasyczne RPG Piranha Bytes trafia na współczesne konsole. THQ Nordic potwierdza premierę 24 listopada na PS5, Xbox Series i Switch 2.",
+      "sourceUrl": "https://thqnordic.com/news/time-for-some-classics-the-original-gothic-trilogy-is-coming-to-play-station-and-xbox-series-s-x"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Am I Nima",
+      "platform": "PC (Steam)",
+      "status": "listed",
+      "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
+      "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Hela: of Mice & Magic",
+      "platform": "PC, PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
+      "status": "confirmed",
+      "note": "Przygodówka z otwartym światem inspirowanym północną Szwecją. Wydawca Knights Peak i studio Windup potwierdzają 1 grudnia; gra zaoferuje tryb solo i kooperację.",
+      "sourceUrl": "https://www.gamespress.com/pt/Hela-of-Mice-Magic-will-enchant-players-worldwide-on-December-1st-2026"
+    }
+  ],
+  "cinema": [
+    {
+      "date": "2026-11-20",
+      "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+      "genre": "Akcja / sci-fi",
+      "summary": "Prequel przenosi widzów na 50. Głodowe Igrzyska, w których młody Haymitch Abernathy trafia na arenę z dwukrotnie większą liczbą trybutów.",
+      "sourceUrl": "https://www.rankino.pl/premiery/igrzyska-smierci-wschod-slonca-w-dniu-dozynek"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Przemytnicy",
+      "genre": "Akcja / thriller",
+      "summary": "Ethan Hawke i Russell Crowe w thrillerze Padraica McKinleya o przemytniczym świecie i niebezpiecznych układach.",
+      "sourceUrl": "https://www.rankino.pl/premiery/przemytnicy"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Morderstwo w filharmonii",
+      "genre": "Komedia kryminalna",
+      "summary": "W filharmonii lat 70. podczas koncertu ginie jeden z widzów. Inspektor Wróbel prowadzi śledztwo wśród muzyków i publiczności.",
+      "sourceUrl": "https://www.rankino.pl/premiery/morderstwo-w-filharmonii"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Struś Pędziwiatr i zemsta Kojota",
+      "genre": "Animacja / komedia",
+      "summary": "Kojot ma dość wadliwych produktów firmy Acme i postanawia pozwać producenta. Animowana komedia w reżyserii Dave'a Greena.",
+      "sourceUrl": "https://www.rankino.pl/premiery/strus-pedziwiatr-i-zemsta-kojota"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Hokus: Królestwo magii",
+      "genre": "Animacja / fantasy",
+      "summary": "Nastolatka Billie odkrywa magiczne zdolności i trafia do krainy czarownic Hexe, gdzie czekają na nią rodzinne sekrety.",
+      "sourceUrl": "https://www.rankino.pl/premiery/hokus-krolestwo-magii"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Papierowy tygrys",
+      "genre": "Thriller / dramat",
+      "summary": "Thriller Jamesa Graya prezentowany w Cannes, z Adamem Driverem, Scarlett Johansson i Milesem Tellerem.",
+      "sourceUrl": "https://www.rankino.pl/premiery/papierowy-tygrys"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Poznaj swojego teścia",
+      "genre": "Komedia",
+      "summary": "Czwarta część serii „Poznaj mojego tatę”. Ben Stiller i Robert De Niro wracają, a do rodziny dołącza Ariana Grande.",
+      "sourceUrl": "https://www.rankino.pl/premiery/poznaj-swojego-tescia"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Violetta Villas",
+      "genre": "Dokument / dramat",
+      "summary": "Opowieść o drodze Violetty Villas z Lewina Kłodzkiego na sceny Paryża i Las Vegas oraz o cenie sławy.",
+      "sourceUrl": "https://www.rankino.pl/premiery/violetta-villas"
+    }
+  ],
+  "film": {
+    "title": "Ghostland",
+    "year": "2018",
+    "platform": "Prime Video",
+    "summary": "Po odziedziczeniu odosobnionego domu matka i jej dwie córki przeżywają brutalny napad. Wydarzenia tamtej nocy na długo odciskają się na rodzinie. Gęsty horror psychologiczny oparty na klaustrofobii, traumie i narastającej paranoi.",
+    "availabilityNote": "JustWatch Polska sprawdził dostępność 7 listopada 2026 r. i wskazuje film w abonamencie Amazon Prime Video (Abo HD) w Polsce. To oferta subskrypcyjna, nie wypożyczenie ani zakup.",
+    "availabilityUrl": "https://www.justwatch.com/pl/film/ghostland"
+  },
+  "editorialUpdatedAt": "2026-11-13",
+  "editorialHash": "24251939a05937e5b64a256b5def6d67f2911685f4d2dd3429f092a243391056"
+}
