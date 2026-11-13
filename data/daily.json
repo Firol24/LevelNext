@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T22:01+01:00",
+  "updatedAt": "2026-11-13T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Odświeżone klasyki w nowym zestawie od GMG. Neverwinter Nights 2 + 6 gier Steam za 69 zł!",
-    "summary": "Łowcy, jeden z pierwszych zestawów od Green Man Gaming pełen był odświeżonych tytułów z dawnych lat. Jeśli mało Wam retro gier PC, to w ramach drugiej odsłony paczki Masterful Remasters Bundle Volume II możecie otrzymać łącznie 7 kluczy Steam. Całość oferowana jest w trzech progach cenowym, a najdroższy z nich będzie Wasz za minimum 69 zł. Daje nam to niezły przelicznik ok. 9,68 zł za jedną pozycję na PC! Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/bundle/odswiezone-klasyki-w-nowym-zestawie-od-gmg-neverwinter-nights-2-6-gier-steam-za-69-zl/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odswiezone-klasyki-w-nowym-zestawie-od-GMG.-Neverwinter-Nights-2-6-gier-Steam-za-69-zl_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Ubisoft WSKRZESZA legendarną serię po niemal 20 latach?! Gracze czekali na ten powrót",
+    "summary": "Ubisoft może szykować jedną z najbardziej zaskakujących niespodzianek dla fanów taktycznych strzelanek. Francuska korporacja podobno zdecydowała się przywrócić do życia serię, która przed laty zachwycała graczy, ale później została całk...",
+    "sourceUrl": "https://www.ppe.pl/news/433089/ubisoft-wskrzesza-legendarna-serie-po-niemal-20-latach-gracze-czekali-na-ten-powrot.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Ubisoft WSKRZESZA legendarną serię po niemal 20 latach?! Gracze czekali na ten powrót",
+      "sourceUrl": "https://www.ppe.pl/news/433089/ubisoft-wskrzesza-legendarna-serie-po-niemal-20-latach-gracze-czekali-na-ten-powrot.html",
+      "publishedAt": "2026-11-13T22:23+01:00",
+      "summary": "Ubisoft może szykować jedną z najbardziej zaskakujących niespodzianek dla fanów taktycznych strzelanek. Francuska korporacja podobno zdecydowała się przywrócić do życia serię, która przed laty zachwycała graczy, ale później została całk...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Odświeżone klasyki w nowym zestawie od GMG. Neverwinter Nights 2 + 6 gier Steam za 69 zł!",
