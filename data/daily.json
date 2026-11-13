@@ -1,17 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T21:01+01:00",
+  "updatedAt": "2026-11-13T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "PlayStation 5 oferuje lepszą grafikę w 8 grach. Sony wreszcie ulepszyło starą konsolę o nową technologię rodem z PS5 Pro [Aktualizacja]",
-    "summary": "Sony ogłosiło nowy wariant technologii PSSR, który dostępny będzie na bazowym PS5. QSSR można już sprawdzić w ośmiu pierwszych tytułach. Informacja PlayStation 5 oferuje lepszą grafikę w 8 grach. Sony wreszcie ulepszyło starą konsolę o nową technologię rodem z PS5 Pro [Aktualizacja] została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/playstation-5-od-dzis-zaoferuje-lepsza-grafike-sony-wreszcie-ulep/zf31dbe",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/528578272.jpg"
+    "category": "PROMOCJE",
+    "title": "Odświeżone klasyki w nowym zestawie od GMG. Neverwinter Nights 2 + 6 gier Steam za 69 zł!",
+    "summary": "Łowcy, jeden z pierwszych zestawów od Green Man Gaming pełen był odświeżonych tytułów z dawnych lat. Jeśli mało Wam retro gier PC, to w ramach drugiej odsłony paczki Masterful Remasters Bundle Volume II możecie otrzymać łącznie 7 kluczy Steam. Całość oferowana jest w trzech progach cenowym, a najdroższy z nich będzie Wasz za minimum 69 zł. Daje nam to niezły przelicznik ok. 9,68 zł za jedną pozycję na PC! Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/bundle/odswiezone-klasyki-w-nowym-zestawie-od-gmg-neverwinter-nights-2-6-gier-steam-za-69-zl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odswiezone-klasyki-w-nowym-zestawie-od-GMG.-Neverwinter-Nights-2-6-gier-Steam-za-69-zl_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Odświeżone klasyki w nowym zestawie od GMG. Neverwinter Nights 2 + 6 gier Steam za 69 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/odswiezone-klasyki-w-nowym-zestawie-od-gmg-neverwinter-nights-2-6-gier-steam-za-69-zl/",
+      "publishedAt": "2026-11-13T21:59+01:00",
+      "summary": "Łowcy, jeden z pierwszych zestawów od Green Man Gaming pełen był odświeżonych tytułów z dawnych lat. Jeśli mało Wam retro gier PC, to w ramach drugiej odsłony paczki Masterful Remasters Bundle Volume II możecie otrzymać łącznie 7 kluczy Steam. Całość oferowana jest w trzech progach cenowym, a najdroższy z nich będzie Wasz za minimum 69 zł. Daje nam to niezły przelicznik ok. 9,68 zł za jedną pozycję na PC! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odswiezone-klasyki-w-nowym-zestawie-od-GMG.-Neverwinter-Nights-2-6-gier-Steam-za-69-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 to gra single-player, ale kiedy odbędzie się premiera GTA 6 Online? Znamy szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/433085/gta-6-to-gra-single-player-ale-kiedy-odbedzie-sie-premiera-gta-6-online-znamy-szczegoly.html",
+      "publishedAt": "2026-11-13T21:48+01:00",
+      "summary": "Do premiery GTA 6 pozostało już mniej niż tydzień, a gracze odliczają ostatnie dni do powrotu do Vice City. W dniu premiery otrzymamy wyłącznie kampanię dla jednego gracza, a na GTA 6 Online będziemy musieli zaczekać.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gra sprzedała MILION kopii, a miesiąc później twórcy dostali wypowiedzenia. Tak wygląda „sukces” w gamedevie?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432885/gra-sprzedala-milion-kopii-a-miesiac-pozniej-tworcy-dostali-wypowiedzenia-tak-wyglada-sukces-w-gamedevie.html",
+      "publishedAt": "2026-11-13T21:30+01:00",
+      "summary": "Jeszcze kilkanaście lat temu milion sprzedanych egzemplarzy brzmiał jak wynik, po którym w studiu otwierało się szampana i planowało sequel. No i jasne, skala branży była inna, budżety wyglądały inaczej, a milion kopii gry za 50 czy 60 dolar�...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "To koniec Humble Bundle, jakie znaliśmy. Nowa odsłona sklepu to prawdziwa katastrofa!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/to-koniec-humble-bundle-jakie-znalismy-nowa-odslona-sklepu-to-prawdziwa-katastrofa/",
+      "publishedAt": "2026-11-13T21:26+01:00",
+      "summary": "Łowcy, najgorsze zmiany to te nagłe i nieprzetestowane. Niestety, zespół Humble Bundle powielił ten schemat i dokładnie 11 listopada 2026 roku przeprowadził niezapowiedzianą aktualizację swojej platformy. W rezultacie otrzymaliśmy stronę gorszą od poprzedniczki pod każdym względem. Pomijamy tutaj oczywiście kwestie estetyczne, bo całość wygląda jak koszmar rodem z vibe codingu . Przede wszystkim chodzi o bezpieczeństwo użytkowników, o które nie zadbano w żadnym stopniu. Nowa wersja sklepu wystartowała bez uwierzytelniania dwuskładnikowego, a po zalogowaniu się na swoje konto… mogliście zmienić hasło oraz adres e-mail bez żadnego potwierdzenia",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/To-koniec-Humble-Bundle-jakie-znalismy.-Nowa-odslona-sklepu-to-prawdziwa-katastrofa_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "PlayStation 5 oferuje lepszą grafikę w 8 grach. Sony wreszcie ulepszyło starą konsolę o nową technologię rodem z PS5 Pro [Aktualizacja]",
@@ -20,6 +54,14 @@
       "summary": "Sony ogłosiło nowy wariant technologii PSSR, który dostępny będzie na bazowym PS5. QSSR można już sprawdzić w ośmiu pierwszych tytułach. Informacja PlayStation 5 oferuje lepszą grafikę w 8 grach. Sony wreszcie ulepszyło starą konsolę o nową technologię rodem z PS5 Pro [Aktualizacja] została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/528578272.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Disney+ z NAJWIĘKSZYM przebojem w historii kina. Ten film wygenerował prawie 3 mld dolarów",
+      "sourceUrl": "https://www.ppe.pl/news/433084/disney-plus-z-najwiekszym-przebojem-w-historii-kina-ten-film-wygenerowal-prawie-3-mld-dolarow.html",
+      "publishedAt": "2026-11-13T21:18+01:00",
+      "summary": "Disney zaoferował wielką historię. Widzowie mogą za sprawą Disney+ przygotować się na wielką, grudniową premierę.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
