@@ -1,16 +1,42 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T18:01+01:00",
+  "updatedAt": "2026-11-13T18:29+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Żadnej taryfy ulgowej i asystenta celowania. Escape from Tarkov zmierza na konsole",
-    "summary": "Wizja przeniesienia najbardziej bezlitosnej strzelanki z komputerów na konsole nabiera wreszcie realnych kształtów. Szef studia Battlestate Games przerwał milczenie.",
-    "sourceUrl": "https://www.ppe.pl/news/433075/zadnej-taryfy-ulgowej-i-asystenta-celowania-escape-from-tarkov-zmierza-na-konsole.html"
+    "title": "Dziś zapowiedź, za 3 dni premiera. Najbardziej krytykowany God of War trafi na nową platformę z dwoma dodatkowymi trybami",
+    "summary": "God of War: Sons of Sparta zmierza na kolejną konsolę. Przy okazji twórcy przygotowali aktualizację, która może zainteresować zwłaszcza graczy szukających większego wyzwania. Informacja Dziś zapowiedź, za 3 dni premiera. Najbardziej krytykowany God of War trafi na nową platformę z dwoma dodatkowymi trybami została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-zapowiedz-za-3-dni-premiera-najbardziej-krytykowany-god-of-w/zf3232e",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532289851.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dziś zapowiedź, za 3 dni premiera. Najbardziej krytykowany God of War trafi na nową platformę z dwoma dodatkowymi trybami",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-zapowiedz-za-3-dni-premiera-najbardziej-krytykowany-god-of-w/zf3232e",
+      "publishedAt": "2026-11-13T19:19+01:00",
+      "summary": "God of War: Sons of Sparta zmierza na kolejną konsolę. Przy okazji twórcy przygotowali aktualizację, która może zainteresować zwłaszcza graczy szukających większego wyzwania. Informacja Dziś zapowiedź, za 3 dni premiera. Najbardziej krytykowany God of War trafi na nową platformę z dwoma dodatkowymi trybami została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532289851.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Google rozbija bank swoim modelem AI. Najnowszy Gemini 4 po cichu zniszczył konkurencję",
+      "sourceUrl": "https://www.ppe.pl/news/433072/google-rozbija-bank-swoim-modelem-ai-najnowszy-gemini-4-po-cichu-zniszczyl-konkurencje.html",
+      "publishedAt": "2026-11-13T18:17+01:00",
+      "summary": "Google bezlitośnie przyspiesza branżową ofensywę. Chwilę po debiucie wariantów Argon i Carbon, korporacja wypuściła na rynek swój flagowy model błyskawiczny.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pokaz supersamochodów! Wyciekło kolejne nagranie z GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/433086/pokaz-supersamochodow-wycieklo-kolejne-nagranie-z-gta-6.html",
+      "publishedAt": "2026-11-13T18:02+01:00",
+      "summary": "W sieci pojawiło się kolejne nagranie pochodzące bezpośrednio z gameplayu GTA 6. Tym niespełna półminutowe wideo skupia się na pojazdach, które dostępne będą w grze.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Żadnej taryfy ulgowej i asystenta celowania. Escape from Tarkov zmierza na konsole",
