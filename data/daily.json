@@ -1,17 +1,88 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T13:01+01:00",
+  "updatedAt": "2026-11-13T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„Wielka strategia” Paradoxu przebuduje USA i otrzyma trzy nowe dodatki. Gracze HoI4 doszukują się też wielkiej zmiany dla Wielkiej Brytanii",
-    "summary": "Do Hearts of Iron 4 zmierzają kolejne dodatki, które pozwolą obudzić amerykańskiego giganta lub sprostać rumuńskim wyzwaniom. Informacja „Wielka strategia” Paradoxu przebuduje USA i otrzyma trzy nowe dodatki. Gracze HoI4 doszukują się też wielkiej zmiany dla Wielkiej Brytanii została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wielka-strategia-paradoxu-przebuduje-usa-i-otrzyma-trzy-nowe-doda/zc3231c",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532268177.jpg"
+    "title": "Na Steamie pojawił się duch legendarnego RPG sprzed lat. To jedna z 5 perełek z Cyfrowych Podziemi Drenza",
+    "summary": "Witajcie w kolejnych Cyfrowych Podziemiach! Niemal wszyscy czekają na kolejne GTA a tymczasem jesień nas rozpieszcza dużo mniejszymi tytułami. Informacja Na Steamie pojawił się duch legendarnego RPG sprzed lat. To jedna z 5 perełek z Cyfrowych Podziemi Drenza została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/na-steamie-pojawil-sie-duch-legendarnego-rpg-sprzed-lat-to-jedna/zd32323",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532272786.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Na Steamie pojawił się duch legendarnego RPG sprzed lat. To jedna z 5 perełek z Cyfrowych Podziemi Drenza",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-steamie-pojawil-sie-duch-legendarnego-rpg-sprzed-lat-to-jedna/zd32323",
+      "publishedAt": "2026-11-13T14:55+01:00",
+      "summary": "Witajcie w kolejnych Cyfrowych Podziemiach! Niemal wszyscy czekają na kolejne GTA a tymczasem jesień nas rozpieszcza dużo mniejszymi tytułami. Informacja Na Steamie pojawił się duch legendarnego RPG sprzed lat. To jedna z 5 perełek z Cyfrowych Podziemi Drenza została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532272786.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 jeszcze nie wyszło, a już dostało pierwszą łatkę. Bez niej nie zagrasz",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-jeszcze-nie-wyszlo-a-juz-dostalo-pierwsza-latke-bez-niej-ni/ze32324",
+      "publishedAt": "2026-11-13T14:55+01:00",
+      "summary": "Do GTA 6 trafiła już przedpremierowa aktualizacja, a Jason Schreier musiał zdementować pogłoski o nowym Grand Theft Auto Online. Informacja GTA 6 jeszcze nie wyszło, a już dostało pierwszą łatkę. Bez niej nie zagrasz została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532274075.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zapomnianą odsłonę The Elder Scrolls ogracie teraz na PC. Zabierze was w rejon, którego nie pokazała żadna inna część serii",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zapomniana-odslone-the-elder-scrolls-ogracie-teraz-na-pc-zabierze/zc32322",
+      "publishedAt": "2026-11-13T14:28+01:00",
+      "summary": "W sieci pojawił się fanowski port zapomnianej odsłony podserii The Elder Scrolls Travel. Shadowkey Reforged wspiera teraz ultraszerokie monitory 4K i śmiga w 120 FPS-ach. Informacja Zapomnianą odsłonę The Elder Scrolls ogracie teraz na PC. Zabierze was w rejon, którego nie pokazała żadna inna część serii została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532272229.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "320 tysięcy graczy i napływ pozytywnych opinii. Darmowy weekend z PayDay 3 opłacił się twórcom",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/320-tysiecy-graczy-i-naplyw-pozytywnych-opinii-darmowy-weekend-z/za32320",
+      "publishedAt": "2026-11-13T14:22+01:00",
+      "summary": "Ponad 320 tysięcy graczy przekonało się, jak wypada niegdyś fatalny PayDay 3 po 3 latach rozwoju. Informacja 320 tysięcy graczy i napływ pozytywnych opinii. Darmowy weekend z PayDay 3 opłacił się twórcom została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532271368.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Elon Musk chce zatrudnić Jensena Huanga po jego odejściu z NVIDII. Tim Sweeney uważa, że to był smutny dzień dla całej ludzkości",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/elon-musk-chce-zatrudnic-jensena-huanga-po-jego-odejsciu-z-nvidii/ze3231e",
+      "publishedAt": "2026-11-13T14:05+01:00",
+      "summary": "Elon Musk uważa, że zatrudnienie Jensena Huanga byłoby zaszczytem. Problemem może być jednak stanowisko, którym były CEO NVIDII byłby zainteresowany. Informacja Elon Musk chce zatrudnić Jensena Huanga po jego odejściu z NVIDII. Tim Sweeney uważa, że to był smutny dzień dla całej ludzkości została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532270893.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "„Niebieskooki samuraj” ma bana na AI. Netflix chroni swój hit przed sztuczną inteligencją",
+      "sourceUrl": "https://cdaction.pl/kultura/niebieskooki-samuraj-ma-bana-na-ai-netflix-chroni-swoj-hit-przed-sztuczna-inteligencja/",
+      "publishedAt": "2026-11-13T14:00+01:00",
+      "summary": "Fani mogą spać spokojnie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Niebieskooki-samuraj.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nintendo traci kolejny ekskluzywny hit! Nie potrzebujesz potężnego sprzętu żeby uzyskać nawet 240 FPS",
+      "sourceUrl": "https://www.ppe.pl/news/433051/nintendo-traci-kolejny-ekskluzywny-hit-nie-potrzebujesz-poteznego-sprzetu-zeby-uzyskac-nawet-240-fps.html",
+      "publishedAt": "2026-11-13T13:51+01:00",
+      "summary": "Społeczność moderska ponownie udowadnia, że ograniczenia sprzętowe to wyłącznie kwestia zamkniętej architektury konsol. Do sieci trafił natywny port Pokémon Legends: Arceus na komputery osobiste.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka USB-C IKEA SJOSS 65W PD za 38 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-usb-c-ikea-sjoss-65w-pd-za-38-zl-na-allegro/",
+      "publishedAt": "2026-11-13T13:42+01:00",
+      "summary": "Jednoportowa ładowarka USB-C IKEA SJOSS, jest możliwa do kupienia taniej poprzez serwis Allegro. Sprzęt oferujący moc ładowania na poziomie 65W, dodatkowo ze wsparciem dla technologii Quick Charge oraz Power Delivery, kosztuje aktualnie 38 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/ikea-sjoss-ladowarka-usb-c-65W-2b-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„Wielka strategia” Paradoxu przebuduje USA i otrzyma trzy nowe dodatki. Gracze HoI4 doszukują się też wielkiej zmiany dla Wielkiej Brytanii",
@@ -20,6 +91,40 @@
       "summary": "Do Hearts of Iron 4 zmierzają kolejne dodatki, które pozwolą obudzić amerykańskiego giganta lub sprostać rumuńskim wyzwaniom. Informacja „Wielka strategia” Paradoxu przebuduje USA i otrzyma trzy nowe dodatki. Gracze HoI4 doszukują się też wielkiej zmiany dla Wielkiej Brytanii została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532268177.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Epic Games znów rozdaje gry! Koło takich hitów nie możesz przejść obojętnie",
+      "sourceUrl": "https://www.ppe.pl/news/433050/epic-games-znow-rozdaje-gry-kolo-takich-hitow-nie-mozesz-przejsc-obojetnie.html",
+      "publishedAt": "2026-11-13T13:29+01:00",
+      "summary": "Epic Games Store wytacza najcięższe działa na drugą połowę listopada. Pecetowcy dostaną w swoje ręce potężny zestaw.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Acer Nitro 16 AI z Ryzen AI 7-350, RTX 5070Ti i 16GB RAM za 7499 zł (3000 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/acer-nitro-16-ai-z-ryzen-ai-7-350-rtx-5070ti-i-16gb-ram-za-7499-zl-3000-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-13T13:26+01:00",
+      "summary": "Acer Nitro 16 w konfiguracji z kartą graficzną Nvidia GeForce RTX 5070Ti, pojawił się w dobrej cenie w x-komie. Sklep oferuje model z matrycą IPS o przekątnej 16 cali, 16GB RAM DDR5 o taktowaniu 4800 MHz oraz procesorem AMD Ryzen AI 7-350, za 7499 zł po wykorzystaniu kodu rabatowego na Black Weeks. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Acer-Nitro-16-AI-promocja-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Co się stało z Akademią Pana Kleksa? Minął dzień premiery, a gry nadal nie ma na Steamie",
+      "sourceUrl": "https://cdaction.pl/newsy/co-sie-stalo-z-akademia-pana-kleksa-minal-dzien-premiery-na-steamie-a-po-grze-nadal-ani-widu-ani-slychu/",
+      "publishedAt": "2026-11-13T13:15+01:00",
+      "summary": "12 listopada gracze mieli już położyć ręce na wczesnym dostępie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/kleks-1260x710.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 nie odniesie takiego sukcesu przez Zelda Ocarina of Time Remake?! Szef komentuje",
+      "sourceUrl": "https://www.ppe.pl/news/433046/gta-6-nie-odniesie-takiego-sukcesu-przez-zelda-ocarina-of-time-remake-szef-komentuje.html",
+      "publishedAt": "2026-11-13T13:11+01:00",
+      "summary": "Wszyscy wiemy, że nadchodząca premiera Grand Theft Auto 6 to wydarzenie, które dosłownie spędza sen z powiek wielu twórcom gier. Większość dużych wydawców w panice poprzesuwała kalendarze premier swoich tytułów, byle tylko nie zderzyć si�...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
