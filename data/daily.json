@@ -1,17 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T20:01+01:00",
+  "updatedAt": "2026-11-13T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "V z Cyberpunka 2077 zaczyna dziwnie się zachowywać? To sprytna zagrywka CD Projekt Red, by gracz poczuł się niepewnie",
-    "summary": "Jeden z fanów Cyberpunka 2077 zwrócił uwagę na niepozorny szczegół, który skrywa znacznie głębsze znaczenie. Jego spostrzeżenie potwierdził sam Paweł Sasko z CD Projekt Red. Informacja V z Cyberpunka 2077 zaczyna dziwnie się zachowywać? To sprytna zagrywka CD Projekt Red, by gracz poczuł się niepewnie została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/v-z-cyberpunka-2077-zaczyna-dziwnie-sie-zachowywac-to-sprytna-zag/z03232f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532290475.jpg"
+    "title": "PlayStation 5 oferuje lepszą grafikę w 8 grach. Sony wreszcie ulepszyło starą konsolę o nową technologię rodem z PS5 Pro [Aktualizacja]",
+    "summary": "Sony ogłosiło nowy wariant technologii PSSR, który dostępny będzie na bazowym PS5. QSSR można już sprawdzić w ośmiu pierwszych tytułach. Informacja PlayStation 5 oferuje lepszą grafikę w 8 grach. Sony wreszcie ulepszyło starą konsolę o nową technologię rodem z PS5 Pro [Aktualizacja] została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/playstation-5-od-dzis-zaoferuje-lepsza-grafike-sony-wreszcie-ulep/zf31dbe",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/528578272.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "PlayStation 5 oferuje lepszą grafikę w 8 grach. Sony wreszcie ulepszyło starą konsolę o nową technologię rodem z PS5 Pro [Aktualizacja]",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/playstation-5-od-dzis-zaoferuje-lepsza-grafike-sony-wreszcie-ulep/zf31dbe",
+      "publishedAt": "2026-11-13T21:22+01:00",
+      "summary": "Sony ogłosiło nowy wariant technologii PSSR, który dostępny będzie na bazowym PS5. QSSR można już sprawdzić w ośmiu pierwszych tytułach. Informacja PlayStation 5 oferuje lepszą grafikę w 8 grach. Sony wreszcie ulepszyło starą konsolę o nową technologię rodem z PS5 Pro [Aktualizacja] została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/528578272.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kompletne wydanie Generation Zero w Humble Bundle. Zestaw z grą + 18 DLC już za 47 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/kompletne-wydanie-generation-zero-w-humble-bundle-zestaw-z-gra-18-dlc-juz-za-47-zl/",
+      "publishedAt": "2026-11-13T20:40+01:00",
+      "summary": "Łowcy, może i nowa wersja Humble Bundle wygląda koszmarnie, ale przynajmniej nie działa ( ͡° ͜ʖ ͡°). Zmiany jakie 11 listopada 2026 roku zaszły na platformie przyniosły tsunami krytyki ze strony niezadowolonych użytkowników, a początkowy brak weryfikacji dwuetapowej to tylko wierzchołek góry lodowej problemów. Jeśli jednak nadal chcecie wspierać szczytną inicjatywę, to zespół HB przygotował specjalny zestaw Generation Zero: Complete Bundle 2026. Najnowsza paczka zawiera podstawowe wydanie gry Generation Zero oraz aż 18 dodatków DLC. Całość oferowana jest w dwóch progach cenowych, a droższy z nich może być Wasz za 47,21 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kompletne-wydanie-Generation-Zero-w-Humble-Bundle.-Zestaw-z-gra-18-DLC-juz-za-47-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gry w promocji na PS5 w Action! Wielkie hity w ZNAKOMITYCH cenach",
+      "sourceUrl": "https://www.ppe.pl/news/433081/gry-w-promocji-na-ps5-w-action-wielkie-hity-w-znakomitych-cenach.html",
+      "publishedAt": "2026-11-13T20:36+01:00",
+      "summary": "Action coraz chętniej oferuje produkty dla graczy, ale chyba mało kto spodziewał się, że w popularnej sieci sklepów będzie można kupić również gry na PlayStation 5. W ostatnich miesiącach na półkach pojawiały się już produkcje na Ninten...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jason Voorhees wraca do kin! Powstanie 13. film z serii „Piątek trzynastego”",
+      "sourceUrl": "https://www.ppe.pl/news/433087/jason-voorhees-wraca-do-kin-powstanie-13-film-z-serii-piatek-trzynastego.html",
+      "publishedAt": "2026-11-13T20:14+01:00",
+      "summary": "Jason Voorhees ponownie pojawi się na dużym ekranie. Jak informuje serwis Deadline, powstanie trzynasta pełnometrażowa odsłona kultowej serii horrorów „Piątek trzynastego”. Za reżyserię odpowie Steve Miner, twórca drugiej i trzeciej częś...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "V z Cyberpunka 2077 zaczyna dziwnie się zachowywać? To sprytna zagrywka CD Projekt Red, by gracz poczuł się niepewnie",
