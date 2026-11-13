@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T10:01+01:00",
+  "updatedAt": "2026-11-13T10:02+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -47,6 +47,14 @@
       "summary": "Wolfenstein 3 oraz nowa gra od id Software są oficjalnie w produkcji. Microsoft przygotował też kilka atrakcji z okazji 25-lecia marki Xbox. Informacja Wolfenstein 3 i nowa gra twórców Dooma są w produkcji. Obchody 25-lecia Xboxa przyniosły masę zapowiedzi, ale jedno ogłoszenie mocno zdziwiło graczy została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532256589.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kolejna konkretna promocja na Apple iPhone Air. Model 256 GB w dwóch kolorach poniżej 3500 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/smartfony-1/433039/kolejna-konkretna-promocja-na-apple-iphone-air-model-256-gb-w-dwoch-kolorach-ponizej-3500-zl.html",
+      "publishedAt": "2026-11-13T10:02+01:00",
+      "summary": "W sklepie Media Expert nabędziemy naprawdę konkretnie przeceniony smartfon iPhone Air.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
