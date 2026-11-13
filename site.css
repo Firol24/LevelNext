@@ -11,7 +11,7 @@ button,input,textarea,select{font:12px Verdana,Arial,sans-serif}
 .site{width:980px;max-width:calc(100% - 20px);margin:0 auto;background:#21172c;border:3px ridge #76588d;box-shadow:none}
 .topline{display:none}
 .masthead{display:block;text-align:center;padding:10px;background:transparent;border:0}
-.masthead>a{display:inline-block;perspective:900px;line-height:0}.logo{display:block;width:320px;max-width:85%;height:auto;margin:0 auto;filter:none;image-rendering:auto;transform-style:preserve-3d;animation:logoTurn3D 24s linear infinite}
+.masthead>a,.masthead>.logo-stage{display:inline-block;perspective:900px;line-height:0}.logo{display:block;width:320px;max-width:85%;height:auto;margin:0 auto;filter:none;image-rendering:auto;transform-style:preserve-3d;animation:logoTurn3D 24s linear infinite}
 .brand-note{display:none}
 .nav{display:flex;flex-wrap:wrap;justify-content:center;gap:0;padding:4px;background:#39264c;border-top:1px solid #9a7ab1;border-bottom:3px ridge #76588d}
 .nav a{display:block;padding:7px 11px;margin:2px;background:#2b1d39;border:2px outset #9474a9;color:#fff0bd;text-decoration:none;font:bold 11px Verdana,Arial,sans-serif;letter-spacing:0}
