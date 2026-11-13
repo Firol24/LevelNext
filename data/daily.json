@@ -1,17 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T11:01+01:00",
+  "updatedAt": "2026-11-13T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Pracownicy NVIDII chcą powrotu Jensena Huanga, tymczasem pojawiły się doniesienia o kolejnym romansie byłego CEO",
-    "summary": "Pracownicy NVIDII domagają się powrotu Jensena Huanga na stanowisko CEO. Pojawiły się petycje wzywające do przywrócenia byłego szefa firmy, ale w tle pojawił się kolejny skandal związany nie tylko z romansem. Informacja Pracownicy NVIDII chcą powrotu Jensena Huanga, tymczasem pojawiły się doniesienia o kolejnym romansie byłego CEO została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/pracownicy-nvidii-chca-powrotu-jensena-huanga-tymczasem-pojawily/za32311",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532262616.jpg"
+    "title": "Helikoptery jako maszyny do farmienia punktów. Trzeci sezon strzelanki Wardogs pod ostrzałem graczy",
+    "summary": "Wardogs sporo pozmieniało w 3. sezonie. Choć, zdaniem części graczy, niekoniecznie na lepsze. Informacja Helikoptery jako maszyny do farmienia punktów. Trzeci sezon strzelanki Wardogs pod ostrzałem graczy została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/helikoptery-jako-maszyny-do-farmienia-punktow-trzeci-sezon-strzel/z132318",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532266224.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Helikoptery jako maszyny do farmienia punktów. Trzeci sezon strzelanki Wardogs pod ostrzałem graczy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/helikoptery-jako-maszyny-do-farmienia-punktow-trzeci-sezon-strzel/z132318",
+      "publishedAt": "2026-11-13T12:45+01:00",
+      "summary": "Wardogs sporo pozmieniało w 3. sezonie. Choć, zdaniem części graczy, niekoniecznie na lepsze. Informacja Helikoptery jako maszyny do farmienia punktów. Trzeci sezon strzelanki Wardogs pod ostrzałem graczy została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532266224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ekran PROLED XDR zmienia zasady gry. Nowe modele Apple MacBook Pro debiutują w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ekran-proled-xdr-zmienia-zasady-gry-nowe-modele-apple-macbook-pro-debiutuja-w-media-expert/",
+      "publishedAt": "2026-11-13T12:00+01:00",
+      "summary": "W ostatnich latach rozwój MacBooków skupiał się w głównej mierze na zwiększaniu możliwości autorskich chipów Apple Silicon. Teraz zaś amerykańska firma skupiła się na zupełnie innym aspekcie. Debiutujący wraz z nowymi Makami Pro ekran PROLED XDR to odpowiedź na potrzeby najbardziej wymagających użytkowników, w szczególności osób zajmujących się grafiką i wideo. Wprowadzenie technologii Tandem OLED pozwoliło podnieść jasność wyświetlacza i zagwarantowało jeszcze lepsze wyświetlanie czerni. Do tego, po raz pierwszy w historii tego segmentu urządzeń Apple, otrzymaliśmy sterowanie dotykowe. Nowe laptopy znajdziecie w ofercie sklepu Media Expert.",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Apple-MacBook-Pro-Proled-XDR-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 nie zostanie złamane na PS5! Sony osiągnęło sukces",
+      "sourceUrl": "https://www.ppe.pl/news/433041/gta-6-nie-zostanie-zlamane-na-ps5-sony-osiagnelo-sukces.html",
+      "publishedAt": "2026-11-13T11:56+01:00",
+      "summary": "Wszystko wskazuje na to, że Rockstar Games może spać nadzwyczaj spokojnie przed zbliżającą się, gigantyczną premierą swojej najnowszej gry.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Na Netflixa zmierza nowa adaptacja powieści nagrodzonej Pulitzerem. Wcześniejsza ekranizacja Martina Scorsese zdobyła Oscara",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-netflixa-zmierza-nowa-adaptacja-powiesci-nagrodzonej-pulitzere/ze32315",
+      "publishedAt": "2026-11-13T11:51+01:00",
+      "summary": "Wkrótce na Netfliksa trafi serial będący adaptacją powieści Edith Wharton, którą wcześniej zekranizował Martin Scorsese. Informacja Na Netflixa zmierza nowa adaptacja powieści nagrodzonej Pulitzerem. Wcześniejsza ekranizacja Martina Scorsese zdobyła Oscara została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532262990.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Pracownicy NVIDII chcą powrotu Jensena Huanga, tymczasem pojawiły się doniesienia o kolejnym romansie byłego CEO",
@@ -31,6 +66,14 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532262679.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Od wczoraj trwają globalne problemy z usługami Microsoftu. Możliwe zakłócenia w Xbox Network",
+      "sourceUrl": "https://www.ppe.pl/news/433047/od-wczoraj-trwaja-globalne-problemy-z-uslugami-microsoftu-mozliwe-zaklocenia-w-xbox-network.html",
+      "publishedAt": "2026-11-13T11:46+01:00",
+      "summary": "Już od wczoraj trwają globalne problemy z usługami Microsoftu.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "„Jakoś udało nam się to zepsuć”. Twórca PoE 2 mówi o unikatowych przedmiotach, kosztach resetu i zagadkowych śmierciach",
       "sourceUrl": "https://www.gry-online.pl/newsroom/jakos-udalo-nam-sie-to-zepsuc-tworca-poe-2-mowi-o-unikatowych-prz/z932310",
@@ -40,6 +83,40 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532261895.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "GTA VI mogło działać w 60 klatkach? Rockstar eksperymentował z tym trybem na PS5 Pro",
+      "sourceUrl": "https://www.ppe.pl/news/433031/gta-vi-moglo-dzialac-w-60-klatkach-rockstar-eksperymentowal-z-tym-trybem-na-ps5-pro.html",
+      "publishedAt": "2026-11-13T11:44+01:00",
+      "summary": "Rockstar eksperymentował z wersją GTA 6 działającą w 60 klatkach na sekundę na PS5 Pro. Taki build rzeczywiście istniał, ale studio nie zdecydowało się na jego wykorzystanie. Powód jest prosty: Leonida ma być tak mocno obciążona ruchem uli...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw LEGO Speed Champions Ford Mustang Hoonicorn V1 Kena Blocka za 69,99 zł (cena kat. 115 zł) w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-speed-champions-ford-mustang-hoonicorn-v1-kena-blocka-za-6999-zl-cena-kat-115-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-13T11:41+01:00",
+      "summary": "W polskim oddziale sklepu Amazon i Media Expert możecie teraz dorwać w niezłej cenie składający się z 345 klocków zestaw LEGO Speed Champions Ford Mustang Hoonicorn V1 Kena Blocka o numerze katalogowym 77262. Zapłacicie za niego tylko 69,99 zł, czyli blisko 45 zł mniej niż wynosi jego oficjalna cena w firmowym sklepie LEGO. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/LEGO-Speed-Champions-65-Ford-Mustang-Hoonicorn-V1-Kena-Blocka-77262-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Pierwsze „Gwiezdne wojny” ponownie na wielkim ekranie! Lucasfilm świętuje 50-lecie marki powrotem absolutnego klasyka",
+      "sourceUrl": "https://cdaction.pl/kultura/pierwsze-gwiezdne-wojny-ponownie-na-wielkim-ekranie-lucasfilm-swietuje-50-lecie-marki-powrotem-absolutnego-klasyka/",
+      "publishedAt": "2026-11-13T11:30+01:00",
+      "summary": "Oryginalny film z 1977 roku trafi do kin IMAX!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Gwiezdne-wojny.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gwiazdor skazany na 10 lat! 51-latek molestował nastolatki i wykorzystywał kobiety",
+      "sourceUrl": "https://www.ppe.pl/news/433040/gwiazdor-skazany-na-10-lat-51-latek-molestowal-nastolatki-i-wykorzystywal-kobiety.html",
+      "publishedAt": "2026-11-13T11:22+01:00",
+      "summary": "Wydawałoby się, że dla Russella Branda ten tydzień nie mógł być już gorszy, ale mroczna przeszłość byłego komika wciąż go dogania.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "„Jak w naszym PKS-ie”. 14 lat po premierze ETS2 bije ważny rekord dzięki autokarom",
       "sourceUrl": "https://www.gry-online.pl/newsroom/jak-w-naszym-pks-ie-14-lat-po-premierze-ets2-bije-wazny-rekord-dz/ze3230f",
@@ -47,6 +124,24 @@
       "summary": "Fanom Euro Truck Simulator 2 bardzo spodobał się dodatek Coaches. Pozwoliło to 14-letniej grze ustanowić nowy rekord aktywności na Steamie. Informacja „Jak w naszym PKS-ie”. 14 lat po premierze ETS2 bije ważny rekord dzięki autokarom została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532261096.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "CONTROL Resonant w historycznie najniższej cenie w GameBoost. Klucz Steam za 134,16 zł",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/control-resonant-w-historycznie-najnizszej-cenie-w-gameboost-klucz-steam-za-13416-zl/",
+      "publishedAt": "2026-11-13T11:08+01:00",
+      "summary": "Jeśli lubicie gry Remedy Entertainment, to z pewnością czekaliście na CONTROL Resonant. Marzyła się Wam większa promocja? Być może oferta w sklepie internetowym GameBoost będzie dla Was trafiona. Pecetowe wydanie produkcji, w której wcielicie się w Dylana Fadena, brata Jesse, możecie bowiem nabyć za 134,16 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Control-Resonant-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nowy Doom w produkcji? Id Software zdradziło, że pracuje nad kolejna grą",
+      "sourceUrl": "https://cdaction.pl/newsy/nowy-doom-w-produkcji-id-software-zdradzilo-ze-pracuje-nad-kolejna-gra/",
+      "publishedAt": "2026-11-13T11:00+01:00",
+      "summary": "Choć id Software nie powiedziało wprost o Doomie, to ciężko sobie wyobrazić, by chodziło o inną markę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Doom-1260x709.webp"
     },
     {
       "sourceName": "PPE",
