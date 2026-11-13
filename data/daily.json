@@ -1,17 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T16:01+01:00",
+  "updatedAt": "2026-11-13T17:02+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Po 20 latach Gothic 3 oficjalnie wypięknieje. THQ Nordic ulepszy kultowe RPG, nie zapominając o najważniejszych rzeczach [Aktualizacja: opóźnienie na Nintendo Switch 2]",
-    "summary": "Z okazji 20. rocznicy ukazania się na rynku Gothica 3 THQ Nordic udostępniło nowe screenshoty z nadchodzącego odświeżenia owej gry. Dowiedzieliśmy się, co konkretnie poprawiono względem oryginału. Informacja Po 20 latach Gothic 3 oficjalnie wypięknieje. THQ Nordic ulepszy kultowe RPG, nie zapominając o najważniejszych rzeczach [Aktualizacja: opóźnienie na Nintendo Switch 2] została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/po-20-latach-gothic-3-oficjalnie-wypieknieje-thq-nordic-ulepszy-k/zf31f32",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/529619013.jpg"
+    "title": "RPG The Blood of Dawnwalker otrzyma nowy tryb, o który gracze prosili od premiery, i to już w następnym tygodniu",
+    "summary": "The Blood of Dawnwalker otrzyma w przyszłym tygodniu kolejną aktualizację. Studio Rebel Wolves przygotowało dla graczy długo wyczekiwaną nowość, która zachęci do ponownego odwiedzenia Kotliny Sangorskiej. Informacja RPG The Blood of Dawnwalker otrzyma nowy tryb, o który gracze prosili od premiery, i to już w następnym tygodniu została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/rpg-the-blood-of-dawnwalker-otrzyma-nowy-tryb-o-ktory-gracze-pros/ze3232d",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532283800.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "RPG The Blood of Dawnwalker otrzyma nowy tryb, o który gracze prosili od premiery, i to już w następnym tygodniu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/rpg-the-blood-of-dawnwalker-otrzyma-nowy-tryb-o-ktory-gracze-pros/ze3232d",
+      "publishedAt": "2026-11-13T17:37+01:00",
+      "summary": "The Blood of Dawnwalker otrzyma w przyszłym tygodniu kolejną aktualizację. Studio Rebel Wolves przygotowało dla graczy długo wyczekiwaną nowość, która zachęci do ponownego odwiedzenia Kotliny Sangorskiej. Informacja RPG The Blood of Dawnwalker otrzyma nowy tryb, o który gracze prosili od premiery, i to już w następnym tygodniu została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532283800.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Szalona teoria fanów GTA 6 została potwierdzona przez Rockstar Games. Oto pierwszy zwiastun nowego projektu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/szalona-teoria-fanow-gta-6-zostala-potwierdzona-przez-rockstar-ga/zd3232c",
+      "publishedAt": "2026-11-13T17:17+01:00",
+      "summary": "Do sieci trafił pierwszy teaser serialu animowanego Macca & Friends, który zadebiutuje wraz z GTA 6. Informacja Szalona teoria fanów GTA 6 została potwierdzona przez Rockstar Games. Oto pierwszy zwiastun nowego projektu została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532282444.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tomb Raider: Catalyst nie zaliczy szybkiego debiutu? Amazon zmienia plany wobec gry",
+      "sourceUrl": "https://www.ppe.pl/news/433078/tomb-raider-catalyst-nie-zaliczy-szybkiego-debiutu-amazon-zmienia-plany-wobec-gry.html",
+      "publishedAt": "2026-11-13T16:55+01:00",
+      "summary": "Wygląda na to, że gracze będą musieli trochę poczekać na nowe przygody Lary Croft. Z najnowszych doniesień wynika, że plany wobec debiutu Tomb Raider: Catalyst uległy sporej zmianie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Trzęsienie ziemi w NVIDIA. Jensen Huang wyrzucony, ale pracownicy żądają jego powrotu",
+      "sourceUrl": "https://www.ppe.pl/news/433073/trzesienie-ziemi-w-nvidia-jensen-huang-wyrzucony-ale-pracownicy-zadaja-jego-powrotu.html",
+      "publishedAt": "2026-11-13T16:44+01:00",
+      "summary": "Jensen Huang opuścił fotel dyrektora generalnego NVIDII w trybie natychmiastowym. Rezygnacja objęła również stanowisko prezesa i miejsce w zarządzie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera Pikmin 4 + Dandori Academy na Nintendo Switch 2 za nami. Grę kupicie już od 254,99 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/premiera-pikmin-4-dandori-academy-na-nintendo-switch-2-za-nami-gre-kupicie-juz-od-25499-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-13T16:29+01:00",
+      "summary": "Premiera Pikmin 4 na Nintendo Switch 2 została zapowiedziana w ramach ostatniego pokazu Nintendo Direct. Dedykowane najnowszej konsoli giganta z Kioto wydanie pojawiło się na rynku 12 listopada 2026 roku. Oprócz ulepszonej oprawy wizualnej, sterowania głosem oraz wsparcia dla funkcji GameShare, produkcja na drugiego „Pstryczka” zaoferuje także dodatek Dandori Academy – zawierający aż 72 nowych etapów! Cena Pikmin 4 + Dandori Academy na Switcha 2 zaczyna się w polskich sklepach już od 254,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Preorder-Pikmin-4-Dandori-Academy-na-Nintendo-Switch-2-juz-od-25499-zl-w-polskich-sklepach_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Po 20 latach Gothic 3 oficjalnie wypięknieje. THQ Nordic ulepszy kultowe RPG, nie zapominając o najważniejszych rzeczach [Aktualizacja: opóźnienie na Nintendo Switch 2]",
@@ -20,6 +63,23 @@
       "summary": "Z okazji 20. rocznicy ukazania się na rynku Gothica 3 THQ Nordic udostępniło nowe screenshoty z nadchodzącego odświeżenia owej gry. Dowiedzieliśmy się, co konkretnie poprawiono względem oryginału. Informacja Po 20 latach Gothic 3 oficjalnie wypięknieje. THQ Nordic ulepszy kultowe RPG, nie zapominając o najważniejszych rzeczach [Aktualizacja: opóźnienie na Nintendo Switch 2] została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/529619013.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Denis Villeneuve wybrał nowego Jamesa Bonda? Faworyt do roli agenta 007 wydaje się tylko jeden",
+      "sourceUrl": "https://www.ppe.pl/news/433059/denis-villeneuve-wybral-nowego-jamesa-bonda-faworyt-do-roli-agenta-007-wydaje-sie-tylko-jeden.html",
+      "publishedAt": "2026-11-13T16:16+01:00",
+      "summary": "Wybór nowego Agenta 007 wchodzi w decydującą fazę. Negocjacje z głównymi kandydatami dobiegają końca, ale jeden kontrakt mocno odstaje od reszty.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Editions Lionel Messi Cieszynka za 349 zł (cena kat. 780 zł) na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-editions-lionel-messi-cieszynka-za-349-zl-cena-kat-780-zl-na-allegro/",
+      "publishedAt": "2026-11-13T16:04+01:00",
+      "summary": "Składający się z 1427 elementów zestaw LEGO Editions: Lionel Messi – Cieszynka, pojawił się w dobrej cenie na Allegro. Klocki, z których zbudujecie ikoniczną pozę argentyńskiego piłkarza, kosztują teraz 349 złotych. Jest to jednocześnie historycznie najniższa cena. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/lego-editions-lionel-messi-cieszynka-2b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
