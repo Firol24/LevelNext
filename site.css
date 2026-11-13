@@ -252,34 +252,17 @@ h1,h2,h3{line-height:1.25}
 @media(prefers-reduced-motion:reduce){.site:before{animation:none!important}}
 
 
-/* LOGO LEVEL NEXT: PRAWDZIWA EKSTRUZJA SYLWETKI + OBROT 3D */
+/* LOGO LEVEL NEXT: ORYGINALNY WYGLAD, BEZ EKSTRUZJI 3D */
 .masthead>.logo{
-  display:block;width:320px;max-width:85%;height:auto;margin:0 auto;
-  pointer-events:none;user-select:none;
-  /* Fioletowa, jednolita krawedz z glebokoscia ok. 1 cm */
-  filter:
-    drop-shadow(1px 0 0 #c49be8) drop-shadow(2px 0 0 #bd91e2)
-    drop-shadow(3px 0 0 #b487d9) drop-shadow(4px 0 0 #ac7ed2)
-    drop-shadow(5px 0 0 #a475ca) drop-shadow(6px 0 0 #9b6cc1)
-    drop-shadow(7px 0 0 #9363b9) drop-shadow(8px 0 0 #8b5bb1)
-    drop-shadow(9px 0 0 #8353a9) drop-shadow(10px 0 0 #7b4ba1)
-    drop-shadow(11px 0 0 #744499) drop-shadow(12px 0 0 #6d3d91)
-    drop-shadow(13px 0 0 #663689) drop-shadow(14px 0 0 #603181)
-    drop-shadow(15px 0 0 #592b79) drop-shadow(16px 0 0 #532671)
-    drop-shadow(17px 0 0 #4d2169) drop-shadow(18px 0 0 #471d61)
-    drop-shadow(19px 0 0 #411959) drop-shadow(20px 0 0 #3b1551)
-    drop-shadow(21px 0 0 #351149) drop-shadow(22px 0 0 #300e42)
-    drop-shadow(23px 0 0 #2b0b3b) drop-shadow(24px 0 0 #260934)
-    drop-shadow(25px 0 0 #22072e) drop-shadow(26px 0 0 #1e0628)
-    drop-shadow(27px 0 0 #1a0522) drop-shadow(28px 0 0 #16041d)
-    drop-shadow(29px 0 0 #130318) drop-shadow(30px 0 0 #100213)
-    drop-shadow(31px 0 0 #0d020f) drop-shadow(32px 0 0 #0a010b)
-    drop-shadow(33px 0 0 #080108) drop-shadow(34px 0 0 #060005)
-    drop-shadow(35px 0 0 #040003) drop-shadow(36px 0 0 #020002)
-    drop-shadow(37px 0 0 #010001) drop-shadow(38px 0 1px rgba(0,0,0,.75));
-  transform-origin:center center;transform-style:preserve-3d;
-  animation:logoTurn3D 24s linear infinite;
+  display:block;
+  width:320px;
+  max-width:85%;
+  height:auto;
+  margin:0 auto;
+  pointer-events:none;
+  user-select:none;
+  filter:none;
+  transform:none;
+  animation:none;
 }
-@keyframes logoTurn3D{from{transform:perspective(900px) rotateY(0deg)}to{transform:perspective(900px) rotateY(360deg)}}
 @media(max-width:620px){.masthead>.logo{width:280px}}
-@media(prefers-reduced-motion:reduce){.masthead>.logo{animation:none!important;transform:none!important}}
