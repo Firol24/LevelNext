@@ -1,17 +1,70 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T12:01+01:00",
+  "updatedAt": "2026-11-13T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Helikoptery jako maszyny do farmienia punktów. Trzeci sezon strzelanki Wardogs pod ostrzałem graczy",
-    "summary": "Wardogs sporo pozmieniało w 3. sezonie. Choć, zdaniem części graczy, niekoniecznie na lepsze. Informacja Helikoptery jako maszyny do farmienia punktów. Trzeci sezon strzelanki Wardogs pod ostrzałem graczy została opublikowana przez GRYOnline.pl 13 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/helikoptery-jako-maszyny-do-farmienia-punktow-trzeci-sezon-strzel/z132318",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532266224.jpg"
+    "title": "„Wielka strategia” Paradoxu przebuduje USA i otrzyma trzy nowe dodatki. Gracze HoI4 doszukują się też wielkiej zmiany dla Wielkiej Brytanii",
+    "summary": "Do Hearts of Iron 4 zmierzają kolejne dodatki, które pozwolą obudzić amerykańskiego giganta lub sprostać rumuńskim wyzwaniom. Informacja „Wielka strategia” Paradoxu przebuduje USA i otrzyma trzy nowe dodatki. Gracze HoI4 doszukują się też wielkiej zmiany dla Wielkiej Brytanii została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/wielka-strategia-paradoxu-przebuduje-usa-i-otrzyma-trzy-nowe-doda/zc3231c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532268177.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Wielka strategia” Paradoxu przebuduje USA i otrzyma trzy nowe dodatki. Gracze HoI4 doszukują się też wielkiej zmiany dla Wielkiej Brytanii",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wielka-strategia-paradoxu-przebuduje-usa-i-otrzyma-trzy-nowe-doda/zc3231c",
+      "publishedAt": "2026-11-13T13:30+01:00",
+      "summary": "Do Hearts of Iron 4 zmierzają kolejne dodatki, które pozwolą obudzić amerykańskiego giganta lub sprostać rumuńskim wyzwaniom. Informacja „Wielka strategia” Paradoxu przebuduje USA i otrzyma trzy nowe dodatki. Gracze HoI4 doszukują się też wielkiej zmiany dla Wielkiej Brytanii została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532268177.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Co po GTA 6? Gracze chcą, żeby Rockstar wrócił do starszych gier, w tym GTA 4 i RDR2",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/co-po-gta-6-gracze-chca-zeby-rockstar-wrocil-do-starszych-gier-w/zb3231b",
+      "publishedAt": "2026-11-13T13:03+01:00",
+      "summary": "Część graczy chciałaby, aby po premierze GTA 6 Rockstar wrócił do swoich starszych tytułów. Zwracają uwagę, że części z nich przydałaby się aktualizacja. Informacja Co po GTA 6? Gracze chcą, żeby Rockstar wrócił do starszych gier, w tym GTA 4 i RDR2 została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532267342.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Na ten element w WoW Forever nie macie co liczyć. Twórcy zdradzili, że latające mounty nigdy nie trafią do MMO",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-ten-element-w-wow-forever-nie-macie-co-liczyc-tworcy-zdradzili/z232319",
+      "publishedAt": "2026-11-13T12:58+01:00",
+      "summary": "W sieci pojawił się wywiad z deweloperami Blizzarda, w którym w jasny sposób wyrażono się na temat latających wierzchowców. Argumenty przemawiające za tym ruchem mają dużo sensu, lecz decyzja i tak może wkurzyć część graczy. Informacja Na ten element w WoW Forever nie macie co liczyć. Twórcy zdradzili, że latające mounty nigdy nie trafią do MMO została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532266843.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Quentin Tarantino wraca do Hollywood, ale nie jako reżyser. Zaskakująca decyzja legendarnego twórcy",
+      "sourceUrl": "https://www.ppe.pl/news/433048/quentin-tarantino-wraca-do-hollywood-ale-nie-jako-rezyser-zaskakujaca-decyzja-legendarnego-tworcy.html",
+      "publishedAt": "2026-11-13T12:55+01:00",
+      "summary": "Quentin Tarantino wraca do kin. Tym razem wyłącznie w roli scenarzysty. The Further Mis-Adventures of Cliff Booth trafia na ekrany IMAX już 25 listopada. Film otrzymał właśnie twardą kategorię R.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Sony zrobiło to w 1997 roku, ale Microsoft najwyraźniej zapomniał. Szefowa Xboksa zaskoczyła graczy swoją wersją historii",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/sony-zrobilo-to-w-1997-roku-ale-microsoft-najwyrazniej-zapomnial/za3231a",
+      "publishedAt": "2026-11-13T12:55+01:00",
+      "summary": "Asha Sharma zapędziła się w wyliczaniu osiągnięć Xboksa i przypadkowo przypisała konsoli pionierstwo w dziedzinie kontrolerów z dwoma drążkami analogowymi. Historycznie Sony wyprzedziło Microsoft o kilka lat. Informacja Sony zrobiło to w 1997 roku, ale Microsoft najwyraźniej zapomniał. Szefowa Xboksa zaskoczyła graczy swoją wersją historii została opublikowana przez GRYOnline.pl 13 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532266863.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe 007 First Light na PS5 za 189 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-007-first-light-na-ps5-za-189-zl-na-allegro/",
+      "publishedAt": "2026-11-13T12:46+01:00",
+      "summary": "007: First Light, czyli produkcja studia IO Interactive, możliwa jest do kupienia taniej poprzez serwis Allegro. Trzecioosobowa gra akcji, w której wcielicie się w nowego Jamesa Bonda, świeżego agenta Jego Królewskiej Mości, może być wasza za 189 zł. Oferta dotyczy wersji na konsole Sony PlayStation 5. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/Preorder-007-First-Light-na-ps5_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Helikoptery jako maszyny do farmienia punktów. Trzeci sezon strzelanki Wardogs pod ostrzałem graczy",
@@ -20,6 +73,48 @@
       "summary": "Wardogs sporo pozmieniało w 3. sezonie. Choć, zdaniem części graczy, niekoniecznie na lepsze. Informacja Helikoptery jako maszyny do farmienia punktów. Trzeci sezon strzelanki Wardogs pod ostrzałem graczy została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532266224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "OGROMNE zmiany w Assassin's Creed! Wyciekły szczegóły powrotów i nie tylko",
+      "sourceUrl": "https://www.ppe.pl/news/433045/ogromne-zmiany-w-assassin-s-creed-wyciekly-szczegoly-powrotow-i-nie-tylko.html",
+      "publishedAt": "2026-11-13T12:40+01:00",
+      "summary": "Seria Assassin's Creed przechodzi właśnie potężną, wewnętrzną transformację. Na początku 2026 roku szefostwo Ubisoftu zdecydowało się na całkowite przeorganizowanie zespołu odpowiedzialnego za markę, powierzając stery weteranom pod wodzą...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Produkcja Intergalactic: The Heretic Prophet na ostatniej prostej. Nie oczekujcie jednak rychłej premiery gry twórców The Last of Us",
+      "sourceUrl": "https://cdaction.pl/newsy/produkcja-intergalactic-the-heretic-prophet-na-ostatniej-prostej-nie-oczekujcie-jednak-rychlej-premiery-gry-tworcow-the-last-of-us/",
+      "publishedAt": "2026-11-13T12:30+01:00",
+      "summary": "Konkretów na temat Intergalactic: The Heretic Prophet wciąż brak, choć przynajmniej szef Naughty Dog zdradził, że produkcja gry idzie pełną parą.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Intergalactic-The-Heretic-Prophet.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ta kosmiczna gra miała zadebiutować już 12 lat temu. Wielki następca Wing Commandera z masą rozgrywki",
+      "sourceUrl": "https://www.ppe.pl/news/433052/ta-kosmiczna-gra-miala-zadebiutowac-juz-12-lat-temu-wielki-nastepca-wing-commandera-z-masa-rozgrywki.html",
+      "publishedAt": "2026-11-13T12:25+01:00",
+      "summary": "Po latach oczekiwania i licznych opóźnieniach w końcu zbliżamy się do premiery Squadron 42.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na myszki dla graczy w Media Expert. Wybrane modele dostępne już od 39 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocje-na-myszki-dla-graczy-w-media-expert-wybrane-modele-dostepne-juz-od-39-zl/",
+      "publishedAt": "2026-11-13T12:21+01:00",
+      "summary": "Sklep Media Expert postanowił obniżyć cenę niektórych myszek przewodowych i bezprzewodowych. Przyjrzeliśmy się aktualnej ofercie i promocjom, przygotowując dla Was zestawienie najciekawszych modeli. Pamiętajcie, zbliża się Gwiazdka, a z nią czas prezentów 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/myszki-media-expert-listopad-2026-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 sprzedaje się jak świeże bułeczki! Dwaj giganci świętują sukces",
+      "sourceUrl": "https://www.ppe.pl/news/433044/ps5-sprzedaje-sie-jak-swieze-buleczki-dwaj-giganci-swietuja-sukces.html",
+      "publishedAt": "2026-11-13T12:17+01:00",
+      "summary": "PlayStation 5 właśnie przekroczyło magiczną barierę, o której marzy każdy producent sprzętu. Najnowsza konsola Sony rozeszła się już w nakładzie ponad stu milionów egzemplarzy na całym świecie. To już czwarty raz w historii japońskiej f...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
