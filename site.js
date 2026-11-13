@@ -211,7 +211,7 @@
       "Uruchom grę bez muzyki w tle i wsłuchaj się w jej oryginalne dźwięki.",
       "Odwiedź lokację w grze, którą dobrze pamiętasz.",
       "Poszukaj zapomnianego dema z epoki płyt CD.",
-      "Zrób zdjęcie swojego retro stanowiska do archiwum."
+      "Zrób zdjęcie swojego retro stanowiska do archiwum.",
       "Uruchom grę z ery Windows 95/98 i spróbuj przejść pierwszy poziom bez poradnika.",
       "Znajdź w starej grze ukrytą lokację albo sekret, którego wcześniej nie zauważyłeś.",
       "Zagraj w klasyka z 8-bitów przez 20 minut i poznaj jego oryginalne sterowanie.",
