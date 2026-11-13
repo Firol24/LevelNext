@@ -1,16 +1,48 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T07:01+01:00",
+  "updatedAt": "2026-11-13T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Wolfenstein 3 OFICJALNIE w produkcji. Znamy pierwsze szczegóły",
-    "summary": "Już kilka tygodni temu informowaliśmy, że MachineGames pracuje nad kolejną odsłoną serii Wolfenstein, a teraz otrzymaliśmy oficjalne potwierdzenie! Microsoft wykorzystał obchody 25-lecia Xboksa, by zapowiedzieć powrót jednej z najważniejszych...",
-    "sourceUrl": "https://www.ppe.pl/news/432981/wolfenstein-3-oficjalnie-w-produkcji-znamy-pierwsze-szczegoly.html"
+    "title": "Ta historia wstrząsnęła Polską. Jan Holoubek powraca z oczekiwaną nowością na weekend",
+    "summary": "HBO Max przygotowało na weekend jedną z najważniejszych polskich premier tej jesieni. Na platformie zadebiutował właśnie serial, który powraca do tragicznych wydarzeń z 1976 roku. Za kamerą stanął Jan Holoubek.",
+    "sourceUrl": "https://www.ppe.pl/news/432984/ta-historia-wstrzasnela-polska-jan-holoubek-powraca-z-oczekiwana-nowoscia-na-weekend.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Ta historia wstrząsnęła Polską. Jan Holoubek powraca z oczekiwaną nowością na weekend",
+      "sourceUrl": "https://www.ppe.pl/news/432984/ta-historia-wstrzasnela-polska-jan-holoubek-powraca-z-oczekiwana-nowoscia-na-weekend.html",
+      "publishedAt": "2026-11-13T07:55+01:00",
+      "summary": "HBO Max przygotowało na weekend jedną z najważniejszych polskich premier tej jesieni. Na platformie zadebiutował właśnie serial, który powraca do tragicznych wydarzeń z 1976 roku. Za kamerą stanął Jan Holoubek.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox wynalazł technologię, którą PlayStation oferowało 4 lata wcześniej. Wpadka szefowej na 25-lecie",
+      "sourceUrl": "https://www.ppe.pl/news/432983/xbox-wynalazl-technologie-ktora-playstation-oferowalo-4-lata-wczesniej-wpadka-szefowej-na-25-lecie.html",
+      "publishedAt": "2026-11-13T07:30+01:00",
+      "summary": "Microsoft świętuje 25-lecie Xboksa, ale nawet podczas tak wyjątkowego jubileuszu nie udało się uniknąć wpadki. Asha Sharma, szefowa marki, postanowiła przypomnieć największe osiągnięcia pierwszej konsoli amerykańskiej korporacji. Problem w ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "25 gier za darmo! Xbox zaprezentował wielki prezent za blisko 2000 zł",
+      "sourceUrl": "https://www.ppe.pl/news/432985/25-gier-za-darmo-xbox-zaprezentowal-wielki-prezent-za-blisko-2000-zl.html",
+      "publishedAt": "2026-11-13T07:26+01:00",
+      "summary": "Microsoft świętuje 25-lecie Xboksa i zaprezentował zwiastun wyjątkowego prezentu dla graczy.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation rezygnuje z płyt, a Japończycy rzucają się na fizyczną dystrybucję. HIT zawstydza Sony",
+      "sourceUrl": "https://www.ppe.pl/news/432969/playstation-rezygnuje-z-plyt-a-japonczycy-rzucaja-sie-na-fizyczna-dystrybucje-hit-zawstydza-sony.html",
+      "publishedAt": "2026-11-13T07:05+01:00",
+      "summary": "Sony przygotowuje się do zakończenia produkcji fizycznych wydań swoich gier, ale najnowsze wyniki z Japonii pokazują, że gracze wcale nie zamierzają tak łatwo rezygnować z pudełek. Nintendo właśnie udowodniło, że tradycyjna dystrybucja nada...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Wolfenstein 3 OFICJALNIE w produkcji. Znamy pierwsze szczegóły",
