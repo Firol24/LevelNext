@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-13",
-  "updatedAt": "2026-11-13T18:29+01:00",
+  "updatedAt": "2026-11-13T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -20,6 +20,31 @@
       "summary": "God of War: Sons of Sparta zmierza na kolejną konsolę. Przy okazji twórcy przygotowali aktualizację, która może zainteresować zwłaszcza graczy szukających większego wyzwania. Informacja Dziś zapowiedź, za 3 dni premiera. Najbardziej krytykowany God of War trafi na nową platformę z dwoma dodatkowymi trybami została opublikowana przez GRYOnline.pl 13 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532289851.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Znamy długość Stranger Than Heaven. Już niedługo gracze odbędą długą podróż do dawnej Japonii",
+      "sourceUrl": "https://www.ppe.pl/news/433088/znamy-dlugosc-stranger-than-heaven-juz-niedlugo-gracze-odbeda-dluga-podroz-do-dawnej-japonii.html",
+      "publishedAt": "2026-11-13T18:48+01:00",
+      "summary": "Fani studia RGG mogą się powoli szykować na to, że początek 2027 roku będzie dla nich wyjątkowo ekscytujący i długi z racji na nadchodzące Stranger Than Heaven.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Piątek 13. i rekordowo tanie gry Steam w Loaded. Death Stranding 2 już za 183 zł!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/wyprzedaz-piatek-13-i-rekordowo-tanie-gry-steam-w-loaded-death-stranding-2-juz-za-183-zl/",
+      "publishedAt": "2026-11-13T18:41+01:00",
+      "summary": "Łowcy, zgodnie z przesądami, to właśnie dziś wypada jeden z najbardziej pechowych dni w roku. Jeśli jednak zamierzacie poprawić sobie humor fajną grą PC, to cyfrowy sklep Loaded wychodzi Wam naprzeciw i zaprasza na wyprzedaż Piątek 13. wraz z rekordowymi promocjami. W ramach ofert klucz Steam z Death Stranding 2: On The Beach może być Wasz w historycznie najniższej cenie 182,79 zł! Wyjątkowo tanio zakupić też takie pozycje jak Dead Island 2 Ultimate Edition, Resident Evil 4 Remake oraz Silent Hill 2 Remake. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Piatek-13.-i-rekordowo-tanie-gry-Steam-w-Loaded.-Death-Stranding-2-juz-za-183-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Crimson Desert pójdzie w nieoczekiwanym kierunku? Fani tytułu zaskoczeni planami Pearl Abyss",
+      "sourceUrl": "https://www.ppe.pl/news/433080/crimson-desert-pojdzie-w-nieoczekiwanym-kierunku-fani-tytulu-zaskoczeni-planami-pearl-abyss.html",
+      "publishedAt": "2026-11-13T18:36+01:00",
+      "summary": "Pearl Abyss rozważa rozszerzenie świata Crimson Desert o dodatkową zawartość oraz potencjalny tryb multiplayer. Studio analizuje możliwość wprowadzenia rozgrywki wieloosobowej, choć na razie nie podjęto ostatecznej decyzji.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
