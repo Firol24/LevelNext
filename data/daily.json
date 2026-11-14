@@ -1,17 +1,41 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T14:01+01:00",
+  "updatedAt": "2026-11-14T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Kod na GTA 6 można podejrzeć przez pudełko za pomocą latarki? Trzy zdjęcia wywołały strach, ale Rockstar się zabezpieczył",
-    "summary": "Wokół GTA 6 wybuchła kolejna kontrowersja. Zdjęcia opublikowane w sieci wzbudziły obawy wśród graczy i postawiły pod znakiem zapytania bezpieczeństwo pudełkowego wydania produkcji Rockstar Games. Informacja Kod na GTA 6 można podejrzeć przez pudełko za pomocą latarki? Trzy zdjęcia wywołały strach, ale Rockstar się zabezpieczył została opublikowana przez GRYOnline.pl 14 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/kod-na-gta-6-mozna-podejrzec-przez-pudelko-za-pomoca-latarki-trzy/z232337",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532358723.jpg"
+    "title": "Project Helix jednak tańszy? Microsoft staje przed trudnym wyborem",
+    "summary": "Wczoraj (13 listopada) do sprzedaży trafił jubileuszowy Xbox Series X25 za równe 899,99 dolara. W Polsce zaś za podstawowego Series S trzeba już wyłożyć ponad 2300 złotych. Kiedy więc miesiąc temu „Fortune” straszyło kolejnym Xboksem za ...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/433083/project-helix-jednak-tanszy-microsoft-staje-przed-trudnym-wyborem.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Project Helix jednak tańszy? Microsoft staje przed trudnym wyborem",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433083/project-helix-jednak-tanszy-microsoft-staje-przed-trudnym-wyborem.html",
+      "publishedAt": "2026-11-14T15:00+01:00",
+      "summary": "Wczoraj (13 listopada) do sprzedaży trafił jubileuszowy Xbox Series X25 za równe 899,99 dolara. W Polsce zaś za podstawowego Series S trzeba już wyłożyć ponad 2300 złotych. Kiedy więc miesiąc temu „Fortune” straszyło kolejnym Xboksem za ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Słuchawki bezprzewodowe HyperX Cloud III S Black/Blue za 319 zł (100 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/sluchawki-bezprzewodowe-hyperx-cloud-iii-s-black-blue-za-319-zl-100-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-14T14:59+01:00",
+      "summary": "Dzisiejszy Gorący Strzał w x-komie przynosi przecenę słuchawek HyperX Cloud III S Wireless Black/Blue. Model oferuje łączność radiową 2,4 GHz oraz Bluetooth, przetworniki o średnicy 53 mm, odpinany mikrofon i nauszniki z pianką zapamiętującą kształt. Na jednym ładowaniu słuchawki mogą działać nawet 120 godzin przy połączeniu radiowym lub 200 godzin w trybie Bluetooth. Za sprzęt ten zapłacicie teraz już 319 zł zamiast 419 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-HyperX-Cloud-III-S-BlackBlue_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gwiazda Marvela domaga się kolejnej szansy. „Thor dostał cztery”",
+      "sourceUrl": "https://www.ppe.pl/news/433108/gwiazda-marvela-domaga-sie-kolejnej-szansy-thor-dostal-cztery.html",
+      "publishedAt": "2026-11-14T14:30+01:00",
+      "summary": "Anthony Mackie nie zamierza kończyć swojej solowej przygody jako Kapitan Ameryka na jednym filmie. Aktor otwarcie przyznał, że chciałby ponownie stanąć na czele osobnej produkcji MCU i otrzymać więcej przestrzeni na rozwinięcie Sama Wilsona w ...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Kod na GTA 6 można podejrzeć przez pudełko za pomocą latarki? Trzy zdjęcia wywołały strach, ale Rockstar się zabezpieczył",
@@ -20,6 +44,24 @@
       "summary": "Wokół GTA 6 wybuchła kolejna kontrowersja. Zdjęcia opublikowane w sieci wzbudziły obawy wśród graczy i postawiły pod znakiem zapytania bezpieczeństwo pudełkowego wydania produkcji Rockstar Games. Informacja Kod na GTA 6 można podejrzeć przez pudełko za pomocą latarki? Trzy zdjęcia wywołały strach, ale Rockstar się zabezpieczył została opublikowana przez GRYOnline.pl 14 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532358723.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gra planszowa Kangurek Kao już od 19,90 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/gra-planszowa-kangurek-kao-juz-od-1990-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-14T14:28+01:00",
+      "summary": "Familijna gra planszowa Kangurek Kao, oparta na platformówkach z sympatycznym torbaczem, pojawiła się w dobrej cenie w sklepie Bluegames. Podczas zabawy dla 2–4 osób będziecie wspólnie budować planszę z kafelków, zbierać monety i skarby oraz krzyżować plany rywalom za pomocą kart Wyzwań. Polskie wydanie planszówki może być Wasze już od 19,90 zł. Nieco drożej możecie również znaleźć tę pozycję w ofercie RTV Euro AGD oraz Media Expert. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/12/Gra-planszowa-Kangurek-Kao-tanio-w-Media-Markt_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Za darmo to uczciwa cena. Najlepsze darmowe gry na PC i konsole (14.11)",
+      "sourceUrl": "https://lowcygier.pl/darmowe/za-darmo-to-uczciwa-cena-najlepsze-darmowe-gry-na-pc-i-konsole-14-11/",
+      "publishedAt": "2026-11-14T14:10+01:00",
+      "summary": "Łowcy, czas na drugą w tym miesiącu edycję wpisu omawiającego darmowe gry na PC i konsole, a także prezentującego produkcje, które w ciągu ostatniego tygodnia powiększyły katalogi największych subskrypcji, takich jak Xbox Game Pass, PlayStation Plus czy Amazon Luna (wcześniej znanej jako Prime Gaming) . Nasz artykuł pozwala pozostać na bieżąco z nowościami, a także zgarnąć kilka fajnych gier za darmo. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Za-darmo-to-uczciwa-cena.-Najlepsze-darmowe-gry-na-PC-i-konsole-23.08_miniaturka3-224x224.jpg"
     },
     {
       "sourceName": "PPE",
@@ -53,6 +95,15 @@
       "publishedAt": "2026-11-14T13:58+01:00",
       "summary": "W sklepie Media Markt skorzystamy z oferty sięgającej aż 50% względem ceny standardowej.",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nigdy nie grałem w pierwowzór. The Legend of Zelda: Ocarina of Time sprawiła, że zbieram szczękę z podłogi [RECENZJA]",
+      "sourceUrl": "https://cdaction.pl/recenzje/nigdy-nie-gralem-w-pierwowzor-the-legend-of-zelda-ocarina-of-time-sprawilo-ze-zbieram-szczeke-z-podlogi-recenzja/",
+      "publishedAt": "2026-11-14T13:57+01:00",
+      "summary": "Na mój pierwszy raz z The Legend of Zelda: Ocarina of Time czekałem naprawdę długo. Po spędzeniu kilku dni z remakiem na Nintendo Switchu 2 mogę powiedzieć, że ta przygoda wciąż ma w sobie coś wyjątkowego.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/2026111123115800_s-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
