@@ -1,16 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T07:01+01:00",
+  "updatedAt": "2026-11-14T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Na 5 dni przed premierą GTA 6 mamy MNÓSTWO nowych informacji. Relacja, napady, świat i więcej",
-    "summary": "Do premiery GTA 6 pozostało zaledwie pięć dni, a Rockstar Games kolejny raz pozwala nam zajrzeć za kulisy jednej z najbardziej wyczekiwanych produkcji w historii branży. Najnowsze informacje pokazują, że twórcy nie zamierzają zaoferować jedyni...",
-    "sourceUrl": "https://www.ppe.pl/news/433099/na-5-dni-przed-premiera-gta-6-mamy-mnostwo-nowych-informacji-relacja-napady-swiat-i-wiecej.html"
+    "title": "Kradzież GTA 6 bez otwierania pudełka?! Gracze alarmują o ogromnym problemie",
+    "summary": "GTA 6 jeszcze nie trafiło na rynek, a wokół fizycznego wydania najnowszej produkcji Rockstar Games pojawiły się kolejne kontrowersje. Tym razem nie chodzi jednak o brak płyty w pudełku, lecz o potencjalny problem, który może narazić kupującyc...",
+    "sourceUrl": "https://www.ppe.pl/news/433101/kradziez-gta-6-bez-otwierania-pudelka-gracze-alarmuja-o-ogromnym-problemie.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Kradzież GTA 6 bez otwierania pudełka?! Gracze alarmują o ogromnym problemie",
+      "sourceUrl": "https://www.ppe.pl/news/433101/kradziez-gta-6-bez-otwierania-pudelka-gracze-alarmuja-o-ogromnym-problemie.html",
+      "publishedAt": "2026-11-14T07:32+01:00",
+      "summary": "GTA 6 jeszcze nie trafiło na rynek, a wokół fizycznego wydania najnowszej produkcji Rockstar Games pojawiły się kolejne kontrowersje. Tym razem nie chodzi jednak o brak płyty w pudełku, lecz o potencjalny problem, który może narazić kupującyc...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Na 5 dni przed premierą GTA 6 mamy MNÓSTWO nowych informacji. Relacja, napady, świat i więcej",
