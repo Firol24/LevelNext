@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T10:01+01:00",
+  "updatedAt": "2026-11-14T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Powstawała 8 lat, a umarła niecały rok po premierze. Postapokaliptyczna survivalowa strzelanka Pioner to już historia",
-    "summary": "Osiem lat produkcji nie wystarczyło, by zapewnić Pionerowi sukces. Postapokaliptyczna strzelanka nie doczeka się pełnej wersji. Informacja Powstawała 8 lat, a umarła niecały rok po premierze. Postapokaliptyczna survivalowa strzelanka Pioner to już historia została opublikowana przez GRYOnline.pl 14 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/powstawala-8-lat-a-umarla-niecaly-rok-po-premierze-postapokalipty/zf32334",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532345701.jpg"
+    "title": "Obcy w głębinach oceanu. Zapomniany horror science fiction z końcówki lat 80.",
+    "summary": "„Lewiatan“ George’a P. Cosmatosa z 1989 roku był jednym z filmów tamtych czasów, które próbowały przenieść klasyczne motywy kosmicznej fantastyki naukowej w głębiny oceanu. W swoim czasie nie okazał się wielkim hitem kinowym, ale do dz...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/432612/obcy-w-glebinach-oceanu-zapomniany-horror-science-fiction-z-koncowki-lat-80.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Obcy w głębinach oceanu. Zapomniany horror science fiction z końcówki lat 80.",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432612/obcy-w-glebinach-oceanu-zapomniany-horror-science-fiction-z-koncowki-lat-80.html",
+      "publishedAt": "2026-11-14T11:00+01:00",
+      "summary": "„Lewiatan“ George’a P. Cosmatosa z 1989 roku był jednym z filmów tamtych czasów, które próbowały przenieść klasyczne motywy kosmicznej fantastyki naukowej w głębiny oceanu. W swoim czasie nie okazał się wielkim hitem kinowym, ale do dz...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Powstawała 8 lat, a umarła niecały rok po premierze. Postapokaliptyczna survivalowa strzelanka Pioner to już historia",
@@ -23,11 +30,63 @@
     },
     {
       "sourceName": "PPE",
+      "title": "OGROMNY błąd z PS Plus. Gracze tracą dostęp do gry",
+      "sourceUrl": "https://www.ppe.pl/news/433106/ogromny-blad-z-ps-plus-gracze-traca-dostep-do-gry.html",
+      "publishedAt": "2026-11-14T10:46+01:00",
+      "summary": "Subskrypcja PlayStation Plus potrafi przynieść graczom mnóstwo radości, ale czasem cyfrowy system Sony potrafi spłatać bardzo nieprzyjemnego figla.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Niepoważna paczka od Humble Bundle. Zestaw aż 13 zabawnych gier Steam już za 39 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/niepowazna-paczka-od-humble-bundle-zestaw-az-13-zabawnych-gier-steam-juz-za-39-zl/",
+      "publishedAt": "2026-11-14T10:45+01:00",
+      "summary": "Łowcy, w ramach ostatniego w tym tygodniu pakietu, zespół Humble Bundle przygotował coś dla fanów niewybrednego humoru. W ramach zestawu Humble Seriously Unserious Collection Bundle możecie otrzymać maksymalnie 13 tytułów na Steam. Całość dostępna jest w trzech progach cenowych, a najdroższy z nich kosztuje nieco ponad 39 zł. Daje nam to dobry przelicznik ok. 3,03 zł za jedną pozycję na PC! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Niepowazna-paczka-od-Humble-Bundle.-Zestaw-az-13-zabawnych-gier-Steam-juz-za-39-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Noc przed premierą GTA 6 będzie wyjątkowa. Społeczność chce zamknąć rozdział GTA V",
+      "sourceUrl": "https://www.ppe.pl/news/433097/noc-przed-premiera-gta-6-bedzie-wyjatkowa-spolecznosc-chce-zamknac-rozdzial-gta-v.html",
+      "publishedAt": "2026-11-14T10:30+01:00",
+      "summary": "Po trzynastu latach wspólnych napadów, szalonych pościgów i godzin spędzonych w GTA Online gracze przygotowują symboliczne pożegnanie z Los Santos. Społeczność planuje spotkać się 18 listopada, czyli w noc poprzedzającą premierę GTA 6, ab...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Placuszki kręcę, po to mam ręce. Kultowe gry z serii Pizza Connection od 0,89 zł w GOG.com!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/placuszki-krece-po-to-mam-rece-kultowe-gry-z-serii-pizza-connection-od-089-zl-w-gog-com/",
+      "publishedAt": "2026-11-14T10:25+01:00",
+      "summary": "Łowcy, posiadacze aktywnej subskrypcji newsletteru sklepu GOG.com otrzymali kolejny kod rabatowy do wykorzystania na zakupy. Na zakończenie tygodnia w promocyjnych cenach zakupicie wybrane gry strategiczne i ekonomiczne. Wśród przecenionych produkcji znajdziecie tytuły z serii Pizza Connection Bundle w wersji DRM-Free. Swoje pizzowe imperium możecie stworzyć już od 0,89 zł! W tej cenie dostępna jest choćby kultowa w Polsce druga odsłona cyklu. Aby aktywować kod zniżkowy, należy udać się na tę stronę . Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/08/Klasyka-gier-ekonomicznych-tanio-w-GOG.com_.-Pizza-Connection-Bundle-za-jedyne-459-zl_miniaturka1-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tanie karty do gry od Paladone w RTV Euro AGD. Talia (54 el.) + metalowa puszka już za 19,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/tanie-karty-do-gry-od-paladone-w-rtv-euro-agd-talia-54-el-metalowa-puszka-juz-za-1999-zl/",
+      "publishedAt": "2026-11-14T10:14+01:00",
+      "summary": "W internetowym sklepie RTV Euro AGD możecie zakupić tanio wybrane zestawy kart do gier od firmy Paladone. Wszystkie talie inspirowane dziełami popkultury składają się z 52 standardowych kart oraz dwóch jokerów. Wybrane pakiety zawierają także zbiorcze opakowanie w postaci metalowej puszki ozdobionej motywami danego tytułu! Każda z wyróżnionych pozycji może być Wasza w wyjątkowo niskiej cenie 19,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tanie-karty-do-gry-od-Paladone-w-RTV-Euro-AGD.-Talia-54-el.-metalowa-puszka-juz-za-1999-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
       "title": "Pół miliona widzów nie kłamie! To najlepszy horror tej jesieni!",
       "sourceUrl": "https://www.ppe.pl/publicystyka/433104/pol-miliona-widzow-nie-klamie-to-najlepszy-horror-tej-jesieni.html",
       "publishedAt": "2026-11-14T10:00+01:00",
       "summary": "Wystarczy zrzucić kanoniczną odpowiedzialność a powstaną rzeczy niebywałe, niespodziewane i oryginalne. W taki mniej więcej sposób myślał Zach Cregger (\"Zniknięcia, \"Barbarzyńca\") siadając do scenariusza swojej pierwszej adaptacji gry wideo.",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Death Stranding 2: On the Beach, Jurassic World Evolution 2 i inne. Darmowe gry i okazje w tym tygodniu",
+      "sourceUrl": "https://cdaction.pl/newsy/death-stranding-2-on-the-beach-jurassic-world-evolution-2-i-inne-darmowe-gry-i-okazje-w-tym-tygodniu/",
+      "publishedAt": "2026-11-14T10:00+01:00",
+      "summary": "Jak co tydzień przyglądamy się grom za darmo, jak również ofertom PS Plusa, Game Passa oraz Amazonu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/darmowe_gry_okazje_listopad26.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
