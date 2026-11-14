@@ -1,16 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T11:01+01:00",
+  "updatedAt": "2026-11-14T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Obcy w głębinach oceanu. Zapomniany horror science fiction z końcówki lat 80.",
-    "summary": "„Lewiatan“ George’a P. Cosmatosa z 1989 roku był jednym z filmów tamtych czasów, które próbowały przenieść klasyczne motywy kosmicznej fantastyki naukowej w głębiny oceanu. W swoim czasie nie okazał się wielkim hitem kinowym, ale do dz...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/432612/obcy-w-glebinach-oceanu-zapomniany-horror-science-fiction-z-koncowki-lat-80.html"
+    "title": "Gothic 3 na Steam może otrzymać coś, o czym gracze marzyli od kilkunastu lat. Wszystko ujawniła baza danych",
+    "summary": "Po 17 latach od debiutu na Steamie Gothic 3 może wreszcie doczekać się funkcji, o którą fani zabiegają od dawna. Wszystko za sprawą intrygującego odkrycia w bazie danych platformy Valve. Informacja Gothic 3 na Steam może otrzymać coś, o czym gracze marzyli od kilkunastu lat. Wszystko ujawniła baza danych została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gothic-3-na-steam-moze-otrzymac-cos-o-czym-gracze-marzyli-od-kilk/z032335",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532351686.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gothic 3 na Steam może otrzymać coś, o czym gracze marzyli od kilkunastu lat. Wszystko ujawniła baza danych",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gothic-3-na-steam-moze-otrzymac-cos-o-czym-gracze-marzyli-od-kilk/z032335",
+      "publishedAt": "2026-11-14T12:39+01:00",
+      "summary": "Po 17 latach od debiutu na Steamie Gothic 3 może wreszcie doczekać się funkcji, o którą fani zabiegają od dawna. Wszystko za sprawą intrygującego odkrycia w bazie danych platformy Valve. Informacja Gothic 3 na Steam może otrzymać coś, o czym gracze marzyli od kilkunastu lat. Wszystko ujawniła baza danych została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532351686.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Grand Theft Auto VI: The Album wyciekł do Sieci! Pełna lista kawałów podzieliła graczy...",
+      "sourceUrl": "https://www.ppe.pl/news/433102/grand-theft-auto-vi-the-album-wyciekl-do-sieci-pelna-lista-kawalow-podzielila-graczy.html",
+      "publishedAt": "2026-11-14T11:30+01:00",
+      "summary": "Muzyka od zawsze stanowiła ważną część Grand Theft Auto, ale Rockstar może szykować dla fanów coś znacznie większego niż rozbudowane stacje radiowe. W sieci pojawiła się rzekoma pełna lista utworów z Grand Theft Auto VI: The Album, któr...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na retro konsole Evercade w Empiku. Przenośny model EXP-R dostępny za 249 zł!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocja-na-retro-konsole-evercade-w-empiku-przenosny-model-exp-r-dostepny-za-249-zl/",
+      "publishedAt": "2026-11-14T11:20+01:00",
+      "summary": "Z okazji trwającej w Empiku wyprzedaży Black Weeks możecie zakupić retro konsole Evercade w niższych cenach. Przenośny model EXP-R oferowany jest za jedyne 249,89 zł. Natomiast za stacjonarny wariant VS-R w zestawie z kontrolerem zapłacicie 329,89 zł. Jeśli natomiast skuście się na pakiet z kolekcją gier Activision Collection 1, to cena wzrośnie do 359,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/Retro-konsole-Evercade-taniej-w-RTV-Euro-AGD.-Przenosny-model-EXP-R-dostepny-za-36499-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Romans szefa Nvidii z kłamstwami i kolejną aferą. Jensen Huang nie odpuści tak łatwo",
+      "sourceUrl": "https://www.ppe.pl/news/433107/romans-szefa-nvidii-z-klamstwami-i-kolejna-afera-jensen-huang-nie-odpusci-tak-latwo.html",
+      "publishedAt": "2026-11-14T11:13+01:00",
+      "summary": "Afera wokół byłego już szefa Nvidii zatacza coraz szersze kręgi i przypomina scenariusz naprawdę dobrego filmu szpiegowskiego. Zanim Jensen Huang został zmuszony do pożegnania się ze swoim stanowiskiem, przez bardzo długi czas po prostu okłam...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Obcy w głębinach oceanu. Zapomniany horror science fiction z końcówki lat 80.",
@@ -18,6 +53,24 @@
       "publishedAt": "2026-11-14T11:00+01:00",
       "summary": "„Lewiatan“ George’a P. Cosmatosa z 1989 roku był jednym z filmów tamtych czasów, które próbowały przenieść klasyczne motywy kosmicznej fantastyki naukowej w głębiny oceanu. W swoim czasie nie okazał się wielkim hitem kinowym, ale do dz...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Wiemy, kiedy poznamy nominacje do The Game Awards! Gala będzie transmitowana również w popularnej grze",
+      "sourceUrl": "https://cdaction.pl/newsy/wiemy-kiedy-poznamy-nominacje-do-the-game-awards-gala-bedzie-transmitowana-rowniez-w-popularnej-grze/",
+      "publishedAt": "2026-11-14T11:00+01:00",
+      "summary": "Szykujcie się, by kibicować swoim ulubieńcom.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/HW73nDeawAAwLj8-1260x716.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W 2018 roku młody wynalazca wysłał gigantyczną konstrukcję, która miała oczyszczać ocean z plastiku. Pierwszy system zawiódł, ale po latach projekt osiągnął zupełnie inną skalę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-2018-roku-mlody-wynalazca-wyslal-gigantyczna-konstrukcje-ktora/z1322fd",
+      "publishedAt": "2026-11-14T11:00+01:00",
+      "summary": "W 2018 roku uruchomiono nowatorski sprzęt mający oczyścić oceany z ton plastiku. Pierwsze testy pokazały istotne wady, ale po latach zostały wyeliminowane i udało się uprzątnąć około 45 tysięcy ton śmieci. Informacja W 2018 roku młody wynalazca wysłał gigantyczną konstrukcję, która miała oczyszczać ocean z plastiku. Pierwszy system zawiódł, ale po latach projekt osiągnął zupełnie inną skalę została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532187607.jpg"
     },
     {
       "sourceName": "GRY-Online",
