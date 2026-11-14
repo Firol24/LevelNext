@@ -1,16 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T08:01+01:00",
+  "updatedAt": "2026-11-14T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Kradzież GTA 6 bez otwierania pudełka?! Gracze alarmują o ogromnym problemie",
-    "summary": "GTA 6 jeszcze nie trafiło na rynek, a wokół fizycznego wydania najnowszej produkcji Rockstar Games pojawiły się kolejne kontrowersje. Tym razem nie chodzi jednak o brak płyty w pudełku, lecz o potencjalny problem, który może narazić kupującyc...",
-    "sourceUrl": "https://www.ppe.pl/news/433101/kradziez-gta-6-bez-otwierania-pudelka-gracze-alarmuja-o-ogromnym-problemie.html"
+    "title": "„Nie mogłem tego zrobić”. 47 lat temu Robert De Niro odrzucił rolę w jednym z największych filmów w historii kina",
+    "summary": "Robert De Niro miał szansę zagrać w jednym z największych filmów w historii kina, ale był zmuszony do zrezygnowania z tej szansy. Informacja „Nie mogłem tego zrobić”. 47 lat temu Robert De Niro odrzucił rolę w jednym z największych filmów w historii kina została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nie-moglem-tego-zrobic-47-lat-temu-robert-de-niro-odrzucil-role-w/z532295",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/531923144.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Nie mogłem tego zrobić”. 47 lat temu Robert De Niro odrzucił rolę w jednym z największych filmów w historii kina",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nie-moglem-tego-zrobic-47-lat-temu-robert-de-niro-odrzucil-role-w/z532295",
+      "publishedAt": "2026-11-14T09:02+01:00",
+      "summary": "Robert De Niro miał szansę zagrać w jednym z największych filmów w historii kina, ale był zmuszony do zrezygnowania z tej szansy. Informacja „Nie mogłem tego zrobić”. 47 lat temu Robert De Niro odrzucił rolę w jednym z największych filmów w historii kina została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/531923144.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Uwielbiam gry rodzimego Teyona. To taki trochę Gothic, ale całkowicie polski",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432574/uwielbiam-gry-rodzimego-teyona-to-taki-troche-gothic-ale-calkowicie-polski.html",
+      "publishedAt": "2026-11-14T09:00+01:00",
+      "summary": "Każdy polski gracz ma w swoim sercu specjalne, nieco zardzewiałe, ale niezwykle ciepłe miejsce na produkcje z tak zwanego gatunku „eurojank” - ambitne, lecz niedoszlifowane perełki z Europy.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA Vice City miało być tylko rozwinięciem GTA 3, a stało się legendą. Do dziś pamiętam kody, muzykę i tę przeklętą misję z helikopterem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/cos-wiecej-niz-odgrzewany-kotlet-gta-vice-city-to-najbardziej-kli/zf32316",
+      "publishedAt": "2026-11-14T09:00+01:00",
+      "summary": "Po „depresyjnej jesieni” w Liberty City studio Rockstar Games postanowiło przenieść nas w kolorowe, szalone lata osiemdziesiąte. Grand Theft Auto: Vice City to produkcja, która stała się wirtualnym symbolem tego okresu. Informacja GTA Vice City miało być tylko rozwinięciem GTA 3, a stało się legendą. Do dziś pamiętam kody, muzykę i tę przeklętą misję z helikopterem została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532263629.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze wrócili do wielkiej porażki sprzed lat. Wyniki Payday 3 zaskoczyły nawet twórców",
+      "sourceUrl": "https://www.ppe.pl/news/433095/gracze-wrocili-do-wielkiej-porazki-sprzed-lat-wyniki-payday-3-zaskoczyly-nawet-tworcow.html",
+      "publishedAt": "2026-11-14T08:30+01:00",
+      "summary": "Payday 3 zaliczyło wyjątkowo trudny start, ale Starbreeze najwyraźniej wreszcie zaczyna odwracać losy swojej produkcji. Podczas darmowego weekendu do napadów przystąpiło ponad 320 tysięcy osób, z czego aż 250 tysięcy stanowili zupełnie nowi ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Tyle były warte przeprosiny twórców Crimson Desert. Pearl Abyss wykorzysta AI w „całym procesie rozwoju” swoich gier",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tyle-byly-warte-przeprosiny-tworcow-crimson-desert-pearl-abyss-wy/zd32332",
+      "publishedAt": "2026-11-14T07:45+01:00",
+      "summary": "Łatwo jest powiedzieć „przepraszam”. Trudniej oprzeć się możliwościom, jakie daje AI. Twórcy Crimson Desert wprost ogłosili, że zamierzają mocno wykorzystać sztuczną inteligencję, choć nie tak dawno prosili za to graczy o przebaczenie. Informacja Tyle były warte przeprosiny twórców Crimson Desert. Pearl Abyss wykorzysta AI w „całym procesie rozwoju” swoich gier została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532319477.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Kradzież GTA 6 bez otwierania pudełka?! Gracze alarmują o ogromnym problemie",
@@ -26,6 +70,15 @@
       "publishedAt": "2026-11-14T06:49+01:00",
       "summary": "Do premiery GTA 6 pozostało zaledwie pięć dni, a Rockstar Games kolejny raz pozwala nam zajrzeć za kulisy jednej z najbardziej wyczekiwanych produkcji w historii branży. Najnowsze informacje pokazują, że twórcy nie zamierzają zaoferować jedyni...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nominacje do The Game Awards 2026 zostaną ogłoszone na 2 dni przed premierą GTA 6. Rockstar musi liczyć na zaufanie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nominacje-do-the-game-awards-2026-zostana-ogloszone-na-2-dni-prze/zc32331",
+      "publishedAt": "2026-11-14T06:30+01:00",
+      "summary": "W najbliższy wtorek poznamy gry i studia nominowane do The Game Awards 2026. GTA 6 może się wśród nich znaleźć, ale w teorii wcale nie musi. Wszystko zależy od zaufania, jakim darzony jest Rockstar. Informacja Nominacje do The Game Awards 2026 zostaną ogłoszone na 2 dni przed premierą GTA 6. Rockstar musi liczyć na zaufanie została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532315332.jpg"
     },
     {
       "sourceName": "PPE",
