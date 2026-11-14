@@ -1,17 +1,34 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T12:01+01:00",
+  "updatedAt": "2026-11-14T12:55+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gothic 3 na Steam może otrzymać coś, o czym gracze marzyli od kilkunastu lat. Wszystko ujawniła baza danych",
-    "summary": "Po 17 latach od debiutu na Steamie Gothic 3 może wreszcie doczekać się funkcji, o którą fani zabiegają od dawna. Wszystko za sprawą intrygującego odkrycia w bazie danych platformy Valve. Informacja Gothic 3 na Steam może otrzymać coś, o czym gracze marzyli od kilkunastu lat. Wszystko ujawniła baza danych została opublikowana przez GRYOnline.pl 14 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gothic-3-na-steam-moze-otrzymac-cos-o-czym-gracze-marzyli-od-kilk/z032335",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532351686.jpg"
+    "title": "Od dziś na SkyShowtime obejrzysz przygodowy hit, który zgarnął ponad miliard dolarów i jest polecany przez 87% widzów",
+    "summary": "Na SkyShowtime można już obejrzeć wielki hit, który na początku roku podbił kina i jako pierwszy przekroczył próg 1 mld dolarów w box office. Informacja Od dziś na SkyShowtime obejrzysz przygodowy hit, który zgarnął ponad miliard dolarów i jest polecany przez 87% widzów została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/od-dzis-na-skyshowtime-obejrzysz-przygodowy-hit-ktory-zgarnal-pon/zf3231f",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532270986.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Od dziś na SkyShowtime obejrzysz przygodowy hit, który zgarnął ponad miliard dolarów i jest polecany przez 87% widzów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/od-dzis-na-skyshowtime-obejrzysz-przygodowy-hit-ktory-zgarnal-pon/zf3231f",
+      "publishedAt": "2026-11-14T13:02+01:00",
+      "summary": "Na SkyShowtime można już obejrzeć wielki hit, który na początku roku podbił kina i jako pierwszy przekroczył próg 1 mld dolarów w box office. Informacja Od dziś na SkyShowtime obejrzysz przygodowy hit, który zgarnął ponad miliard dolarów i jest polecany przez 87% widzów została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532270986.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Fani Crimson Desert wpadli w furię! Żadne studio tak mocno nie okłamało graczy",
+      "sourceUrl": "https://www.ppe.pl/news/433111/fani-crimson-desert-wpadli-w-furie-zadne-studio-tak-mocno-nie-oklamalo-graczy.html",
+      "publishedAt": "2026-11-14T12:44+01:00",
+      "summary": "Sztuczna inteligencja w grach wideo to temat, który od dawna wzbudza potężne emocje, a najnowsze wieści od twórców Crimson Desert tylko dolewają oliwy do ognia. Koreańskie studio Pearl Abyss, znane z przepięknych, otwartych światów, znów zna...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gothic 3 na Steam może otrzymać coś, o czym gracze marzyli od kilkunastu lat. Wszystko ujawniła baza danych",
@@ -20,6 +37,41 @@
       "summary": "Po 17 latach od debiutu na Steamie Gothic 3 może wreszcie doczekać się funkcji, o którą fani zabiegają od dawna. Wszystko za sprawą intrygującego odkrycia w bazie danych platformy Valve. Informacja Gothic 3 na Steam może otrzymać coś, o czym gracze marzyli od kilkunastu lat. Wszystko ujawniła baza danych została opublikowana przez GRYOnline.pl 14 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532351686.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Rekordowa oferta na Lobotomia II: Obława w RTV Euro AGD. Gra planszowa już za 399 zł!",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/rekordowa-oferta-na-lobotomia-ii-oblawa-w-rtv-euro-agd-gra-planszowa-juz-za-399-zl/",
+      "publishedAt": "2026-11-14T12:32+01:00",
+      "summary": "W sieci sklepów RTV Euro AGD możecie możecie zakupić rekordowo tanio Lobotomia II: Obława od wydawnictwa Czacha Games. Świetnie oceniana przez społeczność planszówka oferowana jest w promocyjnej cenie 399 zł. Tytuł przeznaczony dla maksymalnie pięciu graczy otrzymał już ponad 430 opinii od użytkowników, uzyskując średnią ocenę wynoszącą 8.0 w serwisie BoardGameGeek . Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Rekordowa-oferta-na-Lobotomia-II_-Oblawa-w-RTV-Euro-AGD.-Gra-planszowa-juz-za-399-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórca Skyrima po latach przyznaje się do jednego z największych błędów. Gracze chcieli czegoś zupełnie innego",
+      "sourceUrl": "https://www.ppe.pl/news/433103/tworca-skyrima-po-latach-przyznaje-sie-do-jednego-z-najwiekszych-bledow-gracze-chcieli-czegos-zupelnie-innego.html",
+      "publishedAt": "2026-11-14T12:30+01:00",
+      "summary": "Projektując ogromną grę RPG, trudno przewidzieć, jak długo gracze będą chcieli pozostać ze stworzonymi bohaterami. Bruce Nesmith, główny projektant Skyrima, przyznał po latach, że błędnie ocenił przywiązanie fanów do ich postaci. Dziś ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Oferta Weekendowa na Steam. Polska gra JDM: Japanese Drift Master już za 41,65 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-oferta-weekendowa-na-steam-polska-gra-jdm-japanese-drift-master-juz-za-4165-zl/",
+      "publishedAt": "2026-11-14T12:16+01:00",
+      "summary": "Łowcy, czas na drugą w listopadzie wyprzedaż z cyklu Oferta Weekendowa na Steam. Tym razem wybrane gry na PC w sklepie Valve dostępne są z rabatami sięgającymi -90%. Na szczególne wyróżnienie zasługuje tutaj gra JDM: Japanese Drift Master w historycznie najniższej cenie. Produkcja polskiego studia Gaming Factory dostępna jest za 41,65 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Oferta-Weekendowa-na-Steam.-Polska-gra-JDM_-Japanese-Drift-Master-juz-za-4165-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw komiksów Cyberpunk 2077 i Wiedźmin tanio w Fanatical. Ponad 3800 stron już za 80 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-komiksow-cyberpunk-2077-i-wiedzmin-tanio-w-fanatical-ponad-3800-stron-juz-za-80-zl/",
+      "publishedAt": "2026-11-14T12:00+01:00",
+      "summary": "Łowcy, co bardziej rozpala Waszą wyobrażnie: dodatek do Wiedźmina 3, a może jednak na premiera Wiedźmin IV? Jeśli jesteście fanami świata wykreowanego przez Andrzeja Sapkowskiego albo zakochaliście się w estetyce zaprezentowanej w grze Cyberpunk 2077, to Fanatical przygotowało dla Was specjalny zestaw pełen komiksów od wydawnictwa Dark Horse. W ramach pakietu Cyberpunk 2077 & The Witcher Comic Collection możecie otrzymać maksymalnie 31 pozycji osadzonych w uniwersach Wiedźmin oraz Cyberpunk 2077 . Całość oferowana jest w trzech progach cenowych, a najdroższych z nich może być Wasz za niecałe 80 zł ! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Zestaw-komiksow-Cyberpunk-2077-i-Wiedzmin-tanio-w-Fanatical.-Ponad-3800-stron-juz-za-81-zl_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
