@@ -1,17 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T06:01+01:00",
+  "updatedAt": "2026-11-14T07:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Zagraj w Sunderfolk za darmo na konsolach Xbox. Cztery nowe gry we Free Play Days!",
-    "summary": "W ramach drugiej w tym miesięcy odsłony Xbox Free Play Days, posiadacze konsol Microsoftu mogą przetestować kolejne cztery produkcje na Xbox One i Xbox Series X|S. Przez najbliższy weekend możecie ograć m.in.: Sunderfolk za darmo. Oferta promocyjna obowiązuje do 15 listopada, do godziny 8:59. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/darmowe/zagraj-w-sunderfolk-za-darmo-na-konsolach-xbox-cztery-nowe-gry-we-free-play-days/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zagraj-w-Sunderfolk-za-darmo-na-konsolach-Xbox.-Cztery-nowe-gry-we-Free-Play-Days_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Na 5 dni przed premierą GTA 6 mamy MNÓSTWO nowych informacji. Relacja, napady, świat i więcej",
+    "summary": "Do premiery GTA 6 pozostało zaledwie pięć dni, a Rockstar Games kolejny raz pozwala nam zajrzeć za kulisy jednej z najbardziej wyczekiwanych produkcji w historii branży. Najnowsze informacje pokazują, że twórcy nie zamierzają zaoferować jedyni...",
+    "sourceUrl": "https://www.ppe.pl/news/433099/na-5-dni-przed-premiera-gta-6-mamy-mnostwo-nowych-informacji-relacja-napady-swiat-i-wiecej.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Na 5 dni przed premierą GTA 6 mamy MNÓSTWO nowych informacji. Relacja, napady, świat i więcej",
+      "sourceUrl": "https://www.ppe.pl/news/433099/na-5-dni-przed-premiera-gta-6-mamy-mnostwo-nowych-informacji-relacja-napady-swiat-i-wiecej.html",
+      "publishedAt": "2026-11-14T06:49+01:00",
+      "summary": "Do premiery GTA 6 pozostało zaledwie pięć dni, a Rockstar Games kolejny raz pozwala nam zajrzeć za kulisy jednej z najbardziej wyczekiwanych produkcji w historii branży. Najnowsze informacje pokazują, że twórcy nie zamierzają zaoferować jedyni...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "W kwietniu film podbił kina i już teraz jest na SkyShowtime. Znakomita historia dla graczy w streamingu",
+      "sourceUrl": "https://www.ppe.pl/news/433093/w-kwietniu-film-podbil-kina-i-juz-teraz-jest-na-skyshowtime-znakomita-historia-dla-graczy-w-streamingu.html",
+      "publishedAt": "2026-11-14T06:29+01:00",
+      "summary": "Ta historia rozbudziła emocje graczy na całym świecie i udowodniła, że największe marki z branży elektronicznej rozrywki mogą odnosić spektakularne sukcesy również na wielkim ekranie. W kwietniu widzowie tłumnie ruszyli do kin, a najnowsza a...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Zagraj w Sunderfolk za darmo na konsolach Xbox. Cztery nowe gry we Free Play Days!",
