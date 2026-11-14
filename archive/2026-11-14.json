@@ -1,17 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T19:01+01:00",
+  "updatedAt": "2026-11-14T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Preorder Hollow Knight: Silksong na Nintendo Switch 2 już od 183 zł w polskich sklepach",
-    "summary": "Jedna z najlepszych gier niezależnych, a prawdopodobnie i w ogóle, ostatnich lat już niedługo otrzyma swoją wersję pudełkową na konsolę Nintendo Switch 2. Hollow Knight: Silksong, czyli doceniona przez graczy i krytyków produkcja z gatunku metroidvanii, dostępna jest w ofercie polskich sklepów już od 183 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/preorder-hollow-knight-silksong-na-nintendo-switch-2-juz-od-183-zl-w-polskich-sklepach/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Hollow-Knight_-Silksong-na-Nintendo-Switch-2_miniaturka-224x224.jpg"
+    "title": "Preorder Grand Theft Auto VI The Album w polskich sklepach. Płyty CD i winylowe ze ścieżką dźwiękową już od 55,99 zł",
+    "summary": "Dwupłytowe wydanie Grand Theft Auto VI: The Album, pojawiło się w przedsprzedaży w sklepie internetowym Empik.com. Zawierająca 34 utwory ścieżka dźwiękowa, mająca oddać klimat Vice City i Leonidy, kosztuje 67,50 zł za płyty CD. Winyle są odpowiednio droższe, bowiem 179,99 zł za czarne i 224,99 zł za kolorowe. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/preordery/preorder-grand-theft-auto-vi-the-album-w-polskich-sklepach-plyty-cd-i-winylowe-ze-sciezka-dzwiekowa-juz-od-5599-zl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/gta-vi-the-album-miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder Grand Theft Auto VI The Album w polskich sklepach. Płyty CD i winylowe ze ścieżką dźwiękową już od 55,99 zł",
+      "sourceUrl": "https://lowcygier.pl/preordery/preorder-grand-theft-auto-vi-the-album-w-polskich-sklepach-plyty-cd-i-winylowe-ze-sciezka-dzwiekowa-juz-od-5599-zl/",
+      "publishedAt": "2026-11-14T20:00+01:00",
+      "summary": "Dwupłytowe wydanie Grand Theft Auto VI: The Album, pojawiło się w przedsprzedaży w sklepie internetowym Empik.com. Zawierająca 34 utwory ścieżka dźwiękowa, mająca oddać klimat Vice City i Leonidy, kosztuje 67,50 zł za płyty CD. Winyle są odpowiednio droższe, bowiem 179,99 zł za czarne i 224,99 zł za kolorowe. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/gta-vi-the-album-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Crazy Taxi na nowym materiale. Sega zabierze nas do nowego egzotycznego regionu",
+      "sourceUrl": "https://www.ppe.pl/news/433120/crazy-taxi-na-nowym-materiale-sega-zabierze-nas-do-nowego-egzotycznego-regionu.html",
+      "publishedAt": "2026-11-14T19:45+01:00",
+      "summary": "Sega nie odpuszcza i inwestuje w rozwój nowego Crazy Taxi bardzo dużo dodatkowych środków, dzięki czemu powracająca po latach marka może zyskać nowy blask i zaskoczyć graczy swoim gigantycznym rozmachem.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nowa promocja z udziałem GTA VI! Kup telewizor LG w Media Expert i odbierz grę Rockstara za darmo!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/nowa-promocja-z-udzialem-gta-vi-kup-telewizor-lg-w-media-expert-i-odbierz-gre-rockstara-za-darmo/",
+      "publishedAt": "2026-11-14T19:31+01:00",
+      "summary": "Łowcy, nie ma co ukrywać, że premiera Grand Theft Auto VI elektryzuje graczy, a kolejne sklepy przygotowują związane z nią promocje. Pisaliśmy już o ofertach innych sklepów w ramach akcji łączonych „kup TV, a otrzymasz grę za złotówkę”, a teraz czas na propozycję sieci Media Expert. Przy zakupie wybranego telewizora LG otrzymacie tam grę Rockstara na PlayStation 5 lub Xbox Series X|S bez dodatkowych opłat. W akcji znajdziecie modele OLED oraz Mini RGB, w tym 65-calowy LG 65MRGB86B6A za 3999 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nowa-promocja-z-udzialem-GTA-VI-Kup-telewizor-LG-w-Media-Expert-i-odbierz-gre-Rockstara-za-darmo_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z TOTALNĄ nowością. Takiej rzeczy nigdy nie było w serii Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/news/433124/gta-6-z-totalna-nowoscia-takiej-rzeczy-nigdy-nie-bylo-w-serii-rockstar-games.html",
+      "publishedAt": "2026-11-14T19:16+01:00",
+      "summary": "Premiera Grand Theft Auto 6 to kwestia zaledwie kilku dni, a do sieci wciąż trafiają nowe, często bardzo zaskakujące informacje.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Preorder Hollow Knight: Silksong na Nintendo Switch 2 już od 183 zł w polskich sklepach",
