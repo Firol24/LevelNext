@@ -1,17 +1,42 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T18:38+01:00",
+  "updatedAt": "2026-11-14T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Tygodniowe podsumowanie promocji z Nintendo eShop. Rekordowe zniżki na indyki i rabaty -90%",
-    "summary": "Łowcy, nadeszła pora na trzecie w tym miesiącu, tygodniowe podsumowanie najciekawszych promocji dostępnych w Nintendo eShop. Tym razem dobre oferty czekają na fanów produkcji indie, bowiem na pierwszy plan wysuwają się gry niezależne, w tym BALL x PIT za 30 zł, Potion Craft: Alchemist Simulator za 27,99 zł oraz I Am Future: Cozy Apocalypse Survival za 28 zł. Fani mroczniejszych klimatów mogą sięgnąć po SOMA za 23,99 zł i polskie Darkwood za 12,50 zł, a miłośnicy rozbudowanych RPG po wiecznie żywe The Elder Scrolls V: Skyrim za 87,60 zł. W dobrych cenach kupicie również Tinykin za 24,75 zł, Nobody Saves the World za 30 zł oraz przecenione o 90",
-    "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tygodniowe-podsumowanie-promocji-z-nintendo-eshop-rekordowe-znizki-na-indyki-i-rabaty-90/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tygodniowe-podsumowanie-promocji-z-Nintendo-eShop.-Rekordowe-znizki-na-indyki-i-rabaty-90_miniaturka-224x224.jpg"
+    "title": "Preorder Hollow Knight: Silksong na Nintendo Switch 2 już od 183 zł w polskich sklepach",
+    "summary": "Jedna z najlepszych gier niezależnych, a prawdopodobnie i w ogóle, ostatnich lat już niedługo otrzyma swoją wersję pudełkową na konsolę Nintendo Switch 2. Hollow Knight: Silksong, czyli doceniona przez graczy i krytyków produkcja z gatunku metroidvanii, dostępna jest w ofercie polskich sklepów już od 183 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/preorder-hollow-knight-silksong-na-nintendo-switch-2-juz-od-183-zl-w-polskich-sklepach/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Hollow-Knight_-Silksong-na-Nintendo-Switch-2_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder Hollow Knight: Silksong na Nintendo Switch 2 już od 183 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/preorder-hollow-knight-silksong-na-nintendo-switch-2-juz-od-183-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-14T18:59+01:00",
+      "summary": "Jedna z najlepszych gier niezależnych, a prawdopodobnie i w ogóle, ostatnich lat już niedługo otrzyma swoją wersję pudełkową na konsolę Nintendo Switch 2. Hollow Knight: Silksong, czyli doceniona przez graczy i krytyków produkcja z gatunku metroidvanii, dostępna jest w ofercie polskich sklepów już od 183 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Hollow-Knight_-Silksong-na-Nintendo-Switch-2_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "\"GTA to najlepsza i najważniejsza seria gier na świecie\". Wydawca skłócił graczy",
+      "sourceUrl": "https://www.ppe.pl/news/433123/gta-to-najlepsza-i-najwazniejsza-seria-gier-na-swiecie-wydawca-sklocil-graczy.html",
+      "publishedAt": "2026-11-14T18:49+01:00",
+      "summary": "Premiera Grand Theft Auto 6 to bez wątpienia najważniejsze wydarzenie tego roku w świecie gier, ale szef firmy wydawniczej Take-Two postanowił dodatkowo podgrzać i tak już niezwykle gorącą atmosferę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pixar perfidnie ściąga pomysły od DreamWorksu? Gatto to bajka o kocie, któremu zostało ostatnie życie",
+      "sourceUrl": "https://www.ppe.pl/news/433118/pixar-perfidnie-sciaga-pomysly-od-dreamworksu-gatto-to-bajka-o-kocie-ktoremu-zostalo-ostatnie-zycie.html",
+      "publishedAt": "2026-11-14T18:42+01:00",
+      "summary": "Gatto to jedna z najnowszych oryginalnych animacji studia Pixar, które oprócz wielce wyczekiwanych sequeli jak Toy Story 5, pracuje także nad świeżymi pomysłami, które mogą przerodzić się w nowe wielkie marki.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Tygodniowe podsumowanie promocji z Nintendo eShop. Rekordowe zniżki na indyki i rabaty -90%",
