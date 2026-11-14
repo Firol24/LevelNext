@@ -1,16 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T16:01+01:00",
+  "updatedAt": "2026-11-14T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Shrek 2 Remastered - recenzja gry. Wracamy na bagno!",
-    "summary": "Tego powrotu nikt się nie spodziewał, a jednak nastąpił. Growa adaptacja Shreka 2 zawitała na współczesnych konsolach, ale czy powinien? Zapraszamy do recenzji Shrek 2 Remastered.",
-    "sourceUrl": "https://www.ppe.pl/recenzje/432783/shrek-2-remastered-recenzja-gry-wracamy-na-bagno.html"
+    "category": "PROMOCJE",
+    "title": "Promocje na myszki bezprzewodowe w sklepie x-kom. Przegląd najlepszych okazji już od 28 zł",
+    "summary": "Łowcy, przejrzeliśmy ofertę x-komu i zebraliśmy dla Was najciekawsze promocje na myszki bezprzewodowe. W zestawieniu znajdziecie niedrogie modele do codziennej pracy, ciche myszki biurowe i konstrukcje wertykalne, a także propozycje dla graczy od Logitecha, SteelSeries czy Genesis. Ceny zaczynają się od 28 zł za Natec CRAKE 2, a wśród ofert warto wyróżnić Silver Monkey M40 za 34,99 zł, SteelSeries Rival 3 Wireless Gen 2 za 139 zł oraz Logitech G305 Lightspeed za 147 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocje-na-myszki-bezprzewodowe-w-sklepie-x-kom-przeglad-najlepszych-okazji-juz-od-28-zl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocje-na-myszki-bezprzewodowe-w-sklepie-x-kom.-Przeglad-najlepszych-okazji-juz-od-28-zl_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na myszki bezprzewodowe w sklepie x-kom. Przegląd najlepszych okazji już od 28 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocje-na-myszki-bezprzewodowe-w-sklepie-x-kom-przeglad-najlepszych-okazji-juz-od-28-zl/",
+      "publishedAt": "2026-11-14T17:00+01:00",
+      "summary": "Łowcy, przejrzeliśmy ofertę x-komu i zebraliśmy dla Was najciekawsze promocje na myszki bezprzewodowe. W zestawieniu znajdziecie niedrogie modele do codziennej pracy, ciche myszki biurowe i konstrukcje wertykalne, a także propozycje dla graczy od Logitecha, SteelSeries czy Genesis. Ceny zaczynają się od 28 zł za Natec CRAKE 2, a wśród ofert warto wyróżnić Silver Monkey M40 za 34,99 zł, SteelSeries Rival 3 Wireless Gen 2 za 139 zł oraz Logitech G305 Lightspeed za 147 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocje-na-myszki-bezprzewodowe-w-sklepie-x-kom.-Przeglad-najlepszych-okazji-juz-od-28-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Remaster kultowego Super Meat Boy nadchodzi! Zobaczcie piękny zwiastun Super Meat Boy Again+",
+      "sourceUrl": "https://www.ppe.pl/news/433117/remaster-kultowego-super-meat-boy-nadchodzi-zobaczcie-piekny-zwiastun-super-meat-boy-again.html",
+      "publishedAt": "2026-11-14T16:54+01:00",
+      "summary": "Super Meat Boy jest jedną z najważniejszych gier niezależnych w historii branży, bowiem wychodzi się z czasów, w których absolutnie każdy deweloper niezależny musiał walczyć o dostęp do szerokiej publiczności niczym lew.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka bezprzewodowa Anker 313 Qi 10W za 38,99 zł (40 zł taniej) w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-bezprzewodowa-anker-313-qi-10w-za-3899-zl-40-zl-taniej-w-amazon-pl/",
+      "publishedAt": "2026-11-14T16:30+01:00",
+      "summary": "Ładowarka bezprzewodowa Anker 313 w białej wersji kolorystycznej pojawiła się w promocyjnej cenie w polskim Amazonie. Model obsługujący standard Qi i oferujący moc do 10 W kupicie teraz za 38,99 zł. Sprzęt wykorzystacie do ładowania kompatybilnych telefonów, a także słuchawek AirPods czy Galaxy Buds wyposażonych w etui z obsługą ładowania indukcyjnego. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Anker-313-Qi-10W_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Shrek 2 Remastered - recenzja gry. Wracamy na bagno!",
