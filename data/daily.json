@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T21:01+01:00",
+  "updatedAt": "2026-11-14T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Media Expert pozwala zaoszczędzić nawet 1500 zł! Laptop z RTX 5060, 75-calowy telewizor i popularne LEGO w świetnych cenach",
-    "summary": "Media Expert nie czeka na Black Friday i już teraz mocno obniża ceny popularnych produktów. Wśród licznych promocji znalazły się prawdziwe perełki, na których można zaoszczędzić nawet 1500 zł. Informacja Media Expert pozwala zaoszczędzić nawet 1500 zł! Laptop z RTX 5060, 75-calowy telewizor i popularne LEGO w świetnych cenach została opublikowana przez GRYOnline.pl 14 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/media-expert-pozwala-zaoszczedzic-nawet-1500-zl-laptop-z-rtx-5060/zc3233a",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532382666.jpg"
+    "category": "PROMOCJE",
+    "title": "Pudełkowe wydanie Metal Gear Solid Master Collection vol. 2 na PS5 za 139,20 zł na Allegro",
+    "summary": "Jeśli jeszcze do tej pory nie zaopatrzyliście się w kompilację wydaną przez Konami i zawierającą MGS4: Guns of the Patriots, Peace Walker oraz Ghost Babel z Game Boy Color, to dzięki ofercie Allegro macie okazję nadrobić te zaległości. Cena Metal Gear Solid Master Collection vol. 2 w wersji na konsolę Sony PlayStation 5 wynosi tam teraz bowiem przyzwoite 139,20 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-wydanie-metal-gear-solid-master-collection-vol-2-na-ps5-za-13920-zl-na-allegro/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/metal-gear-solid-master-collection-vol-2-miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe wydanie Metal Gear Solid Master Collection vol. 2 na PS5 za 139,20 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-wydanie-metal-gear-solid-master-collection-vol-2-na-ps5-za-13920-zl-na-allegro/",
+      "publishedAt": "2026-11-14T21:29+01:00",
+      "summary": "Jeśli jeszcze do tej pory nie zaopatrzyliście się w kompilację wydaną przez Konami i zawierającą MGS4: Guns of the Patriots, Peace Walker oraz Ghost Babel z Game Boy Color, to dzięki ofercie Allegro macie okazję nadrobić te zaległości. Cena Metal Gear Solid Master Collection vol. 2 w wersji na konsolę Sony PlayStation 5 wynosi tam teraz bowiem przyzwoite 139,20 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/metal-gear-solid-master-collection-vol-2-miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Media Expert pozwala zaoszczędzić nawet 1500 zł! Laptop z RTX 5060, 75-calowy telewizor i popularne LEGO w świetnych cenach",
