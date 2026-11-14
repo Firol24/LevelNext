@@ -1,17 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T17:01+01:00",
+  "updatedAt": "2026-11-14T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Promocje na myszki bezprzewodowe w sklepie x-kom. Przegląd najlepszych okazji już od 28 zł",
-    "summary": "Łowcy, przejrzeliśmy ofertę x-komu i zebraliśmy dla Was najciekawsze promocje na myszki bezprzewodowe. W zestawieniu znajdziecie niedrogie modele do codziennej pracy, ciche myszki biurowe i konstrukcje wertykalne, a także propozycje dla graczy od Logitecha, SteelSeries czy Genesis. Ceny zaczynają się od 28 zł za Natec CRAKE 2, a wśród ofert warto wyróżnić Silver Monkey M40 za 34,99 zł, SteelSeries Rival 3 Wireless Gen 2 za 139 zł oraz Logitech G305 Lightspeed za 147 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocje-na-myszki-bezprzewodowe-w-sklepie-x-kom-przeglad-najlepszych-okazji-juz-od-28-zl/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocje-na-myszki-bezprzewodowe-w-sklepie-x-kom.-Przeglad-najlepszych-okazji-juz-od-28-zl_miniaturka-224x224.jpg"
+    "title": "Zestaw LEGO City Łódź strażacka już za 49,88 zł (cena kat. 81,99 zł) w polskich sklepach",
+    "summary": "Dzięki ofercie Media Markt oraz polskiego Amazona, macie teraz dobrą okazję na zakup zestawu LEGO City Łódź strażacka. Na ten sympatyczny skądinąd set składają się 144 duńskie klocki oraz 3 minifigurki, z których odtworzycie scenę ratunku pasażerki płonącego statku. Cena modelu wynosi aktualnie 49,88 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-city-lodz-strazacka-juz-za-4988-zl-cena-kat-8199-zl-w-polskich-sklepach/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Promocja-na-LEGO-60373-City-Lodz-strazacka_miniaturka1-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw LEGO City Łódź strażacka już za 49,88 zł (cena kat. 81,99 zł) w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-city-lodz-strazacka-juz-za-4988-zl-cena-kat-8199-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-14T18:00+01:00",
+      "summary": "Dzięki ofercie Media Markt oraz polskiego Amazona, macie teraz dobrą okazję na zakup zestawu LEGO City Łódź strażacka. Na ten sympatyczny skądinąd set składają się 144 duńskie klocki oraz 3 minifigurki, z których odtworzycie scenę ratunku pasażerki płonącego statku. Cena modelu wynosi aktualnie 49,88 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Promocja-na-LEGO-60373-City-Lodz-strazacka_miniaturka1-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tekken, Naruto i Dark Souls to prawdziwe POTĘGI. Poznaliśmy wynik sprzedaży gier Bandai Namco",
+      "sourceUrl": "https://www.ppe.pl/news/433121/tekken-naruto-i-dark-souls-to-prawdziwe-potegi-poznalismy-wynik-sprzedazy-gier-bandai-namco.html",
+      "publishedAt": "2026-11-14T17:58+01:00",
+      "summary": "Bandai Namco jest jednym z czołowych japońskich wydawców gier, mając na swoim koncie niezliczoną ilość świetnych marek, wśród których są prawdziwi branżowi pionierzy, bez których dzisiejsza branża wyglądałaby zupełnie inaczej.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe NBA 2K27 na PlayStation 5 już za 143,55 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-nba-2k27-na-playstation-5-juz-za-14355-zl-na-allegro/",
+      "publishedAt": "2026-11-14T17:30+01:00",
+      "summary": "W serwisie Allegro znajdziecie teraz dobrą okazję na zakup fizycznej wersji gry NBA 2K27 na PS5. Najnowsza odsłona koszykarskiej serii pozwala rozwijać karierę własnego zawodnika, budować drużynę marzeń w MyTEAM oraz zarządzać klubem w MyNBA, jak i oczywiście na zabawę z innymi na kanapie czy też online. Za pudełkowe wydanie na płycie Blu-ray zapłacicie aktualnie 143,55 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-nba-2k27-ps5_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Promocje na myszki bezprzewodowe w sklepie x-kom. Przegląd najlepszych okazji już od 28 zł",
