@@ -1,17 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T09:01+01:00",
+  "updatedAt": "2026-11-14T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„Nie mogłem tego zrobić”. 47 lat temu Robert De Niro odrzucił rolę w jednym z największych filmów w historii kina",
-    "summary": "Robert De Niro miał szansę zagrać w jednym z największych filmów w historii kina, ale był zmuszony do zrezygnowania z tej szansy. Informacja „Nie mogłem tego zrobić”. 47 lat temu Robert De Niro odrzucił rolę w jednym z największych filmów w historii kina została opublikowana przez GRYOnline.pl 14 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nie-moglem-tego-zrobic-47-lat-temu-robert-de-niro-odrzucil-role-w/z532295",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/531923144.jpg"
+    "title": "Powstawała 8 lat, a umarła niecały rok po premierze. Postapokaliptyczna survivalowa strzelanka Pioner to już historia",
+    "summary": "Osiem lat produkcji nie wystarczyło, by zapewnić Pionerowi sukces. Postapokaliptyczna strzelanka nie doczeka się pełnej wersji. Informacja Powstawała 8 lat, a umarła niecały rok po premierze. Postapokaliptyczna survivalowa strzelanka Pioner to już historia została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/powstawala-8-lat-a-umarla-niecaly-rok-po-premierze-postapokalipty/zf32334",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532345701.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Powstawała 8 lat, a umarła niecały rok po premierze. Postapokaliptyczna survivalowa strzelanka Pioner to już historia",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/powstawala-8-lat-a-umarla-niecaly-rok-po-premierze-postapokalipty/zf32334",
+      "publishedAt": "2026-11-14T10:54+01:00",
+      "summary": "Osiem lat produkcji nie wystarczyło, by zapewnić Pionerowi sukces. Postapokaliptyczna strzelanka nie doczeka się pełnej wersji. Informacja Powstawała 8 lat, a umarła niecały rok po premierze. Postapokaliptyczna survivalowa strzelanka Pioner to już historia została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532345701.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pół miliona widzów nie kłamie! To najlepszy horror tej jesieni!",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433104/pol-miliona-widzow-nie-klamie-to-najlepszy-horror-tej-jesieni.html",
+      "publishedAt": "2026-11-14T10:00+01:00",
+      "summary": "Wystarczy zrzucić kanoniczną odpowiedzialność a powstaną rzeczy niebywałe, niespodziewane i oryginalne. W taki mniej więcej sposób myślał Zach Cregger (\"Zniknięcia, \"Barbarzyńca\") siadając do scenariusza swojej pierwszej adaptacji gry wideo.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na LG OLEDB65LA w Media Markt. Telewizor OLED 65″ + baterie już za 5166 zł!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocja-na-lg-oledb65la-w-media-markt-telewizor-oled-65-baterie-juz-za-5166-zl/",
+      "publishedAt": "2026-11-14T09:41+01:00",
+      "summary": "Łowcy, w ramach wyprzedaży „70 za 500” możecie zakupić w doskonałej cenie telewizor LG z matrycą OLED. Aby skorzystać z promocji musicie dodać do koszyka dwa produkty objęte ofertą, z której najtańszy wydaje się zestaw 10 baterii guzikowych LR41 od GP . W podsumowaniu zamówienia cena LG OLED65B65LA o przekątnej 65″, wyposażonego w porty HDMI 2.1 oraz wspierający technologię Dolby Vision i Dolby Atmos, zostanie obniżona do 5166,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lg-oled-b65la-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Avengers: Doomsday wykorzysta wielki błąd herosów? Kevin Feige zdradza kierunek historii",
+      "sourceUrl": "https://www.ppe.pl/news/433096/avengers-doomsday-wykorzysta-wielki-blad-herosow-kevin-feige-zdradza-kierunek-historii.html",
+      "publishedAt": "2026-11-14T09:30+01:00",
+      "summary": "Od wydarzeń przedstawionych w Avengers: Endgame kinowe uniwersum Marvela pozostaje bez jednej, zorganizowanej drużyny najpotężniejszych bohaterów Ziemi. Kevin Feige potwierdził, że nie jest to wyłącznie efekt kilkuletniej przerwy pomiędzy kole...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„Nie mogłem tego zrobić”. 47 lat temu Robert De Niro odrzucił rolę w jednym z największych filmów w historii kina",
@@ -37,6 +71,15 @@
       "summary": "Po „depresyjnej jesieni” w Liberty City studio Rockstar Games postanowiło przenieść nas w kolorowe, szalone lata osiemdziesiąte. Grand Theft Auto: Vice City to produkcja, która stała się wirtualnym symbolem tego okresu. Informacja GTA Vice City miało być tylko rozwinięciem GTA 3, a stało się legendą. Do dziś pamiętam kody, muzykę i tę przeklętą misję z helikopterem została opublikowana przez GRYOnline.pl 14 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532263629.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Po 18 latach Ubisoft planuje powrót jednej z najbardziej lubianych podserii Rainbow Six",
+      "sourceUrl": "https://cdaction.pl/newsy/po-18-latach-ubisoft-planuje-powrot-jednej-z-najbardziej-lubianych-podserii-rainbow-six/",
+      "publishedAt": "2026-11-14T09:00+01:00",
+      "summary": "Niestety na razie mamy poszlaki, ale przynajmniej z pewnego źródła.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/rainbow-six-vegas-7743.jpg"
     },
     {
       "sourceName": "PPE",
