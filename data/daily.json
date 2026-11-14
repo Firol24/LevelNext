@@ -1,17 +1,84 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T13:01+01:00",
+  "updatedAt": "2026-11-14T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Od dziś na SkyShowtime obejrzysz przygodowy hit, który zgarnął ponad miliard dolarów i jest polecany przez 87% widzów",
-    "summary": "Na SkyShowtime można już obejrzeć wielki hit, który na początku roku podbił kina i jako pierwszy przekroczył próg 1 mld dolarów w box office. Informacja Od dziś na SkyShowtime obejrzysz przygodowy hit, który zgarnął ponad miliard dolarów i jest polecany przez 87% widzów została opublikowana przez GRYOnline.pl 14 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/od-dzis-na-skyshowtime-obejrzysz-przygodowy-hit-ktory-zgarnal-pon/zf3231f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532270986.jpg"
+    "title": "Kod na GTA 6 można podejrzeć przez pudełko za pomocą latarki? Trzy zdjęcia wywołały strach, ale Rockstar się zabezpieczył",
+    "summary": "Wokół GTA 6 wybuchła kolejna kontrowersja. Zdjęcia opublikowane w sieci wzbudziły obawy wśród graczy i postawiły pod znakiem zapytania bezpieczeństwo pudełkowego wydania produkcji Rockstar Games. Informacja Kod na GTA 6 można podejrzeć przez pudełko za pomocą latarki? Trzy zdjęcia wywołały strach, ale Rockstar się zabezpieczył została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/kod-na-gta-6-mozna-podejrzec-przez-pudelko-za-pomoca-latarki-trzy/z232337",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532358723.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kod na GTA 6 można podejrzeć przez pudełko za pomocą latarki? Trzy zdjęcia wywołały strach, ale Rockstar się zabezpieczył",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kod-na-gta-6-mozna-podejrzec-przez-pudelko-za-pomoca-latarki-trzy/z232337",
+      "publishedAt": "2026-11-14T14:28+01:00",
+      "summary": "Wokół GTA 6 wybuchła kolejna kontrowersja. Zdjęcia opublikowane w sieci wzbudziły obawy wśród graczy i postawiły pod znakiem zapytania bezpieczeństwo pudełkowego wydania produkcji Rockstar Games. Informacja Kod na GTA 6 można podejrzeć przez pudełko za pomocą latarki? Trzy zdjęcia wywołały strach, ale Rockstar się zabezpieczył została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532358723.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Johnny Depp chce znów zagrać Jacka Sparrowa? Oby do tego doszło!",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432886/johnny-depp-chce-znow-zagrac-jacka-sparrowa-oby-do-tego-doszlo.html",
+      "publishedAt": "2026-11-14T14:00+01:00",
+      "summary": "Przez długi czas wydawało się, że temat powrotu Johnny’ego Deppa do „Piratów z Karaibów” można spokojnie odłożyć na półkę obok innych hollywoodzkich historii, które nigdy nie doczekają się szczęśliwego zakończenia. Relacje aktor...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W 1989 roku Amerykanie wpadli na genialny pomysł, by asfaltować drogi z wykorzystaniem zużytych opon. Trzy lata później pogrzebali cały projekt pod sześcioma kilometrami asfaltu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-1989-roku-amerykanie-wpadli-na-genialny-pomysl-by-asfaltowac-dr/z132327",
+      "publishedAt": "2026-11-14T14:00+01:00",
+      "summary": "Ponad 35 lat temu w Stanach Zjednoczonych próbowano pozbyć się ton zużytych opon, wykorzystując je przy budowie dróg. Bardzo szybko okazało się, dlaczego pomysł nie miał szans na powodzenie. Informacja W 1989 roku Amerykanie wpadli na genialny pomysł, by asfaltować drogi z wykorzystaniem zużytych opon. Trzy lata później pogrzebali cały projekt pod sześcioma kilometrami asfaltu została opublikowana przez GRYOnline.pl 14 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532275906.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Komputer Acer Predator Orion z RTX 5060 Ti, i7-14700F, Win 11 z rabatem 2000 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/433115/komputer-acer-predator-orion-z-rtx-5060-ti-i7-14700f-win-11-z-rabatem-2000-zl.html",
+      "publishedAt": "2026-11-14T13:59+01:00",
+      "summary": "W ramach nowych limitowanych okazji taniej o 2000 złotych nabędziemy komputer firmy Acer.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Niegdyś topowy tablet Xiaomi Pad 5 z 6/128 GB za 999 zł zamiast 1999 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/433114/niegdys-topowy-tablet-xiaomi-pad-5-z-6-128-gb-za-999-zl-zamiast-1999-zl.html",
+      "publishedAt": "2026-11-14T13:58+01:00",
+      "summary": "W sklepie Media Markt skorzystamy z oferty sięgającej aż 50% względem ceny standardowej.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Orbitals na Nintendo Switch 2 za 182 zł + kartridż + druga osoba zagra za darmo na NS2",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/425039/orbitals-na-nintendo-switch-2-za-179-zl-kartridz-druga-osoba-zagra-za-darmo-na-ns2.html",
+      "publishedAt": "2026-11-14T13:56+01:00",
+      "summary": "W sklepach Empik oraz RTV Euro AGD nabędziemy najnowszą premierę Nintendo Switch 2.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najnowszy Silent Hill Townfall z rabatem już ponad 60 zł na PS5",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/433113/najnowszy-silent-hill-townfall-z-rabatem-juz-ponad-60-zl-na-ps5.html",
+      "publishedAt": "2026-11-14T13:55+01:00",
+      "summary": "U zaufanego sprzedawcy blue-games na platformie Allegro taniej już o ponad 60 złotych względem ceny premierowej nabędziemy grę Silent Hill Townfall.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Podsumowanie wyprzedaży w GOG.com. Klasyki z Preservation Program do nawet 90% taniej!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/podsumowanie-wyprzedazy-w-gog-com-klasyki-z-preservation-program-do-nawet-90-taniej/",
+      "publishedAt": "2026-11-14T13:17+01:00",
+      "summary": "Łowcy, przedstawiamy Wam drugie w listopadzie podsumowanie promocji na gry PC z cyfrowego sklepu GOG.com. W dalszej części artykułu znajdziecie 200 najciekawszych ofert na tanie tytuły DRM-Free. Na szczególne wyróżnienie zasługują tutaj produkcje objęte Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Podsumowanie-wyprzedazy-w-GOG.com_.-Klasyki-z-Preservation-Program-do-nawet-90-taniej_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Od dziś na SkyShowtime obejrzysz przygodowy hit, który zgarnął ponad miliard dolarów i jest polecany przez 87% widzów",
