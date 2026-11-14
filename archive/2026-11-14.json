@@ -1,16 +1,67 @@
 {
   "status": "rss-only",
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T15:01+01:00",
+  "updatedAt": "2026-11-14T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Project Helix jednak tańszy? Microsoft staje przed trudnym wyborem",
-    "summary": "Wczoraj (13 listopada) do sprzedaży trafił jubileuszowy Xbox Series X25 za równe 899,99 dolara. W Polsce zaś za podstawowego Series S trzeba już wyłożyć ponad 2300 złotych. Kiedy więc miesiąc temu „Fortune” straszyło kolejnym Xboksem za ...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433083/project-helix-jednak-tanszy-microsoft-staje-przed-trudnym-wyborem.html"
+    "title": "Shrek 2 Remastered - recenzja gry. Wracamy na bagno!",
+    "summary": "Tego powrotu nikt się nie spodziewał, a jednak nastąpił. Growa adaptacja Shreka 2 zawitała na współczesnych konsolach, ale czy powinien? Zapraszamy do recenzji Shrek 2 Remastered.",
+    "sourceUrl": "https://www.ppe.pl/recenzje/432783/shrek-2-remastered-recenzja-gry-wracamy-na-bagno.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Shrek 2 Remastered - recenzja gry. Wracamy na bagno!",
+      "sourceUrl": "https://www.ppe.pl/recenzje/432783/shrek-2-remastered-recenzja-gry-wracamy-na-bagno.html",
+      "publishedAt": "2026-11-14T16:00+01:00",
+      "summary": "Tego powrotu nikt się nie spodziewał, a jednak nastąpił. Growa adaptacja Shreka 2 zawitała na współczesnych konsolach, ale czy powinien? Zapraszamy do recenzji Shrek 2 Remastered.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Do premiery GTA VI pozostało tylko 5 dni! Zbiór najważniejszych informacji o grze. Gdzie kupić dzieło Rockstar najtaniej?",
+      "sourceUrl": "https://lowcygier.pl/preordery/do-premiery-gta-vi-pozostalo-tylko-5-dni-zbior-najwazniejszych-informacji-o-grze-gdzie-kupic-dzielo-rockstar-najtaniej/",
+      "publishedAt": "2026-11-14T15:59+01:00",
+      "summary": "Od premiery GTA VI dzieli nas już jedynie 5 dni. Najbardziej wyczekiwana gra tego roku, i nie ma co się z tym sprzeczać, trafi 19 listopada na konsole PlayStation 5 oraz Xbox Series X|S. Nieco wcześniej, 12 listopada, rozesłane zostaną pudełkowe wydania, a przedtem wystartuje preload, aby gracze mieli szansę pobrać wszystkie pliki i rozpocząć zabawę w momencie odblokowania dostępu. Jeśli zastanawiacie się, gdzie kupić GTA VI na PS5 i XSX najtaniej, a także czego spodziewać się po samej grze, zapraszamy do dalszej części wpisu. Przygotowaliśmy dla Was małe kompendium wiedzy. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Zwiastun-premierowy-gry-Grand-Theft-Auto-VI.-Rockstar-promuje-GTA-6-nowym-singlem_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Największa tragedia polskiego game devu wyszła jednak na rynek. Akademia Pana Kleksa z premierą-niespodzianką",
+      "sourceUrl": "https://www.ppe.pl/news/433112/najwieksza-tragedia-polskiego-game-devu-wyszla-jednak-na-rynek-akademia-pana-kleksa-z-premiera-niespodzianka.html",
+      "publishedAt": "2026-11-14T15:45+01:00",
+      "summary": "W zeszłym tygodniu polską branżę gier obiegła iście \"sensacyjna\" wiadomość, zgodnie z którą po wielu miesiącach oczekiwania, na platformie Steam w końcu miała odbyć się uroczysta premiera wirtualnej Akademii Pana Kleksa.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Korzystasz z tej metody logowania na Switchu? Nintendo ostrzega i nakłania do szybkiej zmiany",
+      "sourceUrl": "https://www.ppe.pl/news/433110/korzystasz-z-tej-metody-logowania-na-switchu-nintendo-ostrzega-i-naklania-do-szybkiej-zmiany.html",
+      "publishedAt": "2026-11-14T15:30+01:00",
+      "summary": "Początek 2027 roku przyniesie ważną zmianę dla części posiadaczy Nintendo Switch oraz Nintendo Switch 2. Firma zapowiedziała zakończenie obsługi połączeń kont Nintendo z usługami Google i Apple. Od 26 stycznia nie będzie już można wykorz...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe wydanie Neon White na Nintendo Switch (+ plakat) już za 54,99 zł w Perfect Blue",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-wydanie-neon-white-na-nintendo-switch-plakat-juz-za-5499-zl-w-perfect-blue/",
+      "publishedAt": "2026-11-14T15:29+01:00",
+      "summary": "W sklepie Perfect Blue znajdziecie teraz niezłą okazję na zakup fizycznej edycji gry Neon White na Nintendo Switch. Jest to dynamiczna produkcja łącząca pierwszoosobową strzelaninę z platformówką, w której wykorzystujecie specjalne karty do eliminowania demonów i sprawnego pokonywania poziomów, walcząc o jak najlepszy czas. Wydanie na kartridżu oraz z kolekcjonerskim plakatem. może być Wasze za 54,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Neon-White-switch-promocja_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 pozwoli nam być dobrym? „Po raz pierwszy w serii staramy się do tego zachęcać”",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-pozwoli-nam-byc-dobrym-po-raz-pierwszy-w-serii-staramy-sie-do-tego-zachecac/",
+      "publishedAt": "2026-11-14T15:24+01:00",
+      "summary": "To akurat dość zaskakujące informacje.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-4.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Project Helix jednak tańszy? Microsoft staje przed trudnym wyborem",
