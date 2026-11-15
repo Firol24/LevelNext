@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T20:01+01:00",
+  "updatedAt": "2026-11-15T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Bracia (2026) - recenzja serialu [Apple]. Oparte na prawdziwej plotce",
-    "summary": "Woody Harrelson pakuje swoją rodzinę w busa i jedzie odwiedzić swojego serdecznego przyjaciela, Matther McConaugheya w jego pięknym domu w Teksasie. Gorszego momentu wybrać sobie już chyba nie mógł, ponieważ kumpel pisze właśnie mowę na tema...",
-    "sourceUrl": "https://www.ppe.pl/recenzje/433125/bracia-2026-recenzja-serialu-apple-oparte-na-prawdziwej-plotce.html"
+    "title": "Ostatnia szansa na Final Fantasy VII Rebirth za mniej niż 40 zł. Wielka promocja na Nintendo Switch trwa",
+    "summary": "Nintendo Switch 2 sprzedaje się jak świeże bułeczki o poranku, dzięki czemu stale rosnąca baza klientów pozwala deweloperom na bardziej śmiałe portowanie gry i zdecydowanie lepsze wyniki dla przyszłych produkcji.",
+    "sourceUrl": "https://www.ppe.pl/news/433294/ostatnia-szansa-na-final-fantasy-vii-rebirth-za-mniej-niz-40-zl-wielka-promocja-na-nintendo-switch-trwa.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Ostatnia szansa na Final Fantasy VII Rebirth za mniej niż 40 zł. Wielka promocja na Nintendo Switch trwa",
+      "sourceUrl": "https://www.ppe.pl/news/433294/ostatnia-szansa-na-final-fantasy-vii-rebirth-za-mniej-niz-40-zl-wielka-promocja-na-nintendo-switch-trwa.html",
+      "publishedAt": "2026-11-15T20:41+01:00",
+      "summary": "Nintendo Switch 2 sprzedaje się jak świeże bułeczki o poranku, dzięki czemu stale rosnąca baza klientów pozwala deweloperom na bardziej śmiałe portowanie gry i zdecydowanie lepsze wyniki dla przyszłych produkcji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rainbow Six: Siege x DOOM. Wielka współpraca oficjalnie nadchodzi",
+      "sourceUrl": "https://www.ppe.pl/news/433288/rainbow-six-siege-x-doom-wielka-wspolpraca-oficjalnie-nadchodzi.html",
+      "publishedAt": "2026-11-15T20:07+01:00",
+      "summary": "Ubisoft dalej dzielnie rozwija markę Rainbow Six: Siege, w czym pomogła między innymi ostatnia transformacja w Rainbow Six Siege X, które skutecznie pomogło grze przetrwać ciężki okres.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Bracia (2026) - recenzja serialu [Apple]. Oparte na prawdziwej plotce",
