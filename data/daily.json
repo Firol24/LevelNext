@@ -1,16 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T16:01+01:00",
+  "updatedAt": "2026-11-15T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Nie tylko Grand Theft Auto VI. Oto najlepsze marki, które dały wielkość Rockstar Games",
-    "summary": "Nadchodząca premiera Grand Theft Auto VI będzie jedną z najważniejszych premier w dziejach naszej branży i największym kulturowym wydarzeniem tej dekady, a być może nawet i od czasów premiery PlayStation 2.",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433098/nie-tylko-grand-theft-auto-vi-oto-najlepsze-marki-ktore-daly-wielkosc-rockstar-games.html"
+    "category": "PROMOCJE",
+    "title": "Preorder Grand Theft Auto VI: Original Score w polskich sklepach. Płyty CD i winylowe od 72 zł!",
+    "summary": "Łowcy, premiera Grand Theft Auto VI już za niecałe dwa tygodnie. Najnowsza produkcja od studia Rockstar pojawi się na sklepowych półkach 19 listopada. Jeśli w trakcie przemierzania Vice City do gustu przypadnie Wam oryginalna ścieżka dźwiękowa autorstwa francuskiego duetu Justice, to w Epmiku możecie już składać zamówienia na pre-order Grand Theft Auto VI: Original Score. Dwupłytowe wydanie na CD dostępne jest w przedsprzedaży za 71,99 zł. Jeśli jesteście fanami winyli, to przedpremierowa cena tego nośnika wynosi 220,32 zł w przypadku wersji standardowej. Specjalne wydanie Collector Triple Crystal Clear Vinyl kosztuje natomiast 242,36 zł. Na",
+    "sourceUrl": "https://lowcygier.pl/preordery/preorder-grand-theft-auto-vi-original-score-w-polskich-sklepach-plyty-cd-i-winylowe-od-72-zl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Preorder-Grand-Theft-Auto-VI_-Original-Score-w-Empiku.-Plyty-CD-i-winylowe-juz-od-65-zl_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder Grand Theft Auto VI: Original Score w polskich sklepach. Płyty CD i winylowe od 72 zł!",
+      "sourceUrl": "https://lowcygier.pl/preordery/preorder-grand-theft-auto-vi-original-score-w-polskich-sklepach-plyty-cd-i-winylowe-od-72-zl/",
+      "publishedAt": "2026-11-15T16:58+01:00",
+      "summary": "Łowcy, premiera Grand Theft Auto VI już za niecałe dwa tygodnie. Najnowsza produkcja od studia Rockstar pojawi się na sklepowych półkach 19 listopada. Jeśli w trakcie przemierzania Vice City do gustu przypadnie Wam oryginalna ścieżka dźwiękowa autorstwa francuskiego duetu Justice, to w Epmiku możecie już składać zamówienia na pre-order Grand Theft Auto VI: Original Score. Dwupłytowe wydanie na CD dostępne jest w przedsprzedaży za 71,99 zł. Jeśli jesteście fanami winyli, to przedpremierowa cena tego nośnika wynosi 220,32 zł w przypadku wersji standardowej. Specjalne wydanie Collector Triple Crystal Clear Vinyl kosztuje natomiast 242,36 zł. Na",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Preorder-Grand-Theft-Auto-VI_-Original-Score-w-Empiku.-Plyty-CD-i-winylowe-juz-od-65-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Słuchawki bezprzewodowe Sony WH-1000XM6 ANC za 1165,99 zł (134 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/sluchawki-bezprzewodowe-sony-wh-1000xm6-anc-za-116599-zl-134-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-15T16:29+01:00",
+      "summary": "Jeśli szukacie bezprzewodowych słuchawek z zaawansowaną redukcją hałasu, sprawdźcie Sony WH-1000XM6, które kupicie teraz w Media Expert za 1165,99 zł w niebieskiej wersji kolorystycznej. Taką cenę uzyskacie po zaznaczeniu promocji „67 zł rabatu za wydane 500 zł” w koszyku, co obniży cenę o 134 zł. Model ten oferuje ANC, składaną konstrukcję oraz do 30 godzin słuchania muzyki z włączoną redukcją hałasu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Sluchawki-bezprzewodowe-Sony-WH-1000XM6-ANC-za-116599-zl-134-zl-taniej-w-Media-Expert_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Znamy długość Grand Theft Auto VI. Fabuła i platyna WYMĘCZĄ nawet najwytrwalszych graczy",
+      "sourceUrl": "https://www.ppe.pl/news/433256/znamy-dlugosc-grand-theft-auto-vi-fabula-i-platyna-wymecza-nawet-najwytrwalszych-graczy.html",
+      "publishedAt": "2026-11-15T16:27+01:00",
+      "summary": "Deweloperzy z Rockstar Games od dawna pracowali nad premierą Grand Theft Auto VI, wkładając w projekt dosłownie miliardy dolarów, dziesiątki tysięcy godzin pracy oraz całe możliwe poświęcenie - wszystko po to, aby dostarczyć nam grę, które...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Riot Games przebudowuje League of Legends. Zmiany będą znaczące",
+      "sourceUrl": "https://cdaction.pl/newsy/riot-games-przebudowuje-league-of-legends-zmiany-beda-znaczace/",
+      "publishedAt": "2026-11-15T16:03+01:00",
+      "summary": "Nowy świt po raz drugi.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/league-of-legends-new-dawn-1260x567.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Nie tylko Grand Theft Auto VI. Oto najlepsze marki, które dały wielkość Rockstar Games",
@@ -23,6 +59,15 @@
       "sourceName": "Łowcy Gier",
       "title": "Promocje na wczesny Black Friday na słuchawki i głośniki Soundcore w Amazon PL. Ceny od 55 zł",
       "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-wczesny-black-friday-na-sluchawki-i-glosniki-soundcore-w-amazon-pl-ceny-od-55-zl/",
+      "publishedAt": "2026-11-15T16:00+01:00",
+      "summary": "Łowcy, w ramach wczesnych promocji Black Friday w Amazon PL możecie teraz zaopatrzyć się w niższej cenie w słuchawki i głośniki marki Soundcore. Wśród najciekawszych propozycji znajdziecie douszne P20i za 55 zł, nauszne Q20i z ANC za 119 zł oraz Liberty 5 za 203,08 zł. Jeśli szukacie przenośnego głośnika Bluetooth, sprawdźcie też Select 4 Go za 69 zł i Motion+ za 229 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wczesne-promocje-Black-Weeks-na-sluchawki-i-glosniki-Soundcore-w-Amazon-PL.-Ceny-od-55-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje wczesny Black Friday na słuchawki i głośniki Soundcore w Amazon PL. Ceny od 55 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-wczesny-black-friday-na-sluchawki-i-glosniki-soundcore-w-amazon-pl-ceny-od-55-zl/",
       "publishedAt": "2026-11-15T16:00+01:00",
       "summary": "Łowcy, w ramach wczesnych promocji Black Friday w Amazon PL możecie teraz zaopatrzyć się w niższej cenie w słuchawki i głośniki marki Soundcore. Wśród najciekawszych propozycji znajdziecie douszne P20i za 55 zł, nauszne Q20i z ANC za 119 zł oraz Liberty 5 za 203,08 zł. Jeśli szukacie przenośnego głośnika Bluetooth, sprawdźcie też Select 4 Go za 69 zł i Motion+ za 229 zł. Czytaj więcej »",
       "category": "PROMOCJE",
