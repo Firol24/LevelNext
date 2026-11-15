@@ -1,16 +1,50 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T12:01+01:00",
+  "updatedAt": "2026-11-15T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Bass X Machina (2026) - recenzja serialu [Netflix] Steampunkowy Dziki Zachód",
-    "summary": "Jedną z najciekawszych netflixowych premier końcówki roku okazał się króciutki, bo zaledwie sześcioodcinkowy serial animowany „Bass X Machina“, łączący rzadko występujące razem podgatunki westernu i steampunku. Czerpie on z legendy Bassa...",
-    "sourceUrl": "https://www.ppe.pl/recenzje/432613/bass-x-machina-2026-recenzja-serialu-netflix-steampunkowy-dziki-zachod.html"
+    "title": "GTA 6 z premierą za 4 dni. Nadszedł najważniejszy moment tej generacji",
+    "summary": "Spoglądam w kalendarz i wciąż trudno mi uwierzyć, że to dzieje się naprawdę. Zostały już tylko cztery dni do momentu, na który cały świat elektronicznej rozrywki czekał z zapartym tchem przez ponad dekadę. Powietrze wokół nas zdaje się ...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/432578/gta-6-z-premiera-za-4-dni-nadszedl-najwazniejszy-moment-tej-generacji.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z premierą za 4 dni. Nadszedł najważniejszy moment tej generacji",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432578/gta-6-z-premiera-za-4-dni-nadszedl-najwazniejszy-moment-tej-generacji.html",
+      "publishedAt": "2026-11-15T13:00+01:00",
+      "summary": "Spoglądam w kalendarz i wciąż trudno mi uwierzyć, że to dzieje się naprawdę. Zostały już tylko cztery dni do momentu, na który cały świat elektronicznej rozrywki czekał z zapartym tchem przez ponad dekadę. Powietrze wokół nas zdaje się ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka Anker 511 Nano Pro 20W z USB-C od 33,99 zł (zamiast 70,88 zł) w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-anker-511-nano-pro-20w-z-usb-c-od-3399-zl-zamiast-7088-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-15T13:00+01:00",
+      "summary": "Dobra okazja na zakup Anker 511 Nano Pro, pojawiła się w polskim oddziale sklepu Amazon. Kompaktowa ładowarka wyposażona w jeden port USB-C, idealna do ładowania smartfona, słuchawek lub innych akcesoriów, kosztuje aktualnie 35,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/anker-nano-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "HBO nie podjęło jeszcze ważnej decyzji? Hit DCU może nie doczekać się kontynuacji",
+      "sourceUrl": "https://www.ppe.pl/news/433175/hbo-nie-podjelo-jeszcze-waznej-decyzji-hit-dcu-moze-nie-doczekac-sie-kontynuacji.html",
+      "publishedAt": "2026-11-15T12:30+01:00",
+      "summary": "Roszady na szczycie DC Studios mogą wpłynąć nie tylko na przyszłe filmy, ale również na produkcje, które zdążyły już zadebiutować. W centrum spekulacji znalazło się Lanterns - dobrze przyjęty serial HBO, który przez osiem odcinków zwi�...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Słuchawki gamingowe SteelSeries Arctis Nova 1 już od 149 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/sluchawki-gamingowe-steelseries-arctis-nova-1-juz-od-149-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-15T12:29+01:00",
+      "summary": "Jeśli szukacie nowych słuchawek gamingowych, to może Was zainteresować oferta na SteelSeries Arctis Nova 1, które kupicie teraz w kilku polskich sklepach za 149 zł. Ten przewodowy model oferuje lekką konstrukcję o wadze 236 g oraz chowany mikrofon ClearCast Gen 2. Dzięki złączu mini-jack 3,5 mm słuchawki podłączycie m.in. do komputera, PlayStation 5, Xbox Series X|S czy Nintendo Switcha. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/10/Przewodowe-sluchawki-SteelSeries-Arctis-Nova-1-do-PC-i-konsol-dostepne-za-171-zl-w-Amazon-PL_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Bass X Machina (2026) - recenzja serialu [Netflix] Steampunkowy Dziki Zachód",
