@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T09:48+01:00",
+  "updatedAt": "2026-11-15T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -20,6 +20,14 @@
       "summary": "Rockstar mógł stworzyć Grand Theft Auto 6, ale twórcy nie chcieli ograniczać się do „GTA 5,5”. Informacja GTA 6 jako pierwsza gra z serii pozwoli być dobrym człowiekiem. GTA 5,5 nie powstało, bo Rockstar woli „duże ryzyko” została opublikowana przez GRYOnline.pl 15 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532430485.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najciekawsze dema po Steam Next Fest. 10 gier, które mogą wystrzelić w 2027 roku",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433100/najciekawsze-dema-po-steam-next-fest-10-gier-ktore-moga-wystrzelic-w-2027-roku.html",
+      "publishedAt": "2026-11-15T10:00+01:00",
+      "summary": "W drugiej połowie października na Steama wylała się fala ponad siedmiu - a według części statystyk wręcz ośmiu - tysięcy darmowych dem. W sieci błyskawicznie ochrzczono tę imprezę mianem „Sloppiest Fest”, bo sporą część katalogu zal...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
