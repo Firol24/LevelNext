@@ -1,16 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T14:01+01:00",
+  "updatedAt": "2026-11-15T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "PlayStation Portal przestaje być „Remote Playerem”. Sony szykuje coś większego?",
-    "summary": "PlayStation Portal od początku miał problem z tym, że bardzo łatwo było sprowadzić go do jednego zdania. „Ekran z DualSense’em, który streamuje gry z PS5” - i właściwie wszystko było jasne. Sony nawet specjalnie się z tym nie kryło, bo...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/432887/playstation-portal-przestaje-byc-remote-playerem-sony-szykuje-cos-wiekszego.html"
+    "category": "PROMOCJE",
+    "title": "Klawiatura mechaniczna Dark Project ALU87A Fuji II za 199 zł (50 zł taniej) w x-kom",
+    "summary": "Jeśli szukacie dobrze prezentującej się klawiatury mechanicznej do grania i codziennej pracy, sprawdźcie Dark Project ALU87A Fuji II, którą kupicie teraz w sklepie x-kom za 199 zł. Model ten oferuje aluminiową obudowę, kompaktowy układ TKL, podświetlenie RGB oraz fabrycznie smarowane przełączniki G3MS Sapphire. Całość uzupełnia funkcja Hot-Swap, pozwalającą na sprawną wymianę przełączników. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/klawiatura-mechaniczna-dark-project-alu87a-fuji-ii-za-199-zl-50-zl-taniej-w-x-kom/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/Promocja-Dark-Project-ALU87A-Fuji-II-logo-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Klawiatura mechaniczna Dark Project ALU87A Fuji II za 199 zł (50 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/klawiatura-mechaniczna-dark-project-alu87a-fuji-ii-za-199-zl-50-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-15T14:59+01:00",
+      "summary": "Jeśli szukacie dobrze prezentującej się klawiatury mechanicznej do grania i codziennej pracy, sprawdźcie Dark Project ALU87A Fuji II, którą kupicie teraz w sklepie x-kom za 199 zł. Model ten oferuje aluminiową obudowę, kompaktowy układ TKL, podświetlenie RGB oraz fabrycznie smarowane przełączniki G3MS Sapphire. Całość uzupełnia funkcja Hot-Swap, pozwalającą na sprawną wymianę przełączników. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/Promocja-Dark-Project-ALU87A-Fuji-II-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Literacki prequel Baldur’s Gate 3 ukaże się po polsku. „Astarion” już w przedsprzedaży",
+      "sourceUrl": "https://cdaction.pl/newsy/literacki-prequel-baldurs-gate-3-ukaze-sie-po-polsku-astarion-juz-w-przedsprzedazy/",
+      "publishedAt": "2026-11-15T14:57+01:00",
+      "summary": "Polska premiera odbędzie się jeszcze w tym roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/astarion-1260x945.avif"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wielki hit Crunchyrolla powraca! Znamy datę premiery nowych odcinków",
+      "sourceUrl": "https://www.ppe.pl/news/433228/wielki-hit-crunchyrolla-powraca-znamy-date-premiery-nowych-odcinkow.html",
+      "publishedAt": "2026-11-15T14:30+01:00",
+      "summary": "Zimowy sezon anime w 2027 roku właśnie zyskał jedną ze swoich najważniejszych premier. Trzeci sezon Mashle: Magic and Muscles rozpocznie emisję 9 stycznia, a poza Japonią będzie można oglądać go wyłącznie na Crunchyrollu. Ogłoszeniu konkre...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Mafia: The Old Country na PS5 za 105,89 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-mafia-the-old-country-na-ps5-za-10589-zl-na-allegro/",
+      "publishedAt": "2026-11-15T14:29+01:00",
+      "summary": "Korzystając z oferty serwisu Allegro kupicie teraz taniej grę Mafia: The Old Country, czyli najnowszą odsłonę popularnego cyklu gangsterskich gier akcji. Produkcja studia Hangar 13 zabiera graczy na Sycylię z początku XX wieku, przedstawiając początki zorganizowanej przestępczości. Pudełkowe wydanie na konsolę PlayStation 5 kupicie już za 105,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Mafia-The-Old-Country_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Recenzje GTA 6 już za moment. Rockstar Games wpadł na GENIALNY pomysł, ale Xbox został poszkodowany",
+      "sourceUrl": "https://www.ppe.pl/news/433245/recenzje-gta-6-juz-za-moment-rockstar-games-wpadl-na-genialny-pomysl-ale-xbox-zostal-poszkodowany.html",
+      "publishedAt": "2026-11-15T14:13+01:00",
+      "summary": "Premiera Grand Theft Auto 6 to obecnie najbardziej strzeżona tajemnica w całej branży gier wideo. Rockstar Games doskonale zdaje sobie sprawę, że każdy przedwczesny przeciek to dla nich wizerunkowa katastrofa, dlatego firma postanowiła wytoczyć ...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "PlayStation Portal przestaje być „Remote Playerem”. Sony szykuje coś większego?",
