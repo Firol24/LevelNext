@@ -1,17 +1,76 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T15:01+01:00",
+  "updatedAt": "2026-11-15T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Klawiatura mechaniczna Dark Project ALU87A Fuji II za 199 zł (50 zł taniej) w x-kom",
-    "summary": "Jeśli szukacie dobrze prezentującej się klawiatury mechanicznej do grania i codziennej pracy, sprawdźcie Dark Project ALU87A Fuji II, którą kupicie teraz w sklepie x-kom za 199 zł. Model ten oferuje aluminiową obudowę, kompaktowy układ TKL, podświetlenie RGB oraz fabrycznie smarowane przełączniki G3MS Sapphire. Całość uzupełnia funkcja Hot-Swap, pozwalającą na sprawną wymianę przełączników. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/klawiatura-mechaniczna-dark-project-alu87a-fuji-ii-za-199-zl-50-zl-taniej-w-x-kom/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/Promocja-Dark-Project-ALU87A-Fuji-II-logo-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Nie tylko Grand Theft Auto VI. Oto najlepsze marki, które dały wielkość Rockstar Games",
+    "summary": "Nadchodząca premiera Grand Theft Auto VI będzie jedną z najważniejszych premier w dziejach naszej branży i największym kulturowym wydarzeniem tej dekady, a być może nawet i od czasów premiery PlayStation 2.",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/433098/nie-tylko-grand-theft-auto-vi-oto-najlepsze-marki-ktore-daly-wielkosc-rockstar-games.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Nie tylko Grand Theft Auto VI. Oto najlepsze marki, które dały wielkość Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433098/nie-tylko-grand-theft-auto-vi-oto-najlepsze-marki-ktore-daly-wielkosc-rockstar-games.html",
+      "publishedAt": "2026-11-15T16:00+01:00",
+      "summary": "Nadchodząca premiera Grand Theft Auto VI będzie jedną z najważniejszych premier w dziejach naszej branży i największym kulturowym wydarzeniem tej dekady, a być może nawet i od czasów premiery PlayStation 2.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na wczesny Black Friday na słuchawki i głośniki Soundcore w Amazon PL. Ceny od 55 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-wczesny-black-friday-na-sluchawki-i-glosniki-soundcore-w-amazon-pl-ceny-od-55-zl/",
+      "publishedAt": "2026-11-15T16:00+01:00",
+      "summary": "Łowcy, w ramach wczesnych promocji Black Friday w Amazon PL możecie teraz zaopatrzyć się w niższej cenie w słuchawki i głośniki marki Soundcore. Wśród najciekawszych propozycji znajdziecie douszne P20i za 55 zł, nauszne Q20i z ANC za 119 zł oraz Liberty 5 za 203,08 zł. Jeśli szukacie przenośnego głośnika Bluetooth, sprawdźcie też Select 4 Go za 69 zł i Motion+ za 229 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wczesne-promocje-Black-Weeks-na-sluchawki-i-glosniki-Soundcore-w-Amazon-PL.-Ceny-od-55-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Padł Outlook, więc Japonia włączyła faksy. Stara technologia ratowała dzień",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/padl-outlook-wiec-japonia-wlaczyla-faksy-stara-technologia-ratowa/z13233f",
+      "publishedAt": "2026-11-15T15:56+01:00",
+      "summary": "Z japońskich faksów świat śmieje się od lat. Kilka dni temu okazało się, że gdy chmura Microsoftu leży, stara technologia komunikacji wciąż daje radę, a pozornie wymarły faks dalej drukuje. Informacja Padł Outlook, więc Japonia włączyła faksy. Stara technologia ratowała dzień została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532451524.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Legend of Zelda: Ocarina of Time z POTĘŻNYM startem w Japonii! Ranking nie pozostawił złudzeń...",
+      "sourceUrl": "https://www.ppe.pl/news/433229/the-legend-of-zelda-ocarina-of-time-z-poteznym-startem-w-japonii-ranking-nie-pozostawil-zludzen.html",
+      "publishedAt": "2026-11-15T15:30+01:00",
+      "summary": "Minione tygodnie przyniosły branży gier sporo dobrych wyników. Kolejne głośne premiery przyciągają graczy, starsze produkcje nadal utrzymują się w zestawieniach, a końcówka roku wyraźnie sprzyja sprzedaży zarówno oprogramowania, jak i konsol.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Znakomite jRPG taniej w Kinguinie! Unicorn Overlord na Nintendo Switch już za 49,71 zł",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/znakomite-jrpg-taniej-w-kinguinie-unicorn-overlord-na-nintendo-switch-juz-za-4971-zl/",
+      "publishedAt": "2026-11-15T15:30+01:00",
+      "summary": "Łowcy, fani taktycznych jRPG mogą teraz sięgnąć taniej po wysoko oceniane Unicorn Overlord na Nintendo Switch, dzięki ofercie sklepu cyfrowego Kinguin. Produkcja studia Vanillaware, twórców 13 Sentinels: Aegis Rim, łączy eksplorację świata fantasy z budowaniem armii i taktycznymi starciami. Oferta dotyczy klucza aktywacyjnego do cyfrowej wersji gry, który zrealizujecie na własnym koncie w Nintendo eShop. Zapłacicie za niego obecnie 49,71 zł, po wykorzystaniu kodu zniżkowego. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Rekordowo-tanie-Unicorn-Overlord.-Gra-na-Switcha-za-32-zl-zamiast-94-zl-w-Instant-Gaming_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kultowe gry z Xboksa trafiły na PC, wielka strategia Paradoxu otrzyma trzy dodatki, a fani Overlorda w końcu dostaną coś dla siebie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kultowe-gry-z-xboksa-trafily-na-pc-wielka-strategia-paradoxu-otrz/zd32314",
+      "publishedAt": "2026-11-15T15:00+01:00",
+      "summary": "Lord of Undead, trzy dodatki do Hearts of Iron IV, a także pecetowe wydania (w ramach kompatybilności wstecznej) szeregu gier z pierwszego Xboksa to jedne z wielu nowości, które w minionym tygodniu trafiły do Wielkiej Encyklopedii Gier. Informacja Kultowe gry z Xboksa trafiły na PC, wielka strategia Paradoxu otrzyma trzy dodatki, a fani Overlorda w końcu dostaną coś dla siebie została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532262963.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najlepsze porty na Nintendo Switch 2",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433252/najlepsze-porty-na-nintendo-switch-2.html",
+      "publishedAt": "2026-11-15T15:00+01:00",
+      "summary": "W dobie coraz drożejących konsol Sony i Microsoftu najlepszą z opcji wydaje się oferta Nintendo. Switch 2 od półtora roku znajduje się w sprzedaży i choć producent nie odnosi tak mocnych zysków jak za czasów poprzedniej konsoli, firma wciąż...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Klawiatura mechaniczna Dark Project ALU87A Fuji II za 199 zł (50 zł taniej) w x-kom",
@@ -29,6 +88,15 @@
       "summary": "Polska premiera odbędzie się jeszcze w tym roku.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/astarion-1260x945.avif"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Niesprawiedliwy” Steam ma szkodzić twórcom gier, informując o wykorzystaniu AI. Największy krytyk Valve idzie w zaparte",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/niesprawiedliwy-steam-ma-szkodzic-tworcom-gier-informujac-o-wykor/z03233e",
+      "publishedAt": "2026-11-15T14:33+01:00",
+      "summary": "Tim Sweeney nawołuje do walki z zastraszaniem i jest zdania, że regulacje AI nie mają sensu. Dalej też krytykuje Steama za piętnowanie deweloperów korzystających ze sztucznej inteligencji. Informacja „Niesprawiedliwy” Steam ma szkodzić twórcom gier, informując o wykorzystaniu AI. Największy krytyk Valve idzie w zaparte została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532437210.jpg"
     },
     {
       "sourceName": "PPE",
@@ -81,6 +149,15 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Okazje-na-tanie-podkladki-pod-myszke-w-x-kom-Wybrane-modele-w-cenach-od-1999-zl_miniaturka-224x224.jpg"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "„Długo brał udział w przesłuchaniach”. Jim Carrey rozpaczliwie pragnął zagrać w jednym z największych hitów w historii kina",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dlugo-bral-udzial-w-przesluchaniach-jim-carrey-rozpaczliwie-pragn/zd322c3",
+      "publishedAt": "2026-11-15T13:02+01:00",
+      "summary": "Ten kultowy film wyglądałby zupełnie inaczej, gdyby dano szansę Jimowi Carrey’owi, który długo zabiegał o jedną z głównych ról. Informacja „Długo brał udział w przesłuchaniach”. Jim Carrey rozpaczliwie pragnął zagrać w jednym z największych hitów w historii kina została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532013171.jpg"
+    },
+    {
       "sourceName": "PPE",
       "title": "GTA 6 z premierą za 4 dni. Nadszedł najważniejszy moment tej generacji",
       "sourceUrl": "https://www.ppe.pl/publicystyka/432578/gta-6-z-premiera-za-4-dni-nadszedl-najwazniejszy-moment-tej-generacji.html",
@@ -104,6 +181,15 @@
       "publishedAt": "2026-11-15T12:30+01:00",
       "summary": "Roszady na szczycie DC Studios mogą wpłynąć nie tylko na przyszłe filmy, ale również na produkcje, które zdążyły już zadebiutować. W centrum spekulacji znalazło się Lanterns - dobrze przyjęty serial HBO, który przez osiem odcinków zwi�...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Realizm w Cyberpunku 2077 wszedł na nowy poziom. Dzięki nowemu modowi immersja rośnie z szybkością błyskawicy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/realizm-w-cyberpunku-2077-wszedl-na-nowy-poziom-dzieki-nowemu-mod/zf3233d",
+      "publishedAt": "2026-11-15T12:30+01:00",
+      "summary": "Modyfikacja Cyberpunka 2077 sprawia, że deszczowe i burzliwe noce w Night City prezentują się nieporównywalnie lepiej niż w podstawowej wersji polskiego hitu. Informacja Realizm w Cyberpunku 2077 wszedł na nowy poziom. Dzięki nowemu modowi immersja rośnie z szybkością błyskawicy została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532434327.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
