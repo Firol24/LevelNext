@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T10:01+01:00",
+  "updatedAt": "2026-11-15T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 jako pierwsza gra z serii pozwoli być dobrym człowiekiem. GTA 5,5 nie powstało, bo Rockstar woli „duże ryzyko”",
-    "summary": "Rockstar mógł stworzyć Grand Theft Auto 6, ale twórcy nie chcieli ograniczać się do „GTA 5,5”. Informacja GTA 6 jako pierwsza gra z serii pozwoli być dobrym człowiekiem. GTA 5,5 nie powstało, bo Rockstar woli „duże ryzyko” została opublikowana przez GRYOnline.pl 15 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-jako-pierwsza-gra-z-serii-pozwoli-byc-dobrym-czlowiekiem-gt/ze3233c",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532430485.jpg"
+    "title": "Ta gra mogła zmienić wszystko. Co nie wyszło?",
+    "summary": "Znane nazwisko, ciekawy pomysł, wsparcie finansowe wydawcy - w teorii - recepta na sukces. W praktyce rozczarowanie. Glen Schofield dał się poznać jako reżyser Dead Space, jednego z najciekawszych horrorów science-fiction 7. generacji konsol. Po l...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/433161/ta-gra-mogla-zmienic-wszystko-co-nie-wyszlo.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Ta gra mogła zmienić wszystko. Co nie wyszło?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433161/ta-gra-mogla-zmienic-wszystko-co-nie-wyszlo.html",
+      "publishedAt": "2026-11-15T11:00+01:00",
+      "summary": "Znane nazwisko, ciekawy pomysł, wsparcie finansowe wydawcy - w teorii - recepta na sukces. W praktyce rozczarowanie. Glen Schofield dał się poznać jako reżyser Dead Space, jednego z najciekawszych horrorów science-fiction 7. generacji konsol. Po l...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 jako pierwsza gra z serii pozwoli być dobrym człowiekiem. GTA 5,5 nie powstało, bo Rockstar woli „duże ryzyko”",
@@ -20,6 +27,22 @@
       "summary": "Rockstar mógł stworzyć Grand Theft Auto 6, ale twórcy nie chcieli ograniczać się do „GTA 5,5”. Informacja GTA 6 jako pierwsza gra z serii pozwoli być dobrym człowiekiem. GTA 5,5 nie powstało, bo Rockstar woli „duże ryzyko” została opublikowana przez GRYOnline.pl 15 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532430485.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Marvel miesiącami ukrywał ten sekret. Jedno spotkanie mogło zepsuć wszystko",
+      "sourceUrl": "https://www.ppe.pl/news/433128/marvel-miesiacami-ukrywal-ten-sekret-jedno-spotkanie-moglo-zepsuc-wszystko.html",
+      "publishedAt": "2026-11-15T10:30+01:00",
+      "summary": "Finał VisionQuest dostarczył kilku zwrotów, które mogą poważnie wpłynąć na przyszłość MCU. Widzowie otrzymali potwierdzenie, że Wanda Maximoff żyje, ale równie ważnym momentem było ponowne spotkanie Tommy’ego i Billy’ego. Jak się o...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Już dziś wielki pokaz Xbox Project Helix? Microsoft daje znaki",
+      "sourceUrl": "https://www.ppe.pl/news/433178/juz-dzis-wielki-pokaz-xbox-project-helix-microsoft-daje-znaki.html",
+      "publishedAt": "2026-11-15T10:13+01:00",
+      "summary": "Dzisiejszy dzień może okazać się niezwykle gorący dla wszystkich fanów „zielonych”. Marka Xbox obchodzi dziś swoje równe, 25. urodziny i wszystko wskazuje na to, że Microsoft szykuje z tej okazji potężną niespodziankę.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
