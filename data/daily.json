@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T08:01+01:00",
+  "updatedAt": "2026-11-15T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Xbox pokazał materiał z Fable i szybko tego pożałował. Gracze są bezlitośni dla nadchodzącej gry",
-    "summary": "Zwiastuny prezentujące konkretne zadania powinny pokazywać mocne strony gry, ale najnowszy materiał z Fable osiągnął odwrotny efekt. Playground Games zaprezentowało misję rozgrywającą się w Oakshire, gdzie główna bohaterka wraz z Ardenem ba...",
-    "sourceUrl": "https://www.ppe.pl/news/433105/xbox-pokazal-material-z-fable-i-szybko-tego-pozalowal-gracze-sa-bezlitosni-dla-nadchodzacej-gry.html"
+    "title": "Te motywy są lepsze niż DLSS 5, a prawie nikt o nich nie mówi. Niedoceniane funkcje NVIDIA",
+    "summary": "Prasa branżowa została kompletnie opanowana przez temat DLSS 5, a prawie nikt nie mówi choćby o nowości w postaci nowego, przełomowego modelu Ray Reconstruction od NVIDIA. Czas więc dać szansę najlepszym, lecz często pomijanym funkcjom NVIDIA ...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/433130/te-motywy-sa-lepsze-niz-dlss-5-a-prawie-nikt-o-nich-nie-mowi-niedoceniane-funkcje-nvidia.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Te motywy są lepsze niż DLSS 5, a prawie nikt o nich nie mówi. Niedoceniane funkcje NVIDIA",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433130/te-motywy-sa-lepsze-niz-dlss-5-a-prawie-nikt-o-nich-nie-mowi-niedoceniane-funkcje-nvidia.html",
+      "publishedAt": "2026-11-15T09:00+01:00",
+      "summary": "Prasa branżowa została kompletnie opanowana przez temat DLSS 5, a prawie nikt nie mówi choćby o nowości w postaci nowego, przełomowego modelu Ray Reconstruction od NVIDIA. Czas więc dać szansę najlepszym, lecz często pomijanym funkcjom NVIDIA ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze wybrali najlepszy zwiastun GTA 6. Jeden materiał zdeklasował konkurencję",
+      "sourceUrl": "https://www.ppe.pl/news/433126/gracze-wybrali-najlepszy-zwiastun-gta-6-jeden-material-zdeklasowal-konkurencje.html",
+      "publishedAt": "2026-11-15T08:30+01:00",
+      "summary": "Rockstar przez ostatnie lata stopniowo odsłaniał kolejne elementy GTA 6, a każdy nowy materiał natychmiast stawał się jednym z największych wydarzeń w branży. Gracze na głównym subie na Reddicie postanowili więc rozstrzygnąć, która prezen...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Xbox pokazał materiał z Fable i szybko tego pożałował. Gracze są bezlitośni dla nadchodzącej gry",
