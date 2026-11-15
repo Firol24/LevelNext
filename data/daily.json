@@ -1,16 +1,41 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T13:01+01:00",
+  "updatedAt": "2026-11-15T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 z premierą za 4 dni. Nadszedł najważniejszy moment tej generacji",
-    "summary": "Spoglądam w kalendarz i wciąż trudno mi uwierzyć, że to dzieje się naprawdę. Zostały już tylko cztery dni do momentu, na który cały świat elektronicznej rozrywki czekał z zapartym tchem przez ponad dekadę. Powietrze wokół nas zdaje się ...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/432578/gta-6-z-premiera-za-4-dni-nadszedl-najwazniejszy-moment-tej-generacji.html"
+    "title": "PlayStation Portal przestaje być „Remote Playerem”. Sony szykuje coś większego?",
+    "summary": "PlayStation Portal od początku miał problem z tym, że bardzo łatwo było sprowadzić go do jednego zdania. „Ekran z DualSense’em, który streamuje gry z PS5” - i właściwie wszystko było jasne. Sony nawet specjalnie się z tym nie kryło, bo...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/432887/playstation-portal-przestaje-byc-remote-playerem-sony-szykuje-cos-wiekszego.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation Portal przestaje być „Remote Playerem”. Sony szykuje coś większego?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/432887/playstation-portal-przestaje-byc-remote-playerem-sony-szykuje-cos-wiekszego.html",
+      "publishedAt": "2026-11-15T14:00+01:00",
+      "summary": "PlayStation Portal od początku miał problem z tym, że bardzo łatwo było sprowadzić go do jednego zdania. „Ekran z DualSense’em, który streamuje gry z PS5” - i właściwie wszystko było jasne. Sony nawet specjalnie się z tym nie kryło, bo...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nie był to największy hit roku, ale gracze dopisali. Capcom potwierdza sukces swojego spin-offu",
+      "sourceUrl": "https://www.ppe.pl/news/433176/nie-byl-to-najwiekszy-hit-roku-ale-gracze-dopisali-capcom-potwierdza-sukces-swojego-spin-offu.html",
+      "publishedAt": "2026-11-15T13:30+01:00",
+      "summary": "Nie każda gra musi sprzedawać się w dziesiątkach milionów egzemplarzy, by zasłużyć na miano sukcesu. Monster Hunter Stories 3: Twisted Reflection właśnie osiągnęło ważny rezultat - Capcom poinformował, że globalna sprzedaż produkcji prz...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Okazje na tanie podkładki pod myszkę w x-kom! Wybrane modele w cenach od 19,99 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/okazje-na-tanie-podkladki-pod-myszke-w-x-kom-wybrane-modele-w-cenach-od-1999-zl/",
+      "publishedAt": "2026-11-15T13:29+01:00",
+      "summary": "Łowcy, w sklepie x-kom znajdziecie teraz wybór przecenionych podkładek pod mysz, których ceny zaczynają się od 19,99 zł. Wśród ciekawszych propozycji są Silver Monkey X Speed Mouse Mat M White za 19,99 zł, Genesis Carbon 500 XL Logo za 25,50 zł, ENDORFY Crystal Black L za 29 zł oraz SteelSeries QcK Heavy XXL za 99 zł. Podane ceny uzyskacie po wpisaniu w koszyku kodów rabatowych przypisanych do poszczególnych ofert. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Okazje-na-tanie-podkladki-pod-myszke-w-x-kom-Wybrane-modele-w-cenach-od-1999-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 z premierą za 4 dni. Nadszedł najważniejszy moment tej generacji",
