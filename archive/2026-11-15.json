@@ -1,17 +1,50 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T19:01+01:00",
+  "updatedAt": "2026-11-15T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Więcej dodatków i aktualizacji nie będzie. To kres drogi dla ślicznej strategii z elementami RPG, Songs of Silcence",
-    "summary": "„Coś się kończy, coś się zaczyna”. Twórcy nietuzinkowej strategii Songs of Silcence postanowili iść dalej, ku horyzontowi, na którym „czekają wielkie rzeczy”. Informacja Więcej dodatków i aktualizacji nie będzie. To kres drogi dla ślicznej strategii z elementami RPG, Songs of Silcence została opublikowana przez GRYOnline.pl 15 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wiecej-dodatkow-i-aktualizacji-nie-bedzie-to-kres-drogi-dla-slicz/zd32341",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532463437.jpg"
+    "title": "Bracia (2026) - recenzja serialu [Apple]. Oparte na prawdziwej plotce",
+    "summary": "Woody Harrelson pakuje swoją rodzinę w busa i jedzie odwiedzić swojego serdecznego przyjaciela, Matther McConaugheya w jego pięknym domu w Teksasie. Gorszego momentu wybrać sobie już chyba nie mógł, ponieważ kumpel pisze właśnie mowę na tema...",
+    "sourceUrl": "https://www.ppe.pl/recenzje/433125/bracia-2026-recenzja-serialu-apple-oparte-na-prawdziwej-plotce.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Bracia (2026) - recenzja serialu [Apple]. Oparte na prawdziwej plotce",
+      "sourceUrl": "https://www.ppe.pl/recenzje/433125/bracia-2026-recenzja-serialu-apple-oparte-na-prawdziwej-plotce.html",
+      "publishedAt": "2026-11-15T20:00+01:00",
+      "summary": "Woody Harrelson pakuje swoją rodzinę w busa i jedzie odwiedzić swojego serdecznego przyjaciela, Matther McConaugheya w jego pięknym domu w Teksasie. Gorszego momentu wybrać sobie już chyba nie mógł, ponieważ kumpel pisze właśnie mowę na tema...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tygodniowe podsumowanie promocji Steam. Sniper Elite 5 za 17,99 zł i Possessor(s) za 6,29 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tygodniowe-podsumowanie-promocji-steam-sniper-elite-5-za-1799-zl-i-possessors-za-629-zl/",
+      "publishedAt": "2026-11-15T19:57+01:00",
+      "summary": "Łowcy, nadszedł czas na kolejne, trzecie już w tym miesiącu, tygodniowe podsumowanie najciekawszych promocji na Steamie. Tym razem Waszą uwagę zwrócić mogą dobre przeceny na Sniper Elite 5 za 17,99 zł oraz Possessor(s) za zaledwie 6,29 zł. Wśród polecanych ofert znajdziecie również przygodową perełkę Phonopolis od twórców Machinarium za 53,99 zł i polskie JDM: Japanese Drift Master za 41,65 zł. Nie zabrakło też propozycji dla fanów wymagającej walki, karcianych potyczek i rozbudowanych RPG – w zestawieniu czekają między innymi Sifu, Slay the Spire 2 oraz Skyrim Special Edition. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Podsumowanie-promocji-Steam.-Sniper-Elite-5-za-1799-zl-i-Possessors-za-jedyne-629-zl-8–15.11_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox Project Helix z MASĄ szczegółów! Microsoft tworzy potwora",
+      "sourceUrl": "https://www.ppe.pl/news/433291/xbox-project-helix-z-masa-szczegolow-microsoft-tworzy-potwora.html",
+      "publishedAt": "2026-11-15T19:55+01:00",
+      "summary": "Tak jak informowaliśmy rano, dzisiejszy dzień to wielkie święto dla wszystkich fanów „zielonych”, ponieważ marka Xbox obchodzi właśnie swoje dwudzieste piąte urodziny.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na UGREEN Revodok Pro w Amazon PL. Hub USB 7w1 (2x HDMI, 5 x USB) za 181,99 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-ugreen-revodok-pro-w-amazon-pl-hub-usb-7w1-2x-hdmi-5-x-usb-za-18199-zl/",
+      "publishedAt": "2026-11-15T19:31+01:00",
+      "summary": "W ofercie polskiego oddziału Amazon pojawiła się promocja na UGREEN Revodok Pro 207. Rozbudowany hub USB, wyposażony w 2 gniazda HDMI (4K@60Hz), 2 gniazda USB-C, dwa gniazda USB-A oraz gniazdo ładowania USB-C PD (100W), może być Wasz za 181,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-UGREEN-Revodok-Pro-w-Amazon-PL.-Hub-USB-7w1-2x-HDMI-5-x-USB-za-18199-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Więcej dodatków i aktualizacji nie będzie. To kres drogi dla ślicznej strategii z elementami RPG, Songs of Silcence",
@@ -20,6 +53,23 @@
       "summary": "„Coś się kończy, coś się zaczyna”. Twórcy nietuzinkowej strategii Songs of Silcence postanowili iść dalej, ku horyzontowi, na którym „czekają wielkie rzeczy”. Informacja Więcej dodatków i aktualizacji nie będzie. To kres drogi dla ślicznej strategii z elementami RPG, Songs of Silcence została opublikowana przez GRYOnline.pl 15 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532463437.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Co łączy Indianę Jonesa i GTA? Niby nic, ale mało brakowało, a byłby to pewien kultowy system z gier Rockstara",
+      "sourceUrl": "https://cdaction.pl/newsy/co-laczy-indiane-jonesa-i-gta-niby-nic-ale-malo-brakowalo-a-bylby-to-pewien-kultowy-system-z-gier-rockstara/",
+      "publishedAt": "2026-11-15T19:30+01:00",
+      "summary": "Niczym Harrison Ford w „Ściganym”.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/indiana-jones-and-the-great-circle-5856.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Electronic Arts jest PRZERAŻONE premierą Grand Theft Auto VI i błaga graczy o nie usuwanie swoich gier z dysku",
+      "sourceUrl": "https://www.ppe.pl/news/433285/electronic-arts-jest-przerazone-premiera-grand-theft-auto-vi-i-blaga-graczy-o-nie-usuwanie-swoich-gier-z-dysku.html",
+      "publishedAt": "2026-11-15T19:13+01:00",
+      "summary": "Nadchodząca wielkimi krokami premiera Grand Theft Auto VI sprawia, że cała branża pragnie wykonać możliwie jak największe uniki, uciekając ze swoimi produktami przed startowym okienkiem wielkiego dzieła Rockstar Games. Nawet Electronic Arts.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
