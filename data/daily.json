@@ -1,16 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T22:01+01:00",
+  "updatedAt": "2026-11-15T22:27+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ostatnia szansa na Final Fantasy VII Rebirth za mniej niż 40 zł. Wielka promocja na Nintendo Switch trwa",
-    "summary": "Nintendo Switch 2 sprzedaje się jak świeże bułeczki o poranku, dzięki czemu stale rosnąca baza klientów pozwala deweloperom na bardziej śmiałe portowanie gry i zdecydowanie lepsze wyniki dla przyszłych produkcji.",
-    "sourceUrl": "https://www.ppe.pl/news/433294/ostatnia-szansa-na-final-fantasy-vii-rebirth-za-mniej-niz-40-zl-wielka-promocja-na-nintendo-switch-trwa.html"
+    "title": "Jensen Huang wraca na stanowisko szefa Nvidia?! Ważni ludzie pociągają za sznurki",
+    "summary": "Wydawało się, że po niedawnym, głośnym odejściu Jensena Huanga, jego czas w Nvidii bezpowrotnie dobiegł końca. Stery w firmie przejęła tymczasowo Colette Kress, a zarząd miał po prostu szybko znaleźć nowego prezesa na stałe.",
+    "sourceUrl": "https://www.ppe.pl/news/433304/jensen-huanga-wraca-na-stanowisko-szefa-nvidia-wazni-ludzie-pociagaja-za-sznurki.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Jensen Huang wraca na stanowisko szefa Nvidia?! Ważni ludzie pociągają za sznurki",
+      "sourceUrl": "https://www.ppe.pl/news/433304/jensen-huanga-wraca-na-stanowisko-szefa-nvidia-wazni-ludzie-pociagaja-za-sznurki.html",
+      "publishedAt": "2026-11-15T22:02+01:00",
+      "summary": "Wydawało się, że po niedawnym, głośnym odejściu Jensena Huanga, jego czas w Nvidii bezpowrotnie dobiegł końca. Stery w firmie przejęła tymczasowo Colette Kress, a zarząd miał po prostu szybko znaleźć nowego prezesa na stałe.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Ostatnia szansa na Final Fantasy VII Rebirth za mniej niż 40 zł. Wielka promocja na Nintendo Switch trwa",
