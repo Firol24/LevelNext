@@ -1,16 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T09:01+01:00",
+  "updatedAt": "2026-11-15T09:48+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Te motywy są lepsze niż DLSS 5, a prawie nikt o nich nie mówi. Niedoceniane funkcje NVIDIA",
-    "summary": "Prasa branżowa została kompletnie opanowana przez temat DLSS 5, a prawie nikt nie mówi choćby o nowości w postaci nowego, przełomowego modelu Ray Reconstruction od NVIDIA. Czas więc dać szansę najlepszym, lecz często pomijanym funkcjom NVIDIA ...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433130/te-motywy-sa-lepsze-niz-dlss-5-a-prawie-nikt-o-nich-nie-mowi-niedoceniane-funkcje-nvidia.html"
+    "title": "GTA 6 jako pierwsza gra z serii pozwoli być dobrym człowiekiem. GTA 5,5 nie powstało, bo Rockstar woli „duże ryzyko”",
+    "summary": "Rockstar mógł stworzyć Grand Theft Auto 6, ale twórcy nie chcieli ograniczać się do „GTA 5,5”. Informacja GTA 6 jako pierwsza gra z serii pozwoli być dobrym człowiekiem. GTA 5,5 nie powstało, bo Rockstar woli „duże ryzyko” została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-jako-pierwsza-gra-z-serii-pozwoli-byc-dobrym-czlowiekiem-gt/ze3233c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532430485.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 jako pierwsza gra z serii pozwoli być dobrym człowiekiem. GTA 5,5 nie powstało, bo Rockstar woli „duże ryzyko”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-jako-pierwsza-gra-z-serii-pozwoli-byc-dobrym-czlowiekiem-gt/ze3233c",
+      "publishedAt": "2026-11-15T10:35+01:00",
+      "summary": "Rockstar mógł stworzyć Grand Theft Auto 6, ale twórcy nie chcieli ograniczać się do „GTA 5,5”. Informacja GTA 6 jako pierwsza gra z serii pozwoli być dobrym człowiekiem. GTA 5,5 nie powstało, bo Rockstar woli „duże ryzyko” została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532430485.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 w pudełku bez kodu na grę! Rockstar Games i sklepy rozkładają ręce",
+      "sourceUrl": "https://www.ppe.pl/news/433177/gta-6-w-pudelku-bez-kodu-na-gre-rockstar-games-i-sklepy-rozkladaja-rece.html",
+      "publishedAt": "2026-11-15T09:44+01:00",
+      "summary": "Premiera Grand Theft Auto 6 miała być wielkim świętem wszystkich graczy, ale na kilka dni przed oficjalnym debiutem atmosfera zrobiła się niesamowicie gęsta.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze i użytkownicy PC muszą przygotować portfele. Najgorsze z pamięcią RAM może dopiero nadejść",
+      "sourceUrl": "https://www.ppe.pl/news/433127/gracze-i-uzytkownicy-pc-musza-przygotowac-portfele-najgorsze-z-pamiecia-ram-moze-dopiero-nadejsc.html",
+      "publishedAt": "2026-11-15T09:30+01:00",
+      "summary": "Osoby planujące zakup lub rozbudowę komputera mogą mieć przed sobą wyjątkowo trudny okres. TeamGroup ostrzega, że niedobory pamięci nie zakończą się w 2027 roku, a sytuacja może zacząć się poprawiać dopiero pod koniec 2028 roku. Prezes f...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wall Street Journal opisuje, jak Nvidia chciała napędzać popyt na układy AI. W tle spór starego i nowego CEO",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wall-street-journal-opisuje-jak-nvidia-chciala-napedzac-popyt-na/zd3233b",
+      "publishedAt": "2026-11-15T09:11+01:00",
+      "summary": "Jensen Huang odszedł, stery tymczasowo przejęła Colette Kress i od razu wypłynęły kulisy ich sporu. Najciekawszy wątek dotyczy tego, jak Nvidia chciała podtrzymać popyt na układy AI, przez który wszyscy przepłacamy za sprzęt. Informacja Wall Street Journal opisuje, jak Nvidia chciała napędzać popyt na układy AI. W tle spór starego i nowego CEO została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532426271.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W 1994 roku wcielił się w porucznika Dana w filmie Forrest Gump. Dziś co roku zabiera do Disneylandu ponad 1000 dzieci poległych żołnierzy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-1994-roku-wcielil-sie-w-porucznika-dana-w-filmie-forrest-gump-d/zb32321",
+      "publishedAt": "2026-11-15T09:02+01:00",
+      "summary": "Nominowany do Oscara aktor z Forresta Gumpa angażuje się w działalność charytatywną. Dzięki inicjatywie, która jest realizowana przy udziale jego fundacji, tysiące rodzin mogą przeżyć wyjątkowe chwile. Informacja W 1994 roku wcielił się w porucznika Dana w filmie Forrest Gump. Dziś co roku zabiera do Disneylandu ponad 1000 dzieci poległych żołnierzy została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532271557.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Te motywy są lepsze niż DLSS 5, a prawie nikt o nich nie mówi. Niedoceniane funkcje NVIDIA",
@@ -18,6 +62,15 @@
       "publishedAt": "2026-11-15T09:00+01:00",
       "summary": "Prasa branżowa została kompletnie opanowana przez temat DLSS 5, a prawie nikt nie mówi choćby o nowości w postaci nowego, przełomowego modelu Ray Reconstruction od NVIDIA. Czas więc dać szansę najlepszym, lecz często pomijanym funkcjom NVIDIA ...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 1 wywołało prawdziwą panikę wśród rodziców i polityków. A jednak już w 1997 roku miało wszystko, za co pokochaliśmy Grand Theft Auto",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-1-wywolalo-prawdziwa-panike-wsrod-rodzicow-i-politykow-a-jedn/zc3232b",
+      "publishedAt": "2026-11-15T09:00+01:00",
+      "summary": "Dziś GTA kojarzy się z imponującym sandboxem, niesamowicie interaktywnym światem, a nawet z niezłymi, filmowymi fabułami (choć nie tak dobrymi jak w Red Dead Redemption). Mimo, że pierwszą część znamy i lubimy, to można się zdziwić, jaką drogę przebyła seria. Informacja GTA 1 wywołało prawdziwą panikę wśród rodziców i polityków. A jednak już w 1997 roku miało wszystko, za co pokochaliśmy Grand Theft Auto została opublikowana przez GRYOnline.pl 15 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532280066.jpg"
     },
     {
       "sourceName": "PPE",
