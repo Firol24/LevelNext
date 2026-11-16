@@ -1,17 +1,86 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T13:05+01:00",
+  "updatedAt": "2026-11-16T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "League of Legends przejdzie największą przebudowę od lat. Riot Games zapowiada Nowy Świt",
-    "summary": "Nowy Świt nadejdzie w League of Legends w ramach wielkiej aktualizacji, która ma uczynić z LoL-a prawdziwie ponadczasowy tytuł. Informacja League of Legends przejdzie największą przebudowę od lat. Riot Games zapowiada Nowy Świt została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/league-of-legends-przejdzie-najwieksza-przebudowe-od-lat-riot-gam/z332356",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532528271.jpg"
+    "title": "Kapitalizm spowalniał Cities: Skylines 2. Twórcy naprawili błąd i zapowiadają grudniową niespodziankę",
+    "summary": "Twórcy Cities: Skylines 2 dopiero co wypuścili kolejną aktualizację, a już zapowiadają coś dużego na następny miesiąc. Informacja Kapitalizm spowalniał Cities: Skylines 2. Twórcy naprawili błąd i zapowiadają grudniową niespodziankę została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/kapitalizm-spowalnial-cities-skylines-2-tworcy-naprawili-blad-i-z/ze3235a",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532532891.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kapitalizm spowalniał Cities: Skylines 2. Twórcy naprawili błąd i zapowiadają grudniową niespodziankę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kapitalizm-spowalnial-cities-skylines-2-tworcy-naprawili-blad-i-z/ze3235a",
+      "publishedAt": "2026-11-16T14:55+01:00",
+      "summary": "Twórcy Cities: Skylines 2 dopiero co wypuścili kolejną aktualizację, a już zapowiadają coś dużego na następny miesiąc. Informacja Kapitalizm spowalniał Cities: Skylines 2. Twórcy naprawili błąd i zapowiadają grudniową niespodziankę została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532532891.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Co kryją wielkie oczy Elizabeth Holmes? Ten film pokazuje wszystko, a Wy zdecydujcie, czy dacie się nabrać",
+      "sourceUrl": "https://www.gry-online.pl/opinie/elizabeth-holmes-oszukala-doline-krzemowa-a-teraz-chce-przekonac/za49d9",
+      "publishedAt": "2026-11-16T14:55+01:00",
+      "summary": "Elizabeth Holmes chce, by świat wreszcie ją zrozumiał, i na tę okoliczność pozwoliła ekipie filmowej wleźć do swojej kuchni i pod prysznic. Nowy dokument o upadłej miliarderce pokazuje, jak łatwo manipulować naszym postrzeganiem rzeczywistości. Informacja Co kryją wielkie oczy Elizabeth Holmes? Ten film pokazuje wszystko, a Wy zdecydujcie, czy dacie się nabrać została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Postanowiłem odejść z NVIDII”. Inżynier nie chce pracować w firmie, która nie wyjaśniła mu powodów odejścia Jensena Huanga",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/postanowilem-odejsc-z-nvidii-inzynier-nie-chce-pracowac-w-firmie/z432357",
+      "publishedAt": "2026-11-16T14:10+01:00",
+      "summary": "Inżynier ogłosił, że odchodzi z NVIDII ze względu na to, jak firma potraktowała Jensena Huanga i pracowników. Zarząd korporacji w żaden sposób nie wyjaśnił, dlaczego natychmiast zakończono współpracę z CEO. Informacja „Postanowiłem odejść z NVIDII”. Inżynier nie chce pracować w firmie, która nie wyjaśniła mu powodów odejścia Jensena Huanga została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532529812.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na Gothic Remake w Media Expert. Pudełko z grą na Xbox Series X za 109,99 zł",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/promocja-na-gothic-remake-w-media-expert-pudelko-z-gra-na-xbox-series-x-za-10999-zl/",
+      "publishedAt": "2026-11-16T13:56+01:00",
+      "summary": "Jeśli jeszcze nie mieliście okazji zagrać w Gothic Remake, czyli odświeżone wydanie kultowego w Polsce RPG z Bezimiennym w roli głównej, w Media Expert pojawiła się niezła oferta. Pudełkowe wydanie przeznaczone na konsole Xbox Series X, kosztuje we wspomnianym sklepie 109,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/gothic-remake-xsx-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Steam rozdaje 6 nowych gier całkowicie za darmo! Wszystko za kompletne 0 złotych",
+      "sourceUrl": "https://www.ppe.pl/news/433341/steam-rozdaje-6-nowych-gier-calkowicie-za-darmo-wszystko-za-kompletne-0-zlotych.html",
+      "publishedAt": "2026-11-16T13:53+01:00",
+      "summary": "Steam udostępnił sześć nowych produkcji. Gry można przypisać do konta całkowicie za darmo i zachować na zawsze.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Clive Barker’s Hellraiser Revival na Nintendo Switch 2 za 113,99 zł w MediaMarkt",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-clive-barkers-hellraiser-revival-na-nintendo-switch-2-za-11399-zl-w-mediamarkt/",
+      "publishedAt": "2026-11-16T13:43+01:00",
+      "summary": "Krawawy, pierwszoosobowy survival horror studia Saber Interactive, oparty na cyklu filmów z cenobitami, jest dostępny taniej w MediaMarkt. Sklep oferuje Clive Barker’s Hellraiser: Revival w wersji na Nintendo Switch 2 za 113,99 zł. Gra w pudełku jest w postaci Game Key Card. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/hellraiser-revival-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zyskaj zwrot za zakup telewizora Samsung OLED! Przygotuj się na długie, zimowe wieczory z Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zyskaj-zwrot-za-zakup-telewizora-samsung-oled-przygotuj-sie-na-dlugie-zimowe-wieczory-z-media-expert/",
+      "publishedAt": "2026-11-16T13:39+01:00",
+      "summary": "Długie zimowe wieczory sprzyjają spędzaniu czasu w domu. Nie ma to jak położyć się wygodnie, nakryć kocem, wziąć do ręki kubek wypełniony ciepłym kakao i włączyć nowy odcinek ulubionego serialu lub film. Do tego wszystkiego będzie jednak telewizor. Jeśli nie masz jeszcze swojego bądź zastanawiacie się nad większym modelem, z pomocą przyjdzie nowa promocja w Media Expert. Teraz, kupując TV Samsung OLED, możesz otrzymać zwrot na konto. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-SAMSUNG-Oled-Media-Expert-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Star Wars: Fate of the Old Republic z POTĘŻNĄ zapowiedzią! Wiemy, kiedy zobaczymy następcę KOTOR-a",
+      "sourceUrl": "https://www.ppe.pl/news/433340/star-wars-fate-of-the-old-republic-z-potezna-zapowiedzia-wiemy-kiedy-zobaczymy-nastepce-kotor-a.html",
+      "publishedAt": "2026-11-16T13:34+01:00",
+      "summary": "Prace nad duchowym spadkobiercą kultowego Knights of the Old Republic nabierają tempa. Projekt funkcjonuje pod szyldem Star Wars: Fate of the Old Republic.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "League of Legends przejdzie największą przebudowę od lat. Riot Games zapowiada Nowy Świt",
@@ -22,6 +91,32 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532528271.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Znamy wynik Wielkiego Finału Mistrzostw Polski w Heroes 3! Zaprezentowano też nowe fragmenty gigamoda Day of Reckoning",
+      "sourceUrl": "https://cdaction.pl/newsy/znamy-wynik-wielkiego-finalu-mistrzostw-polski-w-heroes-3-zaprezentowano-tez-nowe-fragmenty-gigamoda-day-of-reckoning/",
+      "publishedAt": "2026-11-16T13:30+01:00",
+      "summary": "Pojedynek mistrzów rozegrany w pięknym stylu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/PXL_20261114_172410333-1260x768.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tani preorder Grand Theft Auto VI w Amazonie. Wersja na PS5 i Xbox Series X|S od 329,99 zł",
+      "sourceUrl": "https://lowcygier.pl/preordery/tani-preorder-grand-theft-auto-vi-w-amazonie-wersja-na-ps5-i-xbox-series-xs-od-32999-zl/",
+      "publishedAt": "2026-11-16T13:23+01:00",
+      "summary": "Data premiery Grand Theft Auto VI została wyznaczona na 19 listopada 2026 roku. Każdego dnia pojawiają się coraz ciekawsze oferty na preorder zawierający kod aktywujący grę GTA VI. Najlepszą aktualnie propozycję ma dla Was polski oddział sklepu Amazon. Najnowsze dzieło studia Rockstar w wersji standardowej na konsole PlayStation 5 może być Wasza za 368,89 zł. Natomiast cena wydania na Xbox Series X|S powróciła do poziomu 329,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/07/Preorder-Grand-Theft-Auto-VI-najtaniej-na-Allegro.-Wersja-na-PS5-i-Xbox-Series-X_S-za-32999-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z kolejną aktualizacją. Rockstar Games wprowadza ostatnie szlify przed wielką premierą",
+      "sourceUrl": "https://www.ppe.pl/news/433343/gta-6-z-kolejna-aktualizacja-rockstar-games-wprowadza-ostatnie-szlify-przed-wielka-premiera.html",
+      "publishedAt": "2026-11-16T13:15+01:00",
+      "summary": "Machina wydawnicza Rockstar Games kontynuuje zakulisowe poprawki tuż przed godziną zero.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Ceny pamięci RAM wzrosły nawet o 697%, a teraz trzej giganci staną przed sądem. Samsung, SK Hynix i Micron są oskarżani o celowe ograniczanie produkcji",
       "sourceUrl": "https://www.gry-online.pl/newsroom/ceny-pamieci-ram-wzrosly-nawet-o-697-a-teraz-trzej-giganci-stana/z132354",
@@ -29,6 +124,15 @@
       "summary": "Sąd w Kalifornii odrzucił wniosek Samsunga, SK Hynix i Microna o oddalenie pozwu przeciwko nim. Zarzuca się im stosowanie praktyk oligopolistycznych i zmowę cenową. Informacja Ceny pamięci RAM wzrosły nawet o 697%, a teraz trzej giganci staną przed sądem. Samsung, SK Hynix i Micron są oskarżani o celowe ograniczanie produkcji została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532526789.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nintendo Switch 2 Pro Controller The Legend of Zelda 40th Anniversary Edition za 449,99 zł w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/nintendo-switch-2-pro-controller-the-legend-of-zelda-40th-anniversary-edition-za-44999-zl-w-media-expert/",
+      "publishedAt": "2026-11-16T13:10+01:00",
+      "summary": "Rozchwytywana, specjalna edycja Nintendo Switch 2 Pro Controller The Legend of Zelda 40th Anniversary Edition, pojawiła się w sklepie Media Expert. Akcesorium nawiązujące stylistyką do potężnego Triforce, utrzymane w złotej i zielonej kolorystyce, kosztuje 449,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/pro-controller-nintendo-switch-40th-anniversary-the-legend-of-zelda-miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
