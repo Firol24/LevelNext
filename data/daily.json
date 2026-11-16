@@ -1,17 +1,59 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T18:01+01:00",
+  "updatedAt": "2026-11-16T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Hitowa strzelanka zrobiła krok wstecz i zachwyciła graczy. Wardogs udowadnia, że czasem mniej znaczy więcej",
-    "summary": "Strzelanka Wardogs wprowadziła limitowany tryb gry, który ogranicza jej zawartość. Paradoksalnie może on przyciągnąć do produkcji więcej nowych graczy. Informacja Hitowa strzelanka zrobiła krok wstecz i zachwyciła graczy. Wardogs udowadnia, że czasem mniej znaczy więcej została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/hitowa-strzelanka-zrobila-krok-wstecz-i-zachwycila-graczy-wardogs/z032362",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532545113.jpg"
+    "title": "Przez GTA 6 wzrośnie przemoc? Konserwatywna polityczka nie obawia się o to. Dużo bardziej martwi ją coś innego",
+    "summary": "Według liderki partii konserwatywnej w Wielkiej Brytanii GTA 6 nie wywoła agresji u młodych graczy. Niepokoi ją jednak długi czas, jaki spędzą oni w Vice City. Informacja Przez GTA 6 wzrośnie przemoc? Konserwatywna polityczka nie obawia się o to. Dużo bardziej martwi ją coś innego została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/przez-gta-6-wzrosnie-przemoc-konserwatywna-polityczka-nie-obawia/z132363",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532551049.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Przez GTA 6 wzrośnie przemoc? Konserwatywna polityczka nie obawia się o to. Dużo bardziej martwi ją coś innego",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/przez-gta-6-wzrosnie-przemoc-konserwatywna-polityczka-nie-obawia/z132363",
+      "publishedAt": "2026-11-16T19:52+01:00",
+      "summary": "Według liderki partii konserwatywnej w Wielkiej Brytanii GTA 6 nie wywoła agresji u młodych graczy. Niepokoi ją jednak długi czas, jaki spędzą oni w Vice City. Informacja Przez GTA 6 wzrośnie przemoc? Konserwatywna polityczka nie obawia się o to. Dużo bardziej martwi ją coś innego została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532551049.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Football Manager 27 otrzyma wielką aktualizację! Lista najważniejszych zmian w wersji 27.1.0",
+      "sourceUrl": "https://www.ppe.pl/news/433371/football-manager-27-otrzyma-wielka-aktualizacje-lista-najwazniejszych-zmian-w-wersji-27-1-0.html",
+      "publishedAt": "2026-11-16T18:44+01:00",
+      "summary": "Sports Interactive zapowiedziało pierwszą dużą aktualizację Football Managera 27. Wersja 27.1.0 ma zadebiutować jeszcze w tym tygodniu. Twórcy przygotowali szereg poprawek dotyczących silnika meczowego, zachowania piłkarzy, interfejsu oraz stab...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Bez Lemmingów nie byłoby GTA 6. Niezwykła historia studia, które zaczynało w szkolnej sali do chemii",
+      "sourceUrl": "https://www.gry-online.pl/opinie/od-szkolnego-klubu-komputerowego-do-gta-6-po-drodze-byly-lemmingi/z249da",
+      "publishedAt": "2026-11-16T18:30+01:00",
+      "summary": "Zanim świat oszalał na punkcie GTA 6, miliony graczy zachwycały się zielonowłosymi stworkami, a ich twórcy - mocą komputerów Amiga. Oto historia DMA Design - studia, które przeszło długą drogę od klubu studenckiego, po prestiż nazwy Rockstar North. Informacja Bez Lemmingów nie byłoby GTA 6. Niezwykła historia studia, które zaczynało w szkolnej sali do chemii została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tanie Indyki nie tylko na Święto Dziękczynienia! Promocje na gry PC (do 30 zł) w Instant Gaming",
+      "sourceUrl": "https://lowcygier.pl/gry-za-grosze/tanie-indyki-nie-tylko-na-swieto-dziekczynienia-promocje-na-gry-pc-do-30-zl-w-instant-gaming/",
+      "publishedAt": "2026-11-16T18:27+01:00",
+      "summary": "Łowcy, już w przyszły czwartek Amerykanie będą obchodzić Święto Dziękczynienia. W rama serii „Gry za grosze” nie potrzebujemy jednak takich okazji, aby zakupić tanie „indyki” na PC. W ramach najnowszego zestawienia wybraliśmy dla Was najlepsze oferty na gry niezależne w postaci kluczy Steam. Wszystkie wybrane przez nas produkcje dostępne są w cyfrowym klepie Instant Gaming za mniej niż 30 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tanie-Indyki-nie-tylko-na-Swieto-Dziekczynienia-Promocje-na-gry-PC-do-30-zl-w-Instant-Gaming_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA Vice City w przeglądarce z trybem multiplayer za darmo! Prawnicy Take-Two już szykują pozew",
+      "sourceUrl": "https://www.ppe.pl/news/433366/gta-vice-city-w-przegladarce-z-trybem-multiplayer-za-darmo-prawnicy-take-two-juz-szykuja-pozew.html",
+      "publishedAt": "2026-11-16T18:15+01:00",
+      "summary": "Niezależny programista ukrywający się pod pseudonimem CRTkafa udostępnił w sieci projekt Vice City Online.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Hitowa strzelanka zrobiła krok wstecz i zachwyciła graczy. Wardogs udowadnia, że czasem mniej znaczy więcej",
