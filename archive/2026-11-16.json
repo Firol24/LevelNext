@@ -1,16 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T07:01+01:00",
+  "updatedAt": "2026-11-16T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "SkyShowtime z mocnym thrillerem na początek tygodnia! Policjanci skrywają przerażający sekret",
-    "summary": "SkyShowtime przygotowało kolejną interesującą propozycję dla widzów, którzy lubią mocniejsze historie. Tym razem platforma stawia na połączenie horroru, thrillera i brutalnego kina akcji.",
-    "sourceUrl": "https://www.ppe.pl/news/433293/skyshowtime-z-mocnym-thrillerem-na-poczatek-tygodnia-policjanci-skrywaja-przerazajacy-sekret.html"
+    "title": "Xbox przywraca LEGENDARNE animacje! Microsoft przygotował prezent na 25-lecie marki",
+    "summary": "Microsoft kontynuuje świętowanie 25-lecia Xboksa i zamierza wykorzystać jubileusz, by przypomnieć graczom najlepsze momenty z historii marki. Amerykańska korporacja przygotowała kolejną niespodziankę, która szczególnie spodoba się osobom pami...",
+    "sourceUrl": "https://www.ppe.pl/news/433309/xbox-przywraca-legendarne-animacje-microsoft-przygotowal-prezent-na-25-lecie-marki.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Xbox przywraca LEGENDARNE animacje! Microsoft przygotował prezent na 25-lecie marki",
+      "sourceUrl": "https://www.ppe.pl/news/433309/xbox-przywraca-legendarne-animacje-microsoft-przygotowal-prezent-na-25-lecie-marki.html",
+      "publishedAt": "2026-11-16T08:00+01:00",
+      "summary": "Microsoft kontynuuje świętowanie 25-lecia Xboksa i zamierza wykorzystać jubileusz, by przypomnieć graczom najlepsze momenty z historii marki. Amerykańska korporacja przygotowała kolejną niespodziankę, która szczególnie spodoba się osobom pami...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "8 gier w Xbox Game Pass Essential! Microsoft świętuje i przypomina o polskim hicie",
+      "sourceUrl": "https://www.ppe.pl/news/433290/8-gier-w-xbox-game-pass-essential-microsoft-swietuje-i-przypomina-o-polskim-hicie.html",
+      "publishedAt": "2026-11-16T07:30+01:00",
+      "summary": "Microsoft świętuje 25-lecie Xboksa i przygotował kolejną niespodziankę dla graczy! Amerykańska korporacja zdecydowała się rozbudować bibliotekę Xbox Game Pass Essential i przygotowała aż osiem produkcji",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Edycja kolekcjonerska GTA 6 zaprezentowana! Zobaczcie zestaw za 1740,99 zł",
+      "sourceUrl": "https://www.ppe.pl/news/433289/edycja-kolekcjonerska-gta-6-zaprezentowana-zobaczcie-zestaw-za-1740-99-zl.html",
+      "publishedAt": "2026-11-16T07:05+01:00",
+      "summary": "Premiera GTA 6 odbędzie się już w tym tygodniu, ale wygląda na to, że jeden z graczy otrzymał przed czasem wyjątkowe wydanie najnowszej produkcji Rockstar Games. W sieci pojawiło się nagranie prezentujące zawartość Grand Theft Auto VI: The G...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "SkyShowtime z mocnym thrillerem na początek tygodnia! Policjanci skrywają przerażający sekret",
