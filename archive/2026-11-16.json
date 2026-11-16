@@ -1,17 +1,86 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T17:01+01:00",
+  "updatedAt": "2026-11-16T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Na 3 dni przed premierą GTA 6 haker odpowiedzialny za potężny wyciek z Rockstara przyznał się do wszystkich win",
-    "summary": "Nastąpił przełom w sprawie jednego z największych wycieków w historii branży gier. Haker, który wykradł materiały z GTA 6, przyznał się do winy. Informacja Na 3 dni przed premierą GTA 6 haker odpowiedzialny za potężny wyciek z Rockstara przyznał się do wszystkich win została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/na-3-dni-przed-premiera-gta-6-haker-odpowiedzialny-za-potezny-wyc/zf32361",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532542358.jpg"
+    "title": "Hitowa strzelanka zrobiła krok wstecz i zachwyciła graczy. Wardogs udowadnia, że czasem mniej znaczy więcej",
+    "summary": "Strzelanka Wardogs wprowadziła limitowany tryb gry, który ogranicza jej zawartość. Paradoksalnie może on przyciągnąć do produkcji więcej nowych graczy. Informacja Hitowa strzelanka zrobiła krok wstecz i zachwyciła graczy. Wardogs udowadnia, że czasem mniej znaczy więcej została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/hitowa-strzelanka-zrobila-krok-wstecz-i-zachwycila-graczy-wardogs/z032362",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532545113.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Hitowa strzelanka zrobiła krok wstecz i zachwyciła graczy. Wardogs udowadnia, że czasem mniej znaczy więcej",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/hitowa-strzelanka-zrobila-krok-wstecz-i-zachwycila-graczy-wardogs/z032362",
+      "publishedAt": "2026-11-16T18:13+01:00",
+      "summary": "Strzelanka Wardogs wprowadziła limitowany tryb gry, który ogranicza jej zawartość. Paradoksalnie może on przyciągnąć do produkcji więcej nowych graczy. Informacja Hitowa strzelanka zrobiła krok wstecz i zachwyciła graczy. Wardogs udowadnia, że czasem mniej znaczy więcej została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532545113.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy Star Wars: Galactic Racer wysłuchali graczy. Split-screen już wkrótce trafi do gry",
+      "sourceUrl": "https://www.ppe.pl/news/433376/tworcy-star-wars-galactic-racer-wysluchali-graczy-split-screen-juz-wkrotce-trafi-do-gry.html",
+      "publishedAt": "2026-11-16T18:00+01:00",
+      "summary": "Star Wars: Galactic Racer spotkało się ze sporym zainteresowaniem graczy, którzy dzięki tytułowi od Fuse Games mogli przenieść się do nostalgicznych czasów. Dlatego deweloperzy postanowili to uhonorować i umożliwić fanom wspólną zabawę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Hogwarts Legacy Deluxe na Switcha 2 za 75 zł (zamiast 92 zł). Wystarczy czarodziejski trik!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/hogwarts-legacy-deluxe-na-switcha-2-za-75-zl-zamiast-92-zl-wystarczy-czarodziejski-trik/",
+      "publishedAt": "2026-11-16T18:00+01:00",
+      "summary": "Łowcy, w ramach promocji aktualna cena Hogwarts Legacy: Digital Deluxe Edition na Nintendo Switch 2 w sklepie Nintendo eShop wynosi aktualnie aż 92,70 zł. Jednak wykorzystując bardzo prosta sztuczkę możecie zaoszczędzić ponad 16 zł! Na czym polega magiczny trik? Wystarczy, że zakupicie Dziedzictwo Hogwartu w wersji Deluxe w rekordowo niskiej cenie 30,90 zł w wersji na pierwszego „Pstryczka” , dzięki czemu ulepszenie do wydania na Nintendo Switch 2 będzie kosztować 45 zł. Łącznie zapłacicie więc jedynie 75,90 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Hogwarts-Legacy-na-Nintendo-Switch-2-za-72-zl-zamiast-108-zl_-Wystarczy-magiczna-sztuczka_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ukradł GTA 6, mając pod ręką tylko hotelowy telewizor. Teraz przyznał się do zarzucanych mu czynów, czeka na wyrok",
+      "sourceUrl": "https://cdaction.pl/newsy/ukradl-gta-6-majac-pod-reka-tylko-hotelowy-telewizor-teraz-przyznal-sie-do-zarzucanych-mu-czynow-czeka-na-wyrok/",
+      "publishedAt": "2026-11-16T17:46+01:00",
+      "summary": "Ot, spryciula.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-4-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "HBO Max ma hit w kieszeni? Zobaczcie pierwszy fragment nowego Harry'ego Pottera",
+      "sourceUrl": "https://www.ppe.pl/news/433365/hbo-max-ma-hit-w-kieszeni-zobaczcie-pierwszy-fragment-nowego-harry-ego-pottera.html",
+      "publishedAt": "2026-11-16T17:44+01:00",
+      "summary": "HBO wypuściło pierwszy pełnoprawny fragment serialu Harry Potter i Kamień Filozoficzny. Materiał trafił właśnie na kanał YouTube platformy HBO Max.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zadbaj o zdrowie mężczyzn z Fanatical. Zestaw aż 10 gier Steam za 39 zł + dobry uczynek!",
+      "sourceUrl": "https://lowcygier.pl/bundle/zadbaj-o-zdrowie-mezczyzn-z-fanatical-zestaw-az-10-gier-steam-za-39-zl-dobry-uczynek/",
+      "publishedAt": "2026-11-16T17:34+01:00",
+      "summary": "Łowcy, zespół Fanatical przygotował specjalną ofertę na charytatywną paczkę z grami PC. W ramach zestawu Movember Charity Bundle (2026) możecie otrzymać aż 10 kluczy Steam. Całość oferowana jest w jednym progu cenowym za nieco ponad 39 zł. Dochód ze sprzedaży pakietu zostanie przekazany na rzecz ruchu Movember Mustache Movement , który ma na celu podniesienie świadomości na temat zdrowia mężczyzn. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zadbaj-o-zdrowie-mezczyzn-z-Fanatical.-Zestaw-az-10-gier-Steam-za-39-zl-dobry-uczynek_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Vice City przejmuje świat koszykówki. Crossover NBA 2K27 i GTA 6 z pierwszym zwiastunem i szczegółami",
+      "sourceUrl": "https://www.ppe.pl/news/433372/vice-city-przejmuje-swiat-koszykowki-crossover-nba-2k27-i-gta-6-z-pierwszym-zwiastunem-i-szczegolami.html",
+      "publishedAt": "2026-11-16T17:31+01:00",
+      "summary": "oceń treść i przygotuj tytuł:",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Blade Runner może doczekać się kolejnej gry AAA. Właściciel praw do marki ma ambitne plany na jej rozwój",
+      "sourceUrl": "https://cdaction.pl/newsy/blade-runner-moze-doczekac-sie-kolejnej-gry-aaa-wlasciciel-praw-do-marki-ma-ambitne-plany-na-jej-rozwoj/",
+      "publishedAt": "2026-11-16T17:30+01:00",
+      "summary": "Niespodziewanie dowiedzieliśmy się, że prawdopodobnie Blade Runner po kilkudziesięciu latach doczeka się kolejnej oficjalnej gry.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Blade-Runner.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Na 3 dni przed premierą GTA 6 haker odpowiedzialny za potężny wyciek z Rockstara przyznał się do wszystkich win",
@@ -29,6 +98,23 @@
       "summary": "Po długich poszukiwaniach nowy James Bond został znaleziony. Został nim Robert Pattinson. Informacja Robert Pattinson został nowym Jamesem Bondem. Gwiazda Batmana zastąpi Daniela Craiga w roli agenta 007 została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532542143.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kolejny wielki hit z PS3 trafił na PC. Sony bez szans w walce z hakerami",
+      "sourceUrl": "https://www.ppe.pl/news/433367/kolejny-wielki-hit-z-ps3-trafil-na-pc-sony-bez-szans-w-walce-z-hakerami.html",
+      "publishedAt": "2026-11-16T17:16+01:00",
+      "summary": "Gran Turismo 5 z PS3 działa natywnie na komputerach osobistych. Wszystko dzięki hakerom, którzy wyeliminowali użycie zasobożernych emulatorów.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Niesławna edycja kolekcjonerska GTA 6 trafiła do graczy. Zobaczcie pierwszy unboxing",
+      "sourceUrl": "https://cdaction.pl/newsy/nieslawna-edycja-kolekcjonerska-gta-6-trafila-do-graczy-zobaczcie-pierwszy-unboxing/",
+      "publishedAt": "2026-11-16T17:00+01:00",
+      "summary": "Gdy Rockstar ogłaszał edycję kolekcjonerską GTA 6, wielu graczy miało co do niej poważne zastrzeżenia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-5.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
