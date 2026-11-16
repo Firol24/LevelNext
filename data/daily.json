@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T20:01+01:00",
+  "updatedAt": "2026-11-16T20:26+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Po 6 latach Cyberpunk 2077 wreszcie ma swoje GTA Online. Night City wreszcie może rozkwitnąć dzięki graczom",
-    "summary": "Fani Cyberpunka 2077 wreszcie mogą wspólnie przemierzać Night City. Po latach prac popularna modyfikacja multiplayerowa trafiła do otwartych beta-testów i jest dostępna dla wszystkich zainteresowanych osób. Informacja Po 6 latach Cyberpunk 2077 wreszcie ma swoje GTA Online. Night City wreszcie może rozkwitnąć dzięki graczom została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/po-6-latach-cyberpunk-2077-wreszcie-ma-swoje-gta-online-night-cit/z332365",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532554395.jpg"
+    "title": "Gra, która zachwyciła fanów Gwiezdnych wojen, otrzyma to, czego wszystkim brakowało na premierę Star Wars: Galactic Racer",
+    "summary": "Wydane w październiku Star Wars: Galactic Racer otrzyma wkrótce nowy tryb. Pozwoli on ścigać się na jednym podzielonym ekranie, której to funkcji brakowało graczom od dnia premiery. Informacja Gra, która zachwyciła fanów Gwiezdnych wojen, otrzyma to, czego wszystkim brakowało na premierę Star Wars: Galactic Racer została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gra-ktora-zachwycila-fanow-gwiezdnych-wojen-otrzyma-to-czego-wszy/z432366",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532555994.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gra, która zachwyciła fanów Gwiezdnych wojen, otrzyma to, czego wszystkim brakowało na premierę Star Wars: Galactic Racer",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gra-ktora-zachwycila-fanow-gwiezdnych-wojen-otrzyma-to-czego-wszy/z432366",
+      "publishedAt": "2026-11-16T21:13+01:00",
+      "summary": "Wydane w październiku Star Wars: Galactic Racer otrzyma wkrótce nowy tryb. Pozwoli on ścigać się na jednym podzielonym ekranie, której to funkcji brakowało graczom od dnia premiery. Informacja Gra, która zachwyciła fanów Gwiezdnych wojen, otrzyma to, czego wszystkim brakowało na premierę Star Wars: Galactic Racer została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532555994.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Po 6 latach Cyberpunk 2077 wreszcie ma swoje GTA Online. Night City wreszcie może rozkwitnąć dzięki graczom",
@@ -20,6 +29,23 @@
       "summary": "Fani Cyberpunka 2077 wreszcie mogą wspólnie przemierzać Night City. Po latach prac popularna modyfikacja multiplayerowa trafiła do otwartych beta-testów i jest dostępna dla wszystkich zainteresowanych osób. Informacja Po 6 latach Cyberpunk 2077 wreszcie ma swoje GTA Online. Night City wreszcie może rozkwitnąć dzięki graczom została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532554395.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Capcom wspomina problemy z Monster Hunter Wilds. RE Engine odegrał kluczową rolę w naprawianiu gry",
+      "sourceUrl": "https://www.ppe.pl/news/433399/capcom-wspomina-problemy-z-monster-hunter-wilds-re-engine-odegral-kluczowa-role-w-naprawianiu-gry.html",
+      "publishedAt": "2026-11-16T20:15+01:00",
+      "summary": "Premiera Monster Hunter Wilds w lutym 2025 roku nie przebiegła bez problemów. Produkcja Capcomu zmagała się z licznymi błędami technicznymi i problemami z wydajnością, a doprowadzenie jej do odpowiedniego stanu zajęło twórcom około roku. Ter...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Oferta Śródtygodniowa na Steam. Rekordowo tanie Lost Judgment za 33,80 zł na PC!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/oferta-srodtygodniowa-na-steam-rekordowo-tanie-lost-judgment-za-3380-zl-na-pc/",
+      "publishedAt": "2026-11-16T20:04+01:00",
+      "summary": "Łowcy, przed Wami trzecia w tym miesiącu odsłona oferty Szaleństwo w środku tygodnia w sklepie Gabe’a Newella. Najnowsza wyprzedaż pozwala zakupić wybrane tytuły z rabatami sięgającymi nawet -90%. Wśród oferowanych tytułów znajdziecie wiele rekordowo tanich produkcji . Na szczególne wyróżnienie zasługuje tutaj wysoko oceniane Lost Judgment w historycznie najniższej cenie 33,80 zł. Świetną ofertę stanowi także kompletne wydanie Kingdom Come: Deliverance II Royal Edition za 101,41 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Oferta-Srodtygodniowa-na-Steam.-Rekordowo-tanie-Lost-Judgment-za-3380-zl-na-PC_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
