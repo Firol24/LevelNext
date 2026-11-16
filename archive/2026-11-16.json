@@ -1,17 +1,52 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T09:01+01:00",
+  "updatedAt": "2026-11-16T09:58+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„Udało nam się zdjąć tę klątwę”. Twórca The Blood of Dawnwalker uważa, że przełamał złą passę gier o wampirach. Ma już szalone pomysły na kontynuację",
-    "summary": "Reżyser The Blood of Dawnwalker uważa, że jego zespołowi udało się zdjąć klątwę towarzyszącą grom o wampirach. Studio ma też w zanadrzu „szalone pomysły” na dalszy rozwój swojej koncepcji. Informacja „Udało nam się zdjąć tę klątwę”. Twórca The Blood of Dawnwalker uważa, że przełamał złą passę gier o wampirach. Ma już szalone pomysły na kontynuację została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/udalo-nam-sie-zdjac-te-klatwe-tworca-the-blood-of-dawnwalker-uwaz/z032344",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532515307.jpg"
+    "title": "Nowy Xbox nie będzie pecetem, ale uruchomi również gry z PC. Microsoft zdradził kolejne szczegóły Project Helix i potwierdził ważną wiadomość dla graczy",
+    "summary": "Microsoft zdradził nowe szczegóły dotyczące Xboksa Helix. Hybrydowy sprzęt będzie przede wszystkim konsolą, a funkcje PC wyłącznie dodatkiem. Istotnym elementem pozostaje kompatybilność wsteczna. Informacja Nowy Xbox nie będzie pecetem, ale uruchomi również gry z PC. Microsoft zdradził kolejne szczegóły Project Helix i potwierdził ważną wiadomość dla graczy została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-xbox-nie-bedzie-pecetem-ale-uruchomi-rowniez-gry-z-pc-micros/z332347",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532518002.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy Xbox nie będzie pecetem, ale uruchomi również gry z PC. Microsoft zdradził kolejne szczegóły Project Helix i potwierdził ważną wiadomość dla graczy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-xbox-nie-bedzie-pecetem-ale-uruchomi-rowniez-gry-z-pc-micros/z332347",
+      "publishedAt": "2026-11-16T10:40+01:00",
+      "summary": "Microsoft zdradził nowe szczegóły dotyczące Xboksa Helix. Hybrydowy sprzęt będzie przede wszystkim konsolą, a funkcje PC wyłącznie dodatkiem. Istotnym elementem pozostaje kompatybilność wsteczna. Informacja Nowy Xbox nie będzie pecetem, ale uruchomi również gry z PC. Microsoft zdradził kolejne szczegóły Project Helix i potwierdził ważną wiadomość dla graczy została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532518002.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "TEMP Jaka obudowa do komputera? Polecane obudowy PC 2026",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jaka-obudowa-do-komputera-polecane-obudowy-pc-2026/z932031",
+      "publishedAt": "2026-11-16T10:38+01:00",
+      "summary": "Jaka skrzynka do komputera będzie najlepsza dla Ciebie? Oto ranking TOP10 polecanych obudów PC, które warto wybrać, gdy budujesz sprzęt do gier i do pracy. Priorytety: dobre chłodzenie obudowy, niska temperatura procesora, jakość, funkcjonalność, cena. Informacja TEMP Jaka obudowa do komputera? Polecane obudowy PC 2026 została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/530272136.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Rozdawnictwo GTA 6 za punkty z Paczkomatów InPostu, na Twitchu i Kicku. Tak można zdobyć grę bez płacenia",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/rozdawnictwo-gta-6-za-punkty-z-paczkomatow-na-twitchu-i-kicku-tak/z132345",
+      "publishedAt": "2026-11-16T10:29+01:00",
+      "summary": "Szał na Grand Theft Auto 6 rozpoczął się na dobre, a kolejne platformy próbują przyciągnąć graczy szansą do zdobycie własnej kopii gry z darmo. Informacja Rozdawnictwo GTA 6 za punkty z Paczkomatów InPostu, na Twitchu i Kicku. Tak można zdobyć grę bez płacenia została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532517102.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nvidia OSZUKAŁA graczy?! Przepłacamy za karty graficzne przez byłego szefa spółki",
+      "sourceUrl": "https://www.ppe.pl/news/433315/nvidia-oszukala-graczy-przeplacamy-za-karty-graficzne-przez-bylego-szefa-spolki.html",
+      "publishedAt": "2026-11-16T09:58+01:00",
+      "summary": "Niedawne, głośne zwolnienie szefa Nvidii, Jensena Huanga, pociągnęło za sobą prawdziwą lawinę brudów, które teraz wychodzą na światło dzienne.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„Udało nam się zdjąć tę klątwę”. Twórca The Blood of Dawnwalker uważa, że przełamał złą passę gier o wampirach. Ma już szalone pomysły na kontynuację",
@@ -20,6 +55,24 @@
       "summary": "Reżyser The Blood of Dawnwalker uważa, że jego zespołowi udało się zdjąć klątwę towarzyszącą grom o wampirach. Studio ma też w zanadrzu „szalone pomysły” na dalszy rozwój swojej koncepcji. Informacja „Udało nam się zdjąć tę klątwę”. Twórca The Blood of Dawnwalker uważa, że przełamał złą passę gier o wampirach. Ma już szalone pomysły na kontynuację została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532515307.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw LEGO Kask Ayrton Senna za 233 zł w Amazon PL. To historycznie najniższa cena!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-kask-ayrton-senna-za-233-zl-w-amazon-pl-to-historycznie-najnizsza-cena/",
+      "publishedAt": "2026-11-16T09:51+01:00",
+      "summary": "Taniej za ten model jeszcze nie było. W polskim oddziale sklepu Amazon możecie teraz zakupić liczący sobie 931 elementów i 1 minifigurkę zestaw LEGO 43024 Editions – Kask Ayrton Senna. Mini replika ochrony głowy jednego z najsłynniejszych kierowców F1 może być Wasza już za 233 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-LEGO-Kask-Ayrton-Senna-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na czytniki Kindle w ramach Wczesnego Black Friday w Amazon PL. Ceny rozpoczynają się od 605,99 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-czytniki-kindle-w-ramach-wczesnego-black-friday-w-amazon-pl-ceny-rozpoczynaja-sie-od-60599-zl/",
+      "publishedAt": "2026-11-16T09:48+01:00",
+      "summary": "Również polski oddział Amazon przygotowuje się na szturm podczas Czarnego Piątku, więc kilka promocji jest dostępnych nieco wcześniej. Obniżek cen doczekały się wybrane modele Kindle, więc postanowiliśmy przygotować dla Was krótki wpis. Sześciocalowy, podstawowy czytnik e-book, kosztuje 605,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/amazon-kindle-colorsoft-1b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +84,40 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532514594.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Druga fala wyprzedaży Black Friday w PlayStation Store! Kolejne 3500 gier PS4 i PS5 z rabatami do -95%!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/druga-fala-wyprzedazy-black-friday-w-playstation-store-kolejne-3500-gier-ps4-i-ps5-z-rabatami-do-95/",
+      "publishedAt": "2026-11-16T09:35+01:00",
+      "summary": "Przygotowania do nadchodzącego Black Friday trwają w najlepsze, a Sony postanowiło dorzucić do swojej wyprzedaży kolejną pulę gier w promocyjnych cenach. Co tym razem możecie kupić taniej? LEGO Star Wars: The Skywalker Saga, Hogwarts Legacy, It Takes Two, czy też Mortal Kombat 1 i Sonic Racing CrossWorlds, które niedawno wkroczyło w drugi rok rozgrywek i Season Passa. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-playstation-store-miniaturka-cyfra-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Przeogromna krytyka Fable przesadzona? Nowy materiał zdradza wiele konkretów",
+      "sourceUrl": "https://www.ppe.pl/news/433314/przeogromna-krytyka-fable-przesadzona-nowy-material-zdradza-wiele-konkretow.html",
+      "publishedAt": "2026-11-16T09:33+01:00",
+      "summary": "Po ostatniej fali narzekań i dość chłodnej reakcji ze strony graczy, twórcy nowego Fable postanowili wziąć sprawy w swoje ręce i udowodnić, że projekt zmierza w dobrym kierunku.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Głośnik na imprezy czy do domu z mocą 100W i baterią na 15 godzin w wyśmienitej cenie!",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/433324/glosnik-na-imprezy-czy-do-domu-z-moca-100w-i-bateria-na-15-godzin-w-wysmienitej-cenie.html",
+      "publishedAt": "2026-11-16T09:31+01:00",
+      "summary": "W sklepie internetowym Media Expert nabędziemy taniej o aż 300 złotych bardzo dobry głośnik Power Audio JBL.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Pierwszy oficjalny fragment serialowego „Harry’ego Pottera” już w sieci! Fani kręcą jednak nosem: brakuje w tym magii",
+      "sourceUrl": "https://cdaction.pl/kultura/pierwszy-oficjalny-fragment-serialowego-harryego-pottera-juz-w-sieci-fani-kreca-jednak-nosem-brakuje-w-tym-magii/",
+      "publishedAt": "2026-11-16T09:30+01:00",
+      "summary": "Coraz bliżej powrotu do Hogwartu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Harry-Potter.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Ile zajmie przejście GTA 6? Nowe szacunki długości gry robią wrażenie",
       "sourceUrl": "https://www.gry-online.pl/newsroom/ile-zajmie-przejscie-gta-6-nowe-szacunki-robia-wrazenie/ze32342",
@@ -38,6 +125,40 @@
       "summary": "Do sieci trafiły nowe szacunki długości głównego wątku fabularnego GTA 6. Informacje pochodzą od osób, które miały już styczność z grą. Informacja Ile zajmie przejście GTA 6? Nowe szacunki długości gry robią wrażenie została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532513533.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Bardzo jakościowe telewizory TCL (z 2026) 75\", 85\", 98\" - MiniLED, do 240 Hz, Onkyo 40W i Google TV od 3732 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/telewizory/433323/bardzo-jakosciowe-telewizory-tcl-z-2026-75-85-98-miniled-do-240-hz-onkyo-40w-i-google-tv-od-3732-zl.html",
+      "publishedAt": "2026-11-16T09:26+01:00",
+      "summary": "W sklepie RTV Euro AGD możemy skorzystać z oferty promocyjnej na totalnie bestsellerowe telewizory firmy TCL.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Konsole Nintendo Switch 2 minimalnie taniej! Od 2155 zł lub 2679 zł za wersję z Zeldy",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/433322/konsole-nintendo-switch-2-minimalnie-taniej-od-2155-zl-lub-2679-zl-za-wersje-z-zeldy.html",
+      "publishedAt": "2026-11-16T09:22+01:00",
+      "summary": "W sklepie Perfect Blue dorwiemy minimalnie taniej konsolę NIntendo Switch 2.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nowy Xbox ma odpalać gry pecetowe, generować klatki z niczego i pewnie jeszcze żonglować. Firma pochwaliła się nowymi szczegółami Projectu Helix",
+      "sourceUrl": "https://cdaction.pl/newsy/nowy-xbox-ma-odpalac-gry-pecetowe-generowac-klatki-z-niczego-i-pewnie-jeszcze-zonglowac-firma-pochwalila-sie-nowymi-szczegolami-projectu-helix/",
+      "publishedAt": "2026-11-16T09:21+01:00",
+      "summary": "Projekt kundelek.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/project-helix.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na 12 miesięcy PlayStation Plus w PS Store! Extra za 390 zł, Premium za 422,10 zł (zamiast 630 zł)",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/promocja-na-12-miesiecy-playstation-plus-w-ps-store-extra-za-390-zl-premium-za-42210-zl-zamiast-630-zl/",
+      "publishedAt": "2026-11-16T09:03+01:00",
+      "summary": "Piekło zamarzło. Sony przygotowało dla wszystkich nowych lub powracających zainteresowanych abonamentem PlayStation Plus promocję na roczny dostęp do usługi. Z okazji zbliżającego się Black Friday, do 30 listopada wariant PS+ Essential kosztuje 236 zł, Extra może być wasze za 390 zł oraz Premium możliwe do kupienia za 422,10 zł. Przypominamy, że zawsze możecie dodatkowo zaoszczędzić dzięki doładowaniom PSN. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2022/04/playstation-plus-premium-miniaturka-scaled.jpg"
     },
     {
       "sourceName": "PPE",
