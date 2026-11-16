@@ -1,16 +1,77 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T08:01+01:00",
+  "updatedAt": "2026-11-16T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Xbox przywraca LEGENDARNE animacje! Microsoft przygotował prezent na 25-lecie marki",
-    "summary": "Microsoft kontynuuje świętowanie 25-lecia Xboksa i zamierza wykorzystać jubileusz, by przypomnieć graczom najlepsze momenty z historii marki. Amerykańska korporacja przygotowała kolejną niespodziankę, która szczególnie spodoba się osobom pami...",
-    "sourceUrl": "https://www.ppe.pl/news/433309/xbox-przywraca-legendarne-animacje-microsoft-przygotowal-prezent-na-25-lecie-marki.html"
+    "title": "„Udało nam się zdjąć tę klątwę”. Twórca The Blood of Dawnwalker uważa, że przełamał złą passę gier o wampirach. Ma już szalone pomysły na kontynuację",
+    "summary": "Reżyser The Blood of Dawnwalker uważa, że jego zespołowi udało się zdjąć klątwę towarzyszącą grom o wampirach. Studio ma też w zanadrzu „szalone pomysły” na dalszy rozwój swojej koncepcji. Informacja „Udało nam się zdjąć tę klątwę”. Twórca The Blood of Dawnwalker uważa, że przełamał złą passę gier o wampirach. Ma już szalone pomysły na kontynuację została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/udalo-nam-sie-zdjac-te-klatwe-tworca-the-blood-of-dawnwalker-uwaz/z032344",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532515307.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Udało nam się zdjąć tę klątwę”. Twórca The Blood of Dawnwalker uważa, że przełamał złą passę gier o wampirach. Ma już szalone pomysły na kontynuację",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/udalo-nam-sie-zdjac-te-klatwe-tworca-the-blood-of-dawnwalker-uwaz/z032344",
+      "publishedAt": "2026-11-16T09:55+01:00",
+      "summary": "Reżyser The Blood of Dawnwalker uważa, że jego zespołowi udało się zdjąć klątwę towarzyszącą grom o wampirach. Studio ma też w zanadrzu „szalone pomysły” na dalszy rozwój swojej koncepcji. Informacja „Udało nam się zdjąć tę klątwę”. Twórca The Blood of Dawnwalker uważa, że przełamał złą passę gier o wampirach. Ma już szalone pomysły na kontynuację została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532515307.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Numerem 1 w 70 krajach jest największy hit kasowy w historii kina, który zgarnął 2,9 mld dolarów. Teraz powrócił w nowej wersji",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/numerem-1-w-70-krajach-jest-najwiekszy-hit-kasowy-w-historii-kina/zf32343",
+      "publishedAt": "2026-11-16T09:44+01:00",
+      "summary": "Hitem Disney+ zostało widowisko sprzed 7 lat, które dorobiło się nowej, rozszerzonej wersji. Wspięło się ono na szczyt listy przebojów w 70 krajach. Informacja Numerem 1 w 70 krajach jest największy hit kasowy w historii kina, który zgarnął 2,9 mld dolarów. Teraz powrócił w nowej wersji została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532514594.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ile zajmie przejście GTA 6? Nowe szacunki długości gry robią wrażenie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ile-zajmie-przejscie-gta-6-nowe-szacunki-robia-wrazenie/ze32342",
+      "publishedAt": "2026-11-16T09:26+01:00",
+      "summary": "Do sieci trafiły nowe szacunki długości głównego wątku fabularnego GTA 6. Informacje pochodzą od osób, które miały już styczność z grą. Informacja Ile zajmie przejście GTA 6? Nowe szacunki długości gry robią wrażenie została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532513533.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Aktualizacja GTA 6 rzutem na taśmę. Rockstar Games wprowadza zmiany",
+      "sourceUrl": "https://www.ppe.pl/news/433312/aktualizacja-gta-6-rzutem-na-tasme-rockstar-games-wprowadza-zmiany.html",
+      "publishedAt": "2026-11-16T08:46+01:00",
+      "summary": "Wielka premiera Grand Theft Auto 6 odbędzie się już 19 listopada, ale ekipa z Rockstar Games wyraźnie nie zamierza zwalniać tempa aż do samej mety.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO City Żółty buldożer z ładowarką za 159 zł (cena katalogowa 249,99 zł) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-city-zolty-buldozer-z-ladowarka-za-159-zl-cena-katalogowa-24999-zl-w-media-expert/",
+      "publishedAt": "2026-11-16T08:44+01:00",
+      "summary": "Składający się z 682 elementów zestaw LEGO City Żółty buldożer z ładowarką, dostępny jest teraz w historycznie najniższej cenie w sklepie Media Expert i na Allegro. Klocki, z których zbudujecie ciężką maszynę budowlaną z interaktywnymi elementami, mogą być wasze za 159 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/lego-city-buldozer-z-ladowarka-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PRIDE w EA Sports UFC 6. WIELKI dodatek trafi do gry",
+      "sourceUrl": "https://www.ppe.pl/news/433307/pride-w-ea-sports-ufc-6-wielki-dodatek-trafi-do-gry.html",
+      "publishedAt": "2026-11-16T08:30+01:00",
+      "summary": "EA Sports przygotowało sporą niespodziankę dla fanów mieszanych sztuk walki. Twórcy UFC 6 oficjalnie potwierdzili nowy dodatek, który pozwoli graczom powrócić do jednej z najbardziej legendarnych organizacji w historii MMA.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "HBO Max z MEGA ofertą na listopad! Druga połowa miesiąca to mocne premiery",
+      "sourceUrl": "https://www.ppe.pl/news/433311/hbo-max-z-mega-oferta-na-listopad-druga-polowa-miesiaca-to-mocne-premiery.html",
+      "publishedAt": "2026-11-16T08:02+01:00",
+      "summary": "Polski oddział Warner Bros. Discovery właśnie rozpoczął nowy tydzień i już z samego rana otrzymaliśmy pełną ofertą HBO Max na drugą połowę miesiąca. W listopadzie nie zabraknie ciekawych premier na streamingowej platformie.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Xbox przywraca LEGENDARNE animacje! Microsoft przygotował prezent na 25-lecie marki",
