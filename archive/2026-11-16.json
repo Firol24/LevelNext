@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T06:01+01:00",
+  "updatedAt": "2026-11-16T07:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "PS Plus w promocji Black Friday! Sony zachęca do PlayStation Plus w niższej cenie",
-    "summary": "Sony kontynuuje promocję z okazji Black Friday 2026 i zgodnie z oczekiwaniami wśród przecenionych ofert znalazł się również PlayStation Plus. Gracze mogą skorzystać z rabatów na abonament, ale niestety japońska korporacja ponownie zdecydował...",
-    "sourceUrl": "https://www.ppe.pl/news/433292/ps-plus-w-promocji-black-friday-sony-zacheca-do-playstation-plus-w-nizszej-cenie.html"
+    "title": "SkyShowtime z mocnym thrillerem na początek tygodnia! Policjanci skrywają przerażający sekret",
+    "summary": "SkyShowtime przygotowało kolejną interesującą propozycję dla widzów, którzy lubią mocniejsze historie. Tym razem platforma stawia na połączenie horroru, thrillera i brutalnego kina akcji.",
+    "sourceUrl": "https://www.ppe.pl/news/433293/skyshowtime-z-mocnym-thrillerem-na-poczatek-tygodnia-policjanci-skrywaja-przerazajacy-sekret.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "SkyShowtime z mocnym thrillerem na początek tygodnia! Policjanci skrywają przerażający sekret",
+      "sourceUrl": "https://www.ppe.pl/news/433293/skyshowtime-z-mocnym-thrillerem-na-poczatek-tygodnia-policjanci-skrywaja-przerazajacy-sekret.html",
+      "publishedAt": "2026-11-16T06:40+01:00",
+      "summary": "SkyShowtime przygotowało kolejną interesującą propozycję dla widzów, którzy lubią mocniejsze historie. Tym razem platforma stawia na połączenie horroru, thrillera i brutalnego kina akcji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowe PS5 na zwiastunie. Japończycy szykują się na premierę",
+      "sourceUrl": "https://www.ppe.pl/news/433306/nowe-ps5-na-zwiastunie-japonczycy-szykuja-sie-na-premiere.html",
+      "publishedAt": "2026-11-16T06:15+01:00",
+      "summary": "Sony zaprezentowało nowy zwiastun PlayStation 5, na którym możemy dokładnie przyjrzeć się kolejnej wersji popularnej konsoli. Japoński producent zdecydował się na odświeżenie wyglądu urządzenia i postawił na elegancką, całkowicie czarną...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "PS Plus w promocji Black Friday! Sony zachęca do PlayStation Plus w niższej cenie",
