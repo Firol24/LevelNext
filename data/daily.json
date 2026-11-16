@@ -1,17 +1,112 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T16:01+01:00",
+  "updatedAt": "2026-11-16T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "W 2027 roku Netflix może pożegnać się z ponad 80 oryginalnymi produkcjami. Wśród nich znalazła się znakomita trylogia fantasy stworzona przez Guillermo del Toro",
-    "summary": "Netfliksa może opuścić świetna trylogia fantasy oraz ponad 80 innych produkcji, których usunięcie jest przewidywane na 2027 rok. Ich los nie jest jednak przesądzony. Informacja W 2027 roku Netflix może pożegnać się z ponad 80 oryginalnymi produkcjami. Wśród nich znalazła się znakomita trylogia fantasy stworzona przez Guillermo del Toro została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/w-2027-roku-netflix-moze-pozegnac-sie-z-ponad-80-oryginalnymi-pro/z232355",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532527654.jpg"
+    "title": "Na 3 dni przed premierą GTA 6 haker odpowiedzialny za potężny wyciek z Rockstara przyznał się do wszystkich win",
+    "summary": "Nastąpił przełom w sprawie jednego z największych wycieków w historii branży gier. Haker, który wykradł materiały z GTA 6, przyznał się do winy. Informacja Na 3 dni przed premierą GTA 6 haker odpowiedzialny za potężny wyciek z Rockstara przyznał się do wszystkich win została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/na-3-dni-przed-premiera-gta-6-haker-odpowiedzialny-za-potezny-wyc/zf32361",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532542358.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Na 3 dni przed premierą GTA 6 haker odpowiedzialny za potężny wyciek z Rockstara przyznał się do wszystkich win",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-3-dni-przed-premiera-gta-6-haker-odpowiedzialny-za-potezny-wyc/zf32361",
+      "publishedAt": "2026-11-16T17:28+01:00",
+      "summary": "Nastąpił przełom w sprawie jednego z największych wycieków w historii branży gier. Haker, który wykradł materiały z GTA 6, przyznał się do winy. Informacja Na 3 dni przed premierą GTA 6 haker odpowiedzialny za potężny wyciek z Rockstara przyznał się do wszystkich win została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532542358.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Robert Pattinson został nowym Jamesem Bondem. Gwiazda Batmana zastąpi Daniela Craiga w roli agenta 007",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/robert-pattinson-zostal-nowym-jamesem-bondem-gwiazda-batmana-zast/ze32360",
+      "publishedAt": "2026-11-16T17:22+01:00",
+      "summary": "Po długich poszukiwaniach nowy James Bond został znaleziony. Został nim Robert Pattinson. Informacja Robert Pattinson został nowym Jamesem Bondem. Gwiazda Batmana zastąpi Daniela Craiga w roli agenta 007 została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532542143.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wybieramy najlepsze GTA. Ranking odsłon gangsterskiej serii Grand Theft Auto",
+      "sourceUrl": "https://lowcygier.pl/publicystyka/wybieramy-najlepsze-gta-ranking-odslon-gangsterskiej-serii-grand-theft-auto/",
+      "publishedAt": "2026-11-16T16:46+01:00",
+      "summary": "Od lat fani zadają sobie pytanie, które GTA jest najlepsze. Niektórzy wolą starsze odsłony, dotąd z rozrzewnieniem wspominając młodość spędzoną przy San Andreas. Jeszcze inni nie wyobrażają sobie, żeby cokolwiek mogło przebić kultowe Vice City. Spora część młodszego pokolenia (choć nie tylko!) zagrywa się z kolei w GTA Online, nie czując nawet potrzeby odpalania kampanii singlowej. Patrząc na ilość treści, jaką regularnie dodaje do „multika” Rockstar, trudno im się zresztą dziwić. Wybranie tej „naj” części jest przez tę różnorodność sporym wyzwaniem, ale spróbujemy mu dzisiaj podołać. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/01/gta-ranking-gier-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kultowy tryb z Uncharted 3 oficjalnie powraca! Gracze z PS3 i PC znów zagrają razem",
+      "sourceUrl": "https://www.ppe.pl/news/433361/kultowy-tryb-z-uncharted-3-oficjalnie-powraca-gracze-z-ps3-i-pc-znow-zagraja-razem.html",
+      "publishedAt": "2026-11-16T16:44+01:00",
+      "summary": "Naughty Dog zamknęło oficjalne serwery Uncharted 3: Drake's Deception 3 września 2019 roku, ale gracze nie dali za wygraną.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To będzie kryminalny przebój końca roku? SkyShowtime prezentuje zwiastun polskiej wersji międzynarodowego hitu",
+      "sourceUrl": "https://www.ppe.pl/news/433370/to-bedzie-kryminalny-przeboj-konca-roku-skyshowtime-prezentuje-zwiastun-polskiej-wersji-miedzynarodowego-hitu.html",
+      "publishedAt": "2026-11-16T16:29+01:00",
+      "summary": "Serwis SkyShowtime coraz chętniej inwestuje w rodzime seriale. Z tego powodu pod koniec tego roku widzowie serwisu otrzymają jeszcze jedną nowość z naszego podwórka.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje w Nintendo eShop. Wyprzedaż gier WB Games z rabatem do -93%!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/promocje-w-nintendo-eshop-wyprzedaz-gier-wb-games-z-rabatem-do-93/",
+      "publishedAt": "2026-11-16T16:26+01:00",
+      "summary": "Wystartowała kolejna wyprzedaż w Nintendo eShop. Ponownie jest to znana i lubiana promocja poświęcona grom spod szyldu WB Games. Cóż to dla nas oznacza? Przede wszystkim tanie gry z serii LEGO, ze Skywalker Saga Deluxe Edition na czele, które możecie kupić teraz w historycznie najniższej cenie. Zaoszczędzicie także na zakupie Mortal Kombat 1, Hogwarts Legacy Deluxe Edition i Citizen Sleeper 2. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/07/Promocja-na-Hogwarts-Legacy-w-Nintendo-eShop.-Deluxe-Edition-dostepna-juz-za-12360-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation 5 z GTA 6 za grosze miesięcznie! Koniec z kupowaniem sprzętu za gotówkę",
+      "sourceUrl": "https://www.ppe.pl/news/433368/koniec-z-kupowaniem-sprzetu-za-gotowke-playstation-5-z-gta-6-za-grosze-miesiecznie.html",
+      "publishedAt": "2026-11-16T16:16+01:00",
+      "summary": "Sony radykalnie zmienia model dystrybucji sprzętu z okazji premiery Grand Theft Auto 6.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Indyk inspirowany klasykami FromSoftware i Bethesdy podbija serca graczy. Queen’s Domain z fantastycznym wynikiem sprzedażowym",
+      "sourceUrl": "https://cdaction.pl/newsy/indyk-inspirowany-klasykami-fromsoftware-i-bethesdy-podbija-serca-graczy-queens-domain-z-fantastycznym-wynikiem-sprzedazowym/",
+      "publishedAt": "2026-11-16T16:15+01:00",
+      "summary": "To dobry czas dla fanów gier niezależnych.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-16T132637.217-1260x709.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw 4 Apple AirTag (1. gen) za 269,99 zł w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-4-apple-airtag-1-gen-za-26999-zl-w-media-expert/",
+      "publishedAt": "2026-11-16T16:14+01:00",
+      "summary": "Gubicie portfel, bagaż, plecak albo samochód? Jeśli korzystacie z ekosystemu Apple, warto zaopatrzyć się w AirTagi. W Media Expert aktualnie możecie kupić zestaw czterech lokalizatorów pierwszej generacji za 269,99 zł. To około 67,50 zł za jedną sztukę! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/07/apple-airtag-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To on OFICJALNIE został nowym Jamesem Bondem! Szok to mało powiedziane",
+      "sourceUrl": "https://www.ppe.pl/news/433369/to-on-oficjalnie-zostal-nowym-jamesem-bondem-szok-to-malo-powiedziane.html",
+      "publishedAt": "2026-11-16T16:12+01:00",
+      "summary": "Przyszłość filmowej serii o Jamesie Bondzie od dawna budziła ogromne zainteresowanie, a spekulacje dotyczące następcy Daniela Craiga trwały od miesięcy. Wśród potencjalnych kandydatów wymieniano wiele nazwisk, ale najnowsze ogłoszenie z ofic...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Robert Pattinson nowym Jamesem Bondem! Amazon ma swojego agenta 007",
+      "sourceUrl": "https://cdaction.pl/kultura/robert-pattinson-nowym-jamesem-bondem-amazon-ma-swojego-agenta-007/",
+      "publishedAt": "2026-11-16T16:05+01:00",
+      "summary": "I wszystko stało się jasne: Batman nowym Bondem!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/James-Bond.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "W 2027 roku Netflix może pożegnać się z ponad 80 oryginalnymi produkcjami. Wśród nich znalazła się znakomita trylogia fantasy stworzona przez Guillermo del Toro",
