@@ -1,17 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T22:01+01:00",
+  "updatedAt": "2026-11-16T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Baśniowy otwarty świat RPG Fable odkrywa swoje sekrety. Mapa kultowej lokacji potwierdza, że twórcy nie bali się zmian",
-    "summary": "Twórcy nadchodzącego Fable pokazali mapę Bowerstone i omówili charakterystyczne miejsca stolicy. Reżyser gry przekazał, że miasto zostało przebudowane na potrzeby nowej gry. Informacja Baśniowy otwarty świat RPG Fable odkrywa swoje sekrety. Mapa kultowej lokacji potwierdza, że twórcy nie bali się zmian została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/basniowy-otwarty-swiat-rpg-fable-odkrywa-swoje-sekrety-mapa-kulto/z632368",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532559296.jpg"
+    "category": "PROMOCJE",
+    "title": "Pudełkowe Little Big Adventure Twinsen’s Quest na Nintendo Switch za 43,99 zł w Media Expert",
+    "summary": "Wykorzystując specjalny kod zniżkowy, w internetowym sklepie Media Expert, możecie zakupić tanio Little Big Adventure Twinsen’s Quest. Remake kultowej gry przygodowej wydanej pierwotnie w 1994 roku dostępny jest w dużo niższej cenie. Pudełkowe wydanie tytułu w wersji na konsolę Nintendo Switch może być Wasze za 43,99 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-little-big-adventure-twinsens-quest-na-nintendo-switch-za-4399-zl-w-media-expert/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/Little-Big-Adventure-ns-miniatura-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Little Big Adventure Twinsen’s Quest na Nintendo Switch za 43,99 zł w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-little-big-adventure-twinsens-quest-na-nintendo-switch-za-4399-zl-w-media-expert/",
+      "publishedAt": "2026-11-16T22:39+01:00",
+      "summary": "Wykorzystując specjalny kod zniżkowy, w internetowym sklepie Media Expert, możecie zakupić tanio Little Big Adventure Twinsen’s Quest. Remake kultowej gry przygodowej wydanej pierwotnie w 1994 roku dostępny jest w dużo niższej cenie. Pudełkowe wydanie tytułu w wersji na konsolę Nintendo Switch może być Wasze za 43,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/Little-Big-Adventure-ns-miniatura-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To prawdziwie NEXT-GENOWA grafika? GTA 6 na WYBITNYCH ujęciach!",
+      "sourceUrl": "https://www.ppe.pl/news/433405/to-prawdziwie-next-genowa-grafika-gta-6-na-wybitnych-ujeciach.html",
+      "publishedAt": "2026-11-16T22:20+01:00",
+      "summary": "Rockstar Games podgrzewa atmosferę przed premierą GTA 6, a najnowsze materiały tylko potwierdzają, że możemy szykować się na jedną z najpiękniejszych gier tej generacji. Twórcy zdecydowali się na nietypową współpracę z The Weather Channe...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Poniedziałkowy zjazd cenowy. Ghost of Tsushima Director’s Cut (klucz Steam) za mniej niż 92 zł!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/poniedzialkowy-zjazd-cenowy-ghost-of-tsushima-directors-cut-klucz-steam-za-mniej-niz-92-zl/",
+      "publishedAt": "2026-11-16T22:13+01:00",
+      "summary": "Łowcy, jeśli macie ochotę na małą wycieczkę do Kraju Kwitnącej Wiśni, to w sklepach cyfrowej dystrybucji pojawiło się kilka świetnych ofert na rekordowo tanie Ghost of Tsushima Director’s Cut. Kompletne wydanie produkcji w wersji na PC oferowane jest w historycznie najniższej cenie. Klucz Steam z grą studia Sucker Punch Productions może być Wasz za niecałe 92 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/05/Wybrane-zamowienia-na-Ghost-of-Tsushima-na-PC-anulowane-Cyfrowe-sklepy-dmuchaja-na-zimne_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Baśniowy otwarty świat RPG Fable odkrywa swoje sekrety. Mapa kultowej lokacji potwierdza, że twórcy nie bali się zmian",
