@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T12:01+01:00",
+  "updatedAt": "2026-11-16T13:05+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Jedna z najbardziej wyczekiwanych gier na Steamie miała zniknąć. Uratowali ją twórcy Satisfactory",
-    "summary": "Średniowieczny sandbox Chronicles: Medieval stanął na skraju anulowania. Projekt został jednak uratowany przez firmę Coffee Stain, która zakupiła prawa do gry i sfinansuje dalsze prace. Informacja Jedna z najbardziej wyczekiwanych gier na Steamie miała zniknąć. Uratowali ją twórcy Satisfactory została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/jedna-z-najbardziej-wyczekiwanych-gier-na-steamie-miala-zniknac-u/z032353",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532526409.jpg"
+    "title": "League of Legends przejdzie największą przebudowę od lat. Riot Games zapowiada Nowy Świt",
+    "summary": "Nowy Świt nadejdzie w League of Legends w ramach wielkiej aktualizacji, która ma uczynić z LoL-a prawdziwie ponadczasowy tytuł. Informacja League of Legends przejdzie największą przebudowę od lat. Riot Games zapowiada Nowy Świt została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/league-of-legends-przejdzie-najwieksza-przebudowe-od-lat-riot-gam/z332356",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532528271.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "League of Legends przejdzie największą przebudowę od lat. Riot Games zapowiada Nowy Świt",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/league-of-legends-przejdzie-najwieksza-przebudowe-od-lat-riot-gam/z332356",
+      "publishedAt": "2026-11-16T13:33+01:00",
+      "summary": "Nowy Świt nadejdzie w League of Legends w ramach wielkiej aktualizacji, która ma uczynić z LoL-a prawdziwie ponadczasowy tytuł. Informacja League of Legends przejdzie największą przebudowę od lat. Riot Games zapowiada Nowy Świt została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532528271.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ceny pamięci RAM wzrosły nawet o 697%, a teraz trzej giganci staną przed sądem. Samsung, SK Hynix i Micron są oskarżani o celowe ograniczanie produkcji",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ceny-pamieci-ram-wzrosly-nawet-o-697-a-teraz-trzej-giganci-stana/z132354",
+      "publishedAt": "2026-11-16T13:10+01:00",
+      "summary": "Sąd w Kalifornii odrzucił wniosek Samsunga, SK Hynix i Microna o oddalenie pozwu przeciwko nim. Zarzuca się im stosowanie praktyk oligopolistycznych i zmowę cenową. Informacja Ceny pamięci RAM wzrosły nawet o 697%, a teraz trzej giganci staną przed sądem. Samsung, SK Hynix i Micron są oskarżani o celowe ograniczanie produkcji została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532526789.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W Cyberpunka 2077 możecie teraz grać jako członek Trauma Team. Nowy fanowski projekt całkowicie odmienia RPG-a",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-cyberpunka-2077-mozecie-teraz-grac-jako-czlonek-trauma-team-now/ze32351",
+      "publishedAt": "2026-11-16T13:02+01:00",
+      "summary": "Wyobrażacie sobie V w innym zawodzie niż najemnik? Ten mod pozwoli wam dołączyć do ekipy Trauma Team. Informacja W Cyberpunka 2077 możecie teraz grać jako członek Trauma Team. Nowy fanowski projekt całkowicie odmienia RPG-a została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532526198.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Jedna z najbardziej wyczekiwanych gier na Steamie miała zniknąć. Uratowali ją twórcy Satisfactory",
@@ -20,6 +47,15 @@
       "summary": "Średniowieczny sandbox Chronicles: Medieval stanął na skraju anulowania. Projekt został jednak uratowany przez firmę Coffee Stain, która zakupiła prawa do gry i sfinansuje dalsze prace. Informacja Jedna z najbardziej wyczekiwanych gier na Steamie miała zniknąć. Uratowali ją twórcy Satisfactory została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532526409.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Rockstar wyjawia, czemu produkcja GTA 6 trwała tak długo. „Trzeba grać o najwyższą stawkę i ryzykować”",
+      "sourceUrl": "https://cdaction.pl/newsy/rockstar-wyjawia-czemu-produkcja-gta-6-trwala-tak-dlugo-trzeba-grac-o-najwyzsza-stawke-i-ryzykowac/",
+      "publishedAt": "2026-11-16T13:00+01:00",
+      "summary": "Developerzy sugerują, że na ich miejscu zrobilibyśmy coś podobnego.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Zrzut-ekranu-2026-09-2-o-09.00.50-1260x662.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +67,39 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532526231.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Były szef Nvidia komentuje POWRÓT do firmy! Jensen Huang rozmawia ze swoimi \"wtykami\" w firmie",
+      "sourceUrl": "https://www.ppe.pl/news/433338/byly-szef-nvidia-komentuje-powrot-do-firmy-jensen-huang-rozmawia-ze-swoimi-wtykami-w-firmie.html",
+      "publishedAt": "2026-11-16T12:59+01:00",
+      "summary": "Wydawało się, że skandal, który zmiótł Jensena Huanga ze stanowiska szefa Nvidii, to absolutny i ostateczny koniec jego kariery w firmie. Tymczasem historia ta przypomina już rasowy serial sensacyjny, w którym główny bohater ani myśli schodzi...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na klawiatury w Media Expert. Modele dla graczy już od 124,50 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocje-na-klawiatury-w-media-expert-modele-dla-graczy-juz-od-12450-zl/",
+      "publishedAt": "2026-11-16T12:51+01:00",
+      "summary": "W sklepie Media Expert trwa Black Weeks, czyli wielka rozgrzewka przed Czarnym Piątkiem, który będzie już 27 listopada. W ramach trwającej akcji przeceniono część klawiatur gamingowych, zarówno przewodowych jak i bezprzewodowych. Przygotowaliśmy dla Was z tej okazji krótki wpis, w którym zebraliśmy wszystkie promocje. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/klawiatury-gamingowe-black-weeks-media-expert-listopad-2026-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Blood of Dawnwalker 2 oficjalnie powstaje. Polacy zaskoczą graczy",
+      "sourceUrl": "https://www.ppe.pl/news/433336/the-blood-of-dawnwalker-2-oficjalnie-powstaje-polacy-zaskocza-graczy.html",
+      "publishedAt": "2026-11-16T12:42+01:00",
+      "summary": "Wrzesień tego roku na pewno na długo zapisze się w pamięci fanów mrocznych, wampirzych klimatów. To właśnie wtedy na rynek trafiło The Blood of Dawnwalker, czyli wyczekiwane dzieło weteranów z CD Projekt RED, którzy założyli studio Rebel W...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xiaomi szykuje nowego Redmi Note, ale pojawił się jeden duży problem",
+      "sourceUrl": "https://www.ppe.pl/news/433328/xiaomi-szykuje-nowego-redmi-note-ale-pojawil-sie-jeden-duzy-problem.html",
+      "publishedAt": "2026-11-16T12:39+01:00",
+      "summary": "Redmi Note 18 5G zaczyna pojawiać się w przeciekach i na razie trudno mówić o dużym kroku naprzód. Z informacji znalezionych w kodzie HyperOS wynika, że Xiaomi może po prostu wykorzystać konstrukcję Redmi Note 17 5G, zwiększyć pojemność ba...",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Numerem 1 w 57 krajach na HBO Max jest „najlepszy film o dinozaurach od czasów Parku Jurajskiego”. Ma 86% pozytywnych recenzji na Rotten Tomatoes",
       "sourceUrl": "https://www.gry-online.pl/newsroom/numerem-1-w-57-krajach-na-hbo-max-jest-najlepszy-film-o-dinozaura/zd3234a",
@@ -40,6 +109,31 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532520629.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Laptop HyperX OMEN z RTX 5070, OLED 165 Hz + monitor 180 Hz za 1 zł + 2 gry",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/433342/laptop-hyperx-omen-z-rtx-5070-oled-165-hz-monitor-180-hz-za-1-zl-2-gry.html",
+      "publishedAt": "2026-11-16T12:33+01:00",
+      "summary": "X-Kom przygotował dla graczy znakomitą ofertę. Kupując gamingowego laptopa od HyperX z serii OMEN nabędziemy też monitor za złotówkę oraz dwie topowe gry.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony już tego nie powstrzyma. Emulacja przyspiesza. Powstał też kolejny port exclusiva PS5 na PC",
+      "sourceUrl": "https://www.ppe.pl/news/433325/sony-juz-tego-nie-powstrzyma-emulacja-przyspiesza-powstal-tez-kolejny-port-exclusiva-ps5-na-pc.html",
+      "publishedAt": "2026-11-16T12:33+01:00",
+      "summary": "Emulacja PS5 na PC to temat, który wciąż się rozkręca.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "The Blood of Dawnwalker rzuca wyzwanie GTA 6. Nowa Gra+ zadebiutuje w tym tygodniu",
+      "sourceUrl": "https://cdaction.pl/newsy/the-blood-of-dawnwalker-rzuca-wyzwanie-gta-6-nowa-gra-zadebiutuje-w-tym-tygodniu/",
+      "publishedAt": "2026-11-16T12:30+01:00",
+      "summary": "Warto grać, gdy nie ma się niczego do stracenia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/Zrzut-ekranu-2026-07-28-o-11.36.19-1260x662.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Nowości na Steam. Powracają aż trzy klasyczne strategie, które przed laty pochłaniały graczy na dziesiątki godzin",
       "sourceUrl": "https://www.gry-online.pl/newsroom/nowosci-na-steam-powracaja-az-trzy-klasyczne-strategie-ktore-prze/z23234f",
@@ -47,6 +141,15 @@
       "summary": "W tym tygodniu na Steamie zadebiutują takie gry, jak Milki Delivery, Melvor Idle 2, Ridiculous Space Battles, Spirit Crossing czy Here Comes the Horde. Ponadto dostaniemy reedycje trzech klasycznych strategii z lat 90. Informacja Nowości na Steam. Powracają aż trzy klasyczne strategie, które przed laty pochłaniały graczy na dziesiątki godzin została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532524432.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kabel USB-C UGREEN 100W PD 1m za 18,99 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/kabel-usb-c-ugreen-100w-pd-1m-za-1899-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-16T12:19+01:00",
+      "summary": "Metrowy kabel USB-C do USB-C wspierający ładowanie do 100W z Power Delivery, pojawił się w polskim oddziale sklepu Amazon w dobrej cenie. Za akcesorium firmy UGREEN, które może posłużyć Wam również do transferu danych, zapłacicie teraz 18,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/06/ugreen-100w-pd-usb-c-2b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -65,6 +168,15 @@
       "summary": "Star Wars: Fate of the Old Republic wkrótce zacznie zdradzać swoje sekrety, a twórcy tłumaczą, jak chcą uniknąć jednej z pułapek gier AAA. Informacja Nowe RPG w świecie Gwiezdnych wojen robi „duży zespół indie”, a nie studio AAA. Reżyser KOTOR-a tłumaczy dlaczego została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532522561.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Serii Gothic Classic od zawsze brakowało na pecetach jednej rzeczy. Teraz może się to zmienić w przypadku „trójki”",
+      "sourceUrl": "https://cdaction.pl/newsy/serii-gothic-classic-od-zawsze-brakowalo-na-pecetach-jednej-rzeczy-teraz-moze-sie-to-zmienic-w-przypadku-trojki/",
+      "publishedAt": "2026-11-16T12:00+01:00",
+      "summary": "Klasyczne edycje Gothica nigdy nie miały zaimplementowanej popularnej funkcji na Steamie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Gothic-3.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
