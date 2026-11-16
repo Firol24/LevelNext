@@ -1,17 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T21:01+01:00",
+  "updatedAt": "2026-11-16T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 może pomóc CD Projekt Red. Wiedźmin 4 i Cyberpunk 2 będą porównywane do gry Rockstara po jednym ważnym względem",
-    "summary": "Premiera GTA 6 może przynieść korzyści nie tylko Rockstar Games. Zdaniem analityków na debiucie wyczekiwanej produkcji zyska również polski CD Projekt Red. Informacja GTA 6 może pomóc CD Projekt Red. Wiedźmin 4 i Cyberpunk 2 będą porównywane do gry Rockstara po jednym ważnym względem została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moze-pomoc-cd-projekt-red-wiedzmin-4-i-cyberpunk-2-beda-por/z232364",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532551345.jpg"
+    "title": "Baśniowy otwarty świat RPG Fable odkrywa swoje sekrety. Mapa kultowej lokacji potwierdza, że twórcy nie bali się zmian",
+    "summary": "Twórcy nadchodzącego Fable pokazali mapę Bowerstone i omówili charakterystyczne miejsca stolicy. Reżyser gry przekazał, że miasto zostało przebudowane na potrzeby nowej gry. Informacja Baśniowy otwarty świat RPG Fable odkrywa swoje sekrety. Mapa kultowej lokacji potwierdza, że twórcy nie bali się zmian została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/basniowy-otwarty-swiat-rpg-fable-odkrywa-swoje-sekrety-mapa-kulto/z632368",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532559296.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Baśniowy otwarty świat RPG Fable odkrywa swoje sekrety. Mapa kultowej lokacji potwierdza, że twórcy nie bali się zmian",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/basniowy-otwarty-swiat-rpg-fable-odkrywa-swoje-sekrety-mapa-kulto/z632368",
+      "publishedAt": "2026-11-16T22:08+01:00",
+      "summary": "Twórcy nadchodzącego Fable pokazali mapę Bowerstone i omówili charakterystyczne miejsca stolicy. Reżyser gry przekazał, że miasto zostało przebudowane na potrzeby nowej gry. Informacja Baśniowy otwarty świat RPG Fable odkrywa swoje sekrety. Mapa kultowej lokacji potwierdza, że twórcy nie bali się zmian została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532559296.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Haker GTA 6 przyznał się do winy! Znamy nowe szczegóły głośnej sprawy",
+      "sourceUrl": "https://www.ppe.pl/news/433377/haker-gta-6-przyznal-sie-do-winy-znamy-nowe-szczegoly-glosnej-sprawy.html",
+      "publishedAt": "2026-11-16T21:46+01:00",
+      "summary": "Jedna z najgłośniejszych afer w historii Rockstar Games doczekała się kolejnego, bardzo ważnego rozdziału. Haker odpowiedzialny za gigantyczny wyciek materiałów z GTA 6 przyznał się do winy przed brytyjskim sądem. Sprawa jest szczególnie int...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Twoje runy z League of Legends są bezpieczne. Szef Riot Games odpowiada na przecieki i obawy",
+      "sourceUrl": "https://cdaction.pl/newsy/twoje-runy-z-league-of-legends-sa-bezpieczne-szef-riot-games-odpowiada-na-przecieki-i-obawy/",
+      "publishedAt": "2026-11-16T21:36+01:00",
+      "summary": "Nic nie zabiorą, jeszcze dadzą pewnie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/the-new-dawn-1260x699.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Victorian Psycho (2026) - recenzja filmu [Kino świat]. Najnormalniejsza kobieta na świecie",
+      "sourceUrl": "https://www.ppe.pl/recenzje/433402/victorian-psycho-2026-recenzja-filmu-kino-swiat-najnormalniejsza-kobieta-na-swiecie.html",
+      "publishedAt": "2026-11-16T21:34+01:00",
+      "summary": "Do pięknego, gotyckiego dworku Ensor House przybywa nowa guwernantka, panna Winifred Notty. I choć z początku może wydawać się być po prostu ekscentryczną duszyczką, szybko zaczyna okazywać się, że za tym jej lekko pustym spojrzeniem czai si...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 może pomóc CD Projekt Red. Wiedźmin 4 i Cyberpunk 2 będą porównywane do gry Rockstara po jednym ważnym względem",
@@ -20,6 +54,23 @@
       "summary": "Premiera GTA 6 może przynieść korzyści nie tylko Rockstar Games. Zdaniem analityków na debiucie wyczekiwanej produkcji zyska również polski CD Projekt Red. Informacja GTA 6 może pomóc CD Projekt Red. Wiedźmin 4 i Cyberpunk 2 będą porównywane do gry Rockstara po jednym ważnym względem została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532551345.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tanie Final Fantasy VII na PC w Humble Store. Klucz Steam z Remake Intergrade za 31,73 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tanie-final-fantasy-vii-na-pc-w-humble-store-klucz-steam-z-remake-intergrade-za-3173-zl/",
+      "publishedAt": "2026-11-16T21:26+01:00",
+      "summary": "Łowcy, jeśli ostatnia promocja na na dwie pierwsze odsłony odświeżonej „siódemki została przez Was zignorowana ze względu na platformę Epic Games, to może oferta „nowego i lepszego” Humble Store zachęci Was do zakupu? W ramach wyprzedaży możecie zakupić tanio Final Fantasy VII Remake Intergrade na PC. Tytuł dostępny jest w postaci klucza Steam za jedyne 31,73 zł! Bardzo podobnej przeceny doczekało się także Final Fantasy VII Rebirth, które może być Wasze za 33,05 zł. To wręcz idealna okazja, aby przygotować się na domknięcie „finałowej fantazji” i epilog przygód Clouda w postaci nadchodzącego Final Fantasy VII Revelation. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tanie-Final-Fantasy-VII-na-PC-w-Humble-Store.-Klucz-Steam-z-Remake-Intergrade-za-3173-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PRIDE powraca! Zwiastun pokazuje nową zawartość do EA Sports UFC 6",
+      "sourceUrl": "https://www.ppe.pl/news/433378/pride-powraca-zwiastun-pokazuje-nowa-zawartosc-do-ea-sports-ufc-6.html",
+      "publishedAt": "2026-11-16T21:14+01:00",
+      "summary": "Była zapowiedź, jest zwiastun i możemy szykować się do gry. PRIDE oficjalnie powraca i trafi do EA Sports UFC 6.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
