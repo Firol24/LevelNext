@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T20:26+01:00",
+  "updatedAt": "2026-11-16T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gra, która zachwyciła fanów Gwiezdnych wojen, otrzyma to, czego wszystkim brakowało na premierę Star Wars: Galactic Racer",
-    "summary": "Wydane w październiku Star Wars: Galactic Racer otrzyma wkrótce nowy tryb. Pozwoli on ścigać się na jednym podzielonym ekranie, której to funkcji brakowało graczom od dnia premiery. Informacja Gra, która zachwyciła fanów Gwiezdnych wojen, otrzyma to, czego wszystkim brakowało na premierę Star Wars: Galactic Racer została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gra-ktora-zachwycila-fanow-gwiezdnych-wojen-otrzyma-to-czego-wszy/z432366",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532555994.jpg"
+    "title": "GTA 6 może pomóc CD Projekt Red. Wiedźmin 4 i Cyberpunk 2 będą porównywane do gry Rockstara po jednym ważnym względem",
+    "summary": "Premiera GTA 6 może przynieść korzyści nie tylko Rockstar Games. Zdaniem analityków na debiucie wyczekiwanej produkcji zyska również polski CD Projekt Red. Informacja GTA 6 może pomóc CD Projekt Red. Wiedźmin 4 i Cyberpunk 2 będą porównywane do gry Rockstara po jednym ważnym względem została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moze-pomoc-cd-projekt-red-wiedzmin-4-i-cyberpunk-2-beda-por/z232364",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532551345.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 może pomóc CD Projekt Red. Wiedźmin 4 i Cyberpunk 2 będą porównywane do gry Rockstara po jednym ważnym względem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moze-pomoc-cd-projekt-red-wiedzmin-4-i-cyberpunk-2-beda-por/z232364",
+      "publishedAt": "2026-11-16T21:31+01:00",
+      "summary": "Premiera GTA 6 może przynieść korzyści nie tylko Rockstar Games. Zdaniem analityków na debiucie wyczekiwanej produkcji zyska również polski CD Projekt Red. Informacja GTA 6 może pomóc CD Projekt Red. Wiedźmin 4 i Cyberpunk 2 będą porównywane do gry Rockstara po jednym ważnym względem została opublikowana przez GRYOnline.pl 16 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532551345.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gra, która zachwyciła fanów Gwiezdnych wojen, otrzyma to, czego wszystkim brakowało na premierę Star Wars: Galactic Racer",
@@ -29,6 +38,14 @@
       "summary": "Fani Cyberpunka 2077 wreszcie mogą wspólnie przemierzać Night City. Po latach prac popularna modyfikacja multiplayerowa trafiła do otwartych beta-testów i jest dostępna dla wszystkich zainteresowanych osób. Informacja Po 6 latach Cyberpunk 2077 wreszcie ma swoje GTA Online. Night City wreszcie może rozkwitnąć dzięki graczom została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532554395.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 będzie najlepiej ocenianą grą 2026 roku? Obstawiamy wynik na Metacritic!",
+      "sourceUrl": "https://www.ppe.pl/news/433400/gta-6-bedzie-najlepiej-oceniana-gra-2026-roku-obstawiamy-wynik-na-metacritic.html",
+      "publishedAt": "2026-11-16T20:41+01:00",
+      "summary": "Do premiery GTA 6 pozostały zaledwie trzy dni, a my wciąż czekamy na pierwsze recenzje jednej z najbardziej wyczekiwanych gier w historii. Rockstar Games przez lata przyzwyczaiło graczy do produkcji zdobywających niemal perfekcyjne oceny, ale czy t...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
