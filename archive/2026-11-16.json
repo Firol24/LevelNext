@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-16",
-  "updatedAt": "2026-11-16T14:01+01:00",
+  "updatedAt": "2026-11-16T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -30,6 +30,57 @@
       "category": "WIADOMOŚCI"
     },
     {
+      "sourceName": "PPE",
+      "title": "To koniec Unreal Engine w grach? Niewiarygodnie piękna gra zamknięta w zaledwie 97 KB",
+      "sourceUrl": "https://www.ppe.pl/news/433357/to-koniec-unreal-engine-w-grach-niewiarygodnie-piekna-gra-zamknieta-w-zaledwie-97-kb.html",
+      "publishedAt": "2026-11-16T14:48+01:00",
+      "summary": "Anthropic bezlitośnie przesuwa granice programowania. Model Claude Fable 5.2 wygenerował interaktywne, podwodne środowisko.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Final Fantasy 7 Rebirth zmienione nie do poznania. Efekty rzucają na kolana",
+      "sourceUrl": "https://www.ppe.pl/news/433356/final-fantasy-7-rebirth-zmienione-nie-do-poznania-efekty-rzucaja-na-kolana.html",
+      "publishedAt": "2026-11-16T14:36+01:00",
+      "summary": "Square Enix podgrzewa atmosferę przed finałem trylogii Remake. Final Fantasy VII Revelation zaoferuje graczom potężnie rozbudowany endgame.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO City F1 Ciężarówka z bolidami RB20 i AMR24 za 259 zł (cena katalogowa 419,99 zł) w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-city-f1-ciezarowka-z-bolidami-rb20-i-amr24-za-259-zl-cena-katalogowa-41999-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-16T14:34+01:00",
+      "summary": "Fajny, składający się z 1086 elementów zestaw LEGO City F1 – Ciężarówka z bolidami RB20 i AMR24, pojawił się w wybranych sklepach internetowych w dobrej cenie. Klocki, z których zbudujecie pojazd z naczepą dla pojazdów Formuły 1, kosztują 259 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lego-city-f1-ciezarowka-z-bolidami-rb20-i-amr24-1b-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Niezwykły mod znacznie ulepsza efekty pogodowe w Cyberpunku 2077. Realistyczny deszcz i mgła zawitały do Night City",
+      "sourceUrl": "https://cdaction.pl/newsy/niezwykly-mod-znacznie-ulepsza-efekty-pogodowe-w-cyberpunku-2077-realistyczny-deszcz-i-mgla-zawitaly-do-night-city/",
+      "publishedAt": "2026-11-16T14:30+01:00",
+      "summary": "Klimat jak z „Łowcy androidów”.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/cyberpunk-deszcz-mod-1260x709.webp"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony ma ogromny problem! Hakerzy pokonali najnowsze zabezpieczenia PS5 przed premierą GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/433344/sony-ma-ogromny-problem-hakerzy-pokonali-najnowsze-zabezpieczenia-ps5-przed-premiera-gta-6.html",
+      "publishedAt": "2026-11-16T14:23+01:00",
+      "summary": "Scena homebrew uderza w japońską korporację tuż przed historyczną premierą. Znany haker ukrywający się pod pseudonimem Gezine zgłosił potężny przełom techniczny.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "WWE ponownie w Polsce! Europejska trasa ROAD TO ROYAL RUMBLE 2027",
+      "sourceUrl": "https://cdaction.pl/newsy/wwe-ponownie-w-polsce-europejska-trasa-road-to-royal-rumble-2027/",
+      "publishedAt": "2026-11-16T14:21+01:00",
+      "summary": "Już 16 stycznia 2027 w PreZero Arenie w Gliwicach!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/WWE_PL27_1920x1080-1260x709.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "„Postanowiłem odejść z NVIDII”. Inżynier nie chce pracować w firmie, która nie wyjaśniła mu powodów odejścia Jensena Huanga",
       "sourceUrl": "https://www.gry-online.pl/newsroom/postanowilem-odejsc-z-nvidii-inzynier-nie-chce-pracowac-w-firmie/z432357",
@@ -37,6 +88,23 @@
       "summary": "Inżynier ogłosił, że odchodzi z NVIDII ze względu na to, jak firma potraktowała Jensena Huanga i pracowników. Zarząd korporacji w żaden sposób nie wyjaśnił, dlaczego natychmiast zakończono współpracę z CEO. Informacja „Postanowiłem odejść z NVIDII”. Inżynier nie chce pracować w firmie, która nie wyjaśniła mu powodów odejścia Jensena Huanga została opublikowana przez GRYOnline.pl 16 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532529812.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To musiało się tak skończyć. GTA 5 odpalone natywnie na Nintendo Switch 2",
+      "sourceUrl": "https://www.ppe.pl/news/433345/to-musialo-sie-tak-skonczyc-gta-5-odpalone-natywnie-na-nintendo-switch-2.html",
+      "publishedAt": "2026-11-16T14:08+01:00",
+      "summary": "Scena hakerska błyskawicznie wykorzystuje złamanie zabezpieczeń nowej konsoli Nintendo. Użytkownik znany jako PLK zaprezentował zjawiskowy projekt.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Xbox zaprezentował nowy gameplay z Fable. Pokazano kolejny rejon świata gry",
+      "sourceUrl": "https://cdaction.pl/newsy/xbox-zaprezentowal-nowy-gameplay-z-fable-pokazano-kolejny-rejon-swiata-gry/",
+      "publishedAt": "2026-11-16T14:00+01:00",
+      "summary": "Gracze nie są przekonani.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/fable-1260x709.avif"
     },
     {
       "sourceName": "Łowcy Gier",
