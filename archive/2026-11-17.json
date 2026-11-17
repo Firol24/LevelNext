@@ -1,17 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T11:01+01:00",
+  "updatedAt": "2026-11-17T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "To obecnie najgorętszy serial Netflixa. Jest numerem 1 platformy i nie schodzi z ust widzów, a poleca go aż 97% z nich",
-    "summary": "Netflix ma nowy serialowy hit, który błyskawicznie przyciągnął uwagę internautów. Produkcja nie tylko znalazła się na szczycie listy przebojów, ale stała się również jednym z najgorętszych tematów dyskusji w sieci. Informacja To obecnie najgorętszy serial Netflixa. Jest numerem 1 platformy i nie schodzi z ust widzów, a poleca go aż 97% z nich została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/to-obecnie-najgoretszy-serial-netflixa-jest-numerem-1-platformy-i/z43236f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532606729.jpg"
+    "title": "Jeden z najważniejszych ludzi NVIDII sprzedał akcje za 947 mln dolarów. Kilka tygodni później wybuchł skandal, który zakończył karierę Jensena Huanga jako CEO",
+    "summary": "Jeden z najważniejszych udziałowców NVIDII sprzedał swoje akcje na kilka tygodni przed wybuchem skandalu z Jensenem Huangiem. Pojawiły się spekulacje, że o problemach wiedziano na długo przed tym, zanim ujrzały światło dzienne. Informacja Jeden z najważniejszych ludzi NVIDII sprzedał akcje za 947 mln dolarów. Kilka tygodni później wybuchł skandal, który zakończył karierę Jensena Huanga jako CEO została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najwazniejszych-ludzi-nvidii-sprzedal-akcje-za-947-mln-do/z132372",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532609339.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jeden z najważniejszych ludzi NVIDII sprzedał akcje za 947 mln dolarów. Kilka tygodni później wybuchł skandal, który zakończył karierę Jensena Huanga jako CEO",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najwazniejszych-ludzi-nvidii-sprzedal-akcje-za-947-mln-do/z132372",
+      "publishedAt": "2026-11-17T12:10+01:00",
+      "summary": "Jeden z najważniejszych udziałowców NVIDII sprzedał swoje akcje na kilka tygodni przed wybuchem skandalu z Jensenem Huangiem. Pojawiły się spekulacje, że o problemach wiedziano na długo przed tym, zanim ujrzały światło dzienne. Informacja Jeden z najważniejszych ludzi NVIDII sprzedał akcje za 947 mln dolarów. Kilka tygodni później wybuchł skandal, który zakończył karierę Jensena Huanga jako CEO została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532609339.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Spieszcie się z graniem. Wspaniałe gry opuszczają ofertę Xbox Game Pass",
+      "sourceUrl": "https://www.ppe.pl/news/433484/spieszcie-sie-z-graniem-wspaniale-gry-opuszczaja-oferte-xbox-game-pass.html",
+      "publishedAt": "2026-11-17T11:57+01:00",
+      "summary": "Z oferty Xbox Game Pass już za kilkanaście dni wyleci m.in. jedna z najlepszych (a na pewno najbardziej niedocenionych) gier 2024 roku.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kiedyś twórcy Call of Duty nie bali się eksperymentów. Powstał nawet prototyp w realiach średniowiecza",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kiedys-tworcy-call-of-duty-nie-bali-sie-eksperymentow-powstal-naw/z032371",
+      "publishedAt": "2026-11-17T11:48+01:00",
+      "summary": "Seria Call of Duty mogła być znacznie bardziej różnorodna. Okazuje się, że studio Infinity Ward opracowało prototyp odsłony cyklu osadzonej w średniowieczu. Informacja Kiedyś twórcy Call of Duty nie bali się eksperymentów. Powstał nawet prototyp w realiach średniowiecza została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532608497.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gry sieciowe niebawem stracą sens? Nadchodzi ogromne zmartwienie graczy",
+      "sourceUrl": "https://www.ppe.pl/news/433477/gry-sieciowe-niebawem-straca-sens-nadchodzi-ogromne-zmartwienie-graczy.html",
+      "publishedAt": "2026-11-17T11:39+01:00",
+      "summary": "Rywalizacja w sieciówkach to dla wielu z nas ulubiony sposób na wieczorny relaks, ale niedługo to wszystko może po prostu stracić jakikolwiek sens.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zrobiłeś preload Grand Theft Auto VI na konsoli Xbox? Pamiętaj o wycieczce do Nowej Zelandii i zagraj jutro o 12:00!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/zrobiles-preload-grand-theft-auto-vi-na-konsoli-xbox-pamietaj-o-wycieczce-do-nowej-zelandii-i-zagraj-jutro-o-1200/",
+      "publishedAt": "2026-11-17T11:33+01:00",
+      "summary": "Premiera Grand Theft Auto VI jest już tak blisko, że to aż nierealne. Gra zadebiutuje oficjalnie o północy, 19 listopada. Pamiętajmy jednak, że gracze w Nowej Zelandii uruchomią GTA VI dzień wcześniej o 12:00 naszego czasu. Posiadacze Xboksów są w lepszej sytuacji, bowiem mogą bardzo łatwo zmienić region konsoli i zagrać wcześniej. Przypomnimy Wam w tym wpisie jak możecie to zrobić. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/grand-theft-auto-new-zealand-nowa-zelandia-vi-miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "To obecnie najgorętszy serial Netflixa. Jest numerem 1 platformy i nie schodzi z ust widzów, a poleca go aż 97% z nich",
@@ -22,6 +65,23 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532606729.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "James Bond wygryzł Mrocznego Rycerza? Przez opóźnienia Robert Pattinson może zrezygnować z „Batmana 3”",
+      "sourceUrl": "https://cdaction.pl/kultura/james-bond-wygryzl-mrocznego-rycerza-przez-opoznienia-robert-pattinson-moze-zrezygnowac-z-batmana-3/",
+      "publishedAt": "2026-11-17T11:30+01:00",
+      "summary": "Zamieni Batmobil na Astona Martina DB5.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/Batman-2.jpeg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowa premiera Nintendo zmasakrowana przez graczy! Średnia ocen to nawet 0,6/10",
+      "sourceUrl": "https://www.ppe.pl/news/433476/nowa-premiera-nintendo-zmasakrowana-przez-graczy-srednia-ocen-to-nawet-0-6-10.html",
+      "publishedAt": "2026-11-17T11:13+01:00",
+      "summary": "Premiera nowej konsoli od Nintendo miała być wielkim świętem dla posiadaczy tak zwanego Switcha 2, ale wygląda na to, że firma właśnie zafundowała im bardzo niemiłą niespodziankę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "NVIDIA stworzyła potężniejszego RTX-a 4090, ale nigdy go nie wydała. Teraz prototyp odnalazł się w Chinach",
       "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-stworzyla-potezniejszego-rtx-a-4090-ale-nigdy-go-nie-wydal/z33236e",
@@ -29,6 +89,23 @@
       "summary": "Na chińskim portalu aukcyjnym pojawił się prototyp RTX-a 4090 Ti. Właściciel prawdopodobnie chciał się nim pochwalić, ponieważ proponowana cena przekraczała 60 milionów złotych. Informacja NVIDIA stworzyła potężniejszego RTX-a 4090, ale nigdy go nie wydała. Teraz prototyp odnalazł się w Chinach została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532606059.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nerwowe ruchy Sony przed premierą GTA 6. Firma naprawia złamane zabezpieczenia PS5 w nowym firmwarze",
+      "sourceUrl": "https://www.ppe.pl/news/433480/nerwowe-ruchy-sony-przed-premiera-gta-6-sony-naprawia-zlamane-zabezpieczenia-ps5-w-nowym-firmwarze.html",
+      "publishedAt": "2026-11-17T11:09+01:00",
+      "summary": "Wczoraj informowaliśmy o złamaniu zabezpieczeń systemowych PS5 przed samą premierą GTA 6. Sony szybko reaguje na sytuację.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Star Wars: Galactic Racer dostanie kluczową funkcję dla wyścigówek. „Wysłuchaliśmy was!”",
+      "sourceUrl": "https://cdaction.pl/newsy/star-wars-galactic-racer-dostanie-kluczowa-funkcje-dla-wyscigowek-wysluchalismy-was/",
+      "publishedAt": "2026-11-17T11:00+01:00",
+      "summary": "Dzieło Fuse Games może się dzięki temu stać idealną grą imprezową.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/02/Star-Wars-Galactic-Racer.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
