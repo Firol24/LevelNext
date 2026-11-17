@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T21:01+01:00",
+  "updatedAt": "2026-11-17T21:26+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nadgorliwi gracze zaczęli oceniać GTA 6, ale szybko zostali pogonieni. Cały świat czeka na recenzje hitu Rockstara",
-    "summary": "Oszuści wystawili fałszywe recenzje GTA 6 w serwisie Metacritic. Włodarze agregatora opinii szybko jednak rozwiązali problem. Informacja Nadgorliwi gracze zaczęli oceniać GTA 6, ale szybko zostali pogonieni. Cały świat czeka na recenzje hitu Rockstara została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nadgorliwi-gracze-zaczeli-oceniac-gta-6-ale-szybko-zostali-pogoni/z13238a",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532643940.jpg"
+    "title": "Jutro remake kultowej strategii HoMM 3 sprawdzą gracze. Wygląd aniołów i archaniołów trzeba jednak poprawić, i to już",
+    "summary": "Ubisoft pokazał kolejne fragmenty remake&apos;u Heroes of Might and Magic III oraz odświeżone jednostki. Nowy wygląd aniołów i archaniołów nie przekonał jednak wszystkich fanów, mimo że twórcy uwzględnili ich wcześniejsze uwagi. Informacja Jutro remake kultowej strategii HoMM 3 sprawdzą gracze. Wygląd aniołów i archaniołów trzeba jednak poprawić, i to już została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/jutro-remake-kultowej-strategii-homm-3-sprawdza-gracze-wyglad-ani/z23238b",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532645576.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jutro remake kultowej strategii HoMM 3 sprawdzą gracze. Wygląd aniołów i archaniołów trzeba jednak poprawić, i to już",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jutro-remake-kultowej-strategii-homm-3-sprawdza-gracze-wyglad-ani/z23238b",
+      "publishedAt": "2026-11-17T22:08+01:00",
+      "summary": "Ubisoft pokazał kolejne fragmenty remake&apos;u Heroes of Might and Magic III oraz odświeżone jednostki. Nowy wygląd aniołów i archaniołów nie przekonał jednak wszystkich fanów, mimo że twórcy uwzględnili ich wcześniejsze uwagi. Informacja Jutro remake kultowej strategii HoMM 3 sprawdzą gracze. Wygląd aniołów i archaniołów trzeba jednak poprawić, i to już została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532645576.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nadgorliwi gracze zaczęli oceniać GTA 6, ale szybko zostali pogonieni. Cały świat czeka na recenzje hitu Rockstara",
@@ -20,6 +29,14 @@
       "summary": "Oszuści wystawili fałszywe recenzje GTA 6 w serwisie Metacritic. Włodarze agregatora opinii szybko jednak rozwiązali problem. Informacja Nadgorliwi gracze zaczęli oceniać GTA 6, ale szybko zostali pogonieni. Cały świat czeka na recenzje hitu Rockstara została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532643940.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jensen Huang chce wrócić na stanowisko szefa NVIDII! Były szef wydał oświadczenie",
+      "sourceUrl": "https://www.ppe.pl/news/433511/jensen-huang-chce-wrocic-na-stanowisko-szefa-nvidii-byly-szef-wydal-oswiadczenie.html",
+      "publishedAt": "2026-11-17T21:11+01:00",
+      "summary": "NVIDIA znalazła się w samym centrum gigantycznego skandalu, a sytuacja wokół jednego z najważniejszych nazwisk współczesnej branży technologicznej staje się coraz bardziej skomplikowana. Jensen Huang po niespodziewanej rezygnacji ze stanowiska ...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
