@@ -266,3 +266,9 @@ h1,h2,h3{line-height:1.25}
   animation:none;
 }
 @media(max-width:620px){.masthead>.logo{width:280px}}
+
+/* FORUM LEVEL NEXT / KOMIKSOWA NAKLEJKA NEW */
+.nav a.nav-forum{position:relative;overflow:visible}
+.nav-forum .forum-new-sticker{position:absolute;z-index:8;top:-11px;right:-8px;display:block;padding:3px 5px;background:#f3d52c;border:2px solid #25152f;box-shadow:2px 2px 0 #09050d;color:#d92727;font:bold 10px/1 Arial,sans-serif;letter-spacing:-.05em;text-shadow:1px 1px #fff8;transform:rotate(9deg);animation:forumSticker .9s steps(2,end) infinite alternate}
+@keyframes forumSticker{from{transform:rotate(7deg) scale(1)}to{transform:rotate(-7deg) scale(1.12)}}
+@media(prefers-reduced-motion:reduce){.nav-forum .forum-new-sticker{animation:none}}
