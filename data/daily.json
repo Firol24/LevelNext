@@ -1,17 +1,61 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T20:01+01:00",
+  "updatedAt": "2026-11-17T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Game Pass na przełom listopada i grudnia 2026. Tylko 4 nowości, za to Microsoft zabierze aż 8 gier, w tym 2 perełki",
-    "summary": "Oferta Game Passa na przełom listopada i grudnia zdecydowanie nie powala. Zwłaszcza że z abonamentu wypadną tytuły takie jak Aliens: Dark Descent i Banishers: Ghosts of New Eden. Informacja Game Pass na przełom listopada i grudnia 2026. Tylko 4 nowości, za to Microsoft zabierze aż 8 gier, w tym 2 perełki została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/game-pass-na-przelom-listopada-i-grudnia-2026-tylko-4-nowosci-za/z832388",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532640041.jpg"
+    "title": "Nadgorliwi gracze zaczęli oceniać GTA 6, ale szybko zostali pogonieni. Cały świat czeka na recenzje hitu Rockstara",
+    "summary": "Oszuści wystawili fałszywe recenzje GTA 6 w serwisie Metacritic. Włodarze agregatora opinii szybko jednak rozwiązali problem. Informacja Nadgorliwi gracze zaczęli oceniać GTA 6, ale szybko zostali pogonieni. Cały świat czeka na recenzje hitu Rockstara została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nadgorliwi-gracze-zaczeli-oceniac-gta-6-ale-szybko-zostali-pogoni/z13238a",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532643940.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nadgorliwi gracze zaczęli oceniać GTA 6, ale szybko zostali pogonieni. Cały świat czeka na recenzje hitu Rockstara",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nadgorliwi-gracze-zaczeli-oceniac-gta-6-ale-szybko-zostali-pogoni/z13238a",
+      "publishedAt": "2026-11-17T21:40+01:00",
+      "summary": "Oszuści wystawili fałszywe recenzje GTA 6 w serwisie Metacritic. Włodarze agregatora opinii szybko jednak rozwiązali problem. Informacja Nadgorliwi gracze zaczęli oceniać GTA 6, ale szybko zostali pogonieni. Cały świat czeka na recenzje hitu Rockstara została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532643940.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowe kosmiczne RPG weteranów BioWare potwierdza swoją bliskość z Mass Effect. Oto FemJun z Exodus, „następczyni” FemShep",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowe-kosmiczne-rpg-weteranow-bioware-potwierdza-swoja-bliskosc-z/z932389",
+      "publishedAt": "2026-11-17T21:06+01:00",
+      "summary": "Exodus coraz wyraźniej przypomina duchowego następcę Mass Effect. Najnowszy zwiastun prezentuje kobiecą wersję Jun Aslan, a twórcy ujawnili, kto użyczy głosu obu wariantom protagonisty. Informacja Nowe kosmiczne RPG weteranów BioWare potwierdza swoją bliskość z Mass Effect. Oto FemJun z Exodus, „następczyni” FemShep została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532641904.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Klasyki od Tripwire Interactive w zestawie GMG. Pakiet 8 gier Steam + 4 dodatki DLC za 43 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/klasyki-od-tripwire-interactive-w-zestawie-gmg-pakiet-8-gier-steam-4-dodatki-dlc-za-43-zl/",
+      "publishedAt": "2026-11-17T20:47+01:00",
+      "summary": "Łowcy, czas na kolejny pakiet przygotowany przez zespół Green Man Gaming, które coraz śmielej radzi sobie na polu tanich paczek z grami PC. W ramach zestawu Tripwire Interactive: Mayhem & Combat Bundle możecie otrzymać łącznie 8 kluczy Steam oraz cztery dodatki DLC. Całość oferowana jest w trzech progach cenowym, a najdroższy z nich będzie Wasz za minimum 43 zł. Daje nam to niezły przelicznik ok. 5,38 zł za jedną pozycję na PC! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Klasyki-od-Tripwire-Interactive-w-zestawie-GMG.-Pakiet-8-gier-Steam-4-dodatki-DLC-za-43-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Druga połowa listopada w Game Passie. Nieco Lovecrafta, trochę gryzoni, odrobina deskorolki",
+      "sourceUrl": "https://cdaction.pl/newsy/druga-polowa-listopada-w-game-passie-nieco-lovecrafta-troche-gryzoni-odrobina-deskorolki/",
+      "publishedAt": "2026-11-17T20:45+01:00",
+      "summary": "Microsoft ujawnił tytuły gier zmierzających do abonamentu Game Pass w drugiej połowie listopada.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/high-on-life-2-3843.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Na 2 dni przed premierą GTA 6 ZDOMINOWAŁO The Game Awards?! Gracze nie kryją rozczarowania",
+      "sourceUrl": "https://www.ppe.pl/news/433514/na-2-dni-przed-premiera-gta-6-zdominowalo-the-game-awards-gracze-nie-kryja-rozczarowania.html",
+      "publishedAt": "2026-11-17T20:44+01:00",
+      "summary": "Rockstar Games jeszcze nie wrzuciło na rynek GTA 6, a produkcja już może pochwalić się gigantycznym sukcesem. Organizatorzy The Game Awards ujawnili tegoroczne nominacje i okazuje się, że najbardziej wyczekiwana gra ostatnich lat otrzymała aż o...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Game Pass na przełom listopada i grudnia 2026. Tylko 4 nowości, za to Microsoft zabierze aż 8 gier, w tym 2 perełki",
@@ -20,6 +64,40 @@
       "summary": "Oferta Game Passa na przełom listopada i grudnia zdecydowanie nie powala. Zwłaszcza że z abonamentu wypadną tytuły takie jak Aliens: Dark Descent i Banishers: Ghosts of New Eden. Informacja Game Pass na przełom listopada i grudnia 2026. Tylko 4 nowości, za to Microsoft zabierze aż 8 gier, w tym 2 perełki została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532640041.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zbliża się pokaz Spyro: A Realm Beyond. Activision potwierdza obecność na TGA 2026 i prezentuje nowe zdjęcia",
+      "sourceUrl": "https://www.ppe.pl/news/433533/zbliza-sie-pokaz-spyro-a-realm-beyond-activision-potwierdza-obecnosc-na-tga-2026-i-prezentuje-nowe-zdjecia.html",
+      "publishedAt": "2026-11-17T20:23+01:00",
+      "summary": "Już niedługo doczekamy się nowych informacji, a może nawet i pierwszego pokazu rozgrywki ze Spyro: A Realm Beyond. Twórcy dali do zrozumienia, że pierwsza od lat gra z kultowym, fioletowym smokiem za kilka tygodni doczeka się nowej prezentacji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera Hela: of Mice & Magic w XGPU. Oferta Xbox Game Pass na drugą połowę listopada!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/premiera-hela-of-mice-magic-w-xgpu-oferta-xbox-game-pass-na-druga-polowe-listopada/",
+      "publishedAt": "2026-11-17T20:15+01:00",
+      "summary": "Łowcy, pełna lista listopadowych nowości w Xbox Game Pass pojawiła się na blogu dotyczącym konsol giganta z Redmond. W ciągu ostatnich dwóch tygodni tego miesiąca katalog usługi poszerzą cztery nowe produkcje, w tym The Outlast Trials. W najwyższym progu XGPU premierowo pojawi się także intrygująca mieszanka gatunkowa w postaci gry Hela: of Mice & Magic, natomiast do biblioteki wariantu Premium dodane zostanie pięć gier w tym m.in.: Call of the Elder Gods i High on Life 2. Dla posiadaczy konsol i osób grających w chmurze mamy złe informacje. Abonament pod koniec października opuści Banishers: Ghosts of New Eden. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Premiera-Hela_-of-Mice-Magic-w-XGPU.-Oferta-Xbox-Game-Pass-na-druga-polowe-listopada_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zapomnijcie o remake'u z PS5! Kultowe Dark Souls z NVIDIA DLSS 5 i sprzętowym Path Tracing wygląda obłędnie",
+      "sourceUrl": "https://www.ppe.pl/news/433499/zapomnijcie-o-remake-u-z-ps5-kultowe-dark-souls-z-nvidia-dlss-5-i-sprzetowym-path-tracing-wyglada-oblednie.html",
+      "publishedAt": "2026-11-17T20:15+01:00",
+      "summary": "Modder gabdeg opublikował zaawansowaną modyfikację graficzną dla pierwszego Dark Souls.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Zwolnienia tuż przed wydaniem GTA 6. Take-Two mocno odchudziło twórców Cywilizacji",
+      "sourceUrl": "https://cdaction.pl/newsy/zwolnienia-tuz-przed-wydaniem-gta-6-take-two-mocno-odchudzilo-tworcow-cywilizacji/",
+      "publishedAt": "2026-11-17T20:00+01:00",
+      "summary": "Kolejne projekty studia podobno nie są w żaden sposób zagrożone.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/civilization-7-8662.jpg"
     },
     {
       "sourceName": "GRY-Online",
