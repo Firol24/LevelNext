@@ -17,6 +17,83 @@
     tick();
     window.setInterval(tick, 1000);
 
+    // Globalny pasek konta LEVEL NEXT, widoczny na kazdej podstronie.
+    function setupGlobalAccount() {
+      var masthead = document.querySelector(".masthead");
+      if (!masthead) return;
+      var account = document.getElementById("lnGlobalAccount");
+      if (!account) {
+        if (!document.getElementById("lnGlobalAccountStyles")) {
+          var styles = document.createElement("style");
+          styles.id = "lnGlobalAccountStyles";
+          styles.textContent =
+            ".masthead{position:relative}" +
+            ".ln-global-account{position:absolute;z-index:30;top:8px;right:10px;display:flex;align-items:center;justify-content:flex-end;gap:6px;max-width:45%;padding:5px 7px;background:rgba(23,15,32,.96);border:1px solid #8e6ba5;box-shadow:2px 2px 0 #09050d;color:#cbbbd8;font:9px 'Courier New',monospace}" +
+            ".ln-global-account a,.ln-global-account button{display:inline-block;padding:6px 8px;background:#39264c;border:1px solid #a487ba;color:#ffdf69;text-decoration:none;font:bold 9px 'Courier New',monospace;cursor:pointer}" +
+            ".ln-global-account a:hover,.ln-global-account button:hover{background:#ffdc55;color:#24152f}" +
+            ".ln-global-account .ln-account-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:130px;color:#a9dc75}" +
+            "@media(max-width:620px){.ln-global-account{position:static;max-width:none;width:max-content;margin:0 0 8px auto}.ln-global-account .ln-account-name{max-width:110px}}";
+          document.head.appendChild(styles);
+        }
+        account = document.createElement("div");
+        account.id = "lnGlobalAccount";
+        account.className = "ln-global-account";
+        account.setAttribute("aria-live", "polite");
+        masthead.insertBefore(account, masthead.firstChild);
+      } else if (account.parentElement !== masthead) {
+        masthead.insertBefore(account, masthead.firstChild);
+      }
+
+      var api = "https://levelnext-forum-api.filipiakr245.workers.dev";
+      function showGuest() {
+        account.replaceChildren();
+        var label = document.createElement("span");
+        label.textContent = "KONTO:";
+        var login = document.createElement("a");
+        login.href = api + "/auth/discord";
+        login.textContent = "ZALOGUJ / REJESTRACJA";
+        account.append(label, login);
+      }
+      function showUser(user) {
+        account.replaceChildren();
+        var name = document.createElement("span");
+        name.className = "ln-account-name";
+        name.textContent = user.username || "ZALOGOWANO";
+        name.title = user.username || "";
+        var logout = document.createElement("button");
+        logout.type = "button";
+        logout.textContent = "WYLOGUJ";
+        logout.addEventListener("click", function () {
+          logout.disabled = true;
+          fetch(api + "/auth/logout", {
+            method: "POST",
+            credentials: "include"
+          }).then(function (response) {
+            if (!response.ok) throw new Error("Logout failed");
+            showGuest();
+            document.dispatchEvent(new CustomEvent("levelnext:authchange", { detail: { authenticated: false } }));
+          }).catch(function () {
+            logout.disabled = false;
+            logout.textContent = "BŁĄD WYLOGOWANIA";
+          });
+        });
+        account.append(name, logout);
+      }
+
+      account.textContent = "SPRAWDZANIE KONTA...";
+      fetch(api + "/api/me", {
+        credentials: "include",
+        headers: { "Accept": "application/json" }
+      }).then(function (response) {
+        return response.json().then(function (data) {
+          if (response.ok && data.authenticated && data.user) showUser(data.user);
+          else showGuest();
+        });
+      }).catch(showGuest);
+    }
+    setupGlobalAccount();
+    document.addEventListener("levelnext:pagechange", setupGlobalAccount);
+
     var modal = document.getElementById("welcomeModal");
     var close = document.getElementById("closeModal");
 
