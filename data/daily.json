@@ -1,16 +1,59 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T08:01+01:00",
+  "updatedAt": "2026-11-17T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Dr. Xbox daje zwolnienia na granie w GTA 6. Świetna akcja Microsoftu",
-    "summary": "Premiera GTA 6 zbliża się wielkimi krokami, a Microsoft postanowił wykorzystać ogromne zainteresowanie produkcją Rockstar Games do przygotowania naprawdę zabawnej akcji. Amerykańska korporacja zachęca graczy, by w najbliższych dniach zapomnieli...",
-    "sourceUrl": "https://www.ppe.pl/news/433380/dr-xbox-daje-zwolnienia-na-granie-w-gta-6-swietna-akcja-microsoftu.html"
+    "title": "Ulewy, mgły i tropikalne sztormy. 6 nowych screenów z GTA 6 pokazuje, jak nieprzewidywalna będzie pogoda w Leonidzie",
+    "summary": "Do sieci trafiło sześć nowych zrzutów ekranu z GTA 6 skupiających się na systemie pogodowym. Materiały udostępnił amerykański The Weather Channel. Informacja Ulewy, mgły i tropikalne sztormy. 6 nowych screenów z GTA 6 pokazuje, jak nieprzewidywalna będzie pogoda w Leonidzie została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/ulewy-mgly-i-tropikalne-sztormy-6-nowych-screenow-z-gta-6-pokazuj/z732369",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532600820.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ulewy, mgły i tropikalne sztormy. 6 nowych screenów z GTA 6 pokazuje, jak nieprzewidywalna będzie pogoda w Leonidzie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ulewy-mgly-i-tropikalne-sztormy-6-nowych-screenow-z-gta-6-pokazuj/z732369",
+      "publishedAt": "2026-11-17T09:42+01:00",
+      "summary": "Do sieci trafiło sześć nowych zrzutów ekranu z GTA 6 skupiających się na systemie pogodowym. Materiały udostępnił amerykański The Weather Channel. Informacja Ulewy, mgły i tropikalne sztormy. 6 nowych screenów z GTA 6 pokazuje, jak nieprzewidywalna będzie pogoda w Leonidzie została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532600820.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 do zdobycia za darmo! Gracze już przygotowują swoje konta",
+      "sourceUrl": "https://www.ppe.pl/news/433464/gta-6-do-zdobycia-za-darmo-gracze-juz-przygotowuja-swoje-konta.html",
+      "publishedAt": "2026-11-17T08:56+01:00",
+      "summary": "Premiera GTA 6 to oczywiście idealny moment, by rzucić wszystko i od razu wskoczyć do wirtualnego Vice City, ale warto przy okazji zerknąć na to, co dzieje się w sieci.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "11 minut rozgrywki z szalonej jazdy bez trzymanki. Crazy Taxi World Tour może odnieść sukces?",
+      "sourceUrl": "https://www.ppe.pl/news/433397/11-minut-rozgrywki-z-szalonej-jazdy-bez-trzymanki-crazy-taxi-world-tour-moze-odniesc-sukces.html",
+      "publishedAt": "2026-11-17T08:40+01:00",
+      "summary": "SEGA zaprezentowała nowy zwiastun Crazy Taxi World Tour, który przygotowuje graczy na akcję w Indiach, a jednocześnie otrzymaliśmy aż 11 minut rozgrywki z nowej lokacji. To czyste szaleństwo.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "2 gry w Xbox Game Pass od dzisiaj! Microsoft oferuje kosmiczną przygodę i wielką niespodziankę",
+      "sourceUrl": "https://www.ppe.pl/news/433404/2-gry-w-xbox-game-pass-od-dzisiaj-microsoft-oferuje-kosmiczna-przygode-i-wielka-niespodzianke.html",
+      "publishedAt": "2026-11-17T08:20+01:00",
+      "summary": "Microsoft nie zwalnia i już dzisiaj użytkownicy Xbox Game Pass mogą sprawdzić kolejne dwie produkcje. Tym razem amerykańska korporacja przygotowała bardzo różnorodny zestaw, ponieważ z jednej strony otrzymujemy klimatyczną przygodę science fi...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Jensen Huang jednak wróci na stołek szefa Nvidii? Trump mówi wprost: „Ja nie miałbym nic przeciwko”",
+      "sourceUrl": "https://cdaction.pl/newsy/jensen-huang-jednak-wroci-na-stolek-szefa-nvidii-trump-mowi-wprost-ja-nie-mialbym-nic-przeciwko/",
+      "publishedAt": "2026-11-17T08:07+01:00",
+      "summary": "Problem w tym, że zarząd firmy chyba nie podziela entuzjazmu prezydenta Stanów Zjednoczonych.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/jensen-huang-4343.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Dr. Xbox daje zwolnienia na granie w GTA 6. Świetna akcja Microsoftu",
@@ -42,6 +85,15 @@
       "publishedAt": "2026-11-17T06:40+01:00",
       "summary": "Robert Pattinson został nowym Jamesem Bondem, a teraz poznaliśmy pierwsze komentarze twórców dotyczące tej decyzji. Denis Villeneuve, który odpowiada za przygotowanie kolejnej odsłony kultowej serii, nie ukrywa ogromnego entuzjazmu i przekonuje, ...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 jeszcze nie wyszło, a przejmuje inne gry. Klimat Vice City pojawia się nawet tam, gdzie nikt się go nie spodziewał",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-jeszcze-nie-wyszlo-a-przejmuje-inne-gry-klimat-vice-city-po/z532367",
+      "publishedAt": "2026-11-17T06:30+01:00",
+      "summary": "GTA 6 coraz mocniej zaznacza swoją obecność w świecie innych gier. Najlepszym przykładem jest NBA 2K27, którego trzeci sezon przyniesie mnóstwo atrakcji nawiązujących do Vice City i uniwersum Rockstar Games. Informacja GTA 6 jeszcze nie wyszło, a przejmuje inne gry. Klimat Vice City pojawia się nawet tam, gdzie nikt się go nie spodziewał została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532558823.jpg"
     },
     {
       "sourceName": "PPE",
