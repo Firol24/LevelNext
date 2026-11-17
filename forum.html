@@ -229,7 +229,8 @@ function drawTopics(data){
   const row=document.createElement('div');row.className='forum-topic-row';
   const topic=document.createElement('div');topic.className='forum-topic-name';
   const marker=document.createElement('span');marker.className='forum-topic-marker';marker.textContent=i===0?'!':'›';
-  const imageUrl=t.image_url||t.imageUrl||t.discord_image_url||t.thumbnail_url||t.first_image_url||'';
+  const topicMedia=[...(Array.isArray(t.attachments)?t.attachments:[]),...(Array.isArray(t.first_post_attachments)?t.first_post_attachments:[]),...(Array.isArray(t.first_post?.attachments)?t.first_post.attachments:[])];
+  const imageUrl=t.image_url||t.imageUrl||t.discord_image_url||t.thumbnail_url||t.first_image_url||topicMedia.find(file=>String(file.content_type||file.contentType||'').startsWith('image/')||/\.(png|jpe?g|gif|webp|avif)(?:[?#]|$)/i.test(file.url||''))?.url||'';
   if(imageUrl){const img=document.createElement('img');img.className='forum-topic-thumb';img.src=imageUrl;img.alt='Zdjęcie w temacie';img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>img.remove();topic.append(img);}
   const copy=document.createElement('span');copy.className='forum-topic-copy';
   const a=document.createElement('a');a.href='forum.html?topic='+encodeURIComponent(t.id);a.textContent=t.title;
@@ -294,7 +295,7 @@ function renderTopic(d){
   bar.append(number,date);
   const content=document.createElement('div');content.className='forum-post-content';content.textContent=p.content||'';
   const media=[...(Array.isArray(p.attachments)?p.attachments:[]),...(Array.isArray(p.embeds)?p.embeds.map(e=>e.image||e.thumbnail).filter(Boolean):[])];
-  const imageUrls=[...new Set(media.map(file=>file.url||file.proxy_url||file.proxyUrl).filter((url,i)=>url&&(/\\.(png|jpe?g|gif|webp|avif)(?:[?#]|$)/i.test(url)||String(media[i]?.content_type||media[i]?.contentType||'').startsWith('image/'))))];
+  const imageUrls=[...new Set(media.map(file=>file.url||file.proxy_url||file.proxyUrl).filter((url,i)=>url&&(/\.(png|jpe?g|gif|webp|avif)(?:[?#]|$)/i.test(url)||String(media[i]?.content_type||media[i]?.contentType||'').startsWith('image/'))))];
   if(!imageUrls.length){const direct=p.image_url||p.imageUrl||p.discord_image_url;if(direct)imageUrls.push(direct);}
   if(imageUrls.length){const gallery=document.createElement('div');gallery.className='forum-post-images';imageUrls.forEach((url,j)=>{const link=document.createElement('a');link.href=url;link.target='_blank';link.rel='noopener';const img=document.createElement('img');img.src=url;img.alt='Załącznik '+(j+1)+' do wiadomości';img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>link.remove();link.append(img);gallery.append(link);});content.append(gallery);}
   body.append(bar,content);
