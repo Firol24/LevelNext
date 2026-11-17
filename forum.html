@@ -17,6 +17,74 @@
 @media(max-width:760px){.forum-topic{grid-template-columns:minmax(0,1fr) 70px}.forum-topic-meta:last-child{display:none}}
 
 .forum-compose{display:grid;gap:8px}.forum-compose label{display:grid;gap:4px;color:#cbbbd8;font:10px "Courier New",monospace}.forum-compose input,.forum-compose select,.forum-compose textarea{width:100%;box-sizing:border-box;padding:9px;background:#170f20;border:1px solid #76588d;color:#eee8f7;font:11px Verdana,Arial,sans-serif}.forum-compose textarea{min-height:110px;resize:vertical}.forum-action{display:inline-block;margin:7px 6px 0 0;padding:6px 9px;background:#30203e;border:1px solid #8e6ba5;color:#ffdf69;cursor:pointer;font:10px "Courier New",monospace}.forum-action:hover{border-color:#ffdf69}.forum-message{color:#a9dc75;font:10px "Courier New",monospace}.forum-error{color:#ff8a8a;font:10px "Courier New",monospace}
+
+/* LEVEL NEXT FORUM - CZYTELNY UKLAD INSPIROWANY phpBB */
+.forum-welcome{padding:18px 20px;background:linear-gradient(135deg,rgba(49,32,65,.97),rgba(22,15,31,.97));border:1px solid #8e6ba5;border-left:4px solid #ffdc55;box-shadow:0 3px 12px #08040e66}
+.forum-welcome:after{inset:7px;border:1px dotted #76588d}
+.forum-welcome h1{font-size:25px;letter-spacing:.02em}
+.forum-welcome p{font-size:12px;line-height:1.7;max-width:760px}
+.forum-status{font-size:10px;padding-top:11px;margin-top:14px}
+#categories .panelhead,#topics .panelhead,#compose-panel .panelhead,#topic-detail-wrap .panelhead{padding:9px 12px;background:linear-gradient(90deg,#49305f,#30203e);border-bottom:2px solid #a184b5}
+#categories .panelhead h2,#topics .panelhead h2,#compose-panel .panelhead h2,#topic-detail-wrap .panelhead h2{font-size:12px;letter-spacing:.07em}
+#category-list{gap:0!important;border:1px solid #76588d;background:#170f20}
+.forum-category{grid-template-columns:54px minmax(0,1fr) 112px;gap:12px;min-height:72px;padding:10px 13px;background:rgba(38,26,51,.92);border:0;border-bottom:1px solid #59436b;transition:background .15s,border-color .15s}
+.forum-category:last-child{border-bottom:0}
+.forum-category:hover,.forum-category[aria-current=true]{background:#39264c;border-left:3px solid #ffdc55;padding-left:10px}
+.forum-category-icon{width:44px;height:44px;border:1px solid #8e6ba5;background:#170f20;color:#ffdf69;font:24px "VT323",monospace;box-shadow:inset 0 0 0 2px #2b1e38}
+.forum-category strong{font-size:13px;color:#ffe36c}
+.forum-category small{font-size:11px;line-height:1.5;color:#d2c5df}
+.forum-category-count{padding:7px 8px;text-align:center;background:#21172c;border:1px solid #59436b;color:#e0d5e9;font-size:9px}
+.forum-topic{grid-template-columns:minmax(0,1fr) 90px 125px;gap:12px;min-height:62px;padding:11px 13px;background:rgba(38,26,51,.92);border-bottom:1px solid #59436b}
+.forum-topic:last-child{border-bottom:0}
+.forum-topic:hover{background:#30203e}
+.forum-topic a{font-size:12px;line-height:1.45;color:#ffe36c}
+.forum-topic small{font-size:10px;line-height:1.5;color:#d2c5df}
+.forum-topic-meta{font-size:10px;color:#d2c5df}
+.forum-empty{padding:20px;background:#170f20;border:1px dashed #8e6ba5;font-size:12px;line-height:1.7}
+.forum-loading{padding:15px;font-size:11px}
+.forum-account{padding:13px;background:#170f20;border:1px solid #76588d;line-height:1.6}
+.forum-account strong{font-size:11px}
+.forum-account p{font-size:11px;line-height:1.6}
+.forum-compose{gap:11px}
+.forum-compose label{font-size:11px;font-weight:700;letter-spacing:.03em}
+.forum-compose input,.forum-compose select,.forum-compose textarea{padding:11px;background:#100b17;border:1px solid #8e6ba5;font-size:12px;line-height:1.5}
+.forum-compose input:focus,.forum-compose select:focus,.forum-compose textarea:focus{outline:2px solid #ffdc55;outline-offset:1px}
+.forum-compose textarea{min-height:145px}
+.forum-post{padding:14px 12px;margin:0;background:rgba(23,15,32,.62);border-top:1px solid #59436b;font-size:12px;line-height:1.75}
+.forum-post strong{display:block;margin-bottom:7px;padding-bottom:7px;color:#ffdf69;border-bottom:1px dotted #76588d;font-size:11px}
+.forum-action{padding:7px 10px;font-size:10px}
+#topic-detail h2{margin:0 0 7px;color:#ffe36c;font:bold 21px Georgia,serif}
+#topic-detail>.smallprint{padding-bottom:10px;border-bottom:1px solid #76588d;font-size:10px}
+#topic-detail .forum-compose{margin-top:18px!important;padding:14px;background:#21172c;border:1px solid #76588d}
+#topic-detail .forum-compose textarea{min-height:125px}
+#topic-detail .forum-compose .button,#create-topic-form .button{padding:9px 13px;font-size:11px}
+#topic-detail-wrap .panelbody{padding:0}
+#topic-detail{padding:13px}
+#categories .panelbody{padding:0}
+#topics .panelbody{padding:0!important}
+#compose-panel .panelbody{padding:14px}
+.leftcol .panelbody,.rightcol .panelbody{font-size:11px;line-height:1.65}
+.leftcol .linklist li,.rightcol .statusline{padding:7px 0}
+@media(max-width:850px){
+ .layout{grid-template-columns:170px minmax(0,1fr)}
+ .rightcol{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:620px){
+ .forum-welcome{padding:15px 13px}
+ .forum-welcome h1{font-size:21px}
+ .forum-category{grid-template-columns:43px minmax(0,1fr);gap:9px;min-height:66px;padding:9px}
+ .forum-category:hover,.forum-category[aria-current=true]{padding-left:6px}
+ .forum-category-icon{width:38px;height:38px;font-size:21px}
+ .forum-category-count{grid-column:2;text-align:left;width:max-content;padding:3px 6px;margin-top:-4px}
+ .forum-category{align-items:center}
+ .forum-topic{grid-template-columns:minmax(0,1fr) 75px;gap:7px;padding:10px}
+ .forum-topic-meta:last-child{display:none}
+ .forum-topic a{font-size:11px}
+ #topic-detail{padding:10px}
+ #topic-detail h2{font-size:18px}
+}
+@media(prefers-reduced-motion:reduce){.forum-category{transition:none}}
+
 </style></head><body><div class="site">
 <div class="topline"><span>● LEVEL NEXT / FORUM SPOŁECZNOŚCI</span><span id="clock">ŁĄCZENIE...</span></div>
 <header class="masthead"><div class="logo-stage"><a href="index.html"><img class="logo" src="logo.png" alt="LEVEL NEXT"></a></div><div class="brand-note">Gry, sprzęt i trochę internetu.<br>Moje miejsce w sieci.</div></header>
