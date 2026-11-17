@@ -1,16 +1,32 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T06:01+01:00",
+  "updatedAt": "2026-11-17T07:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "PS Plus Extra i Premium na listopad od dzisiaj! Znakomity zestaw gier z WIELKIM hitem",
-    "summary": "Od dzisiaj gracze będą mogli sprawdzić wielki zestaw gier przygotowany dla klientów PS Plus przez japońską korporację. Sony w listopadzie oferuje naprawdę ciekawe tytuły dla użytkowników PS Plus Extra i PS Plus Premium.",
-    "sourceUrl": "https://www.ppe.pl/news/433403/ps-plus-extra-i-premium-na-listopad-od-dzisiaj-znakomity-zestaw-gier-z-wielkim-hitem.html"
+    "title": "Nowy James Bond zachwycił Denisa Villeneuve’a! Robert Pattinson „ma duszę agenta 007”",
+    "summary": "Robert Pattinson został nowym Jamesem Bondem, a teraz poznaliśmy pierwsze komentarze twórców dotyczące tej decyzji. Denis Villeneuve, który odpowiada za przygotowanie kolejnej odsłony kultowej serii, nie ukrywa ogromnego entuzjazmu i przekonuje, ...",
+    "sourceUrl": "https://www.ppe.pl/news/433407/nowy-james-bond-zachwycil-denisa-villeneuve-a-robert-pattinson-ma-dusze-agenta-007.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Nowy James Bond zachwycił Denisa Villeneuve’a! Robert Pattinson „ma duszę agenta 007”",
+      "sourceUrl": "https://www.ppe.pl/news/433407/nowy-james-bond-zachwycil-denisa-villeneuve-a-robert-pattinson-ma-dusze-agenta-007.html",
+      "publishedAt": "2026-11-17T06:40+01:00",
+      "summary": "Robert Pattinson został nowym Jamesem Bondem, a teraz poznaliśmy pierwsze komentarze twórców dotyczące tej decyzji. Denis Villeneuve, który odpowiada za przygotowanie kolejnej odsłony kultowej serii, nie ukrywa ogromnego entuzjazmu i przekonuje, ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 w prawdziwym życiu! Ten materiał pokazuje skalę promocji Grand Theft Auto 6",
+      "sourceUrl": "https://www.ppe.pl/news/433406/gta-6-w-prawdziwym-zyciu-ten-material-pokazuje-skale-promocji-grand-theft-auto-6.html",
+      "publishedAt": "2026-11-17T06:15+01:00",
+      "summary": "Rockstar Games zaangażowało wiele osób w promocję GTA 6, a najnowszy materiał jest tego najlepszym potwierdzeniem. To znakomita reklama… marki odzieżowej.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "PS Plus Extra i Premium na listopad od dzisiaj! Znakomity zestaw gier z WIELKIM hitem",
