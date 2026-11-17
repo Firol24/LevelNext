@@ -1,17 +1,70 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T12:01+01:00",
+  "updatedAt": "2026-11-17T12:27+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Jeden z najważniejszych ludzi NVIDII sprzedał akcje za 947 mln dolarów. Kilka tygodni później wybuchł skandal, który zakończył karierę Jensena Huanga jako CEO",
-    "summary": "Jeden z najważniejszych udziałowców NVIDII sprzedał swoje akcje na kilka tygodni przed wybuchem skandalu z Jensenem Huangiem. Pojawiły się spekulacje, że o problemach wiedziano na długo przed tym, zanim ujrzały światło dzienne. Informacja Jeden z najważniejszych ludzi NVIDII sprzedał akcje za 947 mln dolarów. Kilka tygodni później wybuchł skandal, który zakończył karierę Jensena Huanga jako CEO została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najwazniejszych-ludzi-nvidii-sprzedal-akcje-za-947-mln-do/z132372",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532609339.jpg"
+    "title": "Polskie RPG o wampirach dostało dużą aktualizację. The Blood of Dawnwalker wreszcie z trybem Nowej Gry Plus",
+    "summary": "Wraz z nową aktualizacją The Blood of Dawnwalker otrzymał tryb New Game+. Dzięki niemu gracze mogą ponownie przejść grę, zachowując część postępów z poprzedniej rozgrywki. Informacja Polskie RPG o wampirach dostało dużą aktualizację. The Blood of Dawnwalker wreszcie z trybem Nowej Gry Plus została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/polskie-rpg-o-wampirach-dostalo-duza-aktualizacje-the-blood-of-da/z632377",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532613928.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Polskie RPG o wampirach dostało dużą aktualizację. The Blood of Dawnwalker wreszcie z trybem Nowej Gry Plus",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/polskie-rpg-o-wampirach-dostalo-duza-aktualizacje-the-blood-of-da/z632377",
+      "publishedAt": "2026-11-17T13:20+01:00",
+      "summary": "Wraz z nową aktualizacją The Blood of Dawnwalker otrzymał tryb New Game+. Dzięki niemu gracze mogą ponownie przejść grę, zachowując część postępów z poprzedniej rozgrywki. Informacja Polskie RPG o wampirach dostało dużą aktualizację. The Blood of Dawnwalker wreszcie z trybem Nowej Gry Plus została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532613928.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zaledwie 30 euro za usługę instalacji GTA 6. Tak MediaMarkt chcę wzbogacić się na hajpie wokół wielkiego hitu Rockstara",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zaledwie-30-euro-za-usluge-instalacji-gta-6-tak-mediamarkt-chce-w/z532376",
+      "publishedAt": "2026-11-17T13:14+01:00",
+      "summary": "Na chwilę przed premierą GTA 6 pociąg marketingowy nie zwalnia, choć coraz więcej firm próbuje się do niego podłączyć. Kolejna sieć elektromarketów wymyśla sposób, by wyciągnąć kasę od graczy. Informacja Zaledwie 30 euro za usługę instalacji GTA 6. Tak MediaMarkt chcę wzbogacić się na hajpie wokół wielkiego hitu Rockstara została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532613290.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Sony nie chce dopuścić do sytuacji, w której GTA 6 trafi na PC bez zgody Rockstara. Nowa aktualizacja PS5 zawiera poprawki bezpieczeństwa",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/sony-nie-chce-dopuscic-do-sytuacji-w-ktorej-gta-6-trafi-na-pc-bez/z432375",
+      "publishedAt": "2026-11-17T13:10+01:00",
+      "summary": "Sony udostępniło nową aktualizację dla Wersja 26.07-14.23.00 wprowadza poprawki zabezpieczeń konsoli, które mogą mieć związek z ostatnimi osiągnięciami hakerów. Informacja Sony nie chce dopuścić do sytuacji, w której GTA 6 trafi na PC bez zgody Rockstara. Nowa aktualizacja PS5 zawiera poprawki bezpieczeństwa została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532612968.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Były szef Nvidii mówi o sobie jako \"skurwi***\". Jensen Huang z emocjonalnym kryzysem",
+      "sourceUrl": "https://www.ppe.pl/news/433482/byly-szef-nvidii-mowi-o-sobie-jako-skurwi-jensen-huang-z-emocjonalnym-kryzysem.html",
+      "publishedAt": "2026-11-17T12:26+01:00",
+      "summary": "Odejście Jensena Huanga ze stanowiska szefa Nvidii po głośnym skandalu obyczajowym wstrząsnęło całą branżą technologiczną. Okazuje się jednak, że cała ta afera niezwykle mocno uderzyła również w samego założyciela firmy, który w osta...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Apple TV nie zamierza kończyć jednego ze swoich najlepszych seriali. Thriller szpiegowski z Garym Oldmanem doczeka się aż 10 sezonów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/apple-tv-nie-zamierza-konczyc-jednego-ze-swoich-najlepszych-seria/z232373",
+      "publishedAt": "2026-11-17T12:21+01:00",
+      "summary": "Fani znakomitego thrillera szpiegowskiego z Garym Oldmanem mają powody do radości. Apple TV zamówiło dwa kolejne sezony Kulawych koni, choć jeszcze niedawno sugerowano, że serial zbliża się do końca. Informacja Apple TV nie zamierza kończyć jednego ze swoich najlepszych seriali. Thriller szpiegowski z Garym Oldmanem doczeka się aż 10 sezonów została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532610310.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Risen: The Old Kingdom żyje i ma się dobrze! Wysyp informacji o „czwartej” części serii",
+      "sourceUrl": "https://cdaction.pl/newsy/risen-the-old-kingdom-zyje-i-ma-sie-dobrze-wysyp-informacji-o-czwartej-czesci-serii/",
+      "publishedAt": "2026-11-17T12:15+01:00",
+      "summary": "Twórcy dzielą się bardzo konkretnymi informacjami odnośnie ich fanowskiego projektu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/03/Risen.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Jeden z najważniejszych ludzi NVIDII sprzedał akcje za 947 mln dolarów. Kilka tygodni później wybuchł skandal, który zakończył karierę Jensena Huanga jako CEO",
@@ -20,6 +73,23 @@
       "summary": "Jeden z najważniejszych udziałowców NVIDII sprzedał swoje akcje na kilka tygodni przed wybuchem skandalu z Jensenem Huangiem. Pojawiły się spekulacje, że o problemach wiedziano na długo przed tym, zanim ujrzały światło dzienne. Informacja Jeden z najważniejszych ludzi NVIDII sprzedał akcje za 947 mln dolarów. Kilka tygodni później wybuchł skandal, który zakończył karierę Jensena Huanga jako CEO została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532609339.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Cronos: The New Dawn na PS5 za 126,89 zł w Empiku",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-cronos-the-new-dawn-na-ps5-za-12689-zl-w-empiku/",
+      "publishedAt": "2026-11-17T12:06+01:00",
+      "summary": "Cronos: The New Dawn, czyli survival horror studia Bloober Team, jest teraz dostępny w dobrej cenie w Empiku. Sklep internetowy oferuje polską grę, w której wcielicie się w Podróżniczkę, skaczącą po wyrwach czasoprzestrzennych, gdzie będzie walczyć z wynaturzeniami, za 126,89 zł. Oferta dotyczy pudełkowego wydania na konsole Sony PlayStation 5. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/02/Rekordowa-promocja-na-Cronos_-The-New-Dawn-w-Perfect-Blue.-Pudelko-na-PS5-za-14999-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze są wściekli na PS Store. Znaleźli kolejne perfidne błędy Sony",
+      "sourceUrl": "https://www.ppe.pl/news/433481/gracze-sa-wsciekli-na-ps-store-znalezli-kolejne-perfidne-bledy-sony.html",
+      "publishedAt": "2026-11-17T12:02+01:00",
+      "summary": "Cyfrowy sklep PlayStation Store od dawna potrafi przyprawić o ból głowy.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
