@@ -159,9 +159,9 @@
 #topics .forum-back-link{margin:9px 10px 0}
 .forum-topic-name a{color:#ffe36c}
 @media(max-width:650px){.forum-back-link{font-size:9px}}
-</style></head><body><div class="site">
+</style></head><body><div class="site forum-site">
 <div class="topline"><span>● LEVEL NEXT / FORUM SPOŁECZNOŚCI</span><span id="clock">ŁĄCZENIE...</span></div>
-<header class="masthead"><div class="logo-stage"><a href="index.html"><img class="logo" src="logo.png" alt="LEVEL NEXT"></a></div><div class="brand-note">Gry, sprzęt i trochę internetu.<br>Moje miejsce w sieci.</div></header>
+<header class="masthead"><div class="logo-stage"><img class="logo" src="logo.png" alt="LEVEL NEXT"></div><div class="brand-note">Gry, sprzęt i trochę internetu.<br>Moje miejsce w sieci.</div></header>
 <nav class="nav" aria-label="Główna nawigacja"><a href="index.html">START</a><a href="o-nas.html">O NAS</a><a href="materialy.html">MATERIAŁY</a><a href="retro-misja.html">RETRO MISJA</a><a href="sprzet.html">SPRZĘT</a><a href="opinie.html">WPISY</a><a href="archiwum.html">ARCHIWUM</a><a href="pobieranie.html">POBIERANIE</a><a href="daily.html">DAILY</a><a class="nav-forum" href="forum.html" aria-current="page">FORUM<span class="forum-new-sticker">NEW!</span></a><a href="kontakt.html">KONTAKT</a></nav>
 <div class="ticker"><b>LEVEL NEXT FORUM</b><div class="ticker-window"><span class="ticker-track">WITAJ W SPOŁECZNOŚCI&nbsp; • &nbsp;GAMING&nbsp; • &nbsp;RETRO ZONE&nbsp; • &nbsp;TECHNOLOGY&nbsp; • &nbsp;MUZYKA I KULTURA&nbsp; • &nbsp;</span></div></div>
 <main class="layout">
@@ -229,9 +229,12 @@ function drawTopics(data){
   const row=document.createElement('div');row.className='forum-topic-row';
   const topic=document.createElement('div');topic.className='forum-topic-name';
   const marker=document.createElement('span');marker.className='forum-topic-marker';marker.textContent=i===0?'!':'›';
+  const imageUrl=t.image_url||t.imageUrl||t.discord_image_url||t.thumbnail_url||t.first_image_url||'';
+  if(imageUrl){const img=document.createElement('img');img.className='forum-topic-thumb';img.src=imageUrl;img.alt='Zdjęcie w temacie';img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>img.remove();topic.append(img);}
+  const copy=document.createElement('span');copy.className='forum-topic-copy';
   const a=document.createElement('a');a.href='forum.html?topic='+encodeURIComponent(t.id);a.textContent=t.title;
   const sub=document.createElement('small');sub.textContent=[t.category_name||t.category,t.created_at].filter(Boolean).join(' · ');
-  topic.append(marker,a,sub);
+  copy.append(a,sub);topic.append(marker,copy);
   const author=document.createElement('span');author.className='forum-cell-author';author.textContent=t.username||t.author||'Użytkownik';
   const replies=document.createElement('span');replies.className='forum-cell-number';replies.textContent=Math.max(0,(Number(t.post_count)||1)-1);
   const views=document.createElement('span');views.className='forum-cell-number';views.textContent=t.views??'—';
@@ -289,7 +292,11 @@ function renderTopic(d){
   const number=document.createElement('strong');number.textContent='WIADOMOŚĆ #'+(i+1);
   const date=document.createElement('time');date.textContent=p.created_at||'';
   bar.append(number,date);
-  const content=document.createElement('div');content.className='forum-post-content';content.textContent=p.content;
+  const content=document.createElement('div');content.className='forum-post-content';content.textContent=p.content||'';
+  const media=[...(Array.isArray(p.attachments)?p.attachments:[]),...(Array.isArray(p.embeds)?p.embeds.map(e=>e.image||e.thumbnail).filter(Boolean):[])];
+  const imageUrls=[...new Set(media.map(file=>file.url||file.proxy_url||file.proxyUrl).filter((url,i)=>url&&(/\\.(png|jpe?g|gif|webp|avif)(?:[?#]|$)/i.test(url)||String(media[i]?.content_type||media[i]?.contentType||'').startsWith('image/'))))];
+  if(!imageUrls.length){const direct=p.image_url||p.imageUrl||p.discord_image_url;if(direct)imageUrls.push(direct);}
+  if(imageUrls.length){const gallery=document.createElement('div');gallery.className='forum-post-images';imageUrls.forEach((url,j)=>{const link=document.createElement('a');link.href=url;link.target='_blank';link.rel='noopener';const img=document.createElement('img');img.src=url;img.alt='Załącznik '+(j+1)+' do wiadomości';img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>link.remove();link.append(img);gallery.append(link);});content.append(gallery);}
   body.append(bar,content);
   if(currentUser&&p.user_id===currentUser.id){
    const actions=document.createElement('div');actions.className='forum-post-actions';
@@ -354,3 +361,16 @@ document.addEventListener('levelnext:authchange', async function () {
 init();
 })();
 </script></body></html>
+<style>
+/* FORUM: SZERSZY OBSZAR ROBOCZY NIZ POZOSTALE PODSTRONY */
+.forum-site{width:1180px;max-width:calc(100% - 20px)}
+@media(max-width:620px){.forum-site{width:100%;max-width:100%}}
+/* MINIATURY ZALACZNIKOW Z DISCORDA */
+.forum-topic-name{display:flex;align-items:center;gap:9px}
+.forum-topic-thumb{flex:0 0 58px;width:58px;height:44px;object-fit:cover;background:#100b17;border:1px solid #76588d}
+.forum-topic-copy{display:block;min-width:0}
+.forum-post-images{display:flex;flex-wrap:wrap;gap:9px;margin-top:12px}
+.forum-post-images a{display:block;max-width:min(100%,420px);border:1px solid #76588d;background:#100b17}
+.forum-post-images img{display:block;max-width:100%;max-height:360px;object-fit:contain}
+@media(max-width:650px){.forum-topic-thumb{flex-basis:48px;width:48px;height:38px}.forum-post-images img{max-height:260px}}
+</style>
