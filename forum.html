@@ -149,6 +149,16 @@
 @media(max-width:900px){.layout{grid-template-columns:150px minmax(0,1fr)}.forum-table-head,.forum-topic-row{grid-template-columns:minmax(180px,1fr) 90px 70px 80px}.forum-table-head span:nth-child(4),.forum-topic-row>*:nth-child(4){display:none}}
 @media(max-width:650px){.layout{display:flex;flex-direction:column;padding:6px}.leftcol{width:100%;order:2}.maincol{width:100%;order:1}.forum-table-head,.forum-topic-row{grid-template-columns:minmax(0,1fr) 76px 64px}.forum-table-head span:nth-child(4),.forum-table-head span:nth-child(5),.forum-topic-row>*:nth-child(4),.forum-topic-row>*:nth-child(5){display:none}.forum-table-head span:nth-child(2){font-size:8px}.forum-topic-name{padding-left:25px}.forum-topic-marker{left:7px}.forum-post-card{grid-template-columns:82px minmax(0,1fr)}.forum-post-profile{padding:8px 4px}.forum-post-avatar{width:54px;height:54px;font-size:22px}.forum-post-profile>strong{font-size:9px}.forum-post-stars{font-size:10px}.forum-post-content{padding:9px;font-size:11px}.forum-thread-title h2{font-size:18px}.forum-burst-sticker{width:48px;height:48px;font-size:12px}.forum-welcome h1{font-size:19px;padding-right:48px}}
 @media(prefers-reduced-motion:reduce){.forum-burst-sticker{animation:none}}
+
+/* FORUM INDEX / KATEGORIA / TEMAT - ROZDZIELONE WIDOKI */
+.forum-back-link{display:inline-block;margin:0 0 8px;padding:6px 9px;background:#21172c;border:1px solid #76588d;color:#ffdf69;font:bold 9px 'Courier New',monospace;text-decoration:none}
+.forum-back-link:hover{background:#49305f}
+#categories[hidden],#topics[hidden]{display:none!important}
+#categories{margin-top:0}
+#topics{margin-top:0}
+#topics .forum-back-link{margin:9px 10px 0}
+.forum-topic-name a{color:#ffe36c}
+@media(max-width:650px){.forum-back-link{font-size:9px}}
 </style></head><body><div class="site">
 <div class="topline"><span>● LEVEL NEXT / FORUM SPOŁECZNOŚCI</span><span id="clock">ŁĄCZENIE...</span></div>
 <header class="masthead"><div class="logo-stage"><a href="index.html"><img class="logo" src="logo.png" alt="LEVEL NEXT"></a></div><div class="brand-note">Gry, sprzęt i trochę internetu.<br>Moje miejsce w sieci.</div></header>
@@ -161,9 +171,9 @@
 </aside>
 <div class="col maincol">
 <section class="forum-welcome"><span class="forum-burst-sticker" aria-label="Nowe forum">NEW!<small>ONLINE</small></span><span class="tag">LEVEL NEXT COMMUNITY / 001</span><h1>WITAJ NA FORUM LEVEL NEXT</h1><p>Miejsce rozmów o grach, starym sprzęcie, muzyce, internecie i projektach społeczności. Rozgość się, znajdź swój dział i dołącz do rozmowy.</p><div class="forum-status"><span><i class="led"></i> SYSTEM FORUM</span><strong id="api-status">ŁĄCZENIE Z API...</strong><span>8 DZIAŁÓW / RETRO COMMUNITY</span></div></section>
-<section class="panel" id="categories"><div class="panelhead"><h2>KATEGORIE</h2><small>WYBIERZ DZIAŁ</small></div><div class="panelbody"><div id="category-list" class="col" style="gap:6px"><div class="forum-loading">ŁADOWANIE KATEGORII...</div></div></div></section>
 <section class="panel" id="compose-panel" hidden><div class="panelhead"><h2>NOWY TEMAT</h2><small>ROZPOCZNIJ DYSKUSJĘ</small></div><div class="panelbody"><form class="forum-compose" id="create-topic-form"><label>KATEGORIA<select id="new-topic-category" required></select></label><label>TYTUŁ TEMATU<input id="new-topic-title" maxlength="120" minlength="3" required placeholder="O czym chcesz porozmawiać?"></label><label>WIADOMOŚĆ<textarea id="new-topic-content" maxlength="10000" required placeholder="Napisz pierwszą wiadomość..."></textarea></label><button class="button" type="submit">OPUBLIKUJ TEMAT »</button><div id="create-topic-message" aria-live="polite"></div></form></div></section>
 <section class="panel" id="topics"><div class="panelhead"><h2 id="topic-heading">OSTATNIE TEMATY</h2><small id="topic-count">TEMATY / 00</small></div><div class="panelbody" style="padding:0"><div id="topic-list"><div class="forum-loading">ŁADOWANIE TEMATÓW...</div></div></div></section>
+<section class="panel" id="categories"><div class="panelhead"><h2>KATEGORIE FORUM</h2><small>WYBIERZ DZIAŁ</small></div><div class="panelbody"><div id="category-list" class="col" style="gap:6px"><div class="forum-loading">ŁADOWANIE KATEGORII...</div></div></div></section>
 <section class="panel" id="topic-detail-wrap" hidden><div class="panelhead"><h2>TEMAT</h2><small>WĄTEK</small></div><div class="panelbody" id="topic-detail"></div></section>
 </div>
 <aside class="col rightcol">
@@ -196,24 +206,26 @@ function drawCategories(items){
  categories=items;$('category-total').textContent=items.length;
  const list=$('category-list');list.replaceChildren();
  items.forEach((c,i)=>{
-  const a=document.createElement('a');a.className='forum-category';a.href='#topics';if(c.slug===active)a.setAttribute('aria-current','true');
+  const a=document.createElement('a');a.className='forum-category';a.href='forum.html?category='+encodeURIComponent(c.slug);if(c.slug===active)a.setAttribute('aria-current','true');
   const icon=document.createElement('span');icon.className='forum-category-icon';icon.textContent=String(i+1).padStart(2,'0');
   const info=document.createElement('span'),name=document.createElement('strong'),desc=document.createElement('small');
   name.textContent=c.name;desc.textContent=c.description||'Dyskusje społeczności';info.append(name,desc);
   const arrow=document.createElement('span');arrow.className='forum-category-count';arrow.textContent='OTWÓRZ »';
-  a.append(icon,info,arrow);a.onclick=e=>{e.preventDefault();active=c.slug;drawCategories(items);loadTopics(c.slug,c.name);};list.append(a);
+  a.append(icon,info,arrow);list.append(a);
  });
  const select=$('new-topic-category');if(select){select.replaceChildren();items.forEach(c=>{const o=document.createElement('option');o.value=c.slug;o.textContent=c.name;select.append(o);});}
 }
 function drawTopics(data){
- $('topic-count').textContent='TEMATY / '+String(data.total||0).padStart(2,'0');
+ const all=data.topics||[];
+ const shown=active?all:all.slice(0,8);
+ $('topic-count').textContent='TEMATY / '+String(active?(data.total||shown.length):shown.length).padStart(2,'0');
  const list=$('topic-list');list.replaceChildren();
  const table=document.createElement('div');table.className='forum-table';
  const head=document.createElement('div');head.className='forum-table-head';
  ['TEMAT','AUTOR','ODPOWIEDZI','WYŚWIETLENIA','OSTATNIA AKTYWNOŚĆ'].forEach((label,i)=>{const cell=document.createElement('span');cell.textContent=label;cell.className='forum-col-'+i;head.append(cell);});
  table.append(head);
- if(!data.topics?.length){const e=document.createElement('div');e.className='forum-empty';e.textContent=active?'W tym dziale nie ma jeszcze tematów. Możesz rozpocząć pierwszą dyskusję.':'Forum czeka na pierwsze tematy. Rozpocznij pierwszą dyskusję.';table.append(e);list.append(table);return;}
- data.topics.forEach((t,i)=>{
+ if(!shown.length){const e=document.createElement('div');e.className='forum-empty';e.textContent=active?'W tym dziale nie ma jeszcze tematów. Możesz rozpocząć pierwszą dyskusję.':'Nie ma jeszcze tematów. Wybierz kategorię i rozpocznij dyskusję.';table.append(e);list.append(table);return;}
+ shown.forEach((t,i)=>{
   const row=document.createElement('div');row.className='forum-topic-row';
   const topic=document.createElement('div');topic.className='forum-topic-name';
   const marker=document.createElement('span');marker.className='forum-topic-marker';marker.textContent=i===0?'!':'›';
@@ -229,7 +241,11 @@ function drawTopics(data){
  list.append(table);
 }
 async function loadTopics(slug='',name='OSTATNIE TEMATY'){
- $('topic-heading').textContent=slug?name.toUpperCase():'OSTATNIE TEMATY';$('topic-list').innerHTML='<div class="forum-loading">WCZYTYWANIE TEMATÓW...</div>';
+ active=slug;
+ $('topic-heading').textContent=slug?name.toUpperCase():'OSTATNIE TEMATY';
+ $('categories').hidden=!!slug;
+ $('topics').hidden=false;
+ $('topic-list').innerHTML='<div class="forum-loading">WCZYTYWANIE TEMATÓW...</div>';
  try{drawTopics(await request('/api/topics'+(slug?'?category='+encodeURIComponent(slug):'')));}catch(e){$('topic-list').textContent='Nie udało się pobrać tematów: '+e.message;}
 }
 function guest(){
@@ -262,7 +278,8 @@ function renderTopic(d){
   const post=document.createElement('article');post.className='forum-post-card';
   const profile=document.createElement('aside');profile.className='forum-post-profile';
   const avatar=document.createElement('div');avatar.className='forum-post-avatar';
-  if(p.avatar_url){const img=document.createElement('img');img.src=p.avatar_url;img.alt='';avatar.append(img);}else avatar.textContent=(p.username||p.author||'U').trim().charAt(0).toUpperCase();
+  const avatarUrl=p.avatar_url||p.user_avatar_url||p.user?.avatar_url||(p.discord_id&&p.avatar?'https://cdn.discordapp.com/avatars/'+encodeURIComponent(p.discord_id)+'/'+encodeURIComponent(p.avatar)+'.png?size=128':'');
+  if(avatarUrl){const img=document.createElement('img');img.src=avatarUrl;img.alt='Avatar '+(p.username||p.author||'użytkownika');img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>{img.remove();avatar.textContent=(p.username||p.author||'U').trim().charAt(0).toUpperCase();};avatar.append(img);}else avatar.textContent=(p.username||p.author||'U').trim().charAt(0).toUpperCase();
   const name=document.createElement('strong');name.textContent=p.username||p.author||'Użytkownik';
   const rank=document.createElement('small');rank.textContent=i===0?'AUTOR TEMATU':'UŻYTKOWNIK';
   const stars=document.createElement('div');stars.className='forum-post-stars';stars.textContent='★ ★ ★';
@@ -303,10 +320,29 @@ function setupCreateForm(){
 }
 async function init(){
  setupCreateForm();
- try{const d=await request('/api/categories');drawCategories(d.categories||[]);setStatus(true,'API ONLINE');}
- catch(e){setStatus(false,'API OFFLINE');$('category-list').textContent='Nie udało się pobrać kategorii: '+e.message;}
- await account();await loadTopics();
- const id=new URLSearchParams(location.search).get('topic');if(id&&Number.isInteger(Number(id))&&Number(id)>0)await openTopic(Number(id));
+ const params=new URLSearchParams(location.search);
+ const topicId=params.get('topic');
+ const categorySlug=params.get('category')||'';
+ try{
+  const d=await request('/api/categories');drawCategories(d.categories||[]);setStatus(true,'API ONLINE');
+  const selected=categories.find(c=>c.slug===categorySlug);
+  if(categorySlug&&!selected){history.replaceState({},'', 'forum.html');}
+  if(selected){
+   $('categories').hidden=true;
+   $('topic-heading').textContent=selected.name.toUpperCase();
+   const back=document.createElement('a');back.className='forum-back-link';back.href='forum.html';back.textContent='‹ WSZYSTKIE KATEGORIE';
+   $('topics').insertBefore(back,$('topics').firstChild);
+   $('new-topic-category').value=selected.slug;
+   $('compose-panel').querySelector('.panelhead h2').textContent='NOWY TEMAT / '+selected.name.toUpperCase();
+  }
+ }catch(e){setStatus(false,'API OFFLINE');$('category-list').textContent='Nie udało się pobrać kategorii: '+e.message;}
+ await account();
+ const selected=categories.find(c=>c.slug===categorySlug);
+ await loadTopics(selected?selected.slug:'',selected?selected.name:'OSTATNIE TEMATY');
+ if(topicId&&Number.isInteger(Number(topicId))&&Number(topicId)>0){
+  $('topics').hidden=true;$('categories').hidden=true;
+  await openTopic(Number(topicId));
+ }
 }
 document.addEventListener('levelnext:authchange', async function () {
   await account();
