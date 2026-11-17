@@ -1,27 +1,51 @@
 <!doctype html>
-<html lang="pl">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>FORUM W PRZYGOTOWANIU — LEVEL NEXT</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#171020">
+<meta name="description" content="Forum społeczności LEVEL NEXT. Gry, retro, technologia, muzyka i własne projekty."><title>Forum — LEVEL NEXT</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=VT323&display=swap" rel="stylesheet"><link rel="stylesheet" href="site.css?v=14">
 <style>
-:root{--yellow:#fff200;--purple:#6a0dad}
-*{box-sizing:border-box}
-body{margin:0;min-height:100vh;display:grid;place-items:center;padding:22px;background:radial-gradient(circle at 50% 20%,#260044,#08000f 65%);color:var(--yellow);font-family:'IBM Plex Mono',monospace;text-align:center}
-main{width:min(760px,100%);padding:clamp(22px,5vw,48px);border:2px solid var(--yellow);background:rgba(0,0,0,.78);box-shadow:0 0 28px rgba(106,13,173,.55)}
-h1{font-size:clamp(1.1rem,4vw,1.8rem);line-height:1.7;text-shadow:0 0 12px var(--purple)}
-p{font: bold 13px/2 'IBM Plex Mono',monospace;color:#ddd;margin:24px 0}
-nav{display:flex;justify-content:center;flex-wrap:wrap;gap:12px;margin-top:28px}
-a{color:var(--yellow);border:1px solid var(--yellow);padding:12px;text-decoration:none;font-size:10px;line-height:1.6}
-a:hover{background:var(--yellow);color:#000}
-.small{font-size:9px;color:#999}
-</style>
-</head>
-<body><main>
-<div class="small">LEVEL NEXT // SYSTEM MESSAGE</div>
-<h1>FORUM W PRZYGOTOWANIU</h1>
-<p>Ten dział jest chwilowo wyłączony. Wracamy do niego, kiedy będzie gotowy.</p>
-<p class="small">Nie można się teraz rejestrować, publikować postów ani dodawać komentarzy.</p>
-<nav><a href="index.html">← STRONA GŁÓWNA</a><a href="daily.html">DAILY</a><a href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">DISCORD</a></nav>
-</main></body></html>
+.forum-welcome{position:relative;padding:16px;background:linear-gradient(135deg,#30203e,#1b1225 72%);border:2px ridge #8e6ba5}.forum-welcome:after{content:"";position:absolute;inset:5px;border:1px dotted #76588d;pointer-events:none}
+.forum-welcome h1{position:relative;margin:5px 0 8px;color:#ffdf69;font:bold 27px Georgia,serif;line-height:1.1}.forum-welcome p{position:relative;max-width:690px;margin:0;color:#e0d5e9;font:12px/1.6 Verdana,Arial,sans-serif}
+.forum-status{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;margin-top:12px;padding-top:9px;border-top:1px dotted #76588d;color:#cbbbd8;font:9px "Courier New",monospace}.forum-status strong{color:#a9dc75}
+.forum-category{display:grid;grid-template-columns:42px minmax(0,1fr) auto;gap:9px;align-items:center;padding:10px;background:#2b1e38;border:1px solid #76588d;text-decoration:none;color:#eee8f7;min-width:0}.forum-category:hover,.forum-category[aria-current=true]{background:#39264c;border-color:#ffdc55}
+.forum-category-icon{display:grid;place-items:center;width:38px;height:38px;background:#170f20;border:2px inset #76588d;color:#ffdc55;font:22px "VT323",monospace}.forum-category strong{display:block;color:#ffdf69;font:bold 12px Verdana,Arial,sans-serif}.forum-category small{display:block;margin-top:3px;color:#cbbbd8;font:10px/1.4 Verdana,Arial,sans-serif}.forum-category-count{color:#cbbbd8;font:10px "Courier New",monospace;white-space:nowrap}
+.forum-topic{display:grid;grid-template-columns:minmax(0,1fr) 90px 110px;gap:8px;align-items:center;padding:9px 10px;border-bottom:1px dotted #76588d;background:#261a33}.forum-topic a{font:bold 11px Verdana,Arial,sans-serif}.forum-topic small{display:block;margin-top:4px;color:#bcaecb;font:9px Verdana,Arial,sans-serif}.forum-topic-meta{color:#cbbbd8;text-align:right;font:9px/1.4 "Courier New",monospace}
+.forum-empty{padding:16px;background:#170f20;border:1px dashed #76588d;color:#cbbbd8;font:11px/1.6 Verdana,Arial,sans-serif}.forum-loading{padding:12px;color:#bcaecb;font:10px "Courier New",monospace}
+.forum-account{padding:10px;background:#170f20;border:1px inset #76588d}.forum-account strong{color:#ffdf69}.forum-account p{margin:6px 0;color:#cbbbd8;font:10px/1.5 Verdana,Arial,sans-serif}.forum-account .button{width:100%;text-align:center}
+.forum-post{padding:10px 0;border-top:1px dotted #76588d;color:#eee8f7;font:11px/1.6 Verdana,Arial,sans-serif;white-space:pre-wrap}
+@media(max-width:760px){.forum-topic{grid-template-columns:minmax(0,1fr) 70px}.forum-topic-meta:last-child{display:none}}
+</style></head><body><div class="site">
+<div class="topline"><span>● LEVEL NEXT / FORUM SPOŁECZNOŚCI</span><span id="clock">ŁĄCZENIE...</span></div>
+<header class="masthead"><div class="logo-stage"><a href="index.html"><img class="logo" src="logo.png" alt="LEVEL NEXT"></a></div><div class="brand-note">Gry, sprzęt i trochę internetu.<br>Moje miejsce w sieci.</div></header>
+<nav class="nav" aria-label="Główna nawigacja"><a href="index.html">START</a><a href="o-nas.html">O NAS</a><a href="materialy.html">MATERIAŁY</a><a href="retro-misja.html">RETRO MISJA</a><a href="sprzet.html">SPRZĘT</a><a href="opinie.html">WPISY</a><a href="archiwum.html">ARCHIWUM</a><a href="pobieranie.html">POBIERANIE</a><a href="daily.html">DAILY</a><a class="nav-forum" href="forum.html" aria-current="page">FORUM<span class="forum-new-sticker">NEW!</span></a><a href="kontakt.html">KONTAKT</a></nav>
+<div class="ticker"><b>LEVEL NEXT FORUM</b><div class="ticker-window"><span class="ticker-track">WITAJ W SPOŁECZNOŚCI&nbsp; • &nbsp;GAMING&nbsp; • &nbsp;RETRO ZONE&nbsp; • &nbsp;TECHNOLOGY&nbsp; • &nbsp;MUZYKA I KULTURA&nbsp; • &nbsp;</span></div></div>
+<main class="layout">
+<aside class="col leftcol">
+<section class="panel"><div class="panelhead"><h3>TWOJE KONTO</h3><small>DISCORD ID</small></div><div class="panelbody"><div class="forum-account" id="account-box"><div class="forum-loading">SPRAWDZANIE SESJI...</div></div></div></section>
+<section class="panel"><div class="panelhead"><h3>NA SKRÓTY</h3><small>FORUM</small></div><div class="panelbody"><ul class="linklist"><li><a href="#categories">Kategorie forum</a></li><li><a href="#topics">Ostatnie tematy</a></li><li><a href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener">Discord LEVEL NEXT »</a></li></ul></div></section>
+</aside>
+<div class="col maincol">
+<section class="forum-welcome"><span class="tag">LEVEL NEXT COMMUNITY / 001</span><h1>WITAJ NA FORUM LEVEL NEXT</h1><p>Miejsce rozmów o grach, starym sprzęcie, muzyce, internecie i projektach społeczności. Rozgość się, znajdź swój dział i dołącz do rozmowy.</p><div class="forum-status"><span><i class="led"></i> SYSTEM FORUM</span><strong id="api-status">ŁĄCZENIE Z API...</strong><span>8 DZIAŁÓW / RETRO COMMUNITY</span></div></section>
+<section class="panel" id="categories"><div class="panelhead"><h2>KATEGORIE</h2><small>WYBIERZ DZIAŁ</small></div><div class="panelbody"><div id="category-list" class="col" style="gap:6px"><div class="forum-loading">ŁADOWANIE KATEGORII...</div></div></div></section>
+<section class="panel" id="topics"><div class="panelhead"><h2 id="topic-heading">OSTATNIE TEMATY</h2><small id="topic-count">TEMATY / 00</small></div><div class="panelbody" style="padding:0"><div id="topic-list"><div class="forum-loading">ŁADOWANIE TEMATÓW...</div></div></div></section>
+<section class="panel" id="topic-detail-wrap" hidden><div class="panelhead"><h2>TEMAT</h2><small>WĄTEK</small></div><div class="panelbody" id="topic-detail"></div></section>
+</div>
+<aside class="col rightcol">
+<section class="panel"><div class="panelhead"><h3>O FORUM</h3><small>INFO.TXT</small></div><div class="panelbody"><p>Forum korzysta z kont Discord. Logowanie pozwoli powiązać Twoje konto z wpisami i odpowiedziami.</p><p class="smallprint">Publikowanie tematów i odpowiedzi uruchomimy w kolejnym etapie prac.</p></div></section>
+<section class="panel"><div class="panelhead"><h3>STATUS</h3><small>LIVE</small></div><div class="panelbody"><div class="statusline"><span>API</span><strong id="api-status-side">SPRAWDZANIE</strong></div><div class="statusline"><span>Kategorie</span><strong id="category-total">-</strong></div><div class="statusline"><span>Logowanie</span><strong id="login-status">-</strong></div></div></section>
+</aside></main>
+<footer class="footer"><a class="smallprint" href="index.html">← POWRÓT NA STRONĘ GŁÓWNĄ</a><br><div class="copyright-line"><span>© 2025-2026 LEVEL NEXT // FORUM</span><img class="footer-copyright-gif" src="https://lostmedia.cc/gify/copyright.gif?v=2" alt="Copyright"></div><br><span class="smallprint">FORUM W TRAKCIE ROZBUDOWY</span><div class="retro-badges"><div class="badge-row"><img src="https://lostmedia.cc/gify/made_with_windows.gif?v=2" width="88" height="31" alt="Made with Windows"><img src="https://lostmedia.cc/gify/best_viewed.gif?v=2" width="88" height="31" alt="Best viewed"></div><span class="badge-caption">POZDROWIENIA DLA WSZYSTKICH, KTÓRZY TU ZAJRZELI</span></div></footer>
+</div>
+<script src="site.js?v=16"></script>
+<script>
+(()=>{const API='https://levelnext-forum-api.filipiakr245.workers.dev',$=id=>document.getElementById(id);let active='';
+async function get(path){const r=await fetch(API+path,{credentials:'include',headers:{Accept:'application/json'}});const d=await r.json();if(!r.ok||d.success===false)throw new Error(d.error||'Błąd API');return d;}
+function setStatus(ok,msg){$('api-status').textContent=msg;$('api-status-side').textContent=ok?'ONLINE':'OFFLINE';$('api-status-side').style.color=ok?'#a9dc75':'#ff8a8a';}
+function drawCategories(items){$('category-total').textContent=items.length;const list=$('category-list');list.replaceChildren();items.forEach((c,i)=>{const a=document.createElement('a');a.className='forum-category';a.href='#topics';if(c.slug===active)a.setAttribute('aria-current','true');const icon=document.createElement('span');icon.className='forum-category-icon';icon.textContent=String(i+1).padStart(2,'0');const info=document.createElement('span'),name=document.createElement('strong'),desc=document.createElement('small');name.textContent=c.name;desc.textContent=c.description||'Dyskusje społeczności';info.append(name,desc);const arrow=document.createElement('span');arrow.className='forum-category-count';arrow.textContent='OTWÓRZ »';a.append(icon,info,arrow);a.onclick=e=>{e.preventDefault();active=c.slug;drawCategories(items);loadTopics(c.slug,c.name);};list.append(a);});}
+function drawTopics(data){$('topic-count').textContent='TEMATY / '+String(data.total||0).padStart(2,'0');const list=$('topic-list');list.replaceChildren();if(!data.topics?.length){const e=document.createElement('div');e.className='forum-empty';e.textContent=active?'W tym dziale nie ma jeszcze tematów. To dobre miejsce na pierwszy wątek.':'Forum czeka na pierwsze tematy. Wkrótce będzie można rozpocząć dyskusję.';list.append(e);return;}data.topics.forEach(t=>{const row=document.createElement('div');row.className='forum-topic';const info=document.createElement('div'),a=document.createElement('a'),meta=document.createElement('small');a.href='forum.html?topic='+encodeURIComponent(t.id);a.textContent=t.title;meta.textContent=[t.category_name,t.username,t.created_at].filter(Boolean).join(' · ');info.append(a,meta);const count=document.createElement('div');count.className='forum-topic-meta';count.textContent=(t.post_count||0)+' POSTÓW';const last=document.createElement('div');last.className='forum-topic-meta';last.textContent=t.last_post_at||'NOWY TEMAT';row.append(info,count,last);list.append(row);});}
+async function loadTopics(slug='',name='OSTATNIE TEMATY'){$('topic-heading').textContent=slug?name.toUpperCase():'OSTATNIE TEMATY';$('topic-list').innerHTML='<div class="forum-loading">WCZYTYWANIE TEMATÓW...</div>';try{drawTopics(await get('/api/topics'+(slug?'?category='+encodeURIComponent(slug):'')));}catch(e){$('topic-list').textContent='Nie udało się pobrać tematów: '+e.message;}}
+function guest(){const box=$('account-box');box.replaceChildren();const s=document.createElement('strong'),p=document.createElement('p'),a=document.createElement('a');s.textContent='GOŚĆ / NIEZALOGOWANY';p.textContent='Zaloguj się przez Discord, aby powiązać konto z forum.';a.className='button';a.href=API+'/auth/discord';a.textContent='ZALOGUJ PRZEZ DISCORD »';box.append(s,p,a);$('login-status').textContent='GOŚĆ';}
+async function account(){try{const d=await get('/api/me');if(!d.authenticated||!d.user){guest();return;}const box=$('account-box');box.replaceChildren();const s=document.createElement('strong'),p=document.createElement('p'),b=document.createElement('button');s.textContent=d.user.username||'Zalogowany użytkownik';p.textContent='Jesteś zalogowany przez Discord. Konto jest gotowe do korzystania z forum.';b.className='button';b.type='button';b.textContent='WYLOGUJ';b.onclick=async()=>{try{await fetch(API+'/auth/logout',{method:'POST',credentials:'include'});}finally{location.reload();}};box.append(s,p,b);$('login-status').textContent='ZALOGOWANO';}catch{guest();}}
+async function init(){try{const d=await get('/api/categories');drawCategories(d.categories||[]);setStatus(true,'API ONLINE');}catch(e){setStatus(false,'API OFFLINE');$('category-list').textContent='Nie udało się pobrać kategorii: '+e.message;}await loadTopics();await account();const id=new URLSearchParams(location.search).get('topic');if(id&&/^\\d+$/.test(id)){try{const d=await get('/api/topics/'+id);$('topic-detail-wrap').hidden=false;const box=$('topic-detail'),h=document.createElement('h2');h.textContent=d.topic.title;box.append(h);(d.posts||[]).forEach(p=>{const el=document.createElement('div');el.className='forum-post';el.textContent=(p.username||'Użytkownik')+' · '+(p.created_at||'')+'\\n'+p.content;box.append(el);});}catch(e){$('topic-detail-wrap').hidden=false;$('topic-detail').textContent='Nie udało się otworzyć tematu: '+e.message;}}}
+init();})();
+</script></body></html>
