@@ -47,8 +47,13 @@
 const API='https://levelnext-forum-api.filipiakr245.workers.dev';
 const $=id=>document.getElementById(id);
 let active='',categories=[],currentUser=null;
+function sessionHeaders(options={}) {
+ const headers={Accept:'application/json',...(options.body?{'Content-Type':'application/json'}:{}),...(options.headers||{})};
+ try { const token=localStorage.getItem('ln_session'); if(token)headers.Authorization='Bearer '+token; } catch(e) {}
+ return headers;
+}
 async function request(path,options={}) {
- const response=await fetch(API+path,{credentials:'include',headers:{Accept:'application/json',...(options.body?{'Content-Type':'application/json'}:{}),...(options.headers||{})},...options});
+ const response=await fetch(API+path,{...options,credentials:'omit',headers:sessionHeaders(options)});
  let data={};try{data=await response.json();}catch{}
  if(!response.ok||data.success===false)throw new Error(data.error||('HTTP '+response.status));
  return data;
@@ -92,7 +97,7 @@ async function account(){
   const d=await request('/api/me');if(!d.authenticated||!d.user){guest();return;}
   currentUser=d.user;const box=$('account-box');box.replaceChildren();const s=document.createElement('strong'),p=document.createElement('p'),b=document.createElement('button');
   s.textContent=d.user.username||'Zalogowany użytkownik';p.textContent='Zalogowano przez Discord. Możesz publikować i odpowiadać na forum.';
-  b.className='button';b.type='button';b.textContent='WYLOGUJ';b.onclick=async()=>{try{await fetch(API+'/auth/logout',{method:'POST',credentials:'include'});}finally{location.reload();}};
+  b.className='button';b.type='button';b.textContent='WYLOGUJ';b.onclick=async()=>{try{await fetch(API+'/auth/logout',{method:'POST',credentials:'omit',headers:sessionHeaders()});}finally{try{localStorage.removeItem('ln_session');}catch(e){}location.reload();}};
   box.append(s,p,b);$('login-status').textContent='ZALOGOWANO';$('compose-panel').hidden=false;
  }catch{guest();}
 }
