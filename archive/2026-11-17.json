@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T05:01+01:00",
+  "updatedAt": "2026-11-17T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Najdłuższy serial Netflixa jest nie do zatrzymania. 9. sezon już oficjalnie potwierdzony",
-    "summary": "To nowy najdłuższy serial fabularny w historii Netfliksa. Zapadła decyzja o tym, że powstanie dziewiąty sezon. Informacja Najdłuższy serial Netflixa jest nie do zatrzymania. 9. sezon już oficjalnie potwierdzony została opublikowana przez GRYOnline.pl 16 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/najdluzszy-serial-netflixa-jest-nie-do-zatrzymania-9-sezon-juz-of/zd32350",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532524848.jpg"
+    "title": "PS Plus Extra i Premium na listopad od dzisiaj! Znakomity zestaw gier z WIELKIM hitem",
+    "summary": "Od dzisiaj gracze będą mogli sprawdzić wielki zestaw gier przygotowany dla klientów PS Plus przez japońską korporację. Sony w listopadzie oferuje naprawdę ciekawe tytuły dla użytkowników PS Plus Extra i PS Plus Premium.",
+    "sourceUrl": "https://www.ppe.pl/news/433403/ps-plus-extra-i-premium-na-listopad-od-dzisiaj-znakomity-zestaw-gier-z-wielkim-hitem.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "PS Plus Extra i Premium na listopad od dzisiaj! Znakomity zestaw gier z WIELKIM hitem",
+      "sourceUrl": "https://www.ppe.pl/news/433403/ps-plus-extra-i-premium-na-listopad-od-dzisiaj-znakomity-zestaw-gier-z-wielkim-hitem.html",
+      "publishedAt": "2026-11-17T05:46+01:00",
+      "summary": "Od dzisiaj gracze będą mogli sprawdzić wielki zestaw gier przygotowany dla klientów PS Plus przez japońską korporację. Sony w listopadzie oferuje naprawdę ciekawe tytuły dla użytkowników PS Plus Extra i PS Plus Premium.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Najdłuższy serial Netflixa jest nie do zatrzymania. 9. sezon już oficjalnie potwierdzony",
