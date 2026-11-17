@@ -262,8 +262,8 @@ h1,h2,h3{line-height:1.25}
   pointer-events:none;
   user-select:none;
   filter:none;
-  transform:none;
-  animation:none;
+  transform-style:preserve-3d;
+  animation:logoTurn3D 24s linear infinite;
 }
 @media(max-width:620px){.masthead .logo{width:280px}}
 
