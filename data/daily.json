@@ -1,17 +1,58 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T15:01+01:00",
+  "updatedAt": "2026-11-17T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Głupiec namieszał w Slay the Spire 2. Nowy bohater przyciągnął tłumy na Steamie",
-    "summary": "Prawie 224 tysiące gracze jednocześnie bawiło się jednocześnie w Slay The Spire 2 jeszcze przed debiutem wielkiej aktualizacji dzięki Głupcowi. Informacja Głupiec namieszał w Slay the Spire 2. Nowy bohater przyciągnął tłumy na Steamie została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/glupiec-namieszal-w-slay-the-spire-2-nowy-bohater-przyciagnal-tlu/z33237d",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532620260.jpg"
+    "title": "Chcieliście zagrać wcześniej? Rockstar Games mógł wydać GTA 6 znaczniej szybciej",
+    "summary": "Zarząd Rockstar Games brutalnie weryfikuje trzynastoletni cykl deweloperski Grand Theft Auto 6. Rob Nelson, dyrektor studia Rockstar North, oficjalnie ujawnił powody drastycznie wydłużonego czasu produkcji.",
+    "sourceUrl": "https://www.ppe.pl/news/433498/chcieliscie-zagrac-wczesniej-rockstar-games-mogl-wydac-gta-6-znaczniej-szybciej.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Chcieliście zagrać wcześniej? Rockstar Games mógł wydać GTA 6 znaczniej szybciej",
+      "sourceUrl": "https://www.ppe.pl/news/433498/chcieliscie-zagrac-wczesniej-rockstar-games-mogl-wydac-gta-6-znaczniej-szybciej.html",
+      "publishedAt": "2026-11-17T16:01+01:00",
+      "summary": "Zarząd Rockstar Games brutalnie weryfikuje trzynastoletni cykl deweloperski Grand Theft Auto 6. Rob Nelson, dyrektor studia Rockstar North, oficjalnie ujawnił powody drastycznie wydłużonego czasu produkcji.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Listwa zasilająca Brennenstuhl Premium-Line z 4 gniazdami, USB-C PD 30W i USB-A 18W za 108,86 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/listwa-zasilajaca-brennenstuhl-premium-line-z-4-gniazdami-usb-c-pd-30w-i-usb-a-18w-za-10886-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-17T15:55+01:00",
+      "summary": "W ramach Wczesnego Black Friday, możecie w polskim oddziale sklepu Amazon kupić teraz taniej listwę Brennenstuhl Premium-Line. Akcesorium wyposażone w 4 gniazda oraz dwa złącza USB, w tym jedno z nich typu C z możliwością power delivery do 30W, kosztuje 108,86 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/brennenstuhl-premium-line-1b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Batmana Part 3 nie będzie? Robert Pattinson ma prawo wykorzystać lukę w kontrakcie",
+      "sourceUrl": "https://www.ppe.pl/news/433497/the-batmana-part-3-nie-bedzie-robert-pattinson-ma-prawo-wykorzystac-luke-w-kontrakcie.html",
+      "publishedAt": "2026-11-17T15:35+01:00",
+      "summary": "Przedłużające się prace nad The Batman 2 zmieniają sytuację prawną głównego aktora. Raport The Wrap potwierdza, że kontrakt Roberta Pattinsona uległ przedawnieniu. Aktor nie jest formalnie zobowiązany, aby wystąpić w trzeciej odsłonie cyklu.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Która gra zgarnie tegoroczną nagrodę Grammy za najlepszą ścieżkę dźwiękową? Jest jeden mocny kandydat",
+      "sourceUrl": "https://cdaction.pl/newsy/ktora-gra-zgarnie-tegoroczna-nagrode-grammy-za-najlepsza-sciezke-dzwiekowa-jest-jeden-mocny-kandydat/",
+      "publishedAt": "2026-11-17T15:30+01:00",
+      "summary": "Produkcja Sony dominuje w tym roku w muzycznych kategoriach różnych growych nagród.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Grammy.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xiaomi 18 Pro i 18 Pro Max oficjalnie w Polsce. Dwa ekrany, ogromna bateria i świetny zestaw aparatów",
+      "sourceUrl": "https://www.ppe.pl/news/433479/xiaomi-18-pro-i-18-pro-max-oficjalnie-w-polsce-dwa-ekrany-ogromna-bateria-i-swietny-zestaw-aparatow.html",
+      "publishedAt": "2026-11-17T15:30+01:00",
+      "summary": "Xiaomi wprowadza do Polski swoje najnowsze flagowce. Xiaomi 18 Pro i Xiaomi 18 Pro Max dostały dodatkowy ekran na tylnej obudowie, dwa aparaty 200 Mpix, zupełnie nowe procesory Snapdragon 8 Elite Gen 6 oraz baterie sięgające 7050 mAh. Znamy już tak...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Głupiec namieszał w Slay the Spire 2. Nowy bohater przyciągnął tłumy na Steamie",
@@ -38,6 +79,23 @@
       "summary": "Huawei zainspirował się Stevem Jobsem, żeby pokazać swój nowy komputer przenośny. MateBook Fold S to nowy kompaktowy komputer, który mieści się w kopercie. Informacja W 2008 roku Steve Jobs wyjął z koperty laptopa: Richard Yu z firmy Huawei zmieścił w niej aż dwa komputery została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532620929.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Neverwinter Nights 2: Enhanced Edition na PC już za 30 zł w WinGameStore!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/neverwinter-nights-2-enhanced-edition-na-pc-juz-za-30-zl-w-wingamestore/",
+      "publishedAt": "2026-11-17T15:15+01:00",
+      "summary": "Kultowa gra RPG, pierwotnie wydana w 2006 roku, jest teraz dostępna w promocji w oficjalnej dystrybucji. Sklep WinGameStore oferuje bowiem Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition za niecałe 30 zł w pecetowym wydaniu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/06/neverwinter-nights-2-enhanced-edition-miniaturka-cyfra-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox szoruje po dnie. Microsoft przegrywa nawet ze Steam Deckiem",
+      "sourceUrl": "https://www.ppe.pl/news/433490/xbox-szoruje-po-dnie-microsoft-przegrywa-nawet-ze-steam-deckiem.html",
+      "publishedAt": "2026-11-17T15:15+01:00",
+      "summary": "Najnowszy raport z GDC Festival of Gaming brutalnie weryfikuje rynkowy układ sił. Zebrano twarde dane od ponad 2600 profesjonalistów z branży.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
