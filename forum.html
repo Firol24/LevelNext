@@ -140,6 +140,13 @@ async function init(){
  await account();await loadTopics();
  const id=new URLSearchParams(location.search).get('topic');if(id&&Number.isInteger(Number(id))&&Number(id)>0)await openTopic(Number(id));
 }
+document.addEventListener('levelnext:authchange', async function () {
+  await account();
+  const topicId = new URLSearchParams(location.search).get('topic');
+  if (topicId && Number.isInteger(Number(topicId)) && Number(topicId) > 0) {
+    await openTopic(Number(topicId));
+  }
+});
 init();
 })();
 </script></body></html>
