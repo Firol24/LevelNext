@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T21:26+01:00",
+  "updatedAt": "2026-11-17T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -20,6 +20,14 @@
       "summary": "Ubisoft pokazał kolejne fragmenty remake&apos;u Heroes of Might and Magic III oraz odświeżone jednostki. Nowy wygląd aniołów i archaniołów nie przekonał jednak wszystkich fanów, mimo że twórcy uwzględnili ich wcześniejsze uwagi. Informacja Jutro remake kultowej strategii HoMM 3 sprawdzą gracze. Wygląd aniołów i archaniołów trzeba jednak poprawić, i to już została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532645576.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox Game Pass na drugą połowę listopada i początek grudnia. Oczekiwana przygoda zmierza do usługi",
+      "sourceUrl": "https://www.ppe.pl/news/433512/xbox-game-pass-na-druga-polowe-listopada-i-poczatek-grudnia-oczekiwana-przygoda-zmierza-do-uslugi.html",
+      "publishedAt": "2026-11-17T21:46+01:00",
+      "summary": "Microsoft zaprezentował kolejną porcję gier zmierzających do Xbox Game Pass. W drugiej połowie listopada oraz na początku grudnia abonenci otrzymają dostęp do bardzo zróżnicowanych produkcji, ale szczególną uwagę przyciąga historia małej ...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
