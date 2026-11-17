@@ -1,17 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T18:01+01:00",
+  "updatedAt": "2026-11-17T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gracze PC mogą jutro mieć „GTA 6 w domu”. Mocne ulepszenie GTA 5 da im namiastkę nowej gry Rockstar Games",
-    "summary": "Premiera GTA 6 na konsolach już niebawem, ale pecetowi gracze nie muszą bezczynnie czekać na swoją kolej. Dzięki modyfikacjom do poprzedniej odsłony mogą już teraz przetestować mechaniki i rozwiązania, które mają urozmaicić nadchodzącą przygodę. Informacja Gracze PC mogą jutro mieć „GTA 6 w domu”. Mocne ulepszenie GTA 5 da im namiastkę nowej gry Rockstar Games została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-pc-moga-jutro-miec-gta-6-w-domu-mocne-ulepszenie-gta-5-da/z432384",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532633173.jpg"
+    "title": "Lucia z GTA 6 Lucia pokazała prawdziwą twarz, potwierdzając domysły fanów. Jason to jednak wciąż tajemnica",
+    "summary": "Aktorka, którą gracze podejrzewali o wcielanie się w Lucię z GTA 6, została oficjalnie potwierdzona. Na podobna informację w sprawie Jasona poczekamy zapewne do premiery gry Rockstar Games. Informacja Lucia z GTA 6 Lucia pokazała prawdziwą twarz, potwierdzając domysły fanów. Jason to jednak wciąż tajemnica została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/na-25-dni-przed-premiera-gta-6-lucia-pokazala-prawdziwa-twarz-gra/za320ad",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/530617115.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Lucia z GTA 6 Lucia pokazała prawdziwą twarz, potwierdzając domysły fanów. Jason to jednak wciąż tajemnica",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-25-dni-przed-premiera-gta-6-lucia-pokazala-prawdziwa-twarz-gra/za320ad",
+      "publishedAt": "2026-11-17T19:50+01:00",
+      "summary": "Aktorka, którą gracze podejrzewali o wcielanie się w Lucię z GTA 6, została oficjalnie potwierdzona. Na podobna informację w sprawie Jasona poczekamy zapewne do premiery gry Rockstar Games. Informacja Lucia z GTA 6 Lucia pokazała prawdziwą twarz, potwierdzając domysły fanów. Jason to jednak wciąż tajemnica została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/530617115.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 nie potrzebowało premiery, by zdominować nominacje do The Game Awards 2026. Oto pełna lista",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-nie-potrzebowalo-premiery-by-zdominowac-nominacje-do-the-ga/z732387",
+      "publishedAt": "2026-11-17T19:42+01:00",
+      "summary": "Znamy już wszystkie gry nominowane do The Game Awards 2026. GTA 6 jeszcze nie zadebiutowało, a już znalazło się w najważniejszej kategorii. Informacja GTA 6 nie potrzebowało premiery, by zdominować nominacje do The Game Awards 2026. Oto pełna lista została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532636906.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Na 2 dni przed premierą GTA 6 wydawca przeprowadza duże zwolnienia u twórców Civilization 7. Nowy XCOM ma spore problemy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-2-dni-przed-premiera-gta-6-wydawca-przeprowadza-duze-zwolnieni/z632386",
+      "publishedAt": "2026-11-17T19:16+01:00",
+      "summary": "Źle się dzieje w Firaxis Games. Po kiepsko przyjętej Cywilizacji 7 studio dotknęły zwolnienia, a jego kolejna gra, nowa odsłona serii XCOM, ma ponoć spore problemy. Informacja Na 2 dni przed premierą GTA 6 wydawca przeprowadza duże zwolnienia u twórców Civilization 7. Nowy XCOM ma spore problemy została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532635406.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ojciec serii Resident Evil szykuje się do powrotu. Shinji Mikami już wkrótce wypuści nową grę",
+      "sourceUrl": "https://www.ppe.pl/news/433510/ojciec-serii-resident-evil-szykuje-sie-do-powrotu-shinji-mikami-juz-wkrotce-wypusci-nowa-gre.html",
+      "publishedAt": "2026-11-17T19:01+01:00",
+      "summary": "Shinji Mikami nie powiedział jeszcze ostatniego słowa. Legendarny reżyser zamierza w niedalekiej przyszłości udostępnić nową grę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony idzie o krok za daleko? Nowy patent PlayStation wywołuje gęsią skórkę",
+      "sourceUrl": "https://www.ppe.pl/news/433504/sony-idzie-o-krok-za-daleko-nowy-patent-playstation-wywoluje-gesia-skorke.html",
+      "publishedAt": "2026-11-17T18:45+01:00",
+      "summary": "Sony Interactive Entertainment oficjalnie zarejestrowało nowy wniosek patentowy.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gracze PC mogą jutro mieć „GTA 6 w domu”. Mocne ulepszenie GTA 5 da im namiastkę nowej gry Rockstar Games",
@@ -20,6 +63,49 @@
       "summary": "Premiera GTA 6 na konsolach już niebawem, ale pecetowi gracze nie muszą bezczynnie czekać na swoją kolej. Dzięki modyfikacjom do poprzedniej odsłony mogą już teraz przetestować mechaniki i rozwiązania, które mają urozmaicić nadchodzącą przygodę. Informacja Gracze PC mogą jutro mieć „GTA 6 w domu”. Mocne ulepszenie GTA 5 da im namiastkę nowej gry Rockstar Games została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532633173.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Znamy nominacje do The Game Awards 2026. 8 nominacji dla gry, w którą prawie nikt jeszcze nie zagrał",
+      "sourceUrl": "https://cdaction.pl/newsy/znamy-nominacje-do-the-game-awards-2026-8-nominacji-dla-gry-w-ktora-prawie-nikt-jeszcze-nie-zagral/",
+      "publishedAt": "2026-11-17T18:37+01:00",
+      "summary": "Niby człowiek wiedział, a jednak się łudził.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/the-game-awards-2026-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nie musisz już iść do kina! Epicki film Christophera Nolana trafia na VOD z potężnym bonusem",
+      "sourceUrl": "https://www.ppe.pl/news/433502/nie-musisz-juz-isc-do-kina-epicki-film-christophera-nolana-trafia-na-vod-z-poteznym-bonusem.html",
+      "publishedAt": "2026-11-17T18:24+01:00",
+      "summary": "Film The Odyssey w reżyserii Christophera Nolana zadebiutował na platformach cyfrowych.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Charytatywna paczka pełna wdzięczności. Nowy zestaw 8 gier Steam już za 40 zł w Digiphile!",
+      "sourceUrl": "https://lowcygier.pl/bundle/charytatywna-paczka-pelna-wdziecznosci-nowy-zestaw-8-gier-steam-juz-za-40-zl-w-digiphile/",
+      "publishedAt": "2026-11-17T18:22+01:00",
+      "summary": "Łowcy, najnowszy pakiet przygotowany przez zespół Digiphile we współpracy z internetowym twórcą Jacksepticeye, to charytatywna paczka wspierająca inicjatywę Thankmas . W ramach zestawu Jacksepticeye’s Thankmas 2026 Collection otrzymacie 8 tytułów w postaci kluczy Steam w jednym progu cenowym za nieco ponad 40 zł. Daje nam to bardzo dobry przelicznik ok. 6,14 zł za jeden tytuł . Warto wyraźnie podkreślić, że cały dochód ze sprzedaży zostanie przeznaczony na rzecz organizacji charytatywnej Make-A-Wish! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Charytatywna-paczka-pelna-wdziecznosci.-Nowy-zestaw-8-gier-Steam-juz-za-40-zl-w-Digiphile_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nominacje do najważniejszych nagród w świecie gier wideo ogłoszone. The Game Awards 2026 znów zaskoczy graczy?",
+      "sourceUrl": "https://www.ppe.pl/news/433509/nominacje-do-najwazniejszych-nagrod-w-swiecie-gier-wideo-ogloszone-the-game-awards-2026-znow-zaskoczy-graczy.html",
+      "publishedAt": "2026-11-17T18:16+01:00",
+      "summary": "Rozpoczyna się najważniejszy czas w roku w świecie gier wideo. Wiemy, kto ma szansę, aby uzyskać miano Gry Roku 2026, ponieważ ujawniono nominacje do tegorocznej edycji słynnego plebiscytu The Game Awards.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Sony zwyciężyło. Zdaniem sądu firma wcale nie ma monopolu na sprzedaż gier na swojej platformie",
+      "sourceUrl": "https://cdaction.pl/newsy/sony-zwyciezylo-zdaniem-sadu-firma-wcale-nie-ma-monopolu-na-sprzedaz-gier-na-swojej-platformie/",
+      "publishedAt": "2026-11-17T18:15+01:00",
+      "summary": "Pozew w Wielkiej Brytanii przepadł, ale nie wszystko stracone.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/playstation-5905.jpg"
     },
     {
       "sourceName": "PPE",
