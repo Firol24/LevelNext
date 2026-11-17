@@ -1,17 +1,86 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T13:01+01:00",
+  "updatedAt": "2026-11-17T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Polskie RPG o wampirach dostało dużą aktualizację. The Blood of Dawnwalker wreszcie z trybem Nowej Gry Plus",
-    "summary": "Wraz z nową aktualizacją The Blood of Dawnwalker otrzymał tryb New Game+. Dzięki niemu gracze mogą ponownie przejść grę, zachowując część postępów z poprzedniej rozgrywki. Informacja Polskie RPG o wampirach dostało dużą aktualizację. The Blood of Dawnwalker wreszcie z trybem Nowej Gry Plus została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/polskie-rpg-o-wampirach-dostalo-duza-aktualizacje-the-blood-of-da/z632377",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532613928.jpg"
+    "category": "PROMOCJE",
+    "title": "Pizza Possum na PC za jedyne 2,35 zł w Kinguinie. Historycznie najniższa cena za klucz Steam!",
+    "summary": "Pizza Possum, czyli urocza, zręcznościowa gra akcji, z elementami skradanki, w której wcielicie się w oposa głodomora, dostępna jest teraz w rewelacyjnie niskiej cenie w sklepie Kinguin. Pecetowe wydanie produkcji, kosztuje teraz zaledwie 2,35 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/keyshopy/pizza-possum-na-pc-za-jedyne-235-zl-w-kinguinie-historycznie-najnizsza-cena-za-klucz-steam/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/09/Pizza-Possum_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pizza Possum na PC za jedyne 2,35 zł w Kinguinie. Historycznie najniższa cena za klucz Steam!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/pizza-possum-na-pc-za-jedyne-235-zl-w-kinguinie-historycznie-najnizsza-cena-za-klucz-steam/",
+      "publishedAt": "2026-11-17T13:56+01:00",
+      "summary": "Pizza Possum, czyli urocza, zręcznościowa gra akcji, z elementami skradanki, w której wcielicie się w oposa głodomora, dostępna jest teraz w rewelacyjnie niskiej cenie w sklepie Kinguin. Pecetowe wydanie produkcji, kosztuje teraz zaledwie 2,35 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/09/Pizza-Possum_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "DOOM: The Dark Ages z nowym i darmowym trybem! To pierwsza gra, która wykorzystuje rewolucyjną technologię AMD",
+      "sourceUrl": "https://www.ppe.pl/news/433491/doom-the-dark-ages-z-nowym-i-darmowym-trybem-to-pierwsza-gra-ktora-wykorzystuje-rewolucyjna-technologie-amd.html",
+      "publishedAt": "2026-11-17T13:55+01:00",
+      "summary": "Studio id Software wdrożyło na serwery potężną, piątą aktualizację do DOOM: The Dark Ages. Głównym fundamentem łatki pozostaje wyczekiwany tryb Slaughter Mode.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "80 godzin tygodniowo przez 3 miesiące. Były programista id Software o tworzeniu Dooma i zwolnieniach Microsoftu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/80-godzin-tygodniowo-przez-3-miesiace-byly-programista-id-softwar/z332374",
+      "publishedAt": "2026-11-17T13:50+01:00",
+      "summary": "Zwolnienia w id Software nie były zaskoczeniem dla twórców, ale były pracownik nadal uważa to za niezrozumiały błąd Microsoftu. Informacja 80 godzin tygodniowo przez 3 miesiące. Były programista id Software o tworzeniu Dooma i zwolnieniach Microsoftu została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532612789.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wróciłem po 20 latach i odnalazłem świat, w którym zostawiłem kawałek serca. World of Warcraft: Forever przywraca magię, której nie da się zastąpić grafiką",
+      "sourceUrl": "https://www.gry-online.pl/opinie/w-wow-forever-spotkalem-graczy-ktorzy-zamiast-ratowac-azeroth-wol/z349db",
+      "publishedAt": "2026-11-17T13:36+01:00",
+      "summary": "World of Warcraft Forever pozwolił mi wrócić do krain, w których zostawiłem serce – to piękny sposób relaksującą rozgrywkę, jeśli tylko skorzystamy z wolniejszego tempa gry. Oto historia o tym, jak życie powróciło do WoW-a. Informacja Wróciłem po 20 latach i odnalazłem świat, w którym zostawiłem kawałek serca. World of Warcraft: Forever przywraca magię, której nie da się zastąpić grafiką została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zbierasz pudełka z grami? Xbox Project Helix zagwarantuje ich działanie przez kolejne 30 lat",
+      "sourceUrl": "https://www.ppe.pl/news/433489/zbierasz-pudelka-z-grami-xbox-project-helix-zagwarantuje-ich-dzialanie-przez-kolejne-30-lat.html",
+      "publishedAt": "2026-11-17T13:36+01:00",
+      "summary": "Microsoft drastycznie przesuwa granice wstecznej kompatybilności. Wiceprezes działu Next Generation przerwał milczenie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Premiera GTA 6 za niecałe 24 godziny. Pierwsi gracze zaczną już jutro w południe polskiego czasu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/premiera-gta-6-za-niecale-24-godziny-pierwsi-gracze-zaczna-juz-ju/z832379",
+      "publishedAt": "2026-11-17T13:35+01:00",
+      "summary": "Pierwsi gracze zagrają w GTA VI za mniej niż dobę. Najnowsza odsłona serii Grand Theft Auto najpierw pojawi się w Nowej Zelandii, a potem w pozostałych częściach świata. Informacja Premiera GTA 6 za niecałe 24 godziny. Pierwsi gracze zaczną już jutro w południe polskiego czasu została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532614835.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Uczniowie Hogwartu na nowych plakatach z „Harry’ego Pottera”. Serialowy Malfoy zapowiada głębsze spojrzenie na swoją postać",
+      "sourceUrl": "https://cdaction.pl/kultura/uczniowie-hogwartu-na-nowych-plakatach-z-harryego-pottera-serialowy-malfoy-zapowiada-glebsze-spojrzenie-na-swoja-postac/",
+      "publishedAt": "2026-11-17T13:30+01:00",
+      "summary": "Będzie go zdecydowanie więcej na ekranie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Harry-Potter.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO ICONS Gwiazda Betlejemska za 149 zł (cena katalogowa 209,99 zł) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-icons-gwiazda-betlejemska-za-149-zl-cena-katalogowa-20999-zl-w-media-expert/",
+      "publishedAt": "2026-11-17T13:30+01:00",
+      "summary": "Korzystając z kodu zniżkowego, możecie kupić nieco taniej LEGO Icons Gwiazda Betlejemska w Media Expert. Sklep oferuje składający się z 608 elementów set, z którego złożycie poinsecję będącą częścią botanicznej kolekcji z duńskich klocków, za 149 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/11/LEGO-Icons-gwiazda-betlejemska-logo-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Polskie RPG o wampirach dostało dużą aktualizację. The Blood of Dawnwalker wreszcie z trybem Nowej Gry Plus",
@@ -20,6 +89,23 @@
       "summary": "Wraz z nową aktualizacją The Blood of Dawnwalker otrzymał tryb New Game+. Dzięki niemu gracze mogą ponownie przejść grę, zachowując część postępów z poprzedniej rozgrywki. Informacja Polskie RPG o wampirach dostało dużą aktualizację. The Blood of Dawnwalker wreszcie z trybem Nowej Gry Plus została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532613928.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Akcesoria Logitech G w promocji w RTV Euro AGD. Wystartowała wyprzedaż z okazji Black Friday",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/akcesoria-logitech-g-w-promocji-w-rtv-euro-agd-wystartowala-wyprzedaz-z-okazji-black-friday/",
+      "publishedAt": "2026-11-17T13:17+01:00",
+      "summary": "Black Friday 2026 coraz bliżej, dlatego też kolejne sklepy i firmy dołączają do wyprzedażowej gorączki. Dziś w sklepie RTV Euro AGD obniżono ceny wybranych produktów szwajcarskiej firmy Logitech. W nadchodzących dniach taniej zakupić możecie myszki, klawiatury, słuchawki i kierownice. Jeśli polujecie akurat na gamingowe akcesoria, ta oferta jest dla Was! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/logitech_black_friday_2026_logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Half-Life 3 nadchodzi? Geoff Keighley wymowie przerywa milczenie",
+      "sourceUrl": "https://www.ppe.pl/news/433488/half-life-3-nadchodzi-geoff-keighley-wymowie-przerywa-milczenie.html",
+      "publishedAt": "2026-11-17T13:15+01:00",
+      "summary": "Tegoroczna, 22. rocznica premiery Half-Life 2 uruchomiła potężną lawinę spekulacji. Geoff Keighley wystąpił w najnowszym, okolicznościowym materiale wideo.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -38,6 +124,15 @@
       "summary": "Sony udostępniło nową aktualizację dla Wersja 26.07-14.23.00 wprowadza poprawki zabezpieczeń konsoli, które mogą mieć związek z ostatnimi osiągnięciami hakerów. Informacja Sony nie chce dopuścić do sytuacji, w której GTA 6 trafi na PC bez zgody Rockstara. Nowa aktualizacja PS5 zawiera poprawki bezpieczeństwa została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532612968.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Cyberpunk 2077 coraz bliżej fanowskiego multiplayera. Ruszyła otwarta beta moda",
+      "sourceUrl": "https://cdaction.pl/newsy/cyberpunk-2077-coraz-blizej-fanowskiego-multiplayera-ruszyla-otwarta-beta-moda/",
+      "publishedAt": "2026-11-17T13:00+01:00",
+      "summary": "CyberMP powstaje już od sześciu lat i po raz pierwszy jego twórcy uruchomili w pełni otwarte beta-testy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Cyberpunk-2077.jpg"
     },
     {
       "sourceName": "PPE",
