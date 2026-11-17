@@ -253,7 +253,7 @@ h1,h2,h3{line-height:1.25}
 
 
 /* LOGO LEVEL NEXT: ORYGINALNY WYGLAD, BEZ EKSTRUZJI 3D */
-.masthead>.logo{
+.masthead .logo{
   display:block;
   width:320px;
   max-width:85%;
@@ -265,7 +265,7 @@ h1,h2,h3{line-height:1.25}
   transform:none;
   animation:none;
 }
-@media(max-width:620px){.masthead>.logo{width:280px}}
+@media(max-width:620px){.masthead .logo{width:280px}}
 
 /* FORUM LEVEL NEXT / KOMIKSOWA NAKLEJKA NEW */
 .nav a.nav-forum{position:relative;overflow:visible}
