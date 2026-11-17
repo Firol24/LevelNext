@@ -45,6 +45,23 @@
       }
 
       var api = "https://levelnext-forum-api.filipiakr245.workers.dev";
+      // Token z fragmentu OAuth zapisujemy lokalnie. Fragment nie trafia do logów serwera.
+      try {
+        var fragment = new URLSearchParams(window.location.hash.replace(/^#/, ""));
+        var incomingToken = fragment.get("ln_session");
+        if (incomingToken) {
+          window.localStorage.setItem("ln_session", incomingToken);
+          window.history.replaceState(null, document.title, window.location.pathname + window.location.search);
+        }
+      } catch (error) {}
+      function sessionHeaders() {
+        var headers = { "Accept": "application/json" };
+        try {
+          var token = window.localStorage.getItem("ln_session");
+          if (token) headers.Authorization = "Bearer " + token;
+        } catch (error) {}
+        return headers;
+      }
       function showGuest() {
         account.replaceChildren();
         var label = document.createElement("span");
@@ -67,9 +84,10 @@
           logout.disabled = true;
           fetch(api + "/auth/logout", {
             method: "POST",
-            credentials: "include"
+            headers: sessionHeaders()
           }).then(function (response) {
             if (!response.ok) throw new Error("Logout failed");
+            try { window.localStorage.removeItem("ln_session"); } catch (error) {}
             showGuest();
             document.dispatchEvent(new CustomEvent("levelnext:authchange", { detail: { authenticated: false } }));
           }).catch(function () {
@@ -82,8 +100,7 @@
 
       account.textContent = "SPRAWDZANIE KONTA...";
       fetch(api + "/api/me", {
-        credentials: "include",
-        headers: { "Accept": "application/json" }
+        headers: sessionHeaders()
       }).then(function (response) {
         return response.json().then(function (data) {
           if (response.ok && data.authenticated && data.user) showUser(data.user);
