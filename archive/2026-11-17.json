@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T19:01+01:00",
+  "updatedAt": "2026-11-17T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Lucia z GTA 6 Lucia pokazała prawdziwą twarz, potwierdzając domysły fanów. Jason to jednak wciąż tajemnica",
-    "summary": "Aktorka, którą gracze podejrzewali o wcielanie się w Lucię z GTA 6, została oficjalnie potwierdzona. Na podobna informację w sprawie Jasona poczekamy zapewne do premiery gry Rockstar Games. Informacja Lucia z GTA 6 Lucia pokazała prawdziwą twarz, potwierdzając domysły fanów. Jason to jednak wciąż tajemnica została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/na-25-dni-przed-premiera-gta-6-lucia-pokazala-prawdziwa-twarz-gra/za320ad",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/530617115.jpg"
+    "title": "Game Pass na przełom listopada i grudnia 2026. Tylko 4 nowości, za to Microsoft zabierze aż 8 gier, w tym 2 perełki",
+    "summary": "Oferta Game Passa na przełom listopada i grudnia zdecydowanie nie powala. Zwłaszcza że z abonamentu wypadną tytuły takie jak Aliens: Dark Descent i Banishers: Ghosts of New Eden. Informacja Game Pass na przełom listopada i grudnia 2026. Tylko 4 nowości, za to Microsoft zabierze aż 8 gier, w tym 2 perełki została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/game-pass-na-przelom-listopada-i-grudnia-2026-tylko-4-nowosci-za/z832388",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532640041.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Game Pass na przełom listopada i grudnia 2026. Tylko 4 nowości, za to Microsoft zabierze aż 8 gier, w tym 2 perełki",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/game-pass-na-przelom-listopada-i-grudnia-2026-tylko-4-nowosci-za/z832388",
+      "publishedAt": "2026-11-17T20:34+01:00",
+      "summary": "Oferta Game Passa na przełom listopada i grudnia zdecydowanie nie powala. Zwłaszcza że z abonamentu wypadną tytuły takie jak Aliens: Dark Descent i Banishers: Ghosts of New Eden. Informacja Game Pass na przełom listopada i grudnia 2026. Tylko 4 nowości, za to Microsoft zabierze aż 8 gier, w tym 2 perełki została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532640041.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Lucia z GTA 6 Lucia pokazała prawdziwą twarz, potwierdzając domysły fanów. Jason to jednak wciąż tajemnica",
@@ -20,6 +29,23 @@
       "summary": "Aktorka, którą gracze podejrzewali o wcielanie się w Lucię z GTA 6, została oficjalnie potwierdzona. Na podobna informację w sprawie Jasona poczekamy zapewne do premiery gry Rockstar Games. Informacja Lucia z GTA 6 Lucia pokazała prawdziwą twarz, potwierdzając domysły fanów. Jason to jednak wciąż tajemnica została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/530617115.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Wiedźmin 3: Pieśni przeszłości nie będzie taki mroczny jak pozostałe części. Twórcy chcą kojącej opowieści",
+      "sourceUrl": "https://cdaction.pl/newsy/wiedzmin-3-piesni-przeszlosci-nie-bedzie-taki-mroczny-jak-pozostale-czesci-tworcy-chca-kojacej-opowiesci/",
+      "publishedAt": "2026-11-17T19:45+01:00",
+      "summary": "Lekko mordercza sielanka.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/wiedzmin3-piesni-przeszlosci-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "NVIDIA DLSS 4.5 trafia do kolejnych gier! Wyglądają obłędnie, a to nie koniec nowości",
+      "sourceUrl": "https://www.ppe.pl/news/433506/nvidia-dlss-4-5-trafia-do-kolejnych-gier-wygladaja-oblednie-a-to-nie-koniec-nowosci.html",
+      "publishedAt": "2026-11-17T19:45+01:00",
+      "summary": "NVIDIA rozszerza wsparcie dla DLSS 4.5. Najnowsza wersja technologii trafia do kolejnych gier i aplikacji, a wśród najważniejszych nowości znalazły się EVE Vanguard, Assetto Corsa Rally, Lightyear Frontier oraz Teardown.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -38,6 +64,41 @@
       "summary": "Źle się dzieje w Firaxis Games. Po kiepsko przyjętej Cywilizacji 7 studio dotknęły zwolnienia, a jego kolejna gra, nowa odsłona serii XCOM, ma ponoć spore problemy. Informacja Na 2 dni przed premierą GTA 6 wydawca przeprowadza duże zwolnienia u twórców Civilization 7. Nowy XCOM ma spore problemy została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532635406.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Poznaliśmy nominacje do The Game Awards 2026. Czy GTA VI zdominuje growe Oscary?",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/poznalismy-nominacje-do-the-game-awards-2026-czy-gta-vi-zdominuje-growe-oscary/",
+      "publishedAt": "2026-11-17T19:16+01:00",
+      "summary": "Łowcy, data The Game Awards 2026 od dawna nie jest żadną tajemnicą. Najnowsza, 13. edycja wręczenia growych Oscarów odbędzie się 10 grudnia 2026 roku. Na galę oficjalnie zaprosił nas Geoff Keighley, będący prowadzącym całego wydarzenia. Kanadyjski dziennikarz ogłosił dziś (17 listopada) rozpoczęcie głosowania, w ramach którego gracze z całego świata mogą wybierać swoich ulubieńców w aż 30 kategoriach i mieć pewien wpływ na ostateczne rozstrzygnięcia. Jeśli chcecie zobaczyć pełną listę produkcji nominowanych do najbardziej prestiżowej nagrody dla najlepszej gry roku 2026, to zapraszamy Was do dalszej części wpisu 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Kiedy-i-gdzie-obejrzec-The-Game-Awards-2026_-Do-TGA-2026-pozostaly-juz-tylko-cztery-miesiace_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Epic Games rozdaje kolejną świetną grę za darmo! Trzeba się jednak spieszyć",
+      "sourceUrl": "https://www.ppe.pl/news/433508/epic-games-rozdaje-kolejna-swietna-gre-za-darmo-trzeba-sie-jednak-spieszyc.html",
+      "publishedAt": "2026-11-17T19:16+01:00",
+      "summary": "Epic Games Store uruchomił kolejną darmową promocję dla graczy PC.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Godna następczyni FemShep? Exodus, sukcesor Mass Effecta, ujawnia żeńską wersję bohaterki",
+      "sourceUrl": "https://cdaction.pl/newsy/godna-nastepczyni-femshep-exodus-sukcesor-mass-effecta-ujawnia-zenska-wersje-bohaterki/",
+      "publishedAt": "2026-11-17T19:15+01:00",
+      "summary": "Wszyscy, oto FemJun. FemJun, oto wszyscy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/exodus-5500.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "To mógł być prawdziwy pogromca GTA VI, a tymczasem Shrek 2 Remastered cuchnie bagnem [RECENZJA]",
+      "sourceUrl": "https://cdaction.pl/recenzje/to-mogl-byc-prawdziwy-pogromca-gta-vi-a-tymczasem-shrek-2-remastered-cuchnie-bagnem-recenzja/",
+      "publishedAt": "2026-11-17T19:08+01:00",
+      "summary": "Nareszcie się doczekaliśmy! Oto najgorętsza premiera roku, wypatrywana z niecierpliwością przez całą branżę. Po ponad dwóch dekadach możemy ponownie zasiąść przed ekranami i odwiedzić miasto, w którym jako dzieci spędzaliśmy niezliczone godziny na doskonałej zabawie. Mowa oczywiście o Zasiedmiogórogrodzie i remasterze Shreka 2. Myśleliście o czymś innym?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/apps.61896.14161901305216430.3a770bf2-5ab9-40ee-bc88-a759b5cde49a-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
