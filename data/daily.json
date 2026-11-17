@@ -1,16 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T07:01+01:00",
+  "updatedAt": "2026-11-17T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nowy James Bond zachwycił Denisa Villeneuve’a! Robert Pattinson „ma duszę agenta 007”",
-    "summary": "Robert Pattinson został nowym Jamesem Bondem, a teraz poznaliśmy pierwsze komentarze twórców dotyczące tej decyzji. Denis Villeneuve, który odpowiada za przygotowanie kolejnej odsłony kultowej serii, nie ukrywa ogromnego entuzjazmu i przekonuje, ...",
-    "sourceUrl": "https://www.ppe.pl/news/433407/nowy-james-bond-zachwycil-denisa-villeneuve-a-robert-pattinson-ma-dusze-agenta-007.html"
+    "title": "Dr. Xbox daje zwolnienia na granie w GTA 6. Świetna akcja Microsoftu",
+    "summary": "Premiera GTA 6 zbliża się wielkimi krokami, a Microsoft postanowił wykorzystać ogromne zainteresowanie produkcją Rockstar Games do przygotowania naprawdę zabawnej akcji. Amerykańska korporacja zachęca graczy, by w najbliższych dniach zapomnieli...",
+    "sourceUrl": "https://www.ppe.pl/news/433380/dr-xbox-daje-zwolnienia-na-granie-w-gta-6-swietna-akcja-microsoftu.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Dr. Xbox daje zwolnienia na granie w GTA 6. Świetna akcja Microsoftu",
+      "sourceUrl": "https://www.ppe.pl/news/433380/dr-xbox-daje-zwolnienia-na-granie-w-gta-6-swietna-akcja-microsoftu.html",
+      "publishedAt": "2026-11-17T07:50+01:00",
+      "summary": "Premiera GTA 6 zbliża się wielkimi krokami, a Microsoft postanowił wykorzystać ogromne zainteresowanie produkcją Rockstar Games do przygotowania naprawdę zabawnej akcji. Amerykańska korporacja zachęca graczy, by w najbliższych dniach zapomnieli...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tajemnicze wydarzenie z GTA 6. Rockstar rozpoczyna wielkie świętowanie",
+      "sourceUrl": "https://www.ppe.pl/news/433408/tajemnicze-wydarzenie-z-gta-6-rockstar-rozpoczyna-wielkie-swietowanie.html",
+      "publishedAt": "2026-11-17T07:30+01:00",
+      "summary": "Rockstar Games nie tylko przeniosło klimat GTA 6 na ulice Miami, ale również rozpoczęło organizowanie specjalnych wydarzeń dla zaproszonych gości. Do miasta przybyli znani streamerzy i twórcy internetowi, którzy mogą poczuć atmosferę nadchod...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ban za wcześniejszą grę w GTA 6 na Xboksach? Fani PS5 mają straszyć graczy przed zmianą regionu",
+      "sourceUrl": "https://www.ppe.pl/news/433409/ban-za-wczesniejsza-gre-w-gta-6-na-xboksach-fani-ps5-maja-straszyc-graczy-przed-zmiana-regionu.html",
+      "publishedAt": "2026-11-17T07:05+01:00",
+      "summary": "Już w czwartek odbędzie się premiera GTA 6, ale posiadacze Xboksów mogą wykorzystać dobrze znaną sztuczkę, by rozpocząć rozgrywkę znacznie wcześniej. Wystarczy zmienić region konsoli na Nową Zelandię, jednak w ostatnich godzinach na platf...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Nowy James Bond zachwycił Denisa Villeneuve’a! Robert Pattinson „ma duszę agenta 007”",
