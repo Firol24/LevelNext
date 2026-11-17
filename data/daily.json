@@ -1,17 +1,34 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T17:01+01:00",
+  "updatedAt": "2026-11-17T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Sony to nie monopolista, a ceny gier w PS Store są w porządku. Wyrok sądu pozwolił PlayStation zaoszczędzić 2 miliardy funtów",
-    "summary": "Sony nie musi wypłacać 2 miliardów funtów odszkodowania. Zapadł wyrok w sprawie wytoczonej japońskiej firmie przez brytyjskich graczy. Informacja Sony to nie monopolista, a ceny gier w PS Store są w porządku. Wyrok sądu pozwolił PlayStation zaoszczędzić 2 miliardy funtów została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/sony-to-nie-monopolista-a-ceny-gier-w-ps-store-sa-w-porzadku-wyro/z332383",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532629430.jpg"
+    "title": "Gracze PC mogą jutro mieć „GTA 6 w domu”. Mocne ulepszenie GTA 5 da im namiastkę nowej gry Rockstar Games",
+    "summary": "Premiera GTA 6 na konsolach już niebawem, ale pecetowi gracze nie muszą bezczynnie czekać na swoją kolej. Dzięki modyfikacjom do poprzedniej odsłony mogą już teraz przetestować mechaniki i rozwiązania, które mają urozmaicić nadchodzącą przygodę. Informacja Gracze PC mogą jutro mieć „GTA 6 w domu”. Mocne ulepszenie GTA 5 da im namiastkę nowej gry Rockstar Games została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-pc-moga-jutro-miec-gta-6-w-domu-mocne-ulepszenie-gta-5-da/z432384",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532633173.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracze PC mogą jutro mieć „GTA 6 w domu”. Mocne ulepszenie GTA 5 da im namiastkę nowej gry Rockstar Games",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-pc-moga-jutro-miec-gta-6-w-domu-mocne-ulepszenie-gta-5-da/z432384",
+      "publishedAt": "2026-11-17T18:41+01:00",
+      "summary": "Premiera GTA 6 na konsolach już niebawem, ale pecetowi gracze nie muszą bezczynnie czekać na swoją kolej. Dzięki modyfikacjom do poprzedniej odsłony mogą już teraz przetestować mechaniki i rozwiązania, które mają urozmaicić nadchodzącą przygodę. Informacja Gracze PC mogą jutro mieć „GTA 6 w domu”. Mocne ulepszenie GTA 5 da im namiastkę nowej gry Rockstar Games została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532633173.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To nie jest zwykły remake. Tomb Raider: Legacy of Atlantis na nowym materiale wideo",
+      "sourceUrl": "https://www.ppe.pl/news/433501/to-nie-jest-zwykly-remake-tomb-raider-legacy-of-atlantis-na-nowym-materiale-wideo.html",
+      "publishedAt": "2026-11-17T17:46+01:00",
+      "summary": "Festiwal Tomb Raider Derby przyniósł niezłe konkrety. Studio Crystal Dynamics ujawniło zakulisowe materiały z produkcji Tomb Raider: Legacy of Atlantis.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Sony to nie monopolista, a ceny gier w PS Store są w porządku. Wyrok sądu pozwolił PlayStation zaoszczędzić 2 miliardy funtów",
@@ -20,6 +37,23 @@
       "summary": "Sony nie musi wypłacać 2 miliardów funtów odszkodowania. Zapadł wyrok w sprawie wytoczonej japońskiej firmie przez brytyjskich graczy. Informacja Sony to nie monopolista, a ceny gier w PS Store są w porządku. Wyrok sądu pozwolił PlayStation zaoszczędzić 2 miliardy funtów została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532629430.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W nadchodzącym RPG-u Dark Heresy pojawi się rasa z Warhammera 40000, o której często zapominają sami twórcy uniwersum",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-nadchodzacym-rpg-u-dark-heresy-pojawi-sie-rasa-z-warhammera-400/z232382",
+      "publishedAt": "2026-11-17T17:39+01:00",
+      "summary": "O tej frakcji w Warhammerze 40000 zapominają często nawet twórcy tej marki. A jednak to właśnie ona pojawi się w nadchodzącym wielkimi krokami Dark Heresy. Informacja W nadchodzącym RPG-u Dark Heresy pojawi się rasa z Warhammera 40000, o której często zapominają sami twórcy uniwersum została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532629405.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Call of Duty mogło trafić do niezbadanej epoki. Infinity Ward pracowało nad nietypową odsłoną",
+      "sourceUrl": "https://www.ppe.pl/news/433505/call-of-duty-moglo-trafic-do-niezbadanej-epoki-infinity-ward-pracowalo-nad-nietypowa-odslona.html",
+      "publishedAt": "2026-11-17T17:30+01:00",
+      "summary": "Call of Duty to seria, która może rozgrywać się wszędzie tam, gdzie jest wojna. Dlatego od lat Infinity Ward i inne zespoły pracujące nad kolejnymi odsłonami nie ograniczają się już do drugowojennych starć, aby oferować graczom widowiskowe ...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "GRY-Online",
@@ -38,6 +72,14 @@
       "summary": "W sieci pojawił się wpis jednego fana LEGO, który ma za zadanie złożyć 125 identycznych egzemplarzy samolotu w formie prezentu świątecznego dla innych pracowników firmy. Informacja Firma wydała 13 tys. dolarów na 125 modeli samolotów z LEGO dla pracowników. Jeden nieszczęśnik musi je wszystkie złożyć została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532625006.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony wygrywa wielki proces o zawyżanie cen w PS Store. Jak na ironię gry na płytach uratowały sytuację",
+      "sourceUrl": "https://www.ppe.pl/news/433507/sony-wygrywa-wielki-proces-o-zawyzanie-cen-w-ps-store-jak-na-ironie-gry-na-plytach-uratowaly-sytuacje.html",
+      "publishedAt": "2026-11-17T17:16+01:00",
+      "summary": "Sony odniosło ważne zwycięstwo w brytyjskim sporze dotyczącym cen gier cyfrowych na PlayStation.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
