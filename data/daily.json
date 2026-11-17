@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T12:27+01:00",
+  "updatedAt": "2026-11-17T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -38,6 +38,39 @@
       "summary": "Sony udostępniło nową aktualizację dla Wersja 26.07-14.23.00 wprowadza poprawki zabezpieczeń konsoli, które mogą mieć związek z ostatnimi osiągnięciami hakerów. Informacja Sony nie chce dopuścić do sytuacji, w której GTA 6 trafi na PC bez zgody Rockstara. Nowa aktualizacja PS5 zawiera poprawki bezpieczeństwa została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532612968.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórca GTA 6 wyśmiewa gry ekskluzywne na PS5 czy XSX",
+      "sourceUrl": "https://www.ppe.pl/news/433483/tworca-gta-6-wysmiewa-gry-ekskluzywne-na-ps5-czy-xsx.html",
+      "publishedAt": "2026-11-17T12:54+01:00",
+      "summary": "To już nie są tylko domysły graczy. Wielki sukces Rockstar Games i fenomen nadchodzącego GTA 6 to nie dzieło przypadku, a efekt bardzo konkretnego i mądrego podejścia do własnych pracowników.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Paladone Figurka lampka Super Mario z ustawieniami jasności i dźwiękiem za 182 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/paladone-figurka-lampka-super-mario-z-ustawieniami-jasnosci-i-dzwiekiem-za-182-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-17T12:42+01:00",
+      "summary": "Licencjonowana figurka z funkcją lampki nocnej, przedstawiająca wąsatego hydraulika, pojawiła się w dobrej cenie w polskim oddziale sklepu Amazon. Cena Super Mario Figural Light, za dystrybucją którego stoi firma Paladone, wynosi 182,12 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/super-mario-figural-light-paladone-1b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kingston NV3 2230 2 TB - test dysku. Może być świetny… albo znacznie gorszy",
+      "sourceUrl": "https://www.ppe.pl/recenzje/422064/kingston-nv3-2230-2-tb-test-dysku-moze-byc-swietny-albo-znacznie-gorszy.html",
+      "publishedAt": "2026-11-17T12:41+01:00",
+      "summary": "Format SSD-ków M.2 2230 przez długi czas był przyrodniczą ciekawostką, ale potem nastała era Steam Decka i innych urządzeń przenośnych, które nieoczekiwanie wprowadziły te filigranowe nośniki do mainstream'u. Tytułowy Kingston NV3 jest nato...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Media przestały szukać taniej sensacji. GTA 6 przedstawiane rzeczowo w największych stacjach TV świata",
+      "sourceUrl": "https://www.ppe.pl/news/433487/media-przestaly-szukac-taniej-sensacji-gta-6-przedstawiane-rzeczowo-w-najwiekszych-stacjach-tv-swiata.html",
+      "publishedAt": "2026-11-17T12:30+01:00",
+      "summary": "Temat gier rzadko przewija się przez media mainstreamowe w innym kontekście niż kontrowersje związane z rzekomym wywoływaniem przemocy przez to medium. Sytuacja się jednak na szczęście zmienia.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "PPE",
