@@ -85,6 +85,70 @@
 }
 @media(prefers-reduced-motion:reduce){.forum-category{transition:none}}
 
+
+/* FORUM: RETRO PORTAL / UKLAD TABELI I KLASYCZNYCH POSTOW */
+.layout{grid-template-columns:178px minmax(0,1fr);gap:9px;padding:9px}
+.rightcol{display:none!important}
+.maincol{gap:9px}
+.forum-welcome{padding:12px 15px;background:linear-gradient(120deg,#251a34,#171020 75%);border:1px solid #76588d;border-left:4px solid var(--yellow);box-shadow:inset 0 0 22px #09050d66}
+.forum-welcome:after{inset:5px;border:1px dotted #76588d}
+.forum-welcome h1{font:bold 22px Georgia,serif;color:#ffdf69;margin:4px 0 6px}
+.forum-welcome p{font:11px/1.55 Verdana,Arial,sans-serif;color:#d8cce3}
+.forum-status{margin-top:8px;padding-top:7px;font-size:9px}
+.forum-burst-sticker{width:56px;height:56px;top:9px;right:12px;font-size:14px}
+#categories .panelhead,#topics .panelhead,#compose-panel .panelhead,#topic-detail-wrap .panelhead{background:linear-gradient(90deg,#49305f,#30203e);border-bottom:2px ridge #9a7ab1;padding:7px 10px}
+#category-list{gap:0!important;border:1px solid #76588d;background:#100b17}
+.forum-category{grid-template-columns:42px minmax(0,1fr) 86px;gap:8px;min-height:58px;padding:7px 9px;background:#1b1326;border:0;border-bottom:1px solid #49305f}
+.forum-category:last-child{border-bottom:0}
+.forum-category:hover,.forum-category[aria-current=true]{background:#30203e;border-left:3px solid #ffdc55;padding-left:6px}
+.forum-category-icon{width:36px;height:36px;background:#100b17;border:1px inset #8e6ba5;color:#ffdf69;font:22px VT323,monospace}
+.forum-category strong{font-size:11px;color:#ffe36c}
+.forum-category small{font-size:9px;color:#cbbbd8}
+.forum-category-count{padding:5px;background:#100b17;border:1px solid #49305f;font-size:8px}
+.forum-table{border:1px solid #76588d;background:#11101a}
+.forum-table-head,.forum-topic-row{display:grid;grid-template-columns:minmax(220px,1fr) 105px 82px 88px 118px;gap:0;align-items:stretch}
+.forum-table-head{background:linear-gradient(#49305f,#30203e);color:#fff0bd;font:bold 9px Verdana,Arial,sans-serif;text-align:center;border-bottom:2px ridge #9a7ab1}
+.forum-table-head span{padding:8px 4px;border-right:1px solid #76588d}
+.forum-table-head span:first-child{text-align:left;padding-left:12px}
+.forum-topic-row{min-height:54px;background:#1d1728;border-bottom:1px solid #49305f;color:#eee8f7}
+.forum-topic-row:nth-child(odd){background:#241b30}
+.forum-topic-row:hover{background:#30264a}
+.forum-topic-name{position:relative;min-width:0;padding:8px 8px 7px 30px;border-right:1px solid #49305f}
+.forum-topic-marker{position:absolute;left:10px;top:10px;color:#ffdc55;font:bold 15px Arial}
+.forum-topic-row:first-of-type .forum-topic-marker{color:#ff667c}
+.forum-topic-name a{display:block;overflow-wrap:anywhere;color:#ffe36c;font:bold 11px Verdana,Arial,sans-serif;text-decoration:none}
+.forum-topic-name a:hover{text-decoration:underline;color:#fff}
+.forum-topic-name small{display:block;margin-top:5px;color:#bcaecb;font:9px Verdana,Arial,sans-serif}
+.forum-cell-author,.forum-cell-number,.forum-cell-date{display:flex;align-items:center;justify-content:center;padding:5px;border-right:1px solid #49305f;text-align:center;font:10px Verdana,Arial,sans-serif;color:#e0d5e9;overflow-wrap:anywhere}
+.forum-cell-number{font:bold 12px 'Courier New',monospace;color:#ffdf69}
+.forum-cell-date{font:9px/1.4 'Courier New',monospace}
+.forum-empty{padding:18px;background:#15101e;border:1px dashed #76588d;color:#d2c5df;font:11px/1.6 Verdana,Arial,sans-serif}
+#topic-detail-wrap .panelbody{padding:0}
+#topic-detail{padding:0;background:#171020}
+.forum-thread-title{padding:12px 14px;background:linear-gradient(90deg,#30203e,#1c1428);border-bottom:2px ridge #76588d}
+.forum-thread-title>a{font:bold 9px 'Courier New',monospace;color:#c8b5dc;text-decoration:none}
+.forum-thread-title h2{margin:9px 0 5px;color:#ffdf69;font:bold 21px Georgia,serif}
+.forum-thread-title .smallprint{color:#cbbbd8}
+.forum-post-card{display:grid;grid-template-columns:142px minmax(0,1fr);margin:0;background:#1c1727;border-bottom:2px ridge #76588d;min-width:0}
+.forum-post-profile{display:flex;flex-direction:column;align-items:center;gap:4px;padding:11px 7px;background:linear-gradient(180deg,#251b34,#171020);border-right:2px ridge #76588d;text-align:center}
+.forum-post-avatar{display:grid;place-items:center;width:76px;height:76px;margin:3px 0 5px;background:#100b17;border:2px ridge #76588d;color:#ffdf69;font:bold 30px Georgia,serif;overflow:hidden}
+.forum-post-avatar img{width:100%;height:100%;object-fit:cover}
+.forum-post-profile>strong{max-width:100%;overflow-wrap:anywhere;color:#fff0bd;font:bold 11px Verdana,Arial,sans-serif}
+.forum-post-profile>small{color:#bcaecb;font:8px Verdana,Arial,sans-serif}
+.forum-post-stars{color:#ffdc55;font:13px Arial,sans-serif;letter-spacing:1px}
+.forum-post-body{min-width:0;display:flex;flex-direction:column;background:#202033}
+.forum-post-bar{display:flex;justify-content:space-between;gap:10px;padding:7px 10px;background:linear-gradient(90deg,#26384b,#1b2938);border-bottom:1px solid #416079;color:#d9e7ef;font:9px 'Courier New',monospace}
+.forum-post-bar strong{color:#ffdf69}
+.forum-post-content{min-height:110px;padding:12px 13px;color:#eeeaf2;font:12px/1.7 Verdana,Arial,sans-serif;white-space:pre-wrap;overflow-wrap:anywhere}
+.forum-post-actions{padding:0 10px 9px}
+.forum-action{background:#30203e;border:1px outset #8e6ba5;color:#ffdf69}
+.forum-reply-form{margin:12px;padding:12px;background:#21172c;border:1px solid #76588d}
+.forum-reply-form textarea{min-height:120px}
+#topics .panelbody{padding:0!important}
+#compose-panel .panelbody{padding:12px}
+@media(max-width:900px){.layout{grid-template-columns:150px minmax(0,1fr)}.forum-table-head,.forum-topic-row{grid-template-columns:minmax(180px,1fr) 90px 70px 80px}.forum-table-head span:nth-child(4),.forum-topic-row>*:nth-child(4){display:none}}
+@media(max-width:650px){.layout{display:flex;flex-direction:column;padding:6px}.leftcol{width:100%;order:2}.maincol{width:100%;order:1}.forum-table-head,.forum-topic-row{grid-template-columns:minmax(0,1fr) 76px 64px}.forum-table-head span:nth-child(4),.forum-table-head span:nth-child(5),.forum-topic-row>*:nth-child(4),.forum-topic-row>*:nth-child(5){display:none}.forum-table-head span:nth-child(2){font-size:8px}.forum-topic-name{padding-left:25px}.forum-topic-marker{left:7px}.forum-post-card{grid-template-columns:82px minmax(0,1fr)}.forum-post-profile{padding:8px 4px}.forum-post-avatar{width:54px;height:54px;font-size:22px}.forum-post-profile>strong{font-size:9px}.forum-post-stars{font-size:10px}.forum-post-content{padding:9px;font-size:11px}.forum-thread-title h2{font-size:18px}.forum-burst-sticker{width:48px;height:48px;font-size:12px}.forum-welcome h1{font-size:19px;padding-right:48px}}
+@media(prefers-reduced-motion:reduce){.forum-burst-sticker{animation:none}}
 </style></head><body><div class="site">
 <div class="topline"><span>● LEVEL NEXT / FORUM SPOŁECZNOŚCI</span><span id="clock">ŁĄCZENIE...</span></div>
 <header class="masthead"><div class="logo-stage"><a href="index.html"><img class="logo" src="logo.png" alt="LEVEL NEXT"></a></div><div class="brand-note">Gry, sprzęt i trochę internetu.<br>Moje miejsce w sieci.</div></header>
@@ -142,14 +206,27 @@ function drawCategories(items){
  const select=$('new-topic-category');if(select){select.replaceChildren();items.forEach(c=>{const o=document.createElement('option');o.value=c.slug;o.textContent=c.name;select.append(o);});}
 }
 function drawTopics(data){
- $('topic-count').textContent='TEMATY / '+String(data.total||0).padStart(2,'0');const list=$('topic-list');list.replaceChildren();
- if(!data.topics?.length){const e=document.createElement('div');e.className='forum-empty';e.textContent=active?'W tym dziale nie ma jeszcze tematów. To dobre miejsce na pierwszy wątek.':'Forum czeka na pierwsze tematy. Rozpocznij pierwszą dyskusję.';list.append(e);return;}
- data.topics.forEach(t=>{
-  const row=document.createElement('div');row.className='forum-topic';const info=document.createElement('div'),a=document.createElement('a'),meta=document.createElement('small');
-  a.href='forum.html?topic='+encodeURIComponent(t.id);a.textContent=t.title;meta.textContent=[t.category_name||t.category,t.username||t.author,t.created_at].filter(Boolean).join(' · ');info.append(a,meta);
-  const count=document.createElement('div');count.className='forum-topic-meta';count.textContent=(t.post_count||0)+' POSTÓW';
-  const last=document.createElement('div');last.className='forum-topic-meta';last.textContent=t.last_post_at||'NOWY TEMAT';row.append(info,count,last);list.append(row);
+ $('topic-count').textContent='TEMATY / '+String(data.total||0).padStart(2,'0');
+ const list=$('topic-list');list.replaceChildren();
+ const table=document.createElement('div');table.className='forum-table';
+ const head=document.createElement('div');head.className='forum-table-head';
+ ['TEMAT','AUTOR','ODPOWIEDZI','WYŚWIETLENIA','OSTATNIA AKTYWNOŚĆ'].forEach((label,i)=>{const cell=document.createElement('span');cell.textContent=label;cell.className='forum-col-'+i;head.append(cell);});
+ table.append(head);
+ if(!data.topics?.length){const e=document.createElement('div');e.className='forum-empty';e.textContent=active?'W tym dziale nie ma jeszcze tematów. Możesz rozpocząć pierwszą dyskusję.':'Forum czeka na pierwsze tematy. Rozpocznij pierwszą dyskusję.';table.append(e);list.append(table);return;}
+ data.topics.forEach((t,i)=>{
+  const row=document.createElement('div');row.className='forum-topic-row';
+  const topic=document.createElement('div');topic.className='forum-topic-name';
+  const marker=document.createElement('span');marker.className='forum-topic-marker';marker.textContent=i===0?'!':'›';
+  const a=document.createElement('a');a.href='forum.html?topic='+encodeURIComponent(t.id);a.textContent=t.title;
+  const sub=document.createElement('small');sub.textContent=[t.category_name||t.category,t.created_at].filter(Boolean).join(' · ');
+  topic.append(marker,a,sub);
+  const author=document.createElement('span');author.className='forum-cell-author';author.textContent=t.username||t.author||'Użytkownik';
+  const replies=document.createElement('span');replies.className='forum-cell-number';replies.textContent=Math.max(0,(Number(t.post_count)||1)-1);
+  const views=document.createElement('span');views.className='forum-cell-number';views.textContent=t.views??'—';
+  const last=document.createElement('span');last.className='forum-cell-date';last.textContent=t.last_post_at||t.created_at||'—';
+  row.append(topic,author,replies,views,last);table.append(row);
  });
+ list.append(table);
 }
 async function loadTopics(slug='',name='OSTATNIE TEMATY'){
  $('topic-heading').textContent=slug?name.toUpperCase():'OSTATNIE TEMATY';$('topic-list').innerHTML='<div class="forum-loading">WCZYTYWANIE TEMATÓW...</div>';
@@ -171,26 +248,44 @@ async function account(){
 }
 function renderTopic(d){
  const wrap=$('topic-detail-wrap'),box=$('topic-detail');wrap.hidden=false;box.replaceChildren();
- const topic=d.topic,h=document.createElement('h2');h.textContent=topic.title;box.append(h);
- const meta=document.createElement('p');meta.className='smallprint';meta.textContent=[topic.category_name||topic.category,topic.username||topic.author,topic.created_at].filter(Boolean).join(' · ');box.append(meta);
+ const topic=d.topic;
+ const top=document.createElement('div');top.className='forum-thread-title';
+ const back=document.createElement('a');back.href='forum.html';back.textContent='‹ POWRÓT DO LISTY TEMATÓW';top.append(back);
+ const h=document.createElement('h2');h.textContent=topic.title;top.append(h);
+ const meta=document.createElement('div');meta.className='smallprint';meta.textContent=[topic.category_name||topic.category,topic.created_at].filter(Boolean).join(' · ');top.append(meta);box.append(top);
  if(currentUser&&topic.user_id===currentUser.id){
   const edit=document.createElement('button');edit.className='forum-action';edit.textContent='EDYTUJ TYTUŁ';edit.onclick=async()=>{const title=prompt('Nowy tytuł tematu:',topic.title);if(title===null)return;try{await request('/api/topics/'+topic.id,{method:'PATCH',body:JSON.stringify({title})});await openTopic(topic.id);}catch(e){alert(e.message);}};
   const del=document.createElement('button');del.className='forum-action';del.textContent='USUŃ TEMAT';del.onclick=async()=>{if(!confirm('Usunąć cały temat i wszystkie odpowiedzi?'))return;try{await request('/api/topics/'+topic.id,{method:'DELETE'});location.href='forum.html';}catch(e){alert(e.message);}};
-  box.append(edit,del);
+  top.append(edit,del);
  }
- (d.posts||[]).forEach(p=>{
-  const el=document.createElement('div');el.className='forum-post';const author=document.createElement('strong');author.textContent=(p.username||p.author||'Użytkownik')+' · '+(p.created_at||'');el.append(author,document.createElement('br'));const content=document.createElement('span');content.textContent=p.content;el.append(content);
+ (d.posts||[]).forEach((p,i)=>{
+  const post=document.createElement('article');post.className='forum-post-card';
+  const profile=document.createElement('aside');profile.className='forum-post-profile';
+  const avatar=document.createElement('div');avatar.className='forum-post-avatar';
+  if(p.avatar_url){const img=document.createElement('img');img.src=p.avatar_url;img.alt='';avatar.append(img);}else avatar.textContent=(p.username||p.author||'U').trim().charAt(0).toUpperCase();
+  const name=document.createElement('strong');name.textContent=p.username||p.author||'Użytkownik';
+  const rank=document.createElement('small');rank.textContent=i===0?'AUTOR TEMATU':'UŻYTKOWNIK';
+  const stars=document.createElement('div');stars.className='forum-post-stars';stars.textContent='★ ★ ★';
+  profile.append(avatar,name,rank,stars);
+  const body=document.createElement('div');body.className='forum-post-body';
+  const bar=document.createElement('div');bar.className='forum-post-bar';
+  const number=document.createElement('strong');number.textContent='WIADOMOŚĆ #'+(i+1);
+  const date=document.createElement('time');date.textContent=p.created_at||'';
+  bar.append(number,date);
+  const content=document.createElement('div');content.className='forum-post-content';content.textContent=p.content;
+  body.append(bar,content);
   if(currentUser&&p.user_id===currentUser.id){
+   const actions=document.createElement('div');actions.className='forum-post-actions';
    const edit=document.createElement('button');edit.className='forum-action';edit.textContent='EDYTUJ';edit.onclick=async()=>{const value=prompt('Edytuj odpowiedź:',p.content);if(value===null)return;try{await request('/api/posts/'+p.id,{method:'PATCH',body:JSON.stringify({content:value})});await openTopic(topic.id);}catch(e){alert(e.message);}};
    const del=document.createElement('button');del.className='forum-action';del.textContent='USUŃ';del.onclick=async()=>{if(!confirm('Usunąć tę odpowiedź?'))return;try{await request('/api/posts/'+p.id,{method:'DELETE'});await openTopic(topic.id);}catch(e){alert(e.message);}};
-   el.append(edit,del);
+   actions.append(edit,del);body.append(actions);
   }
-  box.append(el);
+  post.append(profile,body);box.append(post);
  });
  if(currentUser){
-  const form=document.createElement('form');form.className='forum-compose';form.style.marginTop='14px';
+  const form=document.createElement('form');form.className='forum-compose forum-reply-form';
   const label=document.createElement('label');label.textContent='TWOJA ODPOWIEDŹ';const area=document.createElement('textarea');area.maxLength=10000;area.required=true;area.placeholder='Napisz odpowiedź...';label.append(area);
-  const button=document.createElement('button');button.className='button';button.type='submit';button.textContent='DODAJ ODPOWIEDŹ »';const status=document.createElement('div');form.append(label,button,status);
+  const button=document.createElement('button');button.className='button';button.type='submit';button.textContent='WYŚLIJ ODPOWIEDŹ »';const status=document.createElement('div');form.append(label,area,button,status);
   form.onsubmit=async e=>{e.preventDefault();button.disabled=true;try{await request('/api/topics/'+topic.id+'/posts',{method:'POST',body:JSON.stringify({content:area.value})});await openTopic(topic.id);}catch(err){status.className='forum-error';status.textContent=err.message;button.disabled=false;}};
   box.append(form);
  }else{const hint=document.createElement('p');hint.className='smallprint';hint.textContent='Zaloguj się przez Discord, aby dodać odpowiedź.';box.append(hint);}
