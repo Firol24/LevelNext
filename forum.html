@@ -15,6 +15,8 @@
 .forum-account{padding:10px;background:#170f20;border:1px inset #76588d}.forum-account strong{color:#ffdf69}.forum-account p{margin:6px 0;color:#cbbbd8;font:10px/1.5 Verdana,Arial,sans-serif}.forum-account .button{width:100%;text-align:center}
 .forum-post{padding:10px 0;border-top:1px dotted #76588d;color:#eee8f7;font:11px/1.6 Verdana,Arial,sans-serif;white-space:pre-wrap}
 @media(max-width:760px){.forum-topic{grid-template-columns:minmax(0,1fr) 70px}.forum-topic-meta:last-child{display:none}}
+
+.forum-compose{display:grid;gap:8px}.forum-compose label{display:grid;gap:4px;color:#cbbbd8;font:10px "Courier New",monospace}.forum-compose input,.forum-compose select,.forum-compose textarea{width:100%;box-sizing:border-box;padding:9px;background:#170f20;border:1px solid #76588d;color:#eee8f7;font:11px Verdana,Arial,sans-serif}.forum-compose textarea{min-height:110px;resize:vertical}.forum-action{display:inline-block;margin:7px 6px 0 0;padding:6px 9px;background:#30203e;border:1px solid #8e6ba5;color:#ffdf69;cursor:pointer;font:10px "Courier New",monospace}.forum-action:hover{border-color:#ffdf69}.forum-message{color:#a9dc75;font:10px "Courier New",monospace}.forum-error{color:#ff8a8a;font:10px "Courier New",monospace}
 </style></head><body><div class="site">
 <div class="topline"><span>● LEVEL NEXT / FORUM SPOŁECZNOŚCI</span><span id="clock">ŁĄCZENIE...</span></div>
 <header class="masthead"><div class="logo-stage"><a href="index.html"><img class="logo" src="logo.png" alt="LEVEL NEXT"></a></div><div class="brand-note">Gry, sprzęt i trochę internetu.<br>Moje miejsce w sieci.</div></header>
@@ -28,6 +30,7 @@
 <div class="col maincol">
 <section class="forum-welcome"><span class="forum-burst-sticker" aria-label="Nowe forum">NEW!<small>ONLINE</small></span><span class="tag">LEVEL NEXT COMMUNITY / 001</span><h1>WITAJ NA FORUM LEVEL NEXT</h1><p>Miejsce rozmów o grach, starym sprzęcie, muzyce, internecie i projektach społeczności. Rozgość się, znajdź swój dział i dołącz do rozmowy.</p><div class="forum-status"><span><i class="led"></i> SYSTEM FORUM</span><strong id="api-status">ŁĄCZENIE Z API...</strong><span>8 DZIAŁÓW / RETRO COMMUNITY</span></div></section>
 <section class="panel" id="categories"><div class="panelhead"><h2>KATEGORIE</h2><small>WYBIERZ DZIAŁ</small></div><div class="panelbody"><div id="category-list" class="col" style="gap:6px"><div class="forum-loading">ŁADOWANIE KATEGORII...</div></div></div></section>
+<section class="panel" id="compose-panel" hidden><div class="panelhead"><h2>NOWY TEMAT</h2><small>ROZPOCZNIJ DYSKUSJĘ</small></div><div class="panelbody"><form class="forum-compose" id="create-topic-form"><label>KATEGORIA<select id="new-topic-category" required></select></label><label>TYTUŁ TEMATU<input id="new-topic-title" maxlength="120" minlength="3" required placeholder="O czym chcesz porozmawiać?"></label><label>WIADOMOŚĆ<textarea id="new-topic-content" maxlength="10000" required placeholder="Napisz pierwszą wiadomość..."></textarea></label><button class="button" type="submit">OPUBLIKUJ TEMAT »</button><div id="create-topic-message" aria-live="polite"></div></form></div></section>
 <section class="panel" id="topics"><div class="panelhead"><h2 id="topic-heading">OSTATNIE TEMATY</h2><small id="topic-count">TEMATY / 00</small></div><div class="panelbody" style="padding:0"><div id="topic-list"><div class="forum-loading">ŁADOWANIE TEMATÓW...</div></div></div></section>
 <section class="panel" id="topic-detail-wrap" hidden><div class="panelhead"><h2>TEMAT</h2><small>WĄTEK</small></div><div class="panelbody" id="topic-detail"></div></section>
 </div>
@@ -38,15 +41,105 @@
 <footer class="footer"><a class="smallprint" href="index.html">← POWRÓT NA STRONĘ GŁÓWNĄ</a><br><div class="copyright-line"><span>© 2025-2026 LEVEL NEXT // FORUM</span><img class="footer-copyright-gif" src="https://lostmedia.cc/gify/copyright.gif?v=2" alt="Copyright"></div><br><span class="smallprint">FORUM W TRAKCIE ROZBUDOWY</span><div class="retro-badges"><div class="badge-row"><img src="https://lostmedia.cc/gify/made_with_windows.gif?v=2" width="88" height="31" alt="Made with Windows"><img src="https://lostmedia.cc/gify/best_viewed.gif?v=2" width="88" height="31" alt="Best viewed"></div><span class="badge-caption">POZDROWIENIA DLA WSZYSTKICH, KTÓRZY TU ZAJRZELI</span></div></footer>
 </div>
 <script src="site.js?v=16"></script>
+
 <script>
-(()=>{const API='https://levelnext-forum-api.filipiakr245.workers.dev',$=id=>document.getElementById(id);let active='';
-async function get(path){const r=await fetch(API+path,{credentials:'include',headers:{Accept:'application/json'}});const d=await r.json();if(!r.ok||d.success===false)throw new Error(d.error||'Błąd API');return d;}
+(()=>{
+const API='https://levelnext-forum-api.filipiakr245.workers.dev';
+const $=id=>document.getElementById(id);
+let active='',categories=[],currentUser=null;
+async function request(path,options={}) {
+ const response=await fetch(API+path,{credentials:'include',headers:{Accept:'application/json',...(options.body?{'Content-Type':'application/json'}:{}),...(options.headers||{})},...options});
+ let data={};try{data=await response.json();}catch{}
+ if(!response.ok||data.success===false)throw new Error(data.error||('HTTP '+response.status));
+ return data;
+}
 function setStatus(ok,msg){$('api-status').textContent=msg;$('api-status-side').textContent=ok?'ONLINE':'OFFLINE';$('api-status-side').style.color=ok?'#a9dc75':'#ff8a8a';}
-function drawCategories(items){$('category-total').textContent=items.length;const list=$('category-list');list.replaceChildren();items.forEach((c,i)=>{const a=document.createElement('a');a.className='forum-category';a.href='#topics';if(c.slug===active)a.setAttribute('aria-current','true');const icon=document.createElement('span');icon.className='forum-category-icon';icon.textContent=String(i+1).padStart(2,'0');const info=document.createElement('span'),name=document.createElement('strong'),desc=document.createElement('small');name.textContent=c.name;desc.textContent=c.description||'Dyskusje społeczności';info.append(name,desc);const arrow=document.createElement('span');arrow.className='forum-category-count';arrow.textContent='OTWÓRZ »';a.append(icon,info,arrow);a.onclick=e=>{e.preventDefault();active=c.slug;drawCategories(items);loadTopics(c.slug,c.name);};list.append(a);});}
-function drawTopics(data){$('topic-count').textContent='TEMATY / '+String(data.total||0).padStart(2,'0');const list=$('topic-list');list.replaceChildren();if(!data.topics?.length){const e=document.createElement('div');e.className='forum-empty';e.textContent=active?'W tym dziale nie ma jeszcze tematów. To dobre miejsce na pierwszy wątek.':'Forum czeka na pierwsze tematy. Wkrótce będzie można rozpocząć dyskusję.';list.append(e);return;}data.topics.forEach(t=>{const row=document.createElement('div');row.className='forum-topic';const info=document.createElement('div'),a=document.createElement('a'),meta=document.createElement('small');a.href='forum.html?topic='+encodeURIComponent(t.id);a.textContent=t.title;meta.textContent=[t.category_name,t.username,t.created_at].filter(Boolean).join(' · ');info.append(a,meta);const count=document.createElement('div');count.className='forum-topic-meta';count.textContent=(t.post_count||0)+' POSTÓW';const last=document.createElement('div');last.className='forum-topic-meta';last.textContent=t.last_post_at||'NOWY TEMAT';row.append(info,count,last);list.append(row);});}
-async function loadTopics(slug='',name='OSTATNIE TEMATY'){$('topic-heading').textContent=slug?name.toUpperCase():'OSTATNIE TEMATY';$('topic-list').innerHTML='<div class="forum-loading">WCZYTYWANIE TEMATÓW...</div>';try{drawTopics(await get('/api/topics'+(slug?'?category='+encodeURIComponent(slug):'')));}catch(e){$('topic-list').textContent='Nie udało się pobrać tematów: '+e.message;}}
-function guest(){const box=$('account-box');box.replaceChildren();const s=document.createElement('strong'),p=document.createElement('p'),a=document.createElement('a');s.textContent='GOŚĆ / NIEZALOGOWANY';p.textContent='Zaloguj się przez Discord, aby powiązać konto z forum.';a.className='button';a.href=API+'/auth/discord';a.textContent='ZALOGUJ PRZEZ DISCORD »';box.append(s,p,a);$('login-status').textContent='GOŚĆ';}
-async function account(){try{const d=await get('/api/me');if(!d.authenticated||!d.user){guest();return;}const box=$('account-box');box.replaceChildren();const s=document.createElement('strong'),p=document.createElement('p'),b=document.createElement('button');s.textContent=d.user.username||'Zalogowany użytkownik';p.textContent='Jesteś zalogowany przez Discord. Konto jest gotowe do korzystania z forum.';b.className='button';b.type='button';b.textContent='WYLOGUJ';b.onclick=async()=>{try{await fetch(API+'/auth/logout',{method:'POST',credentials:'include'});}finally{location.reload();}};box.append(s,p,b);$('login-status').textContent='ZALOGOWANO';}catch{guest();}}
-async function init(){try{const d=await get('/api/categories');drawCategories(d.categories||[]);setStatus(true,'API ONLINE');}catch(e){setStatus(false,'API OFFLINE');$('category-list').textContent='Nie udało się pobrać kategorii: '+e.message;}await loadTopics();await account();const id=new URLSearchParams(location.search).get('topic');if(id&&Number.isInteger(Number(id))&&Number(id)>0){try{const d=await get('/api/topics/'+id);$('topic-detail-wrap').hidden=false;const box=$('topic-detail'),h=document.createElement('h2');h.textContent=d.topic.title;box.append(h);(d.posts||[]).forEach(p=>{const el=document.createElement('div');el.className='forum-post';el.textContent=(p.username||'Użytkownik')+' · '+(p.created_at||'')+'\n'+p.content;box.append(el);});}catch(e){$('topic-detail-wrap').hidden=false;$('topic-detail').textContent='Nie udało się otworzyć tematu: '+e.message;}}}
-init();})();
+function message(id,text,error=false){const el=$(id);if(!el)return;el.className=error?'forum-error':'forum-message';el.textContent=text;}
+function drawCategories(items){
+ categories=items;$('category-total').textContent=items.length;
+ const list=$('category-list');list.replaceChildren();
+ items.forEach((c,i)=>{
+  const a=document.createElement('a');a.className='forum-category';a.href='#topics';if(c.slug===active)a.setAttribute('aria-current','true');
+  const icon=document.createElement('span');icon.className='forum-category-icon';icon.textContent=String(i+1).padStart(2,'0');
+  const info=document.createElement('span'),name=document.createElement('strong'),desc=document.createElement('small');
+  name.textContent=c.name;desc.textContent=c.description||'Dyskusje społeczności';info.append(name,desc);
+  const arrow=document.createElement('span');arrow.className='forum-category-count';arrow.textContent='OTWÓRZ »';
+  a.append(icon,info,arrow);a.onclick=e=>{e.preventDefault();active=c.slug;drawCategories(items);loadTopics(c.slug,c.name);};list.append(a);
+ });
+ const select=$('new-topic-category');if(select){select.replaceChildren();items.forEach(c=>{const o=document.createElement('option');o.value=c.slug;o.textContent=c.name;select.append(o);});}
+}
+function drawTopics(data){
+ $('topic-count').textContent='TEMATY / '+String(data.total||0).padStart(2,'0');const list=$('topic-list');list.replaceChildren();
+ if(!data.topics?.length){const e=document.createElement('div');e.className='forum-empty';e.textContent=active?'W tym dziale nie ma jeszcze tematów. To dobre miejsce na pierwszy wątek.':'Forum czeka na pierwsze tematy. Rozpocznij pierwszą dyskusję.';list.append(e);return;}
+ data.topics.forEach(t=>{
+  const row=document.createElement('div');row.className='forum-topic';const info=document.createElement('div'),a=document.createElement('a'),meta=document.createElement('small');
+  a.href='forum.html?topic='+encodeURIComponent(t.id);a.textContent=t.title;meta.textContent=[t.category_name||t.category,t.username||t.author,t.created_at].filter(Boolean).join(' · ');info.append(a,meta);
+  const count=document.createElement('div');count.className='forum-topic-meta';count.textContent=(t.post_count||0)+' POSTÓW';
+  const last=document.createElement('div');last.className='forum-topic-meta';last.textContent=t.last_post_at||'NOWY TEMAT';row.append(info,count,last);list.append(row);
+ });
+}
+async function loadTopics(slug='',name='OSTATNIE TEMATY'){
+ $('topic-heading').textContent=slug?name.toUpperCase():'OSTATNIE TEMATY';$('topic-list').innerHTML='<div class="forum-loading">WCZYTYWANIE TEMATÓW...</div>';
+ try{drawTopics(await request('/api/topics'+(slug?'?category='+encodeURIComponent(slug):'')));}catch(e){$('topic-list').textContent='Nie udało się pobrać tematów: '+e.message;}
+}
+function guest(){
+ currentUser=null;const box=$('account-box');box.replaceChildren();const s=document.createElement('strong'),p=document.createElement('p'),a=document.createElement('a');
+ s.textContent='GOŚĆ / NIEZALOGOWANY';p.textContent='Zaloguj się przez Discord, aby tworzyć tematy i odpowiadać.';a.className='button';a.href=API+'/auth/discord';a.textContent='ZALOGUJ PRZEZ DISCORD »';box.append(s,p,a);
+ $('login-status').textContent='GOŚĆ';$('compose-panel').hidden=true;
+}
+async function account(){
+ try{
+  const d=await request('/api/me');if(!d.authenticated||!d.user){guest();return;}
+  currentUser=d.user;const box=$('account-box');box.replaceChildren();const s=document.createElement('strong'),p=document.createElement('p'),b=document.createElement('button');
+  s.textContent=d.user.username||'Zalogowany użytkownik';p.textContent='Zalogowano przez Discord. Możesz publikować i odpowiadać na forum.';
+  b.className='button';b.type='button';b.textContent='WYLOGUJ';b.onclick=async()=>{try{await fetch(API+'/auth/logout',{method:'POST',credentials:'include'});}finally{location.reload();}};
+  box.append(s,p,b);$('login-status').textContent='ZALOGOWANO';$('compose-panel').hidden=false;
+ }catch{guest();}
+}
+function renderTopic(d){
+ const wrap=$('topic-detail-wrap'),box=$('topic-detail');wrap.hidden=false;box.replaceChildren();
+ const topic=d.topic,h=document.createElement('h2');h.textContent=topic.title;box.append(h);
+ const meta=document.createElement('p');meta.className='smallprint';meta.textContent=[topic.category_name||topic.category,topic.username||topic.author,topic.created_at].filter(Boolean).join(' · ');box.append(meta);
+ if(currentUser&&topic.user_id===currentUser.id){
+  const edit=document.createElement('button');edit.className='forum-action';edit.textContent='EDYTUJ TYTUŁ';edit.onclick=async()=>{const title=prompt('Nowy tytuł tematu:',topic.title);if(title===null)return;try{await request('/api/topics/'+topic.id,{method:'PATCH',body:JSON.stringify({title})});await openTopic(topic.id);}catch(e){alert(e.message);}};
+  const del=document.createElement('button');del.className='forum-action';del.textContent='USUŃ TEMAT';del.onclick=async()=>{if(!confirm('Usunąć cały temat i wszystkie odpowiedzi?'))return;try{await request('/api/topics/'+topic.id,{method:'DELETE'});location.href='forum.html';}catch(e){alert(e.message);}};
+  box.append(edit,del);
+ }
+ (d.posts||[]).forEach(p=>{
+  const el=document.createElement('div');el.className='forum-post';const author=document.createElement('strong');author.textContent=(p.username||p.author||'Użytkownik')+' · '+(p.created_at||'');el.append(author,document.createElement('br'));const content=document.createElement('span');content.textContent=p.content;el.append(content);
+  if(currentUser&&p.user_id===currentUser.id){
+   const edit=document.createElement('button');edit.className='forum-action';edit.textContent='EDYTUJ';edit.onclick=async()=>{const value=prompt('Edytuj odpowiedź:',p.content);if(value===null)return;try{await request('/api/posts/'+p.id,{method:'PATCH',body:JSON.stringify({content:value})});await openTopic(topic.id);}catch(e){alert(e.message);}};
+   const del=document.createElement('button');del.className='forum-action';del.textContent='USUŃ';del.onclick=async()=>{if(!confirm('Usunąć tę odpowiedź?'))return;try{await request('/api/posts/'+p.id,{method:'DELETE'});await openTopic(topic.id);}catch(e){alert(e.message);}};
+   el.append(edit,del);
+  }
+  box.append(el);
+ });
+ if(currentUser){
+  const form=document.createElement('form');form.className='forum-compose';form.style.marginTop='14px';
+  const label=document.createElement('label');label.textContent='TWOJA ODPOWIEDŹ';const area=document.createElement('textarea');area.maxLength=10000;area.required=true;area.placeholder='Napisz odpowiedź...';label.append(area);
+  const button=document.createElement('button');button.className='button';button.type='submit';button.textContent='DODAJ ODPOWIEDŹ »';const status=document.createElement('div');form.append(label,button,status);
+  form.onsubmit=async e=>{e.preventDefault();button.disabled=true;try{await request('/api/topics/'+topic.id+'/posts',{method:'POST',body:JSON.stringify({content:area.value})});await openTopic(topic.id);}catch(err){status.className='forum-error';status.textContent=err.message;button.disabled=false;}};
+  box.append(form);
+ }else{const hint=document.createElement('p');hint.className='smallprint';hint.textContent='Zaloguj się przez Discord, aby dodać odpowiedź.';box.append(hint);}
+}
+async function openTopic(id){
+ $('topic-detail-wrap').hidden=false;$('topic-detail').innerHTML='<div class="forum-loading">WCZYTYWANIE TEMATU...</div>';
+ try{renderTopic(await request('/api/topics/'+id));}catch(e){$('topic-detail').textContent='Nie udało się otworzyć tematu: '+e.message;}
+}
+function setupCreateForm(){
+ const form=$('create-topic-form');if(!form)return;
+ form.onsubmit=async e=>{e.preventDefault();const button=form.querySelector('button[type=submit]');button.disabled=true;message('create-topic-message','PUBLIKOWANIE...');
+  try{const d=await request('/api/topics',{method:'POST',body:JSON.stringify({category:$('new-topic-category').value,title:$('new-topic-title').value,content:$('new-topic-content').value})});location.href='forum.html?topic='+encodeURIComponent(d.topic_id);}
+  catch(err){message('create-topic-message',err.message,true);button.disabled=false;}
+ };
+}
+async function init(){
+ setupCreateForm();
+ try{const d=await request('/api/categories');drawCategories(d.categories||[]);setStatus(true,'API ONLINE');}
+ catch(e){setStatus(false,'API OFFLINE');$('category-list').textContent='Nie udało się pobrać kategorii: '+e.message;}
+ await account();await loadTopics();
+ const id=new URLSearchParams(location.search).get('topic');if(id&&Number.isInteger(Number(id))&&Number(id)>0)await openTopic(Number(id));
+}
+init();
+})();
 </script></body></html>
