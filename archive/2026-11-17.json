@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T10:01+01:00",
+  "updatedAt": "2026-11-17T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nowy Tomb Raider bez wsparcia dla Windowsa 10. Twórcy podnieśli wymagania sprzętowe",
-    "summary": "Zaktualizowano wymagania sprzętowe Tomb Raider: Legacy of Atlantis. Gracze będą potrzebować nieco lepszego sprzętu, aby uruchomić grę. Twórcy zrezygnowali też ze wsparcia dla Windowsa 10. Informacja Nowy Tomb Raider bez wsparcia dla Windowsa 10. Twórcy podnieśli wymagania sprzętowe została opublikowana przez GRYOnline.pl 17 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-tomb-raider-bez-wsparcia-dla-windowsa-10-tworcy-podniesli-wy/z23236d",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532604958.jpg"
+    "title": "To obecnie najgorętszy serial Netflixa. Jest numerem 1 platformy i nie schodzi z ust widzów, a poleca go aż 97% z nich",
+    "summary": "Netflix ma nowy serialowy hit, który błyskawicznie przyciągnął uwagę internautów. Produkcja nie tylko znalazła się na szczycie listy przebojów, ale stała się również jednym z najgorętszych tematów dyskusji w sieci. Informacja To obecnie najgorętszy serial Netflixa. Jest numerem 1 platformy i nie schodzi z ust widzów, a poleca go aż 97% z nich została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/to-obecnie-najgoretszy-serial-netflixa-jest-numerem-1-platformy-i/z43236f",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532606729.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "To obecnie najgorętszy serial Netflixa. Jest numerem 1 platformy i nie schodzi z ust widzów, a poleca go aż 97% z nich",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/to-obecnie-najgoretszy-serial-netflixa-jest-numerem-1-platformy-i/z43236f",
+      "publishedAt": "2026-11-17T11:31+01:00",
+      "summary": "Netflix ma nowy serialowy hit, który błyskawicznie przyciągnął uwagę internautów. Produkcja nie tylko znalazła się na szczycie listy przebojów, ale stała się również jednym z najgorętszych tematów dyskusji w sieci. Informacja To obecnie najgorętszy serial Netflixa. Jest numerem 1 platformy i nie schodzi z ust widzów, a poleca go aż 97% z nich została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532606729.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "NVIDIA stworzyła potężniejszego RTX-a 4090, ale nigdy go nie wydała. Teraz prototyp odnalazł się w Chinach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-stworzyla-potezniejszego-rtx-a-4090-ale-nigdy-go-nie-wydal/z33236e",
+      "publishedAt": "2026-11-17T11:10+01:00",
+      "summary": "Na chińskim portalu aukcyjnym pojawił się prototyp RTX-a 4090 Ti. Właściciel prawdopodobnie chciał się nim pochwalić, ponieważ proponowana cena przekraczała 60 milionów złotych. Informacja NVIDIA stworzyła potężniejszego RTX-a 4090, ale nigdy go nie wydała. Teraz prototyp odnalazł się w Chinach została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532606059.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Persona 5 Royal na Nintendo Switch za 46 zł w K4G. Rekordowo niska cena",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/persona-5-royal-na-nintendo-switch-za-46-zl-w-k4g-rekordowo-niska-cena/",
+      "publishedAt": "2026-11-17T10:51+01:00",
+      "summary": "Cyfrowe wydanie świetnego jRPG studia Atlus, możecie kupić teraz w dobrej cenie w sklepie Yuplay. Jeśli jeszcze nie mieliście okazji ograć Persona 5 Royal w wersji na Nintendo Switch, wspomniany tytuł możecie nabyć za nieco ponad 46 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Rekordowo-tania-Persona-5-Royal-na-PC-w-sklepie-Kinugin.-Klucz-Steam-z-gra-dostepny-za-37-zl_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nowy Tomb Raider bez wsparcia dla Windowsa 10. Twórcy podnieśli wymagania sprzętowe",
@@ -20,6 +47,31 @@
       "summary": "Zaktualizowano wymagania sprzętowe Tomb Raider: Legacy of Atlantis. Gracze będą potrzebować nieco lepszego sprzętu, aby uruchomić grę. Twórcy zrezygnowali też ze wsparcia dla Windowsa 10. Informacja Nowy Tomb Raider bez wsparcia dla Windowsa 10. Twórcy podnieśli wymagania sprzętowe została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532604958.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 zdominował XSX, a GTA 6 NAJBARDZIEJ sprzedawalną grą w historii branży! Wyliczenia wciskają w fotel",
+      "sourceUrl": "https://www.ppe.pl/news/433469/ps5-zdominowal-xsx-a-gta-6-najbardziej-sprzedawalna-gra-w-historii-branzy-wyliczenia-wciskaja-w-fotel.html",
+      "publishedAt": "2026-11-17T10:48+01:00",
+      "summary": "Premiera nowej odsłony serii Grand Theft Auto to już kwestia kilku dni, a liczby otaczające ten tytuł po prostu zwalają z nóg.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pierwszy tak duży sukces gry AI. Autor bez wiedzy programistycznej skasował już setki tysięcy dolarów",
+      "sourceUrl": "https://www.ppe.pl/news/433478/pierwszy-tak-duzy-sukces-gry-ai-autor-bez-wiedzy-programistycznej-skasowal-juz-setki-tysiecy-dolarow.html",
+      "publishedAt": "2026-11-17T10:38+01:00",
+      "summary": "Wchodzimy w epokę gier tworzonych z pomocą AI przez ludzi, którzy nie mają żadnej wiedzy programistycznej.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Assassin’s Creed Shadows na Xbox Series X za 99,45 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pudelkowe-assassins-creed-shadows-na-xbox-series-x-za-9945-zl-na-allegro/",
+      "publishedAt": "2026-11-17T10:37+01:00",
+      "summary": "Świetna oferta na zakup pudełkowego wydania Assassin’s Creed Shadows, jest teraz dostępna w serwisie Allegro. Przenosząca nas do czasów feudalnej Japonii odsłona cyklu o skrytobójcach, kosztuje 99,45 zł w wersji na konsole Xbox Series X. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/assassins-creed-shadows-miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +83,31 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532603948.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Lada moment ruszą zamknięte testy remake’u Heroes of Might and Magic 3. Ubisoft liczy, że opinie graczy pomogą dopracować grę",
+      "sourceUrl": "https://cdaction.pl/newsy/lada-moment-rusza-zamkniete-testy-remakeu-heroes-of-might-and-magic-3-ubisoft-liczy-ze-opinie-graczy-pomoga-dopracowac-gre/",
+      "publishedAt": "2026-11-17T10:30+01:00",
+      "summary": "Zamknięte testy nowej wersji Heroes of Might and Magic 3 wystartują już 18 listopada.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-17-o-09.18.36-1260x662.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To już tradycja przed pokazem nowego Resident Evil. Wyciek na serwerach Capcomu",
+      "sourceUrl": "https://www.ppe.pl/news/433468/to-juz-tradycja-przed-pokazem-nowego-resident-evil-wyciek-na-serwerach-capcomu.html",
+      "publishedAt": "2026-11-17T10:26+01:00",
+      "summary": "To już chyba jakaś nowa tradycja, że zanim Capcom szerzej przedstawi kolejną odsłonę serii Resident Evil, bystrzy fani zdążą wyciągnąć najważniejsze sekrety z ich własnych serwerów.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tak tanich cen gier jeszcze nie było. Historycznie niskie ceny wielkich hitów",
+      "sourceUrl": "https://www.ppe.pl/news/433474/tak-tanich-cen-gier-jeszcze-nie-bylo-historycznie-niskie-ceny-wielkich-hitow.html",
+      "publishedAt": "2026-11-17T10:09+01:00",
+      "summary": "Szaleństwo wyprzedaży trwa w najlepsze. Wczoraj informowaliśmy o dobrych ofertach na PS Store, a dziś mają w czym przebierać gracze pecetowi.",
+      "category": "WIADOMOŚCI"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Zelda pobiła wszystkich w 2026 roku, ale za 2 dni straci koronę. Wszystko przez GTA 6",
       "sourceUrl": "https://www.gry-online.pl/newsroom/zelda-pobila-wszystkich-w-2026-roku-ale-za-2-dni-straci-korone-ws/zf3236a",
@@ -38,6 +115,15 @@
       "summary": "The Legend of Zelda: Ocarina of Time szybko stała się największym pudełkowym hitem 2026 roku, choć raczej na bardzo krótko. Informacja Zelda pobiła wszystkich w 2026 roku, ale za 2 dni straci koronę. Wszystko przez GTA 6 została opublikowana przez GRYOnline.pl 17 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532601618.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Rockstar oddał pogodę w GTA 6 w ręce prawdziwych synoptyków. Wyszła z tego najzabawniejsza prognoza tego roku",
+      "sourceUrl": "https://cdaction.pl/newsy/rockstar-oddal-pogode-w-gta-6-w-rece-prawdziwych-synoptykow-wyszla-z-tego-najzabawniejsza-prognoza-tego-roku/",
+      "publishedAt": "2026-11-17T10:00+01:00",
+      "summary": "Nisko przelatujące aligatory.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-6-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
