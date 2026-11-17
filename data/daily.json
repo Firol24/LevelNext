@@ -1,17 +1,139 @@
 {
   "status": "rss-only",
   "date": "2026-11-17",
-  "updatedAt": "2026-11-17T14:01+01:00",
+  "updatedAt": "2026-11-17T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Pizza Possum na PC za jedyne 2,35 zł w Kinguinie. Historycznie najniższa cena za klucz Steam!",
-    "summary": "Pizza Possum, czyli urocza, zręcznościowa gra akcji, z elementami skradanki, w której wcielicie się w oposa głodomora, dostępna jest teraz w rewelacyjnie niskiej cenie w sklepie Kinguin. Pecetowe wydanie produkcji, kosztuje teraz zaledwie 2,35 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/keyshopy/pizza-possum-na-pc-za-jedyne-235-zl-w-kinguinie-historycznie-najnizsza-cena-za-klucz-steam/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/09/Pizza-Possum_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Głupiec namieszał w Slay the Spire 2. Nowy bohater przyciągnął tłumy na Steamie",
+    "summary": "Prawie 224 tysiące gracze jednocześnie bawiło się jednocześnie w Slay The Spire 2 jeszcze przed debiutem wielkiej aktualizacji dzięki Głupcowi. Informacja Głupiec namieszał w Slay the Spire 2. Nowy bohater przyciągnął tłumy na Steamie została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/glupiec-namieszal-w-slay-the-spire-2-nowy-bohater-przyciagnal-tlu/z33237d",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532620260.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Głupiec namieszał w Slay the Spire 2. Nowy bohater przyciągnął tłumy na Steamie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/glupiec-namieszal-w-slay-the-spire-2-nowy-bohater-przyciagnal-tlu/z33237d",
+      "publishedAt": "2026-11-17T15:27+01:00",
+      "summary": "Prawie 224 tysiące gracze jednocześnie bawiło się jednocześnie w Slay The Spire 2 jeszcze przed debiutem wielkiej aktualizacji dzięki Głupcowi. Informacja Głupiec namieszał w Slay the Spire 2. Nowy bohater przyciągnął tłumy na Steamie została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532620260.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Promka InPostu pozwalająca zdobyć GTA 6 wzbudziła kontrowersje. Niektórzy chcą nawet nasyłać na firmę UOKiK",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/promka-inpostu-pozwalajaca-zdobyc-gta-6-wzbudzila-kontrowersje-ni/z53237f",
+      "publishedAt": "2026-11-17T15:22+01:00",
+      "summary": "Po promocji InPostu została garstka szczęśliwców i nieco sfrustrowanych graczy. Okazja do łatwego zdobycia GTA 6 padła ofiarą krytyki tych, którym się nie udało. Informacja Promka InPostu pozwalająca zdobyć GTA 6 wzbudziła kontrowersje. Niektórzy chcą nawet nasyłać na firmę UOKiK została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532621163.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W 2008 roku Steve Jobs wyjął z koperty laptopa: Richard Yu z firmy Huawei zmieścił w niej aż dwa komputery",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-2008-roku-steve-jobs-wyjal-z-koperty-laptopa-richard-yu-z-firmy/z43237e",
+      "publishedAt": "2026-11-17T15:20+01:00",
+      "summary": "Huawei zainspirował się Stevem Jobsem, żeby pokazać swój nowy komputer przenośny. MateBook Fold S to nowy kompaktowy komputer, który mieści się w kopercie. Informacja W 2008 roku Steve Jobs wyjął z koperty laptopa: Richard Yu z firmy Huawei zmieścił w niej aż dwa komputery została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532620929.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Muszą zostać usunięci z gry.” Fani WoW Forever chcą banów dla streamerów, którzy chwalą się korzystaniem z exploitów w MMO",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/musza-zostac-usunieci-z-gry-fani-wow-forever-chca-banow-dla-strea/z23237c",
+      "publishedAt": "2026-11-17T15:02+01:00",
+      "summary": "Wściekły tłum graczy wyciąga internetowe widły i pochodnie, domagając się bana dla tych otwarcie chwalących się korzystaniem z exploitów. Na celowniku jeden ze znanych streamerów. Informacja „Muszą zostać usunięci z gry.” Fani WoW Forever chcą banów dla streamerów, którzy chwalą się korzystaniem z exploitów w MMO została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532619451.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Niektórzy gracze odpalą GTA 6 już jutro w południe. Prosty trik pozwoli wam do nich dołączyć",
+      "sourceUrl": "https://cdaction.pl/newsy/niektorzy-gracze-odpala-gta-6-juz-jutro-w-poludnie-prosty-trik-pozwoli-wam-do-nich-dolaczyc/",
+      "publishedAt": "2026-11-17T15:00+01:00",
+      "summary": "Dla niektórych premiera najbardziej wyczekiwanej gry w historii odbędzie się już za paręnaście godzin.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-6.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Masz PS5 Pro? I tak zagrasz w 30 FPS-ach w GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/433500/masz-ps5-pro-i-tak-zagrasz-w-30-fps-ach-w-gta-6.html",
+      "publishedAt": "2026-11-17T14:53+01:00",
+      "summary": "Rockstar Games oficjalnie zablokowało płynność Grand Theft Auto 6. Tytuł działa wyłącznie w 30 klatkach na sekundę, pomimo agresywnej kampanii marketingowej Sony.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "God of War w Twojej kieszeni. Nie potrzebujesz mocnego smartfona, aby zagrać w hity Sony",
+      "sourceUrl": "https://www.ppe.pl/news/433493/god-of-war-w-twojej-kieszeni-nie-potrzebujesz-mocnego-smartfona-aby-zagrac-w-hity-sony.html",
+      "publishedAt": "2026-11-17T14:36+01:00",
+      "summary": "Środowisko moderskie zadało kolejny cios zamkniętym ekosystemom. Połowa listopada przyniosła nieoficjalny port God of War Collection przeznaczony bezpośrednio na Androida.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Aktywne głośniki Edifier Active Near Field 2.0 R1280Ts za 299,99 zł w polskim Amazonie",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/aktywne-glosniki-edifier-active-near-field-2-0-r1280ts-za-29999-zl-w-polskim-amazonie/",
+      "publishedAt": "2026-11-17T14:33+01:00",
+      "summary": "W polskim Amazonie przeceniono aktywne głośniki Edifier R1280Ts, które mogą być ciekawą propozycją do komputera lub niewielkiego zestawu audio. Zestaw 2.0 oferuje łączną moc 42 W RMS, dwa wejścia RCA, wyjście na dodatkowy subwoofer oraz regulację tonów niskich i wysokich, a w komplecie znajduje się również pilot. Brązowy wariant możecie kupić obecnie za 299,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-Aktywne-glosniki-Edifier-Active-Near-Field-2.0-R1280Ts-za-29998-zl-w-polskim-Amazonie_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Twitch pozwoli zdobyć GTA VI za darmo! Ogromna liczba nagród za oglądanie streamów",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/twitch-pozwoli-zdobyc-gta-vi-za-darmo-ogromna-liczba-nagrod-za-ogladanie-streamow/",
+      "publishedAt": "2026-11-17T14:32+01:00",
+      "summary": "Od premiery GTA VI dzielą nas już tylko godziny! Twitch, serwis internetowy do prowadzenia transmisji, postanowił jeszcze bardziej podgrzać atmosferę i przygotował dropy dla oglądających. Tym razem jednak nie będą to wyłącznie skórki czy inne elementy kosmetyczne ani też ozdoby profilu (choć te też się pojawią). Podczas konferencji TwitchCon zapowiedziano, że możemy liczyć na darmowe kody na GTA VI Ultimate Edition. I to w naprawdę dużej liczbie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-za-darmo-Twitch-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Tomb Raider: Legacy of Atlantis po cichu podnosi wymagania sprzętowe. Zmiany dotyczą m.in. systemu operacyjnego",
+      "sourceUrl": "https://cdaction.pl/newsy/tomb-raider-legacy-of-atlantis-po-cichu-podnosi-wymagania-sprzetowe-zmiany-dotycza-m-in-systemu-operacyjnego/",
+      "publishedAt": "2026-11-17T14:30+01:00",
+      "summary": "Czyżby to zwiastowało problemy z optymalizacją?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Tomb-Raider-Legacy-of-Atlantis.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "6 europejskich związków zawodowych przeciw AI w grach. Twórcy publikują manifest",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/6-europejskich-zwiazkow-zawodowych-przeciw-ai-w-grach-tworcy-publ/z13237b",
+      "publishedAt": "2026-11-17T14:22+01:00",
+      "summary": "Europejskie związki zawodowe zrzeszające twórców gier wystosowały manifest, w którym krytykują sposób wdrażania generatywnej sztucznej inteligencji w branży. Informacja 6 europejskich związków zawodowych przeciw AI w grach. Twórcy publikują manifest została opublikowana przez GRYOnline.pl 17 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532617769.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nintendo ukrywało to przed graczami! Switch 2 posiada technologię z najdroższych kart graficznych",
+      "sourceUrl": "https://www.ppe.pl/news/433492/nintendo-ukrywalo-to-przed-graczami-switch-2-posiada-technologie-z-najdrozszych-kart-graficznych.html",
+      "publishedAt": "2026-11-17T14:16+01:00",
+      "summary": "Pierwszy udany jailbreak konsoli Nintendo Switch 2 rzuca zupełnie nowe światło na architekturę sprzętową urządzenia.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Weź udział w konkursie z beyerdynamic! Zostań recenzentem i zgarnij słuchawki MMX 130 WIRELESS",
+      "sourceUrl": "https://www.ppe.pl/news/432979/wez-udzial-w-konkursie-z-beyerdynamic-zostan-recenzentem-i-zgarnij-sluchawki-mmx-130-wireless.html",
+      "publishedAt": "2026-11-17T14:07+01:00",
+      "summary": "Drodzy Czytelnicy, niezmiernie miło nam zaprosić Was do konkursu, w którym możecie wygrać 3 sztuki topowych gamingowych słuchawek beyerdynamic MMX 130 WIRELESS. Jeśli ktoś z Was nie słyszał o firmie beyerdynamic to tylko przypomnimy, że powst...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Średniowieczne Call of Duty? Brzmi jak żart, ale taka odsłona mogła kiedyś powstać",
+      "sourceUrl": "https://cdaction.pl/newsy/sredniowieczne-call-of-duty-brzmi-jak-zart-ale-taka-odslona-mogla-kiedys-powstac/",
+      "publishedAt": "2026-11-17T14:00+01:00",
+      "summary": "Call of Duty od samego początku skupiało się na bardzo konkretnym założeniu, polegającym na osadzeniu akcji w czasach, kiedy powszechnie wykorzystywano broń palną w potyczkach wojennych. Przez ostatnie 23 lata Activision cofnęło się najdalej do II wojny światowej, ale także patrzyło w przyszłość, choćby z Infinite Warfare. Jak się okazało, był moment w historii serii,...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Call-of-Duty-1260x682.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Pizza Possum na PC za jedyne 2,35 zł w Kinguinie. Historycznie najniższa cena za klucz Steam!",
