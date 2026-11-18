@@ -694,11 +694,10 @@
   function flip(direction,target){
     if(busy||target<0||target>=spreads.length)return;
     busy=true;
-    const currentSpread=spreads[current];
     const targetSpread=spreads[target];
     const currentPage=pageAt(current,direction>0?1:0);
     const targetPage=pageAt(target,direction>0?0:1);
-    if(reduced||!currentPage||!targetPage){current=target;update();busy=false;return;}
+    if(reduced||window.matchMedia('(max-width:780px)').matches||!currentPage||!targetPage){current=target;update();busy=false;return;}
     // Najpierw kładziemy następną rozkładówkę pod aktualną. Kartka odsłania ją w trakcie obrotu.
     targetSpread.classList.add('under');
     const sheet=document.createElement('div');
