@@ -1,17 +1,42 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T19:01+01:00",
+  "updatedAt": "2026-11-18T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Autorka znakomitej fabuły Clair Obscur: Expedition 33 nie stworzy nowych gier z uniwersum, które oczarowało miliony graczy",
-    "summary": "Jedna z kluczowych twórczyń Clair Obscur: Expedition 33 opuściła Sandfall Interactive. Laureatka nagrody BAFTA zdradziła, jakie ma plany na przyszłość. Informacja Autorka znakomitej fabuły Clair Obscur: Expedition 33 nie stworzy nowych gier z uniwersum, które oczarowało miliony graczy została opublikowana przez GRYOnline.pl 18 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/autorka-znakomitej-fabuly-clair-obscur-expedition-33-nie-stworzy/zf323af",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532723645.jpg"
+    "title": "GTA 6 po prostu nie może działać na konsolach w więcej niż 30 klatkach na sekundę. Rockstar szczerze wyjaśnia dlaczego",
+    "summary": "Rockstar Games wyjaśniło, dlaczego GTA 6 działa w 30 klatkach na sekundę na wszystkich konsolach. Informacja GTA 6 po prostu nie może działać na konsolach w więcej niż 30 klatkach na sekundę. Rockstar szczerze wyjaśnia dlaczego została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-po-prostu-nie-moze-dzialac-na-konsolach-w-wiecej-niz-30-kla/za323b0",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532726089.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 po prostu nie może działać na konsolach w więcej niż 30 klatkach na sekundę. Rockstar szczerze wyjaśnia dlaczego",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-po-prostu-nie-moze-dzialac-na-konsolach-w-wiecej-niz-30-kla/za323b0",
+      "publishedAt": "2026-11-18T20:30+01:00",
+      "summary": "Rockstar Games wyjaśniło, dlaczego GTA 6 działa w 30 klatkach na sekundę na wszystkich konsolach. Informacja GTA 6 po prostu nie może działać na konsolach w więcej niż 30 klatkach na sekundę. Rockstar szczerze wyjaśnia dlaczego została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532726089.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jak obrabować bank (2026) - recenzja filmu [UIP]. Mamy Watchdogs w domu?",
+      "sourceUrl": "https://www.ppe.pl/recenzje/433642/jak-obrabowac-bank-2026-recenzja-filmu-uip-mamy-watchdogs-w-domu.html",
+      "publishedAt": "2026-11-18T20:00+01:00",
+      "summary": "Agent West szykuje się powoli na emeryturę. Swoją karierę w FBI spędził na łapaniu bankowych rabusiów i tego typu przestępców. Zanim będzie mógł odpocząć, musi jednak rozpracować jesz , w jedną grupę przestępczą - bardzo upierdliwą,...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zostało niewiele czasu do największej premiery filmowej roku. Nowe materiały od twórców podnoszą ciśnienie",
+      "sourceUrl": "https://www.ppe.pl/news/433673/zostalo-niewiele-czasu-do-najwiekszej-premiery-filmowej-roku-nowe-materialy-od-tworcow-podnosza-cisnienie.html",
+      "publishedAt": "2026-11-18T19:57+01:00",
+      "summary": "Pora zacząć odmierzać czas do najważniejszego wydarzenia filmowego w tym roku. Został już tylko miesiąc.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Autorka znakomitej fabuły Clair Obscur: Expedition 33 nie stworzy nowych gier z uniwersum, które oczarowało miliony graczy",
@@ -20,6 +45,31 @@
       "summary": "Jedna z kluczowych twórczyń Clair Obscur: Expedition 33 opuściła Sandfall Interactive. Laureatka nagrody BAFTA zdradziła, jakie ma plany na przyszłość. Informacja Autorka znakomitej fabuły Clair Obscur: Expedition 33 nie stworzy nowych gier z uniwersum, które oczarowało miliony graczy została opublikowana przez GRYOnline.pl 18 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532723645.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Glen Powell gwiazdą country w nowej komedii Judda Apatowa. Jest zwiastun The Comeback King",
+      "sourceUrl": "https://www.ppe.pl/news/433671/glen-powell-gwiazda-country-w-nowej-komedii-judda-apatowa-jest-zwiastun-the-comeback-king.html",
+      "publishedAt": "2026-11-18T19:39+01:00",
+      "summary": "Glen Powell wciela się w podupadłą gwiazdę muzyki country w pierwszym zwiastunie komedii „The Comeback King”. Za film odpowiada Judd Apatow, twórca takich produkcji jak „40-letni prawiczek” i „Wpadka”. Premiera kinowa została zaplanowa...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Główna scenarzystka Clair Obscur: Expedition 33 opuściła Sandfall Interactive. Ma nowy pomysł na siebie",
+      "sourceUrl": "https://cdaction.pl/newsy/glowna-scenarzystka-clair-obscur-expedition-33-opuscila-sandfall-interactive-ma-nowy-pomysl-na-siebie/",
+      "publishedAt": "2026-11-18T19:11+01:00",
+      "summary": "Nowy rozdział.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/sandfall-interactive-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Guy Ritchie szykuje cztery seriale! Reżyser rozwija własne telewizyjne imperium",
+      "sourceUrl": "https://www.ppe.pl/news/433670/guy-ritchie-szykuje-cztery-seriale-rezyser-rozwija-wlasne-telewizyjne-imperium.html",
+      "publishedAt": "2026-11-18T19:06+01:00",
+      "summary": "Guy Ritchie nie zwalnia tempa. Brytyjski reżyser, znany z takich filmów jak „Przekręt” i „Sherlock Holmes”, rozwija obecnie aż cztery seriale dla platform streamingowych. Wśród projektów znajdują się kontynuacje popularnych produkcji or...",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "Łowcy Gier",
