@@ -313,3 +313,18 @@ h1,h2,h3{line-height:1.25}
 .guestbook-side-stamp{margin-top:12px;padding:12px 5px;text-align:center;background:#100b17;border:2px dashed #a77be0;color:#cbbbd8;font:9px "Courier New",monospace}
 .guestbook-side-stamp strong{display:block;margin-top:4px;color:#ffdf69;font:bold 19px "VT323",monospace}
 @media(max-width:620px){.guestbook-entry{grid-template-columns:38px minmax(0,1fr);gap:8px;padding:8px}.guestbook-entry .guestbook-avatar{width:36px;height:36px;flex-basis:36px}.guestbook-entry-head{display:grid;gap:3px}.guestbook-compose-foot{align-items:flex-start;flex-direction:column}}
+
+
+/* GLOBALNA NAPRAWA STOPKI: stabilny przepływ treści na wszystkich podstronach */
+.site{display:flow-root;min-width:0}
+.layout{min-width:0;align-items:start}
+.layout>.col{min-width:0}
+.footer{display:flow-root;position:relative;clear:both;isolation:isolate;width:100%;min-width:0;min-height:0;padding:14px 12px 16px;overflow-wrap:anywhere;box-sizing:border-box}
+.footer br{display:none}
+.footer>.smallprint{display:block;margin:4px auto}
+.footer .copyright-line{position:relative;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:8px;min-width:0;margin:6px auto}
+.footer .retro-badges{display:flex;position:relative;width:100%;max-width:100%;min-width:0;margin:10px auto 0;padding-top:9px;box-sizing:border-box}
+.footer .badge-row{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:5px;width:100%;max-width:100%}
+.footer .badge-row img{display:block;flex:0 0 88px;width:88px;height:31px;max-width:88px;object-fit:contain}
+.footer .badge-caption{display:block;max-width:100%;line-height:1.5;overflow-wrap:anywhere}
+@media(max-width:620px){.footer{padding:12px 8px 14px}.footer .copyright-line{gap:6px}.footer .badge-row{gap:4px}}
