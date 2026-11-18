@@ -1,16 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T06:01+01:00",
+  "updatedAt": "2026-11-18T07:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Amazon Prime Video z filmem o LEGENDZIE od dzisiaj! Nicolas Cage w historii, którą powinien poznać każdy gracz",
-    "summary": "Amazon Prime Video przygotowało interesującą nowość, która powinna zwrócić uwagę nie tylko miłośników sportu, ale również graczy. Platforma udostępniła film biograficzny przedstawiający historię człowieka, który najpierw stał się j...",
-    "sourceUrl": "https://www.ppe.pl/news/433532/amazon-prime-video-z-filmem-o-legendzie-od-dzisiaj-nicolas-cage-w-historii-ktora-powinien-poznac-kazdy-gracz.html"
+    "title": "To najgorszy rok PlayStation od 11 lat? Gry Sony bez głównej nominacji na The Game Awards",
+    "summary": "Sony przez lata przyzwyczaiło graczy do tego, że produkcje PlayStation Studios regularnie walczą o najważniejsze nagrody w branży. Tegoroczne The Game Awards przyniosło jednak spore zaskoczenie, ponieważ po raz pierwszy od 11 lat żadna gra wydan...",
+    "sourceUrl": "https://www.ppe.pl/news/433534/to-najgorszy-rok-playstation-od-11-lat-gry-sony-bez-glownej-nominacji-na-the-game-awards.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "To najgorszy rok PlayStation od 11 lat? Gry Sony bez głównej nominacji na The Game Awards",
+      "sourceUrl": "https://www.ppe.pl/news/433534/to-najgorszy-rok-playstation-od-11-lat-gry-sony-bez-glownej-nominacji-na-the-game-awards.html",
+      "publishedAt": "2026-11-18T07:00+01:00",
+      "summary": "Sony przez lata przyzwyczaiło graczy do tego, że produkcje PlayStation Studios regularnie walczą o najważniejsze nagrody w branży. Tegoroczne The Game Awards przyniosło jednak spore zaskoczenie, ponieważ po raz pierwszy od 11 lat żadna gra wydan...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 Pro w wersji GTA 6 prezentuje się CUDOWNIE. PlayStation przygotowało wyjątkowy sprzęt",
+      "sourceUrl": "https://www.ppe.pl/news/433537/ps5-pro-w-wersji-gta-6-prezentuje-sie-cudownie-playstation-przygotowalo-wyjatkowy-sprzet.html",
+      "publishedAt": "2026-11-18T06:35+01:00",
+      "summary": "Sony przygotowało prawdziwą perełkę dla fanów GTA 6. Do sieci trafiły materiały prezentujące wyjątkowa edycję PlayStation 5 Pro. Sprzęt zachwyca kolorystyką nawiązującą do Vice City i dopracowanymi detalami. Jest jednak pewien problem - t...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "W GTA 6 nie zagrasz bez najnowszej aktualizacji PS5! Sony odcięło starsze firmware od PlayStation Network",
+      "sourceUrl": "https://www.ppe.pl/news/433536/w-gta-6-nie-zagrasz-bez-najnowszej-aktualizacji-ps5-sony-odcielo-starsze-firmware-od-playstation-network.html",
+      "publishedAt": "2026-11-18T06:10+01:00",
+      "summary": "Do premiery GTA 6 pozostały już tylko godziny, ale okazuje się, że posiadacze PlayStation 5 muszą przygotować się na jeszcze jedną niespodziankę. Sony udostępniło nową aktualizację oprogramowania konsoli, która jest wymagana do uruchomie...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Amazon Prime Video z filmem o LEGENDZIE od dzisiaj! Nicolas Cage w historii, którą powinien poznać każdy gracz",
