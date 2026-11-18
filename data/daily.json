@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T20:01+01:00",
+  "updatedAt": "2026-11-18T20:55+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 po prostu nie może działać na konsolach w więcej niż 30 klatkach na sekundę. Rockstar szczerze wyjaśnia dlaczego",
-    "summary": "Rockstar Games wyjaśniło, dlaczego GTA 6 działa w 30 klatkach na sekundę na wszystkich konsolach. Informacja GTA 6 po prostu nie może działać na konsolach w więcej niż 30 klatkach na sekundę. Rockstar szczerze wyjaśnia dlaczego została opublikowana przez GRYOnline.pl 18 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-po-prostu-nie-moze-dzialac-na-konsolach-w-wiecej-niz-30-kla/za323b0",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532726089.jpg"
+    "title": "Szef Steama to „strażnik bram piekieł”, który chroni graczy przed „pasożytami pokroju Disneya, EA czy Microsoftu”",
+    "summary": "Według współtwórcy Dooma i Quake’a założyciel Valve, Gabe Newell, jest „strażnikiem bram piekieł”. Dzięki niemu gracze mają być chronieni przed „pasożytami” pokroju EA czy Microsoftu. Informacja Szef Steama to „strażnik bram piekieł”, który chroni graczy przed „pasożytami pokroju Disneya, EA czy Microsoftu” została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/szef-steama-to-straznik-bram-piekiel-ktory-chroni-graczy-przed-pa/zb323b1",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532729843.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Szef Steama to „strażnik bram piekieł”, który chroni graczy przed „pasożytami pokroju Disneya, EA czy Microsoftu”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/szef-steama-to-straznik-bram-piekiel-ktory-chroni-graczy-przed-pa/zb323b1",
+      "publishedAt": "2026-11-18T21:33+01:00",
+      "summary": "Według współtwórcy Dooma i Quake’a założyciel Valve, Gabe Newell, jest „strażnikiem bram piekieł”. Dzięki niemu gracze mają być chronieni przed „pasożytami” pokroju EA czy Microsoftu. Informacja Szef Steama to „strażnik bram piekieł”, który chroni graczy przed „pasożytami pokroju Disneya, EA czy Microsoftu” została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532729843.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 po prostu nie może działać na konsolach w więcej niż 30 klatkach na sekundę. Rockstar szczerze wyjaśnia dlaczego",
@@ -20,6 +29,23 @@
       "summary": "Rockstar Games wyjaśniło, dlaczego GTA 6 działa w 30 klatkach na sekundę na wszystkich konsolach. Informacja GTA 6 po prostu nie może działać na konsolach w więcej niż 30 klatkach na sekundę. Rockstar szczerze wyjaśnia dlaczego została opublikowana przez GRYOnline.pl 18 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532726089.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Problemy PlayStation Network przed samą premierą GTA 6! Gracze z PS5 mogą mieć ogromny problem",
+      "sourceUrl": "https://www.ppe.pl/news/433675/problemy-playstation-network-przed-sama-premiera-gta-6-z-ps5-gracze-moga-miec-ogromny-problem.html",
+      "publishedAt": "2026-11-18T20:22+01:00",
+      "summary": "Nie tak to miało wyglądać. Już za kilka godzin GTA 6 będzie oficjalnie dostępne na PlayStation 5, ale zamiast spokojnie odliczać czas do premiery, część graczy musi mierzyć się z problemami PlayStation Network. Pojawiają się zgłoszenia do...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Square Enix Sale na Steam. Gra Final Fantasy VII Remake za 28 zł, Rebirth za 29 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-square-enix-sale-na-steam-gra-final-fantasy-vii-remake-za-28-zl-rebirth-za-29-zl/",
+      "publishedAt": "2026-11-18T20:15+01:00",
+      "summary": "Łowcy, jeśli ignorujecie platformę Epic Games oraz bojkotujecie Humble Store, to mamy dla Was fantastyczne wieści – promocja na dwie pierwsze odsłony odświeżonej „siódemki” trafiła w końcu do sklepu Gabe’a Newella. W ramach wyprzedaży Square Enix Sale 2026 na Steam możecie zakupić tanio Final Fantasy VII Remake Intergrade. Tytuł dostępny jest za jedyne 28,62 zł! Bardzo podobnej przeceny doczekało się także Final Fantasy VII Rebirth, które może być Wasze za 29,85 zł! To wręcz idealna okazja, aby przygotować się na domknięcie „finałowej fantazji” i epilog przygód Clouda w postaci nadchodzącego Final Fantasy VII Revelation. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Square-Enix-Sale-na-Steam.-Gra-Final-Fantasy-VII-Remake-za-28-zl-Rebirth-za-29-zl_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
