@@ -238,6 +238,7 @@
     .open-book.hidden{display:none}
     .book-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex:0 0 auto;max-width:1240px;width:100%;margin:0 auto 7px;padding:0 4px;color:#e9dff0;font:9px var(--mono);letter-spacing:.1em;text-transform:uppercase}
     .book-toolbar strong{color:var(--yellow);margin-right:12px}
+    .edition-status{color:#c9b8d4;font:8px var(--mono);letter-spacing:.08em;margin-left:10px}
     .book-controls{display:flex;align-items:center;gap:7px}
     .book-controls button{border:1px solid #8d65a8;background:#260044;color:var(--yellow);padding:8px 10px;font:700 9px var(--mono);cursor:pointer}
     .book-controls button:hover:not(:disabled){background:#6a0dad}
@@ -393,7 +394,7 @@
     </section>
     <section class="open-book hidden" id="open-book" aria-label="Otwarte wydanie LEVEL NEXT DAILY">
       <div class="book-toolbar">
-        <div><strong>LEVEL NEXT DAILY</strong><span id="book-edition">WYDANIE INTERNETOWE</span></div>
+        <div><strong>LEVEL NEXT DAILY</strong><span id="book-edition">WYDANIE INTERNETOWE</span> <span id="edition-status" class="edition-status" aria-live="polite">ŁADOWANIE WYDANIA</span></div>
         <div class="book-controls">
           <button type="button" id="prev-page" aria-label="Poprzednia strona">← WSTECZ</button>
           <span class="book-counter" id="page-counter">01 / 04</span>
