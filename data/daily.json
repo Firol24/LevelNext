@@ -1,17 +1,43 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T17:01+01:00",
+  "updatedAt": "2026-11-18T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd”",
-    "summary": "Crimson Desert zostało nominowane zaledwie w jednej kategorii na The Game Awards 2026. Takie niedocenienie produkcji nie spodobało się przedstawicielowi studia Pocketpair, które odpowiada za sandbox Palworld. Informacja Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd” została opublikowana przez GRYOnline.pl 18 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gigantyczny-otwarty-swiat-to-za-malo-crimson-desert-jest-najwieks/zc323ac",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532715548.jpg"
+    "title": "GTA 6 znalazło się na The Game Awards 2026 w pełni uczciwie. Największą kontrowersję wyjaśnił sam Geoff Keighley",
+    "summary": "Geoff Keighley ujawnił interesujący szczegół dotyczący GTA 6 i tegorocznych nominacji do The Game Awards. Jego słowa rozwiewają wątpliwości związane z obecnością produkcji Rockstara wśród kandydatów do tytułu Gry roku. Informacja GTA 6 znalazło się na The Game Awards 2026 w pełni uczciwie. Największą kontrowersję wyjaśnił sam Geoff Keighley została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-znalazlo-sie-na-the-game-awards-2026-w-pelni-uczciwie-najwi/ze323ae",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532720101.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 znalazło się na The Game Awards 2026 w pełni uczciwie. Największą kontrowersję wyjaśnił sam Geoff Keighley",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-znalazlo-sie-na-the-game-awards-2026-w-pelni-uczciwie-najwi/ze323ae",
+      "publishedAt": "2026-11-18T18:51+01:00",
+      "summary": "Geoff Keighley ujawnił interesujący szczegół dotyczący GTA 6 i tegorocznych nominacji do The Game Awards. Jego słowa rozwiewają wątpliwości związane z obecnością produkcji Rockstara wśród kandydatów do tytułu Gry roku. Informacja GTA 6 znalazło się na The Game Awards 2026 w pełni uczciwie. Największą kontrowersję wyjaśnił sam Geoff Keighley została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532720101.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 bez ważnej funkcji z GTA 5. Winny jest otwarty świat i niesamowita swoboda, jaką Rockstar dał graczom",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-bez-waznej-funkcji-z-gta-5-winny-jest-otwarty-swiat-i-niesa/zd323ad",
+      "publishedAt": "2026-11-18T18:06+01:00",
+      "summary": "GTA 6 oferuje graczom znacznie większą swobodę niż poprzednie odsłony serii, ale ma to swoją cenę. Rockstar zrezygnował z jednej z dobrze znanych funkcji z GTA 5, co może rozczarować część fanów. Informacja GTA 6 bez ważnej funkcji z GTA 5. Winny jest otwarty świat i niesamowita swoboda, jaką Rockstar dał graczom została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532717532.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gabe Newell „chroni nas przed pasożytami”. Mocne słowa o Microsoft, EA i Disneyu",
+      "sourceUrl": "https://www.ppe.pl/news/433626/gabe-newell-chroni-nas-przed-pasozytami-mocne-slowa-o-microsoft-ea-i-disneyu.html",
+      "publishedAt": "2026-11-18T17:45+01:00",
+      "summary": "Gabe Newell ponownie znalazł się w centrum dyskusji o przyszłości rynku gier PC.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd”",
@@ -20,6 +46,31 @@
       "summary": "Crimson Desert zostało nominowane zaledwie w jednej kategorii na The Game Awards 2026. Takie niedocenienie produkcji nie spodobało się przedstawicielowi studia Pocketpair, które odpowiada za sandbox Palworld. Informacja Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd” została opublikowana przez GRYOnline.pl 18 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532715548.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wielkiej czystki w PlayStation Plus Extra i Premium nie będzie. Trzy gry opuszczą PS+!",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/wielkie-czystki-w-playstation-plus-extra-i-premium-nie-bedzie-trzy-gry-opuczsza-ps/",
+      "publishedAt": "2026-11-18T17:19+01:00",
+      "summary": "Poznaliśmy właśnie kompletną listę gier, które oficjalnie opuszczą katalog gier PlayStation Plus Extra i Premium w przyszłym miesiącu. Do 15 grudnia macie czas na ogranie takich tytułów jak: Granblue Fantasy: Relink, Somerville czy Fade to Silence. Łącznie ofertę PS+ opuszczą więc jedynie trzy pozycje na PS4 i PS5. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wielkie-czystki-w-PlayStation-Plus-Extra-i-Premium-nie-bedzie.-Trzy-gry-opuczsza-PS_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 podbiło Twitcha w zaledwie 30 minut! Żadna gra single-player nie przyciągnęła tylu widzów",
+      "sourceUrl": "https://www.ppe.pl/news/433633/gta-6-podbilo-twitcha-w-zaledwie-30-minut-zadna-gra-single-player-nie-przyciagnela-tylu-widzow.html",
+      "publishedAt": "2026-11-18T17:17+01:00",
+      "summary": "GTA 6 potrzebowało zaledwie pół godziny, aby zapisać się w historii Twitcha.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jason Voorhees szykuje się na podbój kin. Znamy datę premiery i szczegóły nowego Piątku Trzynastego",
+      "sourceUrl": "https://www.ppe.pl/news/433640/jason-voorhees-szykuje-sie-na-podboj-kin-znamy-date-premiery-i-szczegoly-nowego-piatku-trzynastego.html",
+      "publishedAt": "2026-11-18T17:07+01:00",
+      "summary": "Powrót Jasona Voorheesa to już pewniak. Pora zaznaczyć ten szczególny dzień w kalendarzu, ponieważ do Sieci trafiła data premiery nowego filmu z ikoną serii Piątek 13-go.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "CD-Action",
