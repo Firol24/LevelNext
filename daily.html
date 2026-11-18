@@ -450,6 +450,79 @@
       .cover-feature-image{height:clamp(72px,12vh,105px)}
     }
 
+
+    /* DAILY - wspolna nawigacja z portalem i prawidlowy przeplyw strony */
+    .masthead{max-width:980px;padding:10px 10px 0}
+    .masthead .logo{width:230px;max-width:75%;height:auto}
+    .nav{max-width:980px;margin:0 auto}
+    html,body{height:auto;min-height:100%;overflow-x:hidden;overflow-y:auto}
+    body{display:block;min-height:100vh}
+    .daily-stage{height:auto;min-height:calc(100vh - 120px);overflow:visible}
+    .open-book{height:auto;min-height:0}
+    .book-stage{height: min(76vh,820px);min-height:560px;flex:none}
+    .book{height:100%;max-height:none}
+    .spread,.spread.active,.spread.under{position:absolute;inset:0;height:100%;min-height:0}
+    .spread.active{z-index:2}
+    .mag-page{height:100%;min-height:0;overflow:hidden}
+    .mag-page.fit-1{padding-top:20px;padding-bottom:26px}
+    .mag-page.fit-2{padding:16px 22px 24px}
+    .mag-page.fit-3{padding:12px 18px 22px}
+    .feature-page{display:flex;flex-direction:column;overflow:hidden}
+    .feature-page .page-running{flex:0 0 auto}
+    .feature-page-label{margin:12px 0 7px}
+    #lead-content{display:flex;flex-direction:column;min-height:0;gap:0}
+    #lead-content .lead-image{height:auto;max-height:clamp(90px,17vh,165px);width:100%;object-fit:cover;flex:0 1 auto}
+    #lead-content h2{font-size:clamp(21px,2.35vw,31px);line-height:1.02;margin:7px 0 8px;color:#211d18}
+    #lead-content p{font-size:clamp(10px,.9vw,12px);line-height:1.38;margin:0 0 7px;color:#40392f}
+    #lead-content .read-link{margin-top:2px}
+    .feature-editor-note{font-size:8px;line-height:1.35;margin-top:auto;padding-top:6px}
+    .feature-page.fit-1 #lead-content .lead-image{max-height:120px}
+    .feature-page.fit-1 #lead-content h2{font-size:24px}
+    .feature-page.fit-1 #lead-content p{font-size:10px;line-height:1.3}
+    .feature-page.fit-2 #lead-content .lead-image{max-height:88px}
+    .feature-page.fit-2 #lead-content h2{font-size:20px;line-height:1}
+    .feature-page.fit-2 #lead-content p{font-size:9px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+    .feature-page.fit-3 #lead-content .lead-image{max-height:65px}
+    .feature-page.fit-3 #lead-content h2{font-size:18px}
+    .feature-page.fit-3 #lead-content p{-webkit-line-clamp:3}
+    .news-page.fit-1 .story{padding:7px 0}
+    .news-page.fit-1 .story h3{font-size:15px}
+    .news-page.fit-1 .story p{-webkit-line-clamp:2}
+    .news-page.fit-2 .story{padding:5px 0}
+    .news-page.fit-2 .story h3{font-size:13px}
+    .news-page.fit-2 .story-image{max-height:70px}
+    .section-page.fit-1 .indie-item,.section-page.fit-1 .release-item{padding:5px 0}
+    .section-page.fit-1 .indie-item p,.section-page.fit-1 .release-item p{-webkit-line-clamp:2}
+    .cinema-page.fit-1 .cinema-card{padding:5px 0}
+    .cinema-page.fit-1 .cinema-card p{-webkit-line-clamp:2}
+    .page-underlay{position:absolute;top:0;bottom:0;width:50%;overflow:hidden;z-index:5;pointer-events:none;background:var(--paper);box-shadow:0 0 18px #0002}
+    .page-underlay.next{right:0}
+    .page-underlay.prev{left:0}
+    .page-underlay>.mag-page{width:100%;height:100%;min-height:0}
+    .page-flip{z-index:9!important}
+    .page-flip.next{right:0}
+    .page-flip.prev{left:0}
+    .page-flip-face{background:var(--paper)}
+    .page-flip-face .mag-page{height:100%;width:100%;overflow:hidden}
+    @media(max-width:780px){
+      .masthead{padding:8px 8px 0}
+      .masthead .logo{width:180px}
+      .daily-stage{height:auto;min-height:0;padding:12px 8px 24px}
+      .open-book{height:auto;min-height:0}
+      .book-stage{height:auto;min-height:0;display:block}
+      .book{height:auto;max-height:none}
+      .spread,.spread.active,.spread.under{position:relative;inset:auto;height:auto;min-height:0}
+      .spread{grid-template-columns:1fr}
+      .spread.active{display:grid}
+      .mag-page{height:auto;min-height:0;overflow:visible;padding:22px 20px 42px}
+      .feature-page{overflow:visible}
+      #lead-content .lead-image{max-height:none;aspect-ratio:16/9}
+      #lead-content h2{font-size:clamp(25px,7vw,38px);line-height:1.02}
+      #lead-content p{font-size:13px;line-height:1.5;display:block;overflow:visible}
+      .feature-editor-note{margin-top:12px}
+      .page-underlay,.page-flip{display:none!important}
+    }
+
   </style>
 
 <link rel="icon" type="image/png" sizes="1024x1024" href="logo.png">
@@ -469,11 +542,17 @@
 </head>
 <body>
   <header class="masthead">
-    <div class="topline">
-      <div class="brand" aria-label="LEVEL NEXT"><img src="logo.png" alt=""><span><strong>LEVEL NEXT</strong><span>GRY I INTERNET</span></span></div>
-      <nav class="toplinks" aria-label="Nawigacja"><a href="forum.html">Forum <span style="color:#ffdc55;font-weight:700">NEW!</span></a><a href="index.html">Strona główna</a><a href="sprzet.html">Sprzęt</a><a href="felietony.html">Felietony</a><a href="admin.html">Dodaj news</a></nav>
-    </div>
+    <div class="logo-stage"><a href="index.html" aria-label="LEVEL NEXT - strona główna"><img class="logo" src="logo.png" alt="LEVEL NEXT"></a></div>
   </header>
+  <nav class="nav" aria-label="Główna nawigacja">
+    <a href="index.html">START</a>
+    <a href="o-nas.html">O NAS</a>
+    <a href="materialy.html">ODKRYWAJ</a>
+    <a href="retro-misja.html">RETRO ZONE</a>
+    <a href="sprzet.html">SPRZĘT</a>
+    <a href="daily.html" aria-current="page">DAILY</a>
+    <a class="nav-forum" href="forum.html">FORUM<span class="forum-new-sticker">NEW!</span></a>
+  </nav>
   <main class="daily-stage">
     <section class="closed-cover" id="closed-cover" aria-label="Okładka LEVEL NEXT DAILY">
       <div class="closed-cover-art">
@@ -725,11 +804,26 @@
   let spreads=[],current=0,busy=false,opened=false;
   const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   function collect(){spreads=[...book.querySelectorAll('.spread')];}
+  function fitPage(page){
+    if(!page||window.matchMedia('(max-width:780px)').matches)return;
+    page.classList.remove('fit-1','fit-2','fit-3');
+    const levels=['fit-1','fit-2','fit-3'];
+    for(const level of levels){
+      if(page.scrollHeight<=page.clientHeight+2)break;
+      page.classList.add(level);
+    }
+  }
+  function fitVisiblePages(){
+    const active=spreads[current];
+    if(!active)return;
+    active.querySelectorAll('.mag-page').forEach(fitPage);
+  }
   function update(){
     spreads.forEach((spread,i)=>{spread.classList.toggle('active',i===current);spread.setAttribute('aria-hidden',i===current?'false':'true');});
     prev.disabled=current===0;next.disabled=current>=spreads.length-1;
     counter.textContent=String(current+1).padStart(2,'0')+' / '+String(spreads.length).padStart(2,'0');
     progress.style.width=((current+1)/Math.max(1,spreads.length)*100)+'%';
+    requestAnimationFrame(fitVisiblePages);
   }
   function pageAt(index,side){
     const pages=spreads[index]?.querySelectorAll('.mag-page');
@@ -741,29 +835,29 @@
     busy=true;
     const fromSpread=spreads[current];
     const targetSpread=spreads[target];
-    const currentPage=pageAt(current,direction>0?1:0);
-    const targetPage=pageAt(target,direction>0?0:1);
-    if(reduced||window.matchMedia('(max-width:780px)').matches||!currentPage||!targetPage){
+    const turningPage=pageAt(current,direction>0?1:0);
+    const reverseFace=pageAt(target,direction>0?0:1);
+    const revealedPage=pageAt(target,direction>0?1:0);
+    if(reduced||window.matchMedia('(max-width:780px)').matches||!turningPage||!reverseFace||!revealedPage){
       current=target;update();busy=false;return;
     }
 
-    // Warstwa docelowa jest włączona PRZED startem animacji.
-    // Dzięki temu nowa prawa strona jest widoczna pod obracającą się kartką od pierwszej klatki.
-    targetSpread.classList.add('under');
-    targetSpread.style.display='grid';
-    targetSpread.style.visibility='visible';
-    targetSpread.style.zIndex='1';
-    targetSpread.setAttribute('aria-hidden','false');
-    fromSpread.style.zIndex='2';
+    // Odsłaniana kartka jest osobną warstwą pod przewracaną stroną.
+    // Nie pokazujemy całej następnej rozkładówki, tylko dokładnie stronę,
+    // która fizycznie znajduje się pod obracanym arkuszem.
+    const underlay=document.createElement('div');
+    underlay.className='page-underlay '+(direction>0?'next':'prev');
+    underlay.append(revealedPage.cloneNode(true));
+    book.append(underlay);
 
     const sheet=document.createElement('div');
     sheet.className='page-flip '+(direction>0?'next':'prev');
     const front=document.createElement('div');
     front.className='page-flip-face front';
-    front.append(currentPage.cloneNode(true));
+    front.append(turningPage.cloneNode(true));
     const back=document.createElement('div');
     back.className='page-flip-face back';
-    back.append(targetPage.cloneNode(true));
+    back.append(reverseFace.cloneNode(true));
     sheet.append(front,back);
     book.append(sheet);
     activeSheet=sheet;
@@ -773,18 +867,14 @@
       if(finished)return;
       finished=true;
       sheet.remove();
+      underlay.remove();
       if(activeSheet===sheet)activeSheet=null;
-      fromSpread.style.zIndex='';
-      targetSpread.classList.remove('under');
-      targetSpread.style.display='';
-      targetSpread.style.visibility='';
-      targetSpread.style.zIndex='';
       current=target;
       update();
       busy=false;
     };
     sheet.addEventListener('animationend',finish,{once:true});
-    window.setTimeout(finish,850);
+    window.setTimeout(finish,900);
   }
   function go(direction){flip(direction,current+direction);}
   function open(){
