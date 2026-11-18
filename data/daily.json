@@ -1,16 +1,103 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T08:01+01:00",
+  "updatedAt": "2026-11-18T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Assassin’s Creed Stella wyciekło! Znamy szczegóły gry „przypominającej Uncharted”",
-    "summary": "Ubisoft mógł przygotować jedną z najbardziej interesujących odsłon Assassin’s Creed od wielu lat. Do sieci trafiły szczegóły tajemniczego Project Stella, czyli anulowanej produkcji, która miała całkowicie odejść od formuły wielkich RPG ...",
-    "sourceUrl": "https://www.ppe.pl/news/433538/assassin-s-creed-stella-wycieklo-znamy-szczegoly-gry-przypominajacej-uncharted.html"
+    "title": "GTA 6: odliczanie do premiery, zaczynamy dziś. Godzina startu w Polsce oraz od kiedy będzie można grać - relacja na żywo",
+    "summary": "Już dzisiaj o godzinie 12:00 pierwsi gracze rozpoczną zabawę w GTA 6. Ciągle czekamy na pojawienie się pierwszych recenzji gry. Informacja GTA 6: odliczanie do premiery, zaczynamy dziś. Godzina startu w Polsce oraz od kiedy będzie można grać - relacja na żywo została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-odliczanie-do-premiery-zaczynamy-dzis-godzina-startu-w-pols/z132390",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532687464.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6: odliczanie do premiery, zaczynamy dziś. Godzina startu w Polsce oraz od kiedy będzie można grać - relacja na żywo",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-odliczanie-do-premiery-zaczynamy-dzis-godzina-startu-w-pols/z132390",
+      "publishedAt": "2026-11-18T09:45+01:00",
+      "summary": "Już dzisiaj o godzinie 12:00 pierwsi gracze rozpoczną zabawę w GTA 6. Ciągle czekamy na pojawienie się pierwszych recenzji gry. Informacja GTA 6: odliczanie do premiery, zaczynamy dziś. Godzina startu w Polsce oraz od kiedy będzie można grać - relacja na żywo została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532687464.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Błyskawiczny sukces polskiego hitu na Netflixie. Ogłoszono 2. sezon po tym, jak serial podbił ranking i zebrał 7,8 mln wyświetleń",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/blyskawiczny-sukces-polskiego-hitu-na-netflixie-ogloszono-2-sezon/z63238f",
+      "publishedAt": "2026-11-18T09:31+01:00",
+      "summary": "Przebojem Netfliksa został polski serial. Wystarczyły 2 tygodnie, żeby zapadła decyzja o przedłużeniu produkcji z Leszkiem Lichotą w roli głównej o drugi sezon. Informacja Błyskawiczny sukces polskiego hitu na Netflixie. Ogłoszono 2. sezon po tym, jak serial podbił ranking i zebrał 7,8 mln wyświetleń została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532686615.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wielki powrót kultowej mapy do CS2. Valve rezygnuje z dynamicznych cen naklejek",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wielki-powrot-kultowej-mapy-do-cs2-valve-rezygnuje-z-dynamicznych/z53238e",
+      "publishedAt": "2026-11-18T09:14+01:00",
+      "summary": "Valve wypuściło dużą aktualizację do Counter-Strike 2, przywracającą Cobblestone - jedną z najbardziej kultowych map w historii serii. Informacja Wielki powrót kultowej mapy do CS2. Valve rezygnuje z dynamicznych cen naklejek została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532685575.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox z szalonym kontrolerem świętującym premierę GTA 6. Jest jednak jeden problem",
+      "sourceUrl": "https://www.ppe.pl/news/433526/xbox-z-szalonym-kontrolerem-swietujacym-premiere-gta-6-jest-jednak-jeden-problem.html",
+      "publishedAt": "2026-11-18T08:55+01:00",
+      "summary": "PlayStation ma umowę marketingową z Rockstar Games i wykorzystuje ją do promocji GTA 6, ale Microsoft najwyraźniej nie zamierza bezczynnie przyglądać się największej premierze ostatnich lat. Xbox przygotował wyjątkowe zestawy dla wybranych tw�...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Minecraft Smok Kresu za 147,99 zł (cena katalogowa 249,99 zł) na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-minecraft-smok-kresu-za-14799-zl-cena-katalogowa-24999-zl-na-allegro/",
+      "publishedAt": "2026-11-18T08:54+01:00",
+      "summary": "Składający się z 710 części zestaw LEGO Minecraft – Smok Kresu, możliwy jest do kupienia taniej na Allegro. W cenie 147,99 zł otrzymacie klocki, z których zbudujecie ruchomą figurkę wspomnianego potwora z gry studia Mojang. Smok ma 21 cm wysokości, 37 cm szerokości oraz 39 cm głębokości. Wspomniany zestaw nie był do tej pory taniej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/lego-minecraft-smok-kresu-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "6 nowych screenów z GTA 6 wyciekło tuż przed premierą. Zdradzają ciekawe detale",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/6-nowych-screenow-z-gta-6-wycieklo-tuz-przed-premiera-zdradzaja-c/z43238d",
+      "publishedAt": "2026-11-18T08:52+01:00",
+      "summary": "Na kilka godzin przed premierą GTA 6 w pierwszych regionach świata do sieci trafiła kolejna porcja materiałów z gry. Informacja 6 nowych screenów z GTA 6 wyciekło tuż przed premierą. Zdradzają ciekawe detale została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532684251.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Telewizor Philips 65PQS8501/12 QLED Dolby Atmos HDMI 2.1 za 2799 zł (200 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/telewizor-philips-65pqs8501-12-qled-dolby-atmos-hdmi-2-1-za-2799-zl-200-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-18T08:46+01:00",
+      "summary": "W Hicie Dnia sklep Media Expert oferuje dziś Philips 65PQS8501/12 w nieco niższej cenie. Telewizor z 65-calową matrycą QLED o częstotliwości odświeżania 60 Hz, wsparciem dla technologii Dolby Atmos oraz trzystrefowym podświetleniem Ambilight, kosztuje 2799 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/philips-65PQS8501-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Lucia z GTA 6 ujawniona! Śliczna aktorka walczy o uwagę graczy",
+      "sourceUrl": "https://www.ppe.pl/news/433580/lucia-z-gta-6-ujawniona-sliczna-aktorka-walczy-o-uwage-graczy.html",
+      "publishedAt": "2026-11-18T08:44+01:00",
+      "summary": "Wielka tajemnica wreszcie wyszła na jaw, i to z dość nieoczekiwanego źródła.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 podbiło cały świat. To najchętniej kupowana gra na PlayStation Store",
+      "sourceUrl": "https://www.ppe.pl/news/433529/gta-6-podbilo-caly-swiat-to-najchetniej-kupowana-gra-na-playstation-store.html",
+      "publishedAt": "2026-11-18T08:35+01:00",
+      "summary": "GTA 6 bije kolejne rekordy. Grand Theft Auto 6 zdominowało rankingi sprzedaży PlayStation Store na całym świecie.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Netflix przejął ceniony serial TVN. Widzowie zobaczą aż 26 odcinków",
+      "sourceUrl": "https://www.ppe.pl/news/433531/netflix-przejal-ceniony-serial-tvn-widzowie-zobacza-az-26-odcinkow.html",
+      "publishedAt": "2026-11-18T08:10+01:00",
+      "summary": "Netflix ponownie sięga po popularną polską produkcję, która przed laty przyciągała przed telewizory wielu widzów. Platforma tym razem zdecydowała się udostępnić ceniony serial medyczny, w którym nie brakuje dramatycznych wydarzeń, skomplik...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "Assassin’s Creed Stella wyciekło! Znamy szczegóły gry „przypominającej Uncharted”",
@@ -51,6 +138,15 @@
       "publishedAt": "2026-11-18T06:35+01:00",
       "summary": "Sony przygotowało prawdziwą perełkę dla fanów GTA 6. Do sieci trafiły materiały prezentujące wyjątkowa edycję PlayStation 5 Pro. Sprzęt zachwyca kolorystyką nawiązującą do Vice City i dopracowanymi detalami. Jest jednak pewien problem - t...",
       "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Polska ma mocną reprezentację na The Game Awards 2026. Wiedźmin 4 i CD Projekt Red z największą szansę na wygraną",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/polska-ma-mocna-reprezentacje-na-the-game-awards-2026-wiedzmin-4/z33238c",
+      "publishedAt": "2026-11-18T06:30+01:00",
+      "summary": "Wiedźmin 3, Wiedźmin 4, The Blood of Dawnwalker i Mouse: P.I. For Hire reprezentują Polskę na The Game Awards 2026. W sumie polskie gry mają szansę zgarnąć 6 nagród. Informacja Polska ma mocną reprezentację na The Game Awards 2026. Wiedźmin 4 i CD Projekt Red z największą szansę na wygraną została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532646531.jpg"
     },
     {
       "sourceName": "PPE",
