@@ -1,16 +1,41 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T07:01+01:00",
+  "updatedAt": "2026-11-18T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "To najgorszy rok PlayStation od 11 lat? Gry Sony bez głównej nominacji na The Game Awards",
-    "summary": "Sony przez lata przyzwyczaiło graczy do tego, że produkcje PlayStation Studios regularnie walczą o najważniejsze nagrody w branży. Tegoroczne The Game Awards przyniosło jednak spore zaskoczenie, ponieważ po raz pierwszy od 11 lat żadna gra wydan...",
-    "sourceUrl": "https://www.ppe.pl/news/433534/to-najgorszy-rok-playstation-od-11-lat-gry-sony-bez-glownej-nominacji-na-the-game-awards.html"
+    "title": "Assassin’s Creed Stella wyciekło! Znamy szczegóły gry „przypominającej Uncharted”",
+    "summary": "Ubisoft mógł przygotować jedną z najbardziej interesujących odsłon Assassin’s Creed od wielu lat. Do sieci trafiły szczegóły tajemniczego Project Stella, czyli anulowanej produkcji, która miała całkowicie odejść od formuły wielkich RPG ...",
+    "sourceUrl": "https://www.ppe.pl/news/433538/assassin-s-creed-stella-wycieklo-znamy-szczegoly-gry-przypominajacej-uncharted.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Assassin’s Creed Stella wyciekło! Znamy szczegóły gry „przypominającej Uncharted”",
+      "sourceUrl": "https://www.ppe.pl/news/433538/assassin-s-creed-stella-wycieklo-znamy-szczegoly-gry-przypominajacej-uncharted.html",
+      "publishedAt": "2026-11-18T07:50+01:00",
+      "summary": "Ubisoft mógł przygotować jedną z najbardziej interesujących odsłon Assassin’s Creed od wielu lat. Do sieci trafiły szczegóły tajemniczego Project Stella, czyli anulowanej produkcji, która miała całkowicie odejść od formuły wielkich RPG ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Okrągłe urodziny Gears of War i Return to Castle Wolfenstein, Medieval II: Total War. Tak, tak, zdziwicie się, ile lat upłynęło od ich premiery",
+      "sourceUrl": "https://cdaction.pl/retro/okragle-urodziny-gears-of-war-i-return-to-castle-wolfenstein-medieval-ii-total-war-tak-tak-zdziwicie-sie-ile-lat-uplynelo-od-ich-premiery/",
+      "publishedAt": "2026-11-18T07:29+01:00",
+      "summary": "55 lat 📅 COMPUTER SPACE Platformy w dniu debiutu: Automaty Jedna z pierwszych komercyjnych gra wideo w historii oparta na zasadach Spacewar! Gracz steruje w niej rakietą walczącą z innymi statkami kosmicznymi. Jej premiera dała początek branży komercyjnych gier arcade i miała spory wpływ na późniejsze tytuły (stała się inspiracją m.in. dla Asteroids), ale… sprzedała...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/X06_all_GoW_ss_01-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 wygląda WYŚMIENICIE na nowych ujęciach. Rockstar Games podgrzewa graczy przed samą premierą",
+      "sourceUrl": "https://www.ppe.pl/news/433539/gta-6-wyglada-wysmienicie-na-nowych-ujeciach-rockstar-games-podgrzewa-graczy-przed-sama-premiera.html",
+      "publishedAt": "2026-11-18T07:25+01:00",
+      "summary": "Wy też odliczacie już godziny do premiery GTA 6? Rockstar Games doskonale wie, jak podgrzać atmosferę przed jednym z największych wydarzeń w historii branży. Twórcy opublikowali kolejne materiały prezentujące najnowszą odsłonę Grand Theft A...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "PPE",
       "title": "To najgorszy rok PlayStation od 11 lat? Gry Sony bez głównej nominacji na The Game Awards",
