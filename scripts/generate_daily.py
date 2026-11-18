@@ -48,7 +48,7 @@ def clean_html(value):
         value = " ".join(parser.parts)
     except Exception:
         pass
-    return re.sub(r"\s+", " ", value or "").strip()[:700]
+    return re.sub(r"\s+", " ", value or "").strip()[:1000]
 
 def clean_summary(value, title):
     text = clean_html(value)
@@ -150,7 +150,7 @@ class MetaExtractor(HTMLParser):
 
 def fetch_article_meta(item):
     """Read only public page metadata; never invent facts or rewrite source titles."""
-    url = item.get("sourceUrl", "")
+    url = item.get("sourceUrl") or item.get("availabilityUrl", "")
     if not url.startswith(("https://", "http://")):
         return item
     try:
@@ -199,6 +199,15 @@ def main():
     except Exception as error:
         print(f"Editorial data warning: {error}", file=sys.stderr)
         editorial = {}
+
+    # Uzupełnij rubryki redakcyjne o opisy i grafiki z publicznych metadanych
+    # stron źródłowych. Jeśli serwis blokuje pobieranie, zachowujemy dane ręczne.
+    for section_name in ("indie", "releases", "cinema"):
+        section_items = editorial.get(section_name)
+        if isinstance(section_items, list) and section_items:
+            editorial[section_name] = enrich_news(section_items)
+    if isinstance(editorial.get("film"), dict):
+        editorial["film"] = fetch_article_meta(editorial["film"])
 
     current_path = ROOT / "data" / "daily.json"
     editorial_hash = hashlib.sha256(
