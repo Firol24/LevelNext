@@ -1,17 +1,77 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T11:01+01:00",
+  "updatedAt": "2026-11-18T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Czy twórcy GTA 6 tak naprawdę już pokazali nam scenę z zakończenia gry? Gracze przywołują podobne przykłady z przeszłości",
-    "summary": "Czy Rockstar powtórzył zabieg z GTA 5? Część graczy podejrzewa, że wśród udostępnionych grafik promocyjnych znajduje się scena z zakończenia. Informacja Czy twórcy GTA 6 tak naprawdę już pokazali nam scenę z zakończenia gry? Gracze przywołują podobne przykłady z przeszłości została opublikowana przez GRYOnline.pl 18 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/czy-tworcy-gta-6-tak-naprawde-juz-pokazali-nam-scene-z-zakonczeni/z732396",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532693153.jpg"
+    "title": "GTA 6 może pomóc mniejszym studiom. Polski wydawca widzi w premierze szansę dla całej branży",
+    "summary": "Szef polskiego studia Gaming Factory liczy na pozytywny wpływ GTA 6 na branżę gier i przedstawił swoje stanowisko co do generatywnej sztucznej inteligencji. Informacja GTA 6 może pomóc mniejszym studiom. Polski wydawca widzi w premierze szansę dla całej branży została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moze-pomoc-mniejszym-studiom-polski-wydawca-widzi-w-premier/za32399",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532695430.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 może pomóc mniejszym studiom. Polski wydawca widzi w premierze szansę dla całej branży",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moze-pomoc-mniejszym-studiom-polski-wydawca-widzi-w-premier/za32399",
+      "publishedAt": "2026-11-18T12:02+01:00",
+      "summary": "Szef polskiego studia Gaming Factory liczy na pozytywny wpływ GTA 6 na branżę gier i przedstawił swoje stanowisko co do generatywnej sztucznej inteligencji. Informacja GTA 6 może pomóc mniejszym studiom. Polski wydawca widzi w premierze szansę dla całej branży została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532695430.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Grand Theft Auto VI - recenzja gry. Czy Rockstar naprawdę stworzył najlepszą grę w historii?",
+      "sourceUrl": "https://www.ppe.pl/recenzje/433535/grand-theft-auto-vi-recenzja-gry-czy-rockstar-naprawde-stworzyl-najlepsza-gre-w-historii.html",
+      "publishedAt": "2026-11-18T12:01+01:00",
+      "summary": "Euromajdan w Kijowie, premiera \"Wilka z Wall Street\" Martina Scorsese, finał \"Breaking Bad\", eksplozja popularności Snapchata, Rihanna na plaży w Sopocie, Gimper podbijający polski YouTube, Netflix wciąż niedostępny oficjalnie w Polsce, początki...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rozmyty obraz i problemy z rozgrywką. Znana redakcja krytykuje animację 30 fps w GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/433610/rozmyty-obraz-i-problemy-z-rozgrywka-znana-redakcja-krytykuje-animacje-30-fps-w-gta-6.html",
+      "publishedAt": "2026-11-18T11:57+01:00",
+      "summary": "Redakcja Hardware Unboxed postanowiła dorzucić swoje trzy grosze do dyskusji na temat problemu 30 fps w grach, a w szczególności w GTA 6.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Blizzard uderza w ludzi używających exploitów w WoW Forever, ale gracze zastanawiają się czy dotyczy to też streamerów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/blizzard-uderza-w-ludzi-uzywajacych-exploitow-w-wow-forever-ale-g/z932398",
+      "publishedAt": "2026-11-18T11:52+01:00",
+      "summary": "Blizzard podjął akcję w związku z przesadnym farmieniem z użyciem exploitów w Blackmaw Hold. Oszukujący gracze już wkrótce stracą swoje „ciężko” zarobione złoto. Informacja Blizzard uderza w ludzi używających exploitów w WoW Forever, ale gracze zastanawiają się czy dotyczy to też streamerów została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532694984.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pendrive Sandisk Ultra Luxe 128GB USB 3.1 za 69,99 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/pendrive-sandisk-ultra-luxe-128gb-usb-3-1-za-6999-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-18T11:44+01:00",
+      "summary": "Poręczny i korzystający ze standardu USB 3.1 pendrive Sandisk Ultra Luxe, pojawił się w wybranych sklepach internetowych w niższej cenie. Model w metalowej obudowie, która posiada praktyczne mocowanie do breloka, kosztuje 69,99 zł. Za tę kwotę otrzymacie sprzęt o pojemności 128GB. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/sandisk-luxe-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "EXODUS z NAJLEPSZYM jak dotąd materiałem pełnym gameplayu. Ależ to wygląda!",
+      "sourceUrl": "https://www.ppe.pl/news/433604/exodus-z-najlepszym-jak-dotad-materialem-pelnym-gameplayu-alez-to-wyglada.html",
+      "publishedAt": "2026-11-18T11:41+01:00",
+      "summary": "Fani kosmicznych RPG-ów od dawna tęsknią za czymś, co dorównałoby legendarnej trylogii Mass Effect. Wygląda na to, że ich prośby w końcu zostały wysłuchane.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Wyciekły szczegóły anulowanego Assassin’s Creeda przypominającego Uncharted. W rolach głównych asasynka, Templariusz i Ryszard Lwie Serce",
+      "sourceUrl": "https://cdaction.pl/newsy/wyciekly-szczegoly-anulowanego-assassins-creeda-przypominajacego-uncharted-w-rolach-glownych-asasynka-templariusz-i-ryszard-lwie-serce/",
+      "publishedAt": "2026-11-18T11:30+01:00",
+      "summary": "A mogło być tak ciekawie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-18T104358.377-1260x709.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Czy twórcy GTA 6 tak naprawdę już pokazali nam scenę z zakończenia gry? Gracze przywołują podobne przykłady z przeszłości",
@@ -20,6 +80,23 @@
       "summary": "Czy Rockstar powtórzył zabieg z GTA 5? Część graczy podejrzewa, że wśród udostępnionych grafik promocyjnych znajduje się scena z zakończenia. Informacja Czy twórcy GTA 6 tak naprawdę już pokazali nam scenę z zakończenia gry? Gracze przywołują podobne przykłady z przeszłości została opublikowana przez GRYOnline.pl 18 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532693153.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wszyscy już zapomnieli o mniemanym GOTY 2026. Wielka porażka hitu 2026 roku",
+      "sourceUrl": "https://www.ppe.pl/news/433597/wszyscy-juz-zapomnieli-o-mniemanym-goty-2026-wielka-porazka-hitu-2026-roku.html",
+      "publishedAt": "2026-11-18T11:18+01:00",
+      "summary": "Końcówka roku w branży gier to zawsze czas wielkich podsumowań, a zbliżająca się gala The Game Awards tylko podgrzewa tę atmosferę.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gry Evercade w promocji w RTV Euro AGD. Pakiety klasyków po 79,99 zł. Darmowa dostawa!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/gry-evercade-w-promocji-w-rtv-euro-agd-pakiety-klasykow-po-7999-zl-darmowa-dostawa/",
+      "publishedAt": "2026-11-18T11:13+01:00",
+      "summary": "W RTV Euro AGD macie teraz okazję zakupić kilka pakietów gier Evercade w niższych cenach. Taniej dorwiecie choćby zestaw Tomb Raider czy klasyki Activision. Co ważne, dostawa kurierem jest darmowa! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gry-Evercade-Promocja-RTV-Euro-AGD-logo-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -38,6 +115,14 @@
       "summary": "Jensen Huang podziękował wszystkim za wsparcie. Pracownicy NVIDII nie powinni jednak liczyć na powrót byłego CEO, ponieważ zarząd firmy przekazał, że sprawa została zamknięta. Informacja Jensen Huang przerwał milczenie po skandalu, który kosztował go stanowisko. Przeprosił za swoje błędy i zadeklarował gotowość do powrotu, ale NVIDIA nie chce go z powrotem została opublikowana przez GRYOnline.pl 18 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532692336.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 hołdem dla prawdziwego miasta. Mieszkańcy reagują na najważniejszą premierę dekady",
+      "sourceUrl": "https://www.ppe.pl/news/433607/gta-6-holdem-dla-prawdziwego-miasta-mieszkancy-reaguja-na-najwazniejsza-premiere-dekady.html",
+      "publishedAt": "2026-11-18T11:07+01:00",
+      "summary": "Leonida w GTA 6 wzorowana jest na stanie Floryda, a Vice City z gry na słonecznym Miami. Nie umknęło to uwadze mieszkańców tego miejsca.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "CD-Action",
