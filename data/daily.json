@@ -1,17 +1,60 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T16:01+01:00",
+  "updatedAt": "2026-11-18T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Fani od 20 lat czekają na trzecią część tego hitu z Nicolasem Cage’em. Teraz film doczekał się nowego wydania na rynek kina domowego",
-    "summary": "Przebojowe widowisko przygodowe z Nicolasem Cage’em teraz można dołączyć do swojej kolekcji w zupełnie nowym wydaniu. Informacja Fani od 20 lat czekają na trzecią część tego hitu z Nicolasem Cage’em. Teraz film doczekał się nowego wydania na rynek kina domowego została opublikowana przez GRYOnline.pl 18 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/fani-od-20-lat-czekaja-na-trzecia-czesc-tego-hitu-z-nicolasem-cag/z33239b",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532695735.jpg"
+    "title": "Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd”",
+    "summary": "Crimson Desert zostało nominowane zaledwie w jednej kategorii na The Game Awards 2026. Takie niedocenienie produkcji nie spodobało się przedstawicielowi studia Pocketpair, które odpowiada za sandbox Palworld. Informacja Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd” została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gigantyczny-otwarty-swiat-to-za-malo-crimson-desert-jest-najwieks/zc323ac",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532715548.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gigantyczny-otwarty-swiat-to-za-malo-crimson-desert-jest-najwieks/zc323ac",
+      "publishedAt": "2026-11-18T17:35+01:00",
+      "summary": "Crimson Desert zostało nominowane zaledwie w jednej kategorii na The Game Awards 2026. Takie niedocenienie produkcji nie spodobało się przedstawicielowi studia Pocketpair, które odpowiada za sandbox Palworld. Informacja Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd” została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532715548.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ponad 220 tys. aktywnych graczy na Steamie w szczytowym momencie. Slay the Spire 2 znów przyciąga przed ekrany",
+      "sourceUrl": "https://cdaction.pl/newsy/ponad-220-tys-aktywnych-graczy-na-steamie-w-szczytowym-momencie-slay-the-spire-2-znow-przyciaga-przed-ekrany/",
+      "publishedAt": "2026-11-18T16:45+01:00",
+      "summary": "A to wciąż jedynie wczesny dostęp!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-18T160220.615-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wielkie rozczarowanie na The Game Awards. Ten wielki hit dostał tylko jedną nominację",
+      "sourceUrl": "https://www.ppe.pl/news/433632/wielkie-rozczarowanie-na-the-game-awards-ten-wielki-hit-dostal-tylko-jedna-nominacje.html",
+      "publishedAt": "2026-11-18T16:44+01:00",
+      "summary": "Nominacje do The Game Awards 2026 wywołały sporo emocji, ale nie wszystkim przypadły do gustu. Crimson Desert, które otrzymało zaledwie jedno wyróżnienie i nie znalazło się nawet wśród kandydatów do tytułu Gry Roku.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Assassin’s Creed Shadows na Nintendo Switch 2 od 136,58 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-assassins-creed-shadows-na-nintendo-switch-2-od-13658-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-18T16:22+01:00",
+      "summary": "Wydaną na Game Key Card wersję Assassin’s Creed Shadows, przeznaczoną na Nintendo Switch 2, możecie nabyć w świetnej cenie na Allegro oraz w sklepie Media Expert. Pudełkowe wydanie gry studia Ubisoft, w której wcielicie się w dwóch protagonistów, Naoe i Yasuke, kosztuje 136,58 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Assassins-Creed-Shadows-switch-2_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tak wybrano nowego Jamesa Bonda! Jeff Bezos ujawnił kulisy castingu",
+      "sourceUrl": "https://www.ppe.pl/news/433624/tak-wybrano-nowego-jamesa-bonda-jeff-bezos-ujawnil-kulisy-castingu.html",
+      "publishedAt": "2026-11-18T16:16+01:00",
+      "summary": "Robert Pattinson został nowym Jamesem Bondem, ale jego wybór nie od początku był oczywisty dla osób odpowiedzialnych za casting.",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Fani od 20 lat czekają na trzecią część tego hitu z Nicolasem Cage’em. Teraz film doczekał się nowego wydania na rynek kina domowego",
@@ -37,6 +80,15 @@
       "summary": "Bruce Willis był bliski otrzymania jednej ze swoich pierwszych znaczących ról filmowych, ale ostatecznie przegrał casting. Niepowodzenie okazało się jednak przełomowym momentem w jego karierze. Po latach aktor osobiście podziękował reżyserce za tę decyzję. Informacja 42 lata temu odrzucono Bruce&apos;a Willisa na castingu do pierwszej dużej roli. Aktor uznał później, że była to najlepsza rzecz, jaka mogła go spotkać została opublikowana przez GRYOnline.pl 18 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532691788.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Europejskie związki zawodowe opublikowały manifest przeciw AI. „Organizujcie się i walczcie o swoje prawa!”",
+      "sourceUrl": "https://cdaction.pl/newsy/europejskie-zwiazki-zawodowe-opublikowaly-manifest-przeciw-ai-organizujcie-sie-i-walczcie-o-swoje-prawa/",
+      "publishedAt": "2026-11-18T16:00+01:00",
+      "summary": "Ważny głos z perspektywy pracowników w debacie o sztucznej inteligencji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-18T123902.872-1260x709.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
