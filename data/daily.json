@@ -1,17 +1,70 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T13:01+01:00",
+  "updatedAt": "2026-11-18T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 rozbiło bank na Metacritic! Pierwsze recenzje to spełnienie marzeń fanów gier Rockstar Games",
-    "summary": "W sieci pojawiły się pierwsze recenzje GTA 6. Dzieło Rockstar Games zdetronizowało The Legend of Zelda: Ocarina of Time i jest obecnie najwyżej ocenianą grą w serwisie Metacritic. Informacja GTA 6 rozbiło bank na Metacritic! Pierwsze recenzje to spełnienie marzeń fanów gier Rockstar Games została opublikowana przez GRYOnline.pl 18 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-rozbilo-bank-na-metacritic-pierwsze-recenzje-to-spelnienie/zb323a2",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532702275.jpg"
+    "title": "Mija już 20 lat od narodzin świetnej serii strzelanek. Dziś pozostały po niej tylko wspomnienia, porzucone koncepty i nadzieja na reboot",
+    "summary": "Trylogia Resistance skończyła właśnie dwadzieścia lat. Jak zestarzała się strzelanka, którą pokochali posiadacze PS3? Informacja Mija już 20 lat od narodzin świetnej serii strzelanek. Dziś pozostały po niej tylko wspomnienia, porzucone koncepty i nadzieja na reboot została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/mija-juz-20-lat-od-narodzin-swietnej-serii-strzelanek-dzis-pozost/zd323a4",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532703738.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Mija już 20 lat od narodzin świetnej serii strzelanek. Dziś pozostały po niej tylko wspomnienia, porzucone koncepty i nadzieja na reboot",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mija-juz-20-lat-od-narodzin-swietnej-serii-strzelanek-dzis-pozost/zd323a4",
+      "publishedAt": "2026-11-18T14:20+01:00",
+      "summary": "Trylogia Resistance skończyła właśnie dwadzieścia lat. Jak zestarzała się strzelanka, którą pokochali posiadacze PS3? Informacja Mija już 20 lat od narodzin świetnej serii strzelanek. Dziś pozostały po niej tylko wspomnienia, porzucone koncepty i nadzieja na reboot została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532703738.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 to graficzny przełom według ekspertów. Digital Foundry oceniło, jak gra działa na PS5 i PS5 Pro",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-to-graficzny-przelom-wedlug-ekspertow-digital-foundry-oceni/zc323a3",
+      "publishedAt": "2026-11-18T14:08+01:00",
+      "summary": "Digital Foundry opublikowało materiał poświęcony Grand Theft Auto VI. Gra opisywana jest jako przełom pod względem realizmu i poziomu symulacji wirtualnego świata. Informacja GTA 6 to graficzny przełom według ekspertów. Digital Foundry oceniło, jak gra działa na PS5 i PS5 Pro została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532703304.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 zdobędzie znakomite oceny? Aktor z GTA 4 przewiduje ostateczny wynik",
+      "sourceUrl": "https://www.ppe.pl/news/433618/gta-6-zdobedzie-znakomite-oceny-aktor-z-gta-4-przewiduje-ostateczny-wynik.html",
+      "publishedAt": "2026-11-18T14:01+01:00",
+      "summary": "Premiera Grand Theft Auto 6 będzie jednym z najważniejszych wydarzeń w historii branży gier, a jej odbiór może mieć znaczenie także dla innych producentów i wydawców.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Karty graficzne NVIDII mogły być drogie nie przez przypadek. Firma miała finansować własnych klientów, by napędzać sprzedaż i utrzymywać ceny",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/karty-graficzne-nvidii-mogly-byc-drogie-nie-przez-przypadek-firma/z53239d",
+      "publishedAt": "2026-11-18T14:00+01:00",
+      "summary": "Według doniesień wewnątrz NVIDII panował spór dotyczący strategii firmy. Jensen Huang popierał ryzykowne działania, które rzekomo prowadziły do wzrostu cen podzespołów. Informacja Karty graficzne NVIDII mogły być drogie nie przez przypadek. Firma miała finansować własnych klientów, by napędzać sprzedaż i utrzymywać ceny została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532699320.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Czy to jakiś żart?”. Nawet najwierniejsi fani nie wierzą, że ich ulubiona gra dostała nominację do The Game Awards",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/czy-to-jakis-zart-nawet-najwierniejsi-fani-nie-wierza-ze-ich-ulub/z73239f",
+      "publishedAt": "2026-11-18T14:00+01:00",
+      "summary": "Helldivers 2 znalazło się wśród nominowanych do nagrody za najlepsze wsparcie – fani wydają się z tą decyzją polemizować. Informacja „Czy to jakiś żart?”. Nawet najwierniejsi fani nie wierzą, że ich ulubiona gra dostała nominację do The Game Awards została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532699676.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Twitch pozwoli zdobyć GTA VI za darmo! Kody za oglądanie streamów. Promocja wystartowała!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/twitch-pozwoli-zdobyc-gta-vi-za-darmo-kody-za-ogladanie-streamow-promocja-wystartowala/",
+      "publishedAt": "2026-11-18T13:54+01:00",
+      "summary": "Premiera GTA VI już za nami (choć nie we wszystkich krajach)! Twitch, serwis internetowy do prowadzenia transmisji, postanowił jeszcze bardziej podgrzać atmosferę i przygotował dropy dla oglądających. Tym razem jednak nie będą to wyłącznie skórki czy inne elementy kosmetyczne ani też ozdoby profilu (choć te też się pojawią). Podczas konferencji TwitchCon zapowiedziano, że możemy liczyć na darmowe kody na GTA VI Ultimate Edition. I to w naprawdę dużej liczbie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-za-darmo-Twitch-logo-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 rozbiło bank na Metacritic! Pierwsze recenzje to spełnienie marzeń fanów gier Rockstar Games",
@@ -20,6 +73,39 @@
       "summary": "W sieci pojawiły się pierwsze recenzje GTA 6. Dzieło Rockstar Games zdetronizowało The Legend of Zelda: Ocarina of Time i jest obecnie najwyżej ocenianą grą w serwisie Metacritic. Informacja GTA 6 rozbiło bank na Metacritic! Pierwsze recenzje to spełnienie marzeń fanów gier Rockstar Games została opublikowana przez GRYOnline.pl 18 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532702275.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gameplay z GTA 6 na PS5 Pro! Zobaczcie dojazd do Ocean Drive z Grand Theft Auto 6",
+      "sourceUrl": "https://www.ppe.pl/news/433609/gameplay-z-gta-6-na-ps5-pro-zobaczcie-dojazd-do-ocean-drive-z-grand-theft-auto-6.html",
+      "publishedAt": "2026-11-18T13:53+01:00",
+      "summary": "Rockstar Games przygotowało gigantyczny świat, który już od pierwszych chwil potrafi zachwycić szczegółowością. Tym razem zapraszamy Was na kolejny gameplay z GTA 6 nagrany na PlayStation 5 Pro, ale zamiast widowiskowych strzelanin i dynamiczny...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 to najlepsza gra w historii! Gdzie kupić najtaniej na PS5 i XSX?",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/433627/gta-6-to-najlepsza-gra-w-historii-gdzie-kupic-najtaniej-na-ps5-i-xsx.html",
+      "publishedAt": "2026-11-18T13:42+01:00",
+      "summary": "Polskie sklepy mają trudności z wersją pudełkową GTA 6, ale w jednym elektromarkecie wciąż nabędziemy grę z wysyłką jeszcze dzisiaj.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Phantom Blade Zero doczekał się nietypowej zmiany. Od teraz możecie zagrać piękną protagonistką",
+      "sourceUrl": "https://www.ppe.pl/news/433614/phantom-blade-zero-doczekal-sie-nietypowej-zmiany-od-teraz-mozecie-zagrac-piekna-protagonistka.html",
+      "publishedAt": "2026-11-18T13:41+01:00",
+      "summary": "Fani Phantom Blade Zero przygotowali kolejną interesującą modyfikację. Tym razem do pecetowej wersji gry trafiła 2B, czyli jedna z najbardziej rozpoznawalnych postaci z NieR: Automata.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konfigurowalny pad SCUF Pro Omega do PC i PS5 za 777 zł (223 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konfigurowalny-pad-scuf-pro-omega-do-pc-i-ps5-za-777-zl-223-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-18T13:39+01:00",
+      "summary": "Sklep x-kom postanowił obniżyć cenę SCUF Pro Omega wrzucając go do Gorącego Strzału. Akcesorium kompatybilne z PC oraz konsolami Sony PlayStation 5, z możliwością bezprzewodowego połączenia, konfiguracji przycisków, kosztuje 777 złotych. Sprzęt wyposażono również w podświetlenie z 11 strefami, dodatkowe przyciski, gniazdo combo słuchawkowo-mikrofonowe, czy też szybkie ładowanie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/scuf-pro-omega-2b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +117,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532699648.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "World of Warcraft: Forever walczy z cheaterami. Blizzard tymczasem przedstawia szalone liczby, jakie wykręcili gracze",
+      "sourceUrl": "https://cdaction.pl/newsy/world-of-warcraft-forever-walczy-z-cheaterami-blizzard-tymczasem-przedstawia-szalone-liczby-jakie-wykrecili-gracze/",
+      "publishedAt": "2026-11-18T13:30+01:00",
+      "summary": "Dzieje się w Classic+.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/World-of-Warcraft-Forever-1.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Tak wygląda GTA 6 w akcji! Pierwsi gracze już grają, a streamy pokazały spory problem z prezentacją gry",
       "sourceUrl": "https://www.gry-online.pl/newsroom/tak-wyglada-gta-6-w-akcji-pierwsi-gracze-juz-graja-a-streamy-poka/za323a1",
@@ -38,6 +133,23 @@
       "summary": "Pierwsi streamerzy i gracze rozpoczęli swoją przygodę z Grand Theft Auto 6, ale nie liczcie na rychłe pojawienie się ich opinii. Informacja Tak wygląda GTA 6 w akcji! Pierwsi gracze już grają, a streamy pokazały spory problem z prezentacją gry została opublikowana przez GRYOnline.pl 18 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532700592.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tomb Raider: Legacy of Atlantis i Catalyst zagrożone? Crystal Dynamics zwalnia kolejnych pracowników",
+      "sourceUrl": "https://www.ppe.pl/news/433621/tomb-raider-legacy-of-atlantis-i-catalyst-zagrozone-crystal-dynamics-zwalnia-kolejnych-pracownikow.html",
+      "publishedAt": "2026-11-18T13:21+01:00",
+      "summary": "Studio Crystal Dynamics przeprowadziło kolejną redukcję personelu. Pracę w firmie straciło osiem osób. To już piąta fala cięć w strukturach tego dewelopera na przestrzeni ostatnich dwóch lat. Sprawę nagłośnił serwis Vertical Slice.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Grand Theft Auto VI na PS5 za 308,19 zł (zamiast 349 zł) w Instant Gaming",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/grand-theft-auto-vi-na-ps5-za-30819-zl-zamiast-349-zl-w-instant-gaming/",
+      "publishedAt": "2026-11-18T13:05+01:00",
+      "summary": "Wybitne GTA VI możecie kupić w dobrej cenie w Instant Gaming. Sklep oferuje pretendenta do GOTY 2026 aktualnie za 308,19 zł. Jest to wersja przeznaczona na konsole Sony PlayStation 5. Przypominamy, gra ma swoją polską premierę już o północy! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/Grand-Theft-Auto-VI-okladka-cover-art-1-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
