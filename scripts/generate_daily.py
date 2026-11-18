@@ -5,6 +5,7 @@ import json
 import re
 import sys
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -51,11 +52,11 @@ def clean_html(value):
 
 def clean_summary(value, title):
     text = clean_html(value)
-    text = re.sub(r"\\s+(?:Informacja|Wiadomość)\\s+.+?\\s+została opublikowana przez .+$", "", text, flags=re.I)
-    text = re.sub(r"^(?:Informacja|Wiadomość)\\s+.+?\\s+została opublikowana przez .+$", "", text, flags=re.I)
+    text = re.sub(r"\s+(?:Informacja|Wiadomość)\s+.+?\s+została opublikowana przez .+$", "", text, flags=re.I)
+    text = re.sub(r"^(?:Informacja|Wiadomość)\s+.+?\s+została opublikowana przez .+$", "", text, flags=re.I)
     if title and text.lower().startswith(title.lower()):
         text = text[len(title):].lstrip(" .:—–-")
-    return text[:650].strip()
+    return text[:900].strip()
 
 def image_from_item(item, description):
     for node in item.iter():
@@ -134,6 +135,60 @@ def fetch_feed(name, url):
             output.append(item_data)
     return output
 
+class MetaExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.meta = {}
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() != "meta":
+            return
+        values = {str(k).lower(): str(v) for k, v in attrs if v is not None}
+        key = (values.get("property") or values.get("name") or "").lower()
+        content = values.get("content", "").strip()
+        if key and content and key not in self.meta:
+            self.meta[key] = content
+
+def fetch_article_meta(item):
+    """Read only public page metadata; never invent facts or rewrite source titles."""
+    url = item.get("sourceUrl", "")
+    if not url.startswith(("https://", "http://")):
+        return item
+    try:
+        request = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; LEVEL-NEXT-DAILY/1.0; +https://firol24.github.io/LevelNext)"
+        })
+        with urllib.request.urlopen(request, timeout=7) as response:
+            if "text/html" not in response.headers.get("Content-Type", "").lower():
+                return item
+            raw = response.read(350_000).decode("utf-8", errors="replace")
+        parser = MetaExtractor()
+        parser.feed(raw)
+        meta = parser.meta
+        description = meta.get("og:description") or meta.get("description") or meta.get("twitter:description") or ""
+        description = clean_summary(description, item.get("title", ""))
+        current = item.get("summary", "")
+        if len(description) >= 100 and len(description) > len(current) + 35:
+            item["summary"] = description[:900]
+        image = meta.get("og:image") or meta.get("twitter:image") or ""
+        if image.startswith(("https://", "http://")) and not item.get("imageUrl"):
+            item["imageUrl"] = image
+    except Exception as error:
+        print(f"Article metadata skipped ({url}): {error}", file=sys.stderr)
+    return item
+
+def enrich_news(items):
+    # A small worker pool keeps the hourly GitHub Action within a predictable runtime.
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        futures = [pool.submit(fetch_article_meta, item) for item in items[:30]]
+        enriched = []
+        for future in as_completed(futures):
+            try:
+                enriched.append(future.result())
+            except Exception:
+                pass
+    by_url = {item.get("sourceUrl"): item for item in enriched}
+    return [by_url.get(item.get("sourceUrl"), item) for item in items]
+
 def main():
     now = datetime.now(WARSAW)
     force = __import__("os").environ.get("FORCE_PUBLISH") == "1"
@@ -199,7 +254,7 @@ def main():
 
     # Rotacja źródeł: pokazujemy więcej materiałów, ale pilnujemy różnorodności.
     # Liczba newsów jest dynamiczna: zależy od tego, ile pozycji zwrócą RSS-y.
-    # Maksymalnie 5 materiałów z jednego źródła, bez sztywnego limitu całego wydania.
+    # Maksymalnie 5 materiałów z jednego źródła; całe wydanie ma limit 30 pozycji.
     news, source_counts = [], {}
     while True:
         added_this_round = False
@@ -239,6 +294,11 @@ def main():
     if not news:
         raise RuntimeError("Brak nowych materiałów po odfiltrowaniu powtórek. Nie publikuję pustego wydania.")
 
+    news.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
+    # Jedno wydanie ma być czytelne. Zachowujemy maksymalnie 30 najnowszych
+    # materiałów, a nie dokładamy bez końca kolejnych pozycji przy aktualizacji godzinowej.
+    news = news[:30]
+    news = enrich_news(news)
     news.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
     lead_item = news[0]
     rss_fields = {
