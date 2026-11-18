@@ -405,6 +405,49 @@
     }
     @media(prefers-reduced-motion:reduce){.closed-cover-art,.page-flip.next,.page-flip.prev{animation:none!important;transition:none!important}}
 
+
+    /* FINAL FIX: okładka mieści się w całości, bez przewijania i obcinania */
+    .closed-cover-art{
+      overflow:hidden;
+      padding:clamp(16px,2.8vh,28px) clamp(18px,3vw,30px);
+    }
+    .closed-brand{margin:clamp(12px,2.2vh,22px) 0 9px;gap:9px;font-size:11px}
+    .closed-brand img{width:clamp(38px,5vh,48px);height:clamp(38px,5vh,48px)}
+    .closed-cover h1{font-size:clamp(36px,5.4vh,56px);line-height:.86}
+    .closed-cover-rule{height:3px;margin:12px 0 8px}
+    .closed-cover-date{font-size:9px}
+    .closed-cover-feature{
+      flex:1 1 auto;min-height:0;display:flex;flex-direction:column;
+      margin:12px 0 8px;padding-top:11px;max-width:none;
+    }
+    .cover-eyebrow{font-size:8px;margin-bottom:7px}
+    #cover-headline{font-size:clamp(18px,2.55vh,27px);line-height:1.02;overflow-wrap:anywhere}
+    #cover-summary{
+      font-size:clamp(10px,1.35vh,11px);line-height:1.35;margin:7px 0 0;
+      display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;
+    }
+    .cover-feature-image{height:clamp(68px,10.5vh,104px);min-height:0;flex:0 0 auto;margin-top:8px}
+    .closed-cover-bottom{margin:0 0 8px;font-size:8px}
+    .open-magazine{flex:0 0 auto;padding:10px 14px;font-size:9px}
+    /* Rozkładówka pod przewracaną kartką musi być renderowana od pierwszej klatki */
+    .book{isolation:isolate}
+    .spread.under{
+      display:grid!important;visibility:visible!important;opacity:1!important;
+      position:absolute;inset:0;z-index:1!important;pointer-events:none;
+    }
+    .spread.active{position:absolute;inset:0;z-index:2!important}
+    .page-flip{z-index:8!important}
+    .mag-page{overflow:hidden}
+    .feature-page{overflow:hidden}
+    @media(max-width:780px){
+      .closed-cover{width:min(420px,calc((100dvh - 100px)*.68));height:min(620px,calc(100dvh - 100px))}
+      .closed-cover-art{padding:18px 18px 16px}
+      .closed-brand{margin:14px 0 10px}
+      .closed-cover h1{font-size:clamp(39px,10vw,55px)}
+      #cover-headline{font-size:clamp(19px,5vw,25px)}
+      .cover-feature-image{height:clamp(72px,12vh,105px)}
+    }
+
   </style>
 
 <link rel="icon" type="image/png" sizes="1024x1024" href="logo.png">
@@ -577,7 +620,7 @@
     if(data.editorNote) $('editor-note').textContent=data.editorNote;
     const news=$('news-list');
     if(date){const d=new Date(date+'T12:00:00');$('book-edition').textContent=d.toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'});}
-    if(data.lead&&data.lead.title){$('cover-headline').textContent=data.lead.title;$('cover-summary').textContent=data.lead.summary||'Otwórz numer, aby przeczytać szczegóły.';if(data.lead.imageUrl){const coverImage=$('cover-image');coverImage.src=safeUrl(data.lead.imageUrl);coverImage.classList.remove('hidden');coverImage.onerror=()=>coverImage.classList.add('hidden');}}
+    if(data.lead&&data.lead.title){$('cover-headline').textContent=data.lead.title;$('cover-summary').textContent=(data.lead.summary||'Otwórz numer, aby przeczytać szczegóły.').trim().slice(0,150).replace(/\\s+\\S*$/,'')+((data.lead.summary||'').trim().length>150?'…':'');if(data.lead.imageUrl){const coverImage=$('cover-image');coverImage.src=safeUrl(data.lead.imageUrl);coverImage.classList.remove('hidden');coverImage.onerror=()=>coverImage.classList.add('hidden');}}
     if(Array.isArray(data.news)&&data.news.length){
       const items=data.news;
       const pageSize=3;
@@ -694,12 +737,23 @@
   function flip(direction,target){
     if(busy||target<0||target>=spreads.length)return;
     busy=true;
+    const fromSpread=spreads[current];
     const targetSpread=spreads[target];
     const currentPage=pageAt(current,direction>0?1:0);
     const targetPage=pageAt(target,direction>0?0:1);
-    if(reduced||window.matchMedia('(max-width:780px)').matches||!currentPage||!targetPage){current=target;update();busy=false;return;}
-    // Najpierw kładziemy następną rozkładówkę pod aktualną. Kartka odsłania ją w trakcie obrotu.
+    if(reduced||window.matchMedia('(max-width:780px)').matches||!currentPage||!targetPage){
+      current=target;update();busy=false;return;
+    }
+
+    // Warstwa docelowa jest włączona PRZED startem animacji.
+    // Dzięki temu nowa prawa strona jest widoczna pod obracającą się kartką od pierwszej klatki.
     targetSpread.classList.add('under');
+    targetSpread.style.display='grid';
+    targetSpread.style.visibility='visible';
+    targetSpread.style.zIndex='1';
+    targetSpread.setAttribute('aria-hidden','false');
+    fromSpread.style.zIndex='2';
+
     const sheet=document.createElement('div');
     sheet.className='page-flip '+(direction>0?'next':'prev');
     const front=document.createElement('div');
@@ -711,19 +765,24 @@
     sheet.append(front,back);
     book.append(sheet);
     activeSheet=sheet;
+
     let finished=false;
     const finish=()=>{
       if(finished)return;
       finished=true;
       sheet.remove();
       if(activeSheet===sheet)activeSheet=null;
+      fromSpread.style.zIndex='';
       targetSpread.classList.remove('under');
+      targetSpread.style.display='';
+      targetSpread.style.visibility='';
+      targetSpread.style.zIndex='';
       current=target;
       update();
       busy=false;
     };
     sheet.addEventListener('animationend',finish,{once:true});
-    window.setTimeout(finish,900);
+    window.setTimeout(finish,850);
   }
   function go(direction){flip(direction,current+direction);}
   function open(){
