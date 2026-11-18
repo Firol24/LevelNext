@@ -214,7 +214,7 @@
     .closed-cover-feature{margin:auto 0 20px;border-top:1px solid #fff5;padding-top:17px;max-width:390px}
     .cover-eyebrow{display:block;color:var(--yellow);font:700 9px var(--mono);letter-spacing:.16em;margin-bottom:10px}
     #cover-headline{font:clamp(23px,3.5vh,36px)/1.02 var(--serif);color:#fff}
-    #cover-summary{font:12px/1.5 var(--sans);color:#d6c8df;margin:10px 0 0}
+    #cover-summary{font:12px/1.5 var(--sans);color:#d6c8df;margin:10px 0 0}\n    .cover-feature-image{width:100%;height:clamp(105px,18vh,165px);object-fit:cover;margin-top:12px;border:1px solid #fff5;box-shadow:0 7px 18px #0005}
     .closed-cover-bottom{margin-bottom:15px;color:#bba5cb}
     .open-magazine{align-self:flex-start;border:1px solid var(--yellow);background:var(--yellow);color:#170c20;padding:12px 17px;font:700 10px var(--mono);letter-spacing:.1em;cursor:pointer;z-index:2}
     .open-magazine span{font-size:16px;margin-left:12px}
@@ -370,6 +370,7 @@
         <div class="closed-cover-feature">
           <span class="cover-eyebrow">TEMAT NUMERU</span>
           <div id="cover-headline">Wczytywanie najnowszych wiadomości…</div>
+          <img id="cover-image" class="cover-feature-image hidden" alt="" loading="lazy">
           <p id="cover-summary">Codzienna dawka informacji ze świata gier, retro i popkultury.</p>
         </div>
         <div class="closed-cover-bottom"><span>PRESS START TO OPEN</span><span>LEVELNEXT.PL / DAILY</span></div>
@@ -506,7 +507,7 @@
     if(data.editorNote) $('editor-note').textContent=data.editorNote;
     const news=$('news-list');
     if(date){const d=new Date(date+'T12:00:00');$('book-edition').textContent=d.toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'});}
-    if(data.lead&&data.lead.title){$('cover-headline').textContent=data.lead.title;$('cover-summary').textContent=data.lead.summary||'Otwórz numer, aby przeczytać szczegóły.';}
+    if(data.lead&&data.lead.title){$('cover-headline').textContent=data.lead.title;$('cover-summary').textContent=data.lead.summary||'Otwórz numer, aby przeczytać szczegóły.';if(data.lead.imageUrl){const coverImage=$('cover-image');coverImage.src=safeUrl(data.lead.imageUrl);coverImage.classList.remove('hidden');coverImage.onerror=()=>coverImage.classList.add('hidden');}}
     if(Array.isArray(data.news)&&data.news.length){
       const items=data.news;
       const pageSize=4;
