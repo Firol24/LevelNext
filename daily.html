@@ -102,6 +102,96 @@
     @media(max-width:980px){.cinema-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
     @media(max-width:780px){.cinema-grid{grid-template-columns:1fr}.masthead{padding:14px 14px 0}.topline{align-items:flex-start}.toplinks{gap:10px;font-size:9px}.paper{margin:16px 10px 60px}.title-row{align-items:flex-start;flex-direction:column}.title-side{text-align:left;max-width:none}.lead-grid,.columns{grid-template-columns:1fr}.side-note{border-left:0;border-top:1px solid var(--line);padding:16px 0 0}.news-list{grid-template-columns:1fr}.paper-inner{padding:20px}.ticker{margin:15px 0 20px}}
     @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.ticker-track{animation:none}*{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+  
+    /* LEVEL NEXT DAILY: wydanie magazynowe */
+    .paper{max-width:1320px;margin:24px auto 34px;background:transparent;border:0;box-shadow:none;overflow:visible}
+    .paper:before{display:none}.paper-inner{padding:0}
+    .book-toolbar{display:flex;align-items:center;justify-content:space-between;gap:14px;max-width:1180px;margin:0 auto 12px;padding:0 14px;color:#e9dff0;font:10px var(--mono);letter-spacing:.1em;text-transform:uppercase}
+    .book-toolbar strong{color:var(--yellow)}
+    .book-controls{display:flex;align-items:center;gap:8px}
+    .book-controls button{border:1px solid #8d65a8;background:#260044;color:var(--yellow);padding:10px 14px;font:700 10px var(--mono);cursor:pointer;transition:background .2s,transform .2s}
+    .book-controls button:hover:not(:disabled){background:#6a0dad;transform:translateY(-2px)}
+    .book-controls button:disabled{opacity:.35;cursor:not-allowed}
+    .book-counter{min-width:82px;text-align:center;color:#d8c7e7}
+    .book{position:relative;max-width:1180px;margin:0 auto;perspective:1800px}
+    .spread{display:none;grid-template-columns:1fr 1fr;gap:0;min-height:720px;filter:drop-shadow(0 18px 32px #0008)}
+    .spread.active{display:grid;animation:spreadIn .42s ease both}
+    .spread.turn-next{transform-origin:left center;animation:turnNext .52s cubic-bezier(.2,.75,.25,1) both}
+    .spread.turn-prev{transform-origin:right center;animation:turnPrev .52s cubic-bezier(.2,.75,.25,1) both}
+    @keyframes spreadIn{from{opacity:.65;transform:translateX(18px)}to{opacity:1;transform:translateX(0)}}
+    @keyframes turnNext{0%{transform:rotateY(0);opacity:1}45%{transform:rotateY(-9deg);opacity:.7}100%{transform:rotateY(0);opacity:1}}
+    @keyframes turnPrev{0%{transform:rotateY(0);opacity:1}45%{transform:rotateY(9deg);opacity:.7}100%{transform:rotateY(0);opacity:1}}
+    .mag-page{position:relative;min-width:0;min-height:720px;padding:clamp(22px,3.1vw,42px);background:var(--paper);color:var(--ink);overflow:hidden}
+    .mag-page:first-child{border-right:1px solid #bdb39d}
+    .mag-page:before{content:"";position:absolute;inset:0;pointer-events:none;opacity:.13;background-image:radial-gradient(#6d5a3a .55px,transparent .55px);background-size:5px 5px}
+    .mag-page>*{position:relative}
+    .page-number{position:absolute!important;bottom:13px;left:22px;color:#766d78;font:9px var(--mono);letter-spacing:.12em}
+    .mag-page:nth-child(2) .page-number{left:auto;right:22px}
+    .page-running{display:flex;justify-content:space-between;gap:10px;padding-bottom:9px;border-bottom:1px solid var(--ink);font:9px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:#655d69}
+    .cover-page{display:flex;flex-direction:column;background:linear-gradient(145deg,#f4f0e2,#e4dcc7)}
+    .cover-mast{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:20px 0 24px}
+    .cover-mast img{width:54px;height:54px;object-fit:contain}
+    .cover-mast b{font:700 12px var(--mono);letter-spacing:.1em;color:var(--purple)}
+    .cover-title{font:clamp(46px,6.4vw,82px)/.78 var(--serif);letter-spacing:-.065em;margin:0 0 18px}
+    .cover-title span{display:block;color:var(--purple);font-size:1.08em}
+    .cover-sub{font:11px/1.6 var(--mono);letter-spacing:.09em;text-transform:uppercase;color:#615768;border-top:4px double var(--ink);padding-top:12px}
+    .cover-lead{margin:auto 0 20px;padding-top:22px;border-top:1px solid var(--line)}
+    .cover-lead .section-kicker{margin-bottom:12px}
+    .cover-lead h2{font:clamp(28px,3.8vw,48px)/.98 var(--serif);margin:12px 0}
+    .cover-lead p{font:14px/1.6 var(--sans);color:#514956}
+    .cover-stamp{align-self:flex-end;border:2px solid var(--purple);color:var(--purple);padding:7px 10px;font:700 10px var(--mono);transform:rotate(-4deg)}
+    .page-heading{font:clamp(30px,4vw,46px)/.95 var(--serif);margin:18px 0 8px;letter-spacing:-.035em}
+    .page-intro{font:12px/1.6 var(--sans);color:#5d5360;margin:0 0 20px}
+    .news-page .news-list{grid-template-columns:1fr;gap:0}
+    .news-page .story{display:grid;grid-template-columns: minmax(110px,.42fr) minmax(0,1fr);column-gap:14px;padding:14px 0}
+    .news-page .story-image{grid-row:1/5;aspect-ratio:4/3;max-height:130px;object-fit:cover;margin:0}
+    .news-page .story h3{font-size:19px;margin:5px 0}
+    .news-page .story p{font-size:11px;line-height:1.48}
+    .news-page .story .tag,.news-page .story .story-meta,.news-page .story .read-link{grid-column:2}
+    .news-page .searchbar{margin:14px 0}
+    .news-page .searchbar input{background:#fff;border-color:#c9c0a9}
+    .section-page .section-kicker{margin:16px 0 12px}
+    .section-page .side-section{margin-bottom:24px}
+    .section-page .indie-item,.section-page .release-item{display:grid;grid-template-columns:100px minmax(0,1fr);gap:0 13px}
+    .section-page .editorial-image,.section-page .release-image{grid-row:1/6;width:100px;height:82px;object-fit:cover;margin:0}
+    .section-page .indie-item h3,.section-page .release-item h3{font-size:18px}
+    .section-page .indie-item p,.section-page .release-item p{font-size:11px}
+    .film-page .film-box{margin-top:20px;padding:20px}
+    .film-page .film-image{max-height:210px;object-fit:cover}
+    .cinema-page .cinema-grid{grid-template-columns:1fr;gap:0}
+    .cinema-page .cinema-card{display:grid;grid-template-columns:90px minmax(0,1fr);gap:0 13px;padding:12px 0}
+    .cinema-page .cinema-image{grid-row:1/6;width:90px;max-width:90px;height:128px;object-fit:cover}
+    .cinema-page .cinema-card h3{font-size:19px}
+    .cinema-page .cinema-card p{font-size:11px}
+    .archive-page{background:#e8e1d0}
+    .archive-page .archive-list{display:grid;grid-template-columns:1fr 1fr}
+    .archive-page .archive-list a{background:#f7f3e8}
+    .back-cover{display:flex;flex-direction:column;justify-content:space-between;background:linear-gradient(150deg,#2b0644,#10091a);color:#f1eedf}
+    .back-cover h2{font:clamp(32px,4vw,52px)/.95 var(--serif);color:var(--yellow)}
+    .back-cover p{font:13px/1.7 var(--sans);color:#d8cce1}
+    .back-cover a{color:var(--yellow)}
+    .back-cover .page-number{color:#c5b4d3}
+    .book-progress{height:3px;max-width:1180px;margin:0 auto 20px;background:#ffffff20}
+    .book-progress span{display:block;height:100%;width:25%;background:var(--yellow);transition:width .35s}
+    .footer{margin:0 auto 30px}
+    .edition-line{margin-bottom:12px}
+    .lead-image{max-height:220px;object-fit:cover}
+    @media(max-width:780px){
+      .masthead{padding:12px 14px 0}.paper{margin:12px 8px 24px}
+      .book-toolbar{padding:0 8px;flex-wrap:wrap}.book-controls{width:100%;justify-content:space-between}
+      .spread{grid-template-columns:1fr;min-height:0}.mag-page{min-height:0;padding:22px 20px 42px}
+      .mag-page:first-child{border-right:0;border-bottom:1px solid #bdb39d}
+      .news-page .story{grid-template-columns:88px minmax(0,1fr)}
+      .news-page .story-image{max-height:90px}
+      .cover-title{font-size:clamp(48px,14vw,76px)}
+      .page-heading{font-size:34px}
+      .section-page .indie-item,.section-page .release-item{grid-template-columns:82px minmax(0,1fr)}
+      .section-page .editorial-image,.section-page .release-image{width:82px;height:74px}
+      .cinema-page .cinema-card{grid-template-columns:76px minmax(0,1fr)}
+      .cinema-page .cinema-image{width:76px;max-width:76px;height:110px}
+    }
+    @media(prefers-reduced-motion:reduce){.spread.active,.spread.turn-next,.spread.turn-prev{animation:none!important}.book-progress span{transition:none}}
+
   </style>
 
 <link rel="icon" type="image/png" sizes="1024x1024" href="logo.png">
@@ -127,46 +217,88 @@
     </div>
   </header>
   <main class="paper">
-    <div class="paper-inner">
-      <div class="edition-line"><span id="edition-date">WYDANIE INTERNETOWE</span><span id="edition-status">OSTATNIA AKTUALIZACJA</span></div>
-      <div class="title-row">
-        <h1>LEVEL NEXT<br><span>DAILY</span></h1>
-        <div class="title-side">Wiadomości ze świata gier.<br>Premiery, sprzęt i popkultura.<br><span style="color:var(--purple)">Dla tych, którzy grają.</span></div>
+    <div class="book-toolbar">
+      <div><strong>LEVEL NEXT DAILY</strong> <span id="edition-date">WYDANIE INTERNETOWE</span></div>
+      <div class="book-controls">
+        <button type="button" id="prev-page" aria-label="Poprzednie strony">← WSTECZ</button>
+        <span class="book-counter" id="page-counter">01 / 04</span>
+        <button type="button" id="next-page" aria-label="Następne strony">DALEJ →</button>
       </div>
-      <p class="dek">Wiadomości, premiery, małe gry od niezależnych twórców i film na wieczór. Krótko i na temat, bez przedzierania się przez cały internet.</p>
-      <div class="ticker" aria-label="Pasek informacyjny"><div class="ticker-track"><span>LEVEL NEXT DAILY ✦ WIADOMOŚCI ✦ INDIE RADAR ✦ PREMIERY ✦ FILM DNIA ✦</span><span>LEVEL NEXT DAILY ✦ WIADOMOŚCI ✦ INDIE RADAR ✦ PREMIERY ✦ FILM DNIA ✦</span></div></div>
-      <section class="lead-grid">
-        <article class="lead">
-          <div class="section-kicker">Temat wydania</div>
-          <div id="lead-content"><div class="empty">Nowe wiadomości pojawią się po aktualizacji wydania. Wróć tu później.</div></div>
+    </div>
+    <div class="book-progress" aria-hidden="true"><span id="book-progress"></span></div>
+    <div class="book" id="magazine-book" aria-label="Interaktywny magazyn LEVEL NEXT DAILY">
+      <section class="spread active" data-spread="0">
+        <article class="mag-page cover-page">
+          <div class="page-running"><span>WYDANIE INTERNETOWE</span><span id="edition-status">AKTUALIZACJA</span></div>
+          <div class="cover-mast"><img src="logo.png" alt="LEVEL NEXT"><b>MAGAZYN O GRACH<br>I KULTURZE GAMINGOWEJ</b></div>
+          <h1 class="cover-title">LEVEL NEXT<span>DAILY</span></h1>
+          <div class="cover-sub">Wiadomości · Retro · Indie · Premiery · Popkultura</div>
+          <div class="cover-lead">
+            <div class="section-kicker">TEMAT WYDANIA</div>
+            <div id="lead-content"><div class="empty">Wczytywanie materiału z okładki…</div></div>
+          </div>
+          <div class="cover-stamp">PRESS START</div>
+          <span class="page-number">01 / LEVEL NEXT DAILY</span>
         </article>
-        <aside class="side-note">
-          <div class="section-kicker">Od redakcji</div>
-          <h3>NA DOBRY POCZĄTEK</h3>
-          <p id="editor-note">Zbieramy ciekawe informacje z sieci i podajemy je w skrócie. Pod każdym tekstem znajdziesz link do źródła.</p>
-          <div class="stamp">PRESS START</div>
-        </aside>
+        <article class="mag-page news-page">
+          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>01 / WIADOMOŚCI</span></div>
+          <h2 class="page-heading">Co dzieje się w świecie gier?</h2>
+          <p class="page-intro">Najważniejsze informacje z branży, zebrane z wielu redakcji. Każdy materiał prowadzi do oryginalnego źródła.</p>
+          <div class="searchbar"><input id="news-search" type="search" placeholder="Szukaj w tym wydaniu…" aria-label="Szukaj w wydaniu"></div>
+          <div id="news-list" class="news-list"><div class="empty">Wczytywanie wiadomości…</div></div>
+          <span class="page-number">02 / WIADOMOŚCI</span>
+        </article>
       </section>
-      <div class="columns">
-        <section>
-          <div class="section-kicker">01 / Wiadomości</div>
-          <div class="searchbar"><input id="news-search" type="search" placeholder="Szukaj w dzisiejszym wydaniu…" aria-label="Szukaj w wydaniu"></div>
-          <div id="news-list" class="news-list"><div class="empty">Brak opublikowanych wiadomości.</div></div>
-        </section>
-        <aside>
-          <section class="side-section"><div class="section-kicker">02 / Indie Radar</div><div id="indie-list"><div class="empty">W tej rubryce znajdziesz małe gry, o których warto wiedzieć.</div></div></section>
-          <section class="side-section"><div class="section-kicker">03 / Kalendarz premier</div><div id="release-list"><div class="empty">Przy każdej dacie zaznaczamy, czy premiera jest potwierdzona.</div></div></section>
-          <section class="side-section"><div class="section-kicker">04 / Film dnia</div><div id="film-box" class="empty">Film wybieramy spośród tytułów dostępnych w polskich serwisach VOD.</div></section>
-        </aside>
-      </div>
-      <section class="cinema-section">
-        <div class="section-kicker">05 / Na dużym ekranie — najbliższe premiery kinowe</div>
-        <p class="section-note">Daty polskich premier. Repertuar i terminy mogą się zmienić — przed wyjściem sprawdź seanse w swoim kinie.</p>
-        <div id="cinema-list" class="cinema-grid"><div class="empty">Wczytywanie kalendarza kinowego…</div></div>
+      <section class="spread" data-spread="1">
+        <article class="mag-page section-page">
+          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>02 / SCENA INDIE</span></div>
+          <h2 class="page-heading">Indie Radar</h2>
+          <p class="page-intro">Mniejsze produkcje, niezależne studia i gry, którym warto poświęcić uwagę.</p>
+          <section class="side-section"><div class="section-kicker">WYBRANE GRY</div><div id="indie-list"><div class="empty">W tej rubryce znajdziesz małe gry, o których warto wiedzieć.</div></div></section>
+          <span class="page-number">03 / INDIE RADAR</span>
+        </article>
+        <article class="mag-page section-page">
+          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>03 / KALENDARZ</span></div>
+          <h2 class="page-heading">Nadchodzi premiera</h2>
+          <p class="page-intro">Daty premier i platformy. Oznaczenie informuje, czy termin został potwierdzony przez wydawcę, czy jest jedynie datą podawaną w kalendarzach.</p>
+          <section class="side-section"><div class="section-kicker">KALENDARZ PREMIER</div><div id="release-list"><div class="empty">Wczytywanie kalendarza premier…</div></div></section>
+          <span class="page-number">04 / PREMIERY</span>
+        </article>
       </section>
-      <section class="archive">
-        <div class="section-kicker">Archiwum wydań</div>
-        <div id="archive-list" class="archive-list"><span class="story-meta">Z czasem pojawią się tu poprzednie wydania.</span></div>
+      <section class="spread" data-spread="2">
+        <article class="mag-page film-page">
+          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>04 / PO GODZINACH</span></div>
+          <h2 class="page-heading">Seans na dziś</h2>
+          <p class="page-intro">Film wybrany do wieczornego seansu. Dostępność dotyczy polskiego rynku i jest opisana przy materiale.</p>
+          <div id="film-box" class="empty">Wczytywanie propozycji filmowej…</div>
+          <span class="page-number">05 / FILM DNIA</span>
+        </article>
+        <article class="mag-page cinema-page">
+          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>05 / KINO</span></div>
+          <h2 class="page-heading">Na dużym ekranie</h2>
+          <p class="page-intro">Nadchodzące polskie premiery kinowe. Daty mogą ulec zmianie, dlatego przed wizytą sprawdź repertuar lokalnego kina.</p>
+          <div id="cinema-list" class="cinema-grid"><div class="empty">Wczytywanie kalendarza kinowego…</div></div>
+          <span class="page-number">06 / PREMIERY KINOWE</span>
+        </article>
+      </section>
+      <section class="spread" data-spread="3">
+        <article class="mag-page archive-page">
+          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>ARCHIWUM</span></div>
+          <h2 class="page-heading">Poprzednie wydania</h2>
+          <p class="page-intro">Każdy numer zostaje w archiwum. Możesz wrócić do wcześniejszych wiadomości i materiałów redakcyjnych.</p>
+          <section class="archive"><div class="section-kicker">BIBLIOTEKA WYDAŃ</div><div id="archive-list" class="archive-list"><span class="story-meta">Z czasem pojawią się tu poprzednie wydania.</span></div></section>
+          <span class="page-number">07 / ARCHIWUM</span>
+        </article>
+        <article class="mag-page back-cover">
+          <div class="page-running"><span>LEVEL NEXT</span><span>DO ZOBACZENIA</span></div>
+          <div>
+            <h2>Gry łączą pokolenia.</h2>
+            <p>LEVEL NEXT to miejsce dla ludzi, którzy lubią gry, sprzęt, historię elektronicznej rozrywki i społeczność zbudowaną wokół wspólnych zainteresowań.</p>
+            <p>Masz temat, który warto opisać? Dołącz do rozmowy na <a href="forum.html">forum LEVEL NEXT</a> albo prześlij własny materiał do redakcji.</p>
+          </div>
+          <div><p><a href="index.html">STRONA GŁÓWNA ↗</a><br><a href="forum.html">FORUM ↗</a><br><a href="felietony.html">FELIETONY ↗</a></p><p>LEVEL NEXT DAILY · NIEZALEŻNY MAGAZYN GAMINGOWY</p></div>
+          <span class="page-number">08 / KONIEC WYDANIA</span>
+        </article>
       </section>
     </div>
   </main>
@@ -246,6 +378,56 @@
   load();
 })();
 </script>
+
+<script>
+(() => {
+  const book=document.getElementById('magazine-book');
+  const spreads=[...book.querySelectorAll('.spread')];
+  const prev=document.getElementById('prev-page');
+  const next=document.getElementById('next-page');
+  const counter=document.getElementById('page-counter');
+  const progress=document.getElementById('book-progress');
+  let current=0,busy=false;
+  const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function update(){
+    spreads.forEach((spread,i)=>{spread.classList.toggle('active',i===current);spread.setAttribute('aria-hidden',i===current?'false':'true');});
+    prev.disabled=current===0;next.disabled=current===spreads.length-1;
+    counter.textContent=String(current+1).padStart(2,'0')+' / '+String(spreads.length).padStart(2,'0');
+    progress.style.width=((current+1)/spreads.length*100)+'%';
+  }
+  function go(direction){
+    if(busy)return;
+    const target=Math.max(0,Math.min(spreads.length-1,current+direction));
+    if(target===current)return;
+    busy=true;
+    const old=spreads[current];
+    old.classList.add(direction>0?'turn-next':'turn-prev');
+    const finish=()=>{old.classList.remove('turn-next','turn-prev');current=target;update();busy=false;};
+    if(reduced){finish();return;}
+    old.addEventListener('animationend',finish,{once:true});
+    window.setTimeout(()=>{if(busy)finish();},650);
+  }
+  prev.addEventListener('click',()=>go(-1));
+  next.addEventListener('click',()=>go(1));
+  document.addEventListener('keydown',event=>{
+    if(event.target.matches('input,textarea,select,[contenteditable="true"]'))return;
+    if(event.key==='ArrowRight'||event.key==='PageDown'){event.preventDefault();go(1);}
+    if(event.key==='ArrowLeft'||event.key==='PageUp'){event.preventDefault();go(-1);}
+  });
+  let pointerX=null;
+  book.addEventListener('pointerdown',event=>{
+    if(event.target.closest('a,button,input'))return;
+    pointerX=event.clientX;
+  });
+  book.addEventListener('pointerup',event=>{
+    if(pointerX===null)return;
+    const delta=event.clientX-pointerX;pointerX=null;
+    if(Math.abs(delta)>65)go(delta<0?1:-1);
+  });
+  update();
+})();
+</script>
+
 <script src="site.js?v=18"></script>
 </body>
 </html>
