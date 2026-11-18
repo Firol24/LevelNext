@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T21:47+01:00",
+  "updatedAt": "2026-11-18T21:49+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Masa detali z GTA 6 to dowód na to, że Rockstar tworzy gry nieosiągalne dla nikogo innego. To absolutny wyjątek w klasie AAA",
-    "summary": "W GTA 6 nawet najmniejsze detale potrafią zaskoczyć. Rockstar ujawnił kulisy tworzenia niezwykle realistycznej Leonidy i wyjaśnił, dlaczego zrezygnował z jednej ze znanych funkcji.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/masa-detali-z-gta-6-to-dowod-na-to-ze-rockstar-tworzy-gry-nieosia/zc323b2",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532732478.jpg"
+    "title": "GTA 6: odliczanie do premiery, zaczynamy dziś. Godzina startu w Polsce oraz od kiedy będzie można grać - relacja na żywo",
+    "summary": "Dziś o godzinie 12:00 pierwsi gracze rozpoczęli zabawę w GTA 6. Do sieci trafiły pierwsze recenzje gry (jest znakomicie!), a twórcy streamują grę na YouTube i Twitchu.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-odliczanie-do-premiery-zaczynamy-dzis-godzina-startu-w-pols/z132390",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532687464.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6: odliczanie do premiery, zaczynamy dziś. Godzina startu w Polsce oraz od kiedy będzie można grać - relacja na żywo",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-odliczanie-do-premiery-zaczynamy-dzis-godzina-startu-w-pols/z132390",
+      "publishedAt": "2026-11-18T22:27+01:00",
+      "summary": "Dziś o godzinie 12:00 pierwsi gracze rozpoczęli zabawę w GTA 6. Do sieci trafiły pierwsze recenzje gry (jest znakomicie!), a twórcy streamują grę na YouTube i Twitchu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532687464.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Masa detali z GTA 6 to dowód na to, że Rockstar tworzy gry nieosiągalne dla nikogo innego. To absolutny wyjątek w klasie AAA",
@@ -20,6 +29,15 @@
       "summary": "W GTA 6 nawet najmniejsze detale potrafią zaskoczyć. Rockstar ujawnił kulisy tworzenia niezwykle realistycznej Leonidy i wyjaśnił, dlaczego zrezygnował z jednej ze znanych funkcji.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532732478.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday 2026 w x-kom. Sprzęty dla graczy od SteelSeries do 600 zł taniej!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/wyprzedaz-black-friday-2026-w-x-kom-sprzety-dla-graczy-od-steelseries-do-600-zl-taniej/",
+      "publishedAt": "2026-11-18T21:48+01:00",
+      "summary": "Najnowsza wyprzedaż z cyklu Black Friday 2026 wystartowała w internetowym sklepie x-kom. Tym razem przygotowano coś dla wymagających graczy, poszukujących sprzętów pozwalających na komfortową rozgrywkę. W dalszej części wpisu znajdziecie najciekawsze oferty na klawiatury, myszki oraz słuchawki od firmy SteelSeries . Wybrane modele dostępne są w cenach niższych o nawet 600 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-2026-w-x-kom.-Sprzety-dla-graczy-od-SteelSeries-do-600-zl-taniej_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -263,24 +281,6 @@
       "summary": "A to wciąż jedynie wczesny dostęp!",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-18T160220.615-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wielkie rozczarowanie na The Game Awards. Ten wielki hit dostał tylko jedną nominację",
-      "sourceUrl": "https://www.ppe.pl/news/433632/wielkie-rozczarowanie-na-the-game-awards-ten-wielki-hit-dostal-tylko-jedna-nominacje.html",
-      "publishedAt": "2026-11-18T16:44+01:00",
-      "summary": "Nominacje do The Game Awards 2026 wywołały sporo emocji, ale nie wszystkim przypadły do gustu. Crimson Desert, które otrzymało zaledwie jedno wyróżnienie i nie znalazło się nawet wśród kandydatów do tytułu Gry Roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8fa984e4f6f139ffe91d/8fa984e4f6f139ffe91d.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Assassin’s Creed Shadows na Nintendo Switch 2 od 136,58 zł w polskich sklepach",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-assassins-creed-shadows-na-nintendo-switch-2-od-13658-zl-w-polskich-sklepach/",
-      "publishedAt": "2026-11-18T16:22+01:00",
-      "summary": "Wydaną na Game Key Card wersję Assassin’s Creed Shadows, przeznaczoną na Nintendo Switch 2, możecie nabyć w świetnej cenie na Allegro oraz w sklepie Media Expert. Pudełkowe wydanie gry studia Ubisoft, w której wcielicie się w dwóch protagonistów, Naoe i Yasuke, kosztuje 136,58 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Assassins-Creed-Shadows-switch-2_miniaturka-224x224.jpg"
     }
   ],
   "indie": [
@@ -288,36 +288,41 @@
       "title": "The House Before",
       "date": "2026-11-03",
       "platform": "PC (Steam)",
-      "summary": "Eksperymentalny body horror, w którym budzimy się jako żywy dom. Wnętrze własnego ciała staje się labiryntem pełnym groteskowych istot, dawnych ran i surrealistycznych tajemnic.",
-      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/"
+      "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
+      "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
       "date": "2026-10-28",
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
-      "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/"
+      "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
       "date": "2026-11-10",
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
-      "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/"
+      "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1794743112"
     },
     {
       "title": "Nowhere",
       "date": null,
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
-      "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/"
+      "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
       "date": "2027-02-19",
       "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "summary": "Pikselowy survival horror inspirowany klasykami lat 90. W postapokaliptycznym świecie Katherine chroni córkę Avę przed zmutowanymi stworzeniami i szuka bezpiecznego schronienia. Premiera została przesunięta z grudnia na luty 2027.",
-      "sourceUrl": "https://www.gematsu.com/2026/11/the-road-of-dust-and-sorrow-delayed-to-february-19-2027"
+      "sourceUrl": "https://www.gematsu.com/2026/11/the-road-of-dust-and-sorrow-delayed-to-february-19-2027",
+      "imageUrl": "https://www.gematsu.com/wp-content/uploads/2026/11/Road-Dust-Sorrow-Delay_11-11-26.jpg"
     }
   ],
   "releases": [
@@ -327,7 +332,8 @@
       "platform": "PC (Steam)",
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
-      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/"
+      "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -335,7 +341,9 @@
       "platform": "PC (Steam)",
       "status": "listed",
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
-      "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/"
+      "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
+      "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -351,7 +359,9 @@
       "platform": "PlayStation 5, Xbox Series X|S",
       "status": "confirmed",
       "note": "Rockstar potwierdza premierę 19 listopada na PS5 i Xbox Series X|S. Akcja przenosi serię do fikcyjnego stanu Leonida.",
-      "sourceUrl": "https://www.rockstargames.com/VI"
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "summary": "Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.",
+      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?K1OF2OByoQie0QQKb3wpE"
     },
     {
       "date": "2026-11-24",
@@ -359,7 +369,9 @@
       "platform": "PlayStation 5, Xbox Series X|S, Nintendo Switch 2",
       "status": "confirmed",
       "note": "Klasyczne RPG Piranha Bytes trafia na współczesne konsole. THQ Nordic potwierdza premierę 24 listopada na PS5, Xbox Series i Switch 2.",
-      "sourceUrl": "https://thqnordic.com/news/time-for-some-classics-the-original-gothic-trilogy-is-coming-to-play-station-and-xbox-series-s-x"
+      "sourceUrl": "https://thqnordic.com/news/time-for-some-classics-the-original-gothic-trilogy-is-coming-to-play-station-and-xbox-series-s-x",
+      "summary": "Vienna, Austria - April 14th, 2026 : Get ready to return to the Colony, sharpen your blade, and relive a tr",
+      "imageUrl": "https://thqnordic.com/opengraph-logo.png"
     },
     {
       "date": "2026-11-27",
@@ -367,7 +379,9 @@
       "platform": "PC (Steam)",
       "status": "listed",
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
-      "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/"
+      "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
+      "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -384,56 +398,64 @@
       "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
       "genre": "Akcja / sci-fi",
       "summary": "Prequel przenosi widzów na 50. Głodowe Igrzyska, w których młody Haymitch Abernathy trafia na arenę z dwukrotnie większą liczbą trybutów.",
-      "sourceUrl": "https://www.rankino.pl/premiery/igrzyska-smierci-wschod-slonca-w-dniu-dozynek"
+      "sourceUrl": "https://www.rankino.pl/premiery/igrzyska-smierci-wschod-slonca-w-dniu-dozynek",
+      "imageUrl": "https://www.rankino.pl/og/premiery/igrzyska-smierci-wschod-slonca-w-dniu-dozynek.png"
     },
     {
       "date": "2026-11-20",
       "title": "Przemytnicy",
       "genre": "Akcja / thriller",
       "summary": "Ethan Hawke i Russell Crowe w thrillerze Padraica McKinleya o przemytniczym świecie i niebezpiecznych układach.",
-      "sourceUrl": "https://www.rankino.pl/premiery/przemytnicy"
+      "sourceUrl": "https://www.rankino.pl/premiery/przemytnicy",
+      "imageUrl": "https://www.rankino.pl/og/premiery/przemytnicy.png"
     },
     {
       "date": "2026-11-20",
       "title": "Morderstwo w filharmonii",
       "genre": "Komedia kryminalna",
       "summary": "W filharmonii lat 70. podczas koncertu ginie jeden z widzów. Inspektor Wróbel prowadzi śledztwo wśród muzyków i publiczności.",
-      "sourceUrl": "https://www.rankino.pl/premiery/morderstwo-w-filharmonii"
+      "sourceUrl": "https://www.rankino.pl/premiery/morderstwo-w-filharmonii",
+      "imageUrl": "https://www.rankino.pl/og/premiery/morderstwo-w-filharmonii.png"
     },
     {
       "date": "2026-11-20",
       "title": "Struś Pędziwiatr i zemsta Kojota",
       "genre": "Animacja / komedia",
       "summary": "Kojot ma dość wadliwych produktów firmy Acme i postanawia pozwać producenta. Animowana komedia w reżyserii Dave'a Greena.",
-      "sourceUrl": "https://www.rankino.pl/premiery/strus-pedziwiatr-i-zemsta-kojota"
+      "sourceUrl": "https://www.rankino.pl/premiery/strus-pedziwiatr-i-zemsta-kojota",
+      "imageUrl": "https://www.rankino.pl/og/premiery/strus-pedziwiatr-i-zemsta-kojota.png"
     },
     {
       "date": "2026-11-25",
       "title": "Hokus: Królestwo magii",
       "genre": "Animacja / fantasy",
       "summary": "Nastolatka Billie odkrywa magiczne zdolności i trafia do krainy czarownic Hexe, gdzie czekają na nią rodzinne sekrety.",
-      "sourceUrl": "https://www.rankino.pl/premiery/hokus-krolestwo-magii"
+      "sourceUrl": "https://www.rankino.pl/premiery/hokus-krolestwo-magii",
+      "imageUrl": "https://www.rankino.pl/og/premiery/hokus-krolestwo-magii.png"
     },
     {
       "date": "2026-11-27",
       "title": "Papierowy tygrys",
       "genre": "Thriller / dramat",
       "summary": "Thriller Jamesa Graya prezentowany w Cannes, z Adamem Driverem, Scarlett Johansson i Milesem Tellerem.",
-      "sourceUrl": "https://www.rankino.pl/premiery/papierowy-tygrys"
+      "sourceUrl": "https://www.rankino.pl/premiery/papierowy-tygrys",
+      "imageUrl": "https://www.rankino.pl/og/premiery/papierowy-tygrys.png"
     },
     {
       "date": "2026-11-27",
       "title": "Poznaj swojego teścia",
       "genre": "Komedia",
       "summary": "Czwarta część serii „Poznaj mojego tatę”. Ben Stiller i Robert De Niro wracają, a do rodziny dołącza Ariana Grande.",
-      "sourceUrl": "https://www.rankino.pl/premiery/poznaj-swojego-tescia"
+      "sourceUrl": "https://www.rankino.pl/premiery/poznaj-swojego-tescia",
+      "imageUrl": "https://www.rankino.pl/og/premiery/poznaj-swojego-tescia.png"
     },
     {
       "date": "2026-11-27",
       "title": "Violetta Villas",
       "genre": "Dokument / dramat",
-      "summary": "Opowieść o drodze Violetty Villas z Lewina Kłodzkiego na sceny Paryża i Las Vegas oraz o cenie sławy.",
-      "sourceUrl": "https://www.rankino.pl/premiery/violetta-villas"
+      "summary": "premiera 27 listopada 2026. Z Lewina Kłodzkiego na sceny Paryża i Las Vegas. Dokument o głosie, którego nie dało się podrobić, i o cenie,…",
+      "sourceUrl": "https://www.rankino.pl/premiery/violetta-villas",
+      "imageUrl": "https://www.rankino.pl/og/premiery/violetta-villas.png"
     }
   ],
   "film": {
@@ -442,8 +464,9 @@
     "platform": "Prime Video",
     "summary": "Po odziedziczeniu odosobnionego domu matka i jej dwie córki przeżywają brutalny napad. Wydarzenia tamtej nocy na długo odciskają się na rodzinie. Gęsty horror psychologiczny oparty na klaustrofobii, traumie i narastającej paranoi.",
     "availabilityNote": "JustWatch Polska sprawdził dostępność 7 listopada 2026 r. i wskazuje film w abonamencie Amazon Prime Video (Abo HD) w Polsce. To oferta subskrypcyjna, nie wypożyczenie ani zakup.",
-    "availabilityUrl": "https://www.justwatch.com/pl/film/ghostland"
+    "availabilityUrl": "https://www.justwatch.com/pl/film/ghostland",
+    "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "24251939a05937e5b64a256b5def6d67f2911685f4d2dd3429f092a243391056"
+  "editorialHash": "5b8b748af30617d879e14dcaf479a28c5d29251fadec6140c2c62bfe64b25dda"
 }
