@@ -193,6 +193,67 @@
     }
     @media(prefers-reduced-motion:reduce){.spread.active,.spread.turn-next,.spread.turn-prev{animation:none!important}.book-progress span{transition:none}}
 
+    /* LEVEL NEXT DAILY / gazeta drukowana i kartki ułożone warstwowo */
+    :root{--purple:#8b3028;--deep:#302923;--yellow:#d6b77a;--paper:#f3efdf;--paper2:#e8dfc9;--ink:#1d1a16;--line:#c7bba3;--muted:#71695d}
+    body{background:radial-gradient(ellipse at 50% -12%,#5a5142 0,#28251f 55%,#171511 100%)}
+    .topline{border-color:#b28b55;color:#e1d4bc}
+    .brand strong,.book-toolbar strong{color:#e1c58d}
+    .brand span{color:#c8b99e}
+    .toplinks a{color:#e8ddc8}
+    .toplinks a:hover{color:#e1c58d}
+    .daily-stage{background:transparent}
+    .closed-cover-art{color:#211d18;background:linear-gradient(135deg,#f4efdf 0%,#e4dac2 100%);border:1px solid #a99b7f;box-shadow:inset 9px 0 18px #6d57301a,inset -2px 0 4px #fff8}
+    .closed-cover-art:before{border:1px solid #6b5a414d}
+    .closed-cover-art:after{background:repeating-linear-gradient(0deg,#6d57300a 0 1px,transparent 1px 4px)}
+    .closed-cover-top,.closed-cover-bottom{color:#5d5141}
+    .closed-brand{color:#8b3028}
+    .closed-cover h1{color:#211d18}
+    .closed-cover h1 em{color:#8b3028}
+    .closed-cover-rule{background:#8b3028}
+    .closed-cover-date{color:#5b5145}
+    .closed-cover-feature{border-color:#8f8068}
+    .cover-eyebrow{color:#8b3028}
+    #cover-headline{color:#211d18}
+    #cover-summary{color:#4f473d}
+    .cover-feature-image{border-color:#9c8b70}
+    .open-magazine{border-color:#8b3028;background:#8b3028;color:#fff8e9}
+    .cover-spine{background:linear-gradient(90deg,#34291e,#9b7650 55%,#4b3828)}
+    .book-toolbar{color:#e7ddc9}
+    .book-controls button{border-color:#a17b50;background:#342d25;color:#f0d9a8}
+    .book-controls button:hover:not(:disabled){background:#694337}
+    .edition-status{color:#d8c9ad}
+    .book-progress{background:#ffffff2a}
+    .book-progress span{background:#d6b77a}
+    .spread.active{z-index:2}
+    .spread.under{display:grid;z-index:1;pointer-events:none}
+    .page-flip{z-index:8;will-change:transform}
+    .page-flip-face{background:#f3efdf}
+    .page-flip-face .mag-page{overflow:hidden}
+    .feature-page{background:linear-gradient(135deg,#f7f3e7,#e9e0cc);overflow-y:auto}
+    .feature-page .page-running{align-items:flex-end;padding:4px 0 12px;border-bottom:4px double #211d18;color:#211d18}
+    .feature-page .page-running span:first-child{font:clamp(22px,2.4vw,32px)/.9 var(--serif);letter-spacing:-.035em;color:#211d18}
+    .feature-page .page-running span:last-child{font:8px var(--mono);letter-spacing:.08em;color:#8b3028}
+    .feature-page-label{margin:18px 0 10px;color:#8b3028;font:700 9px var(--mono);letter-spacing:.16em}
+    #lead-content{display:block;min-height:0}
+    #lead-content .lead-label{background:#8b3028;color:#fff8e9}
+    #lead-content .lead-image{height:auto;max-height:235px;aspect-ratio:16/9;object-fit:cover;margin:9px 0 12px;border:1px solid #b7a98f}
+    #lead-content h2{font:clamp(29px,3.1vw,45px)/.98 var(--serif);letter-spacing:-.025em;color:#211d18;margin:10px 0 12px;overflow-wrap:anywhere}
+    #lead-content p{font:clamp(12px,1.1vw,14px)/1.62 var(--sans);color:#40392f;margin:0 0 14px;display:block;overflow:visible}
+    #lead-content .read-link{color:#8b3028;border-color:#8b3028}
+    .feature-editor-note{color:#716452;border-color:#b9aa8f}
+    .news-page .story .tag,.section-page .section-kicker,.lead-label,.tag{background:#d8c39a;color:#211d18}
+    .news-page .story .read-link,.read-link,.archive-list a{color:#8b3028}
+    .section-page .section-kicker{border-left-color:#8b3028;background:#e4d8c1}
+    .feature-article-page .feature-category{background:#d8c39a;color:#211d18}
+    .feature-article-page .feature-quote{color:#8b3028;border-color:#8b3028}
+    .back-cover{background:linear-gradient(150deg,#3c342b,#191713);color:#f3efdf}
+    .back-cover h2{color:#e1c58d}
+    @media(max-width:780px){
+      .feature-page .page-running span:first-child{font-size:23px}
+      #lead-content .lead-image{max-height:210px}
+      #lead-content h2{font-size:clamp(27px,8vw,38px)}
+    }
+
 
 
     /* Dłuższe materiały redakcyjne */
@@ -629,17 +690,39 @@
     const pages=spreads[index]?.querySelectorAll('.mag-page');
     return pages?.[side]||null;
   }
+  let activeSheet=null;
   function flip(direction,target){
     if(busy||target<0||target>=spreads.length)return;
     busy=true;
+    const currentSpread=spreads[current];
+    const targetSpread=spreads[target];
     const currentPage=pageAt(current,direction>0?1:0);
     const targetPage=pageAt(target,direction>0?0:1);
     if(reduced||!currentPage||!targetPage){current=target;update();busy=false;return;}
-    const sheet=document.createElement('div');sheet.className='page-flip '+(direction>0?'next':'prev');
-    const front=document.createElement('div');front.className='page-flip-face front';front.append(currentPage.cloneNode(true));
-    const back=document.createElement('div');back.className='page-flip-face back';back.append(targetPage.cloneNode(true));
-    sheet.append(front,back);book.append(sheet);
-    const finish=()=>{if(!busy)return;sheet.remove();current=target;update();busy=false;};
+    // Najpierw kładziemy następną rozkładówkę pod aktualną. Kartka odsłania ją w trakcie obrotu.
+    targetSpread.classList.add('under');
+    const sheet=document.createElement('div');
+    sheet.className='page-flip '+(direction>0?'next':'prev');
+    const front=document.createElement('div');
+    front.className='page-flip-face front';
+    front.append(currentPage.cloneNode(true));
+    const back=document.createElement('div');
+    back.className='page-flip-face back';
+    back.append(targetPage.cloneNode(true));
+    sheet.append(front,back);
+    book.append(sheet);
+    activeSheet=sheet;
+    let finished=false;
+    const finish=()=>{
+      if(finished)return;
+      finished=true;
+      sheet.remove();
+      if(activeSheet===sheet)activeSheet=null;
+      targetSpread.classList.remove('under');
+      current=target;
+      update();
+      busy=false;
+    };
     sheet.addEventListener('animationend',finish,{once:true});
     window.setTimeout(finish,900);
   }
@@ -651,6 +734,8 @@
   }
   function close(){
     if(!opened)return;opened=false;busy=false;
+    if(activeSheet){activeSheet.remove();activeSheet=null;}
+    spreads.forEach(spread=>spread.classList.remove('under'));
     openBook.classList.add('hidden');cover.classList.remove('hidden','opening');current=0;
   }
   openButton.addEventListener('click',open);
