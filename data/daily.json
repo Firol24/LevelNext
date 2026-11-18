@@ -1,17 +1,88 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T10:01+01:00",
+  "updatedAt": "2026-11-18T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Jest numerem 1 w 63 krajach i ma 11 mln wyświetleń. 139-minutowy thriller akcji to obecnie najchętniej oglądany film Netflixa na świecie",
-    "summary": "Nowym hitem Netfliksa został thriller akcji, który został numerem 1 w 63 krajach. Film już od kilku dni podbija platformę. Informacja Jest numerem 1 w 63 krajach i ma 11 mln wyświetleń. 139-minutowy thriller akcji to obecnie najchętniej oglądany film Netflixa na świecie została opublikowana przez GRYOnline.pl 18 listopada 2026.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/jest-numerem-1-w-63-krajach-i-ma-11-mln-wyswietlen-139-minutowy-t/z332392",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532689530.jpg"
+    "title": "Czy twórcy GTA 6 tak naprawdę już pokazali nam scenę z zakończenia gry? Gracze przywołują podobne przykłady z przeszłości",
+    "summary": "Czy Rockstar powtórzył zabieg z GTA 5? Część graczy podejrzewa, że wśród udostępnionych grafik promocyjnych znajduje się scena z zakończenia. Informacja Czy twórcy GTA 6 tak naprawdę już pokazali nam scenę z zakończenia gry? Gracze przywołują podobne przykłady z przeszłości została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/czy-tworcy-gta-6-tak-naprawde-juz-pokazali-nam-scene-z-zakonczeni/z732396",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532693153.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Czy twórcy GTA 6 tak naprawdę już pokazali nam scenę z zakończenia gry? Gracze przywołują podobne przykłady z przeszłości",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/czy-tworcy-gta-6-tak-naprawde-juz-pokazali-nam-scene-z-zakonczeni/z732396",
+      "publishedAt": "2026-11-18T11:20+01:00",
+      "summary": "Czy Rockstar powtórzył zabieg z GTA 5? Część graczy podejrzewa, że wśród udostępnionych grafik promocyjnych znajduje się scena z zakończenia. Informacja Czy twórcy GTA 6 tak naprawdę już pokazali nam scenę z zakończenia gry? Gracze przywołują podobne przykłady z przeszłości została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532693153.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Polska strategia nabiera kształtów przed dużym wydarzeniem. Raport z październikowych prac nad Systemic War",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/polska-strategia-systemic-war-nabiera-ksztaltow-przed-duzym-wydar/z632395",
+      "publishedAt": "2026-11-18T11:10+01:00",
+      "summary": "Twórcy polskiej strategii Systemic War podsumowali październikowe postępy prac, szykując pole bitwy na nadchodzące duże wydarzenie i zapowiadając częstsze pokazywanie surowych kulis produkcji. Informacja Polska strategia nabiera kształtów przed dużym wydarzeniem. Raport z październikowych prac nad Systemic War została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532692486.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jensen Huang przerwał milczenie po skandalu, który kosztował go stanowisko. Przeprosił za swoje błędy i zadeklarował gotowość do powrotu, ale NVIDIA nie chce go z powrotem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jensen-huang-przerwal-milczenie-po-skandalu-ktory-kosztowal-go-st/z532394",
+      "publishedAt": "2026-11-18T11:10+01:00",
+      "summary": "Jensen Huang podziękował wszystkim za wsparcie. Pracownicy NVIDII nie powinni jednak liczyć na powrót byłego CEO, ponieważ zarząd firmy przekazał, że sprawa została zamknięta. Informacja Jensen Huang przerwał milczenie po skandalu, który kosztował go stanowisko. Przeprosił za swoje błędy i zadeklarował gotowość do powrotu, ale NVIDIA nie chce go z powrotem została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532692336.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Jeff Bezos był mocno zaangażowany w wybór nowego Bonda. Wybierze mu też dziewczynę?",
+      "sourceUrl": "https://cdaction.pl/kultura/jeff-bezos-byl-mocno-zaangazowany-w-wybor-nowego-bonda-wybierze-mu-tez-dziewczyne/",
+      "publishedAt": "2026-11-18T11:00+01:00",
+      "summary": "Miliarder trzyma rękę na pulsie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/James-Bond.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Chiny opracowały metodę rodem z Frankensteina na cmentarzyska turbin wiatrowych. Półsekundowy impuls elektryczny pozwala zamienić zużyte łopaty wirników w grafen",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/chiny-opracowaly-metode-rodem-z-frankensteina-na-cmentarzyska-tur/zf3235b",
+      "publishedAt": "2026-11-18T11:00+01:00",
+      "summary": "Naukowcy z Chin znaleźli sposób na utylizację i recykling łopat turbin wiatrowych. Metoda jest obiecująca, ale są wyzwania, z którymi badacze muszą sobie poradzić. Informacja Chiny opracowały metodę rodem z Frankensteina na cmentarzyska turbin wiatrowych. Półsekundowy impuls elektryczny pozwala zamienić zużyte łopaty wirników w grafen została opublikowana przez GRYOnline.pl 18 listopada 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532533466.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kolejna wydawnicza porażka Microsoftu! Średnia to tylko 2/5",
+      "sourceUrl": "https://www.ppe.pl/news/433594/kolejna-wydawnicza-porazka-microsoftu-srednia-to-tylko-2-5.html",
+      "publishedAt": "2026-11-18T10:54+01:00",
+      "summary": "Premiera potężnego, zbiorczego wydania Halo: The Master Chief Omnibus miała być prawdziwym świętem dla wszystkich największych fanów kultowego uniwersum z Xboksa. Niestety, zamiast euforii, internet zalała potężna fala krytyki.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Masz PS5 i chcesz zagrać w GTA VI szybciej? Czas na wycieczkę do Nowej Zelandii. Sprawdź jak kupić grę w tym regionie",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/masz-ps5-i-chcesz-zagrac-w-gta-vi-szybciej-czas-na-wycieczke-do-nowej-zelandii-sprawdz-jak-kupic-gre-w-tym-regionie/",
+      "publishedAt": "2026-11-18T10:44+01:00",
+      "summary": "Łowcy, zdajemy sobie sprawę, że to już kolejny wpis o rychłej premierze Grand Theft Auto VI, ale skupialiśmy się na posiadaczach konsol Xbox Series. Jeśli korzystacie z PlayStation 5, niestety, wycieczka do kraju ptaka kiwi nie jest taka prosta i oczywista i musicie trochę się przyłożyć chcąc zagrać w GTA VI o 12:00. Podpowiemy Wam, jak to możecie zrobić. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/gta-vi-nowa-zelandia-ps-store-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Do premiery GTA VI pozostały godziny! Zbiór najważniejszych informacji o grze. Gdzie kupić dzieło Rockstar najtaniej?",
+      "sourceUrl": "https://lowcygier.pl/preordery/do-premiery-gta-vi-pozostalo-tylko-3-dni-zbior-najwazniejszych-informacji-o-grze-gdzie-kupic-dzielo-rockstar-najtaniej/",
+      "publishedAt": "2026-11-18T10:36+01:00",
+      "summary": "Od premiery GTA VI dzielą nas tylko godziny! Najbardziej wyczekiwana gra tego roku, i nie ma co się z tym sprzeczać, trafi 19 listopada na konsole PlayStation 5 oraz Xbox Series X|S. Nieco wcześniej, 12 listopada, rozesłane zostaną pudełkowe wydania, a przedtem wystartuje preload, aby gracze mieli szansę pobrać wszystkie pliki i rozpocząć zabawę w momencie odblokowania dostępu. Jeśli zastanawiacie się, gdzie kupić GTA VI na PS5 i XSX najtaniej, a także czego spodziewać się po samej grze, zapraszamy do dalszej części wpisu. Przygotowaliśmy dla Was małe kompendium wiedzy. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Zwiastun-premierowy-gry-Grand-Theft-Auto-VI.-Rockstar-promuje-GTA-6-nowym-singlem_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Jest numerem 1 w 63 krajach i ma 11 mln wyświetleń. 139-minutowy thriller akcji to obecnie najchętniej oglądany film Netflixa na świecie",
@@ -22,6 +93,23 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532689530.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Gracze boją się o stratę konta z GTA 6. 12 godzin przed premierą może kosztować sporo",
+      "sourceUrl": "https://www.ppe.pl/news/433593/gracze-boja-sie-o-strate-konta-z-gta-6-12-godzin-przed-premiera-moze-kosztowac-sporo.html",
+      "publishedAt": "2026-11-18T10:32+01:00",
+      "summary": "Wielka premiera najnowszego Grand Theft Auto 6 to już dosłownie kwestia godzin, a wielu graczy po prostu nie potrafi usiedzieć w miejscu. Zamiast grzecznie czekać na oficjalny start w swoim kraju, posiadacze konsol Xbox masowo przypominają sobie o ...",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Twórcy nowego Tomb Raidera dokonują kolejnych zwolnień. Ekipa Crystal Dynamics uszczupliła się piąty raz w ciągu niecałych 2 lat",
+      "sourceUrl": "https://cdaction.pl/newsy/tworcy-nowego-tomb-raidera-dokonuja-kolejnych-zwolnien-ekipa-crystal-dynamics-uszczuplila-sie-piaty-raz-w-ciagu-niecalych-2-lat/",
+      "publishedAt": "2026-11-18T10:30+01:00",
+      "summary": "Zwyczajem Lary Croft jest odnajdywać zaginione skarby, a Embracera – zwalniać pracowników.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Zrzut-ekranu-2026-09-1-o-09.20.39-1260x662.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Jeff Bezos osobiście zaangażował się w wybór nowego Jamesa Bonda. Miliarder zdradził kulisy castingu Roberta Pattinsona",
       "sourceUrl": "https://www.gry-online.pl/newsroom/jeff-bezos-osobiscie-zaangazowal-sie-w-wybor-nowego-jamesa-bonda/z232391",
@@ -29,6 +117,31 @@
       "summary": "Jeff Bezos przyznał, że osobiście uczestniczył w wyborze nowego Jamesa Bonda. Założyciel Amazona zdradził, jak wyglądał casting Roberta Pattinsona i dlaczego początkowo nie był on idealnym kandydatem do roli agenta 007. Informacja Jeff Bezos osobiście zaangażował się w wybór nowego Jamesa Bonda. Miliarder zdradził kulisy castingu Roberta Pattinsona została opublikowana przez GRYOnline.pl 18 listopada 2026.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532688914.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Polacy z szansą na nagrody podczas TGA 2026. Znakomita gra z ważną aktualizacją",
+      "sourceUrl": "https://www.ppe.pl/news/433599/polacy-z-szansa-na-dwie-nagrody-podczas-tga-2026-znakomita-gra-z-wazna-aktualizacja.html",
+      "publishedAt": "2026-11-18T10:13+01:00",
+      "summary": "W tym roku ponownie nie brakuje polskich wątków w dyskusji o najlepszych grach 2026 roku na The Game Awards.",
+      "category": "WIADOMOŚCI"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zagraj w GTA VI już o 12:00! Wybierz się do kraju ptaka Kiwi, a grę kup z doładowaniami do Xbox Store US",
+      "sourceUrl": "https://lowcygier.pl/preordery/zagraj-w-gta-vi-juz-o-1200-wybierz-sie-do-kraju-ptaka-kiwi-a-gre-kup-z-doladowaniami-do-xbox-store-us/",
+      "publishedAt": "2026-11-18T10:07+01:00",
+      "summary": "Wielkimi, ba, gigantycznymi krokami zbliża się moment, na który czeka mnóstwo osób, czyli premiera Grand Theft Auto VI. Jeśli dobrze pamiętacie, możecie skorzystać z małej sztuczki zmieniając region konsoli na Nową Zelandię, która dostęp do najnowszej gry Rockstar Games otrzyma już o 12:00. Tym razem proponujemy Wam również inną metodę zakupu, jaką są karty podarunkowe do amerykańskiego regionu Xbox Store. Podstawowe wydanie może być wasze za około 294 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Trzeci-zwiastun-Grand-Theft-Auto-VI-jeszcze-w-sierpniu_-Rockstar-rusza-z-kampania-marketingowa_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Odyseja Nolana uratowała tego aktora: \"w końcu to zobaczyłem\"",
+      "sourceUrl": "https://www.ppe.pl/news/433592/odyseja-nolana-uratowala-tego-aktora-w-koncu-to-zobaczylem.html",
+      "publishedAt": "2026-11-18T10:06+01:00",
+      "summary": "Tom Holland może zdecydowanie zaliczyć ten rok do niezwykle udanych.",
+      "category": "WIADOMOŚCI"
     },
     {
       "sourceName": "CD-Action",
