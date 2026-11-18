@@ -194,6 +194,17 @@
     @media(prefers-reduced-motion:reduce){.spread.active,.spread.turn-next,.spread.turn-prev{animation:none!important}.book-progress span{transition:none}}
 
 
+
+    /* Dłuższe materiały redakcyjne */
+    .feature-article-page{background:#f4f0e3}
+    .feature-article-page .feature-category{display:inline-block;margin:22px 0 8px;padding:5px 8px;background:var(--yellow);font:700 9px var(--mono);letter-spacing:.1em}
+    .feature-article-page h2{font:clamp(27px,3vw,39px)/.98 var(--serif);margin:8px 0 12px;letter-spacing:-.03em}
+    .feature-article-page .feature-standfirst{font:600 12px/1.5 var(--sans);color:#554b58;padding-bottom:13px;border-bottom:1px solid var(--line)}
+    .feature-article-page .feature-copy{font:11px/1.62 var(--sans);color:#302936}
+    .feature-article-page .feature-copy p{margin:0 0 11px}
+    .feature-article-page .feature-quote{margin:14px 0;padding:10px 12px;border-left:4px solid var(--purple);font:italic 18px/1.2 var(--serif);color:var(--purple)}
+    .feature-article-page .feature-credit{margin-top:12px;padding-top:8px;border-top:1px solid var(--line);font:8px/1.5 var(--mono);color:#756a78;text-transform:uppercase}
+
     /* Fizyczny magazyn: viewport, okładka i pojedyncze przewracane kartki */
     html,body{height:100%;overflow:hidden}
     body{display:flex;flex-direction:column}
@@ -489,7 +500,7 @@
     else {const a=link(item.sourceUrl,'Oryginalne źródło ↗'); if(a) article.append(a);}
     return article;
   }
-  function render(data) {
+  function render(data, features=[]) {
     const date=data.date || data.editionDate;
     if(date){ const d=new Date(date+'T12:00:00'); $('edition-date').textContent='Wydanie z '+d.toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'}); }
     if(data.status==='published') $('edition-status').textContent='WYDANIE OPUBLIKOWANE';
@@ -534,6 +545,39 @@
         book.insertBefore(spread,insertBefore);
       }
     }
+
+    if(Array.isArray(features)&&features.length){
+      const book=$('magazine-book');
+      const before=document.querySelector('.spread[data-spread="1"]');
+      features.forEach((feature,index)=>{
+        const spread=document.createElement('section');
+        spread.className='spread feature-article-spread';
+        spread.dataset.spread='feature-'+index;
+        (feature.pages||[]).slice(0,2).forEach((pageData,pageIndex)=>{
+          const page=document.createElement('article');
+          page.className='mag-page feature-article-page';
+          const running=node('div','page-running');
+          running.append(node('span','','LEVEL NEXT DAILY'),node('span','',feature.category||'STREFA REDAKCJI'));
+          page.append(running);
+          page.append(node('span','feature-category',feature.category||'PUBLICYSTYKA'));
+          if(pageIndex===0){
+            page.append(node('h2','',feature.title||'Materiał redakcyjny'));
+            page.append(node('p','feature-standfirst',feature.standfirst||''));
+          }else{
+            page.append(node('h2','',feature.continuationTitle||'Ciąg dalszy'));
+          }
+          const copy=node('div','feature-copy');
+          (pageData.paragraphs||[]).forEach(paragraph=>copy.append(node('p','',paragraph)));
+          page.append(copy);
+          if(pageData.quote) page.append(node('blockquote','feature-quote',pageData.quote));
+          if(pageData.credit) page.append(node('div','feature-credit',pageData.credit));
+          page.append(node('span','page-number',String(5+index*2+pageIndex).padStart(2,'0')));
+          spread.append(page);
+        });
+        book.insertBefore(spread,before);
+      });
+    }
+
     const indie=$('indie-list');
     if(Array.isArray(data.indie)&&data.indie.length){ indie.replaceChildren(...data.indie.map(item=>{const el=node('article','indie-item');if(item.imageUrl){const img=node('img','editorial-image');prepareImage(img,item.imageUrl);img.alt='Grafika gry '+item.title;el.append(img);}el.append(node('span','tag','INDIE RADAR'),node('h3','',item.title),node('div','item-meta',[item.date,item.platform].filter(Boolean).join(' · ')),node('p','',item.summary||''));const a=link(item.sourceUrl,'Sprawdź grę ↗');if(a)el.append(a);return el;}));}
     const releases=$('release-list');
@@ -553,7 +597,7 @@
       if(!response.ok) throw new Error('Nie udało się pobrać wydania.');
       const data=await response.json();
       try{const manualResponse=await fetch('data/manual-news.json?ts='+Date.now(),{cache:'no-store'});if(manualResponse.ok){const manual=await manualResponse.json();const issueDate=data.date||data.editionDate;const own=Array.isArray(manual[issueDate])?manual[issueDate]:[];data.news=[...own,...(Array.isArray(data.news)?data.news:[])];}}catch{}
-      render(data);
+      let features=[];try{const featureResponse=await fetch('data/features.json?ts='+Date.now(),{cache:'no-store'});if(featureResponse.ok){const featureData=await featureResponse.json();features=Array.isArray(featureData.articles)?featureData.articles:[];}}catch{}\n      render(data,features);
     }catch(error){ $('edition-status').textContent='TRYB OFFLINE'; $('lead-content').replaceChildren(node('div','empty error',error.message+' Spróbuj odświeżyć stronę później.')); }
     try{
       const response=await fetch('archive/index.json?ts='+Date.now(),{cache:'no-store'});
