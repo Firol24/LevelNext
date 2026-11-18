@@ -1,17 +1,24 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T05:01+01:00",
+  "updatedAt": "2026-11-18T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Nowy zestaw 15th Anniversary of Humble Bundle. Paczka 8 gier Steam o przetrwaniu za 100 zł!",
-    "summary": "Łowcy, przedstawiamy Wam najnowszy zestaw z jubileuszowej serii 15th Anniversary, w którym inicjatywa Humble Bundle świętuje swoje 15. urodziny. W ramach pakietu Humble Survival of the Fittest Bundle możecie otrzymać maksymalnie 8 gier Steam oraz 4 dodatki DLC. Całość oferowana jest w dwóch progach cenowych, a droższy z nich może być Wasz za nieco ponad 100 zł! Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/bundle/nowy-zestaw-15th-anniversary-of-humble-bundle-paczka-8-gier-steam-o-przetrwaniu-za-100-zl/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nowy-zestaw-15th-Anniversary-of-Humble-Bundle.-Paczka-8-gier-Steam-o-przetrwaniu-za-100-zl_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Amazon Prime Video z filmem o LEGENDZIE od dzisiaj! Nicolas Cage w historii, którą powinien poznać każdy gracz",
+    "summary": "Amazon Prime Video przygotowało interesującą nowość, która powinna zwrócić uwagę nie tylko miłośników sportu, ale również graczy. Platforma udostępniła film biograficzny przedstawiający historię człowieka, który najpierw stał się j...",
+    "sourceUrl": "https://www.ppe.pl/news/433532/amazon-prime-video-z-filmem-o-legendzie-od-dzisiaj-nicolas-cage-w-historii-ktora-powinien-poznac-kazdy-gracz.html"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Amazon Prime Video z filmem o LEGENDZIE od dzisiaj! Nicolas Cage w historii, którą powinien poznać każdy gracz",
+      "sourceUrl": "https://www.ppe.pl/news/433532/amazon-prime-video-z-filmem-o-legendzie-od-dzisiaj-nicolas-cage-w-historii-ktora-powinien-poznac-kazdy-gracz.html",
+      "publishedAt": "2026-11-18T05:43+01:00",
+      "summary": "Amazon Prime Video przygotowało interesującą nowość, która powinna zwrócić uwagę nie tylko miłośników sportu, ale również graczy. Platforma udostępniła film biograficzny przedstawiający historię człowieka, który najpierw stał się j...",
+      "category": "WIADOMOŚCI"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Nowy zestaw 15th Anniversary of Humble Bundle. Paczka 8 gier Steam o przetrwaniu za 100 zł!",
