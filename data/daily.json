@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T22:01+01:00",
+  "updatedAt": "2026-11-18T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "GTA 6: odliczanie do premiery, zaczynamy dziś. Godzina startu w Polsce oraz od kiedy będzie można grać - relacja na żywo",
-    "summary": "Dziś o godzinie 12:00 pierwsi gracze rozpoczęli zabawę w GTA 6. Do sieci trafiły pierwsze recenzje gry (jest znakomicie!), a twórcy streamują grę na YouTube i Twitchu.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-odliczanie-do-premiery-zaczynamy-dzis-godzina-startu-w-pols/z132390",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532687464.jpg"
+    "category": "PROMOCJE",
+    "title": "Wyprzedaż gier mobilnych w sklepie Google Play. LEGO Bricktales na Androida za jedyne 3,30 zł!",
+    "summary": "Łowcy, jeśli jesteście amatorami mobilnego grania, to w cyfrowym sklepie Google Play wystartowała najnowsza wyprzedaż tytułów na urządzenia z systemem Android. W ramach oferty wybrane produkcje dostępne są w wyjątkowo niskich cenach. Na szczególne wyróżnienie zasługuje tutaj rekordowo tanie LEGO Bricktales za 3,30 zł! Wśród najciekawszych przecen znajdziecie też takie klasyki jak seria Baldur’s Gate, Icewind Dale, Neverwinter Nights czy też kultowe Planescape: Torment po 14,40 zł! Życzymy udanych zakupów 🙂 Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-gier-mobilnych-w-sklepie-google-play-lego-bricktales-na-androida-za-jedyne-330-zl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-gier-mobilnych-w-sklepie-Google-Play.-LEGO-Bricktales-na-Androida-za-jedyne-330-zl_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż gier mobilnych w sklepie Google Play. LEGO Bricktales na Androida za jedyne 3,30 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-gier-mobilnych-w-sklepie-google-play-lego-bricktales-na-androida-za-jedyne-330-zl/",
+      "publishedAt": "2026-11-18T22:42+01:00",
+      "summary": "Łowcy, jeśli jesteście amatorami mobilnego grania, to w cyfrowym sklepie Google Play wystartowała najnowsza wyprzedaż tytułów na urządzenia z systemem Android. W ramach oferty wybrane produkcje dostępne są w wyjątkowo niskich cenach. Na szczególne wyróżnienie zasługuje tutaj rekordowo tanie LEGO Bricktales za 3,30 zł! Wśród najciekawszych przecen znajdziecie też takie klasyki jak seria Baldur’s Gate, Icewind Dale, Neverwinter Nights czy też kultowe Planescape: Torment po 14,40 zł! Życzymy udanych zakupów 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-gier-mobilnych-w-sklepie-Google-Play.-LEGO-Bricktales-na-Androida-za-jedyne-330-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Takiej oferty nie było! Laptop HyperX z 1600p 180 Hz, R7 8745HX, RTX 5060 115W + słuchawki od 4852 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/433680/takiej-oferty-nie-bylo-laptop-hyperx-z-1600p-180-hz-r7-8745hx-rtx-5060-115w-sluchawki-od-4852-zl.html",
+      "publishedAt": "2026-11-18T22:36+01:00",
+      "summary": "W sklepie RTV Euro AGD skorzystamy z naprawdę wyjątkowej oferty na laptopa gamingowego firmy HyperX.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6a593f0aa8fa8b18bf96/6a593f0aa8fa8b18bf96.webp"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6: odliczanie do premiery, zaczynamy dziś. Godzina startu w Polsce oraz od kiedy będzie można grać - relacja na żywo",
@@ -29,6 +47,24 @@
       "summary": "W GTA 6 nawet najmniejsze detale potrafią zaskoczyć. Rockstar ujawnił kulisy tworzenia niezwykle realistycznej Leonidy i wyjaśnił, dlaczego zrezygnował z jednej ze znanych funkcji.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532732478.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kody w GTA 6! Jak działają, jakie są komendy i jak je aktywować?",
+      "sourceUrl": "https://www.ppe.pl/news/433647/kody-w-gta-6-jak-dzialaja-jakie-sa-komendy-i-jak-je-aktywowac.html",
+      "publishedAt": "2026-11-18T22:13+01:00",
+      "summary": "Rockstar Games nie zapomniało o przyjemnościach dla graczy, którzy lubią trochę poszaleć. W GTA 6 pojawiły się kody, dzięki którym możemy jeszcze bardziej urozmaicić zabawę w Leonidzie. Twórcy zdecydowali się jednak na dość zaskakujące...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c9b7ec8cc259ee0a28ad/c9b7ec8cc259ee0a28ad.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "To największa premiera tego roku! Kup GTA VI w Media Expert i zagraj już teraz!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/to-najwieksza-premiera-tego-roku-kup-gta-vi-w-media-expert-i-zagraj-juz-teraz/",
+      "publishedAt": "2026-11-18T22:08+01:00",
+      "summary": "Ciągnące się w nieskończoność oczekiwanie dobiegło końca. Premiera Grand Theft Auto VI stała się faktem. To najlepszy moment na to, by załatwić sobie wolny dzień, aby nic nie przeszkodziło w powrocie do słonecznego Vice City. Jeśli nie masz jeszcze gry, pudełkowe wydania na PlayStation 5 oraz Xbox Series X|S znajdziesz w ofercie Media Expert. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/Preorder-GTA-VI-PS5-XS-logo-224x224.jpg"
     },
     {
       "sourceName": "PPE",
@@ -245,42 +281,6 @@
       "summary": "Gabe Newell ponownie znalazł się w centrum dyskusji o przyszłości rynku gier PC.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/f7fb76067b27695d95df/f7fb76067b27695d95df.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gigantyczny-otwarty-swiat-to-za-malo-crimson-desert-jest-najwieks/zc323ac",
-      "publishedAt": "2026-11-18T17:35+01:00",
-      "summary": "Crimson Desert zostało nominowane zaledwie w jednej kategorii na The Game Awards 2026. Takie niedocenienie produkcji nie spodobało się przedstawicielowi studia Pocketpair, które odpowiada za sandbox Palworld. Informacja Gigantyczny otwarty świat to za mało, Crimson Desert jest największym przegranym The Game Awards 2026. „Co za wielki wstyd” została opublikowana przez GRYOnline.pl 18 listopada 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532715548.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wielkiej czystki w PlayStation Plus Extra i Premium nie będzie. Trzy gry opuszczą PS+!",
-      "sourceUrl": "https://lowcygier.pl/subskrypcje/wielkie-czystki-w-playstation-plus-extra-i-premium-nie-bedzie-trzy-gry-opuczsza-ps/",
-      "publishedAt": "2026-11-18T17:19+01:00",
-      "summary": "Poznaliśmy właśnie kompletną listę gier, które oficjalnie opuszczą katalog gier PlayStation Plus Extra i Premium w przyszłym miesiącu. Do 15 grudnia macie czas na ogranie takich tytułów jak: Granblue Fantasy: Relink, Somerville czy Fade to Silence. Łącznie ofertę PS+ opuszczą więc jedynie trzy pozycje na PS4 i PS5. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wielkie-czystki-w-PlayStation-Plus-Extra-i-Premium-nie-bedzie.-Trzy-gry-opuczsza-PS_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 podbiło Twitcha w zaledwie 30 minut! Żadna gra single-player nie przyciągnęła tylu widzów",
-      "sourceUrl": "https://www.ppe.pl/news/433633/gta-6-podbilo-twitcha-w-zaledwie-30-minut-zadna-gra-single-player-nie-przyciagnela-tylu-widzow.html",
-      "publishedAt": "2026-11-18T17:17+01:00",
-      "summary": "GTA 6 potrzebowało zaledwie pół godziny, aby zapisać się w historii Twitcha.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/262aa8cd3dcd7e6bc10d/262aa8cd3dcd7e6bc10d.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Jason Voorhees szykuje się na podbój kin. Znamy datę premiery i szczegóły nowego Piątku Trzynastego",
-      "sourceUrl": "https://www.ppe.pl/news/433640/jason-voorhees-szykuje-sie-na-podboj-kin-znamy-date-premiery-i-szczegoly-nowego-piatku-trzynastego.html",
-      "publishedAt": "2026-11-18T17:07+01:00",
-      "summary": "Powrót Jasona Voorheesa to już pewniak. Pora zaznaczyć ten szczególny dzień w kalendarzu, ponieważ do Sieci trafiła data premiery nowego filmu z ikoną serii Piątek 13-go.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c7b760e203d47be63ba5/c7b760e203d47be63ba5.webp"
     }
   ],
   "indie": [
