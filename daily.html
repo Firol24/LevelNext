@@ -597,7 +597,8 @@
       if(!response.ok) throw new Error('Nie udało się pobrać wydania.');
       const data=await response.json();
       try{const manualResponse=await fetch('data/manual-news.json?ts='+Date.now(),{cache:'no-store'});if(manualResponse.ok){const manual=await manualResponse.json();const issueDate=data.date||data.editionDate;const own=Array.isArray(manual[issueDate])?manual[issueDate]:[];data.news=[...own,...(Array.isArray(data.news)?data.news:[])];}}catch{}
-      let features=[];try{const featureResponse=await fetch('data/features.json?ts='+Date.now(),{cache:'no-store'});if(featureResponse.ok){const featureData=await featureResponse.json();features=Array.isArray(featureData.articles)?featureData.articles:[];}}catch{}\n      render(data,features);
+      let features=[];try{const featureResponse=await fetch('data/features.json?ts='+Date.now(),{cache:'no-store'});if(featureResponse.ok){const featureData=await featureResponse.json();features=Array.isArray(featureData.articles)?featureData.articles:[];}}catch{}
+      render(data,features);
     }catch(error){ $('edition-status').textContent='TRYB OFFLINE'; $('lead-content').replaceChildren(node('div','empty error',error.message+' Spróbuj odświeżyć stronę później.')); }
     try{
       const response=await fetch('archive/index.json?ts='+Date.now(),{cache:'no-store'});
