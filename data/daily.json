@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-18",
-  "updatedAt": "2026-11-18T21:49+01:00",
+  "updatedAt": "2026-11-18T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -29,6 +29,15 @@
       "summary": "W GTA 6 nawet najmniejsze detale potrafią zaskoczyć. Rockstar ujawnił kulisy tworzenia niezwykle realistycznej Leonidy i wyjaśnił, dlaczego zrezygnował z jednej ze znanych funkcji.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532732478.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Czas pożegnać się z Internetem. Twórca GTA 6 wysłał graczom jasny sygnał",
+      "sourceUrl": "https://www.ppe.pl/news/433678/czas-pozegnac-sie-z-internetem-tworca-gta-6-wyslal-graczom-jasny-sygnal.html",
+      "publishedAt": "2026-11-18T21:51+01:00",
+      "summary": "Grand Theft Auto VI wreszcie trafia do graczy. Już za chwilę fani z całego świata powrócą do Vice City po wielu latach nieobecności. Warto jednak mieć na uwadze to, że chociaż czasy się zmieniły, w pewnym względzie fani wrócą do czasów, ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/b731b74b862734c4ef3a/b731b74b862734c4ef3a.avif"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -272,15 +281,6 @@
       "summary": "Powrót Jasona Voorheesa to już pewniak. Pora zaznaczyć ten szczególny dzień w kalendarzu, ponieważ do Sieci trafiła data premiery nowego filmu z ikoną serii Piątek 13-go.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/c7b760e203d47be63ba5/c7b760e203d47be63ba5.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Ponad 220 tys. aktywnych graczy na Steamie w szczytowym momencie. Slay the Spire 2 znów przyciąga przed ekrany",
-      "sourceUrl": "https://cdaction.pl/newsy/ponad-220-tys-aktywnych-graczy-na-steamie-w-szczytowym-momencie-slay-the-spire-2-znow-przyciaga-przed-ekrany/",
-      "publishedAt": "2026-11-18T16:45+01:00",
-      "summary": "A to wciąż jedynie wczesny dostęp!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-18T160220.615-1260x709.jpg"
     }
   ],
   "indie": [
