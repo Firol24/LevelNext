@@ -211,7 +211,7 @@
     .masthead{width:100%;max-width:1360px;padding:9px 24px 0;flex:0 0 auto}
     .topline{padding-bottom:7px}
     .brand img{width:34px;height:34px}
-    .daily-stage{flex:1 0 auto;min-height:calc(100vh - 70px);display:flex;align-items:center;justify-content:center;padding:12px 22px 24px;overflow:visible}
+    .daily-stage{flex:0 0 auto;height:calc(100vh - 70px);min-height:520px;display:flex;align-items:center;justify-content:center;padding:12px 22px 24px;overflow:visible}
     .closed-cover{position:relative;width:min(490px,calc((100vh - 112px)*.72));height:min(690px,calc(100vh - 112px));aspect-ratio: .71;perspective:1800px;filter:drop-shadow(20px 25px 25px #0009);transition:opacity .4s}
     .closed-cover-art{position:absolute;inset:0;overflow:visible;display:flex;flex-direction:column;padding:clamp(20px,4vh,42px);color:#f5f0df;background:radial-gradient(circle at 78% 28%,#542176 0,#25043e 40%,#11051e 100%);border:1px solid #8d64a2;transform-origin:left center;transition:transform .95s cubic-bezier(.2,.75,.2,1),opacity .75s;box-shadow:inset 9px 0 18px #0006,inset -2px 0 4px #fff2}
     .closed-cover-art:before{content:"";position:absolute;inset:12px;border:1px solid #fff3;pointer-events:none}
@@ -318,7 +318,7 @@
       body{min-height:100dvh}
       .masthead{padding:8px 12px 0}
       .topline{align-items:center}.toplinks{gap:8px;font-size:8px}
-      .daily-stage{min-height:calc(100dvh - 58px);padding:10px}
+      .daily-stage{height:auto;min-height:calc(100dvh - 58px);padding:10px}
       .closed-cover{width:min(420px,calc((100dvh - 100px)*.68));height:min(620px,calc(100dvh - 100px))}
       .open-book{height:auto;min-height:calc(100dvh - 80px)}
       .book-toolbar{flex-wrap:wrap;padding:0 3px}
