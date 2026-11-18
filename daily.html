@@ -192,6 +192,149 @@
     }
     @media(prefers-reduced-motion:reduce){.spread.active,.spread.turn-next,.spread.turn-prev{animation:none!important}.book-progress span{transition:none}}
 
+
+    /* Fizyczny magazyn: viewport, okładka i pojedyncze przewracane kartki */
+    html,body{height:100%;overflow:hidden}
+    body{display:flex;flex-direction:column}
+    .masthead{width:100%;max-width:1360px;padding:9px 24px 0;flex:0 0 auto}
+    .topline{padding-bottom:7px}
+    .brand img{width:34px;height:34px}
+    .daily-stage{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;padding:12px 22px 18px;overflow:hidden}
+    .closed-cover{position:relative;width:min(490px,calc((100vh - 112px)*.72));height:min(690px,calc(100vh - 112px));aspect-ratio: .71;perspective:1800px;filter:drop-shadow(20px 25px 25px #0009);transition:opacity .4s}
+    .closed-cover-art{position:absolute;inset:0;overflow:hidden;display:flex;flex-direction:column;padding:clamp(20px,4vh,42px);color:#f5f0df;background:radial-gradient(circle at 78% 28%,#542176 0,#25043e 40%,#11051e 100%);border:1px solid #8d64a2;transform-origin:left center;transition:transform .95s cubic-bezier(.2,.75,.2,1),opacity .75s;box-shadow:inset 9px 0 18px #0006,inset -2px 0 4px #fff2}
+    .closed-cover-art:before{content:"";position:absolute;inset:12px;border:1px solid #fff3;pointer-events:none}
+    .closed-cover-art:after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(110deg,transparent 0 55%,#ffffff0b 56%,transparent 70%)}
+    .closed-cover-top,.closed-cover-bottom{display:flex;justify-content:space-between;gap:10px;font:9px var(--mono);letter-spacing:.12em;color:#d9c6e6}
+    .closed-brand{display:flex;align-items:center;gap:12px;margin:clamp(24px,6vh,55px) 0 18px;color:var(--yellow);font:700 13px var(--mono);letter-spacing:.16em}
+    .closed-brand img{width:58px;height:58px;object-fit:contain;filter:drop-shadow(0 0 10px #fff3)}
+    .closed-cover h1{margin:0;font:clamp(39px,6.3vh,65px)/.84 var(--serif);letter-spacing:-.06em;color:#fff}
+    .closed-cover h1 em{display:block;font-style:normal;color:var(--yellow);font-size:1.13em}
+    .closed-cover-rule{height:5px;background:var(--yellow);margin:19px 0 12px}
+    .closed-cover-date{font:10px var(--mono);letter-spacing:.12em;color:#d8c8e2;text-transform:uppercase}
+    .closed-cover-feature{margin:auto 0 20px;border-top:1px solid #fff5;padding-top:17px;max-width:390px}
+    .cover-eyebrow{display:block;color:var(--yellow);font:700 9px var(--mono);letter-spacing:.16em;margin-bottom:10px}
+    #cover-headline{font:clamp(23px,3.5vh,36px)/1.02 var(--serif);color:#fff}
+    #cover-summary{font:12px/1.5 var(--sans);color:#d6c8df;margin:10px 0 0}
+    .closed-cover-bottom{margin-bottom:15px;color:#bba5cb}
+    .open-magazine{align-self:flex-start;border:1px solid var(--yellow);background:var(--yellow);color:#170c20;padding:12px 17px;font:700 10px var(--mono);letter-spacing:.1em;cursor:pointer;z-index:2}
+    .open-magazine span{font-size:16px;margin-left:12px}
+    .cover-spine{position:absolute;left:0;top:0;bottom:0;width:13px;background:linear-gradient(90deg,#07020c,#5c3471 55%,#160a20);pointer-events:none}
+    .closed-cover.opening .closed-cover-art{transform:rotateY(-158deg);opacity:.15}
+    .closed-cover.opening{pointer-events:none}
+    .open-book{width:min(1320px,100%);height:100%;min-height:0;display:flex;flex-direction:column}
+    .open-book.hidden{display:none}
+    .book-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex:0 0 auto;max-width:1240px;width:100%;margin:0 auto 7px;padding:0 4px;color:#e9dff0;font:9px var(--mono);letter-spacing:.1em;text-transform:uppercase}
+    .book-toolbar strong{color:var(--yellow);margin-right:12px}
+    .book-controls{display:flex;align-items:center;gap:7px}
+    .book-controls button{border:1px solid #8d65a8;background:#260044;color:var(--yellow);padding:8px 10px;font:700 9px var(--mono);cursor:pointer}
+    .book-controls button:hover:not(:disabled){background:#6a0dad}
+    .book-controls button:disabled{opacity:.3;cursor:not-allowed}
+    .book-counter{min-width:54px;text-align:center;color:#d8c7e7}
+    .book-progress{height:2px;flex:0 0 2px;max-width:1240px;width:100%;margin:0 auto 8px;background:#ffffff20}
+    .book-progress span{display:block;height:100%;width:25%;background:var(--yellow);transition:width .35s}
+    .book-stage{flex:1;min-height:0;display:flex;align-items:stretch;justify-content:center;perspective:2200px}
+    .book{position:relative;width:100%;height:100%;max-height:calc(100vh - 145px);perspective:2200px;transform-style:preserve-3d;filter:drop-shadow(0 14px 25px #0008)}
+    .book-gutter{position:absolute;z-index:3;pointer-events:none;left:50%;top:0;bottom:0;width:22px;transform:translateX(-50%);background:linear-gradient(90deg,#0002,#0001 35%,#fff3 50%,#0002 75%,#0003);mix-blend-mode:multiply}
+    .spread{position:absolute;inset:0;display:none;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:0;min-height:0;filter:none}
+    .spread.active{display:grid;animation:none}
+    .mag-page{position:relative;min-width:0;height:100%;min-height:0;padding:clamp(18px,2.5vh,30px) clamp(20px,2.8vw,38px) 32px;background:#f1eedf;color:var(--ink);overflow:hidden;box-shadow:inset 0 0 24px #7d67400b}
+    .mag-page:first-child{border-right:0}
+    .mag-page:first-child:after{content:"";position:absolute;z-index:1;right:0;top:0;bottom:0;width:18px;background:linear-gradient(90deg,transparent,#0000000b);pointer-events:none}
+    .mag-page:nth-child(2):before{content:"";position:absolute;z-index:1;left:0;top:0;bottom:0;width:18px;background:linear-gradient(90deg,#0000000b,transparent);pointer-events:none}
+    .mag-page>*{position:relative;z-index:2}
+    .page-running{font:8px var(--mono);padding-bottom:6px}
+    .page-number{bottom:9px;font-size:8px}
+    .feature-page{background:linear-gradient(135deg,#f6f2e6,#e9e2cf);display:flex;flex-direction:column}
+    .feature-page-label{margin:clamp(18px,3vh,34px) 0 12px;font:700 10px var(--mono);letter-spacing:.14em;color:var(--purple)}
+    #lead-content{display:flex;flex-direction:column;min-height:0}
+    #lead-content .lead-label{align-self:flex-start}
+    #lead-content .lead-image{width:100%;height:clamp(150px,26vh,270px);max-height:none;object-fit:cover;margin:8px 0 10px}
+    #lead-content h2{font:clamp(26px,3vw,42px)/.98 var(--serif);margin:8px 0 10px}
+    #lead-content p{font:clamp(11px,1.05vw,14px)/1.55 var(--sans);margin:0 0 10px;color:#514956}
+    #lead-content .read-link{font-size:9px;align-self:flex-start}
+    .feature-editor-note{font:9px/1.5 var(--mono);color:#6a606d;border-top:1px solid var(--line);padding-top:9px;margin-top:auto}
+    .page-heading{font:clamp(24px,2.5vw,34px)/.96 var(--serif);margin:12px 0 6px}
+    .page-intro{font:10px/1.45 var(--sans);margin:0 0 10px;color:#5d5360}
+    .news-page .searchbar{margin:8px 0}
+    .news-page .searchbar input{padding:7px 9px;font-size:9px;background:#fff;border-color:#c9c0a9}
+    .news-page .news-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-flow:row;gap:7px 12px;align-content:start}
+    .news-page .story{position:relative;padding:8px 0 7px;border-top:1px solid var(--line);display:flex;flex-direction:column;min-width:0;overflow:hidden}
+    .news-page .story:nth-child(4n+1){grid-column:span 2;display:grid;grid-template-columns:minmax(110px,.8fr) minmax(0,1.2fr);gap:0 10px}
+    .news-page .story:nth-child(4n+1) .story-image{grid-row:1/5;width:100%;height:105px;aspect-ratio:4/3;object-fit:cover;margin:0}
+    .news-page .story:nth-child(4n+1) .tag,.news-page .story:nth-child(4n+1) h3,.news-page .story:nth-child(4n+1) p,.news-page .story:nth-child(4n+1) .story-meta,.news-page .story:nth-child(4n+1) .read-link{grid-column:2}
+    .news-page .story:nth-child(4n+2){grid-column:span 1}
+    .news-page .story:nth-child(4n+3){grid-column:span 1}
+    .news-page .story:nth-child(4n+4){grid-column:span 2;display:grid;grid-template-columns:72px minmax(0,1fr);gap:0 9px}
+    .news-page .story:nth-child(4n+4) .story-image{grid-row:1/5;width:72px;height:66px;object-fit:cover;margin:0}
+    .news-page .story:nth-child(4n+4) .tag,.news-page .story:nth-child(4n+4) h3,.news-page .story:nth-child(4n+4) p,.news-page .story:nth-child(4n+4) .story-meta,.news-page .story:nth-child(4n+4) .read-link{grid-column:2}
+    .news-page .story h3{font:clamp(14px,1.5vw,19px)/1.04 var(--serif);margin:4px 0}
+    .news-page .story p{font:9px/1.4 var(--sans);margin:0 0 4px;color:#554d57;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+    .news-page .story .tag{align-self:flex-start;padding:3px 5px;font-size:7px}
+    .news-page .story-meta{font-size:7px;margin:2px 0}
+    .news-page .story .read-link{font-size:8px;margin-top:2px}
+    .section-page .section-kicker{margin:10px 0 8px;padding:6px 8px;font-size:10px}
+    .section-page .side-section{margin-bottom:12px}
+    .section-page .indie-item,.section-page .release-item{display:grid;grid-template-columns:72px minmax(0,1fr);gap:0 9px;padding:8px 0}
+    .section-page .editorial-image,.section-page .release-image{grid-row:1/6;width:72px;height:65px;object-fit:cover;margin:0}
+    .section-page .indie-item h3,.section-page .release-item h3{font-size:15px;margin:3px 0}
+    .section-page .indie-item p,.section-page .release-item p{font-size:9px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+    .section-page .item-meta,.section-page .release-date{font-size:8px;margin:3px 0}
+    .section-page .indie-item .read-link,.section-page .release-item .read-link{font-size:8px}
+    .film-page .film-box{margin-top:12px;padding:14px}
+    .film-page .film-image{max-height:clamp(140px,27vh,230px);object-fit:cover}
+    .film-page .film-box h3{font-size:25px}
+    .cinema-page .cinema-grid{grid-template-columns:1fr 1fr;gap:0 12px}
+    .cinema-page .cinema-card{padding:8px 0}
+    .cinema-page .cinema-card h3{font-size:15px;margin:5px 0}
+    .cinema-page .cinema-card p{font-size:9px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+    .cinema-page .cinema-image{max-height:130px;max-width:90px}
+    .archive-page .archive-list{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+    .archive-page .archive-list a{padding:7px;font-size:8px}
+    .back-cover{background:linear-gradient(150deg,#2b0644,#10091a);color:#f1eedf}
+    .back-cover h2{font:clamp(30px,3.5vw,44px)/.95 var(--serif);color:var(--yellow)}
+    .back-cover p{font:11px/1.55 var(--sans);color:#d8cce1}
+    .page-flip{position:absolute;z-index:8;top:0;bottom:0;width:50%;transform-style:preserve-3d;pointer-events:none}
+    .page-flip.next{right:0;transform-origin:left center;animation:flipForward .78s cubic-bezier(.25,.72,.2,1) forwards}
+    .page-flip.prev{left:0;transform-origin:right center;animation:flipBackward .78s cubic-bezier(.25,.72,.2,1) forwards}
+    .page-flip-face{position:absolute;inset:0;backface-visibility:hidden;overflow:hidden;background:var(--paper);box-shadow:0 0 22px #0002}
+    .page-flip-face.front{z-index:2}
+    .page-flip-face.back{transform:rotateY(180deg)}
+    .page-flip-face .mag-page{height:100%;width:100%;min-height:0}
+    @keyframes flipForward{from{transform:rotateY(0)}to{transform:rotateY(-180deg)}}
+    @keyframes flipBackward{from{transform:rotateY(0)}to{transform:rotateY(180deg)}}
+    .footer{display:none}
+    @media(max-width:780px){
+      html,body{height:auto;min-height:100%;overflow:auto}
+      body{min-height:100dvh}
+      .masthead{padding:8px 12px 0}
+      .topline{align-items:center}.toplinks{gap:8px;font-size:8px}
+      .daily-stage{min-height:calc(100dvh - 58px);padding:10px}
+      .closed-cover{width:min(420px,calc((100dvh - 100px)*.68));height:min(620px,calc(100dvh - 100px))}
+      .open-book{height:auto;min-height:calc(100dvh - 80px)}
+      .book-toolbar{flex-wrap:wrap;padding:0 3px}
+      .book-controls{width:100%;justify-content:space-between;gap:4px}
+      .book-controls button{padding:8px 7px;font-size:8px}
+      .book-stage{min-height:0}
+      .book{height:auto;max-height:none;min-height:0}
+      .spread{position:relative;display:none;grid-template-columns:1fr;gap:0}
+      .spread.active{display:grid}
+      .mag-page{height:auto;min-height:calc(100dvh - 155px);padding:18px 17px 30px}
+      .mag-page:first-child{border-bottom:1px solid #bdb39d}
+      .mag-page:first-child:after,.mag-page:nth-child(2):before{display:none}
+      .news-page .news-list{grid-template-columns:1fr 1fr}
+      .news-page .story:nth-child(4n+1){grid-column:span 2}
+      .news-page .story:nth-child(4n+4){grid-column:span 2}
+      .page-flip{display:none}
+      .book-gutter{display:none}
+    }
+    @media(max-height:650px) and (min-width:781px){
+      .closed-cover{height:calc(100vh - 88px);width:calc((100vh - 88px)*.71)}
+      .closed-brand{margin:16px 0 10px}.closed-brand img{width:42px;height:42px}
+      .closed-cover-feature{margin:14px 0}.open-book{height:calc(100vh - 92px)}
+      .mag-page{padding-top:14px}
+    }
+    @media(prefers-reduced-motion:reduce){.closed-cover-art,.page-flip.next,.page-flip.prev{animation:none!important;transition:none!important}}
+
   </style>
 
 <link rel="icon" type="image/png" sizes="1024x1024" href="logo.png">
@@ -216,92 +359,105 @@
       <nav class="toplinks" aria-label="Nawigacja"><a href="forum.html">Forum <span style="color:#ffdc55;font-weight:700">NEW!</span></a><a href="index.html">Strona główna</a><a href="sprzet.html">Sprzęt</a><a href="felietony.html">Felietony</a><a href="admin.html">Dodaj news</a></nav>
     </div>
   </header>
-  <main class="paper">
-    <div class="book-toolbar">
-      <div><strong>LEVEL NEXT DAILY</strong> <span id="edition-date">WYDANIE INTERNETOWE</span></div>
-      <div class="book-controls">
-        <button type="button" id="prev-page" aria-label="Poprzednie strony">← WSTECZ</button>
-        <span class="book-counter" id="page-counter">01 / 04</span>
-        <button type="button" id="next-page" aria-label="Następne strony">DALEJ →</button>
+  <main class="daily-stage">
+    <section class="closed-cover" id="closed-cover" aria-label="Okładka LEVEL NEXT DAILY">
+      <div class="closed-cover-art">
+        <div class="closed-cover-top"><span>MAGAZYN GAMINGOWY</span><span>WYDANIE CYFROWE</span></div>
+        <div class="closed-brand"><img src="logo.png" alt="Logo LEVEL NEXT"><span>LEVEL NEXT</span></div>
+        <h1>LEVEL NEXT <em>DAILY</em></h1>
+        <div class="closed-cover-rule"></div>
+        <div class="closed-cover-date" id="edition-date">WYDANIE INTERNETOWE</div>
+        <div class="closed-cover-feature">
+          <span class="cover-eyebrow">TEMAT NUMERU</span>
+          <div id="cover-headline">Wczytywanie najnowszych wiadomości…</div>
+          <p id="cover-summary">Codzienna dawka informacji ze świata gier, retro i popkultury.</p>
+        </div>
+        <div class="closed-cover-bottom"><span>PRESS START TO OPEN</span><span>LEVELNEXT.PL / DAILY</span></div>
+        <button type="button" class="open-magazine" id="open-magazine">OTWÓRZ WYDANIE <span>↗</span></button>
       </div>
-    </div>
-    <div class="book-progress" aria-hidden="true"><span id="book-progress"></span></div>
-    <div class="book" id="magazine-book" aria-label="Interaktywny magazyn LEVEL NEXT DAILY">
-      <section class="spread active" data-spread="0">
-        <article class="mag-page cover-page">
-          <div class="page-running"><span>WYDANIE INTERNETOWE</span><span id="edition-status">AKTUALIZACJA</span></div>
-          <div class="cover-mast"><img src="logo.png" alt="LEVEL NEXT"><b>MAGAZYN O GRACH<br>I KULTURZE GAMINGOWEJ</b></div>
-          <h1 class="cover-title">LEVEL NEXT<span>DAILY</span></h1>
-          <div class="cover-sub">Wiadomości · Retro · Indie · Premiery · Popkultura</div>
-          <div class="cover-lead">
-            <div class="section-kicker">TEMAT WYDANIA</div>
-            <div id="lead-content"><div class="empty">Wczytywanie materiału z okładki…</div></div>
-          </div>
-          <p id="editor-note" class="cover-note">Zbieramy informacje z branżowych źródeł. Pod każdym materiałem znajdziesz odnośnik do oryginalnej publikacji.</p>
-          <div class="cover-stamp">PRESS START</div>
-          <span class="page-number">01 / LEVEL NEXT DAILY</span>
-        </article>
-        <article class="mag-page news-page">
-          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>01 / WIADOMOŚCI</span></div>
-          <h2 class="page-heading">Co dzieje się w świecie gier?</h2>
-          <p class="page-intro">Najważniejsze informacje z branży, zebrane z wielu redakcji. Każdy materiał prowadzi do oryginalnego źródła.</p>
-          <div class="searchbar"><input id="news-search" type="search" placeholder="Szukaj w tym wydaniu…" aria-label="Szukaj w wydaniu"></div>
-          <div id="news-list" class="news-list"><div class="empty">Wczytywanie wiadomości…</div></div>
-          <span class="page-number">02 / WIADOMOŚCI</span>
-        </article>
-      </section>
-      <section class="spread" data-spread="1">
-        <article class="mag-page section-page">
-          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>02 / SCENA INDIE</span></div>
-          <h2 class="page-heading">Indie Radar</h2>
-          <p class="page-intro">Mniejsze produkcje, niezależne studia i gry, którym warto poświęcić uwagę.</p>
-          <section class="side-section"><div class="section-kicker">WYBRANE GRY</div><div id="indie-list"><div class="empty">W tej rubryce znajdziesz małe gry, o których warto wiedzieć.</div></div></section>
-          <span class="page-number">03 / INDIE RADAR</span>
-        </article>
-        <article class="mag-page section-page">
-          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>03 / KALENDARZ</span></div>
-          <h2 class="page-heading">Nadchodzi premiera</h2>
-          <p class="page-intro">Daty premier i platformy. Oznaczenie informuje, czy termin został potwierdzony przez wydawcę, czy jest jedynie datą podawaną w kalendarzach.</p>
-          <section class="side-section"><div class="section-kicker">KALENDARZ PREMIER</div><div id="release-list"><div class="empty">Wczytywanie kalendarza premier…</div></div></section>
-          <span class="page-number">04 / PREMIERY</span>
-        </article>
-      </section>
-      <section class="spread" data-spread="2">
-        <article class="mag-page film-page">
-          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>04 / PO GODZINACH</span></div>
-          <h2 class="page-heading">Seans na dziś</h2>
-          <p class="page-intro">Film wybrany do wieczornego seansu. Dostępność dotyczy polskiego rynku i jest opisana przy materiale.</p>
-          <div id="film-box" class="empty">Wczytywanie propozycji filmowej…</div>
-          <span class="page-number">05 / FILM DNIA</span>
-        </article>
-        <article class="mag-page cinema-page">
-          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>05 / KINO</span></div>
-          <h2 class="page-heading">Na dużym ekranie</h2>
-          <p class="page-intro">Nadchodzące polskie premiery kinowe. Daty mogą ulec zmianie, dlatego przed wizytą sprawdź repertuar lokalnego kina.</p>
-          <div id="cinema-list" class="cinema-grid"><div class="empty">Wczytywanie kalendarza kinowego…</div></div>
-          <span class="page-number">06 / PREMIERY KINOWE</span>
-        </article>
-      </section>
-      <section class="spread" data-spread="3">
-        <article class="mag-page archive-page">
-          <div class="page-running"><span>LEVEL NEXT DAILY</span><span>ARCHIWUM</span></div>
-          <h2 class="page-heading">Poprzednie wydania</h2>
-          <p class="page-intro">Każdy numer zostaje w archiwum. Możesz wrócić do wcześniejszych wiadomości i materiałów redakcyjnych.</p>
-          <section class="archive"><div class="section-kicker">BIBLIOTEKA WYDAŃ</div><div id="archive-list" class="archive-list"><span class="story-meta">Z czasem pojawią się tu poprzednie wydania.</span></div></section>
-          <span class="page-number">07 / ARCHIWUM</span>
-        </article>
-        <article class="mag-page back-cover">
-          <div class="page-running"><span>LEVEL NEXT</span><span>DO ZOBACZENIA</span></div>
-          <div>
-            <h2>Gry łączą pokolenia.</h2>
-            <p>LEVEL NEXT to miejsce dla ludzi, którzy lubią gry, sprzęt, historię elektronicznej rozrywki i społeczność zbudowaną wokół wspólnych zainteresowań.</p>
-            <p>Masz temat, który warto opisać? Dołącz do rozmowy na <a href="forum.html">forum LEVEL NEXT</a> albo prześlij własny materiał do redakcji.</p>
-          </div>
-          <div><p><a href="index.html">STRONA GŁÓWNA ↗</a><br><a href="forum.html">FORUM ↗</a><br><a href="felietony.html">FELIETONY ↗</a></p><p>LEVEL NEXT DAILY · NIEZALEŻNY MAGAZYN GAMINGOWY</p></div>
-          <span class="page-number">08 / KONIEC WYDANIA</span>
-        </article>
-      </section>
-    </div>
+      <div class="cover-spine"></div>
+    </section>
+    <section class="open-book hidden" id="open-book" aria-label="Otwarte wydanie LEVEL NEXT DAILY">
+      <div class="book-toolbar">
+        <div><strong>LEVEL NEXT DAILY</strong><span id="book-edition">WYDANIE INTERNETOWE</span></div>
+        <div class="book-controls">
+          <button type="button" id="prev-page" aria-label="Poprzednia strona">← WSTECZ</button>
+          <span class="book-counter" id="page-counter">01 / 04</span>
+          <button type="button" id="next-page" aria-label="Następna strona">DALEJ →</button>
+          <button type="button" id="close-magazine" aria-label="Zamknij gazetę">ZAMKNIJ ✕</button>
+        </div>
+      </div>
+      <div class="book-progress"><span id="book-progress"></span></div>
+      <div class="book-stage" id="book-stage">
+        <div class="book-gutter"></div>
+        <div class="book" id="magazine-book">
+          <section class="spread active" data-spread="0">
+            <article class="mag-page feature-page">
+              <div class="page-running"><span>LEVEL NEXT DAILY</span><span>OKŁADKOWY TEMAT</span></div>
+              <div class="feature-page-label">TEMAT WYDANIA</div>
+              <div id="lead-content"><div class="empty">Wczytywanie materiału…</div></div>
+              <p id="editor-note" class="feature-editor-note">Informacje i materiały pochodzą z podlinkowanych źródeł.</p>
+              <span class="page-number">01</span>
+            </article>
+            <article class="mag-page news-page">
+              <div class="page-running"><span>LEVEL NEXT DAILY</span><span>WIADOMOŚCI / 01</span></div>
+              <h2 class="page-heading">Co dzieje się w świecie gier?</h2>
+              <p class="page-intro">Najważniejsze informacje z branży. Każdy materiał prowadzi do oryginalnego źródła.</p>
+              <div class="searchbar"><input id="news-search" type="search" placeholder="Szukaj w tym wydaniu…" aria-label="Szukaj w wydaniu"></div>
+              <div id="news-list" class="news-list"><div class="empty">Wczytywanie wiadomości…</div></div>
+              <span class="page-number">02</span>
+            </article>
+          </section>
+          <section class="spread" data-spread="1">
+            <article class="mag-page section-page">
+              <div class="page-running"><span>LEVEL NEXT DAILY</span><span>SCENA INDIE</span></div>
+              <h2 class="page-heading">Indie Radar</h2>
+              <p class="page-intro">Mniejsze produkcje, niezależne studia i gry, którym warto poświęcić uwagę.</p>
+              <section class="side-section"><div class="section-kicker">WYBRANE GRY</div><div id="indie-list"><div class="empty">W tej rubryce znajdziesz małe gry, o których warto wiedzieć.</div></div></section>
+              <span class="page-number">INDIE</span>
+            </article>
+            <article class="mag-page section-page">
+              <div class="page-running"><span>LEVEL NEXT DAILY</span><span>KALENDARZ PREMIER</span></div>
+              <h2 class="page-heading">Nadchodzi premiera</h2>
+              <p class="page-intro">Daty premier i platformy. Przy każdej pozycji sprawdzaj status terminu.</p>
+              <section class="side-section"><div class="section-kicker">KALENDARZ</div><div id="release-list"><div class="empty">Wczytywanie kalendarza premier…</div></div></section>
+              <span class="page-number">PREMIERY</span>
+            </article>
+          </section>
+          <section class="spread" data-spread="2">
+            <article class="mag-page film-page">
+              <div class="page-running"><span>LEVEL NEXT DAILY</span><span>PO GODZINACH</span></div>
+              <h2 class="page-heading">Seans na dziś</h2>
+              <p class="page-intro">Film wybrany do wieczornego seansu.</p>
+              <div id="film-box" class="empty">Wczytywanie propozycji filmowej…</div>
+              <span class="page-number">FILM DNIA</span>
+            </article>
+            <article class="mag-page cinema-page">
+              <div class="page-running"><span>LEVEL NEXT DAILY</span><span>NA DUŻYM EKRANIE</span></div>
+              <h2 class="page-heading">W kinach</h2>
+              <p class="page-intro">Nadchodzące polskie premiery kinowe. Daty mogą ulec zmianie.</p>
+              <div id="cinema-list" class="cinema-grid"><div class="empty">Wczytywanie kalendarza kinowego…</div></div>
+              <span class="page-number">KINO</span>
+            </article>
+          </section>
+          <section class="spread" data-spread="3">
+            <article class="mag-page archive-page">
+              <div class="page-running"><span>LEVEL NEXT DAILY</span><span>ARCHIWUM</span></div>
+              <h2 class="page-heading">Poprzednie wydania</h2>
+              <p class="page-intro">Każdy numer zostaje w archiwum. Wróć do wcześniejszych wiadomości i materiałów.</p>
+              <section class="archive"><div class="section-kicker">BIBLIOTEKA WYDAŃ</div><div id="archive-list" class="archive-list"><span class="story-meta">Poprzednie numery pojawią się tutaj.</span></div></section>
+              <span class="page-number">ARCHIWUM</span>
+            </article>
+            <article class="mag-page back-cover">
+              <div class="page-running"><span>LEVEL NEXT</span><span>DO ZOBACZENIA</span></div>
+              <div><h2>Gry łączą pokolenia.</h2><p>LEVEL NEXT to miejsce dla ludzi, którzy lubią gry, sprzęt, historię elektronicznej rozrywki i społeczność zbudowaną wokół wspólnych zainteresowań.</p><p>Masz temat, który warto opisać? Dołącz do rozmowy na <a href="forum.html">forum LEVEL NEXT</a>.</p></div>
+              <div><p><a href="index.html">STRONA GŁÓWNA ↗</a><br><a href="forum.html">FORUM ↗</a><br><a href="felietony.html">FELIETONY ↗</a></p><p>LEVEL NEXT DAILY · NIEZALEŻNY MAGAZYN GAMINGOWY</p></div>
+              <span class="page-number">KONIEC WYDANIA</span>
+            </article>
+          </section>
+        </div>
+      </div>
+    </section>
   </main>
   <footer class="footer">LEVEL NEXT DAILY · GAZETA <a href="index.html">LEVEL NEXT</a><br>Wiadomości są pobierane automatycznie. Przed podaniem dalej zajrzyj do źródła.</footer>
 <script>
@@ -349,7 +505,32 @@
     }
     if(data.editorNote) $('editor-note').textContent=data.editorNote;
     const news=$('news-list');
-    if(Array.isArray(data.news)&&data.news.length) news.replaceChildren(...data.news.map(renderStory));
+    if(date){const d=new Date(date+'T12:00:00');$('book-edition').textContent=d.toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'});}
+    if(data.lead&&data.lead.title){$('cover-headline').textContent=data.lead.title;$('cover-summary').textContent=data.lead.summary||'Otwórz numer, aby przeczytać szczegóły.';}
+    if(Array.isArray(data.news)&&data.news.length){
+      const items=data.news;
+      const pageSize=4;
+      const chunks=[];
+      for(let i=0;i<items.length;i+=pageSize)chunks.push(items.slice(i,i+pageSize));
+      news.replaceChildren(...chunks[0].map(renderStory));
+      const baseSpread=document.querySelector('.spread[data-spread="1"]');
+      const book=$('magazine-book');
+      let insertBefore=baseSpread;
+      for(let i=1;i<chunks.length;i+=2){
+        const spread=document.createElement('section');spread.className='spread';spread.dataset.spread='news-'+i;
+        for(let side=0;side<2;side++){
+          const chunk=chunks[i+side];
+          const page=document.createElement('article');page.className='mag-page news-page';
+          const running=node('div','page-running');running.append(node('span','', 'LEVEL NEXT DAILY'),node('span','', 'WIADOMOŚCI / '+String(i+side+1).padStart(2,'0')));page.append(running);
+          page.append(node('h2','page-heading',side===0?'Wiadomości ze świata gier':'Więcej z branży'));
+          page.append(node('p','page-intro','Kolejne informacje i materiały źródłowe z aktualnego wydania.'));
+          const list=node('div','news-list');list.append(...(chunk||[]).map(renderStory));page.append(list);
+          page.append(node('span','page-number',String(i+side+3).padStart(2,'0')));
+          spread.append(page);
+        }
+        book.insertBefore(spread,insertBefore);
+      }
+    }
     const indie=$('indie-list');
     if(Array.isArray(data.indie)&&data.indie.length){ indie.replaceChildren(...data.indie.map(item=>{const el=node('article','indie-item');if(item.imageUrl){const img=node('img','editorial-image');prepareImage(img,item.imageUrl);img.alt='Grafika gry '+item.title;el.append(img);}el.append(node('span','tag','INDIE RADAR'),node('h3','',item.title),node('div','item-meta',[item.date,item.platform].filter(Boolean).join(' · ')),node('p','',item.summary||''));const a=link(item.sourceUrl,'Sprawdź grę ↗');if(a)el.append(a);return el;}));}
     const releases=$('release-list');
@@ -383,49 +564,65 @@
 <script>
 (() => {
   const book=document.getElementById('magazine-book');
-  const spreads=[...book.querySelectorAll('.spread')];
+  const cover=document.getElementById('closed-cover');
+  const openBook=document.getElementById('open-book');
+  const openButton=document.getElementById('open-magazine');
+  const closeButton=document.getElementById('close-magazine');
   const prev=document.getElementById('prev-page');
   const next=document.getElementById('next-page');
   const counter=document.getElementById('page-counter');
   const progress=document.getElementById('book-progress');
-  let current=0,busy=false;
+  let spreads=[],current=0,busy=false,opened=false;
   const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function collect(){spreads=[...book.querySelectorAll('.spread')];}
   function update(){
     spreads.forEach((spread,i)=>{spread.classList.toggle('active',i===current);spread.setAttribute('aria-hidden',i===current?'false':'true');});
-    prev.disabled=current===0;next.disabled=current===spreads.length-1;
+    prev.disabled=current===0;next.disabled=current>=spreads.length-1;
     counter.textContent=String(current+1).padStart(2,'0')+' / '+String(spreads.length).padStart(2,'0');
-    progress.style.width=((current+1)/spreads.length*100)+'%';
+    progress.style.width=((current+1)/Math.max(1,spreads.length)*100)+'%';
   }
-  function go(direction){
-    if(busy)return;
-    const target=Math.max(0,Math.min(spreads.length-1,current+direction));
-    if(target===current)return;
+  function pageAt(index,side){
+    const pages=spreads[index]?.querySelectorAll('.mag-page');
+    return pages?.[side]||null;
+  }
+  function flip(direction,target){
+    if(busy||target<0||target>=spreads.length)return;
     busy=true;
-    const old=spreads[current];
-    old.classList.add(direction>0?'turn-next':'turn-prev');
-    const finish=()=>{old.classList.remove('turn-next','turn-prev');current=target;update();busy=false;};
-    if(reduced){finish();return;}
-    old.addEventListener('animationend',finish,{once:true});
-    window.setTimeout(()=>{if(busy)finish();},650);
+    const currentPage=pageAt(current,direction>0?1:0);
+    const targetPage=pageAt(target,direction>0?0:1);
+    if(reduced||!currentPage||!targetPage){current=target;update();busy=false;return;}
+    const sheet=document.createElement('div');sheet.className='page-flip '+(direction>0?'next':'prev');
+    const front=document.createElement('div');front.className='page-flip-face front';front.append(currentPage.cloneNode(true));
+    const back=document.createElement('div');back.className='page-flip-face back';back.append(targetPage.cloneNode(true));
+    sheet.append(front,back);book.append(sheet);
+    const finish=()=>{if(!busy)return;sheet.remove();current=target;update();busy=false;};
+    sheet.addEventListener('animationend',finish,{once:true});
+    window.setTimeout(finish,900);
   }
+  function go(direction){flip(direction,current+direction);}
+  function open(){
+    if(opened)return;opened=true;collect();
+    cover.classList.add('opening');
+    window.setTimeout(()=>{cover.classList.add('hidden');openBook.classList.remove('hidden');current=0;update();},650);
+  }
+  function close(){
+    if(!opened)return;opened=false;busy=false;
+    openBook.classList.add('hidden');cover.classList.remove('hidden','opening');current=0;
+  }
+  openButton.addEventListener('click',open);
+  closeButton.addEventListener('click',close);
   prev.addEventListener('click',()=>go(-1));
   next.addEventListener('click',()=>go(1));
   document.addEventListener('keydown',event=>{
-    if(event.target.matches('input,textarea,select,[contenteditable="true"]'))return;
+    if(!opened||event.target.matches('input,textarea,select,[contenteditable="true"]'))return;
     if(event.key==='ArrowRight'||event.key==='PageDown'){event.preventDefault();go(1);}
     if(event.key==='ArrowLeft'||event.key==='PageUp'){event.preventDefault();go(-1);}
+    if(event.key==='Escape')close();
   });
   let pointerX=null;
-  book.addEventListener('pointerdown',event=>{
-    if(event.target.closest('a,button,input'))return;
-    pointerX=event.clientX;
-  });
-  book.addEventListener('pointerup',event=>{
-    if(pointerX===null)return;
-    const delta=event.clientX-pointerX;pointerX=null;
-    if(Math.abs(delta)>65)go(delta<0?1:-1);
-  });
-  update();
+  book.addEventListener('pointerdown',event=>{if(event.target.closest('a,button,input'))return;pointerX=event.clientX;});
+  book.addEventListener('pointerup',event=>{if(pointerX===null)return;const delta=event.clientX-pointerX;pointerX=null;if(Math.abs(delta)>55)go(delta<0?1:-1);});
+  collect();update();
 })();
 </script>
 
