@@ -408,6 +408,7 @@
 
     /* FINAL FIX: okładka mieści się w całości, bez przewijania i obcinania */
     .closed-cover-art{
+      color:#211d18;background:linear-gradient(135deg,#f4efdf 0%,#e4dac2 100%);
       overflow:hidden;
       padding:clamp(16px,2.8vh,28px) clamp(18px,3vw,30px);
     }
@@ -440,6 +441,7 @@
     .mag-page{overflow:hidden}
     .feature-page{overflow:hidden}
     @media(max-width:780px){
+      .spread.active,.spread.under{position:relative;inset:auto}
       .closed-cover{width:min(420px,calc((100dvh - 100px)*.68));height:min(620px,calc(100dvh - 100px))}
       .closed-cover-art{padding:18px 18px 16px}
       .closed-brand{margin:14px 0 10px}
