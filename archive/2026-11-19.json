@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T19:50+01:00",
+  "updatedAt": "2026-11-19T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Assassin’s Creed: Black Flag Resynced ratuje pogrążony w kryzysie Ubisoft. Firma wciąż jest jednak pod kreską i stawia na AI",
-    "summary": "Z najnowszego raportu finansowego Ubisoftu wynika, że sukces Assassin’s Creed: Black Flag Resynced pozwolił firmie przekroczyć wcześniejsze oczekiwania finansowe.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/assassins-creed-black-flag-resynced-ratuje-pograzony-w-kryzysie-u/z1323d5",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532811707.jpg"
+    "title": "Po 24 godzinach od premiery GTA 6 gracze nie mogą nadziwić się ilości absurdów. Rockstar sparodiował nawet sam siebie",
+    "summary": "GTA 6 dostarcza graczom mnóstwa absurdalnych sytuacji, zabawnych nawiązań i niespodziewanych odkryć. W międzyczasie Rob Nelson wyjaśnił, dlaczego deweloperzy zrezygnowali z rzutek i parku rozrywki.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/po-24-godzinach-od-premiery-gta-6-gracze-nie-moga-nadziwic-sie-il/z2323d6",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532813864.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Po 24 godzinach od premiery GTA 6 gracze nie mogą nadziwić się ilości absurdów. Rockstar sparodiował nawet sam siebie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-24-godzinach-od-premiery-gta-6-gracze-nie-moga-nadziwic-sie-il/z2323d6",
+      "publishedAt": "2026-11-19T20:52+01:00",
+      "summary": "GTA 6 dostarcza graczom mnóstwa absurdalnych sytuacji, zabawnych nawiązań i niespodziewanych odkryć. W międzyczasie Rob Nelson wyjaśnił, dlaczego deweloperzy zrezygnowali z rzutek i parku rozrywki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532813864.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Assassin’s Creed: Black Flag Resynced ratuje pogrążony w kryzysie Ubisoft. Firma wciąż jest jednak pod kreską i stawia na AI",
@@ -272,15 +281,6 @@
       "summary": "Na Netfliksa trafił nowy polski serial, który błyskawicznie znalazł się wśród najchętniej oglądanych produkcji.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532794307.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 bez płyty w pudełku. Szef GameStop ostro uderza w cyfrową dystrybucję",
-      "sourceUrl": "https://www.ppe.pl/news/433811/gta-6-bez-plyty-w-pudelku-szef-gamestop-ostro-uderza-w-cyfrowa-dystrybucje.html",
-      "publishedAt": "2026-11-19T16:00+01:00",
-      "summary": "Premiera GTA 6 wywołała dyskusję nie tylko o samej grze, ale również o przyszłości fizycznych wydań.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ca2aef6b7c783954a10b/ca2aef6b7c783954a10b.jpg"
     }
   ],
   "indie": [
