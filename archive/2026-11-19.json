@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T05:01+01:00",
+  "updatedAt": "2026-11-19T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 JUŻ DOSTĘPNE W POLSCE! Gracie? Zobaczcie wyjątkowy zwiastun",
-    "summary": "To już TEN dzień! Po 13 latach oczekiwania GTA 6 wreszcie jest dostępne w Polsce. Rockstar Games oficjalnie oddało swoją najnowszą produkcję w ręce graczy, którzy od północy mogą rozpocząć przygodę w Leonidzie. Posiadacze PlayStation 5 or...",
-    "sourceUrl": "https://www.ppe.pl/news/433685/gta-6-juz-dostepne-w-polsce-gracie-zobaczcie-wyjatkowy-zwiastun.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg"
+    "title": "GTA 6 to oficjalnie NAJLEPIEJ oceniana gra w historii! Czy ktokolwiek przebije ten wynik?",
+    "summary": "Rockstar Games dokonało czegoś absolutnie niewiarygodnego! Po 13 latach oczekiwania GTA 6 wreszcie trafiło na rynek i już teraz możemy mówić o historycznym wydarzeniu. Najnowsza odsłona Grand Theft Auto nie tylko zachwyciła recenzentów z całe...",
+    "sourceUrl": "https://www.ppe.pl/news/433669/gta-6-to-oficjalnie-najlepiej-oceniana-gra-w-historii-czy-ktokolwiek-przebije-ten-wynik.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/7c1ca01123fd69289d8a/7c1ca01123fd69289d8a.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 to oficjalnie NAJLEPIEJ oceniana gra w historii! Czy ktokolwiek przebije ten wynik?",
+      "sourceUrl": "https://www.ppe.pl/news/433669/gta-6-to-oficjalnie-najlepiej-oceniana-gra-w-historii-czy-ktokolwiek-przebije-ten-wynik.html",
+      "publishedAt": "2026-11-19T05:45+01:00",
+      "summary": "Rockstar Games dokonało czegoś absolutnie niewiarygodnego! Po 13 latach oczekiwania GTA 6 wreszcie trafiło na rynek i już teraz możemy mówić o historycznym wydarzeniu. Najnowsza odsłona Grand Theft Auto nie tylko zachwyciła recenzentów z całe...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/7c1ca01123fd69289d8a/7c1ca01123fd69289d8a.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 JUŻ DOSTĘPNE W POLSCE! Gracie? Zobaczcie wyjątkowy zwiastun",
@@ -231,7 +240,8 @@
       "date": "2027-02-19",
       "platform": "PC (Steam), PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2",
       "summary": "Pikselowy survival horror inspirowany klasykami lat 90. W postapokaliptycznym świecie Katherine chroni córkę Avę przed zmutowanymi stworzeniami i szuka bezpiecznego schronienia. Premiera została przesunięta z grudnia na luty 2027.",
-      "sourceUrl": "https://www.gematsu.com/2026/11/the-road-of-dust-and-sorrow-delayed-to-february-19-2027"
+      "sourceUrl": "https://www.gematsu.com/2026/11/the-road-of-dust-and-sorrow-delayed-to-february-19-2027",
+      "imageUrl": "https://www.gematsu.com/wp-content/uploads/2026/11/Road-Dust-Sorrow-Delay_11-11-26.jpg"
     }
   ],
   "releases": [
@@ -377,5 +387,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "372a63a3757289850d22c496a7d58a854f26229dd6d8af5d2610d729a67f88da"
+  "editorialHash": "5b8b748af30617d879e14dcaf479a28c5d29251fadec6140c2c62bfe64b25dda"
 }
