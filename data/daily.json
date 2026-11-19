@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T10:01+01:00",
+  "updatedAt": "2026-11-19T10:51+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gracze remontują dom i tropią Wielką Stopę, ale prostytutki do auta już nie zabiorą. 50 rzeczy, które można robić w GTA 6",
-    "summary": "Gracze odkrywają kolejne mechaniki oraz smaczki w świecie GTA 6. Rockstar ograniczył dostęp do najstarszego zawodu świata.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-remontuja-dom-i-tropia-wielka-stope-ale-prostytutki-do-aut/z3323b9",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532776283.jpg"
+    "title": "SkyShowtime zostanie zamknięte. Popularna w Polsce platforma streamingowa zakończy działalność w 2027 roku",
+    "summary": "SkyShowtime zniknie z rynku streamingowego. Właściciele platformy podjęli decyzję o zakończeniu jej działalności pod koniec 2027 roku. Ze stanowiska odchodzi również dotychczasowy dyrektor generalny serwisu.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/skyshowtime-zostanie-zamkniete-popularna-w-polsce-platforma-strea/zc323bb",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532777463.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "SkyShowtime zostanie zamknięte. Popularna w Polsce platforma streamingowa zakończy działalność w 2027 roku",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/skyshowtime-zostanie-zamkniete-popularna-w-polsce-platforma-strea/zc323bb",
+      "publishedAt": "2026-11-19T11:44+01:00",
+      "summary": "SkyShowtime zniknie z rynku streamingowego. Właściciele platformy podjęli decyzję o zakończeniu jej działalności pod koniec 2027 roku. Ze stanowiska odchodzi również dotychczasowy dyrektor generalny serwisu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532777463.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Która gra po GTA 6 dostanie 95/100 i więcej na Metacritic? Gracze wskazują Wiedźmina 4 i nowość od twórców The Last of Us",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ktora-gra-po-gta-6-dostanie-95100-i-wiecej-na-metacritic-gracze-w/ze323bd",
+      "publishedAt": "2026-11-19T11:22+01:00",
+      "summary": "Po premierze GTA 6 gracze zastanawiają się, jaka gra zdoła osiągnąć równie wysoką średnią ocen w Metacritic w przyszłości.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532779570.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Kochamy graczy”. AMD chciało przypodobać się fanom, ale internauci brutalnie przypomnieli firmie jej prawdziwe priorytety",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kochamy-graczy-amd-chcialo-przypodobac-sie-fanom-ale-internauci-b/zd323bc",
+      "publishedAt": "2026-11-19T11:15+01:00",
+      "summary": "Japoński oddział AMD ogłosił, że firma „ponad wszystko” ceni sobie kontakt z graczami. Internauci szybko przypomnieli, że niedawno CEO Lisa Su stwierdziła coś innego, stawiając centra danych AI na pierwszym miejscu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532779273.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 nie jest wolne od błędów. Kompilacja bugów w grze ze średnią 9,9/10",
+      "sourceUrl": "https://www.ppe.pl/news/433751/gta-6-nie-jest-wolne-od-bledow-kompilacja-bugow-w-grze-ze-srednia-9-9-10.html",
+      "publishedAt": "2026-11-19T10:48+01:00",
+      "summary": "Nie minęło kilka godzin od premiery, a gracze już demonstrują błędy występujące w Grand Theft Auto 6.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/b549272c38d4899d05b0/b549272c38d4899d05b0.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gracze remontują dom i tropią Wielką Stopę, ale prostytutki do auta już nie zabiorą. 50 rzeczy, które można robić w GTA 6",
@@ -29,6 +65,42 @@
       "summary": "Vin Diesel ma już nowy projekt, w który zaangażuje się po Szybkich i wściekłych. To może być początek nowej serii akcji.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532775081.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Poziom animacji i szczegółowości w GTA 6 jest przerażający. Inni twórcy mają wzór do naśladowania",
+      "sourceUrl": "https://www.ppe.pl/news/433743/poziom-animacji-i-szczegolowosci-w-gta-6-jest-przerazajacy-inni-tworcy-maja-wzor-do-nasladowania.html",
+      "publishedAt": "2026-11-19T10:22+01:00",
+      "summary": "Kiedy w końcu odpala się najnowszy hit Rockstar Games, Grand Theft Auto 6, od razu widać, na co poszły te wszystkie długie lata czekania i gigantyczne pieniądze.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d351625870800a63e9e1/d351625870800a63e9e1.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Legendarny twórca chwali GTA 6, ale ma też gorzką refleksję. Ojciec Deus Eksa ma nadzieję, że to ostatnia taka gra",
+      "sourceUrl": "https://cdaction.pl/newsy/legendarny-tworca-chwali-gta-6-ale-ma-tez-gorzka-refleksje-ojciec-deus-eksa-ma-nadzieje-ze-to-ostatnia-taka-gra/",
+      "publishedAt": "2026-11-19T10:15+01:00",
+      "summary": "Na emeryturze można mówić dużo rzeczy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-19T095157.929-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ta tanio jeszcze nie było. Rekordowo niskie ceny Final Fantasy VII Rebirth, Avatar i Star Wars Outlaws",
+      "sourceUrl": "https://www.ppe.pl/news/433749/ta-tanio-jeszcze-nie-bylo-rekordowo-niskie-ceny-final-fantasy-vii-rebirth-avatar-i-star-wars-outlaws.html",
+      "publishedAt": "2026-11-19T10:13+01:00",
+      "summary": "W sieci pojawiła się kolejna wyprzedaż z naprawdę dobrymi cenami pecetowych gier.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/367e4347bcda769e0d70/367e4347bcda769e0d70.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Trzęsienie ziemi w SkyShowtime. Prezes odchodzi, platforma wkrótce przestanie istnieć",
+      "sourceUrl": "https://www.ppe.pl/news/433750/trzesienie-ziemi-w-skyshowtime-prezes-odchodzi-platforma-wkrotce-przestanie-istniec.html",
+      "publishedAt": "2026-11-19T10:10+01:00",
+      "summary": "Spełnia się najczarniejszy scenariusz fanów SkyShowtime, który zrodziła fuzja Paramount Skydance i Warner Bros. Discovery. Platforma wkrótce zostanie wygaszona.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f61d14fe0ad673ea044b/f61d14fe0ad673ea044b.webp"
     },
     {
       "sourceName": "PPE",
@@ -209,78 +281,6 @@
       "summary": "Xbox Series S jest przez całą generację krytykowany przez wielu deweloperów, którzy muszą przygotowywać swoje produkcje również na „najmniejszego Xboksa”, jeśli chcą zaoferować gry na Xbox Series X. Nie brakowało więc obaw, jak tak wym...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/bbd2c313bf2a3bc14a76/bbd2c313bf2a3bc14a76.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 skrywa NIESAMOWITY system! Rockstar stworzyło coś, czego gracze mogą nawet nie zauważyć",
-      "sourceUrl": "https://www.ppe.pl/news/433695/gta-6-skrywa-niesamowity-system-rockstar-stworzylo-cos-czego-gracze-moga-nawet-nie-zauwazyc.html",
-      "publishedAt": "2026-11-19T07:05+01:00",
-      "summary": "GTA 6 od pierwszych chwil zachwyca ogromnym światem, ale okazuje się, że Rockstar Games przygotowało również niezwykle rozbudowane mechaniki, których większość graczy prawdopodobnie nigdy nie zobaczy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4585c5d37040c9dfb484/4585c5d37040c9dfb484.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Netflix przejął GIGA HIT. Ten film wygenerował majątek przy skromnym budżecie",
-      "sourceUrl": "https://www.ppe.pl/news/433677/netflix-przejal-giga-hit-ten-film-wygenerowal-majatek-przy-skromnym-budzecie.html",
-      "publishedAt": "2026-11-19T06:40+01:00",
-      "summary": "Netflix kolejny raz udowadnia, że nie trzeba przygotowywać wyjątkowych historii… można je po prostu wynająć. Platforma systematycznie rozbudowuje swoją bibliotekę o znane produkcje, a dzisiaj na serwerach pojawiły się dwa naprawdę ciekawe f...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ff7f83c9664c23716ba1/ff7f83c9664c23716ba1.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "79. gra za darmo w 2026 roku w Epic Games Store",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/79-gra-za-darmo-w-2026-roku-w-epic-games-store/ze323b4",
-      "publishedAt": "2026-11-19T06:30+01:00",
-      "summary": "W dniu premiery GTA 6 w Epic Games Store mieliśmy odebrać dwie gry. Problem w tym, że prawdopodobnie dostaniemy tylko jedną, bo druga została „po cichu” usunięta z oferty.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532742842.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Pożegnajcie Lucię, powitajcie Mandy. Gracze GTA 6 są zachwyceni nową postacią",
-      "sourceUrl": "https://www.ppe.pl/news/433674/pozegnajcie-lucie-powitajcie-mandy-gracze-gta-6-sa-zachwyceni-nowa-postacia.html",
-      "publishedAt": "2026-11-19T06:14+01:00",
-      "summary": "Jeszcze przed premierą GTA 6 gracze zachwycali się Lucią, która od pierwszych zwiastunów przyciągała ogromną uwagę społeczności. Wystarczyło jednak kilkanaście godzin od udostępnienia produkcji, by w Internecie pojawiła się nowa ulubieni...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8feb5fde28f976fe3a11/8feb5fde28f976fe3a11.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 to oficjalnie NAJLEPIEJ oceniana gra w historii! Czy ktokolwiek przebije ten wynik?",
-      "sourceUrl": "https://www.ppe.pl/news/433669/gta-6-to-oficjalnie-najlepiej-oceniana-gra-w-historii-czy-ktokolwiek-przebije-ten-wynik.html",
-      "publishedAt": "2026-11-19T05:45+01:00",
-      "summary": "Rockstar Games dokonało czegoś absolutnie niewiarygodnego! Po 13 latach oczekiwania GTA 6 wreszcie trafiło na rynek i już teraz możemy mówić o historycznym wydarzeniu. Najnowsza odsłona Grand Theft Auto nie tylko zachwyciła recenzentów z całe...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7c1ca01123fd69289d8a/7c1ca01123fd69289d8a.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Polacy, możecie już grać w GTA 6. Bawcie się dobrze w najlepiej ocenianej grze w historii",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/polacy-juz-mozecie-grac-w-gta-6-bawcie-sie-dobrze-w-najlepiej-oce/zd323b3",
-      "publishedAt": "2026-11-19T01:00+01:00",
-      "summary": "Po ponad 13 latach od premiery GTA V na globalnym rynku zadebiutowało Grand Theft Auto VI. Od północy z 18 na 19 listopada gra jest już dostępna także w Polsce.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532741448.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 JUŻ DOSTĘPNE W POLSCE! Gracie? Zobaczcie wyjątkowy zwiastun",
-      "sourceUrl": "https://www.ppe.pl/news/433685/gta-6-juz-dostepne-w-polsce-gracie-zobaczcie-wyjatkowy-zwiastun.html",
-      "publishedAt": "2026-11-19T00:00+01:00",
-      "summary": "To już TEN dzień! Po 13 latach oczekiwania GTA 6 wreszcie jest dostępne w Polsce. Rockstar Games oficjalnie oddało swoją najnowszą produkcję w ręce graczy, którzy od północy mogą rozpocząć przygodę w Leonidzie. Posiadacze PlayStation 5 or...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 - poradnik. Misje, zadania poboczne, Jason i Lucia, pościgi, karty, profile, samochody, porady, podstawy",
-      "sourceUrl": "https://www.ppe.pl/poradniki/432031/gta-6-poradnik-misje-zadania-poboczne-jason-i-lucia-poscigi-karty-profile-samochody-porady-podstawy.html",
-      "publishedAt": "2026-11-18T23:28+01:00",
-      "summary": "Witajcie w poradniku do GTA 6, gry dekady. W nim znajdziecie opis przejścia pełnej gry, uwzględniając misje główne, zadania poboczne, aktywności opcjonalne, znajdźki, zagadki w świecie, a także wiele, wiele więcej ciekawych rzeczy. Zapraszamy...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c9302a696407ab949ce7/c9302a696407ab949ce7.png"
     }
   ],
   "indie": [
