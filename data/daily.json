@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T12:01+01:00",
+  "updatedAt": "2026-11-19T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Twórcy Claude'a są już warci 1,5 biliona dolarów. Anthropic wchodzi na giełdę mimo rosnących obaw o przyszłość AI",
-    "summary": "Anthropic wchodzi na giełdę przeprowadzając największą ofertę publiczną w historii, przebijając czerwcowy wynik SpaceX. Z nową wyceną korporacja trafia na 12. miejsce wśród najcenniejszych spółek świata.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-claudea-sa-juz-warci-15-biliona-dolarow-anthropic-wchodzi/zf323c4",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532785180.jpg"
+    "title": "Swoje uzależnienie od social mediów możecie pogłębiać w GTA 6. Gracze podziwiają realistyczny element w hicie Rockstara",
+    "summary": "Czy jest coś „lepszego” od doomscrollowania w prawdziwym życiu? Rockstar pozwoli wam marnować czas także we własnej grze.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/swoje-uzaleznienie-od-social-mediow-mozecie-poglebiac-w-gta-6-gra/z2323c7",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532788531.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Swoje uzależnienie od social mediów możecie pogłębiać w GTA 6. Gracze podziwiają realistyczny element w hicie Rockstara",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/swoje-uzaleznienie-od-social-mediow-mozecie-poglebiac-w-gta-6-gra/z2323c7",
+      "publishedAt": "2026-11-19T13:51+01:00",
+      "summary": "Czy jest coś „lepszego” od doomscrollowania w prawdziwym życiu? Rockstar pozwoli wam marnować czas także we własnej grze.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532788531.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "CD Projekt RED szuka eksperta od AI. Ma usprawniać pracę twórców Wiedźmina 4, a nie tworzyć grę za nich",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/cd-projekt-red-szuka-eksperta-od-ai-ma-usprawniac-prace-tworcow-w/z0323c5",
+      "publishedAt": "2026-11-19T13:09+01:00",
+      "summary": "Mimo że CD Projekt Red nie chce zastępować pracy ludzi sztuczną inteligencją, to rozwija ten sektor. Twórcy serii Wiedźmin poszukują eksperta od AI.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532786101.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "To isekai 14 lat temu zrewolucjonizowało gatunek i teraz jest o wiele łatwiejsze do oglądania: Netflix ma u siebie 2 sezony z polskimi napisami",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/to-isekai-14-lat-temu-zrewolucjonizowalo-gatunek-i-teraz-jest-o-w/zd323c2",
+      "publishedAt": "2026-11-19T13:02+01:00",
+      "summary": "Netflix dodał do swojej oferty anime, które przed 14 laty zrobiło ogromną furorę. Można już obejrzeć 2 sezony z polskimi napisami.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532783229.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W GTA 6 znajdziecie psa na motorówce, który zabierze was na sekretną wyspę. Do tego psiak wykopie dla was skarb",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-znajdziecie-psa-na-motorowce-ktory-zabierze-was-na-sekret/ze323c3",
+      "publishedAt": "2026-11-19T12:58+01:00",
+      "summary": "Gracze GTA 6 odkrywają pierwsze easter eggi. Jeden z nich zabierze was na sekretną wyspę pełną psiaków.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532784969.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Twórcy Claude'a są już warci 1,5 biliona dolarów. Anthropic wchodzi na giełdę mimo rosnących obaw o przyszłość AI",
@@ -20,6 +56,51 @@
       "summary": "Anthropic wchodzi na giełdę przeprowadzając największą ofertę publiczną w historii, przebijając czerwcowy wynik SpaceX. Z nową wyceną korporacja trafia na 12. miejsce wśród najcenniejszych spółek świata.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532785180.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 Pro vs. PS5 vs. Xbox Series X vs. Xbox Series S w GTA 6. Ostateczny werdykt SZOKUJE!",
+      "sourceUrl": "https://www.ppe.pl/news/433764/ps5-pro-vs-ps5-vs-xbox-series-x-vs-xbox-series-s-w-gta-6-ostateczny-werdykt-szokuje.html",
+      "publishedAt": "2026-11-19T12:49+01:00",
+      "summary": "Specjaliści z Digital Foundry spędzili z nowym hitem Rockstar Games, Grand Theft Auto 6, ponad sto godzin, żeby raz na zawsze sprawdzić, jak ten gigant radzi sobie na każdej ze współczesnych konsol.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/37f90a6542c3bcb7bae2/37f90a6542c3bcb7bae2.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Która konsola oferuje najlepszą grafikę w GTA 6? Definitywna odpowiedź w niezależnym teście",
+      "sourceUrl": "https://www.ppe.pl/news/433771/ktora-konsola-oferuje-najlepsza-grafike-w-gta-6-definitywna-odpowiedz-w-niezaleznym-tescie.html",
+      "publishedAt": "2026-11-19T12:47+01:00",
+      "summary": "W sieci pojawiło się w końcu nagranie porównujące grafikę w GTA 6 na PS5, PS5 Pro, XSX i XSS. Gracze posiadający wszystkie platformy mogą więc łatwiej podjąć decyzję, którą edycję GTA 6 wybrać.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/7787e728576f0737537a/7787e728576f0737537a.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Fani GTA 6 otrzymali prezent od PlayStation. Nowe ikony Rockstara nie opuszczą graczy nawet po wyłączeniu gry",
+      "sourceUrl": "https://www.ppe.pl/news/433772/fani-gta-6-otrzymali-prezent-od-playstation-nowe-ikony-rockstara-nie-opuszcza-graczy-nawet-po-wylaczeniu-gry.html",
+      "publishedAt": "2026-11-19T12:33+01:00",
+      "summary": "Sony Interactive Entertainment i Rockstar Games kontynuują swoją współpracę i ich zjednoczenie nie ogranicza się jedynie do wzajemnej promocji w reklamach. Z okazji premiery długo wyczekiwanej gry użytkownicy PS5 otrzymali sympatyczny, darmowy p...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a133293bd6da40230dc6/a133293bd6da40230dc6.png"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 bije rekordy Twitcha. Gra Rockstara odnotowuje absurdalną oglądalność",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-bije-rekordy-twitcha-gra-rockstara-odnotowuje-absurdalna-ogladalnosc/",
+      "publishedAt": "2026-11-19T12:30+01:00",
+      "summary": "Cóż, to w końcu najbardziej wyczekiwana gra w historii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/GTA-6-1.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Red Dead Redemption 2 może się schować. Tak żyjącego świata jeszcze nie było",
+      "sourceUrl": "https://www.ppe.pl/news/433747/red-dead-redemption-2-moze-sie-schowac-tak-zyjacego-swiata-jeszcze-nie-bylo.html",
+      "publishedAt": "2026-11-19T12:23+01:00",
+      "summary": "Gra dekady, czyli Grand Theft Auto 6, dopiero co trafiła w ręce graczy, a internet już zalewa fala zachwytów nad tym, jak niesamowicie żywy jest ten świat. Krytycy nie gryzą się w język i wprost nazywają nową produkcję Rockstara najlepszą g...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/abe01ace611899aa462a/abe01ace611899aa462a.webp"
     },
     {
       "sourceName": "GRY-Online",
@@ -38,6 +119,33 @@
       "summary": "Pamiętacie strategiczny tryb dla pojedynczego gracza z pierwotnego Star Wars Battlefront 2? Właśnie trafił on do nowej wersji strzelanki z 2017 roku.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532783099.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nowa funkcja wtyczki GG.deals! Synchronizacja kolekcji gier XBOX jest już dostępna",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/nowa-funkcja-wtyczki-gg-deals-synchronizacja-kolekcji-gier-xbox-jest-juz-dostepna/",
+      "publishedAt": "2026-11-19T12:13+01:00",
+      "summary": "Właśnie dodaliśmy kolejną ważną funkcję do wtyczki GG.deals – synchronizację kolekcji gier XBOX. Jeśli macie zainstalowane nasze rozszerzenie, możecie teraz bezpośrednio zaimportować posiadane gry oraz dodatki z konsol XBOX One, XBOX Series oraz sklepu XBOX Store na PC do swojej biblioteczki w GG.deals. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2018/10/twitter@2x-e1543791853139.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ślamazarne sterowanie i problemy z wydajnością. Digital Foundry testuje GTA 6 na konsolach",
+      "sourceUrl": "https://www.ppe.pl/news/433755/slamazarne-sterowanie-i-problemy-z-wydajnoscia-digital-foundry-testuje-gta-6-na-konsolach-1.html",
+      "publishedAt": "2026-11-19T12:07+01:00",
+      "summary": "Wczoraj redakcja Hardware Unboxed zamiast próbować bronić animacji 30 fps obnażyła prawdę o tym poziomie animacji. Okazuje się, że w GTA 6 jest jeszcze gorzej od prognoz tych ekspertów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/813dd87e73a57fa360af/813dd87e73a57fa360af.png"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Rockstar rozwiewa nadzieje na 60 fps-ów w GTA 6 na PS5 Pro. „Nie ma wystarczającej mocy”",
+      "sourceUrl": "https://cdaction.pl/newsy/rockstar-rozwiewa-nadzieje-na-60-fps-ow-w-gta-6-na-ps5-pro-nie-ma-wystarczajacej-mocy/",
+      "publishedAt": "2026-11-19T12:00+01:00",
+      "summary": "No i po marzeniach o 60 klatkach na sekundę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-8.jpg"
     },
     {
       "sourceName": "PPE",
@@ -173,114 +281,6 @@
       "summary": "Hit Rockstara, GTA 6 właśnie wjechało na konsole i podczas gdy posiadacze PS5 oraz Xboksów bawią się w 30 klatkach na sekundę, gracze pecetowi już zacierają ręce na przyszłoroczną premierę. Wielu z nich po cichu śmieje się z konsolowych o...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/9cb833bad69fe7a418c4/9cb833bad69fe7a418c4.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 nie jest wolne od błędów. Kompilacja bugów w grze ze średnią 9,9/10",
-      "sourceUrl": "https://www.ppe.pl/news/433751/gta-6-nie-jest-wolne-od-bledow-kompilacja-bugow-w-grze-ze-srednia-9-9-10.html",
-      "publishedAt": "2026-11-19T10:48+01:00",
-      "summary": "Nie minęło kilka godzin od premiery, a gracze już demonstrują błędy występujące w Grand Theft Auto 6.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/b549272c38d4899d05b0/b549272c38d4899d05b0.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Gracze remontują dom i tropią Wielką Stopę, ale prostytutki do auta już nie zabiorą. 50 rzeczy, które można robić w GTA 6",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-remontuja-dom-i-tropia-wielka-stope-ale-prostytutki-do-aut/z3323b9",
-      "publishedAt": "2026-11-19T10:33+01:00",
-      "summary": "Gracze odkrywają kolejne mechaniki oraz smaczki w świecie GTA 6. Rockstar ograniczył dostęp do najstarszego zawodu świata.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532776283.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Vin Diesel żegna się z Szybkimi i wściekłymi i zapowiada nową sagę akcji z twórcą nadchodzącego filmu John Wick",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/vin-diesel-zegna-sie-z-szybkimi-i-wscieklymi-i-zapowiada-nowa-sag/z2323b8",
-      "publishedAt": "2026-11-19T10:32+01:00",
-      "summary": "Vin Diesel ma już nowy projekt, w który zaangażuje się po Szybkich i wściekłych. To może być początek nowej serii akcji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532775081.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Poziom animacji i szczegółowości w GTA 6 jest przerażający. Inni twórcy mają wzór do naśladowania",
-      "sourceUrl": "https://www.ppe.pl/news/433743/poziom-animacji-i-szczegolowosci-w-gta-6-jest-przerazajacy-inni-tworcy-maja-wzor-do-nasladowania.html",
-      "publishedAt": "2026-11-19T10:22+01:00",
-      "summary": "Kiedy w końcu odpala się najnowszy hit Rockstar Games, Grand Theft Auto 6, od razu widać, na co poszły te wszystkie długie lata czekania i gigantyczne pieniądze.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d351625870800a63e9e1/d351625870800a63e9e1.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Legendarny twórca chwali GTA 6, ale ma też gorzką refleksję. Ojciec Deus Eksa ma nadzieję, że to ostatnia taka gra",
-      "sourceUrl": "https://cdaction.pl/newsy/legendarny-tworca-chwali-gta-6-ale-ma-tez-gorzka-refleksje-ojciec-deus-eksa-ma-nadzieje-ze-to-ostatnia-taka-gra/",
-      "publishedAt": "2026-11-19T10:15+01:00",
-      "summary": "Na emeryturze można mówić dużo rzeczy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-19T095157.929-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ta tanio jeszcze nie było. Rekordowo niskie ceny Final Fantasy VII Rebirth, Avatar i Star Wars Outlaws",
-      "sourceUrl": "https://www.ppe.pl/news/433749/ta-tanio-jeszcze-nie-bylo-rekordowo-niskie-ceny-final-fantasy-vii-rebirth-avatar-i-star-wars-outlaws.html",
-      "publishedAt": "2026-11-19T10:13+01:00",
-      "summary": "W sieci pojawiła się kolejna wyprzedaż z naprawdę dobrymi cenami pecetowych gier.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/367e4347bcda769e0d70/367e4347bcda769e0d70.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Trzęsienie ziemi w SkyShowtime. Prezes odchodzi, platforma wkrótce przestanie istnieć",
-      "sourceUrl": "https://www.ppe.pl/news/433750/trzesienie-ziemi-w-skyshowtime-prezes-odchodzi-platforma-wkrotce-przestanie-istniec.html",
-      "publishedAt": "2026-11-19T10:10+01:00",
-      "summary": "Spełnia się najczarniejszy scenariusz fanów SkyShowtime, który zrodziła fuzja Paramount Skydance i Warner Bros. Discovery. Platforma wkrótce zostanie wygaszona.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f61d14fe0ad673ea044b/f61d14fe0ad673ea044b.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Największa kontrowersja The Game Awards 2026 wyjaśniona. Gracze są wściekli",
-      "sourceUrl": "https://www.ppe.pl/news/433741/najwieksza-kontrowersja-the-game-awards-2026-wyjasniona-gracze-sa-wsciekli.html",
-      "publishedAt": "2026-11-19T09:59+01:00",
-      "summary": "Od momentu ogłoszenia tegorocznych nominacji do The Game Awards w sieci aż huczało od jednej, wielkiej afery. Gracze nie mogli zrozumieć, jakim cudem Grand Theft Auto 6 zgarnęło masę wyróżnień, skoro w chwili ujawniania list gra nie miała jes...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/96f474e0e9bc09859d78/96f474e0e9bc09859d78.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "GTA VI jest niekompletne, jeśli nie płacicie za GTA+. Rockstar ukrył bonusy do gry singleplayer za paywallem",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/gta-vi-jest-niekompletne-jesli-nie-placicie-za-gta-rockstar-ukryl-bonusy-do-gry-singleplayer-za-paywallem/",
-      "publishedAt": "2026-11-19T09:59+01:00",
-      "summary": "Jeśli myśleliście, że dodatkowe misje oraz dostęp do wybranych obiektów ograniczony dla osób, które zdecydowały się zakupić GTA VI w wersji Ultimate jest przegięciem, to Rockstar właśnie pokazał, że można pójść o krok dalej. Kolejne elementy wpływające w dość znaczący sposób na rozgrywkę zostały schowane w płatnej subskrypcji GTA+. Co więcej, abonenci nie mogą ich ot tak po prostu przypisać do swoich kont. Będą one dostępne wyłącznie do momentu, w którym przestaniemy opłacać GTA Plus. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-GTA-bonusy-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Soundbar LG S70TR Dolby Atmos 5.1.1 za 1099,99 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/soundbar-lg-s70tr-dolby-atmos-5-1-1-za-109999-zl-na-allegro/",
-      "publishedAt": "2026-11-19T09:51+01:00",
-      "summary": "Szukacie soundbara z kilkoma głośnikami, by wasz Smart TV i domowy system rozrywki brzmiał lepiej? Możecie skorzystać z oferty dostępnej w serwisie Allegro na LG S70TR. Zestaw ze wsparciem dla technologii Dolby Atmos, składający się z głośnika centralnego, tylnych oraz subwoofera, kosztuje 1099,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/s70tr-lg-soundbar-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 z błędami jak Cyberpunk 2077? Gracze wrzucają do sieci najdziwniejsze bugi, część to manipulacja",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-z-bledami-jak-cyberpunk-2077-gracze-wrzucaja-do-sieci-najdz/z1323b7",
-      "publishedAt": "2026-11-19T09:40+01:00",
-      "summary": "Atrakcje Grand Theft Auto 6 najwyraźniej uwzględniają nawiązania do premierowego wydania Cyberpunka 2077.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532773568.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Czy 4. sezon „Fallouta” powstanie? Nawet serialowy Ghul nie zna odpowiedzi",
-      "sourceUrl": "https://cdaction.pl/newsy/czy-4-sezon-fallouta-powstanie-nawet-serialowy-ghul-nie-zna-odpowiedzi/",
-      "publishedAt": "2026-11-19T09:30+01:00",
-      "summary": "Materiału starczy nawet na kilkanaście sezonów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/ghoul-walton-goggins-fallout.jpg"
     }
   ],
   "indie": [
