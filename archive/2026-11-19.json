@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T20:01+01:00",
+  "updatedAt": "2026-11-19T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Po 24 godzinach od premiery GTA 6 gracze nie mogą nadziwić się ilości absurdów. Rockstar sparodiował nawet sam siebie",
-    "summary": "GTA 6 dostarcza graczom mnóstwa absurdalnych sytuacji, zabawnych nawiązań i niespodziewanych odkryć. W międzyczasie Rob Nelson wyjaśnił, dlaczego deweloperzy zrezygnowali z rzutek i parku rozrywki.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/po-24-godzinach-od-premiery-gta-6-gracze-nie-moga-nadziwic-sie-il/z2323d6",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532813864.jpg"
+    "title": "Nowy Fallout nie jest tym, czego oczekują fani postapokaliptycznej serii. Wielu graczy widzi w nim jednak dobry znak",
+    "summary": "Uniwersum Fallouta może doczekać się nietypowego spin-offu. W australijskiej bazie danych odnaleziono produkcję polegającą na poszukiwaniu kotów, które uciekły ze schronu.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-fallout-nie-jest-tym-czego-oczekuja-fani-postapokaliptycznej/z4323d8",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532815984.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy Fallout nie jest tym, czego oczekują fani postapokaliptycznej serii. Wielu graczy widzi w nim jednak dobry znak",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-fallout-nie-jest-tym-czego-oczekuja-fani-postapokaliptycznej/z4323d8",
+      "publishedAt": "2026-11-19T21:27+01:00",
+      "summary": "Uniwersum Fallouta może doczekać się nietypowego spin-offu. W australijskiej bazie danych odnaleziono produkcję polegającą na poszukiwaniu kotów, które uciekły ze schronu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532815984.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Po 24 godzinach od premiery GTA 6 gracze nie mogą nadziwić się ilości absurdów. Rockstar sparodiował nawet sam siebie",
@@ -22,6 +31,33 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532813864.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Xbox pokazał prawdziwą przewagę nad PS5? Miliony graczy grało w GTA 6 szybciej dzięki trickowi",
+      "sourceUrl": "https://www.ppe.pl/news/433847/xbox-pokazal-prawdziwa-przewage-nad-ps5-miliony-graczy-gralo-w-gta-6-szybciej-dzieki-trickowi.html",
+      "publishedAt": "2026-11-19T20:30+01:00",
+      "summary": "Sony wydało ogromne pieniądze na promocję GTA 6, przedstawiając PlayStation 5 jako „najlepszą platformę do grania” w najnowszą produkcję Rockstar Games. Tymczasem w dniu premiery to Microsoft mógł pochwalić się przewagą, za którą nie ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/cdf421b154189a204334/cdf421b154189a204334.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Netflix Games zmierza ku upadkowi? Kolejne zwolnienia w firmie i... zmiana strategii",
+      "sourceUrl": "https://www.ppe.pl/news/433843/netflix-games-zmierza-ku-upadkowi-kolejne-zwolnienia-w-firmie-i-zmiana-strategii.html",
+      "publishedAt": "2026-11-19T20:30+01:00",
+      "summary": "Netflix Games przechodzi kolejną rundę zwolnień. Jak informuje serwis MobileGamer.biz, powołując się na wpisy pracowników na LinkedIn, firma ponownie ogranicza zatrudnienie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/cc05f0cb96e97fb05d3f/cc05f0cb96e97fb05d3f.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Karta pamięci microSD Express 256 GB do Nintendo Switch 2 za 203 zł + kod 50 PLN w Amazon PL!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/karta-pamieci-microsd-express-do-nintendo-switch-2-za-203-zl-kod-50-pln-w-amazon-pl/",
+      "publishedAt": "2026-11-19T20:27+01:00",
+      "summary": "Łowcy, jeśli potrzebujecie dodatkowej przestrzeni na gry w swojej konsoli Nintendo Switch 2, to w polskim oddziale sklepu Amazon pojawiła się doskonała promocja na kartę pamięci firmy Samsung. Model o pojemności 256GB może być Wasz za 203,89 zł. Przypominamy, że popularny „Pstryczek 2” korzysta z nowego standardu microSD Express. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Karta-pamieci-microSD-Express-do-Nintendo-Switch-2-za-203-zl-kod-50-PLN-w-Amazon-PL_miniaturka-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Assassin’s Creed: Black Flag Resynced ratuje pogrążony w kryzysie Ubisoft. Firma wciąż jest jednak pod kreską i stawia na AI",
       "sourceUrl": "https://www.gry-online.pl/newsroom/assassins-creed-black-flag-resynced-ratuje-pograzony-w-kryzysie-u/z1323d5",
@@ -29,6 +65,15 @@
       "summary": "Z najnowszego raportu finansowego Ubisoftu wynika, że sukces Assassin’s Creed: Black Flag Resynced pozwolił firmie przekroczyć wcześniejsze oczekiwania finansowe.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532811707.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Bohemia Interactive rozwija silnik Enfusion z myślą o Arma 4. Studio szuka nowych specjalistów",
+      "sourceUrl": "https://www.ppe.pl/news/433810/bohemia-interactive-rozwija-silnik-enfusion-z-mysla-o-arma-4-studio-szuka-nowych-specjalistow.html",
+      "publishedAt": "2026-11-19T20:04+01:00",
+      "summary": "Bohemia Interactive nie przerywa prac nad silnikiem Enfusion, który stanowi technologiczną podstawę przyszłych gier studia, w tym przede wszystkim „Arma 4”. Deweloperzy opublikowali właśnie ofertę pracy dla programisty specjalizującego się ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/1f553360e1b62c6d7dff/1f553360e1b62c6d7dff.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -236,51 +281,6 @@
       "summary": "Pearl Abyss udostępniło kolejną aktualizację do Crimson Desert Enhanced.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/42c95bf66c07ac9dfc85/42c95bf66c07ac9dfc85.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na doładowania do PlayStation Store. Giftcard 300 PLN za 285 zł w Instant Gaming!",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/promocja-na-doladowania-do-playstation-store-giftcard-300-pln-za-285-zl-w-instant-gaming/",
-      "publishedAt": "2026-11-19T16:27+01:00",
-      "summary": "Do oferty cyfrowego sklepu Instant Gaming powróciła promocja na karty podarunkowe PSN. W ramach ofert kartę podarunkową do PlayStation Store o wartości 300 PLN możecie zakupić już za 285,17 zł. Taniej dostępne są także znacznie wyższe nominały. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/300-500-pln-playstation-store-psn-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje w Nintendo eShop. Gry ekskluzywne i produkcje wydawnictwa Marvelous z rabatami do -85%",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/promocje-w-nintendo-eshop-gry-ekskluzywne-i-produkcje-wydawnictwa-marvelous-z-rabatami-do-85/",
-      "publishedAt": "2026-11-19T16:24+01:00",
-      "summary": "Wystartowała kolejna wyprzedaż w Nintendo eShop. Pojawiło się kilka obniżek na ekskluzywne dla Pstryczka produkcje, a wśród nich Metroid Dread, czy też Xenoblade Chronicles Nintendo Switch 2 Edition. Oprócz tego…kolejny raz mamy wyprzedaż gier Marvelousa. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/xenoblade-nintendo-switch-2-edition-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Muzyka w GTA 6 bez tajemnic. Wszystkie utwory i stacje radiowe w jednym miejscu",
-      "sourceUrl": "https://cdaction.pl/newsy/muzyka-w-gta-6-bez-tajemnic-wszystkie-utwory-i-stacje-radiowe-w-jednym-miejscu/",
-      "publishedAt": "2026-11-19T16:15+01:00",
-      "summary": "No trochę tego jest.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-19T142602.575-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "OFICJALNA mapa z GTA 6 już dostępna. Rockstar Games udostępnił wyczekiwany element gry",
-      "sourceUrl": "https://www.ppe.pl/news/433814/oficjalna-mapa-z-gta-6-juz-dostepna-rockstar-games-udostepnil-wyczekiwany-element-gry.html",
-      "publishedAt": "2026-11-19T16:10+01:00",
-      "summary": "Rockstar Games dotrzymał słowa. Mapa całego świata z GTA 6 jest już dostępna.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a7a9c049833731360432/a7a9c049833731360432.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Polski serial jest natychmiastowym hitem na Netflixie. To 4-odcinkowy kryminał inspirowany prawdziwymi wydarzeniami",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/polski-serial-jest-natychmiastowym-hitem-na-netflixie-to-4-odcink/ze323cc",
-      "publishedAt": "2026-11-19T16:02+01:00",
-      "summary": "Na Netfliksa trafił nowy polski serial, który błyskawicznie znalazł się wśród najchętniej oglądanych produkcji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532794307.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "cd49f9652a355003594570b7cddbe0d9c2cc331011b08021ed6e4d8380b3a9f1"
+  "editorialHash": "d8021a22512580beaaf662b8174a97e556bf8b8eaa7a2a7ce6bca297b96326cc"
 }
