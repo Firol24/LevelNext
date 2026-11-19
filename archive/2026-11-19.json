@@ -1,17 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T17:01+01:00",
+  "updatedAt": "2026-11-19T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Wczoraj czytaliście recenzję, dziś sami podzielcie się pierwszymi wrażeniami z GTA 6",
-    "summary": "Premiera GTA 6 wciąż gorąca, a materiałów o nowej produkcji Rockstara coraz więcej. Jesteśmy pewni, że Wy sami już macie swoje zdanie - podzielcie się pierwszymi wrażeniami z GTA 6 w komentarzach.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wczoraj-czytaliscie-recenzje-dzis-sami-dzielicie-sie-pierwszymi-w/zc323d0",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532799073.jpg"
+    "title": "79. gra za darmo w 2026 roku w Epic Games Store [Aktualizacja]",
+    "summary": "W dniu premiery GTA 6 w Epic Games Store mieliśmy odebrać dwie gry. Problem w tym, że ostatecznie dostaliśmy tylko jedną, bo druga została „po cichu” usunięta z oferty.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/79-gra-za-darmo-w-2026-roku-w-epic-games-store/ze323b4",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532742842.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "79. gra za darmo w 2026 roku w Epic Games Store [Aktualizacja]",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/79-gra-za-darmo-w-2026-roku-w-epic-games-store/ze323b4",
+      "publishedAt": "2026-11-19T18:39+01:00",
+      "summary": "W dniu premiery GTA 6 w Epic Games Store mieliśmy odebrać dwie gry. Problem w tym, że ostatecznie dostaliśmy tylko jedną, bo druga została „po cichu” usunięta z oferty.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532742842.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ubisoft znów zwalnia. Ostre cięcia w dwóch studiach ważnych dla serii Assassin’s Creed",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ubisoft-znow-zwalnia-ostre-ciecia-w-dwoch-studiach-waznych-dla-se/ze323d2",
+      "publishedAt": "2026-11-19T18:24+01:00",
+      "summary": "Ubisoft nie kończy z bolesnymi cięciami. Tym razem zwolnienia dotknęły dwa ważne studia w Kanadzie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532804932.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy GTA 6 dostają gratulacje z całego świata, również z Polski. „Kolejne przesunięcie granic w świecie gier”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-gta-6-dostaja-gratulacje-z-calego-swiata-rowniez-z-polski/zd323d1",
+      "publishedAt": "2026-11-19T18:07+01:00",
+      "summary": "Premiera GTA 6 wywołała ogromne poruszenie w branży gier. Przedstawiciele znanych studiów pospieszyli z gratulacjami dla Rockstara, a niektórzy zrobili to w wyjątkowo humorystyczny sposób.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532803878.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Spider-Man: Całkiem nowy dzień wraca do kin w wersji rozszerzonej. Znamy datę premiery!",
+      "sourceUrl": "https://www.ppe.pl/news/433672/spider-man-calkiem-nowy-dzien-wraca-do-kin-w-wersji-rozszerzonej-znamy-date-premiery.html",
+      "publishedAt": "2026-11-19T18:00+01:00",
+      "summary": "Film „Spider-Man: Całkiem nowy dzień” ponownie trafi na wielkie ekrany w Polsce. 4 grudnia odbędzie się premiera jego wersji rozszerzonej – tego samego dnia, co w amerykańskich kinach. Specjalna edycja otrzymała nowy tytuł: „Spider-Man (C...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e1c028e565bae4e5a0df/e1c028e565bae4e5a0df.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Urocza gra kooperacyjna za darmo od Epic Games. Poznaliśmy tytuł kolejnej darmówki!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/urocza-gra-kooperacyjna-za-darmo-od-epic-games-poznalismy-tytul-kolejnej-darmowki/",
+      "publishedAt": "2026-11-19T17:58+01:00",
+      "summary": "Na oficjalnej stronie sklepu Epic Games pojawiła się zapowiedź ostatniej w tym miesiącu odsłony rozdawnictwa. W przyszłym tygodniu do swojej bibliotek będziecie mogli dodać grę Bread & Fred za darmo. Produkcja studia SandCastles to ciekawa wariacja na temat trybu kooperacji. Tytuł mogący się pochwalić prawie 4200 recenzji, z czego aż 78% to oceny pozytywne, dostępny będzie zupełnie bezpłatnie od 26 listopada do 3 grudnia 2026 roku. Bez żadnych dodatkowych kosztów odbierzecie także specjalny pakiet o wartości $100 do darmowej gry Firestone Online Idle RPG . Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Urocza-gra-kooperacyjna-za-darmo-od-Epic-Games.-Poznalismy-tytul-kolejnej-darmowki_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Wczoraj czytaliście recenzję, dziś sami podzielcie się pierwszymi wrażeniami z GTA 6",
@@ -20,6 +65,51 @@
       "summary": "Premiera GTA 6 wciąż gorąca, a materiałów o nowej produkcji Rockstara coraz więcej. Jesteśmy pewni, że Wy sami już macie swoje zdanie - podzielcie się pierwszymi wrażeniami z GTA 6 w komentarzach.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532799073.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Prime Video odpala świąteczną bombę! Wielki powrót najpopularniejszego programu komediowego w Polsce",
+      "sourceUrl": "https://www.ppe.pl/news/433809/prime-video-odpala-swiateczna-bombe-wielki-powrot-najpopularniejszego-programu-komediowego-w-polsce.html",
+      "publishedAt": "2026-11-19T17:45+01:00",
+      "summary": "Platforma Prime Video oficjalnie zapowiedziała specjalną, świąteczną odsłonę swojego programu komediowego.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e1cb3ee3d699d07a5b90/e1cb3ee3d699d07a5b90.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Hot Wheels Mattel Lamborghini Miura (1523 el.) za 379 zł + kod 50 PLN na zakupy w Amazon PL!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/hot-wheels-mattel-lamborghini-miura-1523-el-za-379-zl-kod-50-pln-na-zakupy-w-amazon-pl/",
+      "publishedAt": "2026-11-19T17:40+01:00",
+      "summary": "W polskim oddziale sklepu Amazon pojawiła się bardzo dobra promocja na klocki Hot Wheels. W ramach okazji, najnowszy aktualnie wariant z serii Mattel Brick Shop Premium Series dostępny jest za 379,97 zł. Model Lamborghini Miura P400 SV w skali 1:12, składający się z imponującej liczby 1523 elementów, zawiera kultowy samochód włoskiej marki z unikalnymi elementami, metalowy resorak (1:64) z gablotką oraz breloczek. W ramach zamówienia otrzymacie także 50 PLN do wykorzystania na zakupy w okresie od 1 lutego do 31 marca 2027 roku! Kod rabatowy zostanie dostarczony na Wasz adres e-mail dopiero w momencie wysłania zamówienia. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-Hot-Wheels-Mattel-Lamborghini-Miura-P400-SV-1523-el.-za-419-zl-na-Allegro_obrazek_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony jest wprost załamane. Kolejna gra ekskluzywna otrzymała port na PC z mnóstwem usprawnień",
+      "sourceUrl": "https://www.ppe.pl/news/433812/sony-jest-wprost-zalamane-kolejna-gra-ekskluzywna-otrzymala-port-na-pc-z-mnostwem-usprawnien.html",
+      "publishedAt": "2026-11-19T17:23+01:00",
+      "summary": "Gracze, jak i fani klasycznych wyścigów mogą mieć powód do radości. Gran Turismo 3: A-Spec doczekało się nieoficjalnego portu na PC, który nie wymaga uruchamiania gry przez emulator PlayStation 2.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/413b019b862efe892d9e/413b019b862efe892d9e.png"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Odbierz Mark of the Deep za darmo na PC. Sklep Epic Games rezygnuje z gry Obcy: Izolacja!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/odbierz-mark-of-the-deep-za-darmo-na-pc-sklep-epic-games-rezygnuje-z-gry-obcy-izolacja/",
+      "publishedAt": "2026-11-19T17:19+01:00",
+      "summary": "Łowcy, według zapowiedzi jaka pojawiła się tydzień temu na oficjalnej stronie Epic Games Store, dziś do swoich bibliotek powinniście dodawać grę Obcy: Izolacja za darmo. Niestety, ekipa Tima Sweeneya postanowiła zmienić wspomniane plany i zrezygnowała z dzieła studia Creative Assembl. Zamiast jednaj z najlepszych produkcji z uniwersum Alien, do Waszej dyspozycji oddano grę Mark of the Deep. Pozycja stworzona przez niezależne studio Mad Mimic będzie dostępna zupełnie bezpłatnie do 26 listopada 2026 roku. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odbierz-Mark-of-the-Deep-za-darmo-na-PC.-Sklep-Epic-Games-rezygnuje-z-gry-Obyc_-Izolacja_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Kolejna gra za darmo w Epic Games Storze do odebrania! Piracka metroidvania już na was czeka",
+      "sourceUrl": "https://cdaction.pl/newsy/kolejna-gra-za-darmo-w-epic-games-storze-do-odebrania-piracka-metroidvania-juz-na-was-czeka/",
+      "publishedAt": "2026-11-19T17:00+01:00",
+      "summary": "Gotowi wyruszyć na przeklęte wyspy?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/09/epic-games-2-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
@@ -191,96 +281,6 @@
       "summary": "Emulacja PlayStation 5 na komputerach osobistych robi kolejne postępy. Saros, najnowsza produkcja studia Housemarque dostępna na wyłączność konsoli Sony, została uruchomiona na PC za pośrednictwem emulatora KyTyPS5.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/bd099df6fe23170f36e1/bd099df6fe23170f36e1.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Weteran Dooma i Quake’a wychwala rolę Gabe’a Newella w bronieniu graczy przed chciwością korporacji. „Steam dosłownie strzeże wrót piekieł”",
-      "sourceUrl": "https://cdaction.pl/newsy/weteran-dooma-i-quakea-wychwala-role-gabea-newella-w-bronieniu-graczy-przed-chciwoscia-korporacji-steam-doslownie-strzeze-wrot-piekiel/",
-      "publishedAt": "2026-11-19T15:00+01:00",
-      "summary": "Sandy Petersen nie ukrywa swojej sympatii do prezesa Valve.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/Gabe-Newell-1260x723.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "NVIDIA może szykować RTX 6090 szybciej, niż oczekiwano. Nowe doniesienia wskazują na zaskakującą zmianę strategii giganta",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-moze-szykowac-rtx-6090-szybciej-niz-oczekiwano-nowe-donies/zc323ca",
-      "publishedAt": "2026-11-19T14:55+01:00",
-      "summary": "NVIDIA i AMD szykują się do premier nowych kart graficznych. Kolejna generacja Radeonów i RTX-y z serii 60 mogą trafić do sprzedaży nawet pod koniec 2027 roku według znanego insidera.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532791491.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Czy w GTA 6 da się bezboleśnie grać w 30 fps? Sprawdził to nasz dział technologii",
-      "sourceUrl": "https://cdaction.pl/technologie/czy-w-gta-6-da-sie-bezbolesnie-grac-w-30-fps-sprawdzil-to-nasz-dzial-technologii/",
-      "publishedAt": "2026-11-19T14:52+01:00",
-      "summary": "Grać zaczęliśmy chyba wszyscy równo o północy. Do świtu czasu na zabawę co prawda dużo nie było, ale te parę godzin z padem w dłoni pozwala już z pewną ostrożnością odpowiedzieć sobie na najważniejsze chyba pytanie związane z GTA 6 – czy zabawa w 30 klatkach na sekundę sens?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Jason_and_Lucia_15-1-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 skrywa polski akcent. Rockstar zdradził nam pochodzenie jednej z postaci (Uwaga: Spoiler)",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-skrywa-polski-akcent-rockstar-zdradzil-nam-pochodzenie-jedn/zd323cb",
-      "publishedAt": "2026-11-19T14:50+01:00",
-      "summary": "Nasza redakcja dowiedziała się wielu ciekawostek od studia Rockstar Games na temat GTA 6, w tym odnośnie do zakończeń oraz optymalizacji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532791943.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO ICONS Star Trek U.S.S. Enterprise NCC-1701-D za 1249 zł (cena kat. 1649,99 zł) w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-icons-star-trek-u-s-s-enterprise-ncc-1701-d-za-1249-zl-cena-kat-164999-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-19T14:42+01:00",
-      "summary": "W polskim Amazonie pojawiła się promocja na LEGO Icons Star Trek U.S.S. Enterprise NCC-1701-D. Składający się z 3600 elementów model statku z serialu „Star Trek: The Next Generation”, w zestawie z 9 minifigurkami, w tym kapitana Jean-Luc Picarda, Worfa, czy też Daty, kosztuje obecnie 1249 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/lego-icons-star-trek-uss-enterprise-1701-d-2a-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Christopher Nolan nie zwalnia tempa. Reżyser Odysei już planuje kolejny wielki film",
-      "sourceUrl": "https://www.ppe.pl/news/433798/christopher-nolan-nie-zwalnia-tempa-rezyser-odysei-juz-planuje-kolejny-wielki-film.html",
-      "publishedAt": "2026-11-19T14:40+01:00",
-      "summary": "Christopher Nolan analizuje koncepcje kolejnego pełnometrażowego filmu. Reżyser przystąpił do prac koncepcyjnych zaledwie kilka miesięcy po letniej premierze The Odyssey.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7b0a83ccb33070168e0e/7b0a83ccb33070168e0e.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Niezależny wydawca łapie Rockstara za rogi i organizuje konkurs. Żeby wziąć w nim udział, trzeba usunąć GTA 6 z dysku",
-      "sourceUrl": "https://cdaction.pl/newsy/niezalezny-wydawca-lapie-rockstara-za-rogi-i-organizuje-konkurs-zeby-wziac-w-nim-udzial-trzeba-usunac-gta-6-z-dysku/",
-      "publishedAt": "2026-11-19T14:30+01:00",
-      "summary": "Odwaga została pomylona z odważnikiem, choć wszystko wygląda na jeden wielki żart.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-19T105653.653-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 dostanie wielkie DLC?! Rockstar nie bez powodu to zostawił",
-      "sourceUrl": "https://www.ppe.pl/news/433795/gta-6-dostanie-wielkie-dlc-rockstar-nie-bez-powodu-to-zostawil.html",
-      "publishedAt": "2026-11-19T14:20+01:00",
-      "summary": "Gracze zlokalizowali na mapie Grand Theft Auto 6 szereg nieużywanych stref. Wiele szczegółowych obiektów pozostaje obecnie całkowicie odciętych od eksploracji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/39fec08e30958c0ec36b/39fec08e30958c0ec36b.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Mam nadzieję, że GTA 6 będzie ostatnią taką grą”. Legenda branży o ciemnej stronie sukcesu Rockstara",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/mam-nadzieje-ze-gta-6-bedzie-ostatnia-taka-gra-legenda-branzy-o-c/z4323c9",
-      "publishedAt": "2026-11-19T14:16+01:00",
-      "summary": "Warren Spector docenia GTA 6, ale też wyraża obawy, że ten model tworzenia gier nie ma przyszłości w tej branży.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532790213.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wszystkie cheat kody do GTA VI. Jak odblokować nielimitowaną gotówkę oraz bronie w Grand Theft Auto",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/wszystkie-cheat-kody-do-gta-vi-sposob-odblokowania-jak-je-aktywowac-i-co-daja/",
-      "publishedAt": "2026-11-19T14:14+01:00",
-      "summary": "Podobnie jak w poprzednich częściach, w GTA VI nie zabrakło kodów. Najnowsza gra Rockstar oferuje mnóstwo sekretów (na ten moment poznaliśmy ich 61), które pozwolą jeszcze lepiej bawić się w Vice City i okolicach. Nie skorzystacie z nich jednak od razu. Najpierw trzeba ukończyć główny wątek fabularny, a do tego spełnić, niekiedy bardzo wymagające, warunki odblokowania cheatów w GTA VI. Przygotowaliśmy dla Was listę zawierającą wszystkie znane na ten moment oszustwa wraz ze sposobem ich zdobycia i aktywacji. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kody-GTA-VI-logo-224x224.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795076949"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795076949"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "61c2e31edcdad5c4c8927e665fa53023ca3b80512d5a57ecc74115116c474133"
+  "editorialHash": "6a28e9cd6d88b29cec47a8702469a4a98f5092c8c8b6e436e430c93266144544"
 }
