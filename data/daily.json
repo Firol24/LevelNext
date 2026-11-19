@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T07:01+01:00",
+  "updatedAt": "2026-11-19T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Netflix przejął GIGA HIT. Ten film wygenerował majątek przy skromnym budżecie",
-    "summary": "Netflix kolejny raz udowadnia, że nie trzeba przygotowywać wyjątkowych historii… można je po prostu wynająć. Platforma systematycznie rozbudowuje swoją bibliotekę o znane produkcje, a dzisiaj na serwerach pojawiły się dwa naprawdę ciekawe f...",
-    "sourceUrl": "https://www.ppe.pl/news/433677/netflix-przejal-giga-hit-ten-film-wygenerowal-majatek-przy-skromnym-budzecie.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/ff7f83c9664c23716ba1/ff7f83c9664c23716ba1.jpg"
+    "title": "2 gry do odebrania w Amazon Prime Gaming. RPG akcji dla fanów Wilkołaka: Apokalipsy i wysoko oceniana logiczna przygodówka",
+    "summary": "Abonenci usługi Amazon Luna Standard (dawniej Amazon Prime Gaming) odbiorą dzisiaj dwie gry. Mowa o ciepło przyjętym CLeM i Werewolf: The Apocalypse - Earthblood.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-do-odebrania-w-amazon-prime-gaming-rpg-akcji-dla-fanow-wilk/zf323b5",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532769918.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "2 gry do odebrania w Amazon Prime Gaming. RPG akcji dla fanów Wilkołaka: Apokalipsy i wysoko oceniana logiczna przygodówka",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-do-odebrania-w-amazon-prime-gaming-rpg-akcji-dla-fanow-wilk/zf323b5",
+      "publishedAt": "2026-11-19T08:38+01:00",
+      "summary": "Abonenci usługi Amazon Luna Standard (dawniej Amazon Prime Gaming) odbiorą dzisiaj dwie gry. Mowa o ciepło przyjętym CLeM i Werewolf: The Apocalypse - Earthblood.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532769918.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nic śmieszniejszego dzisiaj nie zobaczycie. Streamer zamiast włączyć GTA 6… usunął grę",
+      "sourceUrl": "https://www.ppe.pl/news/433696/nic-smieszniejszego-dzisiaj-nie-zobaczycie-streamer-zamiast-wlaczyc-gta-6-usunal-gre.html",
+      "publishedAt": "2026-11-19T07:55+01:00",
+      "summary": "Prawie 400 tysięcy widzów, wielkie oczekiwanie i… usunięte GTA 6. Jeden z hiszpańskich streamerów zaliczył niesamowitą wpadkę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e3b9fc63c2f70a10fb9f/e3b9fc63c2f70a10fb9f.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 na Xbox Series S to „CUD”? Gracze nie wierzą w tak dobrą jakość",
+      "sourceUrl": "https://www.ppe.pl/news/433697/gta-6-na-xbox-series-s-to-cud-gracze-nie-wierza-w-tak-dobra-jakosc.html",
+      "publishedAt": "2026-11-19T07:30+01:00",
+      "summary": "Xbox Series S jest przez całą generację krytykowany przez wielu deweloperów, którzy muszą przygotowywać swoje produkcje również na „najmniejszego Xboksa”, jeśli chcą zaoferować gry na Xbox Series X. Nie brakowało więc obaw, jak tak wym...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/bbd2c313bf2a3bc14a76/bbd2c313bf2a3bc14a76.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 skrywa NIESAMOWITY system! Rockstar stworzyło coś, czego gracze mogą nawet nie zauważyć",
+      "sourceUrl": "https://www.ppe.pl/news/433695/gta-6-skrywa-niesamowity-system-rockstar-stworzylo-cos-czego-gracze-moga-nawet-nie-zauwazyc.html",
+      "publishedAt": "2026-11-19T07:05+01:00",
+      "summary": "GTA 6 od pierwszych chwil zachwyca ogromnym światem, ale okazuje się, że Rockstar Games przygotowało również niezwykle rozbudowane mechaniki, których większość graczy prawdopodobnie nigdy nie zobaczy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4585c5d37040c9dfb484/4585c5d37040c9dfb484.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Netflix przejął GIGA HIT. Ten film wygenerował majątek przy skromnym budżecie",
@@ -20,6 +56,15 @@
       "summary": "Netflix kolejny raz udowadnia, że nie trzeba przygotowywać wyjątkowych historii… można je po prostu wynająć. Platforma systematycznie rozbudowuje swoją bibliotekę o znane produkcje, a dzisiaj na serwerach pojawiły się dwa naprawdę ciekawe f...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/ff7f83c9664c23716ba1/ff7f83c9664c23716ba1.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "79. gra za darmo w 2026 roku w Epic Games Store",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/79-gra-za-darmo-w-2026-roku-w-epic-games-store/ze323b4",
+      "publishedAt": "2026-11-19T06:30+01:00",
+      "summary": "W dniu premiery GTA 6 w Epic Games Store mieliśmy odebrać dwie gry. Problem w tym, że prawdopodobnie dostaniemy tylko jedną, bo druga została „po cichu” usunięta z oferty.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532742842.jpg"
     },
     {
       "sourceName": "PPE",
@@ -38,6 +83,15 @@
       "summary": "Rockstar Games dokonało czegoś absolutnie niewiarygodnego! Po 13 latach oczekiwania GTA 6 wreszcie trafiło na rynek i już teraz możemy mówić o historycznym wydarzeniu. Najnowsza odsłona Grand Theft Auto nie tylko zachwyciła recenzentów z całe...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/7c1ca01123fd69289d8a/7c1ca01123fd69289d8a.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Polacy, możecie już grać w GTA 6. Bawcie się dobrze w najlepiej ocenianej grze w historii",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/polacy-juz-mozecie-grac-w-gta-6-bawcie-sie-dobrze-w-najlepiej-oce/zd323b3",
+      "publishedAt": "2026-11-19T01:00+01:00",
+      "summary": "Po ponad 13 latach od premiery GTA V na globalnym rynku zadebiutowało Grand Theft Auto VI. Od północy z 18 na 19 listopada gra jest już dostępna także w Polsce.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532741448.jpg"
     },
     {
       "sourceName": "PPE",
@@ -218,6 +272,15 @@
       "summary": "Nadchodzi rewolucja w heroesowych transmisjach.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/08/Heroes-of-Might-and-Magic-3.jpg"
+    },
+    {
+      "sourceName": "GRY-Online / Publicystyka",
+      "title": "Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku",
+      "sourceUrl": "https://www.gry-online.pl/recenzje/recenzja-gta-6-po-120-godzinach-to-znacznie-wiecej-niz-tylko-gra/z449dc",
+      "publishedAt": "2026-11-18T13:00+01:00",
+      "summary": "Gra roku? Pff, nie ma o czym mówić, po ten tytuł GTA 6 sięgnie bez głosu sprzeciwu. Zastanowiłbym się raczej, czy nie mamy przed sobą również mocnego kandydata do tytułu gry generacji i gry dekady. Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku został opublikowany przez gry-online.pl 18 listopada 2026. Zobacz zasady korzystania z naszych treści .",
+      "category": "PUBLICYSTYKA",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532619018.jpg"
     }
   ],
   "indie": [
