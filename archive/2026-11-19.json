@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T22:01+01:00",
+  "updatedAt": "2026-11-19T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Posiadacze Amazon Prime mogą sporo zaoszczędzić na subskrypcji Apple TV oraz SkyShowtime. Promocja z okazji Black Friday 2026!",
-    "summary": "Łowcy, z okazji Black Friday 2026 posiadacze Amazon Prime mogą skorzystać ze specjalnych promocji na dodatkowe abonamenty w ramach Prime Video, a wybrane subskrypcje dostępne są do nawet 75% taniej! Na szczególne wyróżnienie zasługują tutaj takie pozycje jak Apple TV ( Pluribus , Severance, Ted Lasso ) za 16,99 zł / miesiąc, SkyShowtime ( Dexter: Resurrection , MobLand ) za 8,75 zł / miesiąc oraz Horror+ ( Hell Baby , V/H/S Halloween , When Evil Lurks ) za 1,99 zł / miesiąc. W dalszej części wpisu znajdziecie pełną listę subskrypcji w wyjątkowo niskich cenach! Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/subskrypcje/posiadacze-amazon-prime-moga-sporo-zaoszczedzic-na-subskrypcji-apple-tv-oraz-skyshowtime-promocja-z-okazji-black-friday-2026/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Posiadacze-Amazon-Prime-moga-sporo-zaoszczedzic-na-subskrypcji-Apple-TV-oraz-SkyShowtime.-Promocja-z-okazji-Black-Friday-2026_miniaturka-224x224.jpg"
+    "title": "Wyprzedaż Black Friday 2026 w Xbox Store. Gry na PC i konsole Xbox do nawet 95% taniej!",
+    "summary": "Łowcy, wyprzedaż Black Friday 2026 wystartowała właśnie w Xbox Store! Zgodnie z niepisaną tradycją, tegoroczna odsłona wydarzenia również rozpoczęła się nieco przed czasem. Jednak gigant z Redmond przyzwyczaił nas do nocnych debiutów promocji z okazji Czarnego Piątku. W ramach zbiorczego wpisu wyróżniliśmy dla Was najlepsze oferty na tanie gry PC oraz Xbox One i Xbox Series X|S, dostępne w ramach wyprzedaży. Wybrane tytuły zakupicie ze zniżkami sięgającymi nawet rekordowych -95%! Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-2026-w-xbox-store-gry-na-pc-i-konsole-xbox-do-nawet-95-taniej/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-2026-w-Xbox-Store.-Gry-na-PC-i-konsole-Xbox-do-nawet-95-taniej_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday 2026 w Xbox Store. Gry na PC i konsole Xbox do nawet 95% taniej!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-2026-w-xbox-store-gry-na-pc-i-konsole-xbox-do-nawet-95-taniej/",
+      "publishedAt": "2026-11-19T22:36+01:00",
+      "summary": "Łowcy, wyprzedaż Black Friday 2026 wystartowała właśnie w Xbox Store! Zgodnie z niepisaną tradycją, tegoroczna odsłona wydarzenia również rozpoczęła się nieco przed czasem. Jednak gigant z Redmond przyzwyczaił nas do nocnych debiutów promocji z okazji Czarnego Piątku. W ramach zbiorczego wpisu wyróżniliśmy dla Was najlepsze oferty na tanie gry PC oraz Xbox One i Xbox Series X|S, dostępne w ramach wyprzedaży. Wybrane tytuły zakupicie ze zniżkami sięgającymi nawet rekordowych -95%! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-2026-w-Xbox-Store.-Gry-na-PC-i-konsole-Xbox-do-nawet-95-taniej_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Posiadacze Amazon Prime mogą sporo zaoszczędzić na subskrypcji Apple TV oraz SkyShowtime. Promocja z okazji Black Friday 2026!",
@@ -272,15 +281,6 @@
       "summary": "Premiera GTA 6 wciąż gorąca, a materiałów o nowej produkcji Rockstara coraz więcej. Jesteśmy pewni, że Wy sami już macie swoje zdanie - podzielcie się pierwszymi wrażeniami z GTA 6 w komentarzach.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532799073.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Prime Video odpala świąteczną bombę! Wielki powrót najpopularniejszego programu komediowego w Polsce",
-      "sourceUrl": "https://www.ppe.pl/news/433809/prime-video-odpala-swiateczna-bombe-wielki-powrot-najpopularniejszego-programu-komediowego-w-polsce.html",
-      "publishedAt": "2026-11-19T17:45+01:00",
-      "summary": "Platforma Prime Video oficjalnie zapowiedziała specjalną, świąteczną odsłonę swojego programu komediowego.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e1cb3ee3d699d07a5b90/e1cb3ee3d699d07a5b90.jpg"
     }
   ],
   "indie": [
@@ -361,7 +361,7 @@
       "note": "Rockstar potwierdza premierę 19 listopada na PS5 i Xbox Series X|S. Akcja przenosi serię do fikcyjnego stanu Leonida.",
       "sourceUrl": "https://www.rockstargames.com/VI",
       "summary": "Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.",
-      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?aeAIuv_0Q73S0kSA-vFkN"
+      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?8DSFc26rmFX7srA3UiIEb"
     },
     {
       "date": "2026-11-24",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "cd49f9652a355003594570b7cddbe0d9c2cc331011b08021ed6e4d8380b3a9f1"
+  "editorialHash": "c0b46a93379ba3aa1c5b3d6042ac7a9c77b20ac68736f3345fd9a39331a4d82d"
 }
