@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T18:01+01:00",
+  "updatedAt": "2026-11-19T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "79. gra za darmo w 2026 roku w Epic Games Store [Aktualizacja]",
-    "summary": "W dniu premiery GTA 6 w Epic Games Store mieliśmy odebrać dwie gry. Problem w tym, że ostatecznie dostaliśmy tylko jedną, bo druga została „po cichu” usunięta z oferty.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/79-gra-za-darmo-w-2026-roku-w-epic-games-store/ze323b4",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532742842.jpg"
+    "title": "Gigantyczny sukces GTA 6 może nie uchronić Rockstar Games przed zwolnieniami. Deweloperzy walczą, żeby tak nie było",
+    "summary": "Pracownicy brytyjskiego oddziału Rockstar Games walczą o uznanie związku zawodowego. Tymczasem po sprawdzeniu napisów końcowych GTA 6 okazało się, że uwzględniono w nich zwolnionych deweloperów.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gigantyczny-sukces-gta-6-moze-nie-uchronic-rockstar-games-przed-z/z0323d4",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532809154.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gigantyczny sukces GTA 6 może nie uchronić Rockstar Games przed zwolnieniami. Deweloperzy walczą, żeby tak nie było",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gigantyczny-sukces-gta-6-moze-nie-uchronic-rockstar-games-przed-z/z0323d4",
+      "publishedAt": "2026-11-19T19:33+01:00",
+      "summary": "Pracownicy brytyjskiego oddziału Rockstar Games walczą o uznanie związku zawodowego. Tymczasem po sprawdzeniu napisów końcowych GTA 6 okazało się, że uwzględniono w nich zwolnionych deweloperów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532809154.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Poznaliśmy obsadę aktorską GTA 6. W ekipie aktor podkładający głos... Niko Bellicowi",
+      "sourceUrl": "https://www.ppe.pl/news/433819/poznalismy-obsade-aktorska-gta-6-w-ekipie-aktor-podkladajacy-glos-niko-bellicowi.html",
+      "publishedAt": "2026-11-19T19:01+01:00",
+      "summary": "W „GTA 6” usłyszymy i zobaczymy imponującą grupę aktorów. Wśród najważniejszych postaci znajdą się Jason Duval, któremu głosu i wizerunku użyczy Dylan Rourke, oraz Lucia Caminos, grana przez Manni L. Perez. To właśnie wokół tej dwó...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/55dcb166179bae77024e/55dcb166179bae77024e.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Relaksujące zagadki na Twoim telefonie. Mobilna wersja Lonesome Village za darmo w Epic Games!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/relaksujace-zagadki-na-twoim-telefonie-mobilna-wersja-lonesome-village-za-darmo-w-epic-games/",
+      "publishedAt": "2026-11-19T18:55+01:00",
+      "summary": "Łowcy, tym razem zespół Epic Games przygotował coś dla amatorów zagadek niewymagających intelektualnego wysiłku. Osoby korzystające z urządzeń opartych o systemy iOS i Android mogą odebrać mobilną wersję Lonesome Village za darmo. Produkcja meksykańskiego studia Ogre Pixel dostępna jest dla wszystkich posiadaczy aplikacji EGS. Kolejny zestaw mobilnych darmówek pojawi się w Epic Games Store już 26 listopada, punktualnie o godzinie 17:00. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Relaksujace-zagadki-na-Twoim-telefonie.-Mobilna-wersja-Lonesome-Village-za-darmo-w-Epic-Games_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw dla fanów studia CAPCOM z okazji Black Friday. Wybierz 2 gry Steam za 57 zł w Fanatical!",
+      "sourceUrl": "https://lowcygier.pl/bundle/zestaw-dla-fanow-studia-capcom-z-okazji-black-friday-wybierz-2-gry-steam-za-57-zl-w-fanatical/",
+      "publishedAt": "2026-11-19T18:40+01:00",
+      "summary": "Łowcy, z okazji Black Friday 2026 zespół Fanatical przygotował specjalną odsłonę popularnej paczki z produkcjami od japońskiego wydawcy. W ramach najnowszej odsłony zestawu Build Your Own CAPCOM Collection (Black Friday Edition) możecie stworzyć własny pakiet składający się z maksymalnie 8 gier PC. Do wyboru macie aż 27 tytułów w postaci kluczy Steam, wydanych przez firmę CAPCOM. Całość dostępna jest za 219,37 zł, co daje nam przelicznik na poziomie ok. 27,42 zł za jedną pozycję ! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zestaw-dla-fanow-studia-CAPCOM-z-okazji-Black-Friday.-Wybierz-2-gry-Steam-za-57-zl-w-Fanatical_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "79. gra za darmo w 2026 roku w Epic Games Store [Aktualizacja]",
@@ -20,6 +56,24 @@
       "summary": "W dniu premiery GTA 6 w Epic Games Store mieliśmy odebrać dwie gry. Problem w tym, że ostatecznie dostaliśmy tylko jedną, bo druga została „po cichu” usunięta z oferty.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532742842.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ubisoft znowu trochę chudszy. Firma po raz kolejny przeprowadziła zwolnienia",
+      "sourceUrl": "https://cdaction.pl/newsy/ubisoft-znowu-troche-chudszy-firma-po-raz-kolejny-przeprowadzila-zwolnienia/",
+      "publishedAt": "2026-11-19T18:30+01:00",
+      "summary": "Odwrócona ewolucja w Ubisofcie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/ubisoft-2249.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ekipy odpowiedzialne za hity Ubisoftu zostały dotknięte falą zwolnień. Ponad setka osób straciła pracę",
+      "sourceUrl": "https://www.ppe.pl/news/433824/ekipy-odpowiedzialne-za-hity-ubisoftu-zostaly-dotkniete-fala-zwolnien-ponad-setka-osob-stracila-prace.html",
+      "publishedAt": "2026-11-19T18:30+01:00",
+      "summary": "Nienajlepsze wieści napływają z obozu Ubisoftu. Z najnowszych doniesień wynika, że grubo ponad sto osób straciło pracę w zasłużonych zespołach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0385df3d4e970ed7697c/0385df3d4e970ed7697c.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -56,6 +110,15 @@
       "summary": "Na oficjalnej stronie sklepu Epic Games pojawiła się zapowiedź ostatniej w tym miesiącu odsłony rozdawnictwa. W przyszłym tygodniu do swojej bibliotek będziecie mogli dodać grę Bread & Fred za darmo. Produkcja studia SandCastles to ciekawa wariacja na temat trybu kooperacji. Tytuł mogący się pochwalić prawie 4200 recenzji, z czego aż 78% to oceny pozytywne, dostępny będzie zupełnie bezpłatnie od 26 listopada do 3 grudnia 2026 roku. Bez żadnych dodatkowych kosztów odbierzecie także specjalny pakiet o wartości $100 do darmowej gry Firestone Online Idle RPG . Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Urocza-gra-kooperacyjna-za-darmo-od-Epic-Games.-Poznalismy-tytul-kolejnej-darmowki_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 - poradnik. Misje, zadania poboczne, Jason i Lucia, pościgi, karty, profile, samochody, porady, podstawy",
+      "sourceUrl": "https://www.ppe.pl/poradniki/432031/gta-6-poradnik-misje-zadania-poboczne-jason-i-lucia-poscigi-karty-profile-samochody-porady-podstawy.html",
+      "publishedAt": "2026-11-19T17:48+01:00",
+      "summary": "Witajcie w poradniku do GTA 6, gry dekady. W nim znajdziecie opis przejścia pełnej gry, uwzględniając misje główne, zadania poboczne, aktywności opcjonalne, znajdźki, zagadki w świecie, a także wiele, wiele więcej ciekawych rzeczy. Zapraszamy...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c9302a696407ab949ce7/c9302a696407ab949ce7.png"
     },
     {
       "sourceName": "GRY-Online",
@@ -218,69 +281,6 @@
       "summary": "Pudełkowe wydanie gry Alan Wake 2 na PS5 czeka na Was w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Dorwiecie je już za 109 zł. Co więcej, jeśli wasz koszyk będzie zawierał grę i produkty biorące udział w akcjach sklepu na co najmniej 250 zł, otrzymacie też bon o wartości 50 zł na kolejne zakupy! Przypominamy, że edycja ta, oprócz podstawowej wersji gry, zawiera także dwa fabularne dodatki! Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Pudelkowe-Alan-Wake-2-Deluxe-Edition-na-PS5-tanio-na-Allegro.-Gra-dodatki-juz-za-16262-zl_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 mogło sprzedać w przedsprzedaży prawie 20 milionów kopii. Twórcy gry mimo to wypatrują zwolnień",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-moglo-sprzedac-w-przedsprzedazy-prawie-20-milionow-kopii-tworcy-gry-mimo-to-wypatruja-zwolnien/",
-      "publishedAt": "2026-11-19T15:30+01:00",
-      "summary": "Możesz wydać najlepiej ocenianą grę w historii, a i tak cię zwolnią.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-9.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Kultowy region ze Skyrim powraca! Bethesda przywraca jedną z najbardziej klimatycznych lokacji",
-      "sourceUrl": "https://www.ppe.pl/news/433801/kultowy-region-ze-skyrim-powraca-bethesda-przywraca-jedna-z-najbardziej-klimatycznych-lokacji.html",
-      "publishedAt": "2026-11-19T15:30+01:00",
-      "summary": "Bethesda oficjalnie zapowiedziała powrót jednego z najbardziej rozpoznawalnych regionów z The Elder Scrolls V: Skyrim.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7cfe8f2015763d6512bf/7cfe8f2015763d6512bf.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na Fire TV Stick w Amazon PL. Odtwarzacze streamingowe od 93,99 zł w ramach Black Friday",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-fire-tv-stick-w-amazon-pl-odtwarzacze-streamingowe-od-9399-zl-w-ramach-black-friday/",
-      "publishedAt": "2026-11-19T15:24+01:00",
-      "summary": "Jeśli nie jesteście w posiadaniu Smart TV lub po prostu często wyjeżdżacie nocując w hotelach lub wynajmowanych apartamentach i wolicie mieć swoje aplikacje bez logowania się na obcym telewizorze, możecie zaopatrzyć się w Fire TV Sticka. Polski oddział sklepu Amazon uruchomił akcję tygodnia Black Friday, dzięki której podstawowy model może być wasz za 93,99 zł. Za model 4K zapłacicie z kolei 134,99 zł, a Fire TV Stick 4K Max kosztuje 224,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/07/amazon-tv-fire-stick-4k-max-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Red Dead Redemption otrzyma serial?! Wytwórnie filmowe biją się o hit Rockstar Games",
-      "sourceUrl": "https://www.ppe.pl/news/433800/red-dead-redemption-otrzyma-serial-wytwornie-filmowe-bija-sie-o-hit-rockstar-games.html",
-      "publishedAt": "2026-11-19T15:15+01:00",
-      "summary": "Rockstar Games wciąż blokuje ekranizacje swoich marek, mimo wieloletnich nacisków ze strony Hollywood. Według raportu serwisu The Ankler wytwórnie filmowe bezskutecznie zabiegają o prawa do Grand Theft Auto.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/cac4d4e8c09c1c054a11/cac4d4e8c09c1c054a11.png"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "SHINOBI: Art of Vengeance rekordowo tanio w Kinguinie. Klucz Steam za jedyne 9,53 zł",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/shinobi-art-of-vengeance-rekordowo-tanio-w-kinguinie-klucz-steam-za-jedyne-953-zl/",
-      "publishedAt": "2026-11-19T15:15+01:00",
-      "summary": "Dwuwymiarowa i ręcznie rysowana metroidvania SHINOBI: Art of Vengeance, możliwa jest teraz do kupienia taniej w Kinguinie. Cena pecetowej produkcji wydanej przez SEGA, wynosi bowiem 9,53 zł, będąc jednocześnie historycznie najniższą. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/shinobi-art-of-vengeance-kwadrat-1-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Kolekcjonerka Phantom Brave The Lost Zero (zawiera 3 pluszaki) na PS5 za 235,70 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/kolekcjonerka-phantom-brave-the-lost-zero-zawiera-3-pluszaki-na-ps5-za-23570-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-19T15:15+01:00",
-      "summary": "W polskim oddziale sklepu Amazon zamówić możecie teraz kolekcjonerskie wydanie Phantom Brave The Lost Zero. W pudełku oprócz gry znajdziecie też m.in. dioramę, soundtrack, artbook i zestaw kart, a także aż trzy pluszowe maskotki! Za taki pakiet trzeba obecnie zapłacić 235,70 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Phantom-Brave-The-Lost-Hero-–-Limited-Edition-Plushie-Bundle-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Kolejna ekskluzywna gra z PS5 trafia na PC. Sony nie jest w stanie tego zatrzymać",
-      "sourceUrl": "https://www.ppe.pl/news/433808/kolejna-ekskluzywna-gra-z-ps5-trafia-na-pc-sony-nie-jest-w-stanie-tego-zatrzymac.html",
-      "publishedAt": "2026-11-19T15:00+01:00",
-      "summary": "Emulacja PlayStation 5 na komputerach osobistych robi kolejne postępy. Saros, najnowsza produkcja studia Housemarque dostępna na wyłączność konsoli Sony, została uruchomiona na PC za pośrednictwem emulatora KyTyPS5.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/bd099df6fe23170f36e1/bd099df6fe23170f36e1.jpg"
     }
   ],
   "indie": [
