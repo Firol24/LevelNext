@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T19:01+01:00",
+  "updatedAt": "2026-11-19T19:50+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gigantyczny sukces GTA 6 może nie uchronić Rockstar Games przed zwolnieniami. Deweloperzy walczą, żeby tak nie było",
-    "summary": "Pracownicy brytyjskiego oddziału Rockstar Games walczą o uznanie związku zawodowego. Tymczasem po sprawdzeniu napisów końcowych GTA 6 okazało się, że uwzględniono w nich zwolnionych deweloperów.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gigantyczny-sukces-gta-6-moze-nie-uchronic-rockstar-games-przed-z/z0323d4",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532809154.jpg"
+    "title": "Assassin’s Creed: Black Flag Resynced ratuje pogrążony w kryzysie Ubisoft. Firma wciąż jest jednak pod kreską i stawia na AI",
+    "summary": "Z najnowszego raportu finansowego Ubisoftu wynika, że sukces Assassin’s Creed: Black Flag Resynced pozwolił firmie przekroczyć wcześniejsze oczekiwania finansowe.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/assassins-creed-black-flag-resynced-ratuje-pograzony-w-kryzysie-u/z1323d5",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532811707.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Assassin’s Creed: Black Flag Resynced ratuje pogrążony w kryzysie Ubisoft. Firma wciąż jest jednak pod kreską i stawia na AI",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/assassins-creed-black-flag-resynced-ratuje-pograzony-w-kryzysie-u/z1323d5",
+      "publishedAt": "2026-11-19T20:17+01:00",
+      "summary": "Z najnowszego raportu finansowego Ubisoftu wynika, że sukces Assassin’s Creed: Black Flag Resynced pozwolił firmie przekroczyć wcześniejsze oczekiwania finansowe.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532811707.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zagraj w kultowe gry Electronic Arts za grosze. Miesiąc abonamentu EA Play już od 3,98 zł!",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/zagraj-w-kultowe-gry-electronic-arts-za-grosze-miesiac-abonamentu-ea-play-juz-od-398-zl/",
+      "publishedAt": "2026-11-19T19:46+01:00",
+      "summary": "Łowcy, świetna promocja na abonament od EA powróciła do nas po dość krótkiej przerwie. Firma Electronic Arts, chcąc zachęcić kolejnych klientów, oferuje miesiąc subskrypcji w wyjątkowo niskiej cenie. W ramach oferty będziecie mieli okazję zagrać w takie produkcje jak Dead Space, Mass Effect Legendary Edition oraz Star Wars Jedi Survivor. Tym razem oferta dostępna jest dla posiadaczy PC oraz konsol PlayStation 4, PlayStation 5, Xbox One oraz Xbox Series X|S. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zagraj-w-kultowe-gry-Electronic-Arts-za-grosze.-Miesiac-abonamentu-EA-Play-juz-od-398-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gigantyczny sukces GTA 6 może nie uchronić Rockstar Games przed zwolnieniami. Deweloperzy walczą, żeby tak nie było",
@@ -20,6 +38,24 @@
       "summary": "Pracownicy brytyjskiego oddziału Rockstar Games walczą o uznanie związku zawodowego. Tymczasem po sprawdzeniu napisów końcowych GTA 6 okazało się, że uwzględniono w nich zwolnionych deweloperów.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532809154.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 to 22 stacje radiowe i setki godzin muzyki. Rockstar ponownie poszedł na całość",
+      "sourceUrl": "https://www.ppe.pl/news/433822/gta-6-to-22-stacje-radiowe-i-setki-godzin-muzyki-rockstar-ponownie-poszedl-na-calosc.html",
+      "publishedAt": "2026-11-19T19:30+01:00",
+      "summary": "W GTA 6 muzyka jest nieodłącznym elementem podróży po Leonidzie. Rockstar przygotował aż 22 stacje radiowe – więcej niż w jakiejkolwiek wcześniejszej odsłonie serii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tytuł w stylu klasyków z PS2 w Prime Gaming. Odbierz dwie gry PC za darmo w Amazon Luna!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/tytul-w-stylu-klasykow-z-ps2-w-prime-gaming-odbierz-dwie-gry-pc-za-darmo-w-amazon-luna/",
+      "publishedAt": "2026-11-19T19:18+01:00",
+      "summary": "Łowcy, przedstawiamy Wam trzecią w listopadzie odsłonę subskrypcji Prime Gaming, która od dłuższego czasu stanowi integralną część usługi Luna Standard. W tym tygodniu do swoich kont znów możecie dodać dwie produkcje na PC za darmo. Najnowsza edycja usługi pozwala odebrać Clem oraz Werewolf: The Apocalypse – Earthblood w postaci bezpośredniej aktywacji na platformie Epic Games. Warto podkreślić, że w tym miesiącu otrzymamy łącznie 7 gier PC, ale niestety żadnego klucza do aktywacji na platformie GOG.com! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tytul-w-stylu-klasykow-z-PS2-w-Prime-Gaming.-Odbierz-dwie-gry-PC-za-darmo-w-Amazon-Luna_minaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
@@ -245,42 +281,6 @@
       "summary": "Premiera GTA 6 wywołała dyskusję nie tylko o samej grze, ale również o przyszłości fizycznych wydań.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/ca2aef6b7c783954a10b/ca2aef6b7c783954a10b.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na klocki PANTASY w ramach Black Friday Week w Amazon PL. Ceny zestawów rozpoczynają się od 70 zł",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-klocki-pantasy-w-ramach-black-friday-week-w-amazon-pl-ceny-zestawow-rozpoczynaja-sie-od-70-zl/",
-      "publishedAt": "2026-11-19T15:58+01:00",
-      "summary": "Polski oddział sklepu Amazon posiada w swojej ofercie masę zestawów klocków firmy PANTASY. Jeśli lubicie tę alternatywę dla duńskich setów konstrukcyjnych, przygotowaliśmy dla Was krótki wpis, w którym znajdziecie najciekawsze promocje na Black Friday. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/pantasy-wielkie-okazje-prime-2026-3b-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Xbox nie może wymawiać nazwy GTA 6? Microsoft promuje premierę, ale unika tytułu gry Rockstara",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/xbox-nie-moze-wymawiac-nazwy-gta-6-microsoft-promuje-premiere-ale/z1323cf",
-      "publishedAt": "2026-11-19T15:46+01:00",
-      "summary": "Wszystko wskazuje na to, że Sony sprytnie uniemożliwiło Microsoftowi wykorzystywanie GTA 6 w kampaniach marketingowych konsol Xbox.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532795594.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 bije absolutny rekord wszech czasów! Nie widziano czegoś takiego od 2022 roku",
-      "sourceUrl": "https://www.ppe.pl/news/433802/gta-6-bije-absolutny-rekord-wszech-czasow-nie-widziano-czegos-takiego-od-2022-roku.html",
-      "publishedAt": "2026-11-19T15:45+01:00",
-      "summary": "Grand Theft Auto VI pobiło nieoficjalny rekord oglądalności gier w historii platformy Twitch.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/87966a54a27e103c1474/87966a54a27e103c1474.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Alan Wake 2 na PS5 za 103,54 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-alan-wake-2-na-ps5-za-10354-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-19T15:39+01:00",
-      "summary": "Pudełkowe wydanie gry Alan Wake 2 na PS5 czeka na Was w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Dorwiecie je już za 109 zł. Co więcej, jeśli wasz koszyk będzie zawierał grę i produkty biorące udział w akcjach sklepu na co najmniej 250 zł, otrzymacie też bon o wartości 50 zł na kolejne zakupy! Przypominamy, że edycja ta, oprócz podstawowej wersji gry, zawiera także dwa fabularne dodatki! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Pudelkowe-Alan-Wake-2-Deluxe-Edition-na-PS5-tanio-na-Allegro.-Gra-dodatki-juz-za-16262-zl_minaturka-224x224.jpg"
     }
   ],
   "indie": [
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795076949"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "6a28e9cd6d88b29cec47a8702469a4a98f5092c8c8b6e436e430c93266144544"
+  "editorialHash": "cd49f9652a355003594570b7cddbe0d9c2cc331011b08021ed6e4d8380b3a9f1"
 }
