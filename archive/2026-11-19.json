@@ -1,17 +1,125 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T14:01+01:00",
+  "updatedAt": "2026-11-19T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "MindsEye pogrążyło studio. NetEase chce odzyskać 37 mln funtów, a to nie koniec",
-    "summary": "Build A Rocket Boy, studio odpowiedzialne za MindsEye, znalazło się w poważnych tarapatach finansowych.",
-    "sourceUrl": "https://www.ppe.pl/news/433780/mindseye-pograzylo-studio-netease-chce-odzyskac-37-mln-funtow-a-to-nie-koniec.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/e247dea1358bb30fe195/e247dea1358bb30fe195.jpg"
+    "title": "Kolejna ekskluzywna gra z PS5 trafia na PC. Sony nie jest w stanie tego zatrzymać",
+    "summary": "Emulacja PlayStation 5 na komputerach osobistych robi kolejne postępy. Saros, najnowsza produkcja studia Housemarque dostępna na wyłączność konsoli Sony, została uruchomiona na PC za pośrednictwem emulatora KyTyPS5.",
+    "sourceUrl": "https://www.ppe.pl/news/433808/kolejna-ekskluzywna-gra-z-ps5-trafia-na-pc-sony-nie-jest-w-stanie-tego-zatrzymac.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/bd099df6fe23170f36e1/bd099df6fe23170f36e1.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Kolejna ekskluzywna gra z PS5 trafia na PC. Sony nie jest w stanie tego zatrzymać",
+      "sourceUrl": "https://www.ppe.pl/news/433808/kolejna-ekskluzywna-gra-z-ps5-trafia-na-pc-sony-nie-jest-w-stanie-tego-zatrzymac.html",
+      "publishedAt": "2026-11-19T15:00+01:00",
+      "summary": "Emulacja PlayStation 5 na komputerach osobistych robi kolejne postępy. Saros, najnowsza produkcja studia Housemarque dostępna na wyłączność konsoli Sony, została uruchomiona na PC za pośrednictwem emulatora KyTyPS5.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/bd099df6fe23170f36e1/bd099df6fe23170f36e1.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "NVIDIA może szykować RTX 6090 szybciej, niż oczekiwano. Nowe doniesienia wskazują na zaskakującą zmianę strategii giganta",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-moze-szykowac-rtx-6090-szybciej-niz-oczekiwano-nowe-donies/zc323ca",
+      "publishedAt": "2026-11-19T14:55+01:00",
+      "summary": "NVIDIA i AMD szykują się do premier nowych kart graficznych. Kolejna generacja Radeonów i RTX-y z serii 60 mogą trafić do sprzedaży nawet pod koniec 2027 roku według znanego insidera.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532791491.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Czy w GTA 6 da się bezboleśnie grać w 30 fps? Sprawdził to nasz dział technologii",
+      "sourceUrl": "https://cdaction.pl/technologie/czy-w-gta-6-da-sie-bezbolesnie-grac-w-30-fps-sprawdzil-to-nasz-dzial-technologii/",
+      "publishedAt": "2026-11-19T14:52+01:00",
+      "summary": "Grać zaczęliśmy chyba wszyscy równo o północy. Do świtu czasu na zabawę co prawda dużo nie było, ale te parę godzin z padem w dłoni pozwala już z pewną ostrożnością odpowiedzieć sobie na najważniejsze chyba pytanie związane z GTA 6 – czy zabawa w 30 klatkach na sekundę sens?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Jason_and_Lucia_15-1-1260x709.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 skrywa polski akcent. Rockstar zdradził nam pochodzenie jednej z postaci (Uwaga: Spoiler)",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-skrywa-polski-akcent-rockstar-zdradzil-nam-pochodzenie-jedn/zd323cb",
+      "publishedAt": "2026-11-19T14:50+01:00",
+      "summary": "Nasza redakcja dowiedziała się wielu ciekawostek od studia Rockstar Games na temat GTA 6, w tym odnośnie do zakończeń oraz optymalizacji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532791943.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO ICONS Star Trek U.S.S. Enterprise NCC-1701-D za 1249 zł (cena kat. 1649,99 zł) w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-icons-star-trek-u-s-s-enterprise-ncc-1701-d-za-1249-zl-cena-kat-164999-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-19T14:42+01:00",
+      "summary": "W polskim Amazonie pojawiła się promocja na LEGO Icons Star Trek U.S.S. Enterprise NCC-1701-D. Składający się z 3600 elementów model statku z serialu „Star Trek: The Next Generation”, w zestawie z 9 minifigurkami, w tym kapitana Jean-Luc Picarda, Worfa, czy też Daty, kosztuje obecnie 1249 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/lego-icons-star-trek-uss-enterprise-1701-d-2a-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Christopher Nolan nie zwalnia tempa. Reżyser Odysei już planuje kolejny wielki film",
+      "sourceUrl": "https://www.ppe.pl/news/433798/christopher-nolan-nie-zwalnia-tempa-rezyser-odysei-juz-planuje-kolejny-wielki-film.html",
+      "publishedAt": "2026-11-19T14:40+01:00",
+      "summary": "Christopher Nolan analizuje koncepcje kolejnego pełnometrażowego filmu. Reżyser przystąpił do prac koncepcyjnych zaledwie kilka miesięcy po letniej premierze The Odyssey.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/7b0a83ccb33070168e0e/7b0a83ccb33070168e0e.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Niezależny wydawca łapie Rockstara za rogi i organizuje konkurs. Żeby wziąć w nim udział, trzeba usunąć GTA 6 z dysku",
+      "sourceUrl": "https://cdaction.pl/newsy/niezalezny-wydawca-lapie-rockstara-za-rogi-i-organizuje-konkurs-zeby-wziac-w-nim-udzial-trzeba-usunac-gta-6-z-dysku/",
+      "publishedAt": "2026-11-19T14:30+01:00",
+      "summary": "Odwaga została pomylona z odważnikiem, choć wszystko wygląda na jeden wielki żart.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-19T105653.653-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 dostanie wielkie DLC?! Rockstar nie bez powodu to zostawił",
+      "sourceUrl": "https://www.ppe.pl/news/433795/gta-6-dostanie-wielkie-dlc-rockstar-nie-bez-powodu-to-zostawil.html",
+      "publishedAt": "2026-11-19T14:20+01:00",
+      "summary": "Gracze zlokalizowali na mapie Grand Theft Auto 6 szereg nieużywanych stref. Wiele szczegółowych obiektów pozostaje obecnie całkowicie odciętych od eksploracji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/39fec08e30958c0ec36b/39fec08e30958c0ec36b.webp"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Mam nadzieję, że GTA 6 będzie ostatnią taką grą”. Legenda branży o ciemnej stronie sukcesu Rockstara",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mam-nadzieje-ze-gta-6-bedzie-ostatnia-taka-gra-legenda-branzy-o-c/z4323c9",
+      "publishedAt": "2026-11-19T14:16+01:00",
+      "summary": "Warren Spector docenia GTA 6, ale też wyraża obawy, że ten model tworzenia gier nie ma przyszłości w tej branży.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532790213.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wszystkie cheat kody do GTA VI. Jak odblokować nielimitowaną gotówkę oraz bronie w Grand Theft Auto",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/wszystkie-cheat-kody-do-gta-vi-sposob-odblokowania-jak-je-aktywowac-i-co-daja/",
+      "publishedAt": "2026-11-19T14:14+01:00",
+      "summary": "Podobnie jak w poprzednich częściach, w GTA VI nie zabrakło kodów. Najnowsza gra Rockstar oferuje mnóstwo sekretów (na ten moment poznaliśmy ich 61), które pozwolą jeszcze lepiej bawić się w Vice City i okolicach. Nie skorzystacie z nich jednak od razu. Najpierw trzeba ukończyć główny wątek fabularny, a do tego spełnić, niekiedy bardzo wymagające, warunki odblokowania cheatów w GTA VI. Przygotowaliśmy dla Was listę zawierającą wszystkie znane na ten moment oszustwa wraz ze sposobem ich zdobycia i aktywacji. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kody-GTA-VI-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "EA SPORTS FC 27 na PC za 188,59 zł w Loaded. Historycznie najniższa cena",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/ea-sports-fc-27-na-pc-za-18859-zl-w-loaded-historycznie-najnizsza-cena/",
+      "publishedAt": "2026-11-19T14:06+01:00",
+      "summary": "Najnowsza odsłona piłki nożnej Electronic Arts, czyli EA SPORTS FC 27, jest dostępne taniej w sklepie internetowym Loaded. Pecetowe wydanie produkcji, w której dopracowano rynek transferowy, zadbano o większy realizm względem poprzedniczki oraz wprowadzono The Grounds, czyli hub dla graczy, kosztuje 188,59 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Premiera-EA-SPORTS-FC-27-juz-za-nami.-Gdzie-kupic-tanio-nowa-pilke-nozna-na-PC-i-konsole__miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracze GTA 6 są już na tropie wielkiej tajemnicy pokroju Mount Chiliad z GTA 5. Pierwsze znaki czekają na detektywów amatorów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-gta-6-sa-juz-na-tropie-wielkiej-tajemnicy-pokroju-mount-ch/z3323c8",
+      "publishedAt": "2026-11-19T14:05+01:00",
+      "summary": "Czyżby na horyzoncie znajdowała się już kolejna wielka tajemnica ze świata GTA? Jeden z graczy zauważył symbole, które od razu rozpaliły jego wyobraźnię.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532789520.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "MindsEye pogrążyło studio. NetEase chce odzyskać 37 mln funtów, a to nie koniec",
@@ -20,6 +128,24 @@
       "summary": "Build A Rocket Boy, studio odpowiedzialne za MindsEye, znalazło się w poważnych tarapatach finansowych.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/e247dea1358bb30fe195/e247dea1358bb30fe195.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Powstaje Szlak Polskich Gier Wideo! Na inauguracji projektu odsłonięto pierwszą rzeźbę, jaka pojawiła się na mapie Polski",
+      "sourceUrl": "https://cdaction.pl/newsy/powstaje-szlak-polskich-gier-wideo-na-inauguracji-projektu-odslonieto-pierwsza-rzezbe-jaka-pojawila-sie-na-mapie-polski/",
+      "publishedAt": "2026-11-19T14:00+01:00",
+      "summary": "To co? Szykujemy jakąś wycieczkę?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Szlak-Polskich-Gier-Wideo.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Sterowniki NVIDII mogą po cichu skracać żywotność dysków SSD. Gracze odkryli, że problem występuje nawet na bezczynnym komputerze",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/sterowniki-nvidii-moga-po-cichu-skracac-zywotnosc-dyskow-ssd-grac/z1323c6",
+      "publishedAt": "2026-11-19T13:55+01:00",
+      "summary": "Najnowsze sterowniki NVIDII GeForce Game Ready 621.14 i 621.24 wprowadzają błąd mogą przyspieszać zużycie dysków SSD. Internauci polecają instalację starszej wersji oprogramowania.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532786902.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -155,132 +281,6 @@
       "summary": "Cóż, to w końcu najbardziej wyczekiwana gra w historii.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/GTA-6-1.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Red Dead Redemption 2 może się schować. Tak żyjącego świata jeszcze nie było",
-      "sourceUrl": "https://www.ppe.pl/news/433747/red-dead-redemption-2-moze-sie-schowac-tak-zyjacego-swiata-jeszcze-nie-bylo.html",
-      "publishedAt": "2026-11-19T12:23+01:00",
-      "summary": "Gra dekady, czyli Grand Theft Auto 6, dopiero co trafiła w ręce graczy, a internet już zalewa fala zachwytów nad tym, jak niesamowicie żywy jest ten świat. Krytycy nie gryzą się w język i wprost nazywają nową produkcję Rockstara najlepszą g...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/abe01ace611899aa462a/abe01ace611899aa462a.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Świt Delty ratuje strategię Ubisoftu, a nowa łatka usuwa najbardziej irytujące błędy w Anno 117",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/swit-delty-ratuje-strategie-ubisoftu-a-nowa-latka-usuwa-najbardzi/zb323c0",
-      "publishedAt": "2026-11-19T12:20+01:00",
-      "summary": "Anno 117 otrzymało jeszcze jedną dużą aktualizację po udanej premierze egipskiego DLC.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532782471.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Star Wars Battlefront 2 w końcu doczekał się trybu ze Star Wars Battlefront 2. Z tego lepszego i skupionego również na grze w singlu",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/star-wars-battlefront-2-w-koncu-doczekal-sie-trybu-ze-star-wars-b/zc323c1",
-      "publishedAt": "2026-11-19T12:18+01:00",
-      "summary": "Pamiętacie strategiczny tryb dla pojedynczego gracza z pierwotnego Star Wars Battlefront 2? Właśnie trafił on do nowej wersji strzelanki z 2017 roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532783099.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Nowa funkcja wtyczki GG.deals! Synchronizacja kolekcji gier XBOX jest już dostępna",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/nowa-funkcja-wtyczki-gg-deals-synchronizacja-kolekcji-gier-xbox-jest-juz-dostepna/",
-      "publishedAt": "2026-11-19T12:13+01:00",
-      "summary": "Właśnie dodaliśmy kolejną ważną funkcję do wtyczki GG.deals – synchronizację kolekcji gier XBOX. Jeśli macie zainstalowane nasze rozszerzenie, możecie teraz bezpośrednio zaimportować posiadane gry oraz dodatki z konsol XBOX One, XBOX Series oraz sklepu XBOX Store na PC do swojej biblioteczki w GG.deals. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2018/10/twitter@2x-e1543791853139.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ślamazarne sterowanie i problemy z wydajnością. Digital Foundry testuje GTA 6 na konsolach",
-      "sourceUrl": "https://www.ppe.pl/news/433755/slamazarne-sterowanie-i-problemy-z-wydajnoscia-digital-foundry-testuje-gta-6-na-konsolach-1.html",
-      "publishedAt": "2026-11-19T12:07+01:00",
-      "summary": "Wczoraj redakcja Hardware Unboxed zamiast próbować bronić animacji 30 fps obnażyła prawdę o tym poziomie animacji. Okazuje się, że w GTA 6 jest jeszcze gorzej od prognoz tych ekspertów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/813dd87e73a57fa360af/813dd87e73a57fa360af.png"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Rockstar rozwiewa nadzieje na 60 fps-ów w GTA 6 na PS5 Pro. „Nie ma wystarczającej mocy”",
-      "sourceUrl": "https://cdaction.pl/newsy/rockstar-rozwiewa-nadzieje-na-60-fps-ow-w-gta-6-na-ps5-pro-nie-ma-wystarczajacej-mocy/",
-      "publishedAt": "2026-11-19T12:00+01:00",
-      "summary": "No i po marzeniach o 60 klatkach na sekundę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-8.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 nie otrzyma nawet 40 FPS na PS5 i XSX. Powód zdradzony przez Rockstar Games",
-      "sourceUrl": "https://www.ppe.pl/news/433746/gta-6-nie-otrzyma-nawet-40-fps-na-ps5-i-xsx-powod-zdradzony-przez-rockstar-games.html",
-      "publishedAt": "2026-11-19T11:55+01:00",
-      "summary": "Kwestia płynności w GTA 6 to temat, który od tygodni nie daje spokoju konsolowym graczom. Wielu z nich zdążyło się już jakoś pogodzić z faktem, że na PS5 oraz Xboksach Series X i S nie zobaczymy wymarzonych 60 klatek na sekundę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "80 minut rozgrywki z Total War: Warhammer 40K. Twórcy pokazują, jak będzie wyglądać kampania",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/80-minut-rozgrywki-z-total-war-warhammer-40k-tworcy-pokazuja-jak/z0323bf",
-      "publishedAt": "2026-11-19T11:55+01:00",
-      "summary": "Do sieci trafiła ponad godzina zapisu rozgrywki z Total War: Warhammer 40,000. Materiał pokazuje wiele aspektów nadciągającej strategii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532781725.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na czytniki Kindle w ramach Black Friday w Amazon PL. Ceny rozpoczynają się od 605,99 zł",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-czytniki-kindle-w-ramach-black-friday-w-amazon-pl-ceny-rozpoczynaja-sie-od-60599-zl/",
-      "publishedAt": "2026-11-19T11:54+01:00",
-      "summary": "Również polski oddział Amazon przygotowuje się na szturm podczas Czarnego Piątku, więc kilka promocji jest dostępnych nieco wcześniej. Obniżek cen doczekały się wybrane modele Kindle, więc postanowiliśmy przygotować dla Was krótki wpis. Sześciocalowy, podstawowy czytnik e-book, kosztuje 605,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/amazon-kindle-colorsoft-1b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nie każdego przeraża premiera GTA 6. Battlefield 6 zaprasza na podbój Vice City",
-      "sourceUrl": "https://www.ppe.pl/news/433754/nie-kazdego-przeraza-premiera-gta-6-battlefield-6-zaprasza-na-podboj-vice-city.html",
-      "publishedAt": "2026-11-19T11:52+01:00",
-      "summary": "Debiut GTA 6 to wielkie wydarzenie nie tylko dla fanów serii, ale też całej branży. Dlatego gdy większość ekip stara się przeczekać moment premiery i wynikający z tego odpływ graczy, Electronic Arts jest firmą, która stara się utrzymać sw...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0541fcdaa6112f843f98/0541fcdaa6112f843f98.png"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "15 milionów postaci, prawie 1,5 miliarda zaliczonych questów i najbardziej zabójczy boss. WoW Forever imponuje liczbami",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/15-milionow-postaci-prawie-15-miliarda-zaliczonych-questow-i-najb/zf323be",
-      "publishedAt": "2026-11-19T11:49+01:00",
-      "summary": "Jak radzi sobie WoW Forever po dwóch tygodniach od premiery? Blizzard prezentuje pierwsze statystyki z MMORPG-a.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532781191.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "SkyShowtime zostanie zamknięte. Popularna w Polsce platforma streamingowa zakończy działalność w 2027 roku",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/skyshowtime-zostanie-zamkniete-popularna-w-polsce-platforma-strea/zc323bb",
-      "publishedAt": "2026-11-19T11:44+01:00",
-      "summary": "SkyShowtime zniknie z rynku streamingowego. Właściciele platformy podjęli decyzję o zakończeniu jej działalności pod koniec 2027 roku. Ze stanowiska odchodzi również dotychczasowy dyrektor generalny serwisu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532777463.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tak w GTA 6 wyrywa się bankomaty ze ścian. Trzeba tylko pamiętać o jednym",
-      "sourceUrl": "https://www.ppe.pl/news/433760/tak-w-gta-6-wyrywa-sie-bankomaty-ze-scian-trzeba-tylko-pamietac-o-jednym.html",
-      "publishedAt": "2026-11-19T11:41+01:00",
-      "summary": "GTA 6 oferuje naprawdę sporo możliwości. Jeśli szukacie w Grand Theft Auto 6 szybkiego i naprawdę efektownego sposobu na podreperowanie budżetu, to wyrywanie bankomatów prosto ze ścian budynków jest jedną z najlepszych zabaw na mapie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d160238dadac7eab1bb8/d160238dadac7eab1bb8.png"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Siostry Wachowskie chcą odzyskać prawa do „Matrixa”. W tle konflikt z nowym właścicielem Warner Bros.",
-      "sourceUrl": "https://cdaction.pl/kultura/siostry-wachowskie-chca-odzyskac-prawa-do-matrixa-w-tle-konflikt-z-nowym-wlascicielem-warner-bros/",
-      "publishedAt": "2026-11-19T11:30+01:00",
-      "summary": "Zegar tyka do 2029 roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/10/Matrix.jpg"
     }
   ],
   "indie": [
