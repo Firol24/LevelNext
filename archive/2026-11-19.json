@@ -1,17 +1,107 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T15:01+01:00",
+  "updatedAt": "2026-11-19T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Kolejna ekskluzywna gra z PS5 trafia na PC. Sony nie jest w stanie tego zatrzymać",
-    "summary": "Emulacja PlayStation 5 na komputerach osobistych robi kolejne postępy. Saros, najnowsza produkcja studia Housemarque dostępna na wyłączność konsoli Sony, została uruchomiona na PC za pośrednictwem emulatora KyTyPS5.",
-    "sourceUrl": "https://www.ppe.pl/news/433808/kolejna-ekskluzywna-gra-z-ps5-trafia-na-pc-sony-nie-jest-w-stanie-tego-zatrzymac.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/bd099df6fe23170f36e1/bd099df6fe23170f36e1.jpg"
+    "title": "GTA 6 bez płyty w pudełku. Szef GameStop ostro uderza w cyfrową dystrybucję",
+    "summary": "Premiera GTA 6 wywołała dyskusję nie tylko o samej grze, ale również o przyszłości fizycznych wydań.",
+    "sourceUrl": "https://www.ppe.pl/news/433811/gta-6-bez-plyty-w-pudelku-szef-gamestop-ostro-uderza-w-cyfrowa-dystrybucje.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/ca2aef6b7c783954a10b/ca2aef6b7c783954a10b.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 bez płyty w pudełku. Szef GameStop ostro uderza w cyfrową dystrybucję",
+      "sourceUrl": "https://www.ppe.pl/news/433811/gta-6-bez-plyty-w-pudelku-szef-gamestop-ostro-uderza-w-cyfrowa-dystrybucje.html",
+      "publishedAt": "2026-11-19T16:00+01:00",
+      "summary": "Premiera GTA 6 wywołała dyskusję nie tylko o samej grze, ale również o przyszłości fizycznych wydań.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ca2aef6b7c783954a10b/ca2aef6b7c783954a10b.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na klocki PANTASY w ramach Black Friday Week w Amazon PL. Ceny zestawów rozpoczynają się od 70 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-klocki-pantasy-w-ramach-black-friday-week-w-amazon-pl-ceny-zestawow-rozpoczynaja-sie-od-70-zl/",
+      "publishedAt": "2026-11-19T15:58+01:00",
+      "summary": "Polski oddział sklepu Amazon posiada w swojej ofercie masę zestawów klocków firmy PANTASY. Jeśli lubicie tę alternatywę dla duńskich setów konstrukcyjnych, przygotowaliśmy dla Was krótki wpis, w którym znajdziecie najciekawsze promocje na Black Friday. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/pantasy-wielkie-okazje-prime-2026-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 bije absolutny rekord wszech czasów! Nie widziano czegoś takiego od 2022 roku",
+      "sourceUrl": "https://www.ppe.pl/news/433802/gta-6-bije-absolutny-rekord-wszech-czasow-nie-widziano-czegos-takiego-od-2022-roku.html",
+      "publishedAt": "2026-11-19T15:45+01:00",
+      "summary": "Grand Theft Auto VI pobiło nieoficjalny rekord oglądalności gier w historii platformy Twitch.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/87966a54a27e103c1474/87966a54a27e103c1474.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Alan Wake 2 na PS5 za 103,54 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-alan-wake-2-na-ps5-za-10354-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-19T15:39+01:00",
+      "summary": "Pudełkowe wydanie gry Alan Wake 2 na PS5 czeka na Was w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Dorwiecie je już za 109 zł. Co więcej, jeśli wasz koszyk będzie zawierał grę i produkty biorące udział w akcjach sklepu na co najmniej 250 zł, otrzymacie też bon o wartości 50 zł na kolejne zakupy! Przypominamy, że edycja ta, oprócz podstawowej wersji gry, zawiera także dwa fabularne dodatki! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Pudelkowe-Alan-Wake-2-Deluxe-Edition-na-PS5-tanio-na-Allegro.-Gra-dodatki-juz-za-16262-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 mogło sprzedać w przedsprzedaży prawie 20 milionów kopii. Twórcy gry mimo to wypatrują zwolnień",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-moglo-sprzedac-w-przedsprzedazy-prawie-20-milionow-kopii-tworcy-gry-mimo-to-wypatruja-zwolnien/",
+      "publishedAt": "2026-11-19T15:30+01:00",
+      "summary": "Możesz wydać najlepiej ocenianą grę w historii, a i tak cię zwolnią.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-9.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kultowy region ze Skyrim powraca! Bethesda przywraca jedną z najbardziej klimatycznych lokacji",
+      "sourceUrl": "https://www.ppe.pl/news/433801/kultowy-region-ze-skyrim-powraca-bethesda-przywraca-jedna-z-najbardziej-klimatycznych-lokacji.html",
+      "publishedAt": "2026-11-19T15:30+01:00",
+      "summary": "Bethesda oficjalnie zapowiedziała powrót jednego z najbardziej rozpoznawalnych regionów z The Elder Scrolls V: Skyrim.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/7cfe8f2015763d6512bf/7cfe8f2015763d6512bf.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na Fire TV Stick w Amazon PL. Odtwarzacze streamingowe od 93,99 zł w ramach Black Friday",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-fire-tv-stick-w-amazon-pl-odtwarzacze-streamingowe-od-9399-zl-w-ramach-black-friday/",
+      "publishedAt": "2026-11-19T15:24+01:00",
+      "summary": "Jeśli nie jesteście w posiadaniu Smart TV lub po prostu często wyjeżdżacie nocując w hotelach lub wynajmowanych apartamentach i wolicie mieć swoje aplikacje bez logowania się na obcym telewizorze, możecie zaopatrzyć się w Fire TV Sticka. Polski oddział sklepu Amazon uruchomił akcję tygodnia Black Friday, dzięki której podstawowy model może być wasz za 93,99 zł. Za model 4K zapłacicie z kolei 134,99 zł, a Fire TV Stick 4K Max kosztuje 224,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/07/amazon-tv-fire-stick-4k-max-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Red Dead Redemption otrzyma serial?! Wytwórnie filmowe biją się o hit Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/news/433800/red-dead-redemption-otrzyma-serial-wytwornie-filmowe-bija-sie-o-hit-rockstar-games.html",
+      "publishedAt": "2026-11-19T15:15+01:00",
+      "summary": "Rockstar Games wciąż blokuje ekranizacje swoich marek, mimo wieloletnich nacisków ze strony Hollywood. Według raportu serwisu The Ankler wytwórnie filmowe bezskutecznie zabiegają o prawa do Grand Theft Auto.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/cac4d4e8c09c1c054a11/cac4d4e8c09c1c054a11.png"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "SHINOBI: Art of Vengeance rekordowo tanio w Kinguinie. Klucz Steam za jedyne 9,53 zł",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/shinobi-art-of-vengeance-rekordowo-tanio-w-kinguinie-klucz-steam-za-jedyne-953-zl/",
+      "publishedAt": "2026-11-19T15:15+01:00",
+      "summary": "Dwuwymiarowa i ręcznie rysowana metroidvania SHINOBI: Art of Vengeance, możliwa jest teraz do kupienia taniej w Kinguinie. Cena pecetowej produkcji wydanej przez SEGA, wynosi bowiem 9,53 zł, będąc jednocześnie historycznie najniższą. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/shinobi-art-of-vengeance-kwadrat-1-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kolekcjonerka Phantom Brave The Lost Zero (zawiera 3 pluszaki) na PS5 za 235,70 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/kolekcjonerka-phantom-brave-the-lost-zero-zawiera-3-pluszaki-na-ps5-za-23570-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-19T15:15+01:00",
+      "summary": "W polskim oddziale sklepu Amazon zamówić możecie teraz kolekcjonerskie wydanie Phantom Brave The Lost Zero. W pudełku oprócz gry znajdziecie też m.in. dioramę, soundtrack, artbook i zestaw kart, a także aż trzy pluszowe maskotki! Za taki pakiet trzeba obecnie zapłacić 235,70 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Phantom-Brave-The-Lost-Hero-–-Limited-Edition-Plushie-Bundle-logo-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Kolejna ekskluzywna gra z PS5 trafia na PC. Sony nie jest w stanie tego zatrzymać",
@@ -20,6 +110,15 @@
       "summary": "Emulacja PlayStation 5 na komputerach osobistych robi kolejne postępy. Saros, najnowsza produkcja studia Housemarque dostępna na wyłączność konsoli Sony, została uruchomiona na PC za pośrednictwem emulatora KyTyPS5.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/bd099df6fe23170f36e1/bd099df6fe23170f36e1.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Weteran Dooma i Quake’a wychwala rolę Gabe’a Newella w bronieniu graczy przed chciwością korporacji. „Steam dosłownie strzeże wrót piekieł”",
+      "sourceUrl": "https://cdaction.pl/newsy/weteran-dooma-i-quakea-wychwala-role-gabea-newella-w-bronieniu-graczy-przed-chciwoscia-korporacji-steam-doslownie-strzeze-wrot-piekiel/",
+      "publishedAt": "2026-11-19T15:00+01:00",
+      "summary": "Sandy Petersen nie ukrywa swojej sympatii do prezesa Valve.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/Gabe-Newell-1260x723.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -182,105 +281,6 @@
       "summary": "Windows 7 oficjalnie od dawna nie jest wspierany przez Microsoft, ale entuzjaści starszego systemu znaleźli sposób, aby uruchomić na nim współczesne karty graficzne.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/eb701b92a5a45bfbc25a/eb701b92a5a45bfbc25a.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "To koniec SkyShowtime! Znamy datę zamknięcia platformy",
-      "sourceUrl": "https://cdaction.pl/kultura/to-koniec-skyshowtime-znamy-date-zamkniecia-platformy/",
-      "publishedAt": "2026-11-19T13:15+01:00",
-      "summary": "Klamka zapadła.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/SkyShowtime-2.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Sony szykuje GRUDNIOWĄ BOMBĘ w PS Plus! Gracze dostaną prawdziwą perełkę",
-      "sourceUrl": "https://www.ppe.pl/news/433779/sony-szykuje-grudniowa-bombe-w-ps-plus-gracze-dostana-prawdziwa-perelke.html",
-      "publishedAt": "2026-11-19T13:13+01:00",
-      "summary": "Katalog klasyków PlayStation Plus Premium otrzyma w grudniu głośne wzmocnienie. Serwis PlayStation LifeStyle donosi o rychłym wdrożeniu oryginalnego Ratchet & Clank.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/96976eed717bc5eda703/96976eed717bc5eda703.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "CD Projekt RED szuka eksperta od AI. Ma usprawniać pracę twórców Wiedźmina 4, a nie tworzyć grę za nich",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/cd-projekt-red-szuka-eksperta-od-ai-ma-usprawniac-prace-tworcow-w/z0323c5",
-      "publishedAt": "2026-11-19T13:09+01:00",
-      "summary": "Mimo że CD Projekt Red nie chce zastępować pracy ludzi sztuczną inteligencją, to rozwija ten sektor. Twórcy serii Wiedźmin poszukują eksperta od AI.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532786101.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Covert Operations Stealth Bundle w Humble. Paczka 10 gier Steam i 7 DLC za 72,45 zł!",
-      "sourceUrl": "https://lowcygier.pl/bundle/covert-operations-stealth-bundle-w-humble-paczka-10-gier-steam-i-7-dlc-za-7245-zl/",
-      "publishedAt": "2026-11-19T13:08+01:00",
-      "summary": "Lubicie skradanki? To polubicie się z paczką dostępną w Humble Store. Zawierający aż 10 kluczy Steam, a nawet 17, jeśli doliczymy do tego DLC zestaw Covert Operations: Stealth Bundle, jest dostępny w trzech progach, a jeśli chcecie zgarnąć całość, zapłacicie za niego około 72,45 zł. Co ciekawego tu znajdziecie? Intravenous 2, Styx: Master of Shadows oraz Shards of Darkness, dwie części Perfect Heist i Deceive Inc. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/covert-operations-stealth-bundle-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "To isekai 14 lat temu zrewolucjonizowało gatunek i teraz jest o wiele łatwiejsze do oglądania: Netflix ma u siebie 2 sezony z polskimi napisami",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/to-isekai-14-lat-temu-zrewolucjonizowalo-gatunek-i-teraz-jest-o-w/zd323c2",
-      "publishedAt": "2026-11-19T13:02+01:00",
-      "summary": "Netflix dodał do swojej oferty anime, które przed 14 laty zrobiło ogromną furorę. Można już obejrzeć 2 sezony z polskimi napisami.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532783229.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "W GTA 6 znajdziecie psa na motorówce, który zabierze was na sekretną wyspę. Do tego psiak wykopie dla was skarb",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-znajdziecie-psa-na-motorowce-ktory-zabierze-was-na-sekret/ze323c3",
-      "publishedAt": "2026-11-19T12:58+01:00",
-      "summary": "Gracze GTA 6 odkrywają pierwsze easter eggi. Jeden z nich zabierze was na sekretną wyspę pełną psiaków.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532784969.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Twórcy Claude'a są już warci 1,5 biliona dolarów. Anthropic wchodzi na giełdę mimo rosnących obaw o przyszłość AI",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-claudea-sa-juz-warci-15-biliona-dolarow-anthropic-wchodzi/zf323c4",
-      "publishedAt": "2026-11-19T12:55+01:00",
-      "summary": "Anthropic wchodzi na giełdę przeprowadzając największą ofertę publiczną w historii, przebijając czerwcowy wynik SpaceX. Z nową wyceną korporacja trafia na 12. miejsce wśród najcenniejszych spółek świata.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532785180.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PS5 Pro vs. PS5 vs. Xbox Series X vs. Xbox Series S w GTA 6. Ostateczny werdykt SZOKUJE!",
-      "sourceUrl": "https://www.ppe.pl/news/433764/ps5-pro-vs-ps5-vs-xbox-series-x-vs-xbox-series-s-w-gta-6-ostateczny-werdykt-szokuje.html",
-      "publishedAt": "2026-11-19T12:49+01:00",
-      "summary": "Specjaliści z Digital Foundry spędzili z nowym hitem Rockstar Games, Grand Theft Auto 6, ponad sto godzin, żeby raz na zawsze sprawdzić, jak ten gigant radzi sobie na każdej ze współczesnych konsol.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/37f90a6542c3bcb7bae2/37f90a6542c3bcb7bae2.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Która konsola oferuje najlepszą grafikę w GTA 6? Definitywna odpowiedź w niezależnym teście",
-      "sourceUrl": "https://www.ppe.pl/news/433771/ktora-konsola-oferuje-najlepsza-grafike-w-gta-6-definitywna-odpowiedz-w-niezaleznym-tescie.html",
-      "publishedAt": "2026-11-19T12:47+01:00",
-      "summary": "W sieci pojawiło się w końcu nagranie porównujące grafikę w GTA 6 na PS5, PS5 Pro, XSX i XSS. Gracze posiadający wszystkie platformy mogą więc łatwiej podjąć decyzję, którą edycję GTA 6 wybrać.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7787e728576f0737537a/7787e728576f0737537a.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Fani GTA 6 otrzymali prezent od PlayStation. Nowe ikony Rockstara nie opuszczą graczy nawet po wyłączeniu gry",
-      "sourceUrl": "https://www.ppe.pl/news/433772/fani-gta-6-otrzymali-prezent-od-playstation-nowe-ikony-rockstara-nie-opuszcza-graczy-nawet-po-wylaczeniu-gry.html",
-      "publishedAt": "2026-11-19T12:33+01:00",
-      "summary": "Sony Interactive Entertainment i Rockstar Games kontynuują swoją współpracę i ich zjednoczenie nie ogranicza się jedynie do wzajemnej promocji w reklamach. Z okazji premiery długo wyczekiwanej gry użytkownicy PS5 otrzymali sympatyczny, darmowy p...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a133293bd6da40230dc6/a133293bd6da40230dc6.png"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 bije rekordy Twitcha. Gra Rockstara odnotowuje absurdalną oglądalność",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-bije-rekordy-twitcha-gra-rockstara-odnotowuje-absurdalna-ogladalnosc/",
-      "publishedAt": "2026-11-19T12:30+01:00",
-      "summary": "Cóż, to w końcu najbardziej wyczekiwana gra w historii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/GTA-6-1.jpg"
     }
   ],
   "indie": [
@@ -361,7 +361,7 @@
       "note": "Rockstar potwierdza premierę 19 listopada na PS5 i Xbox Series X|S. Akcja przenosi serię do fikcyjnego stanu Leonida.",
       "sourceUrl": "https://www.rockstargames.com/VI",
       "summary": "Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.",
-      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?K1OF2OByoQie0QQKb3wpE"
+      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?Wd-4dKD5enYTx23pnLlnT"
     },
     {
       "date": "2026-11-24",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "38a8dfa3d59e56353cc012362c2efec6034f11b4411ff154033667fe43febdf3"
+  "editorialHash": "765e6f55237e99fa9ff3e09fd33627077d88f5764d0853ed0e64e6c7cd898abd"
 }
