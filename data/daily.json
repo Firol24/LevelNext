@@ -1,17 +1,89 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T11:01+01:00",
+  "updatedAt": "2026-11-19T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "SkyShowtime zostanie zamknięte. Popularna w Polsce platforma streamingowa zakończy działalność w 2027 roku",
-    "summary": "SkyShowtime zniknie z rynku streamingowego. Właściciele platformy podjęli decyzję o zakończeniu jej działalności pod koniec 2027 roku. Ze stanowiska odchodzi również dotychczasowy dyrektor generalny serwisu.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/skyshowtime-zostanie-zamkniete-popularna-w-polsce-platforma-strea/zc323bb",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532777463.jpg"
+    "title": "Twórcy Claude'a są już warci 1,5 biliona dolarów. Anthropic wchodzi na giełdę mimo rosnących obaw o przyszłość AI",
+    "summary": "Anthropic wchodzi na giełdę przeprowadzając największą ofertę publiczną w historii, przebijając czerwcowy wynik SpaceX. Z nową wyceną korporacja trafia na 12. miejsce wśród najcenniejszych spółek świata.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-claudea-sa-juz-warci-15-biliona-dolarow-anthropic-wchodzi/zf323c4",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532785180.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy Claude'a są już warci 1,5 biliona dolarów. Anthropic wchodzi na giełdę mimo rosnących obaw o przyszłość AI",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-claudea-sa-juz-warci-15-biliona-dolarow-anthropic-wchodzi/zf323c4",
+      "publishedAt": "2026-11-19T12:55+01:00",
+      "summary": "Anthropic wchodzi na giełdę przeprowadzając największą ofertę publiczną w historii, przebijając czerwcowy wynik SpaceX. Z nową wyceną korporacja trafia na 12. miejsce wśród najcenniejszych spółek świata.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532785180.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Świt Delty ratuje strategię Ubisoftu, a nowa łatka usuwa najbardziej irytujące błędy w Anno 117",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/swit-delty-ratuje-strategie-ubisoftu-a-nowa-latka-usuwa-najbardzi/zb323c0",
+      "publishedAt": "2026-11-19T12:20+01:00",
+      "summary": "Anno 117 otrzymało jeszcze jedną dużą aktualizację po udanej premierze egipskiego DLC.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532782471.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Star Wars Battlefront 2 w końcu doczekał się trybu ze Star Wars Battlefront 2. Z tego lepszego i skupionego również na grze w singlu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/star-wars-battlefront-2-w-koncu-doczekal-sie-trybu-ze-star-wars-b/zc323c1",
+      "publishedAt": "2026-11-19T12:18+01:00",
+      "summary": "Pamiętacie strategiczny tryb dla pojedynczego gracza z pierwotnego Star Wars Battlefront 2? Właśnie trafił on do nowej wersji strzelanki z 2017 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532783099.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 nie otrzyma nawet 40 FPS na PS5 i XSX. Powód zdradzony przez Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/news/433746/gta-6-nie-otrzyma-nawet-40-fps-na-ps5-i-xsx-powod-zdradzony-przez-rockstar-games.html",
+      "publishedAt": "2026-11-19T11:55+01:00",
+      "summary": "Kwestia płynności w GTA 6 to temat, który od tygodni nie daje spokoju konsolowym graczom. Wielu z nich zdążyło się już jakoś pogodzić z faktem, że na PS5 oraz Xboksach Series X i S nie zobaczymy wymarzonych 60 klatek na sekundę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "80 minut rozgrywki z Total War: Warhammer 40K. Twórcy pokazują, jak będzie wyglądać kampania",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/80-minut-rozgrywki-z-total-war-warhammer-40k-tworcy-pokazuja-jak/z0323bf",
+      "publishedAt": "2026-11-19T11:55+01:00",
+      "summary": "Do sieci trafiła ponad godzina zapisu rozgrywki z Total War: Warhammer 40,000. Materiał pokazuje wiele aspektów nadciągającej strategii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532781725.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na czytniki Kindle w ramach Black Friday w Amazon PL. Ceny rozpoczynają się od 605,99 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-czytniki-kindle-w-ramach-black-friday-w-amazon-pl-ceny-rozpoczynaja-sie-od-60599-zl/",
+      "publishedAt": "2026-11-19T11:54+01:00",
+      "summary": "Również polski oddział Amazon przygotowuje się na szturm podczas Czarnego Piątku, więc kilka promocji jest dostępnych nieco wcześniej. Obniżek cen doczekały się wybrane modele Kindle, więc postanowiliśmy przygotować dla Was krótki wpis. Sześciocalowy, podstawowy czytnik e-book, kosztuje 605,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/amazon-kindle-colorsoft-1b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nie każdego przeraża premiera GTA 6. Battlefield 6 zaprasza na podbój Vice City",
+      "sourceUrl": "https://www.ppe.pl/news/433754/nie-kazdego-przeraza-premiera-gta-6-battlefield-6-zaprasza-na-podboj-vice-city.html",
+      "publishedAt": "2026-11-19T11:52+01:00",
+      "summary": "Debiut GTA 6 to wielkie wydarzenie nie tylko dla fanów serii, ale też całej branży. Dlatego gdy większość ekip stara się przeczekać moment premiery i wynikający z tego odpływ graczy, Electronic Arts jest firmą, która stara się utrzymać sw...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0541fcdaa6112f843f98/0541fcdaa6112f843f98.png"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "15 milionów postaci, prawie 1,5 miliarda zaliczonych questów i najbardziej zabójczy boss. WoW Forever imponuje liczbami",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/15-milionow-postaci-prawie-15-miliarda-zaliczonych-questow-i-najb/zf323be",
+      "publishedAt": "2026-11-19T11:49+01:00",
+      "summary": "Jak radzi sobie WoW Forever po dwóch tygodniach od premiery? Blizzard prezentuje pierwsze statystyki z MMORPG-a.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532781191.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "SkyShowtime zostanie zamknięte. Popularna w Polsce platforma streamingowa zakończy działalność w 2027 roku",
@@ -20,6 +92,33 @@
       "summary": "SkyShowtime zniknie z rynku streamingowego. Właściciele platformy podjęli decyzję o zakończeniu jej działalności pod koniec 2027 roku. Ze stanowiska odchodzi również dotychczasowy dyrektor generalny serwisu.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532777463.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tak w GTA 6 wyrywa się bankomaty ze ścian. Trzeba tylko pamiętać o jednym",
+      "sourceUrl": "https://www.ppe.pl/news/433760/tak-w-gta-6-wyrywa-sie-bankomaty-ze-scian-trzeba-tylko-pamietac-o-jednym.html",
+      "publishedAt": "2026-11-19T11:41+01:00",
+      "summary": "GTA 6 oferuje naprawdę sporo możliwości. Jeśli szukacie w Grand Theft Auto 6 szybkiego i naprawdę efektownego sposobu na podreperowanie budżetu, to wyrywanie bankomatów prosto ze ścian budynków jest jedną z najlepszych zabaw na mapie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d160238dadac7eab1bb8/d160238dadac7eab1bb8.png"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Siostry Wachowskie chcą odzyskać prawa do „Matrixa”. W tle konflikt z nowym właścicielem Warner Bros.",
+      "sourceUrl": "https://cdaction.pl/kultura/siostry-wachowskie-chca-odzyskac-prawa-do-matrixa-w-tle-konflikt-z-nowym-wlascicielem-warner-bros/",
+      "publishedAt": "2026-11-19T11:30+01:00",
+      "summary": "Zegar tyka do 2029 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/10/Matrix.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pady Xbox Series taniej w Amazon PL. Storm Breaker Edycja Specjalna za 215 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pady-xbox-series-taniej-w-amazon-pl-storm-breaker-edycja-specjalna-za-215-zl/",
+      "publishedAt": "2026-11-19T11:29+01:00",
+      "summary": "Specjalna edycja kontrolera bezprzewodowego Xbox Series – Storm Breaker, pojawiła się w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Pad w akcentach czerni i bieli, kosztuje aktualnie 214,88 zł. Dodatkowo, zakup uprawnia Was do otrzymania bonu na kwotę 50 zł do wykorzystania przy kolejnych zakupach, jeśli wasz koszyk przekroczy 250 zł. To jeden z wielu kolorów, które zostały teraz przecenione w Amazonie. Znajdziecie je w rozwinięciu tego wpisu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/storm-breaker-xbox-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +130,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532779570.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Cyberpunk 2077 w końcu z godnym rywalem. Nowa perełka nadchodzi",
+      "sourceUrl": "https://www.ppe.pl/news/433745/cyberpunk-2077-w-koncu-z-godnym-rywalem-nowa-perelka-nadchodzi.html",
+      "publishedAt": "2026-11-19T11:21+01:00",
+      "summary": "Od dobrych kilku lat Cyberpunk 2077 praktycznie nie ma na rynku żadnej poważnej konkurencji, jeśli chodzi o wielkie, futurystyczne gry z mrocznym klimatem. Wygląda jednak na to, że hit od CD Projekt RED może w końcu doczekać się godnego, a przy...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/454a49d9dd7957346423/454a49d9dd7957346423.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "„Kochamy graczy”. AMD chciało przypodobać się fanom, ale internauci brutalnie przypomnieli firmie jej prawdziwe priorytety",
       "sourceUrl": "https://www.gry-online.pl/newsroom/kochamy-graczy-amd-chcialo-przypodobac-sie-fanom-ale-internauci-b/zd323bc",
@@ -38,6 +146,15 @@
       "summary": "Japoński oddział AMD ogłosił, że firma „ponad wszystko” ceni sobie kontakt z graczami. Internauci szybko przypomnieli, że niedawno CEO Lisa Su stwierdziła coś innego, stawiając centra danych AI na pierwszym miejscu.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532779273.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Total War: Warhammer 40,000 na ponad godzinnej rozgrywce. Creative Assembly pokazało nowe fragmenty kampanii",
+      "sourceUrl": "https://cdaction.pl/newsy/total-war-warhammer-40000-na-ponad-godzinnej-rozgrywce-creative-assembly-pokazalo-nowe-fragmenty-kampanii/",
+      "publishedAt": "2026-11-19T11:00+01:00",
+      "summary": "Twórcy Total War: Warhammer 40,000 nie zwalniają tempa i prezentują kolejne fragmenty rozgrywki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-19-o-10.16.54-1260x662.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -164,123 +281,6 @@
       "summary": "Materiału starczy nawet na kilkanaście sezonów.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/ghoul-walton-goggins-fallout.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "HackNation 2026 wraca do Bydgoszczy! 350 tys. zł w puli nagród i doba na własny projekt",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433496/hacknation-2026-wraca-do-bydgoszczy-350-tys-zl-w-puli-nagrod-i-doba-na-wlasny-projekt.html",
-      "publishedAt": "2026-11-19T09:30+01:00",
-      "summary": "HackNation 2026 odbędzie się już 21 i 22 listopada w Bydgoszczy. Uczestnicy dostaną 24 godziny na opracowanie rozwiązań dla 15 wyzwań, a tegoroczna pula nagród wynosi 350 tys. zł. Osoby zainteresowane tworzeniem gier mogą tu sprawdzić w prakt...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/361cbdc7c80fa73f0d50/361cbdc7c80fa73f0d50.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 7 w GTA 6! Rockstar Games robi sobie żarty",
-      "sourceUrl": "https://www.ppe.pl/news/433740/gta-7-w-gta-6-rockstar-games-robi-sobie-zarty.html",
-      "publishedAt": "2026-11-19T09:26+01:00",
-      "summary": "Rockstar Games od zawsze słynęło ze świetnego poczucia humoru i dużego dystansu do samego siebie. W Grand Theft Auto 6 twórcy po raz kolejny udowadniają, że na bieżąco śledzą to, z czego śmieje się cały internet.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/1a826e8670b10976c568/1a826e8670b10976c568.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "W GTA 6 po raz pierwszy od ćwierćwiecza nie możemy wynająć prostytutki. Rockstar wyjaśnia swoją decyzję",
-      "sourceUrl": "https://cdaction.pl/newsy/w-gta-6-po-raz-pierwszy-od-cwiercwiecza-nie-mozemy-wynajac-prostytutki-rockstar-wyjasnia-swoja-decyzje/",
-      "publishedAt": "2026-11-19T09:13+01:00",
-      "summary": "Przykro mi, tym razem bez wizyty u urologa.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-7-1260x709.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Słuchawki bezprzewodowe Logitech G Pro X Lightspeed za 379 zł (70 zł taniej) w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/sluchawki-bezprzewodowe-logitech-g-pro-x-lightspeed-za-379-zl-70-zl-taniej-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-19T09:09+01:00",
-      "summary": "W Hicie Dnia, sklep RTV Euro AGD ma dziś dla Was Logitech G Pro X Lightspeed w niższej cenie. Kultowe już słuchawki bezprzewodowe z solidną metalową konstrukcją oraz mikrofonem korzystającym z technologii Blue VO!CE, mogą być wasze za 379 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/09/logitech-g-pro-x-wireless-1b-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Po ponad 25 latach Jim Carrey powraca do jednej ze swoich najbardziej kultowych ról, ale ma jeden warunek",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/po-ponad-25-latach-jim-carrey-powraca-do-jednej-ze-swoich-najbard/z0323b6",
-      "publishedAt": "2026-11-19T09:04+01:00",
-      "summary": "Jim Carrey chce powrócić do swojej kultowej roli, jednakże by mogło do tego dojść, zarówno aktor, jak i reżyser stawiają jeden warunek, który musi zostać spełniony. Inaczej filmu nie będzie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532771378.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nowa moda na hejtowanie GTA 6. Gracze nie potrafią cieszyć się z gier?",
-      "sourceUrl": "https://www.ppe.pl/news/433739/nowa-moda-na-hejtowanie-gta-6-gracze-nie-potrafia-cieszyc-sie-z-gier.html",
-      "publishedAt": "2026-11-19T09:02+01:00",
-      "summary": "Wygląda na to, że w internecie zapanowała właśnie jakaś dziwna, nowa moda na szukanie dziury w całym i hejtowanie Grand Theft Auto 6.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 bez „najbardziej kontrowersyjnego” systemu z serii. Gracze nie wierzą, że Rockstar to zrobiło",
-      "sourceUrl": "https://www.ppe.pl/news/433648/gta-6-bez-najbardziej-kontrowersyjnego-systemu-z-serii-gracze-nie-wierza-ze-rockstar-to-zrobilo.html",
-      "publishedAt": "2026-11-19T08:45+01:00",
-      "summary": "GTA 6 zachwyca ogromnym światem, szczegółowością i liczbą przygotowanych atrakcji, ale okazuje się, że Rockstar Games zdecydowało się również na kilka zaskakujących ograniczeń.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f5c5c30f90bb35f8a3ce/f5c5c30f90bb35f8a3ce.avif"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "2 gry do odebrania w Amazon Prime Gaming. RPG akcji dla fanów Wilkołaka: Apokalipsy i wysoko oceniana logiczna przygodówka",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-do-odebrania-w-amazon-prime-gaming-rpg-akcji-dla-fanow-wilk/zf323b5",
-      "publishedAt": "2026-11-19T08:38+01:00",
-      "summary": "Abonenci usługi Amazon Luna Standard (dawniej Amazon Prime Gaming) odbiorą dzisiaj dwie gry. Mowa o ciepło przyjętym CLeM i Werewolf: The Apocalypse - Earthblood.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532769918.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tani pendrive SanDisk Ultra do 400 MB/s, USB 3.2 i 128 GB - za 69 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/433688/tani-pendrive-sandisk-ultra-do-400-mb-s-usb-3-2-i-128-gb-za-69-zl.html",
-      "publishedAt": "2026-11-19T08:31+01:00",
-      "summary": "W polskim oddziale Amazon nabędziemy taniej pendrive'a firmy SanDisk.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d9d7fe6823d32ba83f1e/d9d7fe6823d32ba83f1e.avif"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wymarzony telewizor pod PS5. Sony BRAVIA OLED 65\" z 120 Hz od 5132 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/telewizory/433686/wymarzony-telewizor-pod-ps5-sony-bravia-oled-65-z-120-hz-od-5132-zl.html",
-      "publishedAt": "2026-11-19T08:25+01:00",
-      "summary": "W sklepie RTV Euro AGD skorzystamy ze świetnej okazji na telewizor firmy Sony.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f900a737994a91ffcdb2/f900a737994a91ffcdb2.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Dwa ciekawe laptopy z RTX 5070 i Win 11 oraz 165 Hz - od 5599 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/433684/dwa-ciekawe-laptopy-z-rtx-5070-i-win-11-oraz-165-hz-od-5599-zl.html",
-      "publishedAt": "2026-11-19T08:21+01:00",
-      "summary": "W sklepach Media Expert oraz X-Kom nabędziemy taniej dwa ciekawe laptopy gamingowe wyposażone w kartę graficzną RTX 5070.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/1599bfceeab8cce33bea/1599bfceeab8cce33bea.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "„Największy przegrany The Game Awards” doceniony. Crimson Desert z ważnym GOTY",
-      "sourceUrl": "https://www.ppe.pl/news/433698/najwiekszy-przegrany-the-game-awards-doceniony-crimson-desert-z-waznym-goty.html",
-      "publishedAt": "2026-11-19T08:20+01:00",
-      "summary": "Crimson Desert miało być jednym z najważniejszych kandydatów do tegorocznych nagród The Game Awards, ale rzeczywistość okazała się zupełnie inna. Produkcja Pearl Abyss została niemal całkowicie pominięta przez organizatorów wydarzenia, co ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e94756ee64d41c08ebaf/e94756ee64d41c08ebaf.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Masz już GTA 6 za 400 zł? Dopłać jeszcze odrobinę, a Rockstar odblokuje ci kolejne bonusy w grze",
-      "sourceUrl": "https://cdaction.pl/newsy/masz-juz-gta-6-za-400-zl-doplac-jeszcze-odrobine-a-rockstar-odblokuje-ci-kolejne-bonusy-w-grze/",
-      "publishedAt": "2026-11-19T08:09+01:00",
-      "summary": "Apetyt nie na żarty nienażarty.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta-6-8449.jpg"
     }
   ],
   "indie": [
