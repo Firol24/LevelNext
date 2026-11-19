@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T13:01+01:00",
+  "updatedAt": "2026-11-19T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Swoje uzależnienie od social mediów możecie pogłębiać w GTA 6. Gracze podziwiają realistyczny element w hicie Rockstara",
-    "summary": "Czy jest coś „lepszego” od doomscrollowania w prawdziwym życiu? Rockstar pozwoli wam marnować czas także we własnej grze.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/swoje-uzaleznienie-od-social-mediow-mozecie-poglebiac-w-gta-6-gra/z2323c7",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532788531.jpg"
+    "title": "MindsEye pogrążyło studio. NetEase chce odzyskać 37 mln funtów, a to nie koniec",
+    "summary": "Build A Rocket Boy, studio odpowiedzialne za MindsEye, znalazło się w poważnych tarapatach finansowych.",
+    "sourceUrl": "https://www.ppe.pl/news/433780/mindseye-pograzylo-studio-netease-chce-odzyskac-37-mln-funtow-a-to-nie-koniec.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/e247dea1358bb30fe195/e247dea1358bb30fe195.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "MindsEye pogrążyło studio. NetEase chce odzyskać 37 mln funtów, a to nie koniec",
+      "sourceUrl": "https://www.ppe.pl/news/433780/mindseye-pograzylo-studio-netease-chce-odzyskac-37-mln-funtow-a-to-nie-koniec.html",
+      "publishedAt": "2026-11-19T14:01+01:00",
+      "summary": "Build A Rocket Boy, studio odpowiedzialne za MindsEye, znalazło się w poważnych tarapatach finansowych.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e247dea1358bb30fe195/e247dea1358bb30fe195.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Swoje uzależnienie od social mediów możecie pogłębiać w GTA 6. Gracze podziwiają realistyczny element w hicie Rockstara",
@@ -22,6 +31,51 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532788531.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "GTA 6 osiąga 280 FPS na PS5 Pro? Jest pewien haczyk",
+      "sourceUrl": "https://www.ppe.pl/news/433781/gta-6-osiaga-280-fps-na-ps5-pro-jest-pewien-haczyk.html",
+      "publishedAt": "2026-11-19T13:45+01:00",
+      "summary": "Do sieci trafił materiał z GTA 6, który może robić wrażenie na fanach płynnej rozgrywki. Nagranie przedstawiające wersję z PlayStation 5 Pro zostało przetworzone tak, aby wyświetlać obraz w nawet 280 klatkach na sekundę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0f17ad8eae98a6ec0e84/0f17ad8eae98a6ec0e84.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gra zręcznościowa Perplexus Epic ze 125 przeszkodami za 56,29 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/gra-zrecznosciowa-perplexus-epic-ze-125-przeszkodami-za-5629-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-19T13:35+01:00",
+      "summary": "Trójwymiarowy labirynt zamknięty w przezroczystej sferze opracowany przez Spin Master, czyli Perplexus, pojawił się w polskim oddziale sklepu Amazon w niższej cenie. Wariant Epic, który będzie stanowił prawdziwe wyzwanie dzięki 125 przeszkodom, które będziecie musieli pokonać, kosztuje tylko 56,29 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/perplexus-epic-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Windows 7 otrzymuje drugie życie! RTX 50 i DirectX 12 działają na starym systemie",
+      "sourceUrl": "https://www.ppe.pl/news/433782/windows-7-otrzymuje-drugie-zycie-rtx-50-i-directx-12-dzialaja-na-starym-systemie.html",
+      "publishedAt": "2026-11-19T13:30+01:00",
+      "summary": "Windows 7 oficjalnie od dawna nie jest wspierany przez Microsoft, ale entuzjaści starszego systemu znaleźli sposób, aby uruchomić na nim współczesne karty graficzne.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/eb701b92a5a45bfbc25a/eb701b92a5a45bfbc25a.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "To koniec SkyShowtime! Znamy datę zamknięcia platformy",
+      "sourceUrl": "https://cdaction.pl/kultura/to-koniec-skyshowtime-znamy-date-zamkniecia-platformy/",
+      "publishedAt": "2026-11-19T13:15+01:00",
+      "summary": "Klamka zapadła.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/SkyShowtime-2.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony szykuje GRUDNIOWĄ BOMBĘ w PS Plus! Gracze dostaną prawdziwą perełkę",
+      "sourceUrl": "https://www.ppe.pl/news/433779/sony-szykuje-grudniowa-bombe-w-ps-plus-gracze-dostana-prawdziwa-perelke.html",
+      "publishedAt": "2026-11-19T13:13+01:00",
+      "summary": "Katalog klasyków PlayStation Plus Premium otrzyma w grudniu głośne wzmocnienie. Serwis PlayStation LifeStyle donosi o rychłym wdrożeniu oryginalnego Ratchet & Clank.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/96976eed717bc5eda703/96976eed717bc5eda703.webp"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "CD Projekt RED szuka eksperta od AI. Ma usprawniać pracę twórców Wiedźmina 4, a nie tworzyć grę za nich",
       "sourceUrl": "https://www.gry-online.pl/newsroom/cd-projekt-red-szuka-eksperta-od-ai-ma-usprawniac-prace-tworcow-w/z0323c5",
@@ -29,6 +83,15 @@
       "summary": "Mimo że CD Projekt Red nie chce zastępować pracy ludzi sztuczną inteligencją, to rozwija ten sektor. Twórcy serii Wiedźmin poszukują eksperta od AI.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532786101.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Covert Operations Stealth Bundle w Humble. Paczka 10 gier Steam i 7 DLC za 72,45 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/covert-operations-stealth-bundle-w-humble-paczka-10-gier-steam-i-7-dlc-za-7245-zl/",
+      "publishedAt": "2026-11-19T13:08+01:00",
+      "summary": "Lubicie skradanki? To polubicie się z paczką dostępną w Humble Store. Zawierający aż 10 kluczy Steam, a nawet 17, jeśli doliczymy do tego DLC zestaw Covert Operations: Stealth Bundle, jest dostępny w trzech progach, a jeśli chcecie zgarnąć całość, zapłacicie za niego około 72,45 zł. Co ciekawego tu znajdziecie? Intravenous 2, Styx: Master of Shadows oraz Shards of Darkness, dwie części Perfect Heist i Deceive Inc. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/covert-operations-stealth-bundle-miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -218,69 +281,6 @@
       "summary": "Zegar tyka do 2029 roku.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/10/Matrix.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pady Xbox Series taniej w Amazon PL. Storm Breaker Edycja Specjalna za 215 zł",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pady-xbox-series-taniej-w-amazon-pl-storm-breaker-edycja-specjalna-za-215-zl/",
-      "publishedAt": "2026-11-19T11:29+01:00",
-      "summary": "Specjalna edycja kontrolera bezprzewodowego Xbox Series – Storm Breaker, pojawiła się w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Pad w akcentach czerni i bieli, kosztuje aktualnie 214,88 zł. Dodatkowo, zakup uprawnia Was do otrzymania bonu na kwotę 50 zł do wykorzystania przy kolejnych zakupach, jeśli wasz koszyk przekroczy 250 zł. To jeden z wielu kolorów, które zostały teraz przecenione w Amazonie. Znajdziecie je w rozwinięciu tego wpisu. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/storm-breaker-xbox-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Która gra po GTA 6 dostanie 95/100 i więcej na Metacritic? Gracze wskazują Wiedźmina 4 i nowość od twórców The Last of Us",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ktora-gra-po-gta-6-dostanie-95100-i-wiecej-na-metacritic-gracze-w/ze323bd",
-      "publishedAt": "2026-11-19T11:22+01:00",
-      "summary": "Po premierze GTA 6 gracze zastanawiają się, jaka gra zdoła osiągnąć równie wysoką średnią ocen w Metacritic w przyszłości.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532779570.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Cyberpunk 2077 w końcu z godnym rywalem. Nowa perełka nadchodzi",
-      "sourceUrl": "https://www.ppe.pl/news/433745/cyberpunk-2077-w-koncu-z-godnym-rywalem-nowa-perelka-nadchodzi.html",
-      "publishedAt": "2026-11-19T11:21+01:00",
-      "summary": "Od dobrych kilku lat Cyberpunk 2077 praktycznie nie ma na rynku żadnej poważnej konkurencji, jeśli chodzi o wielkie, futurystyczne gry z mrocznym klimatem. Wygląda jednak na to, że hit od CD Projekt RED może w końcu doczekać się godnego, a przy...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/454a49d9dd7957346423/454a49d9dd7957346423.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Kochamy graczy”. AMD chciało przypodobać się fanom, ale internauci brutalnie przypomnieli firmie jej prawdziwe priorytety",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/kochamy-graczy-amd-chcialo-przypodobac-sie-fanom-ale-internauci-b/zd323bc",
-      "publishedAt": "2026-11-19T11:15+01:00",
-      "summary": "Japoński oddział AMD ogłosił, że firma „ponad wszystko” ceni sobie kontakt z graczami. Internauci szybko przypomnieli, że niedawno CEO Lisa Su stwierdziła coś innego, stawiając centra danych AI na pierwszym miejscu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532779273.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Total War: Warhammer 40,000 na ponad godzinnej rozgrywce. Creative Assembly pokazało nowe fragmenty kampanii",
-      "sourceUrl": "https://cdaction.pl/newsy/total-war-warhammer-40000-na-ponad-godzinnej-rozgrywce-creative-assembly-pokazalo-nowe-fragmenty-kampanii/",
-      "publishedAt": "2026-11-19T11:00+01:00",
-      "summary": "Twórcy Total War: Warhammer 40,000 nie zwalniają tempa i prezentują kolejne fragmenty rozgrywki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-19-o-10.16.54-1260x662.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Oszczędź na zakupach w Amazon PL! Sprawdź obowiązujące rabaty Black Friday przed zakupami",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/oszczedz-na-zakupach-w-amazon-pl-sprawdz-obowiazujace-rabaty-black-friday-przed-zakupami/",
-      "publishedAt": "2026-11-19T10:59+01:00",
-      "summary": "Zbliża się Czarny Piątek, który już w przyszłym tygodniu ruszy z pełną pompą. Polski oddział Amazon wystartował ze swoimi promocjami nieco wcześniej, a dodatkowo nałożyło się kilka akcji, dzięki którym naprawdę sporo możecie zaoszczędzić. Postanowiliśmy dla Was wszystko zebrać w jednym miejscu dla lepszej przejrzystości. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-2026-amazon-miniaurka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 bez 60 FPS na PC?! Technicy ostrzegają fanów Rockstar Games",
-      "sourceUrl": "https://www.ppe.pl/news/433742/gta-6-bez-60-fps-na-pc-technicy-ostrzegaja-fanow-rockstar-games.html",
-      "publishedAt": "2026-11-19T10:52+01:00",
-      "summary": "Hit Rockstara, GTA 6 właśnie wjechało na konsole i podczas gdy posiadacze PS5 oraz Xboksów bawią się w 30 klatkach na sekundę, gracze pecetowi już zacierają ręce na przyszłoroczną premierę. Wielu z nich po cichu śmieje się z konsolowych o...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/9cb833bad69fe7a418c4/9cb833bad69fe7a418c4.jpg"
     }
   ],
   "indie": [
