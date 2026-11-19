@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-19",
-  "updatedAt": "2026-11-19T21:01+01:00",
+  "updatedAt": "2026-11-19T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Nowy Fallout nie jest tym, czego oczekują fani postapokaliptycznej serii. Wielu graczy widzi w nim jednak dobry znak",
-    "summary": "Uniwersum Fallouta może doczekać się nietypowego spin-offu. W australijskiej bazie danych odnaleziono produkcję polegającą na poszukiwaniu kotów, które uciekły ze schronu.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-fallout-nie-jest-tym-czego-oczekuja-fani-postapokaliptycznej/z4323d8",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532815984.jpg"
+    "category": "PROMOCJE",
+    "title": "Posiadacze Amazon Prime mogą sporo zaoszczędzić na subskrypcji Apple TV oraz SkyShowtime. Promocja z okazji Black Friday 2026!",
+    "summary": "Łowcy, z okazji Black Friday 2026 posiadacze Amazon Prime mogą skorzystać ze specjalnych promocji na dodatkowe abonamenty w ramach Prime Video, a wybrane subskrypcje dostępne są do nawet 75% taniej! Na szczególne wyróżnienie zasługują tutaj takie pozycje jak Apple TV ( Pluribus , Severance, Ted Lasso ) za 16,99 zł / miesiąc, SkyShowtime ( Dexter: Resurrection , MobLand ) za 8,75 zł / miesiąc oraz Horror+ ( Hell Baby , V/H/S Halloween , When Evil Lurks ) za 1,99 zł / miesiąc. W dalszej części wpisu znajdziecie pełną listę subskrypcji w wyjątkowo niskich cenach! Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/subskrypcje/posiadacze-amazon-prime-moga-sporo-zaoszczedzic-na-subskrypcji-apple-tv-oraz-skyshowtime-promocja-z-okazji-black-friday-2026/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Posiadacze-Amazon-Prime-moga-sporo-zaoszczedzic-na-subskrypcji-Apple-TV-oraz-SkyShowtime.-Promocja-z-okazji-Black-Friday-2026_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Posiadacze Amazon Prime mogą sporo zaoszczędzić na subskrypcji Apple TV oraz SkyShowtime. Promocja z okazji Black Friday 2026!",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/posiadacze-amazon-prime-moga-sporo-zaoszczedzic-na-subskrypcji-apple-tv-oraz-skyshowtime-promocja-z-okazji-black-friday-2026/",
+      "publishedAt": "2026-11-19T21:54+01:00",
+      "summary": "Łowcy, z okazji Black Friday 2026 posiadacze Amazon Prime mogą skorzystać ze specjalnych promocji na dodatkowe abonamenty w ramach Prime Video, a wybrane subskrypcje dostępne są do nawet 75% taniej! Na szczególne wyróżnienie zasługują tutaj takie pozycje jak Apple TV ( Pluribus , Severance, Ted Lasso ) za 16,99 zł / miesiąc, SkyShowtime ( Dexter: Resurrection , MobLand ) za 8,75 zł / miesiąc oraz Horror+ ( Hell Baby , V/H/S Halloween , When Evil Lurks ) za 1,99 zł / miesiąc. W dalszej części wpisu znajdziecie pełną listę subskrypcji w wyjątkowo niskich cenach! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Posiadacze-Amazon-Prime-moga-sporo-zaoszczedzic-na-subskrypcji-Apple-TV-oraz-SkyShowtime.-Promocja-z-okazji-Black-Friday-2026_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Haker GTA 6 powrócił i opublikował pełną wersję gry. Wersja ma pomóc emulacji na PC i osiągnięcie ponad 30 FPS",
+      "sourceUrl": "https://www.ppe.pl/news/433855/haker-gta-6-powrocil-i-opublikowal-pelna-wersje-gry-wersja-ma-pomoc-emulacji-na-pc-i-osiagniecie-ponad-30-fps.html",
+      "publishedAt": "2026-11-19T21:43+01:00",
+      "summary": "GTA 6 dopiero trafiło na rynek, a Rockstar Games już musi mierzyć się z kolejnym poważnym problemem. Cyberleek, który od miesięcy publikowała materiały z wyczekiwanej produkcji, powrócił. Hakerzy rozpoczął udostępnianie pełnej wersji Gran...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0f17ad8eae98a6ec0e84/0f17ad8eae98a6ec0e84.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Co oglądać w weekend - Netflixa, HBO MAX, Disney+, Amazon Prime, SkyShowtime, kina",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433485/co-ogladac-w-weekend-netflixa-hbo-max-disney-amazon-prime-skyshowtime-kina.html",
+      "publishedAt": "2026-11-19T21:30+01:00",
+      "summary": "Kolejny interesujący polski serial trafia do oferty, tym razem Netflixa. Na Amazon Prime pojawi się z kolei interesujący obraz sportowy, w którym w głównego bohatera wcielił się Nicolas Cage. W kinach z kolei będzie można zobaczyć zarówno ko...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/650f8e773924939fae99/650f8e773924939fae99.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Nowy Fallout nie jest tym, czego oczekują fani postapokaliptycznej serii. Wielu graczy widzi w nim jednak dobry znak",
@@ -20,6 +47,33 @@
       "summary": "Uniwersum Fallouta może doczekać się nietypowego spin-offu. W australijskiej bazie danych odnaleziono produkcję polegającą na poszukiwaniu kotów, które uciekły ze schronu.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532815984.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z ABSURDALNYM wynikiem jeszcze przed premierą! Hit Rockstar już pobił Odyseję Nolana?",
+      "sourceUrl": "https://www.ppe.pl/news/433839/gta-6-z-absurdalnym-wynikiem-jeszcze-przed-premiera-hit-rockstar-juz-pobil-odyseje-nolana.html",
+      "publishedAt": "2026-11-19T21:18+01:00",
+      "summary": "GTA 6 dopiero trafiło na rynek, a Rockstar Games może już mówić o historycznym sukcesie. Najnowsza odsłona Grand Theft Auto od miesięcy biła rekordy zainteresowania, ale teraz poznaliśmy pierwsze szacunki dotyczące sprzedaży.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/55dcb166179bae77024e/55dcb166179bae77024e.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Uwaga na najnowsze sterowniki do GeForce‘a. Zjadają żywotność dysków SSD",
+      "sourceUrl": "https://cdaction.pl/newsy/uwaga-na-najnowsze-sterowniki-do-geforcea-zjadaja-zywotnosc-dyskow-ssd/",
+      "publishedAt": "2026-11-19T21:08+01:00",
+      "summary": "Czy próbował pan wyłączyć komputer?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/geforce1.jpeg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż EA na Steam z okazji Black Friday 2026. Dead Space Remake za jedyne 26,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-ea-na-steam-z-okazji-black-friday-2026-dead-space-remake-za-jedyne-2699-zl/",
+      "publishedAt": "2026-11-19T21:06+01:00",
+      "summary": "Łowcy, amerykański gigant dołączył do do szaleństwa związanego z Czarnym Piątkiem. Z tej okazji na platformie Steam wystartowała wyprzedaż Electronic Arts Black Friday Sale 2026, w ramach której wybrane produkcje z katalogu wydawniczego EA zakupicie z rabatami sięgającymi -90%. Na szczególne wyróżnienie zasługuje tutaj gra Dead Space Remake w historycznie najniższej cenie. Odświeżona odsłona kultowej serii survival-horrorów dostępna jest w wersji na PC za 26,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/06/Oferta-Weekendowa-na-Steam.-Rekordowo-niska-cena-Dead-Space-Remake-w-sklepie-Valve_miniaturka1-scaled-e1795118929316-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -227,60 +281,6 @@
       "summary": "Platforma Prime Video oficjalnie zapowiedziała specjalną, świąteczną odsłonę swojego programu komediowego.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/e1cb3ee3d699d07a5b90/e1cb3ee3d699d07a5b90.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Hot Wheels Mattel Lamborghini Miura (1523 el.) za 379 zł + kod 50 PLN na zakupy w Amazon PL!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/hot-wheels-mattel-lamborghini-miura-1523-el-za-379-zl-kod-50-pln-na-zakupy-w-amazon-pl/",
-      "publishedAt": "2026-11-19T17:40+01:00",
-      "summary": "W polskim oddziale sklepu Amazon pojawiła się bardzo dobra promocja na klocki Hot Wheels. W ramach okazji, najnowszy aktualnie wariant z serii Mattel Brick Shop Premium Series dostępny jest za 379,97 zł. Model Lamborghini Miura P400 SV w skali 1:12, składający się z imponującej liczby 1523 elementów, zawiera kultowy samochód włoskiej marki z unikalnymi elementami, metalowy resorak (1:64) z gablotką oraz breloczek. W ramach zamówienia otrzymacie także 50 PLN do wykorzystania na zakupy w okresie od 1 lutego do 31 marca 2027 roku! Kod rabatowy zostanie dostarczony na Wasz adres e-mail dopiero w momencie wysłania zamówienia. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-Hot-Wheels-Mattel-Lamborghini-Miura-P400-SV-1523-el.-za-419-zl-na-Allegro_obrazek_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Sony jest wprost załamane. Kolejna gra ekskluzywna otrzymała port na PC z mnóstwem usprawnień",
-      "sourceUrl": "https://www.ppe.pl/news/433812/sony-jest-wprost-zalamane-kolejna-gra-ekskluzywna-otrzymala-port-na-pc-z-mnostwem-usprawnien.html",
-      "publishedAt": "2026-11-19T17:23+01:00",
-      "summary": "Gracze, jak i fani klasycznych wyścigów mogą mieć powód do radości. Gran Turismo 3: A-Spec doczekało się nieoficjalnego portu na PC, który nie wymaga uruchamiania gry przez emulator PlayStation 2.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/413b019b862efe892d9e/413b019b862efe892d9e.png"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Odbierz Mark of the Deep za darmo na PC. Sklep Epic Games rezygnuje z gry Obcy: Izolacja!",
-      "sourceUrl": "https://lowcygier.pl/darmowe/odbierz-mark-of-the-deep-za-darmo-na-pc-sklep-epic-games-rezygnuje-z-gry-obcy-izolacja/",
-      "publishedAt": "2026-11-19T17:19+01:00",
-      "summary": "Łowcy, według zapowiedzi jaka pojawiła się tydzień temu na oficjalnej stronie Epic Games Store, dziś do swoich bibliotek powinniście dodawać grę Obcy: Izolacja za darmo. Niestety, ekipa Tima Sweeneya postanowiła zmienić wspomniane plany i zrezygnowała z dzieła studia Creative Assembl. Zamiast jednaj z najlepszych produkcji z uniwersum Alien, do Waszej dyspozycji oddano grę Mark of the Deep. Pozycja stworzona przez niezależne studio Mad Mimic będzie dostępna zupełnie bezpłatnie do 26 listopada 2026 roku. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odbierz-Mark-of-the-Deep-za-darmo-na-PC.-Sklep-Epic-Games-rezygnuje-z-gry-Obyc_-Izolacja_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Kolejna gra za darmo w Epic Games Storze do odebrania! Piracka metroidvania już na was czeka",
-      "sourceUrl": "https://cdaction.pl/newsy/kolejna-gra-za-darmo-w-epic-games-storze-do-odebrania-piracka-metroidvania-juz-na-was-czeka/",
-      "publishedAt": "2026-11-19T17:00+01:00",
-      "summary": "Gotowi wyruszyć na przeklęte wyspy?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/09/epic-games-2-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Final Fantasy XIII wyciska ekstremalną wydajność ze starego laptopa! Ponad 150 FPS na słabej karcie graficznej",
-      "sourceUrl": "https://www.ppe.pl/news/433804/final-fantasy-xiii-wyciska-ekstremalna-wydajnosc-ze-starego-laptopa-ponad-150-fps-na-slabej-karcie-graficznej.html",
-      "publishedAt": "2026-11-19T16:45+01:00",
-      "summary": "Wczesne porty japońskich gier z ery PlayStation 3 oraz Xboxa 360 na PC cierpią na poważne braki optymalizacyjne. Problem ten dotyka bezpośrednio trylogii Final Fantasy XIII od Square Enix.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/3502dbf5ab18dc132c1f/3502dbf5ab18dc132c1f.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Crimson Desert z pilną aktualizacją! Twórcy naprawili sporo błędów",
-      "sourceUrl": "https://www.ppe.pl/news/433807/crimson-desert-z-pilna-aktualizacja-tworcy-naprawili-sporo-bledow.html",
-      "publishedAt": "2026-11-19T16:30+01:00",
-      "summary": "Pearl Abyss udostępniło kolejną aktualizację do Crimson Desert Enhanced.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/42c95bf66c07ac9dfc85/42c95bf66c07ac9dfc85.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "d8021a22512580beaaf662b8174a97e556bf8b8eaa7a2a7ce6bca297b96326cc"
+  "editorialHash": "cd49f9652a355003594570b7cddbe0d9c2cc331011b08021ed6e4d8380b3a9f1"
 }
