@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T22:01+01:00",
+  "updatedAt": "2026-11-20T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 wygląda gorzej, niż powinno! Ekspert odkrył błąd na PS5 i Xboksach. Jak poprawić grafikę?",
-    "summary": "GTA 6 zachwyca oprawą graficzną, ale okazuje się, że nawet Rockstar Games nie uniknęło pewnych technicznych niedociągnięć. Najnowsza produkcja studia oferuje niezwykle szczegółowy świat, imponujące oświetlenie i świetnie wyglądające kra...",
-    "sourceUrl": "https://www.ppe.pl/news/433942/gta-6-wyglada-gorzej-niz-powinno-ekspert-odkryl-blad-na-ps5-i-xboksach-jak-poprawic-grafike.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/87966a54a27e103c1474/87966a54a27e103c1474.webp"
+    "title": "GTA 6 rozbiło bank, Rockstar podał liczby. To największa premiera w historii całej branży rozrywkowej",
+    "summary": "Rockstar Games podało pierwsze informacje o sprzedaży GTA 6. Liczy dosłownie zwalają z nóg, potwierdzając, ze mamy do czynienia z największą premierą w historii branży rozrywkowej.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-rozbilo-bank-rockstar-podal-liczby-to-najwieksza-premiera-w/zc32403",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532909459.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 rozbiło bank, Rockstar podał liczby. To największa premiera w historii całej branży rozrywkowej",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-rozbilo-bank-rockstar-podal-liczby-to-najwieksza-premiera-w/zc32403",
+      "publishedAt": "2026-11-20T23:24+01:00",
+      "summary": "Rockstar Games podało pierwsze informacje o sprzedaży GTA 6. Liczy dosłownie zwalają z nóg, potwierdzając, ze mamy do czynienia z największą premierą w historii branży rozrywkowej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532909459.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "LEGENDA w GTA 6! Twórcy przenieśli do gry wyjątkowy samochód. Ostrzegamy przed spoilerem",
+      "sourceUrl": "https://www.ppe.pl/news/433962/legenda-w-gta-6-tworcy-przeniesli-do-gry-wyjatkowy-samochod-ostrzegamy-przed-spoilerem.html",
+      "publishedAt": "2026-11-20T22:36+01:00",
+      "summary": "GTA 6 jest wręcz przeładowane smaczkami, które gracze odkrywają teraz z ogromną przyjemnością. Rockstar Games przygotowało gigantyczny świat pełen niespodzianek, a niektóre z nich są prawdziwą gratką dla fanów popkultury. Tym razem podcza...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e31d3bf23c0e6e1c83b2/e31d3bf23c0e6e1c83b2.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Take-Two chwali się wynikami GTA 6. Ogromne zyski z samej przedsprzedaży, a to dopiero początek",
+      "sourceUrl": "https://cdaction.pl/newsy/take-two-chwali-sie-wynikami-gta-6-ogromne-zyski-z-samej-przedsprzedazy-a-to-dopiero-poczatek/",
+      "publishedAt": "2026-11-20T22:05+01:00",
+      "summary": "Potęga naiwności, cyniczna manipulacja lub fanatyczna wiara w obietnice – każda droga, którą prowadzi nas Rockstar, wiedzie do ogromnego sukcesu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta-6-8450.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 wygląda gorzej, niż powinno! Ekspert odkrył błąd na PS5 i Xboksach. Jak poprawić grafikę?",
@@ -254,33 +281,6 @@
       "summary": "Były prezes Take-Two, Ben Feder, nazwał Grand Theft Auto 6 ostatnim wysokobudżetowym hitem ery sprzed sztucznej inteligencji.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/ca2aef6b7c783954a10b/ca2aef6b7c783954a10b.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Konsola PlayStation 5 Slim z napędem za 2599 zł na Allegro. Start promocji Black Weeks o 19:00!",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-playstation-5-slim-z-napedem-za-2599-zl-na-allegro-start-promocji-black-weeks-o-1900/",
-      "publishedAt": "2026-11-20T18:12+01:00",
-      "summary": "Łowcy, bezpośrednio w Oficjalnym Sklepie Allegro, z okazji wyprzedaży Black Weeks, pojawiła się specjalna promocja na PlayStation 5 Slim. W ramach oferty standardowe wydanie konsoli z napędem optycznym oraz kontrolerem DualSense może być Wasze za 2599 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2849 zł. Obie okazje rozpoczną się punktualnie o 19:00! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/03/playstation-5-slim-d-chassis-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ponad 20 gier w lepszych cenach",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/433940/ponad-20-gier-w-lepszych-cenach.html",
-      "publishedAt": "2026-11-20T18:03+01:00",
-      "summary": "Media Expert postanowił odpalić nową okazję w ramach weekendów poprzedzających Black Weeks.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c381b6c3377e31cc2f91/c381b6c3377e31cc2f91.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "World of Warcraft: Forever bije kolejne rekordy. Co za wynik!",
-      "sourceUrl": "https://www.ppe.pl/news/433923/world-of-warcraft-forever-bije-kolejne-rekordy-co-za-wynik.html",
-      "publishedAt": "2026-11-20T18:01+01:00",
-      "summary": "„World of Warcraft: Forever” przyciąga rekordową liczbę graczy. Nowa odsłona popularnego MMORPG Blizzarda wyraźnie ożywiła produkcję, która zadebiutowała w 2004 roku. Po tytuł sięgają zarówno wieloletni fani serii, jak i nowi użytkown...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/27cd60b758b98c113faf/27cd60b758b98c113faf.avif"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "96ef094621a67bb97f21207f8eef644389805fe20e40fa23ea87a3be7f79e26a"
+  "editorialHash": "2b3559829572d938b159775692a8ded1a410d44f291763cf4cd91d3622775907"
 }
