@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T18:01+01:00",
+  "updatedAt": "2026-11-20T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 to ostatni promień słońca przed nastaniem zupełnie nowej epoki w tworzeniu gier. Rewolucja jest nieunikniona",
-    "summary": "GTA 6 może przejść do historii nie tylko jako jedna z najważniejszych premier, ale również jako symbol końca pewnej epoki.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-to-ostatni-promien-slonca-przed-nastaniem-zupelnie-nowej-ep/z3323fe",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532891802.jpg"
+    "title": "To, co robią gracze WoW Forever, nie podoba się Blizzardowi. Pora z tym skończyć i przestać chodzić na łatwiznę",
+    "summary": "Blizzard zamierza zerwać z jedną z najpopularniejszych praktyk graczy World of Warcraft: Forever. Deweloperzy chcą, by zdobywanie ekwipunku stało się bardziej nieprzewidywalne, a najlepsze przedmioty nie zawsze były oczywistym wyborem.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/to-co-robia-gracze-wow-forever-nie-podoba-sie-blizzardowi-pora-z/z4323ff",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532896521.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "To, co robią gracze WoW Forever, nie podoba się Blizzardowi. Pora z tym skończyć i przestać chodzić na łatwiznę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/to-co-robia-gracze-wow-forever-nie-podoba-sie-blizzardowi-pora-z/z4323ff",
+      "publishedAt": "2026-11-20T19:49+01:00",
+      "summary": "Blizzard zamierza zerwać z jedną z najpopularniejszych praktyk graczy World of Warcraft: Forever. Deweloperzy chcą, by zdobywanie ekwipunku stało się bardziej nieprzewidywalne, a najlepsze przedmioty nie zawsze były oczywistym wyborem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532896521.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 czerpie inspiracje z kultowych filmów. Bonnie i Clyde to początek imponującej listy!",
+      "sourceUrl": "https://www.ppe.pl/news/433934/gta-6-czerpie-inspiracje-z-kultowych-filmow-bonnie-i-clyde-to-poczatek-imponujacej-listy.html",
+      "publishedAt": "2026-11-20T18:46+01:00",
+      "summary": "Twórcy „Grand Theft Auto 6” ujawnili filmowe inspiracje, które pomogły im stworzyć postacie Jasona i Lucii oraz ich relację. Jak zdradził Rupert Humphries, starszy wiceprezes Rockstar Games ds. narracji, zespół przyglądał się przede wszys...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/bbd2c313bf2a3bc14a76/bbd2c313bf2a3bc14a76.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 to ostatni promień słońca przed nastaniem zupełnie nowej epoki w tworzeniu gier. Rewolucja jest nieunikniona",
@@ -20,6 +38,51 @@
       "summary": "GTA 6 może przejść do historii nie tylko jako jedna z najważniejszych premier, ale również jako symbol końca pewnej epoki.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532891802.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Assassin’s Creed Jade wciąż powstaje. Ubisoft ma konkretny plan",
+      "sourceUrl": "https://www.ppe.pl/news/433937/assassin-s-creed-jade-wciaz-powstaje-ubisoft-ma-konkretny-plan.html",
+      "publishedAt": "2026-11-20T18:30+01:00",
+      "summary": "Ubisoft potwierdził, że „Assassin’s Creed Jade” nadal znajduje się w produkcji. Na nowe informacje o mobilnej odsłonie serii trzeba było czekać dość długo, ale podczas rozmowy z inwestorami poświęconej wynikom finansowym firmy głos w s...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/71c2325f5e261198d0fa/71c2325f5e261198d0fa.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "John Romero nie demonizuje AI. „Każdy dzieciak może stworzyć swoją grę i to jest wspaniałe”",
+      "sourceUrl": "https://cdaction.pl/newsy/john-romero-nie-demonizuje-ai-kazdy-dzieciak-moze-stworzyc-swoja-gre-i-to-jest-wspaniale/",
+      "publishedAt": "2026-11-20T18:15+01:00",
+      "summary": "Developer ma też radę dla niezależnych twórców.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/12/john-romero-9943.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 będzie ostatnim takim hitem? Były szef Take-Two zapowiada koniec przez rozwój AI",
+      "sourceUrl": "https://www.ppe.pl/news/433920/gta-6-bedzie-ostatnim-takim-hitem-byly-szef-take-two-zapowiada-koniec-przez-rozwoj-ai.html",
+      "publishedAt": "2026-11-20T18:15+01:00",
+      "summary": "Były prezes Take-Two, Ben Feder, nazwał Grand Theft Auto 6 ostatnim wysokobudżetowym hitem ery sprzed sztucznej inteligencji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ca2aef6b7c783954a10b/ca2aef6b7c783954a10b.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola PlayStation 5 Slim z napędem za 2599 zł na Allegro. Start promocji Black Weeks o 19:00!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-playstation-5-slim-z-napedem-za-2599-zl-na-allegro-start-promocji-black-weeks-o-1900/",
+      "publishedAt": "2026-11-20T18:12+01:00",
+      "summary": "Łowcy, bezpośrednio w Oficjalnym Sklepie Allegro, z okazji wyprzedaży Black Weeks, pojawiła się specjalna promocja na PlayStation 5 Slim. W ramach oferty standardowe wydanie konsoli z napędem optycznym oraz kontrolerem DualSense może być Wasze za 2599 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2849 zł. Obie okazje rozpoczną się punktualnie o 19:00! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/03/playstation-5-slim-d-chassis-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ponad 20 gier w lepszych cenach",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/433940/ponad-20-gier-w-lepszych-cenach.html",
+      "publishedAt": "2026-11-20T18:03+01:00",
+      "summary": "Media Expert postanowił odpalić nową okazję w ramach weekendów poprzedzających Black Weeks.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c381b6c3377e31cc2f91/c381b6c3377e31cc2f91.jpg"
     },
     {
       "sourceName": "PPE",
@@ -218,69 +281,6 @@
       "summary": "Wśród promocji na Black Friday 2026 pojawiła się również ciekawa oferta na subskrypcję GeForce NOW. Możecie bowiem skorzystać z 30% zniżki na przy zakupie 6 miesięcy dostępu. Wariant Ultimate, z którym otrzymacie granie w nawet 360 FPS, rozdzielczości do 5K i 8-godzinne sesje gry bez reklam, kosztuje 377,30 zł. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/04/6-miesiecy-GeForce-NOW-Priority-za-14940-zl-zamiast-249-zl_minaturka-scaled.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Epic Games rozdaje kolejną grę za darmo! To jedna z najlepszych ofert ostatnich miesięcy",
-      "sourceUrl": "https://www.ppe.pl/news/433911/epic-games-rozdaje-kolejna-gre-za-darmo-to-jedna-z-najlepszych-ofert-ostatnich-miesiecy.html",
-      "publishedAt": "2026-11-20T15:10+01:00",
-      "summary": "Epic Games Store udostępnił kolejną darmową grę dla użytkowników PC.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/42d021084475ff02c4e2/42d021084475ff02c4e2.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Obie części KOTOR-a otrzymały moda zmieniającego walkę nie do poznania. Ambitny projekt zmienia całe systemy gry",
-      "sourceUrl": "https://cdaction.pl/newsy/obie-czesci-kotor-a-otrzymaly-moda-zmieniajacego-walke-nie-do-poznania-ambitny-projekt-zmienia-cale-systemy-gry/",
-      "publishedAt": "2026-11-20T15:00+01:00",
-      "summary": "Choć wciąż nie jest w pełni ukończony.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/Star-Wars-Knights-of-the-Old-Republic-1-1260x653.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 na PC jeszcze nie ma, więc pecetowcy wracają do starszych odsłon. Prawie 88 000 osób w GTA 5 jednocześnie na Steamie",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-na-pc-jeszcze-nie-ma-wiec-pecetowcy-wracaja-do-starszych-od/z3323f5",
-      "publishedAt": "2026-11-20T14:58+01:00",
-      "summary": "Na oficjalną wersję PC GTA 6 jeszcze sporo poczekamy. Wielu graczy pecetowych postanowiło więc na razie powrócić do dwóch wcześniejszych odsłon serii.LEAD: Na oficjalną wersję PC GTA 6 jeszcze sporo poczekamy. Wielu graczy pecetowych postanowiło więc na razie powrócić do dwóch wcześniejszych odsłon serii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532879102.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 zarobiło MILIARDY DOLARÓW! Xbox pozostaje daleko za PlayStation",
-      "sourceUrl": "https://www.ppe.pl/news/433910/gta-6-zarobilo-miliardy-dolarow-xbox-pozostaje-daleko-za-playstation.html",
-      "publishedAt": "2026-11-20T14:51+01:00",
-      "summary": "Według szacunków firmy analitycznej Sensor Tower Grand Theft Auto VI sprzedało się w nakładzie 24,58 miliona kopii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6aa202ef402e53f281e8/6aa202ef402e53f281e8.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Rzadki widok: nowe DLC Paradoxu chwalone za cenę, a HoI4 dostaje drzewka dla Rumunii",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/rzadki-widok-nowe-dlc-paradoxu-chwalone-za-cene-a-hoi4-dostaje-dr/z1323f3",
-      "publishedAt": "2026-11-20T14:42+01:00",
-      "summary": "Hearts of Iron 4: To The Bitter End na razie zbiera pochwały, i to także za cenę (choć nie od wszystkich).",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532877920.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Netflix potwierdza opóźnienie Wiedźmina. Na ostatni sezon jeszcze poczekamy",
-      "sourceUrl": "https://www.ppe.pl/news/433909/netflix-potwierdza-opoznienie-wiedzmina-na-ostatni-sezon-jeszcze-poczekamy.html",
-      "publishedAt": "2026-11-20T14:36+01:00",
-      "summary": "Fani „Wiedźmina” muszą uzbroić się w cierpliwość. Netflix potwierdził, że finałowy, piąty sezon serialu nie pojawi się wcześniej niż w 2027 roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/788793e58ee157cfc2f8/788793e58ee157cfc2f8.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Premiera Gothic 3 Classic na PS5 i Xbox Series już w przyszłym tygodniu. Gdzie kupić pudełkowe wydanie gry najtaniej?",
-      "sourceUrl": "https://lowcygier.pl/preordery/premiera-gothic-3-classic-na-ps5-i-xbox-series-juz-w-przyszlym-tygodniu-gdzie-kupic-pudelkowe-wydanie-gry-najtaniej/",
-      "publishedAt": "2026-11-20T14:24+01:00",
-      "summary": "Bezimienny nie obawia się GTA VI. Premiera Gothic 3 Classic odbędzie się już 24 listopada. Na początku w ostatnią odsłonę przygód charyzmatycznego bohatera zagrają posiadacze konsol PlayStation 5 oraz Xbox Series. Wydanie wersji na Nintendo Switch 2 zostało bowiem przeniesione na przyszły rok. Przygotowaliśmy dla Was wpis, z którego dowiecie się, co zaoferuje odświeżony RPG i gdzie kupicie go najtaniej. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gothic-3-Classic-premiera-logo-224x224.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "96ef094621a67bb97f21207f8eef644389805fe20e40fa23ea87a3be7f79e26a"
+  "editorialHash": "2b3559829572d938b159775692a8ded1a410d44f291763cf4cd91d3622775907"
 }
