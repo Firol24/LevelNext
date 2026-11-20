@@ -1,17 +1,125 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T15:01+01:00",
+  "updatedAt": "2026-11-20T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 na PC jeszcze nie ma, więc pecetowcy wracają do starszych odsłon. Prawie 88 000 osób w GTA 5 jednocześnie na Steamie",
-    "summary": "Na oficjalną wersję PC GTA 6 jeszcze sporo poczekamy. Wielu graczy pecetowych postanowiło więc na razie powrócić do dwóch wcześniejszych odsłon serii.LEAD: Na oficjalną wersję PC GTA 6 jeszcze sporo poczekamy. Wielu graczy pecetowych postanowiło więc na razie powrócić do dwóch wcześniejszych odsłon serii.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-na-pc-jeszcze-nie-ma-wiec-pecetowcy-wracaja-do-starszych-od/z3323f5",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532879102.jpg"
+    "title": "Krzysztof Gonciarz zachwycał się GTA 4, Hed dał GTA 5 ocenę 10/10, a dziś czytam kłótnie o GTA 6 i zastanawiam się, kiedy internet stał się taki zgorzkniały",
+    "summary": "GTA 6, największa premiera growa dekady, miało połączyć miliony graczy we wspólnym zachwycie. Zamiast tego internet przypomniał mi, dlaczego tak bardzo tęsknię za czasami, gdy na premierę GTA 4 dyskutowaliśmy głównie o tym, czy kupić konsolę.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/krzysztof-gonciarz-zachwycal-sie-gta-4-hed-dal-gta-5-ocene-1010-a/zf323fa",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532884509.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Krzysztof Gonciarz zachwycał się GTA 4, Hed dał GTA 5 ocenę 10/10, a dziś czytam kłótnie o GTA 6 i zastanawiam się, kiedy internet stał się taki zgorzkniały",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/krzysztof-gonciarz-zachwycal-sie-gta-4-hed-dal-gta-5-ocene-1010-a/zf323fa",
+      "publishedAt": "2026-11-20T16:42+01:00",
+      "summary": "GTA 6, największa premiera growa dekady, miało połączyć miliony graczy we wspólnym zachwycie. Zamiast tego internet przypomniał mi, dlaczego tak bardzo tęsknię za czasami, gdy na premierę GTA 4 dyskutowaliśmy głównie o tym, czy kupić konsolę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532884509.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "CD Projekt Red chciał dogodzić graczom Cyberpunka 2077, a teraz ma problem i musi przepraszać. Nie tego się spodziewano",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/cd-projekt-red-chcial-dogodzic-graczom-cyberpunka-2077-a-teraz-ma/z1323fc",
+      "publishedAt": "2026-11-20T16:40+01:00",
+      "summary": "Wprowadzenie funkcji międzyplatformowych modów do Cyberpunka 2077 okazało się popularniejsze, niż pierwotnie przewidywało studio CD Projekt Red.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532885067.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Mocniejsi bossowie i ekstremalny tryb trudności. Baldur’s Gate 3 dostało nowe mody na konsolach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mocniejsi-bossowie-i-ekstremalny-tryb-trudnosci-baldurs-gate-3-do/z7323f9",
+      "publishedAt": "2026-11-20T16:03+01:00",
+      "summary": "Scena moderska Baldur’s Gate 3 kwitnie także na konsolach. Właśnie udostępniono kilkanaście nowych projektów, w tym dwa dla weteranów szukających bardziej trudnych wyzwań.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532882994.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Radykalny krok Microsoftu: Copilot staje się „nowym systemem operacyjnym” i zamienia programy Word, Excel i inne w wtyczki",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/radykalny-krok-microsoftu-copilot-staje-sie-nowym-systemem-operac/z5323f7",
+      "publishedAt": "2026-11-20T16:00+01:00",
+      "summary": "Copilot staje się centrum zarządzania aplikacjami Office. To z poziomu asystenta AI będzie można uruchamiać Worda, Excela lub PowerPointa. Nowe funkcje będą dostępne dla wybranej grupy użytkowników.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532881111.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Black Myth Wukong na PS5 za 259,99 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-black-myth-wukong-na-ps5-za-25999-zl-na-allegro/",
+      "publishedAt": "2026-11-20T15:56+01:00",
+      "summary": "Jeden z hitów 2024 roku w pudełkowym wydaniu, czyli Black Myth Wukong, jest możliwy do kupienia taniej poprzez serwis Allegro. Produkcja, za której stworzeniem stoi chińskie Game Science, kosztuje obecnie 259,99 zł, w wersji na konsole Sony PlayStation 5. Trzeba przyznać, że historia Małpiego Króla naprawdę solidnie trzyma cenę. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/10/black-myth-wukong-ps5-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 bez nagiej Lucii? Teraz wszystko stało się jasne",
+      "sourceUrl": "https://www.ppe.pl/news/433916/gta-6-bez-nagiej-lucii-teraz-wszystko-stalo-sie-jasne.html",
+      "publishedAt": "2026-11-20T15:43+01:00",
+      "summary": "W październiku 2026 roku grupa hakerów opublikowała wykradzione nagrania z rozgrywki w Grand Theft Auto 6.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 stało się kolejnym polem ideologicznego sporu. Część influencerów narzeka na „uległość” wobec kobiet",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-stalo-sie-kolejnym-polem-ideologicznego-sporu-czesc-influen/z4323f6",
+      "publishedAt": "2026-11-20T15:40+01:00",
+      "summary": "Premiera GTA 6 stała się dla niektórych wyłącznie pretekstem do promowania kontrowersyjnych ideologii w sieci. Niektórych z nich frustruje nawet kupowanie kwiatów dla Lucii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532879126.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Persona 7 już powstaje? Gracze nie będą czekać zbyt długo na kolejną odsłonę",
+      "sourceUrl": "https://www.ppe.pl/news/433912/persona-7-juz-powstaje-gracze-nie-beda-czekac-zbyt-dlugo-na-kolejna-odslone.html",
+      "publishedAt": "2026-11-20T15:27+01:00",
+      "summary": "Kazuhisa Wada, główny producent Persona Studio, ujawnił plany rozwoju marki w wywiadzie dla Sega Sammy. Persona 6 nie zakończy popularnej serii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c8c4644f09ffc8cf899f/c8c4644f09ffc8cf899f.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Szpile: Szefa Epica z „epicką” odklejką",
+      "sourceUrl": "https://cdaction.pl/szpile/szpile-szefa-epica-z-epicka-odklejka/",
+      "publishedAt": "2026-11-20T15:19+01:00",
+      "summary": "Twoja cotygodniowa dawka przekąsu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/09/81fc73e9-c2ec-4dfe-9dfc-841092262678.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pół roku GeForce NOW Ultimate 30% taniej! Za 6 miesięcy usługi grania w chmurze z RTX 5080 zapłacicie 377,30 zł!",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/pol-roku-geforce-now-ultimate-30-taniej-za-6-miesiecy-uslugi-grania-w-chmurze-z-rtx-5080-zaplacicie-37730-zl/",
+      "publishedAt": "2026-11-20T15:12+01:00",
+      "summary": "Wśród promocji na Black Friday 2026 pojawiła się również ciekawa oferta na subskrypcję GeForce NOW. Możecie bowiem skorzystać z 30% zniżki na przy zakupie 6 miesięcy dostępu. Wariant Ultimate, z którym otrzymacie granie w nawet 360 FPS, rozdzielczości do 5K i 8-godzinne sesje gry bez reklam, kosztuje 377,30 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/04/6-miesiecy-GeForce-NOW-Priority-za-14940-zl-zamiast-249-zl_minaturka-scaled.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Epic Games rozdaje kolejną grę za darmo! To jedna z najlepszych ofert ostatnich miesięcy",
+      "sourceUrl": "https://www.ppe.pl/news/433911/epic-games-rozdaje-kolejna-gre-za-darmo-to-jedna-z-najlepszych-ofert-ostatnich-miesiecy.html",
+      "publishedAt": "2026-11-20T15:10+01:00",
+      "summary": "Epic Games Store udostępnił kolejną darmową grę dla użytkowników PC.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/42d021084475ff02c4e2/42d021084475ff02c4e2.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Obie części KOTOR-a otrzymały moda zmieniającego walkę nie do poznania. Ambitny projekt zmienia całe systemy gry",
+      "sourceUrl": "https://cdaction.pl/newsy/obie-czesci-kotor-a-otrzymaly-moda-zmieniajacego-walke-nie-do-poznania-ambitny-projekt-zmienia-cale-systemy-gry/",
+      "publishedAt": "2026-11-20T15:00+01:00",
+      "summary": "Choć wciąż nie jest w pełni ukończony.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/Star-Wars-Knights-of-the-Old-Republic-1-1260x653.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 na PC jeszcze nie ma, więc pecetowcy wracają do starszych odsłon. Prawie 88 000 osób w GTA 5 jednocześnie na Steamie",
@@ -173,114 +281,6 @@
       "summary": "W GTA 6 powraca lubiana postać z jednej z poprzednich odsłon serii. Niektórzy gracze są jednak smutni, widząc, jak potoczyły się jej losy. UWAGA: spoilery!",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532873178.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Klocki CADA Audi RS6 Avant za 1097,25 zł (zamiast 1249 zł) na Allegro z okazji Black Friday 2026",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/klocki-cada-audi-rs6-avant-za-109725-zl-zamiast-1249-zl-na-allegro-z-okazji-black-friday-2026/",
-      "publishedAt": "2026-11-20T13:10+01:00",
-      "summary": "Black Friday 2026 na Allegro trwa w najlepsze. Teraz macie okazję zakupić klocki CADA przedstawiające pojazd Audi RS6 Avant ponad 150 zł taniej niż w oficjalnym sklepie marki. Zestaw liczy sobie 4663 elementy. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Klocki-konstrukcyjne-CaDA-Master-Samochod-Audi-RS6-Avant-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Google Pixel 11 12/256GB 6.3″ 120Hz OLED za 2999 zł (200 zł taniej) w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/google-pixel-11-12-256gb-6-3-120hz-oled-za-2999-zl-200-zl-taniej-w-media-expert/",
-      "publishedAt": "2026-11-20T13:07+01:00",
-      "summary": "W ofercie sklepu Media Expert pojawiła się promocja na Google Pixel 11. Smartfon z wielkim G na pleckach, wyposażony w 12GB RAM oraz ekran OLED o przekątnej 6.3 cala i procesor Tensor G6, kosztuje 2999 złotych. Urządzenie jest dostępne w czterech atrakcyjnych kolorach, fuksjowym, pistacjowym, obsydianowym oraz jasnoliliowym. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-Google-Pixel-11-w-Media-Expert.-Model-12-256GB-dostepny-juz-za-3199-zl_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Valve ma złe wieści dla graczy. Steam Machine może być jeszcze droższy, a kryzys na rynku pamięci nie odpuszcza",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/valve-ma-zle-wiesci-dla-graczy-steam-machine-moze-byc-jeszcze-dro/z6323e9",
-      "publishedAt": "2026-11-20T13:05+01:00",
-      "summary": "Valve ostrzega, że nie wie, ile egzemplarzy Steam Machine będzie w stanie wyprodukować i w jakiej cenie je sprzedawać. Powodem są rosnące ceny pamięci NAND i DRAM, które na rynku kontraktowym nie przestają rosnąć.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532872219.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "007 First Light zgarnia najważniejszą nagrodę! James Bond najlepszą grą roku 2026",
-      "sourceUrl": "https://www.ppe.pl/news/433901/007-first-light-zgarnia-najwazniejsza-nagrode-james-bond-najlepsza-gra-roku-2026.html",
-      "publishedAt": "2026-11-20T13:05+01:00",
-      "summary": "Poznaliśmy laureatów tegorocznej edycji TIGA Awards. Najważniejsze wyróżnienie, czyli Game of the Year, powędrowało do studia IO Interactive za 007 First Light.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f64b1a41fb58f2241798/f64b1a41fb58f2241798.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Zestaw 2 kabli HDMI 2.0 18 Gb/s 4K@60Hz 0,9m za 22,53 zł, a 1,8m za 26,87 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-2-kabli-hdmi-2-0-18-gb-s-4k60hz-09m-za-2253-zl-a-18m-za-2687-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-20T12:53+01:00",
-      "summary": "2 kable HDMI w standardzie 2.0, należące do serii Amazon Basics, pojawiły się w promocji w polskim oddziale wspomnianego sklepu. Model o długości niecałego metra (0,9m), z obsługą wideo 4K przy 60 Hz i 2160p, kosztuje w zestawie 22,53 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/amazon-basics-hdmi-2-0-3b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Szykuje się wielki hit? Wydawca AION 2 zaprasza do testów rozgrywki w strzelance TPP",
-      "sourceUrl": "https://www.ppe.pl/news/433902/szykuje-sie-wielki-hit-wydawca-aion-2-zaprasza-do-testow-rozgrywki-w-strzelance-tpp.html",
-      "publishedAt": "2026-11-20T12:47+01:00",
-      "summary": "Jeśli czekacie na mocną, sieciową strzelankę TPP z akcją w środowisku miejskim, to warto zwrócić uwagę na Cinder City.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/de82013aaf5ca8bf8fe6/de82013aaf5ca8bf8fe6.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Wiemy, ilu amerykańskich żołnierzy skorzystało z oferty wolnego na GTA 6. „Będę miał dobre 24 godziny do stracenia”",
-      "sourceUrl": "https://cdaction.pl/newsy/wiemy-ilu-amerykanskich-zolnierzy-skorzystalo-z-oferty-wolnego-na-gta-6-bede-mial-dobre-24-godziny-do-stracenia/",
-      "publishedAt": "2026-11-20T12:45+01:00",
-      "summary": "Brzmi dziwnie, ale zadziałało.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/gta6-8-1-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 i Red Dead Redemption dzielą jeden świat. Gracze odkrywają nawiązania do RDR2",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-i-red-dead-redemption-dziela-jeden-swiat-gracze-odkrywaja-n/z4323e7",
-      "publishedAt": "2026-11-20T12:42+01:00",
-      "summary": "Fani odnaleźli w GTA 6 elementy potwierdzające, że akcja gry toczy się w tym samym świecie, co seria Red Dead Redemption.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532870686.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Dziś premiera jednego z największych filmów science fiction tego roku. Należy on do serii wartej 3 mld dolarów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-premiera-jednego-z-najwiekszych-filmow-science-fiction-tego/z3323e6",
-      "publishedAt": "2026-11-20T12:36+01:00",
-      "summary": "Od dziś w kinach można oglądać prequel z popularnej sagi science fiction, wartej 3 mld dolarów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532870330.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Najpierw AMD, a teraz również NVIDIA? Kolejne problemy z nadmiernym zużywaniem dysków SSD",
-      "sourceUrl": "https://www.ppe.pl/news/433899/najpierw-amd-a-teraz-rowniez-nvidia-kolejne-problemy-z-nadmiernym-zuzywaniem-dyskow-ssd.html",
-      "publishedAt": "2026-11-20T12:27+01:00",
-      "summary": "Niedawno informowaliśmy o problemach ze sterownikami od AMD. Teraz okazuje się, że podobne kłopoty mogą występować z softwarem NVIDIA.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f422ba42e18a1e8114fa/f422ba42e18a1e8114fa.png"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO Pokemon Arcanine za 269 zł (cena katalogowa 419,99 zł) w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-pokemon-arcanine-za-269-zl-cena-katalogowa-41999-zl-w-media-expert/",
-      "publishedAt": "2026-11-20T12:13+01:00",
-      "summary": "W historycznie najniższej cenie możecie teraz kupić LEGO Pokemon Arcanine w sklepie Media Expert. Składający się z 1190 elementów zestaw, z którego zbudujecie majestatyczną, ognistą ewolucję Growlithe’a, kosztują 269 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lego-pokemon-arcanine-1b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Głos rozsądku czy krytyka GTA 6 przez twórcę Baldur's Gate 3? Nawoływanie do \"zejścia na ziemię\"",
-      "sourceUrl": "https://www.ppe.pl/news/433896/glos-rozsadku-czy-krytyka-gta-6-przez-tworce-baldur-s-gate-3-nawolywanie-do-zejscia-na-ziemie.html",
-      "publishedAt": "2026-11-20T12:11+01:00",
-      "summary": "Od momentu premiery Grand Theft Auto 6 internet praktycznie przestał rozmawiać o czymkolwiek innym. Dzieło Rockstara z marszu pobiło historyczny rekord serwisu Metacritic, spychając z tronu nawet legendarną Zeldę: Ocarina of Time z 1998 roku, i w...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
     }
   ],
   "indie": [
