@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T16:01+01:00",
+  "updatedAt": "2026-11-20T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Krzysztof Gonciarz zachwycał się GTA 4, Hed dał GTA 5 ocenę 10/10, a dziś czytam kłótnie o GTA 6 i zastanawiam się, kiedy internet stał się taki zgorzkniały",
-    "summary": "GTA 6, największa premiera growa dekady, miało połączyć miliony graczy we wspólnym zachwycie. Zamiast tego internet przypomniał mi, dlaczego tak bardzo tęsknię za czasami, gdy na premierę GTA 4 dyskutowaliśmy głównie o tym, czy kupić konsolę.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/krzysztof-gonciarz-zachwycal-sie-gta-4-hed-dal-gta-5-ocene-1010-a/zf323fa",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532884509.jpg"
+    "title": "Optymalizacja jednak nie taka doskonała? Kolejne głosy o crashach i błędach GTA 6 na PS5",
+    "summary": "„GTA 6” sprawia problemy części użytkowników PlayStation 5. Na forach i w mediach społecznościowych pojawiają się doniesienia o niespodziewanych awariach gry, którym towarzyszy kod błędu CE-108255-1. Co istotne, standardowe sposoby napraw...",
+    "sourceUrl": "https://www.ppe.pl/news/433922/optymalizacja-jednak-nie-taka-doskonala-kolejne-glosy-o-crashach-i-bledach-gta-6-na-ps5.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/af9ed901b95c7b22dd5b/af9ed901b95c7b22dd5b.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Optymalizacja jednak nie taka doskonała? Kolejne głosy o crashach i błędach GTA 6 na PS5",
+      "sourceUrl": "https://www.ppe.pl/news/433922/optymalizacja-jednak-nie-taka-doskonala-kolejne-glosy-o-crashach-i-bledach-gta-6-na-ps5.html",
+      "publishedAt": "2026-11-20T17:01+01:00",
+      "summary": "„GTA 6” sprawia problemy części użytkowników PlayStation 5. Na forach i w mediach społecznościowych pojawiają się doniesienia o niespodziewanych awariach gry, którym towarzyszy kod błędu CE-108255-1. Co istotne, standardowe sposoby napraw...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/af9ed901b95c7b22dd5b/af9ed901b95c7b22dd5b.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Mandy z GTA 6 skradła serca graczy, choć skrywa mroczny sekret. Teraz wiemy, kto stoi za jedną z najbardziej viralowych postaci Rockstara",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mandy-z-gta-6-skradla-serca-graczy-choc-skrywa-mroczny-sekret-ter/z0323fb",
+      "publishedAt": "2026-11-20T16:50+01:00",
+      "summary": "W sieci pojawiło się nagranie jednej aktorki, która twierdzi, że to ona wcieliła się w rolę Mandy – blondynki z sąsiedztwa Jasona, którą część z was kojarzy z viralowej sceny ze zlewem. NPC skrywa mroczny sekret, a w sieci aż gotuje się od teorii graczy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532884756.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 pojawiło się na Steamie. Nie wszystko jest tym, na co wygląda",
+      "sourceUrl": "https://www.ppe.pl/news/433908/gta-6-pojawilo-sie-na-steamie-nie-wszystko-jest-tym-na-co-wyglada.html",
+      "publishedAt": "2026-11-20T16:43+01:00",
+      "summary": "Premiera GTA 6 przyniosła nie tylko ogromne zainteresowanie graczy, ale również okazję dla osób próbujących je wykorzystać.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c156cbf7ebe7d80929c4/c156cbf7ebe7d80929c4.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Krzysztof Gonciarz zachwycał się GTA 4, Hed dał GTA 5 ocenę 10/10, a dziś czytam kłótnie o GTA 6 i zastanawiam się, kiedy internet stał się taki zgorzkniały",
@@ -31,6 +58,33 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532885067.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Gra totalna czy zawracanie głowy? GTA 6 goni za realizmem, który nie zawsze ma sens [FELIETON]",
+      "sourceUrl": "https://cdaction.pl/teksty/gra-totalna-czy-zawracanie-glowy-gta-6-goni-za-realizmem-ktory-nie-zawsze-ma-sens-felieton/",
+      "publishedAt": "2026-11-20T16:30+01:00",
+      "summary": "Klasyczna trylogia Grand Theft Auto zbudowana na silniku RenderWare zrobiła ogromny krok naprzód, przechodząc w pełen trójwymiar, ale z obsesyjnym dążeniem Rockstara do realizmu zderzyliśmy się dopiero w GTA 4.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-4-1260x709.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kupiłeś GTA VI w edycji standardowej? Kup ulepszenie do Ultimate na Xbox Series taniej",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/kupiles-gta-vi-w-edycji-standardowej-kup-ulepszenie-do-ultimate-na-xbox-series-taniej/",
+      "publishedAt": "2026-11-20T16:28+01:00",
+      "summary": "Jeśli macie dylemat po zakupie Grand Theft Auto VI na premierę, czy przydałaby się wam Edycja Ultimate, nic straconego! Posiadacze konsol Xbox Series mogą bowiem zaopatrzyć się w ulepszenie do wspomnianej wersji. Podpowiemy Wam, gdzie kupicie GTA VI Ultimate Edition Upgrade taniej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/ultimate-edition-upgrade-gta-vi-miniaturka-cyfra-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Valve nie przyjmuje już rezerwacji na Steam Machine. Winne są rekordowe ceny pamięci",
+      "sourceUrl": "https://www.ppe.pl/news/433913/valve-nie-przyjmuje-juz-rezerwacji-na-steam-machine-winne-sa-rekordowe-ceny-pamieci.html",
+      "publishedAt": "2026-11-20T16:15+01:00",
+      "summary": "Valve poinformowało o ważnej zmianie dotyczącej dostępności Steam Machine. Firma zamyka listę oczekujących na model wyposażony w dysk SSD o pojemności 2 TB.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5a7b29f3c5142d16578d/5a7b29f3c5142d16578d.webp"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Mocniejsi bossowie i ekstremalny tryb trudności. Baldur’s Gate 3 dostało nowe mody na konsolach",
       "sourceUrl": "https://www.gry-online.pl/newsroom/mocniejsi-bossowie-i-ekstremalny-tryb-trudnosci-baldurs-gate-3-do/z7323f9",
@@ -47,6 +101,15 @@
       "summary": "Copilot staje się centrum zarządzania aplikacjami Office. To z poziomu asystenta AI będzie można uruchamiać Worda, Excela lub PowerPointa. Nowe funkcje będą dostępne dla wybranej grupy użytkowników.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532881111.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nad GTA 6 pracowała spora grupa Polaków. Nasi rodacy zajmowali się istotnymi elementami gry",
+      "sourceUrl": "https://cdaction.pl/newsy/nad-gta-6-pracowala-spora-grupa-polakow-nasi-rodacy-zajmowali-sie-istotnymi-elementami-gry/",
+      "publishedAt": "2026-11-20T16:00+01:00",
+      "summary": "Całkiem sympatyczne wieści.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-polska-gurom.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -218,69 +281,6 @@
       "summary": "Na Prime Video niedługo ukaże się kontynuacja kultowej serii science fiction. Za 5 dni fani będą mogli obejrzeć wszystkie odcinki sequela.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532871364.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "To oficjalne! John Carpenter wraca do rebootu kultowego hitu",
-      "sourceUrl": "https://www.ppe.pl/news/433904/to-oficjalne-john-carpenter-wraca-do-rebootu-kultowego-hitu.html",
-      "publishedAt": "2026-11-20T14:01+01:00",
-      "summary": "John Carpenter, reżyser oryginalnego filmu z 1981 roku, oficjalnie potwierdził swoje zaangażowanie w nową produkcję Zacka Snydera. Reboot „Ucieczki z Nowego Jorku” nabiera więc coraz ciekawszych kształtów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/abc419cc3d990a8084ee/abc419cc3d990a8084ee.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„AI slop” zostanie zmieciony z rynku. Ludzka praca w grach zyska na wartości, twierdzi twórca Stellar Blade",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/recznie-od-poczatku-do-konca-ale-z-pomoca-maszyn-tworcy-resident/zf323f1",
-      "publishedAt": "2026-11-20T13:58+01:00",
-      "summary": "Shinji Mikami oraz Kim Hyung-tae eksperymentują z AI, ale to ludzie wciąż mają u nich pierwsze i ostatnie słowo.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532875137.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Odtwarzacz CD Fosi Audio Merak z DAC CS43131 i wzmacniaczem za 560,15 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/odtwarzacz-cd-fosi-audio-merak-z-dac-cs43131-i-wzmacniaczem-za-56015-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-20T13:47+01:00",
-      "summary": "Stacjonarny odtwarzacz płyt kompaktowych Fosi Audio Merak, pojawił się w bardzo dobrej cenie podczas czarnopiątkowych promocji w polskim oddziale sklepu Amazon. Urządzenie z przetwornikiem CS43131 DAC, wzmacniaczem słuchawkowym TPA6120 oraz wyjściem line-out na głośniki, kosztuje 560,15 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/fosi-audio-odtwarzacz-cd-merak-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 na PC? Nie dajcie się nabrać",
-      "sourceUrl": "https://www.ppe.pl/news/433905/gta-6-na-pc-nie-dajcie-sie-nabrac.html",
-      "publishedAt": "2026-11-20T13:41+01:00",
-      "summary": "Premiera GTA 6 rozbudziła zainteresowanie graczy komputerowych, którzy chcieliby sprawdzić najnowszą produkcję Rockstar Games bez konsoli.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8617ab513b0297f9c70b/8617ab513b0297f9c70b.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Ubisoft otworzył studio w całości poświęcone AI. Motherbrain będzie generować gry sztuczną inteligencją",
-      "sourceUrl": "https://cdaction.pl/newsy/ubisoft-otworzyl-studio-w-calosci-poswiecone-ai-motherbrain-bedzie-generowac-gry-sztuczna-inteligencja/",
-      "publishedAt": "2026-11-20T13:30+01:00",
-      "summary": "Trzeba mieć w życiu priorytety.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/ubisoft.avif"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "The Last of Us zakończy historię w trzecim sezonie? Gwiazda serialu zapowiada mocne zakończenie",
-      "sourceUrl": "https://www.ppe.pl/news/433903/the-last-of-us-zakonczy-historie-w-trzecim-sezonie-gwiazda-serialu-zapowiada-mocne-zakonczenie.html",
-      "publishedAt": "2026-11-20T13:22+01:00",
-      "summary": "Fani The Last of Us mogą przygotować się na wyjątkowo emocjonalne zakończenie serialowej historii. Gabriel Luna, wcielający się w Tommy'ego, ujawnił nowe informacje dotyczące trzeciego sezonu produkcji HBO.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/56184ded53da59bf66f9/56184ded53da59bf66f9.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "W GTA 6 powraca legendarna postać. Jej powrót jest epicki, ale i trochę smutny (Uwaga: spoiler)",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-powraca-legendarna-postac-jej-powrot-jest-epicki-ale-i-tr/ze323ea",
-      "publishedAt": "2026-11-20T13:20+01:00",
-      "summary": "W GTA 6 powraca lubiana postać z jednej z poprzednich odsłon serii. Niektórzy gracze są jednak smutni, widząc, jak potoczyły się jej losy. UWAGA: spoilery!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532873178.jpg"
     }
   ],
   "indie": [
