@@ -1,17 +1,89 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T08:01+01:00",
+  "updatedAt": "2026-11-20T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ubisoft stawia wszystko na AI? Powstało nowe studio, które ma zmienić przyszłość gier",
-    "summary": "Ubisoft przechodzi ogromną transformację i coraz wyraźniej pokazuje, w jakim kierunku zamierza rozwijać swoje gry. Francuska korporacja nie tylko reorganizuje zespoły i rezygnuje z kolejnych projektów, ale również chce mocniej wykorzystać sztuc...",
-    "sourceUrl": "https://www.ppe.pl/news/433852/ubisoft-stawia-wszystko-na-ai-powstalo-nowe-studio-ktore-ma-zmienic-przyszlosc-gier.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/85640d76ce7529e21962/85640d76ce7529e21962.jpg"
+    "title": "W GTA 6 da się grać z perspektywy pierwszej osoby. Gracze znaleźli prosty trik",
+    "summary": "W GTA 6 nie ma możliwości grania z perspektywy pierwszej osoby. Przynajmniej nieoficjalnie, ponieważ gracze natrafili błąd, który to umożliwia.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-da-sie-grac-z-perspektywy-pierwszej-osoby-gracze-znalezli/ze323db",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532860618.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "W GTA 6 da się grać z perspektywy pierwszej osoby. Gracze znaleźli prosty trik",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-da-sie-grac-z-perspektywy-pierwszej-osoby-gracze-znalezli/ze323db",
+      "publishedAt": "2026-11-20T09:50+01:00",
+      "summary": "W GTA 6 nie ma możliwości grania z perspektywy pierwszej osoby. Przynajmniej nieoficjalnie, ponieważ gracze natrafili błąd, który to umożliwia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532860618.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Po 21 latach oczekiwania kontynuacja jednego z najlepszych filmów Nicolasa Cage'a stała się faktem: ujawniono zwiastun i datę premiery",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-21-latach-oczekiwania-kontynuacja-jednego-z-najlepszych-filmow/zd323da",
+      "publishedAt": "2026-11-20T09:35+01:00",
+      "summary": "Zwiastun zapowiada powrót Nicolasa Cage’a w sequelu jednego z jego najlepszych filmów. Aktor wciela się w swoją postać sprzed ponad dwóch dekad.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532859659.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "2 dni po premierze GTA 6 wraca Cyberleek. Haker grozi Rockstarowi i Take-Two",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/2-dni-po-premierze-gta-6-wraca-cyberleek-twierdzi-ze-udostepnil-n/z5323d9",
+      "publishedAt": "2026-11-20T09:06+01:00",
+      "summary": "Po premierze GTA 6 do sieci wrócił Cyberleek, który twierdzi, że opublikował niemal kompletny build gry na Xboksa z listopada 2026 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532857988.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najśliczniejsza kobieta w GTA 6 prześwietlona. Mandy ma WIELKI sekret",
+      "sourceUrl": "https://www.ppe.pl/news/433869/najsliczniejsza-kobieta-w-gta-6-przeswietlona-mandy-ma-wielki-sekret.html",
+      "publishedAt": "2026-11-20T08:53+01:00",
+      "summary": "Ledwo minęła premiera Grand Theft Auto 6, a gracze już zdążyli znaleźć sobie wielką ulubienicę wśród postaci pobocznych. Internet błyskawicznie stracił głowę dla Mandy - na pozór sympatycznej, choć nieco nachalnej sąsiadki Jasona, któ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/af9ed901b95c7b22dd5b/af9ed901b95c7b22dd5b.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Preorder LEGO Art 67012 – Obraz Okładka komiksu z Jokerem za 615,56 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/preorder-lego-art-67012-obraz-okladka-komiksu-z-jokerem-za-61556-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-20T08:48+01:00",
+      "summary": "Liczący 1849 klocków zestaw LEGO Art – Obraz – Okładka komiksu z Jokerem, zamówicie w przedsprzedaży również w polskim oddziale sklepu Amazon. Set pozwoli Wam zbudować ozdobę ścienną, nawiązującą do wydania numer 880 Batman Detective Comics i może być wasz za 615,56 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/lego-art-obraz-okladka-z-komiksu-z-jokerem-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Netflix z wyjątkową nowością na weekend. Znana baśń w zupełnie nowym wydaniu",
+      "sourceUrl": "https://www.ppe.pl/news/433853/netflix-z-wyjatkowa-nowoscia-na-weekend-znana-basn-w-zupelnie-nowym-wydaniu.html",
+      "publishedAt": "2026-11-20T08:40+01:00",
+      "summary": "Netflix przygotował na weekend wyjątkową propozycję dla całych rodzin. Tym razem platforma zaprasza widzów do świata jednej z najbardziej rozpoznawalnych baśni, ale zamiast ponownie przedstawiać dobrze znaną historię, twórcy postanowili spoj...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/19ffa6b3358be9a3f72b/19ffa6b3358be9a3f72b.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jeden z największych hitów Amazon Prime Video powraca. Niezwyciężony 5 z datą premiery",
+      "sourceUrl": "https://www.ppe.pl/news/433841/jeden-z-najwiekszych-hitow-amazon-prime-video-powraca-niezwyciezony-5-z-data-premiery.html",
+      "publishedAt": "2026-11-20T08:15+01:00",
+      "summary": "Amazon Prime Video potwierdził datę premiery kolejnego sezonu jednego ze swoich największych hitów. „Niezwyciężony” od lat zachwyca widzów brutalną akcją, nieprzewidywalną historią i świetnie napisanymi bohaterami, a najnowsza zapowiedź...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0f0bf60671ab8e7141a7/0f0bf60671ab8e7141a7.png"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Steam Machine już za chwilę może podrożeć. „Nie wiemy, ile egzemplarzy jeszcze uda nam się wyprodukować”",
+      "sourceUrl": "https://cdaction.pl/newsy/nie-wiemy-ile-egzemplarzy-jeszcze-uda-nam-sie-wyprodukowac-cena-steam-machine-juz-za-moment-moze-poszybowac-w-gore/",
+      "publishedAt": "2026-11-20T08:07+01:00",
+      "summary": "Valve najwyraźniej nie zawsze wygrywa.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/steam-machine-9985.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Ubisoft stawia wszystko na AI? Powstało nowe studio, które ma zmienić przyszłość gier",
@@ -56,6 +128,15 @@
       "summary": "Sony miało w tym roku jedną wielką premierę na PlayStation 5, ale najnowsze wyniki sprzedaży pokazują, że Marvel’s Wolverine może nie być takim sukcesem, na jaki liczyli fani Insomniac Games.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/012303b5f48a5714a8fd/012303b5f48a5714a8fd.webp"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy Europa Universalis 5 muszą się tłumaczyć. Dodali do wielkiej strategii „najbardziej kontrowersyjną rzecz od premiery”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-europa-universalis-5-musza-sie-tlumaczyc-dodali-do-wielkie/z3323d7",
+      "publishedAt": "2026-11-20T06:30+01:00",
+      "summary": "Aktualizacja Europa Universalis V miała usprawnić rozgrywkę, ale zamiast tego wywołała rozłam wśród fanów. Paradox Tinto przyznaje, że zlekceważyło ostrzeżenia graczy i przedstawia cztery obietnice na przyszłość.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532815598.jpg"
     },
     {
       "sourceName": "PPE",
@@ -200,69 +281,6 @@
       "summary": "Wszystko wskazuje na to, że Sony sprytnie uniemożliwiło Microsoftowi wykorzystywanie GTA 6 w kampaniach marketingowych konsol Xbox.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532795594.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 mogło sprzedać w przedsprzedaży prawie 20 milionów kopii. Twórcy gry mimo to wypatrują zwolnień",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-moglo-sprzedac-w-przedsprzedazy-prawie-20-milionow-kopii-tworcy-gry-mimo-to-wypatruja-zwolnien/",
-      "publishedAt": "2026-11-19T15:30+01:00",
-      "summary": "Możesz wydać najlepiej ocenianą grę w historii, a i tak cię zwolnią.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-9.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Weteran Dooma i Quake’a wychwala rolę Gabe’a Newella w bronieniu graczy przed chciwością korporacji. „Steam dosłownie strzeże wrót piekieł”",
-      "sourceUrl": "https://cdaction.pl/newsy/weteran-dooma-i-quakea-wychwala-role-gabea-newella-w-bronieniu-graczy-przed-chciwoscia-korporacji-steam-doslownie-strzeze-wrot-piekiel/",
-      "publishedAt": "2026-11-19T15:00+01:00",
-      "summary": "Sandy Petersen nie ukrywa swojej sympatii do prezesa Valve.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/Gabe-Newell-1260x723.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "NVIDIA może szykować RTX 6090 szybciej, niż oczekiwano. Nowe doniesienia wskazują na zaskakującą zmianę strategii giganta",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-moze-szykowac-rtx-6090-szybciej-niz-oczekiwano-nowe-donies/zc323ca",
-      "publishedAt": "2026-11-19T14:55+01:00",
-      "summary": "NVIDIA i AMD szykują się do premier nowych kart graficznych. Kolejna generacja Radeonów i RTX-y z serii 60 mogą trafić do sprzedaży nawet pod koniec 2027 roku według znanego insidera.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532791491.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Czy w GTA 6 da się bezboleśnie grać w 30 fps? Sprawdził to nasz dział technologii",
-      "sourceUrl": "https://cdaction.pl/technologie/czy-w-gta-6-da-sie-bezbolesnie-grac-w-30-fps-sprawdzil-to-nasz-dzial-technologii/",
-      "publishedAt": "2026-11-19T14:52+01:00",
-      "summary": "Grać zaczęliśmy chyba wszyscy równo o północy. Do świtu czasu na zabawę co prawda dużo nie było, ale te parę godzin z padem w dłoni pozwala już z pewną ostrożnością odpowiedzieć sobie na najważniejsze chyba pytanie związane z GTA 6 – czy zabawa w 30 klatkach na sekundę sens?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Jason_and_Lucia_15-1-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 skrywa polski akcent. Rockstar zdradził nam pochodzenie jednej z postaci (Uwaga: Spoiler)",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-skrywa-polski-akcent-rockstar-zdradzil-nam-pochodzenie-jedn/zd323cb",
-      "publishedAt": "2026-11-19T14:50+01:00",
-      "summary": "Nasza redakcja dowiedziała się wielu ciekawostek od studia Rockstar Games na temat GTA 6, w tym odnośnie do zakończeń oraz optymalizacji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532791943.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Mam nadzieję, że GTA 6 będzie ostatnią taką grą”. Legenda branży o ciemnej stronie sukcesu Rockstara",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/mam-nadzieje-ze-gta-6-bedzie-ostatnia-taka-gra-legenda-branzy-o-c/z4323c9",
-      "publishedAt": "2026-11-19T14:16+01:00",
-      "summary": "Warren Spector docenia GTA 6, ale też wyraża obawy, że ten model tworzenia gier nie ma przyszłości w tej branży.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532790213.jpg"
-    },
-    {
-      "sourceName": "GRY-Online / Publicystyka",
-      "title": "Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku",
-      "sourceUrl": "https://www.gry-online.pl/recenzje/recenzja-gta-6-po-120-godzinach-to-znacznie-wiecej-niz-tylko-gra/z449dc",
-      "publishedAt": "2026-11-18T13:00+01:00",
-      "summary": "Gra roku? Pff, nie ma o czym mówić, po ten tytuł GTA 6 sięgnie bez głosu sprzeciwu. Zastanowiłbym się raczej, czy nie mamy przed sobą również mocnego kandydata do tytułu gry generacji i gry dekady. Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku został opublikowany przez gry-online.pl 18 listopada 2026. Zobacz zasady korzystania z naszych treści .",
-      "category": "PUBLICYSTYKA",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532619018.jpg"
     }
   ],
   "indie": [
@@ -272,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -280,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -288,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -296,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -315,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -325,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -363,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -450,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "c0b46a93379ba3aa1c5b3d6042ac7a9c77b20ac68736f3345fd9a39331a4d82d"
+  "editorialHash": "f6f0fcb3297bd47e357a99e8b24f64e8cbfc92417c7f06b569ab6ca2b81cc87e"
 }
