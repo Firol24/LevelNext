@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T11:01+01:00",
+  "updatedAt": "2026-11-20T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "120 godzin w GTA 6. Krzysztof „Draug” Mysiak ujawnia sekrety i dziwactwa Vice City",
-    "summary": "Draug spędził w GTA 6 około 120 godzin i napisał naszą recenzję. Teraz w materiale tvgry odpowiedział na 12 pytań, w tym te, które sami zadaliście przed premierą. Wybraliśmy najciekawsze rzeczy.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/120-godzin-w-gta-6-krzysztof-draug-mysiak-ujawnia-sekrety-i-dziwa/z2323df",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532866238.jpg"
+    "title": "GTA 6 i Red Dead Redemption dzielą jeden świat. Gracze odkrywają nawiązania do RDR2",
+    "summary": "Fani odnaleźli w GTA 6 elementy potwierdzające, że akcja gry toczy się w tym samym świecie, co seria Red Dead Redemption.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-i-red-dead-redemption-dziela-jeden-swiat-gracze-odkrywaja-n/z4323e7",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532870686.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 i Red Dead Redemption dzielą jeden świat. Gracze odkrywają nawiązania do RDR2",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-i-red-dead-redemption-dziela-jeden-swiat-gracze-odkrywaja-n/z4323e7",
+      "publishedAt": "2026-11-20T12:42+01:00",
+      "summary": "Fani odnaleźli w GTA 6 elementy potwierdzające, że akcja gry toczy się w tym samym świecie, co seria Red Dead Redemption.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532870686.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dziś premiera jednego z największych filmów science fiction tego roku. Należy on do serii wartej 3 mld dolarów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-premiera-jednego-z-najwiekszych-filmow-science-fiction-tego/z3323e6",
+      "publishedAt": "2026-11-20T12:36+01:00",
+      "summary": "Od dziś w kinach można oglądać prequel z popularnej sagi science fiction, wartej 3 mld dolarów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532870330.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Płaciłeś kartą przez Autopay? Twoje dane mogły trafić w ręce hakerów. Co najmniej dwa banki już zastrzegają karty klientów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/placiles-karta-przez-autopay-twoje-dane-mogly-trafic-w-rece-haker/z1323e4",
+      "publishedAt": "2026-11-20T12:00+01:00",
+      "summary": "Autopay padło ofiarą cyberataku wspomaganego przez sztuczną inteligencję. Według ministra cyfryzacji wyciec mogły dane setek tysięcy kart płatniczych, numerów telefonów i e-maili.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532868219.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "120 godzin w GTA 6. Krzysztof „Draug” Mysiak ujawnia sekrety i dziwactwa Vice City",
@@ -20,6 +47,15 @@
       "summary": "Draug spędził w GTA 6 około 120 godzin i napisał naszą recenzję. Teraz w materiale tvgry odpowiedział na 12 pytań, w tym te, które sami zadaliście przed premierą. Wybraliśmy najciekawsze rzeczy.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532866238.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "\"Jesteś tragicznym rodzicem, jeśli...\". Polityk uważa GTA 6 za \"podręcznik dla przestępców\"",
+      "sourceUrl": "https://www.ppe.pl/news/433876/jestes-tragicznym-rodzicem-jesli-polityk-uwaza-gta-6-za-podrecznik-dla-przestepcow.html",
+      "publishedAt": "2026-11-20T11:48+01:00",
+      "summary": "Wielka premiera Grand Theft Auto 6 sprawiła, że z szafy znów wypadły stare, dobrze znane strachy o szkodliwości gier wideo z cyklu GTA.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8feb5fde28f976fe3a11/8feb5fde28f976fe3a11.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +67,24 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532867207.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "GTA 6 to nudny \"symulator pantoflarza\"? Nowa produkcja Rockstar zderza się z krytyką graczy",
+      "sourceUrl": "https://www.ppe.pl/news/433897/gta-6-to-nudny-symulator-pantoflarza-nowa-produkcja-rockstar-zderza-sie-z-krytyka-graczy.html",
+      "publishedAt": "2026-11-20T11:35+01:00",
+      "summary": "Wygląda na to, że recepcja GTA 6 nie będzie tak idealna, jak wymarzyło sobie Take Two.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ea50b1d72d230a2dd2c5/ea50b1d72d230a2dd2c5.png"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na Grand Theft Auto VI w LootBar. Grę na PS5 kupicie za 269 zł",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/promocja-na-grand-theft-auto-vi-w-lootbar-gre-na-ps5-kupicie-za-269-zl/",
+      "publishedAt": "2026-11-20T11:27+01:00",
+      "summary": "Wykorzystując specjalny kod rabatowy w sklepie LootBar, będziecie mogli sporo zaoszczędzić na zakupie GTA VI. Oferta jest skierowana tym razem do posiadaczy PlayStation 5, bowiem gra Rockstar Games w promocyjnej cenie 268,55 zł jest dostępna właśnie na tę platformę. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Trzeci-zwiastun-Grand-Theft-Auto-VI-jeszcze-w-sierpniu_-Rockstar-rusza-z-kampania-marketingowa_miniaturka-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "GTA 6: gracze w szoku po obejrzeniu porównań graficznych. Konsola za nawet 7000 złotych kontra najtańszy Xbox",
       "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-gracze-w-szoku-po-obejrzeniu-porownan-graficznych-konsola-z/zf323e2",
@@ -38,6 +92,24 @@
       "summary": "Grand Theft Auto 6 prezentuje się zaskakująco dobrze na porównaniu graficznym Xboxa Series S z PlayStation 5 Pro, choć z poważnym zastrzeżeniem.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532866171.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS4 nigdzie się nie wybiera! PlayStation obchodzi 13-urodziny, a gracze świętują",
+      "sourceUrl": "https://www.ppe.pl/news/433875/ps4-nigdzie-sie-nie-wybiera-playstation-obchodzi-13-urodziny-a-gracze-swietuja.html",
+      "publishedAt": "2026-11-20T11:21+01:00",
+      "summary": "PlayStation 4 obchodzi właśnie swoje trzynaste urodziny. W świecie gier wideo taki wiek to już niemal prehistoria i większość konsol z podobnym stażem dawno wylądowała na dnie szafy albo na półce u kolekcjonerów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/839d0c1c7b3a624b9e06/839d0c1c7b3a624b9e06.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Kinowe DLC do „Spider-Mana” zapowiedziane w Polsce! „Całkiem nowy dzień” powraca na wielki ekran z nowymi scenami",
+      "sourceUrl": "https://cdaction.pl/kultura/kinowe-dlc-do-spider-mana-zapowiedziane-w-polsce-calkiem-nowy-dzien-powraca-na-wielki-ekran-z-nowymi-scenami/",
+      "publishedAt": "2026-11-20T11:15+01:00",
+      "summary": "Skok na kasę? Reżyser dementuje oskarżenia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/03/Spider-man-2.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -209,78 +281,6 @@
       "summary": "Zwiastun zapowiada powrót Nicolasa Cage’a w sequelu jednego z jego najlepszych filmów. Aktor wciela się w swoją postać sprzed ponad dwóch dekad.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532859659.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Paapa Essiedu jako Snape, a w sieci burza o Czarną Różdżkę. HBO pokazało nowe plakaty z serialowego „Harry’ego Pottera”",
-      "sourceUrl": "https://cdaction.pl/kultura/paapa-essiedu-jako-snape-a-w-sieci-burza-o-czarna-rozdzke-hbo-pokazalo-nowe-plakaty-z-serialowego-harryego-pottera/",
-      "publishedAt": "2026-11-20T09:25+01:00",
-      "summary": "Znowu internauci mają na co marudzić.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Paapa-Essiedu-Snape.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Alienware 15 Intel Core 7 240H 16GB RAM RTX 5060 za 4599 zł (40% taniej) w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/alienware-15-intel-core-7-240h-16gb-ram-rtx-5060-za-4599-zl-40-taniej-w-amazon-pl/",
-      "publishedAt": "2026-11-20T09:23+01:00",
-      "summary": "W polskim Amazonie pojawiła się świetna oferta na Alienware 15 w konfiguracji z procesorem Intel Core 7 240H. Model wyposażony w matrycę o częstotliwości odświeżania 165 Hz, rozdzielczości 1920 x 1200 pikseli i wsparciu dla AMD FreeSync Premium, kosztuje 4599 złotych. Karta graficzna na pokładzie to Nvidia GeForce RTX 5060 z 8GB pamięci. W zestawie otrzymacie także 3 miesiące PC Game Pass. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/alienware-15-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Leaker GTA 6 powraca. Tym razem twierdzi, że ma kompletny build gry na Xboksa",
-      "sourceUrl": "https://cdaction.pl/newsy/leaker-gta-6-powraca-tym-razem-twierdzi-ze-ma-kompletny-build-gry-na-xboksa/",
-      "publishedAt": "2026-11-20T09:19+01:00",
-      "summary": "Udostępni go i tak, ale stanie się to szybciej, jeśli nabijecie mu kabzę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Jason_Lucia_Rooftop_landscape-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "2 dni po premierze GTA 6 wraca Cyberleek. Haker grozi Rockstarowi i Take-Two",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/2-dni-po-premierze-gta-6-wraca-cyberleek-twierdzi-ze-udostepnil-n/z5323d9",
-      "publishedAt": "2026-11-20T09:06+01:00",
-      "summary": "Po premierze GTA 6 do sieci wrócił Cyberleek, który twierdzi, że opublikował niemal kompletny build gry na Xboksa z listopada 2026 roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532857988.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Najśliczniejsza kobieta w GTA 6 prześwietlona. Mandy ma WIELKI sekret",
-      "sourceUrl": "https://www.ppe.pl/news/433869/najsliczniejsza-kobieta-w-gta-6-przeswietlona-mandy-ma-wielki-sekret.html",
-      "publishedAt": "2026-11-20T08:53+01:00",
-      "summary": "Ledwo minęła premiera Grand Theft Auto 6, a gracze już zdążyli znaleźć sobie wielką ulubienicę wśród postaci pobocznych. Internet błyskawicznie stracił głowę dla Mandy - na pozór sympatycznej, choć nieco nachalnej sąsiadki Jasona, któ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/af9ed901b95c7b22dd5b/af9ed901b95c7b22dd5b.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Preorder LEGO Art 67012 – Obraz Okładka komiksu z Jokerem za 615,56 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/preorder-lego-art-67012-obraz-okladka-komiksu-z-jokerem-za-61556-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-20T08:48+01:00",
-      "summary": "Liczący 1849 klocków zestaw LEGO Art – Obraz – Okładka komiksu z Jokerem, zamówicie w przedsprzedaży również w polskim oddziale sklepu Amazon. Set pozwoli Wam zbudować ozdobę ścienną, nawiązującą do wydania numer 880 Batman Detective Comics i może być wasz za 615,56 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/lego-art-obraz-okladka-z-komiksu-z-jokerem-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Netflix z wyjątkową nowością na weekend. Znana baśń w zupełnie nowym wydaniu",
-      "sourceUrl": "https://www.ppe.pl/news/433853/netflix-z-wyjatkowa-nowoscia-na-weekend-znana-basn-w-zupelnie-nowym-wydaniu.html",
-      "publishedAt": "2026-11-20T08:40+01:00",
-      "summary": "Netflix przygotował na weekend wyjątkową propozycję dla całych rodzin. Tym razem platforma zaprasza widzów do świata jednej z najbardziej rozpoznawalnych baśni, ale zamiast ponownie przedstawiać dobrze znaną historię, twórcy postanowili spoj...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/19ffa6b3358be9a3f72b/19ffa6b3358be9a3f72b.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Jeden z największych hitów Amazon Prime Video powraca. Niezwyciężony 5 z datą premiery",
-      "sourceUrl": "https://www.ppe.pl/news/433841/jeden-z-najwiekszych-hitow-amazon-prime-video-powraca-niezwyciezony-5-z-data-premiery.html",
-      "publishedAt": "2026-11-20T08:15+01:00",
-      "summary": "Amazon Prime Video potwierdził datę premiery kolejnego sezonu jednego ze swoich największych hitów. „Niezwyciężony” od lat zachwyca widzów brutalną akcją, nieprzewidywalną historią i świetnie napisanymi bohaterami, a najnowsza zapowiedź...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0f0bf60671ab8e7141a7/0f0bf60671ab8e7141a7.png"
     }
   ],
   "indie": [
