@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T05:01+01:00",
+  "updatedAt": "2026-11-20T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ta sekretna misja poboczna z GTA 6 zachwyci fanów Archiwum X. UWAGA SPOILERY",
-    "summary": "Rockstar Games przygotowało w GTA 6 mnóstwo atrakcji, ale niektóre niespodzianki mogą szczególnie zainteresować fanów popkultury. Twórcy nie zapomnieli o miłośnikach science fiction i przygotowali misję poboczną, która powinna wywołać sze...",
-    "sourceUrl": "https://www.ppe.pl/news/433856/ta-misja-poboczna-z-gta-6-zachwyci-fanow-archiwum-x-uwaga-spoilery.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/f5e9970b9b185684deb1/f5e9970b9b185684deb1.jpg"
+    "title": "W kwietniu w kinach, a już dzisiaj na HBO Max! Thriller akcji od twórców Johna Wicka",
+    "summary": "HBO Max zaprasza widzów na naprawdę ciekawą propozycję. Film jeszcze kilka miesięcy temu można było oglądać na wielkim ekranie, a teraz trafił do streamingu.",
+    "sourceUrl": "https://www.ppe.pl/news/433851/w-kwietniu-w-kinach-a-juz-dzisiaj-na-hbo-max-thriller-akcji-od-tworcow-johna-wicka.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/0538523df41a51aafae2/0538523df41a51aafae2.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "W kwietniu w kinach, a już dzisiaj na HBO Max! Thriller akcji od twórców Johna Wicka",
+      "sourceUrl": "https://www.ppe.pl/news/433851/w-kwietniu-w-kinach-a-juz-dzisiaj-na-hbo-max-thriller-akcji-od-tworcow-johna-wicka.html",
+      "publishedAt": "2026-11-20T05:44+01:00",
+      "summary": "HBO Max zaprasza widzów na naprawdę ciekawą propozycję. Film jeszcze kilka miesięcy temu można było oglądać na wielkim ekranie, a teraz trafił do streamingu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0538523df41a51aafae2/0538523df41a51aafae2.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Ta sekretna misja poboczna z GTA 6 zachwyci fanów Archiwum X. UWAGA SPOILERY",
