@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T14:01+01:00",
+  "updatedAt": "2026-11-20T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Rzadki widok: nowe DLC Paradoxu chwalone za cenę, a HoI4 dostaje drzewka dla Rumunii",
-    "summary": "Hearts of Iron 4: To The Bitter End na razie zbiera pochwały, i to także za cenę (choć nie od wszystkich).",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/rzadki-widok-nowe-dlc-paradoxu-chwalone-za-cene-a-hoi4-dostaje-dr/z1323f3",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532877920.jpg"
+    "title": "GTA 6 na PC jeszcze nie ma, więc pecetowcy wracają do starszych odsłon. Prawie 88 000 osób w GTA 5 jednocześnie na Steamie",
+    "summary": "Na oficjalną wersję PC GTA 6 jeszcze sporo poczekamy. Wielu graczy pecetowych postanowiło więc na razie powrócić do dwóch wcześniejszych odsłon serii.LEAD: Na oficjalną wersję PC GTA 6 jeszcze sporo poczekamy. Wielu graczy pecetowych postanowiło więc na razie powrócić do dwóch wcześniejszych odsłon serii.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-na-pc-jeszcze-nie-ma-wiec-pecetowcy-wracaja-do-starszych-od/z3323f5",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532879102.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 na PC jeszcze nie ma, więc pecetowcy wracają do starszych odsłon. Prawie 88 000 osób w GTA 5 jednocześnie na Steamie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-na-pc-jeszcze-nie-ma-wiec-pecetowcy-wracaja-do-starszych-od/z3323f5",
+      "publishedAt": "2026-11-20T14:58+01:00",
+      "summary": "Na oficjalną wersję PC GTA 6 jeszcze sporo poczekamy. Wielu graczy pecetowych postanowiło więc na razie powrócić do dwóch wcześniejszych odsłon serii.LEAD: Na oficjalną wersję PC GTA 6 jeszcze sporo poczekamy. Wielu graczy pecetowych postanowiło więc na razie powrócić do dwóch wcześniejszych odsłon serii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532879102.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 zarobiło MILIARDY DOLARÓW! Xbox pozostaje daleko za PlayStation",
+      "sourceUrl": "https://www.ppe.pl/news/433910/gta-6-zarobilo-miliardy-dolarow-xbox-pozostaje-daleko-za-playstation.html",
+      "publishedAt": "2026-11-20T14:51+01:00",
+      "summary": "Według szacunków firmy analitycznej Sensor Tower Grand Theft Auto VI sprzedało się w nakładzie 24,58 miliona kopii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6aa202ef402e53f281e8/6aa202ef402e53f281e8.webp"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Rzadki widok: nowe DLC Paradoxu chwalone za cenę, a HoI4 dostaje drzewka dla Rumunii",
@@ -20,6 +38,51 @@
       "summary": "Hearts of Iron 4: To The Bitter End na razie zbiera pochwały, i to także za cenę (choć nie od wszystkich).",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532877920.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Netflix potwierdza opóźnienie Wiedźmina. Na ostatni sezon jeszcze poczekamy",
+      "sourceUrl": "https://www.ppe.pl/news/433909/netflix-potwierdza-opoznienie-wiedzmina-na-ostatni-sezon-jeszcze-poczekamy.html",
+      "publishedAt": "2026-11-20T14:36+01:00",
+      "summary": "Fani „Wiedźmina” muszą uzbroić się w cierpliwość. Netflix potwierdził, że finałowy, piąty sezon serialu nie pojawi się wcześniej niż w 2027 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/788793e58ee157cfc2f8/788793e58ee157cfc2f8.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera Gothic 3 Classic na PS5 i Xbox Series już w przyszłym tygodniu. Gdzie kupić pudełkowe wydanie gry najtaniej?",
+      "sourceUrl": "https://lowcygier.pl/preordery/premiera-gothic-3-classic-na-ps5-i-xbox-series-juz-w-przyszlym-tygodniu-gdzie-kupic-pudelkowe-wydanie-gry-najtaniej/",
+      "publishedAt": "2026-11-20T14:24+01:00",
+      "summary": "Bezimienny nie obawia się GTA VI. Premiera Gothic 3 Classic odbędzie się już 24 listopada. Na początku w ostatnią odsłonę przygód charyzmatycznego bohatera zagrają posiadacze konsol PlayStation 5 oraz Xbox Series. Wydanie wersji na Nintendo Switch 2 zostało bowiem przeniesione na przyszły rok. Przygotowaliśmy dla Was wpis, z którego dowiecie się, co zaoferuje odświeżony RPG i gdzie kupicie go najtaniej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gothic-3-Classic-premiera-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "HP Omen 16 Intel Core i7-14650HX 16GB RAM RTX 5070 za 5499 zł (1000 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/hp-omen-16-intel-core-i7-14650hx-16gb-ram-rtx-5070-za-5499-zl-1000-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-20T14:24+01:00",
+      "summary": "Laptop HP Omen 16 pojawił się w dobrej cenie w całkiem niezłej konfiguracji. Sklep x-kom oferuje model z procesorem Intel Core i7 14. generacji, 16GB RAM oraz kartą graficzną Nvidia GeForce RTX 5070 za 5499 złotych. Model ten posiada także matrycę OLED o częstotliwości odświeżania 165 Hz. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Promocja-laptop-HP-Omen-16-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "KOTOR Remake na The Game Awards 2026? Znany informator zdradza plany",
+      "sourceUrl": "https://www.ppe.pl/news/433906/kotor-remake-na-the-game-awards-2026-znany-informator-zdradza-plany.html",
+      "publishedAt": "2026-11-20T14:21+01:00",
+      "summary": "Gracze i fani Star Wars: Knights of the Old Republic mogą wreszcie doczekać się nowych informacji o długo wyczekiwanym remake'u kultowego RPG.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f19479f9b9822e9f4ba1/f19479f9b9822e9f4ba1.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Część graczy narzeka w GTA 6 na nudę i cytuje słynną wypowiedź Gabe’a Newella. „Gdybym chciał to wszystko robić, to zagrałbym w The Sims”",
+      "sourceUrl": "https://cdaction.pl/newsy/czesc-graczy-narzeka-w-gta-6-na-nude-i-cytuje-slynna-wypowiedz-gabea-newella-gdybym-chcial-to-wszystko-robic-to-zagralbym-w-the-sims/",
+      "publishedAt": "2026-11-20T14:15+01:00",
+      "summary": "Wygląda na to, że niezwykły realizm GTA 6 nie jest dla wszystkich.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/lucia-gta-1260x709.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -218,69 +281,6 @@
       "summary": "Od momentu premiery Grand Theft Auto 6 internet praktycznie przestał rozmawiać o czymkolwiek innym. Dzieło Rockstara z marszu pobiło historyczny rekord serwisu Metacritic, spychając z tronu nawet legendarną Zeldę: Ocarina of Time z 1998 roku, i w...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Miasto nie śpi. Akcja nie zwalnia ani na chwilę",
-      "sourceUrl": "https://cdaction.pl/newsy/miasto-nie-spi-akcja-nie-zwalnia-ani-na-chwile/",
-      "publishedAt": "2026-11-20T12:08+01:00",
-      "summary": "Neony, ruchliwe ulice, samochodowe pościgi i miasto, które żyje własnym rytmem. W grach z otwartym światem najlepsze historie często zaczynają się wtedy, gdy zamiast kolejnej misji wybierasz nocną przejażdżkę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/TVS90Gv2-1260x704.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Płaciłeś kartą przez Autopay? Twoje dane mogły trafić w ręce hakerów. Co najmniej dwa banki już zastrzegają karty klientów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/placiles-karta-przez-autopay-twoje-dane-mogly-trafic-w-rece-haker/z1323e4",
-      "publishedAt": "2026-11-20T12:00+01:00",
-      "summary": "Autopay padło ofiarą cyberataku wspomaganego przez sztuczną inteligencję. Według ministra cyfryzacji wyciec mogły dane setek tysięcy kart płatniczych, numerów telefonów i e-maili.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532868219.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "W nowym spin-offie Fallouta główną rolę odegrają… koty. Bethesda potwierdza A Wasteland Full of Cats",
-      "sourceUrl": "https://cdaction.pl/newsy/w-nowym-spin-offie-fallouta-glowna-role-odegraja-koty-bethesda-potwierdza-a-wasteland-full-of-cats/",
-      "publishedAt": "2026-11-20T12:00+01:00",
-      "summary": "A teraz odkładamy broń i szukamy ukrytych kotków.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/tower-full-of-cats-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "120 godzin w GTA 6. Krzysztof „Draug” Mysiak ujawnia sekrety i dziwactwa Vice City",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/120-godzin-w-gta-6-krzysztof-draug-mysiak-ujawnia-sekrety-i-dziwa/z2323df",
-      "publishedAt": "2026-11-20T11:56+01:00",
-      "summary": "Draug spędził w GTA 6 około 120 godzin i napisał naszą recenzję. Teraz w materiale tvgry odpowiedział na 12 pytań, w tym te, które sami zadaliście przed premierą. Wybraliśmy najciekawsze rzeczy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532866238.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "\"Jesteś tragicznym rodzicem, jeśli...\". Polityk uważa GTA 6 za \"podręcznik dla przestępców\"",
-      "sourceUrl": "https://www.ppe.pl/news/433876/jestes-tragicznym-rodzicem-jesli-polityk-uwaza-gta-6-za-podrecznik-dla-przestepcow.html",
-      "publishedAt": "2026-11-20T11:48+01:00",
-      "summary": "Wielka premiera Grand Theft Auto 6 sprawiła, że z szafy znów wypadły stare, dobrze znane strachy o szkodliwości gier wideo z cyklu GTA.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8feb5fde28f976fe3a11/8feb5fde28f976fe3a11.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Netflix szykuje jeden z największych filmowych hitów roku, ale pojawił się problem. David Fincher miał wykorzystać AI",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/netflix-szykuje-jeden-z-najwiekszych-filmowych-hitow-roku-ale-poj/z0323e3",
-      "publishedAt": "2026-11-20T11:44+01:00",
-      "summary": "Najnowszy film Davida Finchera, oparty na scenariuszu Quentina Tarantino, może wywołać kontrowersje z powodu wykorzystania sztucznej inteligencji. Jeden z recenzentów twierdzi, że generatywna AI została użyta w ważnych scenach, a efekty pozostawiają wiele do życzenia.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532867207.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 to nudny \"symulator pantoflarza\"? Nowa produkcja Rockstar zderza się z krytyką graczy",
-      "sourceUrl": "https://www.ppe.pl/news/433897/gta-6-to-nudny-symulator-pantoflarza-nowa-produkcja-rockstar-zderza-sie-z-krytyka-graczy.html",
-      "publishedAt": "2026-11-20T11:35+01:00",
-      "summary": "Wygląda na to, że recepcja GTA 6 nie będzie tak idealna, jak wymarzyło sobie Take Two.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ea50b1d72d230a2dd2c5/ea50b1d72d230a2dd2c5.png"
     }
   ],
   "indie": [
@@ -361,7 +361,7 @@
       "note": "Rockstar potwierdza premierę 19 listopada na PS5 i Xbox Series X|S. Akcja przenosi serię do fikcyjnego stanu Leonida.",
       "sourceUrl": "https://www.rockstargames.com/VI",
       "summary": "Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.",
-      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?8DSFc26rmFX7srA3UiIEb"
+      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?TfXRuFEcaoj7Q2oKW_PXW"
     },
     {
       "date": "2026-11-24",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "c0b46a93379ba3aa1c5b3d6042ac7a9c77b20ac68736f3345fd9a39331a4d82d"
+  "editorialHash": "2b3559829572d938b159775692a8ded1a410d44f291763cf4cd91d3622775907"
 }
