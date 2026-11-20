@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T10:01+01:00",
+  "updatedAt": "2026-11-20T10:38+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Od razu na 1. miejscu w 53 krajach. Nowy film z gwiazdą Supernatural, Jaredem Padaleckim, podbija Netflixa",
-    "summary": "Netflix ma nowy filmowy hit. Listy przebojów podbija świąteczna produkcja z gwiazdą Supernatural w roli głównej.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/od-razu-na-1-miejscu-w-53-krajach-nowy-film-z-gwiazda-supernatura/z1323de",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532863835.jpg"
+    "title": "GTA 6: gracze w szoku po obejrzeniu porównań graficznych. Konsola za nawet 7000 złotych kontra najtańszy Xbox",
+    "summary": "Grand Theft Auto 6 prezentuje się zaskakująco dobrze na porównaniu graficznym Xboxa Series S z PlayStation 5 Pro, choć z poważnym zastrzeżeniem.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-gracze-w-szoku-po-obejrzeniu-porownan-graficznych-konsola-z/zf323e2",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532866171.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6: gracze w szoku po obejrzeniu porównań graficznych. Konsola za nawet 7000 złotych kontra najtańszy Xbox",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-gracze-w-szoku-po-obejrzeniu-porownan-graficznych-konsola-z/zf323e2",
+      "publishedAt": "2026-11-20T11:25+01:00",
+      "summary": "Grand Theft Auto 6 prezentuje się zaskakująco dobrze na porównaniu graficznym Xboxa Series S z PlayStation 5 Pro, choć z poważnym zastrzeżeniem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532866171.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracze szykowali się na GTA 6 mimo podwyżek. Przychody z konsol Xbox Series w USA skoczyły o 42%",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-szykowali-sie-na-gta-6-mimo-podwyzek-przychody-z-konsol-xb/zd323e0",
+      "publishedAt": "2026-11-20T11:00+01:00",
+      "summary": "Xbox może świętować wzrost sprzedaży konsol. Wyraźnie wzrosły również wydatki na sprzęt Microsoftu, choć głównie przez podwyżki cen wprowadzone w 2026 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532864657.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Od razu na 1. miejscu w 53 krajach. Nowy film z gwiazdą Supernatural, Jaredem Padaleckim, podbija Netflixa",
@@ -29,6 +47,60 @@
       "summary": "Choć od zapowiedzi Assassin’s Creed: Jade minęło już kilka lat, o grze wciąż jest bardzo cicho. Wypowiedź przedstawiciela Ubisoftu sugeruje jednak, że gra nadal jest w produkcji.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532863637.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Fani GTA 6 w końcu mają potwierdzenie, kto wciela się w Jasona. W sieci pojawiło się wspólne oświadczenie duetu aktorskiego",
+      "sourceUrl": "https://cdaction.pl/newsy/fani-gta-6-w-koncu-maja-potwierdzenie-kto-wciela-sie-w-jasona-w-sieci-pojawilo-sie-wspolne-oswiadczenie-duetu-aktorskiego/",
+      "publishedAt": "2026-11-20T10:30+01:00",
+      "summary": "Aktorzy wcielający się w Lucię i Jasona opublikowali oświadczenie, w którym podziękowali Rockstarowi za możliwość udziału w produkcji GTA 6.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-20-o-09.46.05-1260x662.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 już działa w 60 FPS. Gameplay wygląda przecudownie",
+      "sourceUrl": "https://www.ppe.pl/news/433873/gta-6-juz-dziala-w-60-fps-gameplay-wyglada-przecudownie.html",
+      "publishedAt": "2026-11-20T10:29+01:00",
+      "summary": "Ledwo Rockstar Games zamknęło temat wyższej płynności, tłumacząc, że nawet PlayStation 5 Pro jest zbyt słabe na 60 klatek w Grand Theft Auto 6, a sprytni gracze już znaleźli sposób, żeby obejść ten problem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/1ac14b79b5d7a0281aec/1ac14b79b5d7a0281aec.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Grand Theft Auto VI Ultimate Edition na Xbox Series X|S za 348,65 zł w Eneba",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/grand-theft-auto-vi-ultimate-edition-na-xbox-series-xs-za-35295-zl-w-eneba/",
+      "publishedAt": "2026-11-20T10:16+01:00",
+      "summary": "Jesteśmy po premierze GTA VI. Jeśli jeszcze nie zaopatrzyliście się w swój egzemplarz, a chcielibyście pograć na swoim Xbox Series, sięgnijcie do oferty dostępnej w Eneba. Po wykorzystaniu kodu zniżkowego, hit studia Rockstar Games w wersji Ultimate będzie wasz za 348,65 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/Grand-Theft-Auto-VI-okladka-cover-art-203x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze odkryli, jak włączyć kamerę FPP w GTA 6. Czemu Rockstar ukrywa perspektywę pierwszej osoby?",
+      "sourceUrl": "https://www.ppe.pl/news/433879/gracze-odkryli-jak-wlaczyc-kamere-fpp-w-gta-6-czemu-rockstar-ukrywa-perspektywe-pierwszej-osoby.html",
+      "publishedAt": "2026-11-20T10:05+01:00",
+      "summary": "W GTA 6 nie ma w pełni grywalnej perspektywy FPP. Przynajmniej oficjalnie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a90f0287448ce2bd3794/a90f0287448ce2bd3794.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox Series X uratowany! Mało brakło do OGROMNEJ klęski Microsoftu",
+      "sourceUrl": "https://www.ppe.pl/news/433872/xbox-series-x-uratowany-malo-braklo-do-ogromnej-kleski-microsoftu.html",
+      "publishedAt": "2026-11-20T10:03+01:00",
+      "summary": "Nie jest żadną tajemnicą, że konsole Xbox Series X i S od dłuższego czasu radziły sobie w sklepach fatalnie i wielu graczy zdążyło już postawić na nich krzyżyk. Tymczasem najnowszy raport firmy Circana z rynku amerykańskiego za październi...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0cd59a78dc5d59e81409/0cd59a78dc5d59e81409.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Mobilny Assassin’s Creed w starożytnych Chinach wciąż żyje. Ale jeszcze sobie na niego poczekamy?",
+      "sourceUrl": "https://cdaction.pl/newsy/mobilny-assassins-creed-w-starozytnych-chinach-wciaz-zyje-ale-jeszcze-sobie-na-niego-poczekamy/",
+      "publishedAt": "2026-11-20T10:00+01:00",
+      "summary": "Może urwał mu się guzik od czapki i nie mogą go odmienić w pełnoprawną grę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-8-1260x810.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -209,78 +281,6 @@
       "summary": "GTA 6 jest już dostępne na PlayStation 5 i Xboksach Series X|S, ale wielu graczy zastanawia się, czy Rockstar Games zdecyduje się również przygotować wersję na Nintendo Switcha 2. Eksperci Digital Foundry przyjrzeli się możliwości przeniesien...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/e43677d56cdf47240391/e43677d56cdf47240391.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Bolesna PORAŻKA PlayStation. Gracze zapominają o Marvel's Wolverine",
-      "sourceUrl": "https://www.ppe.pl/news/433868/bolesna-porazka-playstation-gracze-zapominaja-o-marvel-s-wolverine.html",
-      "publishedAt": "2026-11-20T06:40+01:00",
-      "summary": "Sony miało w tym roku jedną wielką premierę na PlayStation 5, ale najnowsze wyniki sprzedaży pokazują, że Marvel’s Wolverine może nie być takim sukcesem, na jaki liczyli fani Insomniac Games.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/012303b5f48a5714a8fd/012303b5f48a5714a8fd.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Twórcy Europa Universalis 5 muszą się tłumaczyć. Dodali do wielkiej strategii „najbardziej kontrowersyjną rzecz od premiery”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-europa-universalis-5-musza-sie-tlumaczyc-dodali-do-wielkie/z3323d7",
-      "publishedAt": "2026-11-20T06:30+01:00",
-      "summary": "Aktualizacja Europa Universalis V miała usprawnić rozgrywkę, ale zamiast tego wywołała rozłam wśród fanów. Paradox Tinto przyznaje, że zlekceważyło ostrzeżenia graczy i przedstawia cztery obietnice na przyszłość.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532815598.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Cenzura GTA 6 zaskakuje. Gracze nie mogą zobaczyć ostrych scen",
-      "sourceUrl": "https://www.ppe.pl/news/433845/cenzura-gta-6-zaskakuje-gracze-nie-moga-zobaczyc-ostrych-scen.html",
-      "publishedAt": "2026-11-20T06:15+01:00",
-      "summary": "GTA 6 jest przeładowane cielesnością, nagością i brutalnością, ale nie wszyscy gracze mogą doświadczyć wszystkich atrakcji najnowszej produkcji Rockstar Games. Już przed premierą pojawiały się doniesienia, że jedna z wersji Grand Theft Au...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a942fc0f9e64e03a184c/a942fc0f9e64e03a184c.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "W kwietniu w kinach, a już dzisiaj na HBO Max! Thriller akcji od twórców Johna Wicka",
-      "sourceUrl": "https://www.ppe.pl/news/433851/w-kwietniu-w-kinach-a-juz-dzisiaj-na-hbo-max-thriller-akcji-od-tworcow-johna-wicka.html",
-      "publishedAt": "2026-11-20T05:44+01:00",
-      "summary": "HBO Max zaprasza widzów na naprawdę ciekawą propozycję. Film jeszcze kilka miesięcy temu można było oglądać na wielkim ekranie, a teraz trafił do streamingu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0538523df41a51aafae2/0538523df41a51aafae2.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ta sekretna misja poboczna z GTA 6 zachwyci fanów Archiwum X. UWAGA SPOILERY",
-      "sourceUrl": "https://www.ppe.pl/news/433856/ta-misja-poboczna-z-gta-6-zachwyci-fanow-archiwum-x-uwaga-spoilery.html",
-      "publishedAt": "2026-11-19T23:32+01:00",
-      "summary": "Rockstar Games przygotowało w GTA 6 mnóstwo atrakcji, ale niektóre niespodzianki mogą szczególnie zainteresować fanów popkultury. Twórcy nie zapomnieli o miłośnikach science fiction i przygotowali misję poboczną, która powinna wywołać sze...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f5e9970b9b185684deb1/f5e9970b9b185684deb1.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Prime Video odpala świąteczną bombę! Wielki powrót najpopularniejszego programu komediowego w Polsce",
-      "sourceUrl": "https://www.ppe.pl/news/433809/prime-video-odpala-swiateczna-bombe-wielki-powrot-najpopularniejszego-programu-komediowego-w-polsce.html",
-      "publishedAt": "2026-11-19T17:45+01:00",
-      "summary": "Platforma Prime Video oficjalnie zapowiedziała specjalną, świąteczną odsłonę swojego programu komediowego.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e1cb3ee3d699d07a5b90/e1cb3ee3d699d07a5b90.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Hot Wheels Mattel Lamborghini Miura (1523 el.) za 379 zł + kod 50 PLN na zakupy w Amazon PL!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/hot-wheels-mattel-lamborghini-miura-1523-el-za-379-zl-kod-50-pln-na-zakupy-w-amazon-pl/",
-      "publishedAt": "2026-11-19T17:40+01:00",
-      "summary": "W polskim oddziale sklepu Amazon pojawiła się bardzo dobra promocja na klocki Hot Wheels. W ramach okazji, najnowszy aktualnie wariant z serii Mattel Brick Shop Premium Series dostępny jest za 379,97 zł. Model Lamborghini Miura P400 SV w skali 1:12, składający się z imponującej liczby 1523 elementów, zawiera kultowy samochód włoskiej marki z unikalnymi elementami, metalowy resorak (1:64) z gablotką oraz breloczek. W ramach zamówienia otrzymacie także 50 PLN do wykorzystania na zakupy w okresie od 1 lutego do 31 marca 2027 roku! Kod rabatowy zostanie dostarczony na Wasz adres e-mail dopiero w momencie wysłania zamówienia. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-Hot-Wheels-Mattel-Lamborghini-Miura-P400-SV-1523-el.-za-419-zl-na-Allegro_obrazek_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Sony jest wprost załamane. Kolejna gra ekskluzywna otrzymała port na PC z mnóstwem usprawnień",
-      "sourceUrl": "https://www.ppe.pl/news/433812/sony-jest-wprost-zalamane-kolejna-gra-ekskluzywna-otrzymala-port-na-pc-z-mnostwem-usprawnien.html",
-      "publishedAt": "2026-11-19T17:23+01:00",
-      "summary": "Gracze, jak i fani klasycznych wyścigów mogą mieć powód do radości. Gran Turismo 3: A-Spec doczekało się nieoficjalnego portu na PC, który nie wymaga uruchamiania gry przez emulator PlayStation 2.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/413b019b862efe892d9e/413b019b862efe892d9e.png"
     }
   ],
   "indie": [
