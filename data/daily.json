@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T09:01+01:00",
+  "updatedAt": "2026-11-20T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "W GTA 6 da się grać z perspektywy pierwszej osoby. Gracze znaleźli prosty trik",
-    "summary": "W GTA 6 nie ma możliwości grania z perspektywy pierwszej osoby. Przynajmniej nieoficjalnie, ponieważ gracze natrafili błąd, który to umożliwia.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-da-sie-grac-z-perspektywy-pierwszej-osoby-gracze-znalezli/ze323db",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532860618.jpg"
+    "title": "Od razu na 1. miejscu w 53 krajach. Nowy film z gwiazdą Supernatural, Jaredem Padaleckim, podbija Netflixa",
+    "summary": "Netflix ma nowy filmowy hit. Listy przebojów podbija świąteczna produkcja z gwiazdą Supernatural w roli głównej.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/od-razu-na-1-miejscu-w-53-krajach-nowy-film-z-gwiazda-supernatura/z1323de",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532863835.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Od razu na 1. miejscu w 53 krajach. Nowy film z gwiazdą Supernatural, Jaredem Padaleckim, podbija Netflixa",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/od-razu-na-1-miejscu-w-53-krajach-nowy-film-z-gwiazda-supernatura/z1323de",
+      "publishedAt": "2026-11-20T10:46+01:00",
+      "summary": "Netflix ma nowy filmowy hit. Listy przebojów podbija świąteczna produkcja z gwiazdą Supernatural w roli głównej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532863835.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Assassin’s Creed w starożytnych Chinach wciąż żyje. Ubisoft potwierdza prace nad AC: Jade",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/assassins-creed-w-starozytnych-chinach-wciaz-zyje-ubisoft-potwier/z0323dd",
+      "publishedAt": "2026-11-20T10:41+01:00",
+      "summary": "Choć od zapowiedzi Assassin’s Creed: Jade minęło już kilka lat, o grze wciąż jest bardzo cicho. Wypowiedź przedstawiciela Ubisoftu sugeruje jednak, że gra nadal jest w produkcji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532863637.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "W GTA 6 da się grać z perspektywy pierwszej osoby. Gracze znaleźli prosty trik",
@@ -22,6 +40,51 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532860618.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Niezwykle wydajny laptop Alienware z RTX 5060, 165 Hz + 3 miesiące XGP za 4599 zł zamiast 7670 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/433887/niezwykle-wydajny-laptop-alienware-z-rtx-5060-165-hz-3-miesiace-xgp-za-4599-zl-zamiast-7670-zl.html",
+      "publishedAt": "2026-11-20T09:45+01:00",
+      "summary": "Taniej o 40% względem standardowej ceny nabędziemy bardzo wydajny laptop firmy Alienware.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0b696d1d2cb3cc293352/0b696d1d2cb3cc293352.avif"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Śliczny limitowany pad Xbox Storm Breaker za 214 zł zamiast 339 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/pady-kontrolery/433886/sliczny-limitowany-pad-xbox-storm-breaker-za-214-zl-zamiast-339-zl.html",
+      "publishedAt": "2026-11-20T09:43+01:00",
+      "summary": "Taniej o ponad 35% względem ceny standardowej nabędziemy kontroler firmy Xbox.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e6d660451320b872942d/e6d660451320b872942d.avif"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Premiera GTA 6 była szalona. Twórcy dodawali moment przed debiutem nowości",
+      "sourceUrl": "https://www.ppe.pl/news/433871/premiera-gta-6-byla-szalona-tworcy-dodawali-moment-przed-debiutem-nowosci.html",
+      "publishedAt": "2026-11-20T09:41+01:00",
+      "summary": "Podczas gdy większość dużych gier trafia do tłoczni na długie miesiące przed premierą i w zasadzie czeka już tylko na swój dzień, Rockstar Games pracowało nad Grand Theft Auto 6 niemal do ostatniego gwizdka.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/9cb833bad69fe7a418c4/9cb833bad69fe7a418c4.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA? Jakie GTA? Wracajcie do kolonii - Gothic 1 Remake od 109 zł na PS5, PC i XSX",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/433884/gta-jakie-gta-wracajcie-do-kolonii-gothic-1-remake-od-109-zl-na-ps5-pc-i-xsx.html",
+      "publishedAt": "2026-11-20T09:41+01:00",
+      "summary": "Zauważyliśmy, że wydawca gry Gothic 1 Remake postanowił świętować premierę GTA 6... zniżką na Gothic 1 Remake.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/af2a6f4fa851fce69876/af2a6f4fa851fce69876.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Lepszej okazji na kierownice Logitech G29 do PS5/PC/PS4 nie było! Za darmo też słuchawki",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/433881/lepszej-okazji-na-kierownice-logitech-g29-do-ps5-pc-ps4-nie-bylo-za-darmo-tez-sluchawki.html",
+      "publishedAt": "2026-11-20T09:39+01:00",
+      "summary": "W sklepie X-Kom poprzez platformę Allegro możemy kupić w ramach promocji gamingowej świetny zestaw z kierownicą firmy Logitech.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/56bbdd68db82f71b944c/56bbdd68db82f71b944c.png"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Po 21 latach oczekiwania kontynuacja jednego z najlepszych filmów Nicolasa Cage'a stała się faktem: ujawniono zwiastun i datę premiery",
       "sourceUrl": "https://www.gry-online.pl/newsroom/po-21-latach-oczekiwania-kontynuacja-jednego-z-najlepszych-filmow/zd323da",
@@ -29,6 +92,33 @@
       "summary": "Zwiastun zapowiada powrót Nicolasa Cage’a w sequelu jednego z jego najlepszych filmów. Aktor wciela się w swoją postać sprzed ponad dwóch dekad.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532859659.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Paapa Essiedu jako Snape, a w sieci burza o Czarną Różdżkę. HBO pokazało nowe plakaty z serialowego „Harry’ego Pottera”",
+      "sourceUrl": "https://cdaction.pl/kultura/paapa-essiedu-jako-snape-a-w-sieci-burza-o-czarna-rozdzke-hbo-pokazalo-nowe-plakaty-z-serialowego-harryego-pottera/",
+      "publishedAt": "2026-11-20T09:25+01:00",
+      "summary": "Znowu internauci mają na co marudzić.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Paapa-Essiedu-Snape.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Alienware 15 Intel Core 7 240H 16GB RAM RTX 5060 za 4599 zł (40% taniej) w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/alienware-15-intel-core-7-240h-16gb-ram-rtx-5060-za-4599-zl-40-taniej-w-amazon-pl/",
+      "publishedAt": "2026-11-20T09:23+01:00",
+      "summary": "W polskim Amazonie pojawiła się świetna oferta na Alienware 15 w konfiguracji z procesorem Intel Core 7 240H. Model wyposażony w matrycę o częstotliwości odświeżania 165 Hz, rozdzielczości 1920 x 1200 pikseli i wsparciu dla AMD FreeSync Premium, kosztuje 4599 złotych. Karta graficzna na pokładzie to Nvidia GeForce RTX 5060 z 8GB pamięci. W zestawie otrzymacie także 3 miesiące PC Game Pass. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/alienware-15-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Leaker GTA 6 powraca. Tym razem twierdzi, że ma kompletny build gry na Xboksa",
+      "sourceUrl": "https://cdaction.pl/newsy/leaker-gta-6-powraca-tym-razem-twierdzi-ze-ma-kompletny-build-gry-na-xboksa/",
+      "publishedAt": "2026-11-20T09:19+01:00",
+      "summary": "Udostępni go i tak, ale stanie się to szybciej, jeśli nabijecie mu kabzę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Jason_Lucia_Rooftop_landscape-1260x709.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -191,96 +281,6 @@
       "summary": "Gracze, jak i fani klasycznych wyścigów mogą mieć powód do radości. Gran Turismo 3: A-Spec doczekało się nieoficjalnego portu na PC, który nie wymaga uruchamiania gry przez emulator PlayStation 2.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/413b019b862efe892d9e/413b019b862efe892d9e.png"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Odbierz Mark of the Deep za darmo na PC. Sklep Epic Games rezygnuje z gry Obcy: Izolacja!",
-      "sourceUrl": "https://lowcygier.pl/darmowe/odbierz-mark-of-the-deep-za-darmo-na-pc-sklep-epic-games-rezygnuje-z-gry-obcy-izolacja/",
-      "publishedAt": "2026-11-19T17:19+01:00",
-      "summary": "Łowcy, według zapowiedzi jaka pojawiła się tydzień temu na oficjalnej stronie Epic Games Store, dziś do swoich bibliotek powinniście dodawać grę Obcy: Izolacja za darmo. Niestety, ekipa Tima Sweeneya postanowiła zmienić wspomniane plany i zrezygnowała z dzieła studia Creative Assembl. Zamiast jednaj z najlepszych produkcji z uniwersum Alien, do Waszej dyspozycji oddano grę Mark of the Deep. Pozycja stworzona przez niezależne studio Mad Mimic będzie dostępna zupełnie bezpłatnie do 26 listopada 2026 roku. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odbierz-Mark-of-the-Deep-za-darmo-na-PC.-Sklep-Epic-Games-rezygnuje-z-gry-Obyc_-Izolacja_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Kolejna gra za darmo w Epic Games Storze do odebrania! Piracka metroidvania już na was czeka",
-      "sourceUrl": "https://cdaction.pl/newsy/kolejna-gra-za-darmo-w-epic-games-storze-do-odebrania-piracka-metroidvania-juz-na-was-czeka/",
-      "publishedAt": "2026-11-19T17:00+01:00",
-      "summary": "Gotowi wyruszyć na przeklęte wyspy?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/09/epic-games-2-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Final Fantasy XIII wyciska ekstremalną wydajność ze starego laptopa! Ponad 150 FPS na słabej karcie graficznej",
-      "sourceUrl": "https://www.ppe.pl/news/433804/final-fantasy-xiii-wyciska-ekstremalna-wydajnosc-ze-starego-laptopa-ponad-150-fps-na-slabej-karcie-graficznej.html",
-      "publishedAt": "2026-11-19T16:45+01:00",
-      "summary": "Wczesne porty japońskich gier z ery PlayStation 3 oraz Xboxa 360 na PC cierpią na poważne braki optymalizacyjne. Problem ten dotyka bezpośrednio trylogii Final Fantasy XIII od Square Enix.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/3502dbf5ab18dc132c1f/3502dbf5ab18dc132c1f.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Crimson Desert z pilną aktualizacją! Twórcy naprawili sporo błędów",
-      "sourceUrl": "https://www.ppe.pl/news/433807/crimson-desert-z-pilna-aktualizacja-tworcy-naprawili-sporo-bledow.html",
-      "publishedAt": "2026-11-19T16:30+01:00",
-      "summary": "Pearl Abyss udostępniło kolejną aktualizację do Crimson Desert Enhanced.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/42c95bf66c07ac9dfc85/42c95bf66c07ac9dfc85.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na doładowania do PlayStation Store. Giftcard 300 PLN za 285 zł w Instant Gaming!",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/promocja-na-doladowania-do-playstation-store-giftcard-300-pln-za-285-zl-w-instant-gaming/",
-      "publishedAt": "2026-11-19T16:27+01:00",
-      "summary": "Do oferty cyfrowego sklepu Instant Gaming powróciła promocja na karty podarunkowe PSN. W ramach ofert kartę podarunkową do PlayStation Store o wartości 300 PLN możecie zakupić już za 285,17 zł. Taniej dostępne są także znacznie wyższe nominały. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/300-500-pln-playstation-store-psn-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje w Nintendo eShop. Gry ekskluzywne i produkcje wydawnictwa Marvelous z rabatami do -85%",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/promocje-w-nintendo-eshop-gry-ekskluzywne-i-produkcje-wydawnictwa-marvelous-z-rabatami-do-85/",
-      "publishedAt": "2026-11-19T16:24+01:00",
-      "summary": "Wystartowała kolejna wyprzedaż w Nintendo eShop. Pojawiło się kilka obniżek na ekskluzywne dla Pstryczka produkcje, a wśród nich Metroid Dread, czy też Xenoblade Chronicles Nintendo Switch 2 Edition. Oprócz tego…kolejny raz mamy wyprzedaż gier Marvelousa. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/xenoblade-nintendo-switch-2-edition-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Muzyka w GTA 6 bez tajemnic. Wszystkie utwory i stacje radiowe w jednym miejscu",
-      "sourceUrl": "https://cdaction.pl/newsy/muzyka-w-gta-6-bez-tajemnic-wszystkie-utwory-i-stacje-radiowe-w-jednym-miejscu/",
-      "publishedAt": "2026-11-19T16:15+01:00",
-      "summary": "No trochę tego jest.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-19T142602.575-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Polski serial jest natychmiastowym hitem na Netflixie. To 4-odcinkowy kryminał inspirowany prawdziwymi wydarzeniami",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/polski-serial-jest-natychmiastowym-hitem-na-netflixie-to-4-odcink/ze323cc",
-      "publishedAt": "2026-11-19T16:02+01:00",
-      "summary": "Na Netfliksa trafił nowy polski serial, który błyskawicznie znalazł się wśród najchętniej oglądanych produkcji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532794307.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na klocki PANTASY w ramach Black Friday Week w Amazon PL. Ceny zestawów rozpoczynają się od 70 zł",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-klocki-pantasy-w-ramach-black-friday-week-w-amazon-pl-ceny-zestawow-rozpoczynaja-sie-od-70-zl/",
-      "publishedAt": "2026-11-19T15:58+01:00",
-      "summary": "Polski oddział sklepu Amazon posiada w swojej ofercie masę zestawów klocków firmy PANTASY. Jeśli lubicie tę alternatywę dla duńskich setów konstrukcyjnych, przygotowaliśmy dla Was krótki wpis, w którym znajdziecie najciekawsze promocje na Black Friday. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/pantasy-wielkie-okazje-prime-2026-3b-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Xbox nie może wymawiać nazwy GTA 6? Microsoft promuje premierę, ale unika tytułu gry Rockstara",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/xbox-nie-moze-wymawiac-nazwy-gta-6-microsoft-promuje-premiere-ale/z1323cf",
-      "publishedAt": "2026-11-19T15:46+01:00",
-      "summary": "Wszystko wskazuje na to, że Sony sprytnie uniemożliwiło Microsoftowi wykorzystywanie GTA 6 w kampaniach marketingowych konsol Xbox.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532795594.jpg"
     }
   ],
   "indie": [
