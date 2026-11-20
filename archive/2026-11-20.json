@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T19:16+01:00",
+  "updatedAt": "2026-11-20T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "To, co robią gracze WoW Forever, nie podoba się Blizzardowi. Pora z tym skończyć i przestać chodzić na łatwiznę",
-    "summary": "Blizzard zamierza zerwać z jedną z najpopularniejszych praktyk graczy World of Warcraft: Forever. Deweloperzy chcą, by zdobywanie ekwipunku stało się bardziej nieprzewidywalne, a najlepsze przedmioty nie zawsze były oczywistym wyborem.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/to-co-robia-gracze-wow-forever-nie-podoba-sie-blizzardowi-pora-z/z4323ff",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532896521.jpg"
+    "title": "Jensen Huang miał upokarzać i grozić, by zwiększać wydajność pracowników Nvidii. Nowy raport mówi o latach terroru",
+    "summary": "Najnowsze doniesienia ujawniają mroczną stronę zarządzania Nvidią przez Jensena Huanga, który miał przez lata traktować poniżanie pracowników jako sposób na zwiększenie ich wydajności.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/jensen-huang-mial-upokarzac-i-grozic-by-zwiekszac-wydajnosc-praco/z932400",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532899037.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jensen Huang miał upokarzać i grozić, by zwiększać wydajność pracowników Nvidii. Nowy raport mówi o latach terroru",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jensen-huang-mial-upokarzac-i-grozic-by-zwiekszac-wydajnosc-praco/z932400",
+      "publishedAt": "2026-11-20T20:33+01:00",
+      "summary": "Najnowsze doniesienia ujawniają mroczną stronę zarządzania Nvidią przez Jensena Huanga, który miał przez lata traktować poniżanie pracowników jako sposób na zwiększenie ich wydajności.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532899037.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Madden (2026) - recenzja filmu [Amazon]. Dla Johna Maddena futbol był wszystkim",
+      "sourceUrl": "https://www.ppe.pl/recenzje/433917/madden-2026-recenzja-filmu-amazon-dla-johna-maddena-futbol-byl-wszystkim.html",
+      "publishedAt": "2026-11-20T20:00+01:00",
+      "summary": "John Madden był jednym z najlepszych, jeśli nie w ogóle najlepszym trenerem w historii futbolu amerykańskiego, a później również cenionym komentatorem oraz twarzą piekielnie popularnej serii gier. Facet żył, jadł, pił i oddychał futbolem, ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f26399e73ac9342a23e2/f26399e73ac9342a23e2.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "To, co robią gracze WoW Forever, nie podoba się Blizzardowi. Pora z tym skończyć i przestać chodzić na łatwiznę",
@@ -20,6 +38,42 @@
       "summary": "Blizzard zamierza zerwać z jedną z najpopularniejszych praktyk graczy World of Warcraft: Forever. Deweloperzy chcą, by zdobywanie ekwipunku stało się bardziej nieprzewidywalne, a najlepsze przedmioty nie zawsze były oczywistym wyborem.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532896521.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 ma ukryty tryb pierwszoosobowy? Gracze odkryli sposób na jego uruchomienie",
+      "sourceUrl": "https://www.ppe.pl/news/433941/gta-6-ma-ukryty-tryb-pierwszoosobowy-gracze-odkryli-sposob-na-jego-uruchomienie.html",
+      "publishedAt": "2026-11-20T19:46+01:00",
+      "summary": "W Grand Theft Auto 6 można uruchomić tryb pierwszoosobowy, choć Rockstar Games nie udostępniło go oficjalnie. Gracze odkryli błąd, który pozwala przełączyć kamerę na widok z oczu bohatera i przemierzać Leonidę z zupełnie innej perspektywy...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy Kevin sam w domu powstaje! Macaulay Culkin powraca w kontynuacji",
+      "sourceUrl": "https://www.ppe.pl/news/433965/nowy-kevin-sam-w-domu-powstaje-macaulay-culkin-powraca-w-kontynuacji.html",
+      "publishedAt": "2026-11-20T19:41+01:00",
+      "summary": "To może być jedna z najważniejszych wiadomości dla fanów świątecznego kina! „Kevin sam w domu” od ponad trzech dekad pozostaje nieodłącznym elementem Bożego Narodzenia, a teraz wszystko wskazuje na to, że kultowa seria doczeka się kontyn...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e768684b3f55654ef733/e768684b3f55654ef733.avif"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Guillermo del Toro pracuje nad filmami Marvela i Star Wars? Reżyser odpowiada na plotki",
+      "sourceUrl": "https://www.ppe.pl/news/433939/guillermo-del-toro-pracuje-nad-filmami-marvela-i-star-wars-rezyser-odpowiada-na-plotki.html",
+      "publishedAt": "2026-11-20T19:29+01:00",
+      "summary": "Guillermo del Toro oficjalnie odniósł się do plotek łączących go z uniwersami Marvela i „Gwiezdnych wojen”. Reżyser potwierdził, że obecnie nie prowadzi żadnych rozmów z Disneyem ani nie pracuje nad projektami należącymi do tych popular...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/110e8b7a681ad02775ec/110e8b7a681ad02775ec.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kupując drugi próg warto mieć znajomych. Zestaw 9 gier Steam za 49 zł w Humble Bundle!",
+      "sourceUrl": "https://lowcygier.pl/bundle/kupujac-drugi-prog-warto-miec-znajomych-zestaw-9-gier-steam-za-49-zl-w-humble-bundle/",
+      "publishedAt": "2026-11-20T19:26+01:00",
+      "summary": "Łowcy, przedstawiamy Wam najnowszy pakiet tanich gier PC od Humble Bundle przygotowany specjalnie dla fanów trybów kooperacji. W ramach zestawu Humble Better With Friends: Co-Op Buddy Packs Bundle możecie otrzymać 9 tytułów na Steam. Całość oferowana jest w dwóch progach cenowych. Pierwszy z nich gwarantuje nam bardzo korzystny przelicznik ok. 5,41 zł za jedną grę PC! Drugi natomiast, w cenie 81 zł pozwala otrzymać drugi komplet kluczy Steam do tych samych pozycji, które możecie podarować znajomym, aby zapewnić sobie kompanów do wspólnego grania 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kupujac-drugi-prog-warto-miec-znajomych.-Zestaw-9-gier-Steam-za-49-zl-w-Humble-Bundle_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
@@ -227,60 +281,6 @@
       "summary": "Scena moderska Baldur’s Gate 3 kwitnie także na konsolach. Właśnie udostępniono kilkanaście nowych projektów, w tym dwa dla weteranów szukających bardziej trudnych wyzwań.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532882994.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Radykalny krok Microsoftu: Copilot staje się „nowym systemem operacyjnym” i zamienia programy Word, Excel i inne w wtyczki",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/radykalny-krok-microsoftu-copilot-staje-sie-nowym-systemem-operac/z5323f7",
-      "publishedAt": "2026-11-20T16:00+01:00",
-      "summary": "Copilot staje się centrum zarządzania aplikacjami Office. To z poziomu asystenta AI będzie można uruchamiać Worda, Excela lub PowerPointa. Nowe funkcje będą dostępne dla wybranej grupy użytkowników.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532881111.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Nad GTA 6 pracowała spora grupa Polaków. Nasi rodacy zajmowali się istotnymi elementami gry",
-      "sourceUrl": "https://cdaction.pl/newsy/nad-gta-6-pracowala-spora-grupa-polakow-nasi-rodacy-zajmowali-sie-istotnymi-elementami-gry/",
-      "publishedAt": "2026-11-20T16:00+01:00",
-      "summary": "Całkiem sympatyczne wieści.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-polska-gurom.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Black Myth Wukong na PS5 za 259,99 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-black-myth-wukong-na-ps5-za-25999-zl-na-allegro/",
-      "publishedAt": "2026-11-20T15:56+01:00",
-      "summary": "Jeden z hitów 2024 roku w pudełkowym wydaniu, czyli Black Myth Wukong, jest możliwy do kupienia taniej poprzez serwis Allegro. Produkcja, za której stworzeniem stoi chińskie Game Science, kosztuje obecnie 259,99 zł, w wersji na konsole Sony PlayStation 5. Trzeba przyznać, że historia Małpiego Króla naprawdę solidnie trzyma cenę. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/10/black-myth-wukong-ps5-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 bez nagiej Lucii? Teraz wszystko stało się jasne",
-      "sourceUrl": "https://www.ppe.pl/news/433916/gta-6-bez-nagiej-lucii-teraz-wszystko-stalo-sie-jasne.html",
-      "publishedAt": "2026-11-20T15:43+01:00",
-      "summary": "W październiku 2026 roku grupa hakerów opublikowała wykradzione nagrania z rozgrywki w Grand Theft Auto 6.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 stało się kolejnym polem ideologicznego sporu. Część influencerów narzeka na „uległość” wobec kobiet",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-stalo-sie-kolejnym-polem-ideologicznego-sporu-czesc-influen/z4323f6",
-      "publishedAt": "2026-11-20T15:40+01:00",
-      "summary": "Premiera GTA 6 stała się dla niektórych wyłącznie pretekstem do promowania kontrowersyjnych ideologii w sieci. Niektórych z nich frustruje nawet kupowanie kwiatów dla Lucii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532879126.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Persona 7 już powstaje? Gracze nie będą czekać zbyt długo na kolejną odsłonę",
-      "sourceUrl": "https://www.ppe.pl/news/433912/persona-7-juz-powstaje-gracze-nie-beda-czekac-zbyt-dlugo-na-kolejna-odslone.html",
-      "publishedAt": "2026-11-20T15:27+01:00",
-      "summary": "Kazuhisa Wada, główny producent Persona Studio, ujawnił plany rozwoju marki w wywiadzie dla Sega Sammy. Persona 6 nie zakończy popularnej serii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c8c4644f09ffc8cf899f/c8c4644f09ffc8cf899f.webp"
     }
   ],
   "indie": [
