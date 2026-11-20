@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T10:38+01:00",
+  "updatedAt": "2026-11-20T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6: gracze w szoku po obejrzeniu porównań graficznych. Konsola za nawet 7000 złotych kontra najtańszy Xbox",
-    "summary": "Grand Theft Auto 6 prezentuje się zaskakująco dobrze na porównaniu graficznym Xboxa Series S z PlayStation 5 Pro, choć z poważnym zastrzeżeniem.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-gracze-w-szoku-po-obejrzeniu-porownan-graficznych-konsola-z/zf323e2",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532866171.jpg"
+    "title": "120 godzin w GTA 6. Krzysztof „Draug” Mysiak ujawnia sekrety i dziwactwa Vice City",
+    "summary": "Draug spędził w GTA 6 około 120 godzin i napisał naszą recenzję. Teraz w materiale tvgry odpowiedział na 12 pytań, w tym te, które sami zadaliście przed premierą. Wybraliśmy najciekawsze rzeczy.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/120-godzin-w-gta-6-krzysztof-draug-mysiak-ujawnia-sekrety-i-dziwa/z2323df",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532866238.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "120 godzin w GTA 6. Krzysztof „Draug” Mysiak ujawnia sekrety i dziwactwa Vice City",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/120-godzin-w-gta-6-krzysztof-draug-mysiak-ujawnia-sekrety-i-dziwa/z2323df",
+      "publishedAt": "2026-11-20T11:56+01:00",
+      "summary": "Draug spędził w GTA 6 około 120 godzin i napisał naszą recenzję. Teraz w materiale tvgry odpowiedział na 12 pytań, w tym te, które sami zadaliście przed premierą. Wybraliśmy najciekawsze rzeczy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532866238.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Netflix szykuje jeden z największych filmowych hitów roku, ale pojawił się problem. David Fincher miał wykorzystać AI",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/netflix-szykuje-jeden-z-najwiekszych-filmowych-hitow-roku-ale-poj/z0323e3",
+      "publishedAt": "2026-11-20T11:44+01:00",
+      "summary": "Najnowszy film Davida Finchera, oparty na scenariuszu Quentina Tarantino, może wywołać kontrowersje z powodu wykorzystania sztucznej inteligencji. Jeden z recenzentów twierdzi, że generatywna AI została użyta w ważnych scenach, a efekty pozostawiają wiele do życzenia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532867207.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6: gracze w szoku po obejrzeniu porównań graficznych. Konsola za nawet 7000 złotych kontra najtańszy Xbox",
@@ -31,6 +49,24 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532864657.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "GTA 6 na Xbox One działa świetnie. Gracze chwalą się rozgrywką",
+      "sourceUrl": "https://www.ppe.pl/news/433874/gta-6-na-xbox-one-dziala-swietnie-gracze-chwala-sie-rozgrywka.html",
+      "publishedAt": "2026-11-20T10:58+01:00",
+      "summary": "Oficjalnie Grand Theft Auto 6 ominęło poprzednią generację konsol i bez żadnego kombinowania odpalimy je tylko na PS5 oraz Xboksach Series X i S. Mimo to właściciele leciwego Xboksa One wcale nie muszą obejść się smakiem, bo z pomocą przysz�...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/7c33da34795a77a70f47/7c33da34795a77a70f47.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Czas oderwać się od GTA 6. Ta mocarna gra właśnie dostała masę nowości i wsparcie DLSS 5",
+      "sourceUrl": "https://www.ppe.pl/news/433882/czas-oderwac-sie-od-gta-6-ta-mocarna-gra-wlasnie-dostala-mase-nowosci-i-wsparcie-dlss-5.html",
+      "publishedAt": "2026-11-20T10:55+01:00",
+      "summary": "Najlepsza gra rajdowa świata właśnie otrzymała kolejną, dużą aktualizację.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/3cab682ce8188fb46985/3cab682ce8188fb46985.png"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Od razu na 1. miejscu w 53 krajach. Nowy film z gwiazdą Supernatural, Jaredem Padaleckim, podbija Netflixa",
       "sourceUrl": "https://www.gry-online.pl/newsroom/od-razu-na-1-miejscu-w-53-krajach-nowy-film-z-gwiazda-supernatura/z1323de",
@@ -38,6 +74,15 @@
       "summary": "Netflix ma nowy filmowy hit. Listy przebojów podbija świąteczna produkcja z gwiazdą Supernatural w roli głównej.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532863835.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Odbierz 1 miesiąc Apple TV+ za darmo! Oferta dla nowych i wybranych powracających użytkowników",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/odbierz-1-miesiac-apple-tv-za-darmo-oferta-dla-nowych-i-wybranych-powracajacych-uzytkownikow/",
+      "publishedAt": "2026-11-20T10:46+01:00",
+      "summary": "Gigant z Cupertino ponownie rozdaje dostęp do Apple TV+ za darmo. Z 1 miesiąca aktywnego abonamentu mogą skorzystać nowi oraz wybrani powracający użytkownicy. Warto zatem sprawdzić, czy możecie aktywować tę ofertę. W ten sposób zapoznacie się z Ukryte w Ciemności, Silos, Jedyną, czy też Mroczną Materią i genialnymi Kulawymi Końmi. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/apple-tv-plus-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -236,51 +281,6 @@
       "summary": "Amazon Prime Video potwierdził datę premiery kolejnego sezonu jednego ze swoich największych hitów. „Niezwyciężony” od lat zachwyca widzów brutalną akcją, nieprzewidywalną historią i świetnie napisanymi bohaterami, a najnowsza zapowiedź...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/0f0bf60671ab8e7141a7/0f0bf60671ab8e7141a7.png"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Steam Machine już za chwilę może podrożeć. „Nie wiemy, ile egzemplarzy jeszcze uda nam się wyprodukować”",
-      "sourceUrl": "https://cdaction.pl/newsy/nie-wiemy-ile-egzemplarzy-jeszcze-uda-nam-sie-wyprodukowac-cena-steam-machine-juz-za-moment-moze-poszybowac-w-gore/",
-      "publishedAt": "2026-11-20T08:07+01:00",
-      "summary": "Valve najwyraźniej nie zawsze wygrywa.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/steam-machine-9985.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ubisoft stawia wszystko na AI? Powstało nowe studio, które ma zmienić przyszłość gier",
-      "sourceUrl": "https://www.ppe.pl/news/433852/ubisoft-stawia-wszystko-na-ai-powstalo-nowe-studio-ktore-ma-zmienic-przyszlosc-gier.html",
-      "publishedAt": "2026-11-20T07:50+01:00",
-      "summary": "Ubisoft przechodzi ogromną transformację i coraz wyraźniej pokazuje, w jakim kierunku zamierza rozwijać swoje gry. Francuska korporacja nie tylko reorganizuje zespoły i rezygnuje z kolejnych projektów, ale również chce mocniej wykorzystać sztuc...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/85640d76ce7529e21962/85640d76ce7529e21962.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Polska stawia rzeźby upamiętniające bohaterów gier. Statua Darkwooda odsłonięta!",
-      "sourceUrl": "https://cdaction.pl/teksty/polska-stawia-rzezby-upamietniajace-bohaterow-gier-statua-darkwooda-odslonieta/",
-      "publishedAt": "2026-11-20T07:31+01:00",
-      "summary": "Wbrew intuicji, pierwszym z przystanków Szlaku Polskich Gier Wideo nie jest wcale Warszawa, Kraków czy Wrocław, inauguracyjna rzeźba stanęła bowiem w… Mistowie (Gmina Jakubów). Dlaczego?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Kapelusznik_169.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "SkyShowtime z mocnym filmem na weekend. Opowieść dla fanów mocnych wrażeń",
-      "sourceUrl": "https://www.ppe.pl/news/433854/skyshowtime-z-mocnym-filmem-na-weekend-opowiesc-dla-fanow-mocnych-wrazen.html",
-      "publishedAt": "2026-11-20T07:30+01:00",
-      "summary": "Jeszcze kilka miesięcy temu widzowie mogli oglądać tę produkcję na wielkim ekranie, a teraz wystarczy uruchomić jedną z popularnych platform streamingowych, by rozpocząć seans. Na weekend SkyShowtime przygotowało nowy horror, który zabiera od...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f6f3645b9fd6695c8c9a/f6f3645b9fd6695c8c9a.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 na Nintendo Switch 2? Digital Foundry analizuje możliwości",
-      "sourceUrl": "https://www.ppe.pl/news/433844/gta-6-na-nintendo-switch-2-digital-foundry-analizuje-mozliwosci.html",
-      "publishedAt": "2026-11-20T07:05+01:00",
-      "summary": "GTA 6 jest już dostępne na PlayStation 5 i Xboksach Series X|S, ale wielu graczy zastanawia się, czy Rockstar Games zdecyduje się również przygotować wersję na Nintendo Switcha 2. Eksperci Digital Foundry przyjrzeli się możliwości przeniesien...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e43677d56cdf47240391/e43677d56cdf47240391.webp"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "f6f0fcb3297bd47e357a99e8b24f64e8cbfc92417c7f06b569ab6ca2b81cc87e"
+  "editorialHash": "c0b46a93379ba3aa1c5b3d6042ac7a9c77b20ac68736f3345fd9a39331a4d82d"
 }
