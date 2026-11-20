@@ -1,286 +1,205 @@
 {
   "status": "rss-only",
-  "date": "2026-11-20",
-  "updatedAt": "2026-11-20T23:01+01:00",
+  "date": "2026-11-21",
+  "updatedAt": "2026-11-21T00:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 rozbiło bank, Rockstar podał liczby. To największa premiera w historii całej branży rozrywkowej",
-    "summary": "Rockstar Games podało pierwsze informacje o sprzedaży GTA 6. Liczy dosłownie zwalają z nóg, potwierdzając, ze mamy do czynienia z największą premierą w historii branży rozrywkowej.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-rozbilo-bank-rockstar-podal-liczby-to-najwieksza-premiera-w/zc32403",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532909459.jpg"
+    "title": "GTA 6 padło ofiarą review bombingu. Wściekli gracze nie oszczędzają nowego hitu Rockstara",
+    "summary": "Nie trzeba było długo czekać, aż emocje wokół premiery GTA 6 znajdą ujście w opiniach graczy na Metacriticu.",
+    "sourceUrl": "https://cdaction.pl/newsy/gta-6-padlo-ofiara-review-bombingu-gracze-nie-oszczedzaja-nowego-hitu-rockstara/",
+    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/image-2.psd-1260x662.jpg"
   },
   "news": [
     {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 rozbiło bank, Rockstar podał liczby. To największa premiera w historii całej branży rozrywkowej",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-rozbilo-bank-rockstar-podal-liczby-to-najwieksza-premiera-w/zc32403",
-      "publishedAt": "2026-11-20T23:24+01:00",
-      "summary": "Rockstar Games podało pierwsze informacje o sprzedaży GTA 6. Liczy dosłownie zwalają z nóg, potwierdzając, ze mamy do czynienia z największą premierą w historii branży rozrywkowej.",
+      "sourceName": "CD-Action",
+      "title": "GTA 6 padło ofiarą review bombingu. Wściekli gracze nie oszczędzają nowego hitu Rockstara",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-padlo-ofiara-review-bombingu-gracze-nie-oszczedzaja-nowego-hitu-rockstara/",
+      "publishedAt": "2026-11-20T23:35+01:00",
+      "summary": "Nie trzeba było długo czekać, aż emocje wokół premiery GTA 6 znajdą ujście w opiniach graczy na Metacriticu.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532909459.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/image-2.psd-1260x662.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pad Nintendo Switch 2 Pro Controller Resident Evil Requiem Edition za 328,89 zł w Empiku",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pad-nintendo-switch-2-pro-controller-resident-evil-requiem-edition-za-32889-zl-w-empiku/",
+      "publishedAt": "2026-11-20T23:04+01:00",
+      "summary": "Gra Resident Evil Requiem, czyli najnowsza odsłona legendarnej serii od firmy CAPCOM zadebiutowała zadebiutowała na rynku na początku 2026 roku. W tym samym czasie na sklepowych półkach pojawiła się także specjalna wersja pada dedykowanego konsoli Nintendo Switch 2. W ramach oferty Black Weeks model Pro Controller Resident Evil Requiem Edition dostępny jest w internetowym sklepie Empik za 328,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Preorder-Nintendo-Switch-2-Pro-Controller-Resident-Evil-Requiem-Edition-za-378-zl-w-Empiku_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola PlayStation 5 Slim z napędem za 2599 zł na Allegro. Start promocji Black Weeks o 19:00!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-playstation-5-slim-z-napedem-za-2599-zl-na-allegro-start-promocji-black-weeks-o-1900/",
+      "publishedAt": "2026-11-20T18:12+01:00",
+      "summary": "Łowcy, bezpośrednio w Oficjalnym Sklepie Allegro, z okazji wyprzedaży Black Weeks, pojawiła się specjalna promocja na PlayStation 5 Slim. W ramach oferty standardowe wydanie konsoli z napędem optycznym oraz kontrolerem DualSense może być Wasze za 2599 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2849 zł. Obie okazje rozpoczną się punktualnie o 19:00! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/03/playstation-5-slim-d-chassis-2b-224x224.jpg"
     },
     {
       "sourceName": "PPE",
-      "title": "LEGENDA w GTA 6! Twórcy przenieśli do gry wyjątkowy samochód. Ostrzegamy przed spoilerem",
-      "sourceUrl": "https://www.ppe.pl/news/433962/legenda-w-gta-6-tworcy-przeniesli-do-gry-wyjatkowy-samochod-ostrzegamy-przed-spoilerem.html",
-      "publishedAt": "2026-11-20T22:36+01:00",
-      "summary": "GTA 6 jest wręcz przeładowane smaczkami, które gracze odkrywają teraz z ogromną przyjemnością. Rockstar Games przygotowało gigantyczny świat pełen niespodzianek, a niektóre z nich są prawdziwą gratką dla fanów popkultury. Tym razem podcza...",
+      "title": "Ponad 20 gier w lepszych cenach",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/433940/ponad-20-gier-w-lepszych-cenach.html",
+      "publishedAt": "2026-11-20T18:03+01:00",
+      "summary": "Media Expert postanowił odpalić nową okazję w ramach weekendów poprzedzających Black Weeks.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e31d3bf23c0e6e1c83b2/e31d3bf23c0e6e1c83b2.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/c381b6c3377e31cc2f91/c381b6c3377e31cc2f91.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "World of Warcraft: Forever bije kolejne rekordy. Co za wynik!",
+      "sourceUrl": "https://www.ppe.pl/news/433923/world-of-warcraft-forever-bije-kolejne-rekordy-co-za-wynik.html",
+      "publishedAt": "2026-11-20T18:01+01:00",
+      "summary": "„World of Warcraft: Forever” przyciąga rekordową liczbę graczy. Nowa odsłona popularnego MMORPG Blizzarda wyraźnie ożywiła produkcję, która zadebiutowała w 2004 roku. Po tytuł sięgają zarówno wieloletni fani serii, jak i nowi użytkown...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/27cd60b758b98c113faf/27cd60b758b98c113faf.avif"
     },
     {
       "sourceName": "CD-Action",
-      "title": "Take-Two chwali się wynikami GTA 6. Ogromne zyski z samej przedsprzedaży, a to dopiero początek",
-      "sourceUrl": "https://cdaction.pl/newsy/take-two-chwali-sie-wynikami-gta-6-ogromne-zyski-z-samej-przedsprzedazy-a-to-dopiero-poczatek/",
-      "publishedAt": "2026-11-20T22:05+01:00",
-      "summary": "Potęga naiwności, cyniczna manipulacja lub fanatyczna wiara w obietnice – każda droga, którą prowadzi nas Rockstar, wiedzie do ogromnego sukcesu.",
+      "title": "CD-Action Grand Theft Auto: Sprawdź okładkę i pełną zawartość numeru",
+      "sourceUrl": "https://cdaction.pl/newsy/cd-action-grand-theft-auto-sprawdz-okladke-i-zawartosc-numeru/",
+      "publishedAt": "2026-11-20T17:49+01:00",
+      "summary": "CD-Action Grand Theft Auto jest już na finiszu swojej przedsprzedaży – możecie dalej zamawiać numer przed jego premierą i wysyłką dnia 2 grudnia 2026 roku. Tymczasem – abyście zyskali więcej informacji o wydaniu specjalnym – prezentujemy wam oficjalną okładkę oraz spis treści.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta-6-8450.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/CDA_GTA-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
-      "title": "GTA 6 wygląda gorzej, niż powinno! Ekspert odkrył błąd na PS5 i Xboksach. Jak poprawić grafikę?",
-      "sourceUrl": "https://www.ppe.pl/news/433942/gta-6-wyglada-gorzej-niz-powinno-ekspert-odkryl-blad-na-ps5-i-xboksach-jak-poprawic-grafike.html",
-      "publishedAt": "2026-11-20T21:59+01:00",
-      "summary": "GTA 6 zachwyca oprawą graficzną, ale okazuje się, że nawet Rockstar Games nie uniknęło pewnych technicznych niedociągnięć. Najnowsza produkcja studia oferuje niezwykle szczegółowy świat, imponujące oświetlenie i świetnie wyglądające kra...",
+      "title": "Steam przygotował kolejną niespodziankę! Te dwie gry sprawdzicie za darmo",
+      "sourceUrl": "https://www.ppe.pl/news/433918/steam-przygotowal-kolejna-niespodzianke-te-dwie-gry-sprawdzicie-za-darmo.html",
+      "publishedAt": "2026-11-20T17:45+01:00",
+      "summary": "Użytkownicy Steama mogą skorzystać z kolejnego darmowego weekendu. Tym razem Valve udostępniło dwie produkcje reprezentujące zupełnie odmienne gatunki.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/87966a54a27e103c1474/87966a54a27e103c1474.webp"
+      "imageUrl": "https://pliki.ppe.pl/storage/cc3aa082600091f07b1c/cc3aa082600091f07b1c.webp"
     },
     {
       "sourceName": "Łowcy Gier",
-      "title": "Zestaw Silent Hill 2 + Silent Hill f na konsole Xbox Series za 150 zł (możliwe 132 zł) w Xbox Store!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/zestaw-silent-hill-2-silent-hill-f-na-konsole-xbox-series-za-150-zl-mozliwe-132-zl-w-xbox-store/",
-      "publishedAt": "2026-11-20T21:46+01:00",
-      "summary": "Łowcy, w ramach trwającej w Xbox Store wyprzedaży Black Friday 2026 pojawiło się kilka ciekawych promocji, w tym bardzo dobre oferty na najnowsze odsłony kultowej serii Konami po 89,70 zł. Jeśli jednak nie posiadacie w swoje bibliotece obu horrorów, to specjalny zestaw Silent Hill 2 + Silent Hill f Dual Pack dostępny jest w rewelacyjnej cenie 150,15 zł. Jeśli chcecie zaoszczędzić dodatkowe 18 zł na cyfrowej wersji tytułu na Xbox Series X|S, to zachęcamy Was do rzucenia okiem na ofertę z islandzkiego Xbox Store, gdzie wspomniana pozycja kosztuje 4059 ISK (131,95 zł) ! Czytaj więcej »",
+      "title": "Wyprzedaż Black Friday w Fanatical. Aż 9000 promocji + gra PC za darmo (po wydaniu 15€)!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-w-fanatical-az-9000-promocji-gra-pc-za-darmo-po-wydaniu-15e/",
+      "publishedAt": "2026-11-20T17:39+01:00",
+      "summary": "Łowcy, zespół Fanatical dołączył do promocyjnej gorączki związanej z Czarnym Piątkiem. Z tej okazji w sklepie wystartowała ogromna wyprzedaż Black Friday Sale 2026 z imponującą liczbą niemal 9000 ofert na gry PC, których rabaty wynoszą nawet rekordowe -96%. Na szczególne wyróżnienie zasługuje tutaj świetna okazja na Neverwinter Nights 2: Enhanced Edition w historycznie najniższej cenie . Odświeżona wersja legendarnego tytułu może być Wasza za nieco ponad 27 zł. Warto podkreślić, że jeśli za pojedyncze zakupy zapłacicie równowartość 15€, to w ramach bonusu otrzymacie jeden obrót kołem fortuny, gdzie do zdobycia są kupony rabatowe do wykorzystania w sklepie lub losowe gry PC za darmo. Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zestaw-Silent-Hill-2-Silent-Hill-f-na-konsole-Xbox-Series-za-150-zl-mozliwe-132-zl-w-Xbox-Store_minaturka-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-w-Fanatical.-Az-9000-promocji-gra-PC-za-darmo-po-wydaniu-15E_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
-      "title": "80 dolarów za grę miało wywołać bunt. GTA 6 pokaże, ile naprawdę są gotowi zapłacić gracze",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433373/80-dolarow-za-gre-mialo-wywolac-bunt-gta-6-pokaze-ile-naprawde-sa-gotowi-zaplacic-gracze.html",
-      "publishedAt": "2026-11-20T21:30+01:00",
-      "summary": "Jeszcze niedawno 80 dolarów za podstawową wersję gry brzmiało jak próba przesunięcia granicy o jeden krok za daleko. Gdy Nintendo zaczęło eksperymentować z wyższymi cenami, internet zrobił dokładnie to, czego można było się spodziewać: p...",
+      "title": "Cyberpunk 2077 otrzymał nowe misje fabularne! Nowe zadania rozbudowują historię V",
+      "sourceUrl": "https://www.ppe.pl/news/433921/cyberpunk-2077-otrzymal-nowe-misje-fabularne-nowe-zadania-rozbudowuja-historie-v.html",
+      "publishedAt": "2026-11-20T17:16+01:00",
+      "summary": "Cyberpunk 2077 wciąż otrzymuje interesujące nowości przygotowywane przez społeczność.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/63c78ee9cd9cc3b8d27c/63c78ee9cd9cc3b8d27c.jpg"
     },
     {
       "sourceName": "PPE",
-      "title": "Netflix ma MEGA HIT! Ten film rozbije bank i osiągnie genialne wyniki",
-      "sourceUrl": "https://www.ppe.pl/news/433964/netflix-ma-mega-hit-ten-film-rozbije-bank-i-osiagnie-genialne-wyniki.html",
-      "publishedAt": "2026-11-20T21:23+01:00",
-      "summary": "Netflix szykuje jedną z największych filmowych premier końcówki roku. Gigant streamingowy połączył siły z prawdziwymi legendami Hollywood, a pierwsze recenzje sugerują, że widzowie mogą szykować się na wyjątkowe widowisko.",
+      "title": "Optymalizacja jednak nie taka doskonała? Kolejne głosy o crashach i błędach GTA 6 na PS5",
+      "sourceUrl": "https://www.ppe.pl/news/433922/optymalizacja-jednak-nie-taka-doskonala-kolejne-glosy-o-crashach-i-bledach-gta-6-na-ps5.html",
+      "publishedAt": "2026-11-20T17:01+01:00",
+      "summary": "„GTA 6” sprawia problemy części użytkowników PlayStation 5. Na forach i w mediach społecznościowych pojawiają się doniesienia o niespodziewanych awariach gry, którym towarzyszy kod błędu CE-108255-1. Co istotne, standardowe sposoby napraw...",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d53b8b42f91cc9ec20bb/d53b8b42f91cc9ec20bb.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/af9ed901b95c7b22dd5b/af9ed901b95c7b22dd5b.jpg"
     },
     {
       "sourceName": "GRY-Online",
-      "title": "Za wielkim sukcesem GTA 6, Baldur’s Gate 3 i Elden Ring stoi ten sam czynnik. 1000 deweloperów Rockstara działa jak jeden mózg",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/za-wielkim-sukcesem-gta-6-baldurs-gate-3-i-elden-ring-stoi-ten-sa/za32401",
-      "publishedAt": "2026-11-20T21:13+01:00",
-      "summary": "Zdaniem dziennikarza Jasona Schreiera za sukcesem GTA 6 stoi nie tylko gigantyczny budżet, ale również coś, czego nie da się kupić za żadne pieniądze.",
+      "title": "Mandy z GTA 6 skradła serca graczy, choć skrywa mroczny sekret. Teraz wiemy, kto stoi za jedną z najbardziej viralowych postaci Rockstara",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mandy-z-gta-6-skradla-serca-graczy-choc-skrywa-mroczny-sekret-ter/z0323fb",
+      "publishedAt": "2026-11-20T16:50+01:00",
+      "summary": "W sieci pojawiło się nagranie jednej aktorki, która twierdzi, że to ona wcieliła się w rolę Mandy – blondynki z sąsiedztwa Jasona, którą część z was kojarzy z viralowej sceny ze zlewem. NPC skrywa mroczny sekret, a w sieci aż gotuje się od teorii graczy.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532901507.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Stwórz perfekcyjną talię kart z Humble Bundle. Zestaw 7 gier Steam dostępny za 60 zł!",
-      "sourceUrl": "https://lowcygier.pl/bundle/stworz-perfekcyjna-talie-kart-z-humble-bundle-zestaw-7-gier-steam-dostepny-za-60-zl/",
-      "publishedAt": "2026-11-20T21:11+01:00",
-      "summary": "Łowcy, tego wieczora zespół Humble Bundle przygotował ciekawą paczkę dedykowaną amatorom gier o budowaniu tali kart. W ramach zestawu Humble Deck the Halls with Deckbuilders Bundle możecie otrzymać 7 tytułów na Steam. Całość oferowana jest w dwóch progach cenowych, a droższy z nich może być Wasz za nieco ponad 60 zł! Daje nam to korzystny przelicznik ok. 8,69 zł za jedną grę PC! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Stworz-perfekcyjna-talie-kart-z-Humble-Bundle.-Zestaw-7-gier-Steam-dostepny-od-60-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tommy & Tuppence (2026) - recenzja miniserialu [BBC]. Detektywistyczny rollercoaster z wybojami",
-      "sourceUrl": "https://www.ppe.pl/recenzje/433842/tommy-tuppence-2026-recenzja-miniserialu-bbc-detektywistyczny-rollercoaster-z-wybojami.html",
-      "publishedAt": "2026-11-20T21:00+01:00",
-      "summary": "Przez ponad sto lat w świecie Agathy Christie rządzili Hercule Poirot i panna Marple, a para amatorów z jej pierwszej powieści czekała na swoją kolej.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/50a9cbaa7a2d445ae904/50a9cbaa7a2d445ae904.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 oficjalnie rozbiło bank. Wydawca potwierdził WIELKI SUKCES",
-      "sourceUrl": "https://www.ppe.pl/news/433966/gta-6-oficjalnie-rozbilo-bank-wydawca-potwierdzil-wielki-sukces.html",
-      "publishedAt": "2026-11-20T20:54+01:00",
-      "summary": "Od dłuższego czasu było pewne, że Grand Theft Auto VI odniesie sukces sprzedażowy, nie było tylko wiadomo, jak duży. Analitycy przypuszczali, że najnowsze dzieło Rockstar Games zapisze się w historii złotymi zgłoskami i tak też się stało....",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Weekendowe Łowy: Jak zdobyć GTA VI ZA DARMO na PS5 i XSX? Premiera, promocje i oceny!",
-      "sourceUrl": "https://lowcygier.pl/filmy/weekendowe-lowy-jak-zdobyc-gta-vi-za-darmo-na-ps5-i-xsx-premiera-promocje-i-oceny/",
-      "publishedAt": "2026-11-20T20:52+01:00",
-      "summary": "Łowcy, przedstawiamy Wam trzecie w tym miesiącu podsumowanie ostatnich siedmiu dni z cyklu Weekendowe Łowy. Filmowe zestawienie, pozwalające zobaczyć w pigułce najciekawsze okazje minionego tygodnia, pojawiła się właśnie na platformie YouTube. W naszym materiale zobaczycie najgorętsze promocje, zbliżające się premiery, najciekawsze zestawy z tanimi grami Steam oraz mnóstwo informacji na temat GTA VI . Znajdziecie w nim także omówienie wszystkich dostępnych aktualnie darmówek, czyli najbardziej popularny segment naszych poprzednich filmów. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Weekendowe-Lowy_-Jak-zdobyc-GTA-VI-ZA-DARMO-na-PS5-i-XSX_-Premiera-promocje-i-oceny_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gracze na Xboksach otrzymują bany za GTA 6! Problemem jest nagość",
-      "sourceUrl": "https://www.ppe.pl/news/433945/gracze-na-xboksach-otrzymuja-bany-za-gta-6-problemem-jest-nagosc.html",
-      "publishedAt": "2026-11-20T20:48+01:00",
-      "summary": "GTA 6 od samej premiery dostarcza graczom mnóstwo emocji, ale nie wszyscy posiadacze Xboksów mogą bez przeszkód cieszyć się najnowszą produkcją Rockstar Games. W sieci pojawiają się doniesienia o użytkownikach, którzy otrzymują dwudniowe bl...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7823a0677c470f9f0670/7823a0677c470f9f0670.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532884756.jpg"
     },
     {
       "sourceName": "GRY-Online",
-      "title": "Jensen Huang miał upokarzać i grozić, by zwiększać wydajność pracowników Nvidii. Nowy raport mówi o latach terroru",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/jensen-huang-mial-upokarzac-i-grozic-by-zwiekszac-wydajnosc-praco/z932400",
-      "publishedAt": "2026-11-20T20:33+01:00",
-      "summary": "Najnowsze doniesienia ujawniają mroczną stronę zarządzania Nvidią przez Jensena Huanga, który miał przez lata traktować poniżanie pracowników jako sposób na zwiększenie ich wydajności.",
+      "title": "Krzysztof Gonciarz zachwycał się GTA 4, Hed dał GTA 5 ocenę 10/10, a dziś czytam kłótnie o GTA 6 i zastanawiam się, kiedy internet stał się taki zgorzkniały",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/krzysztof-gonciarz-zachwycal-sie-gta-4-hed-dal-gta-5-ocene-1010-a/zf323fa",
+      "publishedAt": "2026-11-20T16:42+01:00",
+      "summary": "GTA 6, największa premiera growa dekady, miało połączyć miliony graczy we wspólnym zachwycie. Zamiast tego internet przypomniał mi, dlaczego tak bardzo tęsknię za czasami, gdy na premierę GTA 4 dyskutowaliśmy głównie o tym, czy kupić konsolę.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532899037.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Zagraj w Deadlink za darmo na konsolach Xbox. Trzy nowe gry w usłudze Free Play Days!",
-      "sourceUrl": "https://lowcygier.pl/darmowe/zagraj-w-deadlink-za-darmo-na-konsolach-xbox-trzy-nowe-gry-w-usludze-free-play-days/",
-      "publishedAt": "2026-11-20T20:31+01:00",
-      "summary": "Dzięki trzeciej w listopadzie odsłonie Xbox Free Play Days, posiadacze konsol Microsoftu mogą przetestować trzy nowe produkcje na Xbox One i Xbox Series X|S. Przez najbliższy weekend możecie ograć m.in.: Deadlink za darmo. Oferta promocyjna obowiązuje do 22 listopada, do godziny 8:59. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zagraj-w-Deadlink-za-darmo-na-konsolach-Xbox.-Trzy-nowe-gry-w-usludze-Free-Play-Days_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Baldur’s Gate 3 otrzymuje nowy poziom trudności na konsolach. „Brutal” nie wybacza błędów",
-      "sourceUrl": "https://www.ppe.pl/news/433936/baldur-s-gate-3-otrzymuje-nowy-poziom-trudnosci-na-konsolach-brutal-nie-wybacza-bledow.html",
-      "publishedAt": "2026-11-20T20:19+01:00",
-      "summary": "Larian Studios udostępniło kolejną porcję modyfikacji do konsolowych wersji „Baldur’s Gate 3”. Wśród 12 nowych dodatków szczególną uwagę zwraca „Brutal Difficulty” – zupełnie nowy poziom trudności, który ma stanowić wyzwanie na...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e4f56786376e7c5d24be/e4f56786376e7c5d24be.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "3. sezon Strefy gangsterów coraz bliżej. Twórcy serialu przekazali doskonałe wieści!",
-      "sourceUrl": "https://www.ppe.pl/news/433938/3-sezon-strefy-gangsterow-coraz-blizej-tworcy-serialu-przekazali-doskonale-wiesci.html",
-      "publishedAt": "2026-11-20T20:02+01:00",
-      "summary": "Rozpoczęły się zdjęcia do trzeciego sezonu serialu „Strefa gangsterów”. Na plan powrócił Tom Hardy, który ponownie wcieli się w Harry'ego da Souzę, specjalistę od rozwiązywania problemów londyńskiego półświatka. W produkcji zobaczym...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f3db9f6eb004dc223423/f3db9f6eb004dc223423.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Madden (2026) - recenzja filmu [Amazon]. Dla Johna Maddena futbol był wszystkim",
-      "sourceUrl": "https://www.ppe.pl/recenzje/433917/madden-2026-recenzja-filmu-amazon-dla-johna-maddena-futbol-byl-wszystkim.html",
-      "publishedAt": "2026-11-20T20:00+01:00",
-      "summary": "John Madden był jednym z najlepszych, jeśli nie w ogóle najlepszym trenerem w historii futbolu amerykańskiego, a później również cenionym komentatorem oraz twarzą piekielnie popularnej serii gier. Facet żył, jadł, pił i oddychał futbolem, ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f26399e73ac9342a23e2/f26399e73ac9342a23e2.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532884509.jpg"
     },
     {
       "sourceName": "GRY-Online",
-      "title": "To, co robią gracze WoW Forever, nie podoba się Blizzardowi. Pora z tym skończyć i przestać chodzić na łatwiznę",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/to-co-robia-gracze-wow-forever-nie-podoba-sie-blizzardowi-pora-z/z4323ff",
-      "publishedAt": "2026-11-20T19:49+01:00",
-      "summary": "Blizzard zamierza zerwać z jedną z najpopularniejszych praktyk graczy World of Warcraft: Forever. Deweloperzy chcą, by zdobywanie ekwipunku stało się bardziej nieprzewidywalne, a najlepsze przedmioty nie zawsze były oczywistym wyborem.",
+      "title": "CD Projekt Red chciał dogodzić graczom Cyberpunka 2077, a teraz ma problem i musi przepraszać. Nie tego się spodziewano",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/cd-projekt-red-chcial-dogodzic-graczom-cyberpunka-2077-a-teraz-ma/z1323fc",
+      "publishedAt": "2026-11-20T16:40+01:00",
+      "summary": "Wprowadzenie funkcji międzyplatformowych modów do Cyberpunka 2077 okazało się popularniejsze, niż pierwotnie przewidywało studio CD Projekt Red.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532896521.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 ma ukryty tryb pierwszoosobowy? Gracze odkryli sposób na jego uruchomienie",
-      "sourceUrl": "https://www.ppe.pl/news/433941/gta-6-ma-ukryty-tryb-pierwszoosobowy-gracze-odkryli-sposob-na-jego-uruchomienie.html",
-      "publishedAt": "2026-11-20T19:46+01:00",
-      "summary": "W Grand Theft Auto 6 można uruchomić tryb pierwszoosobowy, choć Rockstar Games nie udostępniło go oficjalnie. Gracze odkryli błąd, który pozwala przełączyć kamerę na widok z oczu bohatera i przemierzać Leonidę z zupełnie innej perspektywy...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nowy Kevin sam w domu powstaje! Macaulay Culkin powraca w kontynuacji",
-      "sourceUrl": "https://www.ppe.pl/news/433965/nowy-kevin-sam-w-domu-powstaje-macaulay-culkin-powraca-w-kontynuacji.html",
-      "publishedAt": "2026-11-20T19:41+01:00",
-      "summary": "To może być jedna z najważniejszych wiadomości dla fanów świątecznego kina! „Kevin sam w domu” od ponad trzech dekad pozostaje nieodłącznym elementem Bożego Narodzenia, a teraz wszystko wskazuje na to, że kultowa seria doczeka się kontyn...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e768684b3f55654ef733/e768684b3f55654ef733.avif"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Guillermo del Toro pracuje nad filmami Marvela i Star Wars? Reżyser odpowiada na plotki",
-      "sourceUrl": "https://www.ppe.pl/news/433939/guillermo-del-toro-pracuje-nad-filmami-marvela-i-star-wars-rezyser-odpowiada-na-plotki.html",
-      "publishedAt": "2026-11-20T19:29+01:00",
-      "summary": "Guillermo del Toro oficjalnie odniósł się do plotek łączących go z uniwersami Marvela i „Gwiezdnych wojen”. Reżyser potwierdził, że obecnie nie prowadzi żadnych rozmów z Disneyem ani nie pracuje nad projektami należącymi do tych popular...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/110e8b7a681ad02775ec/110e8b7a681ad02775ec.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Kupując drugi próg warto mieć znajomych. Zestaw 9 gier Steam za 49 zł w Humble Bundle!",
-      "sourceUrl": "https://lowcygier.pl/bundle/kupujac-drugi-prog-warto-miec-znajomych-zestaw-9-gier-steam-za-49-zl-w-humble-bundle/",
-      "publishedAt": "2026-11-20T19:26+01:00",
-      "summary": "Łowcy, przedstawiamy Wam najnowszy pakiet tanich gier PC od Humble Bundle przygotowany specjalnie dla fanów trybów kooperacji. W ramach zestawu Humble Better With Friends: Co-Op Buddy Packs Bundle możecie otrzymać 9 tytułów na Steam. Całość oferowana jest w dwóch progach cenowych. Pierwszy z nich gwarantuje nam bardzo korzystny przelicznik ok. 5,41 zł za jedną grę PC! Drugi natomiast, w cenie 81 zł pozwala otrzymać drugi komplet kluczy Steam do tych samych pozycji, które możecie podarować znajomym, aby zapewnić sobie kompanów do wspólnego grania 🙂 Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kupujac-drugi-prog-warto-miec-znajomych.-Zestaw-9-gier-Steam-za-49-zl-w-Humble-Bundle_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Odnaleziono słynną dziewczynę w bikini z pierwszego zwiastuna GTA 6? Rockstar zażartował z graczy!",
-      "sourceUrl": "https://www.ppe.pl/news/433944/odnaleziono-slynna-dziewczyne-w-bikini-z-pierwszego-zwiastuna-gta-6-rockstar-zazartowal-z-graczy.html",
-      "publishedAt": "2026-11-20T19:16+01:00",
-      "summary": "Pamiętacie kobietę w bikini, która pojawiła się w pierwszym zwiastunie „Grand Theft Auto 6”? Jej krótki występ wywołał sporo dyskusji wśród fanów. Niektórzy podejrzewali nawet, że może to być Lucia. Teraz gracze odnaleźli tę posta�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "CD Projekt RED wyjaśnia opóźnienia w udostępnianiu nowych modów do Cyberpunka 2077",
-      "sourceUrl": "https://www.ppe.pl/news/433933/cd-projekt-red-wyjasnia-opoznienia-w-udostepnianiu-nowych-modow-do-cyberpunka-2077.html",
-      "publishedAt": "2026-11-20T19:02+01:00",
-      "summary": "W październiku „Cyberpunk 2077” otrzymał aktualizację wprowadzającą zawartość związaną z „Cyberpunk: Edgerunners 2”. Darmowa łatka przyniosła również obsługę modyfikacji na konsolach. Funkcja spotkała się z dużym zainteresowani...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f17db42ab6ecbc86f6e8/f17db42ab6ecbc86f6e8.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 czerpie inspiracje z kultowych filmów. Bonnie i Clyde to początek imponującej listy!",
-      "sourceUrl": "https://www.ppe.pl/news/433934/gta-6-czerpie-inspiracje-z-kultowych-filmow-bonnie-i-clyde-to-poczatek-imponujacej-listy.html",
-      "publishedAt": "2026-11-20T18:46+01:00",
-      "summary": "Twórcy „Grand Theft Auto 6” ujawnili filmowe inspiracje, które pomogły im stworzyć postacie Jasona i Lucii oraz ich relację. Jak zdradził Rupert Humphries, starszy wiceprezes Rockstar Games ds. narracji, zespół przyglądał się przede wszys...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/bbd2c313bf2a3bc14a76/bbd2c313bf2a3bc14a76.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 to ostatni promień słońca przed nastaniem zupełnie nowej epoki w tworzeniu gier. Rewolucja jest nieunikniona",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-to-ostatni-promien-slonca-przed-nastaniem-zupelnie-nowej-ep/z3323fe",
-      "publishedAt": "2026-11-20T18:31+01:00",
-      "summary": "GTA 6 może przejść do historii nie tylko jako jedna z najważniejszych premier, ale również jako symbol końca pewnej epoki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532891802.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Assassin’s Creed Jade wciąż powstaje. Ubisoft ma konkretny plan",
-      "sourceUrl": "https://www.ppe.pl/news/433937/assassin-s-creed-jade-wciaz-powstaje-ubisoft-ma-konkretny-plan.html",
-      "publishedAt": "2026-11-20T18:30+01:00",
-      "summary": "Ubisoft potwierdził, że „Assassin’s Creed Jade” nadal znajduje się w produkcji. Na nowe informacje o mobilnej odsłonie serii trzeba było czekać dość długo, ale podczas rozmowy z inwestorami poświęconej wynikom finansowym firmy głos w s...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/71c2325f5e261198d0fa/71c2325f5e261198d0fa.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532885067.jpg"
     },
     {
       "sourceName": "CD-Action",
-      "title": "John Romero nie demonizuje AI. „Każdy dzieciak może stworzyć swoją grę i to jest wspaniałe”",
-      "sourceUrl": "https://cdaction.pl/newsy/john-romero-nie-demonizuje-ai-kazdy-dzieciak-moze-stworzyc-swoja-gre-i-to-jest-wspaniale/",
-      "publishedAt": "2026-11-20T18:15+01:00",
-      "summary": "Developer ma też radę dla niezależnych twórców.",
+      "title": "Gra totalna czy zawracanie głowy? GTA 6 goni za realizmem, który nie zawsze ma sens [FELIETON]",
+      "sourceUrl": "https://cdaction.pl/teksty/gra-totalna-czy-zawracanie-glowy-gta-6-goni-za-realizmem-ktory-nie-zawsze-ma-sens-felieton/",
+      "publishedAt": "2026-11-20T16:30+01:00",
+      "summary": "Klasyczna trylogia Grand Theft Auto zbudowana na silniku RenderWare zrobiła ogromny krok naprzód, przechodząc w pełen trójwymiar, ale z obsesyjnym dążeniem Rockstara do realizmu zderzyliśmy się dopiero w GTA 4.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/12/john-romero-9943.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-4-1260x709.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "GTA 6 będzie ostatnim takim hitem? Były szef Take-Two zapowiada koniec przez rozwój AI",
-      "sourceUrl": "https://www.ppe.pl/news/433920/gta-6-bedzie-ostatnim-takim-hitem-byly-szef-take-two-zapowiada-koniec-przez-rozwoj-ai.html",
-      "publishedAt": "2026-11-20T18:15+01:00",
-      "summary": "Były prezes Take-Two, Ben Feder, nazwał Grand Theft Auto 6 ostatnim wysokobudżetowym hitem ery sprzed sztucznej inteligencji.",
+      "sourceName": "Łowcy Gier",
+      "title": "Kupiłeś GTA VI w edycji standardowej? Kup ulepszenie do Ultimate na Xbox Series taniej",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/kupiles-gta-vi-w-edycji-standardowej-kup-ulepszenie-do-ultimate-na-xbox-series-taniej/",
+      "publishedAt": "2026-11-20T16:28+01:00",
+      "summary": "Jeśli macie dylemat po zakupie Grand Theft Auto VI na premierę, czy przydałaby się wam Edycja Ultimate, nic straconego! Posiadacze konsol Xbox Series mogą bowiem zaopatrzyć się w ulepszenie do wspomnianej wersji. Podpowiemy Wam, gdzie kupicie GTA VI Ultimate Edition Upgrade taniej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/ultimate-edition-upgrade-gta-vi-miniaturka-cyfra-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Mocniejsi bossowie i ekstremalny tryb trudności. Baldur’s Gate 3 dostało nowe mody na konsolach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mocniejsi-bossowie-i-ekstremalny-tryb-trudnosci-baldurs-gate-3-do/z7323f9",
+      "publishedAt": "2026-11-20T16:03+01:00",
+      "summary": "Scena moderska Baldur’s Gate 3 kwitnie także na konsolach. Właśnie udostępniono kilkanaście nowych projektów, w tym dwa dla weteranów szukających bardziej trudnych wyzwań.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ca2aef6b7c783954a10b/ca2aef6b7c783954a10b.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532882994.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nad GTA 6 pracowała spora grupa Polaków. Nasi rodacy zajmowali się istotnymi elementami gry",
+      "sourceUrl": "https://cdaction.pl/newsy/nad-gta-6-pracowala-spora-grupa-polakow-nasi-rodacy-zajmowali-sie-istotnymi-elementami-gry/",
+      "publishedAt": "2026-11-20T16:00+01:00",
+      "summary": "Całkiem sympatyczne wieści.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-polska-gurom.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Radykalny krok Microsoftu: Copilot staje się „nowym systemem operacyjnym” i zamienia programy Word, Excel i inne w wtyczki",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/radykalny-krok-microsoftu-copilot-staje-sie-nowym-systemem-operac/z5323f7",
+      "publishedAt": "2026-11-20T16:00+01:00",
+      "summary": "Copilot staje się centrum zarządzania aplikacjami Office. To z poziomu asystenta AI będzie można uruchamiać Worda, Excela lub PowerPointa. Nowe funkcje będą dostępne dla wybranej grupy użytkowników.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532881111.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Black Myth Wukong na PS5 za 259,99 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-black-myth-wukong-na-ps5-za-25999-zl-na-allegro/",
+      "publishedAt": "2026-11-20T15:56+01:00",
+      "summary": "Jeden z hitów 2024 roku w pudełkowym wydaniu, czyli Black Myth Wukong, jest możliwy do kupienia taniej poprzez serwis Allegro. Produkcja, za której stworzeniem stoi chińskie Game Science, kosztuje obecnie 259,99 zł, w wersji na konsole Sony PlayStation 5. Trzeba przyznać, że historia Małpiego Króla naprawdę solidnie trzyma cenę. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/10/black-myth-wukong-ps5-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Szpile: Szef Epica z „epicką” odklejką",
+      "sourceUrl": "https://cdaction.pl/szpile/szpile-szefa-epica-z-epicka-odklejka/",
+      "publishedAt": "2026-11-20T15:19+01:00",
+      "summary": "Twoja cotygodniowa dawka przekąsu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/09/81fc73e9-c2ec-4dfe-9dfc-841092262678.jpg"
+    },
+    {
+      "sourceName": "GRY-Online / Publicystyka",
+      "title": "Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku",
+      "sourceUrl": "https://www.gry-online.pl/recenzje/recenzja-gta-6-po-120-godzinach-to-znacznie-wiecej-niz-tylko-gra/z449dc",
+      "publishedAt": "2026-11-18T13:00+01:00",
+      "summary": "Gra roku? Pff, nie ma o czym mówić, po ten tytuł GTA 6 sięgnie bez głosu sprzeciwu. Zastanowiłbym się raczej, czy nie mamy przed sobą również mocnego kandydata do tytułu gry generacji i gry dekady. Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku został opublikowany przez gry-online.pl 18 listopada 2026. Zobacz zasady korzystania z naszych treści .",
+      "category": "PUBLICYSTYKA",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532619018.jpg"
     }
   ],
   "indie": [
