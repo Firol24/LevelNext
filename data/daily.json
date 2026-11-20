@@ -1,17 +1,107 @@
 {
   "status": "rss-only",
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T13:01+01:00",
+  "updatedAt": "2026-11-20T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "W GTA 6 powraca legendarna postać. Jej powrót jest epicki, ale i trochę smutny (Uwaga: spoiler)",
-    "summary": "W GTA 6 powraca lubiana postać z jednej z poprzednich odsłon serii. Niektórzy gracze są jednak smutni, widząc, jak potoczyły się jej losy. UWAGA: spoilery!",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-powraca-legendarna-postac-jej-powrot-jest-epicki-ale-i-tr/ze323ea",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532873178.jpg"
+    "title": "Rzadki widok: nowe DLC Paradoxu chwalone za cenę, a HoI4 dostaje drzewka dla Rumunii",
+    "summary": "Hearts of Iron 4: To The Bitter End na razie zbiera pochwały, i to także za cenę (choć nie od wszystkich).",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/rzadki-widok-nowe-dlc-paradoxu-chwalone-za-cene-a-hoi4-dostaje-dr/z1323f3",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532877920.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Rzadki widok: nowe DLC Paradoxu chwalone za cenę, a HoI4 dostaje drzewka dla Rumunii",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/rzadki-widok-nowe-dlc-paradoxu-chwalone-za-cene-a-hoi4-dostaje-dr/z1323f3",
+      "publishedAt": "2026-11-20T14:42+01:00",
+      "summary": "Hearts of Iron 4: To The Bitter End na razie zbiera pochwały, i to także za cenę (choć nie od wszystkich).",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532877920.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "O GTA 6 zapytano nawet Donalda Tuska. Polski premier odpowiedział krótko, podczas gdy w USA trwa awantura",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/o-gta-6-zapytano-nawet-donalda-tuska-polski-premier-odpowiedzial/z3323ef",
+      "publishedAt": "2026-11-20T14:07+01:00",
+      "summary": "GTA 6 wywołuje emocje nie tylko wśród graczy, ale również polityków i dziennikarzy. O nową produkcję Rockstara zapytano nawet Donalda Tuska, ale to w USA tytuł wywołał prawdziwą burzę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532874868.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Microsoft zaproponował 60 tysiącom ludzi dobrowolne odejście. Teraz szef firmy tłumaczy, dlaczego było to konieczne",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/microsoft-zaproponowal-60-tysiacom-ludzi-dobrowolne-odejscie-tera/z0323f2",
+      "publishedAt": "2026-11-20T14:05+01:00",
+      "summary": "Microsoft uruchomił nowy program dla pracowników chcących rozstać się z korporacją. CEO wyjaśnił, dlaczego podjęto taką decyzję i jaki wpływ na nią miała sztuczna inteligencja.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532875879.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 5 dni powraca kultowa saga science fiction. Sequel cyberpunkowego arcydzieła zadebiutuje w streamingu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-5-dni-powraca-kultowa-saga-science-fiction-sequel-cyberpunkowe/z5323e8",
+      "publishedAt": "2026-11-20T14:02+01:00",
+      "summary": "Na Prime Video niedługo ukaże się kontynuacja kultowej serii science fiction. Za 5 dni fani będą mogli obejrzeć wszystkie odcinki sequela.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532871364.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To oficjalne! John Carpenter wraca do rebootu kultowego hitu",
+      "sourceUrl": "https://www.ppe.pl/news/433904/to-oficjalne-john-carpenter-wraca-do-rebootu-kultowego-hitu.html",
+      "publishedAt": "2026-11-20T14:01+01:00",
+      "summary": "John Carpenter, reżyser oryginalnego filmu z 1981 roku, oficjalnie potwierdził swoje zaangażowanie w nową produkcję Zacka Snydera. Reboot „Ucieczki z Nowego Jorku” nabiera więc coraz ciekawszych kształtów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/abc419cc3d990a8084ee/abc419cc3d990a8084ee.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„AI slop” zostanie zmieciony z rynku. Ludzka praca w grach zyska na wartości, twierdzi twórca Stellar Blade",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/recznie-od-poczatku-do-konca-ale-z-pomoca-maszyn-tworcy-resident/zf323f1",
+      "publishedAt": "2026-11-20T13:58+01:00",
+      "summary": "Shinji Mikami oraz Kim Hyung-tae eksperymentują z AI, ale to ludzie wciąż mają u nich pierwsze i ostatnie słowo.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532875137.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Odtwarzacz CD Fosi Audio Merak z DAC CS43131 i wzmacniaczem za 560,15 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/odtwarzacz-cd-fosi-audio-merak-z-dac-cs43131-i-wzmacniaczem-za-56015-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-20T13:47+01:00",
+      "summary": "Stacjonarny odtwarzacz płyt kompaktowych Fosi Audio Merak, pojawił się w bardzo dobrej cenie podczas czarnopiątkowych promocji w polskim oddziale sklepu Amazon. Urządzenie z przetwornikiem CS43131 DAC, wzmacniaczem słuchawkowym TPA6120 oraz wyjściem line-out na głośniki, kosztuje 560,15 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/fosi-audio-odtwarzacz-cd-merak-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 na PC? Nie dajcie się nabrać",
+      "sourceUrl": "https://www.ppe.pl/news/433905/gta-6-na-pc-nie-dajcie-sie-nabrac.html",
+      "publishedAt": "2026-11-20T13:41+01:00",
+      "summary": "Premiera GTA 6 rozbudziła zainteresowanie graczy komputerowych, którzy chcieliby sprawdzić najnowszą produkcję Rockstar Games bez konsoli.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8617ab513b0297f9c70b/8617ab513b0297f9c70b.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ubisoft otworzył studio w całości poświęcone AI. Motherbrain będzie generować gry sztuczną inteligencją",
+      "sourceUrl": "https://cdaction.pl/newsy/ubisoft-otworzyl-studio-w-calosci-poswiecone-ai-motherbrain-bedzie-generowac-gry-sztuczna-inteligencja/",
+      "publishedAt": "2026-11-20T13:30+01:00",
+      "summary": "Trzeba mieć w życiu priorytety.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/ubisoft.avif"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Last of Us zakończy historię w trzecim sezonie? Gwiazda serialu zapowiada mocne zakończenie",
+      "sourceUrl": "https://www.ppe.pl/news/433903/the-last-of-us-zakonczy-historie-w-trzecim-sezonie-gwiazda-serialu-zapowiada-mocne-zakonczenie.html",
+      "publishedAt": "2026-11-20T13:22+01:00",
+      "summary": "Fani The Last of Us mogą przygotować się na wyjątkowo emocjonalne zakończenie serialowej historii. Gabriel Luna, wcielający się w Tommy'ego, ujawnił nowe informacje dotyczące trzeciego sezonu produkcji HBO.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/56184ded53da59bf66f9/56184ded53da59bf66f9.webp"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "W GTA 6 powraca legendarna postać. Jej powrót jest epicki, ale i trochę smutny (Uwaga: spoiler)",
@@ -22,6 +112,24 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/532873178.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Klocki CADA Audi RS6 Avant za 1097,25 zł (zamiast 1249 zł) na Allegro z okazji Black Friday 2026",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/klocki-cada-audi-rs6-avant-za-109725-zl-zamiast-1249-zl-na-allegro-z-okazji-black-friday-2026/",
+      "publishedAt": "2026-11-20T13:10+01:00",
+      "summary": "Black Friday 2026 na Allegro trwa w najlepsze. Teraz macie okazję zakupić klocki CADA przedstawiające pojazd Audi RS6 Avant ponad 150 zł taniej niż w oficjalnym sklepie marki. Zestaw liczy sobie 4663 elementy. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Klocki-konstrukcyjne-CaDA-Master-Samochod-Audi-RS6-Avant-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Google Pixel 11 12/256GB 6.3″ 120Hz OLED za 2999 zł (200 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/google-pixel-11-12-256gb-6-3-120hz-oled-za-2999-zl-200-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-20T13:07+01:00",
+      "summary": "W ofercie sklepu Media Expert pojawiła się promocja na Google Pixel 11. Smartfon z wielkim G na pleckach, wyposażony w 12GB RAM oraz ekran OLED o przekątnej 6.3 cala i procesor Tensor G6, kosztuje 2999 złotych. Urządzenie jest dostępne w czterech atrakcyjnych kolorach, fuksjowym, pistacjowym, obsydianowym oraz jasnoliliowym. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-Google-Pixel-11-w-Media-Expert.-Model-12-256GB-dostepny-juz-za-3199-zl_minaturka-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Valve ma złe wieści dla graczy. Steam Machine może być jeszcze droższy, a kryzys na rynku pamięci nie odpuszcza",
       "sourceUrl": "https://www.gry-online.pl/newsroom/valve-ma-zle-wiesci-dla-graczy-steam-machine-moze-byc-jeszcze-dro/z6323e9",
@@ -29,6 +137,15 @@
       "summary": "Valve ostrzega, że nie wie, ile egzemplarzy Steam Machine będzie w stanie wyprodukować i w jakiej cenie je sprzedawać. Powodem są rosnące ceny pamięci NAND i DRAM, które na rynku kontraktowym nie przestają rosnąć.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532872219.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "007 First Light zgarnia najważniejszą nagrodę! James Bond najlepszą grą roku 2026",
+      "sourceUrl": "https://www.ppe.pl/news/433901/007-first-light-zgarnia-najwazniejsza-nagrode-james-bond-najlepsza-gra-roku-2026.html",
+      "publishedAt": "2026-11-20T13:05+01:00",
+      "summary": "Poznaliśmy laureatów tegorocznej edycji TIGA Awards. Najważniejsze wyróżnienie, czyli Game of the Year, powędrowało do studia IO Interactive za 007 First Light.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f64b1a41fb58f2241798/f64b1a41fb58f2241798.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -164,123 +281,6 @@
       "summary": "Wygląda na to, że recepcja GTA 6 nie będzie tak idealna, jak wymarzyło sobie Take Two.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/ea50b1d72d230a2dd2c5/ea50b1d72d230a2dd2c5.png"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na Grand Theft Auto VI w LootBar. Grę na PS5 kupicie za 269 zł",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/promocja-na-grand-theft-auto-vi-w-lootbar-gre-na-ps5-kupicie-za-269-zl/",
-      "publishedAt": "2026-11-20T11:27+01:00",
-      "summary": "Wykorzystując specjalny kod rabatowy w sklepie LootBar, będziecie mogli sporo zaoszczędzić na zakupie GTA VI. Oferta jest skierowana tym razem do posiadaczy PlayStation 5, bowiem gra Rockstar Games w promocyjnej cenie 268,55 zł jest dostępna właśnie na tę platformę. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Trzeci-zwiastun-Grand-Theft-Auto-VI-jeszcze-w-sierpniu_-Rockstar-rusza-z-kampania-marketingowa_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6: gracze w szoku po obejrzeniu porównań graficznych. Konsola za nawet 7000 złotych kontra najtańszy Xbox",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-gracze-w-szoku-po-obejrzeniu-porownan-graficznych-konsola-z/zf323e2",
-      "publishedAt": "2026-11-20T11:25+01:00",
-      "summary": "Grand Theft Auto 6 prezentuje się zaskakująco dobrze na porównaniu graficznym Xboxa Series S z PlayStation 5 Pro, choć z poważnym zastrzeżeniem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532866171.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PS4 nigdzie się nie wybiera! PlayStation obchodzi 13-urodziny, a gracze świętują",
-      "sourceUrl": "https://www.ppe.pl/news/433875/ps4-nigdzie-sie-nie-wybiera-playstation-obchodzi-13-urodziny-a-gracze-swietuja.html",
-      "publishedAt": "2026-11-20T11:21+01:00",
-      "summary": "PlayStation 4 obchodzi właśnie swoje trzynaste urodziny. W świecie gier wideo taki wiek to już niemal prehistoria i większość konsol z podobnym stażem dawno wylądowała na dnie szafy albo na półce u kolekcjonerów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/839d0c1c7b3a624b9e06/839d0c1c7b3a624b9e06.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Kinowe DLC do „Spider-Mana” zapowiedziane w Polsce! „Całkiem nowy dzień” powraca na wielki ekran z nowymi scenami",
-      "sourceUrl": "https://cdaction.pl/kultura/kinowe-dlc-do-spider-mana-zapowiedziane-w-polsce-calkiem-nowy-dzien-powraca-na-wielki-ekran-z-nowymi-scenami/",
-      "publishedAt": "2026-11-20T11:15+01:00",
-      "summary": "Skok na kasę? Reżyser dementuje oskarżenia.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/03/Spider-man-2.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Gracze szykowali się na GTA 6 mimo podwyżek. Przychody z konsol Xbox Series w USA skoczyły o 42%",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-szykowali-sie-na-gta-6-mimo-podwyzek-przychody-z-konsol-xb/zd323e0",
-      "publishedAt": "2026-11-20T11:00+01:00",
-      "summary": "Xbox może świętować wzrost sprzedaży konsol. Wyraźnie wzrosły również wydatki na sprzęt Microsoftu, choć głównie przez podwyżki cen wprowadzone w 2026 roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532864657.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 na Xbox One działa świetnie. Gracze chwalą się rozgrywką",
-      "sourceUrl": "https://www.ppe.pl/news/433874/gta-6-na-xbox-one-dziala-swietnie-gracze-chwala-sie-rozgrywka.html",
-      "publishedAt": "2026-11-20T10:58+01:00",
-      "summary": "Oficjalnie Grand Theft Auto 6 ominęło poprzednią generację konsol i bez żadnego kombinowania odpalimy je tylko na PS5 oraz Xboksach Series X i S. Mimo to właściciele leciwego Xboksa One wcale nie muszą obejść się smakiem, bo z pomocą przysz�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7c33da34795a77a70f47/7c33da34795a77a70f47.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Czas oderwać się od GTA 6. Ta mocarna gra właśnie dostała masę nowości i wsparcie DLSS 5",
-      "sourceUrl": "https://www.ppe.pl/news/433882/czas-oderwac-sie-od-gta-6-ta-mocarna-gra-wlasnie-dostala-mase-nowosci-i-wsparcie-dlss-5.html",
-      "publishedAt": "2026-11-20T10:55+01:00",
-      "summary": "Najlepsza gra rajdowa świata właśnie otrzymała kolejną, dużą aktualizację.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/3cab682ce8188fb46985/3cab682ce8188fb46985.png"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Od razu na 1. miejscu w 53 krajach. Nowy film z gwiazdą Supernatural, Jaredem Padaleckim, podbija Netflixa",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/od-razu-na-1-miejscu-w-53-krajach-nowy-film-z-gwiazda-supernatura/z1323de",
-      "publishedAt": "2026-11-20T10:46+01:00",
-      "summary": "Netflix ma nowy filmowy hit. Listy przebojów podbija świąteczna produkcja z gwiazdą Supernatural w roli głównej.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532863835.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Odbierz 1 miesiąc Apple TV+ za darmo! Oferta dla nowych i wybranych powracających użytkowników",
-      "sourceUrl": "https://lowcygier.pl/subskrypcje/odbierz-1-miesiac-apple-tv-za-darmo-oferta-dla-nowych-i-wybranych-powracajacych-uzytkownikow/",
-      "publishedAt": "2026-11-20T10:46+01:00",
-      "summary": "Gigant z Cupertino ponownie rozdaje dostęp do Apple TV+ za darmo. Z 1 miesiąca aktywnego abonamentu mogą skorzystać nowi oraz wybrani powracający użytkownicy. Warto zatem sprawdzić, czy możecie aktywować tę ofertę. W ten sposób zapoznacie się z Ukryte w Ciemności, Silos, Jedyną, czy też Mroczną Materią i genialnymi Kulawymi Końmi. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/apple-tv-plus-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Assassin’s Creed w starożytnych Chinach wciąż żyje. Ubisoft potwierdza prace nad AC: Jade",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/assassins-creed-w-starozytnych-chinach-wciaz-zyje-ubisoft-potwier/z0323dd",
-      "publishedAt": "2026-11-20T10:41+01:00",
-      "summary": "Choć od zapowiedzi Assassin’s Creed: Jade minęło już kilka lat, o grze wciąż jest bardzo cicho. Wypowiedź przedstawiciela Ubisoftu sugeruje jednak, że gra nadal jest w produkcji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532863637.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Fani GTA 6 w końcu mają potwierdzenie, kto wciela się w Jasona. W sieci pojawiło się wspólne oświadczenie duetu aktorskiego",
-      "sourceUrl": "https://cdaction.pl/newsy/fani-gta-6-w-koncu-maja-potwierdzenie-kto-wciela-sie-w-jasona-w-sieci-pojawilo-sie-wspolne-oswiadczenie-duetu-aktorskiego/",
-      "publishedAt": "2026-11-20T10:30+01:00",
-      "summary": "Aktorzy wcielający się w Lucię i Jasona opublikowali oświadczenie, w którym podziękowali Rockstarowi za możliwość udziału w produkcji GTA 6.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-20-o-09.46.05-1260x662.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 już działa w 60 FPS. Gameplay wygląda przecudownie",
-      "sourceUrl": "https://www.ppe.pl/news/433873/gta-6-juz-dziala-w-60-fps-gameplay-wyglada-przecudownie.html",
-      "publishedAt": "2026-11-20T10:29+01:00",
-      "summary": "Ledwo Rockstar Games zamknęło temat wyższej płynności, tłumacząc, że nawet PlayStation 5 Pro jest zbyt słabe na 60 klatek w Grand Theft Auto 6, a sprytni gracze już znaleźli sposób, żeby obejść ten problem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/1ac14b79b5d7a0281aec/1ac14b79b5d7a0281aec.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Grand Theft Auto VI Ultimate Edition na Xbox Series X|S za 348,65 zł w Eneba",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/grand-theft-auto-vi-ultimate-edition-na-xbox-series-xs-za-35295-zl-w-eneba/",
-      "publishedAt": "2026-11-20T10:16+01:00",
-      "summary": "Jesteśmy po premierze GTA VI. Jeśli jeszcze nie zaopatrzyliście się w swój egzemplarz, a chcielibyście pograć na swoim Xbox Series, sięgnijcie do oferty dostępnej w Eneba. Po wykorzystaniu kodu zniżkowego, hit studia Rockstar Games w wersji Ultimate będzie wasz za 348,65 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/Grand-Theft-Auto-VI-okladka-cover-art-203x224.jpg"
     }
   ],
   "indie": [
