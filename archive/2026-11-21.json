@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T16:57+01:00",
+  "updatedAt": "2026-11-21T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Wyprzedaż Weekend LEGO Insiders 2026 w Sklepie LEGO. Wybrane zestawy do 500 zł taniej!",
-    "summary": "W oficjalnym Sklepie LEGO trwa kolejna odsłona wyprzedaży Weekend LEGO Insiders 2026. Najnowsza edycja wydarzenia rozpoczęła się 21 listopada, tuż po północy. W ramach promocji uczestnicy programu LEGO Insiders mogą liczyć na wyjątkowe zniżki sięgające nawet 500 zł. To jednak nie koniec atrakcji – wybrane zakupy zapewnią nawet cztery razy więcej punktów VIP . Do tego zamówienie za odpowiednią kwotę pozwala odebrać do dwóch upominków LEGO za darmo ! Akcja potrwa jedynie do 22 listopada, więc nie zwlekajcie z potencjalnymi zakupami, które mogą idealnie nadać się jako prezent dla fanów duńskich klocków. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-weekend-lego-insiders-2026-w-sklepie-lego-wybrane-zestawy-do-500-zl-taniej/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Weekend-LEGO-Insiders-2026-w-Sklepie-LEGO.-Wybrane-zestawy-do-500-zl-taniej_miniaturka-224x224.jpg"
+    "title": "Telewizor TCL 98C89K (98″, QD-Mini LED, 144 Hz) za 9999 zł (zamiast 12 999 zł) w Media Expert",
+    "summary": "Łowcy, jeśli rozmiar ma dla Was znaczenie, a jedna ze ścian w salonie wydaje się Wam przygnebiająca pusta, to w internetowym sklepie Media Expert pojawiła się świetna promocja na telewizor TCL z imponującym ekranem o przekątnej 98″! W ramach oferty model 98C89K z matrycą QD-Mini LED o rozdzielczości 4K i odświeżaniu 144 Hz może być Wasz już za 9999 zł. Dzięki wykorzystaniu specjalnego kodu zniżkowego cena zostaje obniżona o aż 3000 zł! Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/telewizor-tcl-98c89k-98-qd-mini-led-144-hz-za-9999-zl-zamiast-12-999-zl-w-media-expert/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Telewizor-TCL-98C89K-98_-QD-Mini-LED-144-Hz-za-9999-zl-zamiast-12-999-zl-w-Media-Expert-_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Telewizor TCL 98C89K (98″, QD-Mini LED, 144 Hz) za 9999 zł (zamiast 12 999 zł) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/telewizor-tcl-98c89k-98-qd-mini-led-144-hz-za-9999-zl-zamiast-12-999-zl-w-media-expert/",
+      "publishedAt": "2026-11-21T17:00+01:00",
+      "summary": "Łowcy, jeśli rozmiar ma dla Was znaczenie, a jedna ze ścian w salonie wydaje się Wam przygnebiająca pusta, to w internetowym sklepie Media Expert pojawiła się świetna promocja na telewizor TCL z imponującym ekranem o przekątnej 98″! W ramach oferty model 98C89K z matrycą QD-Mini LED o rozdzielczości 4K i odświeżaniu 144 Hz może być Wasz już za 9999 zł. Dzięki wykorzystaniu specjalnego kodu zniżkowego cena zostaje obniżona o aż 3000 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Telewizor-TCL-98C89K-98_-QD-Mini-LED-144-Hz-za-9999-zl-zamiast-12-999-zl-w-Media-Expert-_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Wyprzedaż Weekend LEGO Insiders 2026 w Sklepie LEGO. Wybrane zestawy do 500 zł taniej!",
@@ -272,15 +281,6 @@
       "summary": "Coroczne starcie niebawem się rozpocznie. Najważniejszy plebiscyt z punktu widzenia twórców gier, tych małych i dużych odbędzie się za kilka tygodni. Od lat jednak w stronę organizatorów gal The Game Awards kierowane są zarzuty o kiepski dob�...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/856adbe5b9a103c7eea5/856adbe5b9a103c7eea5.avif"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Atomfall, High on Life 2 i inne. Darmowe gry i okazje w tym tygodniu",
-      "sourceUrl": "https://cdaction.pl/newsy/atomfall-high-on-life-2-i-inne-darmowe-gry-i-okazje-w-tym-tygodniu/",
-      "publishedAt": "2026-11-21T10:00+01:00",
-      "summary": "Kolejna sobota, kolejne gry za darmo oraz w ofertach Game Passa, PS Plusa i Amazonu Luny.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/collage26-11-20.jpg"
     }
   ],
   "indie": [
