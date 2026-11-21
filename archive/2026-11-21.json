@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T15:01+01:00",
+  "updatedAt": "2026-11-21T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Boisz się ciemności? Po tych 10 filmach zaczniesz",
-    "summary": "Pamiętacie mądre głowy z Hollywood, które dekadę temu wieszczyły, że kino grozy skarleje i wyląduje w niszy dla garstki maniaków? Dziś mogą się schować ze wstydu.",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433930/boisz-sie-ciemnosci-po-tych-10-filmach-zaczniesz.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/08765e498b3ef465fbba/08765e498b3ef465fbba.webp"
+    "category": "PROMOCJE",
+    "title": "Za darmo to uczciwa cena. Najlepsze darmowe gry na PC i konsole (21.11)",
+    "summary": "Łowcy, przed Wami trzecia w listopadzie odsłona artykułu prezentującego darmowe gry na PC i konsole, a także omawiającego produkcje, które w ciągu ostatnich siedmiu dni powiększyły biblioteki najważniejszych abonamentów, takich jak Xbox Game Pass, PlayStation Plus czy Amazon Luna (wcześniej znanej jako Prime Gaming) . Dzięki naszemu artykułowi pozostaniecie na bieżąco z nowościami, a także zgarnąć kilka fajnych gier za darmo. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/darmowe/za-darmo-to-uczciwa-cena-najlepsze-darmowe-gry-na-pc-i-konsole-21-11/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Za-darmo-to-uczciwa-cena.-Najlepsze-darmowe-gry-na-PC-i-konsole-23.08_miniaturka3-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Za darmo to uczciwa cena. Najlepsze darmowe gry na PC i konsole (21.11)",
+      "sourceUrl": "https://lowcygier.pl/darmowe/za-darmo-to-uczciwa-cena-najlepsze-darmowe-gry-na-pc-i-konsole-21-11/",
+      "publishedAt": "2026-11-21T15:59+01:00",
+      "summary": "Łowcy, przed Wami trzecia w listopadzie odsłona artykułu prezentującego darmowe gry na PC i konsole, a także omawiającego produkcje, które w ciągu ostatnich siedmiu dni powiększyły biblioteki najważniejszych abonamentów, takich jak Xbox Game Pass, PlayStation Plus czy Amazon Luna (wcześniej znanej jako Prime Gaming) . Dzięki naszemu artykułowi pozostaniecie na bieżąco z nowościami, a także zgarnąć kilka fajnych gier za darmo. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Za-darmo-to-uczciwa-cena.-Najlepsze-darmowe-gry-na-PC-i-konsole-23.08_miniaturka3-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wielkie zarobki GTA VI nie uratowały Take-Two przed zwolnieniami. Blisko 60 osób wyleci z wielkiego studia?",
+      "sourceUrl": "https://www.ppe.pl/news/434052/wielkie-zarobki-gta-vi-nie-uratowaly-take-two-przed-zwolnieniami-blisko-60-osob-wyleci-z-wielkiego-studia.html",
+      "publishedAt": "2026-11-21T15:54+01:00",
+      "summary": "Branża gier wideo po raz kolejny mierzy się z dużymi zwolnieniami, a tym razem zmiany dotknęły jednego z najbardziej rozpoznawalnych studiów specjalizujących się w produkcji strategii, co może mieć istotny wpływ na jego przyszłe projekty.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ec295b6c40ddbe17c22b/ec295b6c40ddbe17c22b.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Persona 6 ma przebić wszystko, co stworzył Atlus. Producent składa wielką obietnicę",
+      "sourceUrl": "https://www.ppe.pl/news/434044/persona-6-ma-przebic-wszystko-co-stworzyl-atlus-producent-sklada-wielka-obietnice.html",
+      "publishedAt": "2026-11-21T15:30+01:00",
+      "summary": "Atlus nadal bardzo ostrożnie dawkuje informacje o Personie 6, lecz ambicji twórcom zdecydowanie nie brakuje. Producent serii Kazuhisa Wada przekonuje, że zespół pracuje nad tytułem, który ma przewyższyć wszystko, co studio stworzyło do tej por...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c8c4644f09ffc8cf899f/c8c4644f09ffc8cf899f.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Gracze GTA 6 dostają bany na Xboksie. Powodem automatyczne wysyłanie klipów",
+      "sourceUrl": "https://cdaction.pl/newsy/gracze-gta-6-dostaja-bany-na-xboksie-powodem-automatyczne-wysylanie-klipow/",
+      "publishedAt": "2026-11-21T15:29+01:00",
+      "summary": "Won do rogatego więzienia!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-4-1-1260x709.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Boisz się ciemności? Po tych 10 filmach zaczniesz",
@@ -245,42 +281,6 @@
       "summary": "Pobawmy się przez chwilę w małe gdybanie. Załóżmy, że Grand Theft Auto 6 w ogóle nie istnieje albo z jakiegoś szalonego powodu nie załapało się na tegoroczne rozdanie nagród The Game Awards. Gdyby wykreślić dzieło Rockstara z równania, ...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Otwarty świat, który wręcz przytłaczał ogromem możliwości. GTA: San Andreas deklasowało rozmachem konkurencję i poprzedników",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/otwarty-swiat-ktory-wrecz-przytlaczal-ogromem-mozliwosci-gta-san/zd32404",
-      "publishedAt": "2026-11-21T09:00+01:00",
-      "summary": "Grand Theft Auto: San Andreas w momencie premiery stanowiło magnum opus Rockstar Games i szczytowe osiągnięcie wśród gier z otwartym światem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532938928.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gracze masakrują GTA 6. Trwa masowa akcja bombardowania gry recenzjami",
-      "sourceUrl": "https://www.ppe.pl/news/433973/gracze-masakruja-gta-6-trwa-masowa-akcja-bombardowania-gry-recenzjami.html",
-      "publishedAt": "2026-11-21T08:44+01:00",
-      "summary": "Tego w sumie można było się spodziewać, bo w dzisiejszym internecie żadna wielka premiera - a na pewno GTA 6 - nie przejdzie bez małej wojenki w komentarzach.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Sukces graczy w atakowaniu twórców hitu z PS5. Jest jednak haczyk",
-      "sourceUrl": "https://www.ppe.pl/news/433988/sukces-graczy-w-atakowaniu-tworcow-hitu-z-ps5-jest-jednak-haczyk.html",
-      "publishedAt": "2026-11-21T08:43+01:00",
-      "summary": "Wygląda na to, że głośne oburzenie graczy naprawdę ma jeszcze jakąś moc. Po tym, jak twórcy Stellar Blade: Blood Rain wypuścili pewien czas temu kontrowersyjny teledysk wypchany po brzegi materiałami wygenerowanymi przez sztuczną inteligencj�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d6487066f873a9daf80b/d6487066f873a9daf80b.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Konsola PlayStation 5 Slim Digital za 2399 zł na Allegro. Start promocji Black Weeks o 9:00!",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-playstation-5-slim-digital-za-2399-zl-na-allegro-start-promocji-black-weeks-o-900/",
-      "publishedAt": "2026-11-21T08:35+01:00",
-      "summary": "Łowcy, czas na okazję dla fanów dystrybucji cyfrowej. Z okazji wyprzedaży Black Weeks, w Oficjalnym Sklepie Allegro, możecie zakupić tanio PlayStation 5 Slim Digital. W ramach promocji standardowe wydanie konsoli z kontrolerem DualSense może być Wasze za 2399 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2599 zł. Obie oferty rozpoczną się punktualnie o 9:00! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/PlayStation-5-Slim-Digital-825GB-promocja_miniaturka-224x224.jpg"
     }
   ],
   "indie": [
