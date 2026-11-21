@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T11:01+01:00",
+  "updatedAt": "2026-11-21T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -20,6 +20,33 @@
       "summary": "Na PC pojawiają się fałszywe wersje GTA 6 za 200 dolarów. Bestseller zdominował konsole, a gracze odnajdują kolejne easter eggi.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532954017.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kolejna OGROMNA gra Rockstar Games po GTA 6 zdradzona! Zaskakujący wybór",
+      "sourceUrl": "https://www.ppe.pl/news/434043/kolejna-ogromna-gra-rockstar-games-po-gta-6-ujawniona-zaskakujacy-wybor.html",
+      "publishedAt": "2026-11-21T11:46+01:00",
+      "summary": "Ledwo co zdążyliśmy się na dobre rozgościć w słonecznej Leonidzie po premierze Grand Theft Auto 6, a gracze już zaczynają drążyć temat kolejnego wielkiego projektu Rockstar Games.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/351b21bebedacfff05b8/351b21bebedacfff05b8.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Czy GTA 6 jest warte 350 zł? Uwzględniliśmy wielkość gry, inflację i płace minimalne",
+      "sourceUrl": "https://cdaction.pl/teksty/czy-gta-6-jest-warte-350-zl-uwzglednilismy-wielkosc-gry-inflacje-i-place-minimalne/",
+      "publishedAt": "2026-11-21T11:31+01:00",
+      "summary": "Aż trzy i pół stówy – tyle Rockstar Games każe nam płacić za Grand Theft Auto 6. Warto wydać te pieniądze już teraz, nie czekając na promocje?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Unreal Engine 6 przyniesie rewolucję?! Epic rezygnuje z fundamentów znanych deweloperom",
+      "sourceUrl": "https://www.ppe.pl/news/433994/unreal-engine-6-przyniesie-rewolucje-epic-rezygnuje-z-fundamentow-znanych-deweloperom.html",
+      "publishedAt": "2026-11-21T11:30+01:00",
+      "summary": "Unreal Engine 6 nie będzie wyłącznie kolejną odsłoną oferującą ładniejszą grafikę i lepszą wydajność. Epic Games zamierza gruntownie zmienić sposób tworzenia gier, rezygnując z Blueprints oraz Actor Gameplay Framework. Mowa o rozwiązan...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/674408311c5ddebf2fd8/674408311c5ddebf2fd8.png"
     },
     {
       "sourceName": "GRY-Online",
@@ -254,33 +281,6 @@
       "summary": "„World of Warcraft: Forever” przyciąga rekordową liczbę graczy. Nowa odsłona popularnego MMORPG Blizzarda wyraźnie ożywiła produkcję, która zadebiutowała w 2004 roku. Po tytuł sięgają zarówno wieloletni fani serii, jak i nowi użytkown...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/27cd60b758b98c113faf/27cd60b758b98c113faf.avif"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "CD-Action Grand Theft Auto: Sprawdź okładkę i pełną zawartość numeru",
-      "sourceUrl": "https://cdaction.pl/newsy/cd-action-grand-theft-auto-sprawdz-okladke-i-zawartosc-numeru/",
-      "publishedAt": "2026-11-20T17:49+01:00",
-      "summary": "CD-Action Grand Theft Auto jest już na finiszu swojej przedsprzedaży – możecie dalej zamawiać numer przed jego premierą i wysyłką dnia 2 grudnia 2026 roku. Tymczasem – abyście zyskali więcej informacji o wydaniu specjalnym – prezentujemy wam oficjalną okładkę oraz spis treści.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/CDA_GTA-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Steam przygotował kolejną niespodziankę! Te dwie gry sprawdzicie za darmo",
-      "sourceUrl": "https://www.ppe.pl/news/433918/steam-przygotowal-kolejna-niespodzianke-te-dwie-gry-sprawdzicie-za-darmo.html",
-      "publishedAt": "2026-11-20T17:45+01:00",
-      "summary": "Użytkownicy Steama mogą skorzystać z kolejnego darmowego weekendu. Tym razem Valve udostępniło dwie produkcje reprezentujące zupełnie odmienne gatunki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/cc3aa082600091f07b1c/cc3aa082600091f07b1c.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Black Friday w Fanatical. Aż 9000 promocji + gra PC za darmo (po wydaniu 15€)!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-w-fanatical-az-9000-promocji-gra-pc-za-darmo-po-wydaniu-15e/",
-      "publishedAt": "2026-11-20T17:39+01:00",
-      "summary": "Łowcy, zespół Fanatical dołączył do promocyjnej gorączki związanej z Czarnym Piątkiem. Z tej okazji w sklepie wystartowała ogromna wyprzedaż Black Friday Sale 2026 z imponującą liczbą niemal 9000 ofert na gry PC, których rabaty wynoszą nawet rekordowe -96%. Na szczególne wyróżnienie zasługuje tutaj świetna okazja na Neverwinter Nights 2: Enhanced Edition w historycznie najniższej cenie . Odświeżona wersja legendarnego tytułu może być Wasza za nieco ponad 27 zł. Warto podkreślić, że jeśli za pojedyncze zakupy zapłacicie równowartość 15€, to w ramach bonusu otrzymacie jeden obrót kołem fortuny, gdzie do zdobycia są kupony rabatowe do wykorzystania w sklepie lub losowe gry PC za darmo. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-w-Fanatical.-Az-9000-promocji-gra-PC-za-darmo-po-wydaniu-15E_miniaturka-224x224.jpg"
     }
   ],
   "indie": [
