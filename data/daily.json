@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T20:01+01:00",
+  "updatedAt": "2026-11-21T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "The Game Awards pokaże nam BARDZO wyczekiwany powrót po latach. Na tę grę czekamy od początku PlayStation 5",
-    "summary": "The Game Awards jest największą i najważniejszą branżową imprezą, na której chce się znaleźć absolutnie każdy, zwłaszcza jeśli szykuje wielki hit.",
-    "sourceUrl": "https://www.ppe.pl/news/434054/the-game-awards-pokaze-nam-bardzo-wyczekiwany-powrot-po-latach-na-te-gre-czekamy-od-poczatku-playstation-5.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/96f474e0e9bc09859d78/96f474e0e9bc09859d78.webp"
+    "title": "GTA 6 okiem recenzenta-samochodziarza, Forza Horizon 6 z planem poważnych reform. Motoprzegląd Drauga",
+    "summary": "Stało się, GTA 6 wjechało nawet do Motoprzeglądu – wyjątkowo, dlatego że akurat recenzowałem tę grę. Poza tym omawiam m.in. postępy w rozwoju Track Day, zapowiedź dużych zmian w FH6, aktualizację 0.7 do AC Rally i crossover Initial D z TDU: Solar Crown.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-okiem-recenzenta-samochodziarza-forza-horizon-6-z-planem-po/zb3240b",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532986997.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 okiem recenzenta-samochodziarza, Forza Horizon 6 z planem poważnych reform. Motoprzegląd Drauga",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-okiem-recenzenta-samochodziarza-forza-horizon-6-z-planem-po/zb3240b",
+      "publishedAt": "2026-11-21T20:59+01:00",
+      "summary": "Stało się, GTA 6 wjechało nawet do Motoprzeglądu – wyjątkowo, dlatego że akurat recenzowałem tę grę. Poza tym omawiam m.in. postępy w rozwoju Track Day, zapowiedź dużych zmian w FH6, aktualizację 0.7 do AC Rally i crossover Initial D z TDU: Solar Crown.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532986997.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "NOWY Fallout oficjalnie nadchodzi, ale będzie inny niż się spodziewacie",
+      "sourceUrl": "https://www.ppe.pl/news/434055/nowy-fallout-oficjalnie-nadchodzi-ale-bedzie-inny-niz-sie-spodziewacie.html",
+      "publishedAt": "2026-11-21T20:38+01:00",
+      "summary": "Marka Fallout jest obecnie w takim miejscu, gdzie gracze dosłownie błagają Bethesdę o nową grę, ale nadal zostajemy dosłownie z niczym. To się może zmienić.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4b4f122a6740ad18c419/4b4f122a6740ad18c419.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "The Game Awards pokaże nam BARDZO wyczekiwany powrót po latach. Na tę grę czekamy od początku PlayStation 5",
@@ -139,6 +157,15 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gra-planszowa-na-jaka-nie-zaslugujemy-tanio-w-Empiku.-MONOPOLY-Sosnowiec-juz-za-71-zl_minaturka-224x224.jpg"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "Na początku XXI wieku tysiące internautów rozwiązywało zagadki fikcyjnej sztucznej inteligencji. Jedna z pierwszych wielkich gier internetowych powstała jako reklama filmu science fiction Spielberga",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-poczatku-xxi-wieku-tysiace-internautow-rozwiazywalo-zagadki-fi/zb323ab",
+      "publishedAt": "2026-11-21T16:00+01:00",
+      "summary": "Jedna z najbardziej nietypowych kampanii promocyjnych filmów Stevena Spielberga sprawiła, że internauci stworzyli zbiorową inteligencję. Na całym świecie szukali wskazówek, żeby rozwiązać wielką tajemnicę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532710393.jpg"
+    },
+    {
       "sourceName": "Łowcy Gier",
       "title": "Za darmo to uczciwa cena. Najlepsze darmowe gry na PC i konsole (21.11)",
       "sourceUrl": "https://lowcygier.pl/darmowe/za-darmo-to-uczciwa-cena-najlepsze-darmowe-gry-na-pc-i-konsole-21-11/",
@@ -173,6 +200,15 @@
       "summary": "Won do rogatego więzienia!",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-4-1-1260x709.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 nie odebrało graczy Steamowi. Analityk: wróciły miliony, które porzuciły gry na rzecz innej rozrywki",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-nie-odebralo-graczy-steamowi-analityk-wrocily-miliony-gracz/za3240a",
+      "publishedAt": "2026-11-21T15:05+01:00",
+      "summary": "Weteran branży gier porównał liczbę jednocześnie grających na Steamie i w Fortnite przed premierą GTA 6 i po niej. Nie zauważył spodziewanych spadków i wyciąga z tego wnioski o tym, kto kupuje nową grę Rockstara.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532965777.jpg"
     },
     {
       "sourceName": "PPE",
@@ -211,6 +247,15 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Indyczy-przeglad-promocji-w-Nintendo-eShop.-Polecane-gry-niezalezne-na-Switcha-2-od-580-zl_miniaturka-224x224.jpg"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "„Uważam jego zachowanie za pozbawione wszelkich skrupułów”. 62 lata temu Walt Disney zablokował realizację jednej z największych produkcji w historii Hollywood",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/uwazam-jego-zachowanie-za-pozbawione-wszelkich-skrupulow-62-lata/z0323ec",
+      "publishedAt": "2026-11-21T14:02+01:00",
+      "summary": "Były wielkie plany na adaptację historii słynnego fikcyjnego bohatera, ale nie udało się ich zrealizować. Na drodze miał stanąć sam Walt Disney.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532874213.jpg"
+    },
+    {
       "sourceName": "PPE",
       "title": "8 mechanik, które kiedyś zachwycały, a dziś potrafią natychmiast zniechęcić do gry",
       "sourceUrl": "https://www.ppe.pl/publicystyka/433374/8-mechanik-ktore-kiedys-zachwycaly-a-dzis-potrafia-natychmiast-zniechecic-do-gry.html",
@@ -220,6 +265,15 @@
       "imageUrl": "https://pliki.ppe.pl/storage/1c78674f288c2fdb6cd1/1c78674f288c2fdb6cd1.png"
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "Pod koniec 1986 roku statek prawdopodobnie zrzucił wodę balastową do Wielkich Jezior. Teraz USA oferują łącznie 550 tys. dolarów za rozwiązanie problemu plagi małży, która była tego następstwem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pod-koniec-1986-roku-statek-prawdopodobnie-zrzucil-wode-balastowa/zf323cd",
+      "publishedAt": "2026-11-21T14:00+01:00",
+      "summary": "W Stanach Zjednoczonych uruchomiono program mający powstrzymać ekspansję inwazyjnych małży na kolejne zbiorniki. Szkodniki te niszczą lokalne ekosystemy, a przy okazji utrudniają pracę okolicznych elektrowni.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532795269.jpg"
+    },
+    {
       "sourceName": "PPE",
       "title": "Fani chcieli zaszaleć z wyglądem bohaterów GTA 6. „Czy to naprawdę maksimum?”",
       "sourceUrl": "https://www.ppe.pl/news/433996/fani-chcieli-zaszalec-z-wygladem-bohaterow-gta-6-czy-to-naprawde-maksimum.html",
@@ -227,60 +281,6 @@
       "summary": "Zaledwie kilkadziesiąt godzin wystarczyło, aby gracze zaczęli testować granice rozbudowanych systemów GTA 6. Duże zainteresowanie wzbudziła mechanika kondycji i masy ciała, pozwalająca zmieniać sylwetki Jasona oraz Lucii. Część społecznoś...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/39fec08e30958c0ec36b/39fec08e30958c0ec36b.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż INZONE Black Friday 2026 w x-kom. Słuchawki Sony od 199 zł + bon na zakupy!",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/wyprzedaz-inzone-black-friday-2026-w-x-kom-sluchawki-sony-od-199-zl-bon-na-zakupy/",
-      "publishedAt": "2026-11-21T13:19+01:00",
-      "summary": "W internetowym sklepie x-kom rozpoczęła się kolejna wyprzedaż z cyklu Black Friday 2026. Tym razem w niższych cenach możecie zakupić słuchawki z dedykowanej dla graczy serii INZONE . W dalszej części wpisu znajdziecie najciekawsze oferty na wybrane modele od firmy Sony. Wybrane produkty dostępne są w cenach niższych o nawet 100 zł! Dodatkowo, każde zamówienie pozwala otrzymać bon na kolejne zakupy. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-INZONE-Black-Friday-2026-w-x-kom.-Sluchawki-Sony-od-199-zl-bon-na-zakupy_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Quiz o GTA 6 bez spoilerów - ile wiesz o grze?",
-      "sourceUrl": "https://www.ppe.pl/quizy/433332/quiz-o-gta-6-bez-spoilerow-ile-wiesz-o-grze.html",
-      "publishedAt": "2026-11-21T13:00+01:00",
-      "summary": "Gra dekady w końcu zadebiutowała, więc jest to idealny moment na wzięcie udziału w teście wiedzy dotyczącym mechanik gry i podstawowych informacji. Nie znajdziecie tu wielkich spoilerów z fabuły!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a45044376d8347da252d/a45044376d8347da252d.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Miał pracować 2 lata, zajęło mu to 4. Samotny twórca city buildera Citystate Metropolis przekazał ważną wiadomość",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/mial-pracowac-2-lata-zajelo-mu-to-4-samotny-tworca-city-buildera/z132408",
-      "publishedAt": "2026-11-21T12:38+01:00",
-      "summary": "Potencjalny pogromca Cities: Skylines II od samotnego dewelopera ma dokładną datę debiutu w Early Accessie. Citystate Metropolis powstawało dwa razy dłużej, niż zakładał twórca.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532956847.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tifa z Final Fantasy znalazła się w centrum wielkiej afery. Policja zatrzymała aż 13 osób",
-      "sourceUrl": "https://www.ppe.pl/news/433995/tifa-z-final-fantasy-znalazla-sie-w-centrum-wielkiej-afery-policja-zatrzymala-az-13-osob.html",
-      "publishedAt": "2026-11-21T12:30+01:00",
-      "summary": "Popularność Tify Lockhart dawno wykroczyła poza serię Final Fantasy, ale tym razem zainteresowanie bohaterką przybrało zdecydowanie mniej niewinną formę. Chińska policja zatrzymała 13 osób podejrzanych o produkowanie i sprzedawanie... Tak, do...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/07e80908e6c0ae70f2b7/07e80908e6c0ae70f2b7.png"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Funko POP! w Media Expert. Kolekcjonerskie figurki dostępne od 29,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-funko-pop-w-media-expert-kolekcjonerskie-figurki-dostepne-od-2999-zl/",
-      "publishedAt": "2026-11-21T12:03+01:00",
-      "summary": "Z okazji wyprzedaży Black Friday 2026, w internetowym sklepie Media Expert, pojawiła się specjalna promocja na Funko POP! W ramach oferty możecie zakupić wiele unikalnych modeli z popularnych animacji, filmów oraz seriali, w tym postacie z takich uniwersów jak Lord of the Rings, Marvel Comix czy Star Wars. Wyróżnione przez nas modele oferowane są w rekordowo niskich cenach zaczynających się od 29,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Funko-POP-w-Media-Expert.-Kolekcjonerskie-figurki-dostepne-od-2999-zl_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Fałszywe GTA 6 na PC za 200 dolarów, wielki powrót bikini-girl i zdominowane konsole. Bestseller Rockstara w pigułce",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/falszywe-gta-6-na-pc-za-200-dolarow-wielki-powrot-bikini-girl-i-z/z032407",
-      "publishedAt": "2026-11-21T11:51+01:00",
-      "summary": "Na PC pojawiają się fałszywe wersje GTA 6 za 200 dolarów. Bestseller zdominował konsole, a gracze odnajdują kolejne easter eggi.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532954017.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "96ef094621a67bb97f21207f8eef644389805fe20e40fa23ea87a3be7f79e26a"
+  "editorialHash": "2b3559829572d938b159775692a8ded1a410d44f291763cf4cd91d3622775907"
 }
