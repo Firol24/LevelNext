@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T18:01+01:00",
+  "updatedAt": "2026-11-21T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Były szef Nvidii fatalnie traktował swoich pracowników. „Powiedział, że wyrwie podwładnemu obie ręce”",
-    "summary": "Mroczne żądze Jensena Huanga.",
-    "sourceUrl": "https://cdaction.pl/newsy/byly-szef-nvidii-fatalnie-traktowal-swoich-pracownikow-powiedzial-ze-wyrwie-podwladnemu-obie-rece/",
-    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/jensen-huang-4344.jpg"
+    "category": "PROMOCJE",
+    "title": "Premiery gier grudzień 2026 r. Lista tytułów na PC, PS5, Xbox Series, Nintendo Switch 2 oraz VR",
+    "summary": "Dopiero co rozpoczynaliśmy rok, a już przyszło nam prezentować premiery gier w grudniu. Szybko zleciało. Jak można się było spodziewać, ostatni miesiąc nie obfituje w zbyt wiele nowych tytułów, a sytuacja jest obecnie jeszcze gorsza niż w ubiegłych latach, ze względu na GTA VI. Mimo to powinniście znaleźć tu coś dla siebie! Zapraszamy. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/aktualnosci/premiery-gier-grudzien-2026-r-lista-tytulow-na-pc-ps5-xbox-series-nintendo-switch-2-oraz-vr/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Premiery-gier-w-grudniu-logo-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiery gier grudzień 2026 r. Lista tytułów na PC, PS5, Xbox Series, Nintendo Switch 2 oraz VR",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/premiery-gier-grudzien-2026-r-lista-tytulow-na-pc-ps5-xbox-series-nintendo-switch-2-oraz-vr/",
+      "publishedAt": "2026-11-21T18:31+01:00",
+      "summary": "Dopiero co rozpoczynaliśmy rok, a już przyszło nam prezentować premiery gier w grudniu. Szybko zleciało. Jak można się było spodziewać, ostatni miesiąc nie obfituje w zbyt wiele nowych tytułów, a sytuacja jest obecnie jeszcze gorsza niż w ubiegłych latach, ze względu na GTA VI. Mimo to powinniście znaleźć tu coś dla siebie! Zapraszamy. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Premiery-gier-w-grudniu-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To był dobry rok dla Godota. Na konkurencji Unity i Unreal Engine powstało wiele wybitnych gier",
+      "sourceUrl": "https://www.ppe.pl/news/434047/to-byl-dobry-rok-dla-godota-na-konkurencji-unity-i-unreal-engine-powstalo-wiele-wybitnych-gier.html",
+      "publishedAt": "2026-11-21T18:10+01:00",
+      "summary": "Większość branżowych dyskusji na temat silników do gier dotyczy przede wszystkim rywalizacji Unity z Unreal Engine oraz wyższości autorskich technologii nad wszystkimi innymi. Na popularności zyskuje jednak Godot.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0ea90793cadf69a69ac5/0ea90793cadf69a69ac5.png"
+    },
     {
       "sourceName": "CD-Action",
       "title": "Były szef Nvidii fatalnie traktował swoich pracowników. „Powiedział, że wyrwie podwładnemu obie ręce”",
@@ -263,24 +281,6 @@
       "summary": "Unreal Engine 6 nie będzie wyłącznie kolejną odsłoną oferującą ładniejszą grafikę i lepszą wydajność. Epic Games zamierza gruntownie zmienić sposób tworzenia gier, rezygnując z Blueprints oraz Actor Gameplay Framework. Mowa o rozwiązan...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/674408311c5ddebf2fd8/674408311c5ddebf2fd8.png"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Po prostu okropny”. Reżyser Kevina samego w domu ostro ocenił aktora, którego zwolnił z filmu. Gwiazdor nie wytrzymał i odpowiedział na jego zarzuty",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/po-prostu-okropny-rezyser-kevina-samego-w-domu-ostro-ocenil-aktor/zf323eb",
-      "publishedAt": "2026-11-21T11:02+01:00",
-      "summary": "Rola jednego z bandytów w Kevinie samym w domu miała powędrować do innego aktora, którego występ podczas prób reżyser nazwał „okropnym”. Gwiazdor odniósł się do komentarzy Chrisa Columbusa.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532874045.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Czy to najlepszy azjatycki horror XXI wieku? Nie mam co do tego żadnych wątpliwości",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433900/czy-to-najlepszy-azjatycki-horror-xxi-wieku-nie-mam-co-do-tego-zadnych-watpliwosci.html",
-      "publishedAt": "2026-11-21T11:00+01:00",
-      "summary": "Najciekawszym aspektem zakończonej w tym tygodniu stacjonarnej odsłony 20. festiwalu filmów azjatyckich Pięć Smaków okazały się retrospektywy dwóch znakomitych azjatyckich twórców: hongkońskiego mistrza Tsui Harka i Koreańczyka Na Hong-jina...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0fc36b902c94e18697c2/0fc36b902c94e18697c2.jpg"
     }
   ],
   "indie": [
