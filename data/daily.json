@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T17:01+01:00",
+  "updatedAt": "2026-11-21T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Telewizor TCL 98C89K (98″, QD-Mini LED, 144 Hz) za 9999 zł (zamiast 12 999 zł) w Media Expert",
-    "summary": "Łowcy, jeśli rozmiar ma dla Was znaczenie, a jedna ze ścian w salonie wydaje się Wam przygnebiająca pusta, to w internetowym sklepie Media Expert pojawiła się świetna promocja na telewizor TCL z imponującym ekranem o przekątnej 98″! W ramach oferty model 98C89K z matrycą QD-Mini LED o rozdzielczości 4K i odświeżaniu 144 Hz może być Wasz już za 9999 zł. Dzięki wykorzystaniu specjalnego kodu zniżkowego cena zostaje obniżona o aż 3000 zł! Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/telewizor-tcl-98c89k-98-qd-mini-led-144-hz-za-9999-zl-zamiast-12-999-zl-w-media-expert/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Telewizor-TCL-98C89K-98_-QD-Mini-LED-144-Hz-za-9999-zl-zamiast-12-999-zl-w-Media-Expert-_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Były szef Nvidii fatalnie traktował swoich pracowników. „Powiedział, że wyrwie podwładnemu obie ręce”",
+    "summary": "Mroczne żądze Jensena Huanga.",
+    "sourceUrl": "https://cdaction.pl/newsy/byly-szef-nvidii-fatalnie-traktowal-swoich-pracownikow-powiedzial-ze-wyrwie-podwladnemu-obie-rece/",
+    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/jensen-huang-4344.jpg"
   },
   "news": [
+    {
+      "sourceName": "CD-Action",
+      "title": "Były szef Nvidii fatalnie traktował swoich pracowników. „Powiedział, że wyrwie podwładnemu obie ręce”",
+      "sourceUrl": "https://cdaction.pl/newsy/byly-szef-nvidii-fatalnie-traktowal-swoich-pracownikow-powiedzial-ze-wyrwie-podwladnemu-obie-rece/",
+      "publishedAt": "2026-11-21T18:00+01:00",
+      "summary": "Mroczne żądze Jensena Huanga.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/jensen-huang-4344.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyjątkowo tania podkładka XXL w Amazon PL. Model Retoo (100 x 50 cm) za jedyne 16,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/wyjatkowo-tania-podkladka-xxl-w-amazon-pl-model-retoo-100-x-50-cm-za-jedyne-1699-zl/",
+      "publishedAt": "2026-11-21T17:21+01:00",
+      "summary": "W polskim oddziale sklepu Amazon możecie zakupić wyjątkowo tanio podkładkę XXL na biurko. Model Retoo o wymiarach 100 x 50 cm może być Wasz za jedyne 16,99 zł. Wariant ten wyposażony jest w antypoślizgowy spód oraz wzmocnione, obszyte brzegi. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyjatkowo-tania-podkladka-XXL-w-Amazon-PL.-Model-Retoo-100-x-50-cm-za-jedyne-1699-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na Apple iPhone 18 Pro na Allegro. Model 256GB Burgund już za 6079,48 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-apple-iphone-18-pro-na-allegro-model-256gb-burgund-juz-za-607948-zl/",
+      "publishedAt": "2026-11-21T17:09+01:00",
+      "summary": "Bezpośrednio na Allegro pojawiła się promocja na najnowszy smartfon z logo Apple. W ramach oferty cena iPhone 18 Pro z 256GB pamięci, w wersji kolorystycznej Burgund, została obniżona do 6079,48 zł. Urządzenie zostało wyposażone w aparat główny Fusion 48 MP, 6‑rdzeniowy procesor A20 Pro oraz wyświetlacz Super Retina XDR o przekątnej 6.3″. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Apple-iPhone-18-Pro-na-Allegro.-Model-256GB-Burgund-juz-za-607948-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Telewizor TCL 98C89K (98″, QD-Mini LED, 144 Hz) za 9999 zł (zamiast 12 999 zł) w Media Expert",
@@ -254,33 +281,6 @@
       "summary": "Najciekawszym aspektem zakończonej w tym tygodniu stacjonarnej odsłony 20. festiwalu filmów azjatyckich Pięć Smaków okazały się retrospektywy dwóch znakomitych azjatyckich twórców: hongkońskiego mistrza Tsui Harka i Koreańczyka Na Hong-jina...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/0fc36b902c94e18697c2/0fc36b902c94e18697c2.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 7 obejmie cały świat? Prezes Take-Two odpowiada na durne pytanie...",
-      "sourceUrl": "https://www.ppe.pl/news/433990/gta-7-obejmie-caly-swiat-prezes-take-two-odpowiada-na-durne-pytanie.html",
-      "publishedAt": "2026-11-21T10:30+01:00",
-      "summary": "GTA 6 dopiero trafiło na rynek, ale część graczy i dziennikarzy już zaczyna zastanawiać się nad kolejnym rozdziałem serii. Podczas rozmowy ze Straussem Zelnickiem pojawiło się pytanie, czy GTA 7 mogłoby zaoferować mapę obejmującą cały ś...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f5e9970b9b185684deb1/f5e9970b9b185684deb1.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Sobotnie podsumowanie wyprzedaży w GOG.com. Life is Strange: Before the Storm za 12,19 zł!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/sobotnie-podsumowanie-wyprzedazy-w-gog-com-life-is-strange-before-the-storm-za-1219-zl/",
-      "publishedAt": "2026-11-21T10:26+01:00",
-      "summary": "Łowcy, przygotowaliśmy dla Was trzecie w listopadzie podsumowanie promocji na gry PC z cyfrowego sklepu GOG.com. W dalszej części artykułu znajdziecie 150 najciekawszych ofert na tanie tytuły DRM-Free. Na szczególne wyróżnienie zasługuje tutaj powracające po latach do rekordowo niskiej ceny Life is Strange: Before the Storm, które może być Wasze za 12,19 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Sobotnie-podsumowanie-wyprzedazy-w-GOG.com_.-Life-is-Strange_-Before-the-Storm-za-1219-zl_miniturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Kto zgarnie koronę The Game Awards? GTA 6 czy Zelda?",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433963/kto-zgarnie-korone-the-game-awards-gta-6-czy-zelda.html",
-      "publishedAt": "2026-11-21T10:00+01:00",
-      "summary": "Coroczne starcie niebawem się rozpocznie. Najważniejszy plebiscyt z punktu widzenia twórców gier, tych małych i dużych odbędzie się za kilka tygodni. Od lat jednak w stronę organizatorów gal The Game Awards kierowane są zarzuty o kiepski dob�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/856adbe5b9a103c7eea5/856adbe5b9a103c7eea5.avif"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "2b3559829572d938b159775692a8ded1a410d44f291763cf4cd91d3622775907"
+  "editorialHash": "96ef094621a67bb97f21207f8eef644389805fe20e40fa23ea87a3be7f79e26a"
 }
