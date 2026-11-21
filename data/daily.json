@@ -1,17 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T08:01+01:00",
+  "updatedAt": "2026-11-21T08:57+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ubisoft mógł gryźć piach gdyby nie te dwie gry. To one uratowały firmę",
-    "summary": "Sytuacja finansowa Ubisoftu od dawna nie wyglądała kolorowo, ale najnowszy raport za pierwsze półrocze roku fiskalnego 2026–2027 pokazuje, jak głęboko Francuzi siedzą obecnie w tarapatach.",
-    "sourceUrl": "https://www.ppe.pl/news/433986/ubisoft-mogl-gryzc-piach-gdyby-nie-te-dwie-gry-to-one-uratowaly-firme.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/04be2f7ba6b8f44e9c90/04be2f7ba6b8f44e9c90.webp"
+    "title": "Gracze masakrują GTA 6. Trwa masowa akcja bombardowania gry recenzjami",
+    "summary": "Tego w sumie można było się spodziewać, bo w dzisiejszym internecie żadna wielka premiera - a na pewno GTA 6 - nie przejdzie bez małej wojenki w komentarzach.",
+    "sourceUrl": "https://www.ppe.pl/news/433973/gracze-masakruja-gta-6-trwa-masowa-akcja-bombardowania-gry-recenzjami.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Gracze masakrują GTA 6. Trwa masowa akcja bombardowania gry recenzjami",
+      "sourceUrl": "https://www.ppe.pl/news/433973/gracze-masakruja-gta-6-trwa-masowa-akcja-bombardowania-gry-recenzjami.html",
+      "publishedAt": "2026-11-21T08:44+01:00",
+      "summary": "Tego w sumie można było się spodziewać, bo w dzisiejszym internecie żadna wielka premiera - a na pewno GTA 6 - nie przejdzie bez małej wojenki w komentarzach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sukces graczy w atakowaniu twórców hitu z PS5. Jest jednak haczyk",
+      "sourceUrl": "https://www.ppe.pl/news/433988/sukces-graczy-w-atakowaniu-tworcow-hitu-z-ps5-jest-jednak-haczyk.html",
+      "publishedAt": "2026-11-21T08:43+01:00",
+      "summary": "Wygląda na to, że głośne oburzenie graczy naprawdę ma jeszcze jakąś moc. Po tym, jak twórcy Stellar Blade: Blood Rain wypuścili pewien czas temu kontrowersyjny teledysk wypchany po brzegi materiałami wygenerowanymi przez sztuczną inteligencj�...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d6487066f873a9daf80b/d6487066f873a9daf80b.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola PlayStation 5 Slim Digital za 2399 zł na Allegro. Start promocji Black Weeks o 9:00!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-playstation-5-slim-digital-za-2399-zl-na-allegro-start-promocji-black-weeks-o-900/",
+      "publishedAt": "2026-11-21T08:35+01:00",
+      "summary": "Łowcy, czas na okazję dla fanów dystrybucji cyfrowej. Z okazji wyprzedaży Black Weeks, w Oficjalnym Sklepie Allegro, możecie zakupić tanio PlayStation 5 Slim Digital. W ramach promocji standardowe wydanie konsoli z kontrolerem DualSense może być Wasze za 2399 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2599 zł. Obie oferty rozpoczną się punktualnie o 9:00! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/PlayStation-5-Slim-Digital-825GB-promocja_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 zdradza losy bohaterów z GTA 5! Gracze znaleźli kapitalny sekret od Rockstara",
+      "sourceUrl": "https://www.ppe.pl/news/433991/gta-6-zdradza-losy-bohaterow-z-gta-5-gracze-znalezli-kapitalny-sekret-od-rockstara.html",
+      "publishedAt": "2026-11-21T08:30+01:00",
+      "summary": "Gracze potrzebowali zaledwie kilkudziesięciu godzin, aby odnaleźć w GTA 6 duże nawiązanie do poprzedniej odsłony. Michael, Franklin oraz Trevor zostają wspomniani w podcaście true crime dostępnym w świecie gry. Co najważniejsze, o całej tró...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4abec57654b56214b0b7/4abec57654b56214b0b7.avif"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Przerażający błąd w GTA 6. Można stracić nawet 10 godzin rozgrywki",
+      "sourceUrl": "https://www.ppe.pl/news/433987/przerazajacy-blad-w-gta-6-mozna-stracic-nawet-10-godzin-rozgrywki.html",
+      "publishedAt": "2026-11-21T08:11+01:00",
+      "summary": "Dzisiejsze gry z otwartym światem strasznie nas rozpieściły. Przyzwyczailiśmy się, że możemy w dowolnym momencie po prostu wyłączyć konsolę, a następnego dnia wrócimy dokładnie w to samo miejsce, w którym skończyliśmy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/1ac14b79b5d7a0281aec/1ac14b79b5d7a0281aec.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Ubisoft mógł gryźć piach gdyby nie te dwie gry. To one uratowały firmę",
@@ -236,7 +281,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -244,7 +289,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -252,7 +297,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -260,7 +305,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -279,7 +324,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -289,7 +334,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -327,7 +372,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1793672035"
     },
     {
       "date": "2026-12-01",
@@ -414,5 +459,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "2b3559829572d938b159775692a8ded1a410d44f291763cf4cd91d3622775907"
+  "editorialHash": "96ef094621a67bb97f21207f8eef644389805fe20e40fa23ea87a3be7f79e26a"
 }
