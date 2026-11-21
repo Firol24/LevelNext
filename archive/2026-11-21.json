@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T12:01+01:00",
+  "updatedAt": "2026-11-21T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Fałszywe GTA 6 na PC za 200 dolarów, wielki powrót bikini-girl i zdominowane konsole. Bestseller Rockstara w pigułce",
-    "summary": "Na PC pojawiają się fałszywe wersje GTA 6 za 200 dolarów. Bestseller zdominował konsole, a gracze odnajdują kolejne easter eggi.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/falszywe-gta-6-na-pc-za-200-dolarow-wielki-powrot-bikini-girl-i-z/z032407",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/532954017.jpg"
+    "title": "Quiz o GTA 6 bez spoilerów - ile wiesz o grze?",
+    "summary": "Gra dekady w końcu zadebiutowała, więc jest to idealny moment na wzięcie udziału w teście wiedzy dotyczącym mechanik gry i podstawowych informacji. Nie znajdziecie tu wielkich spoilerów z fabuły!",
+    "sourceUrl": "https://www.ppe.pl/quizy/433332/quiz-o-gta-6-bez-spoilerow-ile-wiesz-o-grze.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/a45044376d8347da252d/a45044376d8347da252d.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Quiz o GTA 6 bez spoilerów - ile wiesz o grze?",
+      "sourceUrl": "https://www.ppe.pl/quizy/433332/quiz-o-gta-6-bez-spoilerow-ile-wiesz-o-grze.html",
+      "publishedAt": "2026-11-21T13:00+01:00",
+      "summary": "Gra dekady w końcu zadebiutowała, więc jest to idealny moment na wzięcie udziału w teście wiedzy dotyczącym mechanik gry i podstawowych informacji. Nie znajdziecie tu wielkich spoilerów z fabuły!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a45044376d8347da252d/a45044376d8347da252d.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Miał pracować 2 lata, zajęło mu to 4. Samotny twórca city buildera Citystate Metropolis przekazał ważną wiadomość",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mial-pracowac-2-lata-zajelo-mu-to-4-samotny-tworca-city-buildera/z132408",
+      "publishedAt": "2026-11-21T12:38+01:00",
+      "summary": "Potencjalny pogromca Cities: Skylines II od samotnego dewelopera ma dokładną datę debiutu w Early Accessie. Citystate Metropolis powstawało dwa razy dłużej, niż zakładał twórca.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532956847.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tifa z Final Fantasy znalazła się w centrum wielkiej afery. Policja zatrzymała aż 13 osób",
+      "sourceUrl": "https://www.ppe.pl/news/433995/tifa-z-final-fantasy-znalazla-sie-w-centrum-wielkiej-afery-policja-zatrzymala-az-13-osob.html",
+      "publishedAt": "2026-11-21T12:30+01:00",
+      "summary": "Popularność Tify Lockhart dawno wykroczyła poza serię Final Fantasy, ale tym razem zainteresowanie bohaterką przybrało zdecydowanie mniej niewinną formę. Chińska policja zatrzymała 13 osób podejrzanych o produkowanie i sprzedawanie... Tak, do...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/07e80908e6c0ae70f2b7/07e80908e6c0ae70f2b7.png"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Funko POP! w Media Expert. Kolekcjonerskie figurki dostępne od 29,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-funko-pop-w-media-expert-kolekcjonerskie-figurki-dostepne-od-2999-zl/",
+      "publishedAt": "2026-11-21T12:03+01:00",
+      "summary": "Z okazji wyprzedaży Black Friday 2026, w internetowym sklepie Media Expert, pojawiła się specjalna promocja na Funko POP! W ramach oferty możecie zakupić wiele unikalnych modeli z popularnych animacji, filmów oraz seriali, w tym postacie z takich uniwersów jak Lord of the Rings, Marvel Comix czy Star Wars. Wyróżnione przez nas modele oferowane są w rekordowo niskich cenach zaczynających się od 29,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Funko-POP-w-Media-Expert.-Kolekcjonerskie-figurki-dostepne-od-2999-zl_minaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Fałszywe GTA 6 na PC za 200 dolarów, wielki powrót bikini-girl i zdominowane konsole. Bestseller Rockstara w pigułce",
@@ -245,42 +281,6 @@
       "summary": "Nie trzeba było długo czekać, aż emocje wokół premiery GTA 6 znajdą ujście w opiniach graczy na Metacriticu.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/image-2.psd-1260x662.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pad Nintendo Switch 2 Pro Controller Resident Evil Requiem Edition za 328,89 zł w Empiku",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pad-nintendo-switch-2-pro-controller-resident-evil-requiem-edition-za-32889-zl-w-empiku/",
-      "publishedAt": "2026-11-20T23:04+01:00",
-      "summary": "Gra Resident Evil Requiem, czyli najnowsza odsłona legendarnej serii od firmy CAPCOM zadebiutowała zadebiutowała na rynku na początku 2026 roku. W tym samym czasie na sklepowych półkach pojawiła się także specjalna wersja pada dedykowanego konsoli Nintendo Switch 2. W ramach oferty Black Weeks model Pro Controller Resident Evil Requiem Edition dostępny jest w internetowym sklepie Empik za 328,89 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Preorder-Nintendo-Switch-2-Pro-Controller-Resident-Evil-Requiem-Edition-za-378-zl-w-Empiku_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Konsola PlayStation 5 Slim z napędem za 2599 zł na Allegro. Start promocji Black Weeks o 19:00!",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-playstation-5-slim-z-napedem-za-2599-zl-na-allegro-start-promocji-black-weeks-o-1900/",
-      "publishedAt": "2026-11-20T18:12+01:00",
-      "summary": "Łowcy, bezpośrednio w Oficjalnym Sklepie Allegro, z okazji wyprzedaży Black Weeks, pojawiła się specjalna promocja na PlayStation 5 Slim. W ramach oferty standardowe wydanie konsoli z napędem optycznym oraz kontrolerem DualSense może być Wasze za 2599 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2849 zł. Obie okazje rozpoczną się punktualnie o 19:00! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/03/playstation-5-slim-d-chassis-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ponad 20 gier w lepszych cenach",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/433940/ponad-20-gier-w-lepszych-cenach.html",
-      "publishedAt": "2026-11-20T18:03+01:00",
-      "summary": "Media Expert postanowił odpalić nową okazję w ramach weekendów poprzedzających Black Weeks.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c381b6c3377e31cc2f91/c381b6c3377e31cc2f91.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "World of Warcraft: Forever bije kolejne rekordy. Co za wynik!",
-      "sourceUrl": "https://www.ppe.pl/news/433923/world-of-warcraft-forever-bije-kolejne-rekordy-co-za-wynik.html",
-      "publishedAt": "2026-11-20T18:01+01:00",
-      "summary": "„World of Warcraft: Forever” przyciąga rekordową liczbę graczy. Nowa odsłona popularnego MMORPG Blizzarda wyraźnie ożywiła produkcję, która zadebiutowała w 2004 roku. Po tytuł sięgają zarówno wieloletni fani serii, jak i nowi użytkown...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/27cd60b758b98c113faf/27cd60b758b98c113faf.avif"
     }
   ],
   "indie": [
