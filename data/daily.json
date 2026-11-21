@@ -1,286 +1,205 @@
 {
   "status": "rss-only",
-  "date": "2026-11-21",
-  "updatedAt": "2026-11-21T23:01+01:00",
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-22T00:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Jestem Rocky (2026) - recenzja filmu [KinoŚwiat]. Oscarowa rola i nostalgiczna bomba. Mamy hit.",
-    "summary": "Film „Jestem Rocky” to produkcja, która sięga po historię stojącą za jednym z największych sukcesów w dziejach kina sportowego. Tym razem jednak nie oglądamy losów Rocky’ego Balboa na bokserskim ringu, lecz poznajemy człowieka, który st...",
-    "sourceUrl": "https://www.ppe.pl/recenzje/434045/jestem-rocky-2026-recenzja-filmu-kinoswiat-oscarowa-rola-i-nostalgiczna-bomba-mamy-hit.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/0dbf5ca4719deb90c8ff/0dbf5ca4719deb90c8ff.webp"
+    "title": "Fani chcieli zaszaleć z wyglądem bohaterów GTA 6. „Czy to naprawdę maksimum?”",
+    "summary": "Zaledwie kilkadziesiąt godzin wystarczyło, aby gracze zaczęli testować granice rozbudowanych systemów GTA 6. Duże zainteresowanie wzbudziła mechanika kondycji i masy ciała, pozwalająca zmieniać sylwetki Jasona oraz Lucii. Część społecznoś...",
+    "sourceUrl": "https://www.ppe.pl/news/433996/fani-chcieli-zaszalec-z-wygladem-bohaterow-gta-6-czy-to-naprawde-maksimum.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/39fec08e30958c0ec36b/39fec08e30958c0ec36b.webp"
   },
   "news": [
     {
       "sourceName": "PPE",
-      "title": "Jestem Rocky (2026) - recenzja filmu [KinoŚwiat]. Oscarowa rola i nostalgiczna bomba. Mamy hit.",
-      "sourceUrl": "https://www.ppe.pl/recenzje/434045/jestem-rocky-2026-recenzja-filmu-kinoswiat-oscarowa-rola-i-nostalgiczna-bomba-mamy-hit.html",
-      "publishedAt": "2026-11-21T21:06+01:00",
-      "summary": "Film „Jestem Rocky” to produkcja, która sięga po historię stojącą za jednym z największych sukcesów w dziejach kina sportowego. Tym razem jednak nie oglądamy losów Rocky’ego Balboa na bokserskim ringu, lecz poznajemy człowieka, który st...",
+      "title": "Fani chcieli zaszaleć z wyglądem bohaterów GTA 6. „Czy to naprawdę maksimum?”",
+      "sourceUrl": "https://www.ppe.pl/news/433996/fani-chcieli-zaszalec-z-wygladem-bohaterow-gta-6-czy-to-naprawde-maksimum.html",
+      "publishedAt": "2026-11-21T13:30+01:00",
+      "summary": "Zaledwie kilkadziesiąt godzin wystarczyło, aby gracze zaczęli testować granice rozbudowanych systemów GTA 6. Duże zainteresowanie wzbudziła mechanika kondycji i masy ciała, pozwalająca zmieniać sylwetki Jasona oraz Lucii. Część społecznoś...",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0dbf5ca4719deb90c8ff/0dbf5ca4719deb90c8ff.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 okiem recenzenta-samochodziarza, Forza Horizon 6 z planem poważnych reform. Motoprzegląd Drauga",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-okiem-recenzenta-samochodziarza-forza-horizon-6-z-planem-po/zb3240b",
-      "publishedAt": "2026-11-21T20:59+01:00",
-      "summary": "Stało się, GTA 6 wjechało nawet do Motoprzeglądu – wyjątkowo, dlatego że akurat recenzowałem tę grę. Poza tym omawiam m.in. postępy w rozwoju Track Day, zapowiedź dużych zmian w FH6, aktualizację 0.7 do AC Rally i crossover Initial D z TDU: Solar Crown.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532986997.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "NOWY Fallout oficjalnie nadchodzi, ale będzie inny niż się spodziewacie",
-      "sourceUrl": "https://www.ppe.pl/news/434055/nowy-fallout-oficjalnie-nadchodzi-ale-bedzie-inny-niz-sie-spodziewacie.html",
-      "publishedAt": "2026-11-21T20:38+01:00",
-      "summary": "Marka Fallout jest obecnie w takim miejscu, gdzie gracze dosłownie błagają Bethesdę o nową grę, ale nadal zostajemy dosłownie z niczym. To się może zmienić.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4b4f122a6740ad18c419/4b4f122a6740ad18c419.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "The Game Awards pokaże nam BARDZO wyczekiwany powrót po latach. Na tę grę czekamy od początku PlayStation 5",
-      "sourceUrl": "https://www.ppe.pl/news/434054/the-game-awards-pokaze-nam-bardzo-wyczekiwany-powrot-po-latach-na-te-gre-czekamy-od-poczatku-playstation-5.html",
-      "publishedAt": "2026-11-21T19:56+01:00",
-      "summary": "The Game Awards jest największą i najważniejszą branżową imprezą, na której chce się znaleźć absolutnie każdy, zwłaszcza jeśli szykuje wielki hit.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/96f474e0e9bc09859d78/96f474e0e9bc09859d78.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Dead by Daylight z nowym przerażającym potworem. Najbardziej brutalny klaun z horrorów trafi do gry",
-      "sourceUrl": "https://www.ppe.pl/news/434053/dead-by-daylight-z-nowym-przerazajacym-potworem-najbardziej-brutalny-klaun-z-horrorow-trafi-do-gry.html",
-      "publishedAt": "2026-11-21T19:16+01:00",
-      "summary": "Dead by Daylight jest obecnie jedną z największych i najważniejszych gier horrorowych na rynku, dzięki czemu deweloperzy ciągle wspierają swoje dzieło kolejnymi bohaterami.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/fc9aab505741d6ab01c3/fc9aab505741d6ab01c3.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Rayman Legends Retold na fantastycznym materiale. Nowy muzyczny poziom wgniata w fotel",
-      "sourceUrl": "https://www.ppe.pl/news/434050/rayman-legends-retold-na-fantastycznym-materiale-nowy-muzyczny-poziom-wgniata-w-fotel.html",
-      "publishedAt": "2026-11-21T19:03+01:00",
-      "summary": "Jednym z tych elementów, które najbardziej pozwoliły wybić się grze Rayman Legends, były muzyczne poziomy, w jakich możemy biegać w rytmie wielkich hitów z całego świata.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5316f017a3e202917040/5316f017a3e202917040.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/39fec08e30958c0ec36b/39fec08e30958c0ec36b.webp"
     },
     {
       "sourceName": "Łowcy Gier",
-      "title": "Premiery gier grudzień 2026 r. Lista tytułów na PC, PS5, Xbox Series, Nintendo Switch 2 oraz VR",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/premiery-gier-grudzien-2026-r-lista-tytulow-na-pc-ps5-xbox-series-nintendo-switch-2-oraz-vr/",
-      "publishedAt": "2026-11-21T18:31+01:00",
-      "summary": "Dopiero co rozpoczynaliśmy rok, a już przyszło nam prezentować premiery gier w grudniu. Szybko zleciało. Jak można się było spodziewać, ostatni miesiąc nie obfituje w zbyt wiele nowych tytułów, a sytuacja jest obecnie jeszcze gorsza niż w ubiegłych latach, ze względu na GTA VI. Mimo to powinniście znaleźć tu coś dla siebie! Zapraszamy. Czytaj więcej »",
+      "title": "Wyprzedaż INZONE Black Friday 2026 w x-kom. Słuchawki Sony od 199 zł + bon na zakupy!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/wyprzedaz-inzone-black-friday-2026-w-x-kom-sluchawki-sony-od-199-zl-bon-na-zakupy/",
+      "publishedAt": "2026-11-21T13:19+01:00",
+      "summary": "W internetowym sklepie x-kom rozpoczęła się kolejna wyprzedaż z cyklu Black Friday 2026. Tym razem w niższych cenach możecie zakupić słuchawki z dedykowanej dla graczy serii INZONE . W dalszej części wpisu znajdziecie najciekawsze oferty na wybrane modele od firmy Sony. Wybrane produkty dostępne są w cenach niższych o nawet 100 zł! Dodatkowo, każde zamówienie pozwala otrzymać bon na kolejne zakupy. Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Premiery-gier-w-grudniu-logo-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-INZONE-Black-Friday-2026-w-x-kom.-Sluchawki-Sony-od-199-zl-bon-na-zakupy_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "PPE",
-      "title": "To był dobry rok dla Godota. Na konkurencji Unity i Unreal Engine powstało wiele wybitnych gier",
-      "sourceUrl": "https://www.ppe.pl/news/434047/to-byl-dobry-rok-dla-godota-na-konkurencji-unity-i-unreal-engine-powstalo-wiele-wybitnych-gier.html",
-      "publishedAt": "2026-11-21T18:10+01:00",
-      "summary": "Większość branżowych dyskusji na temat silników do gier dotyczy przede wszystkim rywalizacji Unity z Unreal Engine oraz wyższości autorskich technologii nad wszystkimi innymi. Na popularności zyskuje jednak Godot.",
+      "title": "Quiz o GTA 6 bez spoilerów - ile wiesz o grze?",
+      "sourceUrl": "https://www.ppe.pl/quizy/433332/quiz-o-gta-6-bez-spoilerow-ile-wiesz-o-grze.html",
+      "publishedAt": "2026-11-21T13:00+01:00",
+      "summary": "Gra dekady w końcu zadebiutowała, więc jest to idealny moment na wzięcie udziału w teście wiedzy dotyczącym mechanik gry i podstawowych informacji. Nie znajdziecie tu wielkich spoilerów z fabuły!",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0ea90793cadf69a69ac5/0ea90793cadf69a69ac5.png"
+      "imageUrl": "https://pliki.ppe.pl/storage/a45044376d8347da252d/a45044376d8347da252d.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Miał pracować 2 lata, zajęło mu to 4. Samotny twórca city buildera Citystate Metropolis przekazał ważną wiadomość",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mial-pracowac-2-lata-zajelo-mu-to-4-samotny-tworca-city-buildera/z132408",
+      "publishedAt": "2026-11-21T12:38+01:00",
+      "summary": "Potencjalny pogromca Cities: Skylines II od samotnego dewelopera ma dokładną datę debiutu w Early Accessie. Citystate Metropolis powstawało dwa razy dłużej, niż zakładał twórca.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532956847.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tifa z Final Fantasy znalazła się w centrum wielkiej afery. Policja zatrzymała aż 13 osób",
+      "sourceUrl": "https://www.ppe.pl/news/433995/tifa-z-final-fantasy-znalazla-sie-w-centrum-wielkiej-afery-policja-zatrzymala-az-13-osob.html",
+      "publishedAt": "2026-11-21T12:30+01:00",
+      "summary": "Popularność Tify Lockhart dawno wykroczyła poza serię Final Fantasy, ale tym razem zainteresowanie bohaterką przybrało zdecydowanie mniej niewinną formę. Chińska policja zatrzymała 13 osób podejrzanych o produkowanie i sprzedawanie... Tak, do...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/07e80908e6c0ae70f2b7/07e80908e6c0ae70f2b7.png"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Funko POP! w Media Expert. Kolekcjonerskie figurki dostępne od 29,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-funko-pop-w-media-expert-kolekcjonerskie-figurki-dostepne-od-2999-zl/",
+      "publishedAt": "2026-11-21T12:03+01:00",
+      "summary": "Z okazji wyprzedaży Black Friday 2026, w internetowym sklepie Media Expert, pojawiła się specjalna promocja na Funko POP! W ramach oferty możecie zakupić wiele unikalnych modeli z popularnych animacji, filmów oraz seriali, w tym postacie z takich uniwersów jak Lord of the Rings, Marvel Comix czy Star Wars. Wyróżnione przez nas modele oferowane są w rekordowo niskich cenach zaczynających się od 29,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Funko-POP-w-Media-Expert.-Kolekcjonerskie-figurki-dostepne-od-2999-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Fałszywe GTA 6 na PC za 200 dolarów, wielki powrót bikini-girl i zdominowane konsole. Bestseller Rockstara w pigułce",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/falszywe-gta-6-na-pc-za-200-dolarow-wielki-powrot-bikini-girl-i-z/z032407",
+      "publishedAt": "2026-11-21T11:51+01:00",
+      "summary": "Na PC pojawiają się fałszywe wersje GTA 6 za 200 dolarów. Bestseller zdominował konsole, a gracze odnajdują kolejne easter eggi.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532954017.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kolejna OGROMNA gra Rockstar Games po GTA 6 zdradzona! Zaskakujący wybór",
+      "sourceUrl": "https://www.ppe.pl/news/434043/kolejna-ogromna-gra-rockstar-games-po-gta-6-ujawniona-zaskakujacy-wybor.html",
+      "publishedAt": "2026-11-21T11:46+01:00",
+      "summary": "Ledwo co zdążyliśmy się na dobre rozgościć w słonecznej Leonidzie po premierze Grand Theft Auto 6, a gracze już zaczynają drążyć temat kolejnego wielkiego projektu Rockstar Games.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/351b21bebedacfff05b8/351b21bebedacfff05b8.webp"
     },
     {
       "sourceName": "CD-Action",
-      "title": "Były szef Nvidii fatalnie traktował swoich pracowników. „Powiedział, że wyrwie podwładnemu obie ręce”",
-      "sourceUrl": "https://cdaction.pl/newsy/byly-szef-nvidii-fatalnie-traktowal-swoich-pracownikow-powiedzial-ze-wyrwie-podwladnemu-obie-rece/",
-      "publishedAt": "2026-11-21T18:00+01:00",
-      "summary": "Mroczne żądze Jensena Huanga.",
+      "title": "Czy GTA 6 jest warte 350 zł? Uwzględniliśmy wielkość gry, inflację i płace minimalne",
+      "sourceUrl": "https://cdaction.pl/teksty/czy-gta-6-jest-warte-350-zl-uwzglednilismy-wielkosc-gry-inflacje-i-place-minimalne/",
+      "publishedAt": "2026-11-21T11:31+01:00",
+      "summary": "Aż trzy i pół stówy – tyle Rockstar Games każe nam płacić za Grand Theft Auto 6. Warto wydać te pieniądze już teraz, nie czekając na promocje?",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/jensen-huang-4344.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyjątkowo tania podkładka XXL w Amazon PL. Model Retoo (100 x 50 cm) za jedyne 16,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/wyjatkowo-tania-podkladka-xxl-w-amazon-pl-model-retoo-100-x-50-cm-za-jedyne-1699-zl/",
-      "publishedAt": "2026-11-21T17:21+01:00",
-      "summary": "W polskim oddziale sklepu Amazon możecie zakupić wyjątkowo tanio podkładkę XXL na biurko. Model Retoo o wymiarach 100 x 50 cm może być Wasz za jedyne 16,99 zł. Wariant ten wyposażony jest w antypoślizgowy spód oraz wzmocnione, obszyte brzegi. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyjatkowo-tania-podkladka-XXL-w-Amazon-PL.-Model-Retoo-100-x-50-cm-za-jedyne-1699-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na Apple iPhone 18 Pro na Allegro. Model 256GB Burgund już za 6079,48 zł!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-apple-iphone-18-pro-na-allegro-model-256gb-burgund-juz-za-607948-zl/",
-      "publishedAt": "2026-11-21T17:09+01:00",
-      "summary": "Bezpośrednio na Allegro pojawiła się promocja na najnowszy smartfon z logo Apple. W ramach oferty cena iPhone 18 Pro z 256GB pamięci, w wersji kolorystycznej Burgund, została obniżona do 6079,48 zł. Urządzenie zostało wyposażone w aparat główny Fusion 48 MP, 6‑rdzeniowy procesor A20 Pro oraz wyświetlacz Super Retina XDR o przekątnej 6.3″. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Apple-iPhone-18-Pro-na-Allegro.-Model-256GB-Burgund-juz-za-607948-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Telewizor TCL 98C89K (98″, QD-Mini LED, 144 Hz) za 9999 zł (zamiast 12 999 zł) w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/telewizor-tcl-98c89k-98-qd-mini-led-144-hz-za-9999-zl-zamiast-12-999-zl-w-media-expert/",
-      "publishedAt": "2026-11-21T17:00+01:00",
-      "summary": "Łowcy, jeśli rozmiar ma dla Was znaczenie, a jedna ze ścian w salonie wydaje się Wam przygnebiająca pusta, to w internetowym sklepie Media Expert pojawiła się świetna promocja na telewizor TCL z imponującym ekranem o przekątnej 98″! W ramach oferty model 98C89K z matrycą QD-Mini LED o rozdzielczości 4K i odświeżaniu 144 Hz może być Wasz już za 9999 zł. Dzięki wykorzystaniu specjalnego kodu zniżkowego cena zostaje obniżona o aż 3000 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Telewizor-TCL-98C89K-98_-QD-Mini-LED-144-Hz-za-9999-zl-zamiast-12-999-zl-w-Media-Expert-_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Weekend LEGO Insiders 2026 w Sklepie LEGO. Wybrane zestawy do 500 zł taniej!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-weekend-lego-insiders-2026-w-sklepie-lego-wybrane-zestawy-do-500-zl-taniej/",
-      "publishedAt": "2026-11-21T16:46+01:00",
-      "summary": "W oficjalnym Sklepie LEGO trwa kolejna odsłona wyprzedaży Weekend LEGO Insiders 2026. Najnowsza edycja wydarzenia rozpoczęła się 21 listopada, tuż po północy. W ramach promocji uczestnicy programu LEGO Insiders mogą liczyć na wyjątkowe zniżki sięgające nawet 500 zł. To jednak nie koniec atrakcji – wybrane zakupy zapewnią nawet cztery razy więcej punktów VIP . Do tego zamówienie za odpowiednią kwotę pozwala odebrać do dwóch upominków LEGO za darmo ! Akcja potrwa jedynie do 22 listopada, więc nie zwlekajcie z potencjalnymi zakupami, które mogą idealnie nadać się jako prezent dla fanów duńskich klocków. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Weekend-LEGO-Insiders-2026-w-Sklepie-LEGO.-Wybrane-zestawy-do-500-zl-taniej_miniaturka-224x224.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
-      "title": "Najlepsze horrory tego roku wybrane. Resident Evil zdominowało galę, ale główna nagroda to NIESPODZIANKA",
-      "sourceUrl": "https://www.ppe.pl/news/434046/najlepsze-horrory-tego-roku-wybrane-resident-evil-zdominowalo-gale-ale-glowna-nagroda-to-niespodzianka.html",
-      "publishedAt": "2026-11-21T16:39+01:00",
-      "summary": "The Game Awards czy Golden Joystick Awards nie są jedynymi galami nagród, na które należy zwrócić uwagę. Swoje święto mają także horrory, które z roku na rok zyskują na popularności.",
+      "title": "Unreal Engine 6 przyniesie rewolucję?! Epic rezygnuje z fundamentów znanych deweloperom",
+      "sourceUrl": "https://www.ppe.pl/news/433994/unreal-engine-6-przyniesie-rewolucje-epic-rezygnuje-z-fundamentow-znanych-deweloperom.html",
+      "publishedAt": "2026-11-21T11:30+01:00",
+      "summary": "Unreal Engine 6 nie będzie wyłącznie kolejną odsłoną oferującą ładniejszą grafikę i lepszą wydajność. Epic Games zamierza gruntownie zmienić sposób tworzenia gier, rezygnując z Blueprints oraz Actor Gameplay Framework. Mowa o rozwiązan...",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/942937bb5f207e4fefae/942937bb5f207e4fefae.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gracze odwalili największy cyrk w historii branży? Nowa Zelda obrywa przez GTA 6",
-      "sourceUrl": "https://www.ppe.pl/news/434061/gracze-wykonali-najgorszy-cyrk-w-historii-branzy-nowa-zelda-obrywa-przez-gta-6.html",
-      "publishedAt": "2026-11-21T16:38+01:00",
-      "summary": "Wojny między fanami różnych marek (szczególnie GTA) to niestety nic nowego, ale to, co dzieje się teraz w sieci, pokazuje poziom frustracji i toksyczności, obok którego trudno przejść obojętnie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6c9dfd8da4ca82776bda/6c9dfd8da4ca82776bda.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Świat nie kończy się na GTA VI. W tym miesiącu zagraj także w te produkcje",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433993/swiat-nie-konczy-sie-na-gta-vi-w-tym-miesiacu-zagraj-takze-w-te-produkcje.html",
-      "publishedAt": "2026-11-21T16:19+01:00",
-      "summary": "Rockstar Games przygotowało największą i najlepszą grę na świecie, a co za tym idzie interesuje się nią absolutnie dosłownie każdy. Każdy? Otóż nie! W małym giereczkowie nadal są dzielni gracze, którzy stawiają opór branżowemu giganto...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Gra planszowa na jaką nie zasługujemy tanio w Empiku. MONOPOLY Sosnowiec już za 71 zł!",
-      "sourceUrl": "https://lowcygier.pl/gry-planszowe/gra-planszowa-na-jaka-nie-zaslugujemy-tanio-w-empiku-monopoly-sosnowiec-juz-za-71-zl/",
-      "publishedAt": "2026-11-21T16:10+01:00",
-      "summary": "W internetowym sklepie Empik, w ramach wyprzedaży Black Weeks, możecie zakupić tanio MONOPOLY Sosnowiec – Edycja Miejska. Wyjątkowe wydanie kultowej planszowej gry ekonomicznej dostępne jest za jedyne 71 zł. Całość zachowuje klasyczne zasady Monopoly, jednak rozgrywka została przeniesiona do Zagłębia Dąbrowskiego więc na planszy znajdziecie charakterystyczne miejsca związane z historią, architekturą i rozwojem miasta. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gra-planszowa-na-jaka-nie-zaslugujemy-tanio-w-Empiku.-MONOPOLY-Sosnowiec-juz-za-71-zl_minaturka-224x224.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/674408311c5ddebf2fd8/674408311c5ddebf2fd8.png"
     },
     {
       "sourceName": "GRY-Online",
-      "title": "Na początku XXI wieku tysiące internautów rozwiązywało zagadki fikcyjnej sztucznej inteligencji. Jedna z pierwszych wielkich gier internetowych powstała jako reklama filmu science fiction Spielberga",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/na-poczatku-xxi-wieku-tysiace-internautow-rozwiazywalo-zagadki-fi/zb323ab",
-      "publishedAt": "2026-11-21T16:00+01:00",
-      "summary": "Jedna z najbardziej nietypowych kampanii promocyjnych filmów Stevena Spielberga sprawiła, że internauci stworzyli zbiorową inteligencję. Na całym świecie szukali wskazówek, żeby rozwiązać wielką tajemnicę.",
+      "title": "„Po prostu okropny”. Reżyser Kevina samego w domu ostro ocenił aktora, którego zwolnił z filmu. Gwiazdor nie wytrzymał i odpowiedział na jego zarzuty",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-prostu-okropny-rezyser-kevina-samego-w-domu-ostro-ocenil-aktor/zf323eb",
+      "publishedAt": "2026-11-21T11:02+01:00",
+      "summary": "Rola jednego z bandytów w Kevinie samym w domu miała powędrować do innego aktora, którego występ podczas prób reżyser nazwał „okropnym”. Gwiazdor odniósł się do komentarzy Chrisa Columbusa.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532710393.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532874045.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
-      "title": "Za darmo to uczciwa cena. Najlepsze darmowe gry na PC i konsole (21.11)",
-      "sourceUrl": "https://lowcygier.pl/darmowe/za-darmo-to-uczciwa-cena-najlepsze-darmowe-gry-na-pc-i-konsole-21-11/",
-      "publishedAt": "2026-11-21T15:59+01:00",
-      "summary": "Łowcy, przed Wami trzecia w listopadzie odsłona artykułu prezentującego darmowe gry na PC i konsole, a także omawiającego produkcje, które w ciągu ostatnich siedmiu dni powiększyły biblioteki najważniejszych abonamentów, takich jak Xbox Game Pass, PlayStation Plus czy Amazon Luna (wcześniej znanej jako Prime Gaming) . Dzięki naszemu artykułowi pozostaniecie na bieżąco z nowościami, a także zgarnąć kilka fajnych gier za darmo. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
+      "title": "Sobotnie podsumowanie wyprzedaży w GOG.com. Life is Strange: Before the Storm za 12,19 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/sobotnie-podsumowanie-wyprzedazy-w-gog-com-life-is-strange-before-the-storm-za-1219-zl/",
+      "publishedAt": "2026-11-21T10:26+01:00",
+      "summary": "Łowcy, przygotowaliśmy dla Was trzecie w listopadzie podsumowanie promocji na gry PC z cyfrowego sklepu GOG.com. W dalszej części artykułu znajdziecie 150 najciekawszych ofert na tanie tytuły DRM-Free. Na szczególne wyróżnienie zasługuje tutaj powracające po latach do rekordowo niskiej ceny Life is Strange: Before the Storm, które może być Wasze za 12,19 zł! Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Za-darmo-to-uczciwa-cena.-Najlepsze-darmowe-gry-na-PC-i-konsole-23.08_miniaturka3-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wielkie zarobki GTA VI nie uratowały Take-Two przed zwolnieniami. Blisko 60 osób wyleci z wielkiego studia?",
-      "sourceUrl": "https://www.ppe.pl/news/434052/wielkie-zarobki-gta-vi-nie-uratowaly-take-two-przed-zwolnieniami-blisko-60-osob-wyleci-z-wielkiego-studia.html",
-      "publishedAt": "2026-11-21T15:54+01:00",
-      "summary": "Branża gier wideo po raz kolejny mierzy się z dużymi zwolnieniami, a tym razem zmiany dotknęły jednego z najbardziej rozpoznawalnych studiów specjalizujących się w produkcji strategii, co może mieć istotny wpływ na jego przyszłe projekty.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ec295b6c40ddbe17c22b/ec295b6c40ddbe17c22b.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Persona 6 ma przebić wszystko, co stworzył Atlus. Producent składa wielką obietnicę",
-      "sourceUrl": "https://www.ppe.pl/news/434044/persona-6-ma-przebic-wszystko-co-stworzyl-atlus-producent-sklada-wielka-obietnice.html",
-      "publishedAt": "2026-11-21T15:30+01:00",
-      "summary": "Atlus nadal bardzo ostrożnie dawkuje informacje o Personie 6, lecz ambicji twórcom zdecydowanie nie brakuje. Producent serii Kazuhisa Wada przekonuje, że zespół pracuje nad tytułem, który ma przewyższyć wszystko, co studio stworzyło do tej por...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c8c4644f09ffc8cf899f/c8c4644f09ffc8cf899f.webp"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Sobotnie-podsumowanie-wyprzedazy-w-GOG.com_.-Life-is-Strange_-Before-the-Storm-za-1219-zl_miniturka-224x224.jpg"
     },
     {
       "sourceName": "CD-Action",
-      "title": "Gracze GTA 6 dostają bany na Xboksie. Powodem automatyczne wysyłanie klipów",
-      "sourceUrl": "https://cdaction.pl/newsy/gracze-gta-6-dostaja-bany-na-xboksie-powodem-automatyczne-wysylanie-klipow/",
-      "publishedAt": "2026-11-21T15:29+01:00",
-      "summary": "Won do rogatego więzienia!",
+      "title": "Atomfall, High on Life 2 i inne. Darmowe gry i okazje w tym tygodniu",
+      "sourceUrl": "https://cdaction.pl/newsy/atomfall-high-on-life-2-i-inne-darmowe-gry-i-okazje-w-tym-tygodniu/",
+      "publishedAt": "2026-11-21T10:00+01:00",
+      "summary": "Kolejna sobota, kolejne gry za darmo oraz w ofertach Game Passa, PS Plusa i Amazonu Luny.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-4-1-1260x709.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/collage26-11-20.jpg"
     },
     {
       "sourceName": "GRY-Online",
-      "title": "GTA 6 nie odebrało graczy Steamowi. Analityk: wróciły miliony, które porzuciły gry na rzecz innej rozrywki",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-nie-odebralo-graczy-steamowi-analityk-wrocily-miliony-gracz/za3240a",
-      "publishedAt": "2026-11-21T15:05+01:00",
-      "summary": "Weteran branży gier porównał liczbę jednocześnie grających na Steamie i w Fortnite przed premierą GTA 6 i po niej. Nie zauważył spodziewanych spadków i wyciąga z tego wnioski o tym, kto kupuje nową grę Rockstara.",
+      "title": "Gracze podzielili się na dwa obozy i strzelają „opiniami”. GTA 6 ofiarą review bombingu na Metacritic",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-podzielili-sie-na-dwa-obozy-i-strzelaja-opiniami-gta-6-ofi/ze32405",
+      "publishedAt": "2026-11-21T09:55+01:00",
+      "summary": "Wysoko oceniane przez branżowych krytyków GTA 6 zostało „zbombardowane” przez graczy. Recenzje fanów nowej produkcji Rockstara są mocno podzielone.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532965777.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532946704.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "Boisz się ciemności? Po tych 10 filmach zaczniesz",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433930/boisz-sie-ciemnosci-po-tych-10-filmach-zaczniesz.html",
-      "publishedAt": "2026-11-21T15:00+01:00",
-      "summary": "Pamiętacie mądre głowy z Hollywood, które dekadę temu wieszczyły, że kino grozy skarleje i wyląduje w niszy dla garstki maniaków? Dziś mogą się schować ze wstydu.",
+      "sourceName": "GRY-Online",
+      "title": "Macie kartę Nvidii? Pobierzcie nowy sterownik. Może uratować wasz dysk SSD przed przedwczesnym zużyciem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/macie-karte-nvidii-pobierzcie-nowy-sterownik-moze-uratowac-wasz-d/zf32406",
+      "publishedAt": "2026-11-21T09:48+01:00",
+      "summary": "Dwa ostatnie sterowniki GeForce potrafiły po cichu zapisywać na dysku gigabajty danych na godzinę, nawet gdy komputer nic nie robił. Rekordzista naliczył u siebie 30 GB. Nvidia wydała właśnie poprawkę.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/08765e498b3ef465fbba/08765e498b3ef465fbba.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "\"Życie jest za krótkie, żeby robić gówniane filmy\". Reżyser, który porzucił Blade'a nie przebiera w słowach",
-      "sourceUrl": "https://www.ppe.pl/news/434041/zycie-jest-za-krotkie-zeby-robic-gowniane-filmy-rezyser-ktory-porzucil-blade-a-nie-przebiera-w-slowach.html",
-      "publishedAt": "2026-11-21T14:30+01:00",
-      "summary": "Problemy filmu „Blade” od dawna nie są tajemnicą, lecz najnowsza wypowiedź Bassama Tariqa pokazuje, jak chaotyczna była sytuacja za kulisami. Reżyser, który początkowo miał odpowiadać za widowisko Marvel Studios, przyznał wprost, że odsze...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/511446f0dc6886f2eb59/511446f0dc6886f2eb59.png"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532946896.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
-      "title": "Pakiet Silent Hill 2 + Silent Hill f na PlayStation 5 za 150 zł (zamiast 429 zł) w PlayStation Store!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/pakiet-silent-hill-2-silent-hill-f-na-playstation-5-za-150-zl-zamiast-429-zl-w-playstation-store/",
-      "publishedAt": "2026-11-21T14:25+01:00",
-      "summary": "Łowcy, jeśli jako posiadacze sprzętu japońskiej firmy pozazdrościliście wczorajszej promocji fanom giganta z Redmond, to mamy dla Was dobre wieści. Specjalny pakiet Silent Hill 2 + Silent Hill f Dual Pack w promocyjnej cenie dostępny jest także w cyfrowym sklepie PlayStation Store. Dwie odsłony kultowej serii Konami w wersji na konsole PlayStation 5 mogą być Wasze za nieco ponad 150 zł! Czytaj więcej »",
+      "title": "Konsola PlayStation 5 Slim Digital za 2399 zł na Allegro. Start promocji Black Weeks o 9:00!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-playstation-5-slim-digital-za-2399-zl-na-allegro-start-promocji-black-weeks-o-900/",
+      "publishedAt": "2026-11-21T08:35+01:00",
+      "summary": "Łowcy, czas na okazję dla fanów dystrybucji cyfrowej. Z okazji wyprzedaży Black Weeks, w Oficjalnym Sklepie Allegro, możecie zakupić tanio PlayStation 5 Slim Digital. W ramach promocji standardowe wydanie konsoli z kontrolerem DualSense może być Wasze za 2399 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2599 zł. Obie oferty rozpoczną się punktualnie o 9:00! Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Pakiet-Silent-Hill-2-Silent-Hill-f-na-PlayStation-5-za-150-zl-zamiast-429-zl-w-PlayStation-Store_miniaturka-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/PlayStation-5-Slim-Digital-825GB-promocja_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 padło ofiarą review bombingu. Wściekli gracze nie oszczędzają nowego hitu Rockstara",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-padlo-ofiara-review-bombingu-gracze-nie-oszczedzaja-nowego-hitu-rockstara/",
+      "publishedAt": "2026-11-20T23:35+01:00",
+      "summary": "Nie trzeba było długo czekać, aż emocje wokół premiery GTA 6 znajdą ujście w opiniach graczy na Metacriticu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/image-2.psd-3-1260x662.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
-      "title": "Indyczy przegląd promocji w Nintendo eShop. Polecane gry niezależne na Switcha 2 od 5,80 zł!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/indyczy-przeglad-promocji-w-nintendo-eshop-polecane-gry-niezalezne-na-switcha-2-od-580-zl/",
-      "publishedAt": "2026-11-21T14:15+01:00",
-      "summary": "Łowcy, przedstawiamy Wam mini-zestawienie podsumowujące ostatnie wyprzedaże jakie pojawiły się w cyfrowym sklepie Nintendo eShop. W dalszej części znajdziecie ponad 200 najlepszych ofert na tanie gry niezależne na Nintendo Switch 2. Na szczególną uwagę zasługuje tutaj Have A Nice Death w historycznie najniższej cenie. Produkcja w wersji na popularnego „Pstryczka” może być Wasza za niecałe 27 zł! Czytaj więcej »",
+      "title": "Pad Nintendo Switch 2 Pro Controller Resident Evil Requiem Edition za 328,89 zł w Empiku",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pad-nintendo-switch-2-pro-controller-resident-evil-requiem-edition-za-32889-zl-w-empiku/",
+      "publishedAt": "2026-11-20T23:04+01:00",
+      "summary": "Gra Resident Evil Requiem, czyli najnowsza odsłona legendarnej serii od firmy CAPCOM zadebiutowała zadebiutowała na rynku na początku 2026 roku. W tym samym czasie na sklepowych półkach pojawiła się także specjalna wersja pada dedykowanego konsoli Nintendo Switch 2. W ramach oferty Black Weeks model Pro Controller Resident Evil Requiem Edition dostępny jest w internetowym sklepie Empik za 328,89 zł. Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Indyczy-przeglad-promocji-w-Nintendo-eShop.-Polecane-gry-niezalezne-na-Switcha-2-od-580-zl_miniaturka-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Preorder-Nintendo-Switch-2-Pro-Controller-Resident-Evil-Requiem-Edition-za-378-zl-w-Empiku_miniaturka-224x224.jpg"
     },
     {
-      "sourceName": "GRY-Online",
-      "title": "„Uważam jego zachowanie za pozbawione wszelkich skrupułów”. 62 lata temu Walt Disney zablokował realizację jednej z największych produkcji w historii Hollywood",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/uwazam-jego-zachowanie-za-pozbawione-wszelkich-skrupulow-62-lata/z0323ec",
-      "publishedAt": "2026-11-21T14:02+01:00",
-      "summary": "Były wielkie plany na adaptację historii słynnego fikcyjnego bohatera, ale nie udało się ich zrealizować. Na drodze miał stanąć sam Walt Disney.",
+      "sourceName": "CD-Action",
+      "title": "CD-Action Grand Theft Auto: Sprawdź okładkę i pełną zawartość numeru",
+      "sourceUrl": "https://cdaction.pl/newsy/cd-action-grand-theft-auto-sprawdz-okladke-i-zawartosc-numeru/",
+      "publishedAt": "2026-11-20T17:49+01:00",
+      "summary": "CD-Action Grand Theft Auto jest już na finiszu swojej przedsprzedaży – możecie dalej zamawiać numer przed jego premierą i wysyłką dnia 2 grudnia 2026 roku. Tymczasem – abyście zyskali więcej informacji o wydaniu specjalnym – prezentujemy wam oficjalną okładkę oraz spis treści.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532874213.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/CDA_GTA-1260x709.jpg"
     },
     {
-      "sourceName": "PPE",
-      "title": "8 mechanik, które kiedyś zachwycały, a dziś potrafią natychmiast zniechęcić do gry",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433374/8-mechanik-ktore-kiedys-zachwycaly-a-dzis-potrafia-natychmiast-zniechecic-do-gry.html",
-      "publishedAt": "2026-11-21T14:00+01:00",
-      "summary": "Wielka mapa pełna znaczników brzmiała jak obietnica dziesiątek godzin przygody. Drzewko umiejętności rozrastające się na pół ekranu? Świetnie, będzie co rozwijać. Crafting, zbieranie surowców, przejmowanie wież, codzienne zadania, system ...",
+      "sourceName": "CD-Action",
+      "title": "Gra totalna czy zawracanie głowy? GTA 6 goni za realizmem, który nie zawsze ma sens [FELIETON]",
+      "sourceUrl": "https://cdaction.pl/teksty/gra-totalna-czy-zawracanie-glowy-gta-6-goni-za-realizmem-ktory-nie-zawsze-ma-sens-felieton/",
+      "publishedAt": "2026-11-20T16:30+01:00",
+      "summary": "Klasyczna trylogia Grand Theft Auto zbudowana na silniku RenderWare zrobiła ogromny krok naprzód, przechodząc w pełen trójwymiar, ale z obsesyjnym dążeniem Rockstara do realizmu zderzyliśmy się dopiero w GTA 4.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/1c78674f288c2fdb6cd1/1c78674f288c2fdb6cd1.png"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-4-1260x709.jpg"
     },
     {
-      "sourceName": "GRY-Online",
-      "title": "Pod koniec 1986 roku statek prawdopodobnie zrzucił wodę balastową do Wielkich Jezior. Teraz USA oferują łącznie 550 tys. dolarów za rozwiązanie problemu plagi małży, która była tego następstwem",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/pod-koniec-1986-roku-statek-prawdopodobnie-zrzucil-wode-balastowa/zf323cd",
-      "publishedAt": "2026-11-21T14:00+01:00",
-      "summary": "W Stanach Zjednoczonych uruchomiono program mający powstrzymać ekspansję inwazyjnych małży na kolejne zbiorniki. Szkodniki te niszczą lokalne ekosystemy, a przy okazji utrudniają pracę okolicznych elektrowni.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532795269.jpg"
+      "sourceName": "GRY-Online / Publicystyka",
+      "title": "Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku",
+      "sourceUrl": "https://www.gry-online.pl/recenzje/recenzja-gta-6-po-120-godzinach-to-znacznie-wiecej-niz-tylko-gra/z449dc",
+      "publishedAt": "2026-11-18T13:00+01:00",
+      "summary": "Gra roku? Pff, nie ma o czym mówić, po ten tytuł GTA 6 sięgnie bez głosu sprzeciwu. Zastanowiłbym się raczej, czy nie mamy przed sobą również mocnego kandydata do tytułu gry generacji i gry dekady. Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku został opublikowany przez gry-online.pl 18 listopada 2026. Zobacz zasady korzystania z naszych treści .",
+      "category": "PUBLICYSTYKA",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532619018.jpg"
     }
   ],
   "indie": [
