@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T19:01+01:00",
+  "updatedAt": "2026-11-21T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Premiery gier grudzień 2026 r. Lista tytułów na PC, PS5, Xbox Series, Nintendo Switch 2 oraz VR",
-    "summary": "Dopiero co rozpoczynaliśmy rok, a już przyszło nam prezentować premiery gier w grudniu. Szybko zleciało. Jak można się było spodziewać, ostatni miesiąc nie obfituje w zbyt wiele nowych tytułów, a sytuacja jest obecnie jeszcze gorsza niż w ubiegłych latach, ze względu na GTA VI. Mimo to powinniście znaleźć tu coś dla siebie! Zapraszamy. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/aktualnosci/premiery-gier-grudzien-2026-r-lista-tytulow-na-pc-ps5-xbox-series-nintendo-switch-2-oraz-vr/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Premiery-gier-w-grudniu-logo-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "The Game Awards pokaże nam BARDZO wyczekiwany powrót po latach. Na tę grę czekamy od początku PlayStation 5",
+    "summary": "The Game Awards jest największą i najważniejszą branżową imprezą, na której chce się znaleźć absolutnie każdy, zwłaszcza jeśli szykuje wielki hit.",
+    "sourceUrl": "https://www.ppe.pl/news/434054/the-game-awards-pokaze-nam-bardzo-wyczekiwany-powrot-po-latach-na-te-gre-czekamy-od-poczatku-playstation-5.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/96f474e0e9bc09859d78/96f474e0e9bc09859d78.webp"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "The Game Awards pokaże nam BARDZO wyczekiwany powrót po latach. Na tę grę czekamy od początku PlayStation 5",
+      "sourceUrl": "https://www.ppe.pl/news/434054/the-game-awards-pokaze-nam-bardzo-wyczekiwany-powrot-po-latach-na-te-gre-czekamy-od-poczatku-playstation-5.html",
+      "publishedAt": "2026-11-21T19:56+01:00",
+      "summary": "The Game Awards jest największą i najważniejszą branżową imprezą, na której chce się znaleźć absolutnie każdy, zwłaszcza jeśli szykuje wielki hit.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/96f474e0e9bc09859d78/96f474e0e9bc09859d78.webp"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dead by Daylight z nowym przerażającym potworem. Najbardziej brutalny klaun z horrorów trafi do gry",
+      "sourceUrl": "https://www.ppe.pl/news/434053/dead-by-daylight-z-nowym-przerazajacym-potworem-najbardziej-brutalny-klaun-z-horrorow-trafi-do-gry.html",
+      "publishedAt": "2026-11-21T19:16+01:00",
+      "summary": "Dead by Daylight jest obecnie jedną z największych i najważniejszych gier horrorowych na rynku, dzięki czemu deweloperzy ciągle wspierają swoje dzieło kolejnymi bohaterami.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/fc9aab505741d6ab01c3/fc9aab505741d6ab01c3.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rayman Legends Retold na fantastycznym materiale. Nowy muzyczny poziom wgniata w fotel",
+      "sourceUrl": "https://www.ppe.pl/news/434050/rayman-legends-retold-na-fantastycznym-materiale-nowy-muzyczny-poziom-wgniata-w-fotel.html",
+      "publishedAt": "2026-11-21T19:03+01:00",
+      "summary": "Jednym z tych elementów, które najbardziej pozwoliły wybić się grze Rayman Legends, były muzyczne poziomy, w jakich możemy biegać w rytmie wielkich hitów z całego świata.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5316f017a3e202917040/5316f017a3e202917040.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Premiery gier grudzień 2026 r. Lista tytułów na PC, PS5, Xbox Series, Nintendo Switch 2 oraz VR",
@@ -254,33 +281,6 @@
       "summary": "Na PC pojawiają się fałszywe wersje GTA 6 za 200 dolarów. Bestseller zdominował konsole, a gracze odnajdują kolejne easter eggi.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532954017.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Kolejna OGROMNA gra Rockstar Games po GTA 6 zdradzona! Zaskakujący wybór",
-      "sourceUrl": "https://www.ppe.pl/news/434043/kolejna-ogromna-gra-rockstar-games-po-gta-6-ujawniona-zaskakujacy-wybor.html",
-      "publishedAt": "2026-11-21T11:46+01:00",
-      "summary": "Ledwo co zdążyliśmy się na dobre rozgościć w słonecznej Leonidzie po premierze Grand Theft Auto 6, a gracze już zaczynają drążyć temat kolejnego wielkiego projektu Rockstar Games.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/351b21bebedacfff05b8/351b21bebedacfff05b8.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Czy GTA 6 jest warte 350 zł? Uwzględniliśmy wielkość gry, inflację i płace minimalne",
-      "sourceUrl": "https://cdaction.pl/teksty/czy-gta-6-jest-warte-350-zl-uwzglednilismy-wielkosc-gry-inflacje-i-place-minimalne/",
-      "publishedAt": "2026-11-21T11:31+01:00",
-      "summary": "Aż trzy i pół stówy – tyle Rockstar Games każe nam płacić za Grand Theft Auto 6. Warto wydać te pieniądze już teraz, nie czekając na promocje?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Unreal Engine 6 przyniesie rewolucję?! Epic rezygnuje z fundamentów znanych deweloperom",
-      "sourceUrl": "https://www.ppe.pl/news/433994/unreal-engine-6-przyniesie-rewolucje-epic-rezygnuje-z-fundamentow-znanych-deweloperom.html",
-      "publishedAt": "2026-11-21T11:30+01:00",
-      "summary": "Unreal Engine 6 nie będzie wyłącznie kolejną odsłoną oferującą ładniejszą grafikę i lepszą wydajność. Epic Games zamierza gruntownie zmienić sposób tworzenia gier, rezygnując z Blueprints oraz Actor Gameplay Framework. Mowa o rozwiązan...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/674408311c5ddebf2fd8/674408311c5ddebf2fd8.png"
     }
   ],
   "indie": [
