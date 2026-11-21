@@ -1,17 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T10:01+01:00",
+  "updatedAt": "2026-11-21T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Kto zgarnie koronę The Game Awards? GTA 6 czy Zelda?",
-    "summary": "Coroczne starcie niebawem się rozpocznie. Najważniejszy plebiscyt z punktu widzenia twórców gier, tych małych i dużych odbędzie się za kilka tygodni. Od lat jednak w stronę organizatorów gal The Game Awards kierowane są zarzuty o kiepski dob�...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433963/kto-zgarnie-korone-the-game-awards-gta-6-czy-zelda.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/856adbe5b9a103c7eea5/856adbe5b9a103c7eea5.avif"
+    "title": "Fałszywe GTA 6 na PC za 200 dolarów, wielki powrót bikini-girl i zdominowane konsole. Bestseller Rockstara w pigułce",
+    "summary": "Na PC pojawiają się fałszywe wersje GTA 6 za 200 dolarów. Bestseller zdominował konsole, a gracze odnajdują kolejne easter eggi.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/falszywe-gta-6-na-pc-za-200-dolarow-wielki-powrot-bikini-girl-i-z/z032407",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532954017.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Fałszywe GTA 6 na PC za 200 dolarów, wielki powrót bikini-girl i zdominowane konsole. Bestseller Rockstara w pigułce",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/falszywe-gta-6-na-pc-za-200-dolarow-wielki-powrot-bikini-girl-i-z/z032407",
+      "publishedAt": "2026-11-21T11:51+01:00",
+      "summary": "Na PC pojawiają się fałszywe wersje GTA 6 za 200 dolarów. Bestseller zdominował konsole, a gracze odnajdują kolejne easter eggi.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532954017.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Po prostu okropny”. Reżyser Kevina samego w domu ostro ocenił aktora, którego zwolnił z filmu. Gwiazdor nie wytrzymał i odpowiedział na jego zarzuty",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-prostu-okropny-rezyser-kevina-samego-w-domu-ostro-ocenil-aktor/zf323eb",
+      "publishedAt": "2026-11-21T11:02+01:00",
+      "summary": "Rola jednego z bandytów w Kevinie samym w domu miała powędrować do innego aktora, którego występ podczas prób reżyser nazwał „okropnym”. Gwiazdor odniósł się do komentarzy Chrisa Columbusa.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532874045.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Czy to najlepszy azjatycki horror XXI wieku? Nie mam co do tego żadnych wątpliwości",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433900/czy-to-najlepszy-azjatycki-horror-xxi-wieku-nie-mam-co-do-tego-zadnych-watpliwosci.html",
+      "publishedAt": "2026-11-21T11:00+01:00",
+      "summary": "Najciekawszym aspektem zakończonej w tym tygodniu stacjonarnej odsłony 20. festiwalu filmów azjatyckich Pięć Smaków okazały się retrospektywy dwóch znakomitych azjatyckich twórców: hongkońskiego mistrza Tsui Harka i Koreańczyka Na Hong-jina...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0fc36b902c94e18697c2/0fc36b902c94e18697c2.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 7 obejmie cały świat? Prezes Take-Two odpowiada na durne pytanie...",
+      "sourceUrl": "https://www.ppe.pl/news/433990/gta-7-obejmie-caly-swiat-prezes-take-two-odpowiada-na-durne-pytanie.html",
+      "publishedAt": "2026-11-21T10:30+01:00",
+      "summary": "GTA 6 dopiero trafiło na rynek, ale część graczy i dziennikarzy już zaczyna zastanawiać się nad kolejnym rozdziałem serii. Podczas rozmowy ze Straussem Zelnickiem pojawiło się pytanie, czy GTA 7 mogłoby zaoferować mapę obejmującą cały ś...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f5e9970b9b185684deb1/f5e9970b9b185684deb1.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Sobotnie podsumowanie wyprzedaży w GOG.com. Life is Strange: Before the Storm za 12,19 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/sobotnie-podsumowanie-wyprzedazy-w-gog-com-life-is-strange-before-the-storm-za-1219-zl/",
+      "publishedAt": "2026-11-21T10:26+01:00",
+      "summary": "Łowcy, przygotowaliśmy dla Was trzecie w listopadzie podsumowanie promocji na gry PC z cyfrowego sklepu GOG.com. W dalszej części artykułu znajdziecie 150 najciekawszych ofert na tanie tytuły DRM-Free. Na szczególne wyróżnienie zasługuje tutaj powracające po latach do rekordowo niskiej ceny Life is Strange: Before the Storm, które może być Wasze za 12,19 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Sobotnie-podsumowanie-wyprzedazy-w-GOG.com_.-Life-is-Strange_-Before-the-Storm-za-1219-zl_miniturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Kto zgarnie koronę The Game Awards? GTA 6 czy Zelda?",
@@ -20,6 +65,15 @@
       "summary": "Coroczne starcie niebawem się rozpocznie. Najważniejszy plebiscyt z punktu widzenia twórców gier, tych małych i dużych odbędzie się za kilka tygodni. Od lat jednak w stronę organizatorów gal The Game Awards kierowane są zarzuty o kiepski dob�...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/856adbe5b9a103c7eea5/856adbe5b9a103c7eea5.avif"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Atomfall, High on Life 2 i inne. Darmowe gry i okazje w tym tygodniu",
+      "sourceUrl": "https://cdaction.pl/newsy/atomfall-high-on-life-2-i-inne-darmowe-gry-i-okazje-w-tym-tygodniu/",
+      "publishedAt": "2026-11-21T10:00+01:00",
+      "summary": "Kolejna sobota, kolejne gry za darmo oraz w ofertach Game Passa, PS Plusa i Amazonu Luny.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/collage26-11-20.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -227,60 +281,6 @@
       "summary": "Łowcy, zespół Fanatical dołączył do promocyjnej gorączki związanej z Czarnym Piątkiem. Z tej okazji w sklepie wystartowała ogromna wyprzedaż Black Friday Sale 2026 z imponującą liczbą niemal 9000 ofert na gry PC, których rabaty wynoszą nawet rekordowe -96%. Na szczególne wyróżnienie zasługuje tutaj świetna okazja na Neverwinter Nights 2: Enhanced Edition w historycznie najniższej cenie . Odświeżona wersja legendarnego tytułu może być Wasza za nieco ponad 27 zł. Warto podkreślić, że jeśli za pojedyncze zakupy zapłacicie równowartość 15€, to w ramach bonusu otrzymacie jeden obrót kołem fortuny, gdzie do zdobycia są kupony rabatowe do wykorzystania w sklepie lub losowe gry PC za darmo. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-w-Fanatical.-Az-9000-promocji-gra-PC-za-darmo-po-wydaniu-15E_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Cyberpunk 2077 otrzymał nowe misje fabularne! Nowe zadania rozbudowują historię V",
-      "sourceUrl": "https://www.ppe.pl/news/433921/cyberpunk-2077-otrzymal-nowe-misje-fabularne-nowe-zadania-rozbudowuja-historie-v.html",
-      "publishedAt": "2026-11-20T17:16+01:00",
-      "summary": "Cyberpunk 2077 wciąż otrzymuje interesujące nowości przygotowywane przez społeczność.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/63c78ee9cd9cc3b8d27c/63c78ee9cd9cc3b8d27c.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Optymalizacja jednak nie taka doskonała? Kolejne głosy o crashach i błędach GTA 6 na PS5",
-      "sourceUrl": "https://www.ppe.pl/news/433922/optymalizacja-jednak-nie-taka-doskonala-kolejne-glosy-o-crashach-i-bledach-gta-6-na-ps5.html",
-      "publishedAt": "2026-11-20T17:01+01:00",
-      "summary": "„GTA 6” sprawia problemy części użytkowników PlayStation 5. Na forach i w mediach społecznościowych pojawiają się doniesienia o niespodziewanych awariach gry, którym towarzyszy kod błędu CE-108255-1. Co istotne, standardowe sposoby napraw...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/af9ed901b95c7b22dd5b/af9ed901b95c7b22dd5b.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Mandy z GTA 6 skradła serca graczy, choć skrywa mroczny sekret. Teraz wiemy, kto stoi za jedną z najbardziej viralowych postaci Rockstara",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/mandy-z-gta-6-skradla-serca-graczy-choc-skrywa-mroczny-sekret-ter/z0323fb",
-      "publishedAt": "2026-11-20T16:50+01:00",
-      "summary": "W sieci pojawiło się nagranie jednej aktorki, która twierdzi, że to ona wcieliła się w rolę Mandy – blondynki z sąsiedztwa Jasona, którą część z was kojarzy z viralowej sceny ze zlewem. NPC skrywa mroczny sekret, a w sieci aż gotuje się od teorii graczy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532884756.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Krzysztof Gonciarz zachwycał się GTA 4, Hed dał GTA 5 ocenę 10/10, a dziś czytam kłótnie o GTA 6 i zastanawiam się, kiedy internet stał się taki zgorzkniały",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/krzysztof-gonciarz-zachwycal-sie-gta-4-hed-dal-gta-5-ocene-1010-a/zf323fa",
-      "publishedAt": "2026-11-20T16:42+01:00",
-      "summary": "GTA 6, największa premiera growa dekady, miało połączyć miliony graczy we wspólnym zachwycie. Zamiast tego internet przypomniał mi, dlaczego tak bardzo tęsknię za czasami, gdy na premierę GTA 4 dyskutowaliśmy głównie o tym, czy kupić konsolę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532884509.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "CD Projekt Red chciał dogodzić graczom Cyberpunka 2077, a teraz ma problem i musi przepraszać. Nie tego się spodziewano",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/cd-projekt-red-chcial-dogodzic-graczom-cyberpunka-2077-a-teraz-ma/z1323fc",
-      "publishedAt": "2026-11-20T16:40+01:00",
-      "summary": "Wprowadzenie funkcji międzyplatformowych modów do Cyberpunka 2077 okazało się popularniejsze, niż pierwotnie przewidywało studio CD Projekt Red.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532885067.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Gra totalna czy zawracanie głowy? GTA 6 goni za realizmem, który nie zawsze ma sens [FELIETON]",
-      "sourceUrl": "https://cdaction.pl/teksty/gra-totalna-czy-zawracanie-glowy-gta-6-goni-za-realizmem-ktory-nie-zawsze-ma-sens-felieton/",
-      "publishedAt": "2026-11-20T16:30+01:00",
-      "summary": "Klasyczna trylogia Grand Theft Auto zbudowana na silniku RenderWare zrobiła ogromny krok naprzód, przechodząc w pełen trójwymiar, ale z obsesyjnym dążeniem Rockstara do realizmu zderzyliśmy się dopiero w GTA 4.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-4-1260x709.jpg"
     }
   ],
   "indie": [
