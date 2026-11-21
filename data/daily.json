@@ -1,17 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T08:57+01:00",
+  "updatedAt": "2026-11-21T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gracze masakrują GTA 6. Trwa masowa akcja bombardowania gry recenzjami",
-    "summary": "Tego w sumie można było się spodziewać, bo w dzisiejszym internecie żadna wielka premiera - a na pewno GTA 6 - nie przejdzie bez małej wojenki w komentarzach.",
-    "sourceUrl": "https://www.ppe.pl/news/433973/gracze-masakruja-gta-6-trwa-masowa-akcja-bombardowania-gry-recenzjami.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
+    "title": "Gracze podzielili się na dwa obozy i strzelają „opiniami”. GTA 6 ofiarą review bombingu na Metacritic",
+    "summary": "Wysoko oceniane przez branżowych krytyków GTA 6 zostało „zbombardowane” przez graczy. Recenzje fanów nowej produkcji Rockstara są mocno podzielone.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-podzielili-sie-na-dwa-obozy-i-strzelaja-opiniami-gta-6-ofi/ze32405",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532946704.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracze podzielili się na dwa obozy i strzelają „opiniami”. GTA 6 ofiarą review bombingu na Metacritic",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-podzielili-sie-na-dwa-obozy-i-strzelaja-opiniami-gta-6-ofi/ze32405",
+      "publishedAt": "2026-11-21T09:55+01:00",
+      "summary": "Wysoko oceniane przez branżowych krytyków GTA 6 zostało „zbombardowane” przez graczy. Recenzje fanów nowej produkcji Rockstara są mocno podzielone.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532946704.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Macie kartę Nvidii? Pobierzcie nowy sterownik. Może uratować wasz dysk SSD przed przedwczesnym zużyciem",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/macie-karte-nvidii-pobierzcie-nowy-sterownik-moze-uratowac-wasz-d/zf32406",
+      "publishedAt": "2026-11-21T09:48+01:00",
+      "summary": "Dwa ostatnie sterowniki GeForce potrafiły po cichu zapisywać na dysku gigabajty danych na godzinę, nawet gdy komputer nic nie robił. Rekordzista naliczył u siebie 30 GB. Nvidia wydała właśnie poprawkę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532946896.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 4 dni najważniejsza premiera Netflixa w tym miesiącu. Lada moment obejrzycie oparty na faktach film wojenny",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-4-dni-najwazniejsza-premiera-netflixa-w-tym-miesiacu-lada-mome/z732378",
+      "publishedAt": "2026-11-21T09:02+01:00",
+      "summary": "Wojenne widowisko Netfliksa już za 4 dni trafi na platformę. To film inspirowany prawdziwymi wydarzeniami z czasów II wojny światowej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532614154.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GOTY 2026 bez GTA 6 byłoby najlepszym The Game Awards w historii. To był PRZEPIĘKNY rok dla graczy",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433641/goty-2026-bez-gta-6-byloby-najlepszym-the-game-awards-w-historii-to-byl-przepiekny-rok-dla-graczy.html",
+      "publishedAt": "2026-11-21T09:00+01:00",
+      "summary": "Pobawmy się przez chwilę w małe gdybanie. Załóżmy, że Grand Theft Auto 6 w ogóle nie istnieje albo z jakiegoś szalonego powodu nie załapało się na tegoroczne rozdanie nagród The Game Awards. Gdyby wykreślić dzieło Rockstara z równania, ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Otwarty świat, który wręcz przytłaczał ogromem możliwości. GTA: San Andreas deklasowało rozmachem konkurencję i poprzedników",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/otwarty-swiat-ktory-wrecz-przytlaczal-ogromem-mozliwosci-gta-san/zd32404",
+      "publishedAt": "2026-11-21T09:00+01:00",
+      "summary": "Grand Theft Auto: San Andreas w momencie premiery stanowiło magnum opus Rockstar Games i szczytowe osiągnięcie wśród gier z otwartym światem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532938928.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Gracze masakrują GTA 6. Trwa masowa akcja bombardowania gry recenzjami",
@@ -83,6 +128,15 @@
       "summary": "Premiera Grand Theft Auto 6 okazała się dla pewnej grupy graczy niespodziewanym wstrząsem i prawdziwym „piekłem mężczyzn” w GTA 6.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy strzelanki Wardogs stanęli twarzą w twarz ze swoim największym krytykiem. Szczere wyznanie o problemach 3. sezonu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-strzelanki-wardogs-staneli-twarza-w-twarz-ze-swoim-najwiek/zb32402",
+      "publishedAt": "2026-11-21T06:30+01:00",
+      "summary": "Krytyka 3. sezonu Wardogs nie uszła uwadze deweloperów. Bulkhead Interactive postanowiło jednak odpowiedzieć na nią w niecodzienny sposób, otwarcie konfrontując się z jednym z fanów, który ma grze najwięcej do zarzucenia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532908083.jpg"
     },
     {
       "sourceName": "CD-Action",
@@ -227,51 +281,6 @@
       "summary": "Scena moderska Baldur’s Gate 3 kwitnie także na konsolach. Właśnie udostępniono kilkanaście nowych projektów, w tym dwa dla weteranów szukających bardziej trudnych wyzwań.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532882994.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Nad GTA 6 pracowała spora grupa Polaków. Nasi rodacy zajmowali się istotnymi elementami gry",
-      "sourceUrl": "https://cdaction.pl/newsy/nad-gta-6-pracowala-spora-grupa-polakow-nasi-rodacy-zajmowali-sie-istotnymi-elementami-gry/",
-      "publishedAt": "2026-11-20T16:00+01:00",
-      "summary": "Całkiem sympatyczne wieści.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-polska-gurom.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Radykalny krok Microsoftu: Copilot staje się „nowym systemem operacyjnym” i zamienia programy Word, Excel i inne w wtyczki",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/radykalny-krok-microsoftu-copilot-staje-sie-nowym-systemem-operac/z5323f7",
-      "publishedAt": "2026-11-20T16:00+01:00",
-      "summary": "Copilot staje się centrum zarządzania aplikacjami Office. To z poziomu asystenta AI będzie można uruchamiać Worda, Excela lub PowerPointa. Nowe funkcje będą dostępne dla wybranej grupy użytkowników.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532881111.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Black Myth Wukong na PS5 za 259,99 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-black-myth-wukong-na-ps5-za-25999-zl-na-allegro/",
-      "publishedAt": "2026-11-20T15:56+01:00",
-      "summary": "Jeden z hitów 2024 roku w pudełkowym wydaniu, czyli Black Myth Wukong, jest możliwy do kupienia taniej poprzez serwis Allegro. Produkcja, za której stworzeniem stoi chińskie Game Science, kosztuje obecnie 259,99 zł, w wersji na konsole Sony PlayStation 5. Trzeba przyznać, że historia Małpiego Króla naprawdę solidnie trzyma cenę. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/10/black-myth-wukong-ps5-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Szpile: Szef Epica z „epicką” odklejką",
-      "sourceUrl": "https://cdaction.pl/szpile/szpile-szefa-epica-z-epicka-odklejka/",
-      "publishedAt": "2026-11-20T15:19+01:00",
-      "summary": "Twoja cotygodniowa dawka przekąsu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/09/81fc73e9-c2ec-4dfe-9dfc-841092262678.jpg"
-    },
-    {
-      "sourceName": "GRY-Online / Publicystyka",
-      "title": "Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku",
-      "sourceUrl": "https://www.gry-online.pl/recenzje/recenzja-gta-6-po-120-godzinach-to-znacznie-wiecej-niz-tylko-gra/z449dc",
-      "publishedAt": "2026-11-18T13:00+01:00",
-      "summary": "Gra roku? Pff, nie ma o czym mówić, po ten tytuł GTA 6 sięgnie bez głosu sprzeciwu. Zastanowiłbym się raczej, czy nie mamy przed sobą również mocnego kandydata do tytułu gry generacji i gry dekady. Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku został opublikowany przez gry-online.pl 18 listopada 2026. Zobacz zasady korzystania z naszych treści .",
-      "category": "PUBLICYSTYKA",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532619018.jpg"
     }
   ],
   "indie": [
