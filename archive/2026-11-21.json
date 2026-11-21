@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-21",
-  "updatedAt": "2026-11-21T14:01+01:00",
+  "updatedAt": "2026-11-21T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "8 mechanik, które kiedyś zachwycały, a dziś potrafią natychmiast zniechęcić do gry",
-    "summary": "Wielka mapa pełna znaczników brzmiała jak obietnica dziesiątek godzin przygody. Drzewko umiejętności rozrastające się na pół ekranu? Świetnie, będzie co rozwijać. Crafting, zbieranie surowców, przejmowanie wież, codzienne zadania, system ...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433374/8-mechanik-ktore-kiedys-zachwycaly-a-dzis-potrafia-natychmiast-zniechecic-do-gry.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/1c78674f288c2fdb6cd1/1c78674f288c2fdb6cd1.png"
+    "title": "Boisz się ciemności? Po tych 10 filmach zaczniesz",
+    "summary": "Pamiętacie mądre głowy z Hollywood, które dekadę temu wieszczyły, że kino grozy skarleje i wyląduje w niszy dla garstki maniaków? Dziś mogą się schować ze wstydu.",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/433930/boisz-sie-ciemnosci-po-tych-10-filmach-zaczniesz.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/08765e498b3ef465fbba/08765e498b3ef465fbba.webp"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Boisz się ciemności? Po tych 10 filmach zaczniesz",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433930/boisz-sie-ciemnosci-po-tych-10-filmach-zaczniesz.html",
+      "publishedAt": "2026-11-21T15:00+01:00",
+      "summary": "Pamiętacie mądre głowy z Hollywood, które dekadę temu wieszczyły, że kino grozy skarleje i wyląduje w niszy dla garstki maniaków? Dziś mogą się schować ze wstydu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/08765e498b3ef465fbba/08765e498b3ef465fbba.webp"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "\"Życie jest za krótkie, żeby robić gówniane filmy\". Reżyser, który porzucił Blade'a nie przebiera w słowach",
+      "sourceUrl": "https://www.ppe.pl/news/434041/zycie-jest-za-krotkie-zeby-robic-gowniane-filmy-rezyser-ktory-porzucil-blade-a-nie-przebiera-w-slowach.html",
+      "publishedAt": "2026-11-21T14:30+01:00",
+      "summary": "Problemy filmu „Blade” od dawna nie są tajemnicą, lecz najnowsza wypowiedź Bassama Tariqa pokazuje, jak chaotyczna była sytuacja za kulisami. Reżyser, który początkowo miał odpowiadać za widowisko Marvel Studios, przyznał wprost, że odsze...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/511446f0dc6886f2eb59/511446f0dc6886f2eb59.png"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pakiet Silent Hill 2 + Silent Hill f na PlayStation 5 za 150 zł (zamiast 429 zł) w PlayStation Store!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/pakiet-silent-hill-2-silent-hill-f-na-playstation-5-za-150-zl-zamiast-429-zl-w-playstation-store/",
+      "publishedAt": "2026-11-21T14:25+01:00",
+      "summary": "Łowcy, jeśli jako posiadacze sprzętu japońskiej firmy pozazdrościliście wczorajszej promocji fanom giganta z Redmond, to mamy dla Was dobre wieści. Specjalny pakiet Silent Hill 2 + Silent Hill f Dual Pack w promocyjnej cenie dostępny jest także w cyfrowym sklepie PlayStation Store. Dwie odsłony kultowej serii Konami w wersji na konsole PlayStation 5 mogą być Wasze za nieco ponad 150 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Pakiet-Silent-Hill-2-Silent-Hill-f-na-PlayStation-5-za-150-zl-zamiast-429-zl-w-PlayStation-Store_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Indyczy przegląd promocji w Nintendo eShop. Polecane gry niezależne na Switcha 2 od 5,80 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/indyczy-przeglad-promocji-w-nintendo-eshop-polecane-gry-niezalezne-na-switcha-2-od-580-zl/",
+      "publishedAt": "2026-11-21T14:15+01:00",
+      "summary": "Łowcy, przedstawiamy Wam mini-zestawienie podsumowujące ostatnie wyprzedaże jakie pojawiły się w cyfrowym sklepie Nintendo eShop. W dalszej części znajdziecie ponad 200 najlepszych ofert na tanie gry niezależne na Nintendo Switch 2. Na szczególną uwagę zasługuje tutaj Have A Nice Death w historycznie najniższej cenie. Produkcja w wersji na popularnego „Pstryczka” może być Wasza za niecałe 27 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Indyczy-przeglad-promocji-w-Nintendo-eShop.-Polecane-gry-niezalezne-na-Switcha-2-od-580-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "8 mechanik, które kiedyś zachwycały, a dziś potrafią natychmiast zniechęcić do gry",
@@ -245,42 +281,6 @@
       "summary": "Łowcy, czas na okazję dla fanów dystrybucji cyfrowej. Z okazji wyprzedaży Black Weeks, w Oficjalnym Sklepie Allegro, możecie zakupić tanio PlayStation 5 Slim Digital. W ramach promocji standardowe wydanie konsoli z kontrolerem DualSense może być Wasze za 2399 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2599 zł. Obie oferty rozpoczną się punktualnie o 9:00! Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/PlayStation-5-Slim-Digital-825GB-promocja_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 zdradza losy bohaterów z GTA 5! Gracze znaleźli kapitalny sekret od Rockstara",
-      "sourceUrl": "https://www.ppe.pl/news/433991/gta-6-zdradza-losy-bohaterow-z-gta-5-gracze-znalezli-kapitalny-sekret-od-rockstara.html",
-      "publishedAt": "2026-11-21T08:30+01:00",
-      "summary": "Gracze potrzebowali zaledwie kilkudziesięciu godzin, aby odnaleźć w GTA 6 duże nawiązanie do poprzedniej odsłony. Michael, Franklin oraz Trevor zostają wspomniani w podcaście true crime dostępnym w świecie gry. Co najważniejsze, o całej tró...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4abec57654b56214b0b7/4abec57654b56214b0b7.avif"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Przerażający błąd w GTA 6. Można stracić nawet 10 godzin rozgrywki",
-      "sourceUrl": "https://www.ppe.pl/news/433987/przerazajacy-blad-w-gta-6-mozna-stracic-nawet-10-godzin-rozgrywki.html",
-      "publishedAt": "2026-11-21T08:11+01:00",
-      "summary": "Dzisiejsze gry z otwartym światem strasznie nas rozpieściły. Przyzwyczailiśmy się, że możemy w dowolnym momencie po prostu wyłączyć konsolę, a następnego dnia wrócimy dokładnie w to samo miejsce, w którym skończyliśmy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/1ac14b79b5d7a0281aec/1ac14b79b5d7a0281aec.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ubisoft mógł gryźć piach gdyby nie te dwie gry. To one uratowały firmę",
-      "sourceUrl": "https://www.ppe.pl/news/433986/ubisoft-mogl-gryzc-piach-gdyby-nie-te-dwie-gry-to-one-uratowaly-firme.html",
-      "publishedAt": "2026-11-21T07:47+01:00",
-      "summary": "Sytuacja finansowa Ubisoftu od dawna nie wyglądała kolorowo, ale najnowszy raport za pierwsze półrocze roku fiskalnego 2026–2027 pokazuje, jak głęboko Francuzi siedzą obecnie w tarapatach.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/04be2f7ba6b8f44e9c90/04be2f7ba6b8f44e9c90.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 zawładnęło PS5 i XSX. Arcyważne dane ROZWALAJĄ głowę",
-      "sourceUrl": "https://www.ppe.pl/news/433972/gta-6-zawladnelo-ps5-i-xsx-arcywazne-dane-rozwalaja-glowe.html",
-      "publishedAt": "2026-11-21T07:14+01:00",
-      "summary": "Wszyscy wiedzieliśmy, że premiera Grand Theft Auto 6 dosłownie zatrzyma cały świat gier w miejscu, ale pierwsze konkretne liczby i tak potrafią zwalić z nóg.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/fad9b27c2aad501b67b1/fad9b27c2aad501b67b1.jpg"
     }
   ],
   "indie": [
