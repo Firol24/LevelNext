@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T15:01+01:00",
+  "updatedAt": "2026-11-22T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Zestaw LEGO ICONS Władca pierścieni: Hełm Saurona już za 204,99 zł w polskich sklepach",
-    "summary": "W Empiku oraz polskim Amazonie pojawiła się bardzo dobra okazja na zakup zestawu, który szczególnie spodobać może się fanom twórczości J.R.R. Tolkiena. Model LEGO 11373 ICONS – Władca pierścieni: Hełm Saurona, składający się z 538 elementów oraz minifigurki Władcy Ciemności trzymającego Jedyny Pierścień, zakupicie obecnie za 204,99 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-icons-wladca-pierscieni-helm-saurona-juz-za-20499-zl-w-polskich-sklepach/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/02/Zestaw-LEGO-ICONS-Wladca-pierscieni_-Helm-Saurona-juz-za-24250-zl-w-Morele.net_miniaturka-224x224.jpg"
+    "title": "Polski soulslike taniej miesiąc po premierze! Pudełkowe Valor Mortis na PS5 za 134 zł na Allegro",
+    "summary": "Nieco ponad miesiąc po premierze możecie sięgnąć po pudełkowe Valor Mortis na PS5 w niższej cenie. Polski soulslike od twórców Ghostrunnera, czyli studia One More Level, zabierze Was do alternatywnej Europy z czasów napoleońskich, gdzie jako wskrzeszony żołnierz wykorzystacie broń i nadprzyrodzone moce w walce z potworami. Grę kupicie w serwisie Allegro już za 134,13 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/polski-soulslike-taniej-miesiac-po-premierze-pudelkowe-valor-mortis-na-ps5-za-134-zl-na-allegro/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/valor-mortis-miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Polski soulslike taniej miesiąc po premierze! Pudełkowe Valor Mortis na PS5 za 134 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/polski-soulslike-taniej-miesiac-po-premierze-pudelkowe-valor-mortis-na-ps5-za-134-zl-na-allegro/",
+      "publishedAt": "2026-11-22T16:00+01:00",
+      "summary": "Nieco ponad miesiąc po premierze możecie sięgnąć po pudełkowe Valor Mortis na PS5 w niższej cenie. Polski soulslike od twórców Ghostrunnera, czyli studia One More Level, zabierze Was do alternatywnej Europy z czasów napoleońskich, gdzie jako wskrzeszony żołnierz wykorzystacie broń i nadprzyrodzone moce w walce z potworami. Grę kupicie w serwisie Allegro już za 134,13 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/valor-mortis-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Legend of Zelda: Ocarina of Time dalej wymiata w Japonii! Wyniki sprzedaży mówią same za siebie...",
+      "sourceUrl": "https://www.ppe.pl/news/434136/the-legend-of-zelda-ocarina-of-time-dalej-wymiata-w-japonii-wyniki-sprzedazy-mowia-same-za-siebie.html",
+      "publishedAt": "2026-11-22T15:30+01:00",
+      "summary": "Minione tygodnie przyniosły branży sporo naprawdę dobrych rezultatów. Końcówka roku sprzyja największym premierom, ale na listach nadal świetnie radzą sobie również produkcje dostępne na rynku od pewnego czasu. Gracze najwyraźniej nie zwaln...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/1e9990df929479c96f8f/1e9990df929479c96f8f.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Klocki Konstrukcyjne CaDA 10w1 Ciężarówka Sterowana dźwiękiem za 139 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/klocki-konstrukcyjne-cada-10w1-ciezarowka-sterowana-dzwiekiem-za-139-zl-na-allegro/",
+      "publishedAt": "2026-11-22T15:29+01:00",
+      "summary": "Zestaw klocków CaDA 10w1 to propozycja dla młodych (także tych duchem) konstruktorów, którzy lubią przebudowywać swoje pojazdy i wprawiać je w ruch. Z 634 elementów złożycie jeden z 10 modeli, w tym ciężarówkę, wózek widłowy lub dźwig, a dołączony silnik z czujnikiem pozwoli sterować konstrukcją za pomocą dźwięku i światła. Set ten kupicie teraz na Allegro za 139,03 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Klocki-Konstrukcyjne-CaDA-10w1-Ciezarowka-Sterowana-dzwiekiem-za-139-zl-na-Allegro_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Zestaw LEGO ICONS Władca pierścieni: Hełm Saurona już za 204,99 zł w polskich sklepach",
@@ -20,6 +47,15 @@
       "summary": "W Empiku oraz polskim Amazonie pojawiła się bardzo dobra okazja na zakup zestawu, który szczególnie spodobać może się fanom twórczości J.R.R. Tolkiena. Model LEGO 11373 ICONS – Władca pierścieni: Hełm Saurona, składający się z 538 elementów oraz minifigurki Władcy Ciemności trzymającego Jedyny Pierścień, zakupicie obecnie za 204,99 zł. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/02/Zestaw-LEGO-ICONS-Wladca-pierscieni_-Helm-Saurona-juz-za-24250-zl-w-Morele.net_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Jeremy Irons, Weird Al i Lana Del Rey w GTA 6! Oto pełna lista prowadzących wszystkie stacje radiowe",
+      "sourceUrl": "https://cdaction.pl/teksty/jeremy-irons-weird-al-i-lana-del-rey-w-gta-6-oto-pelna-lista-prowadzacych-wszystkie-stacje-radiowe/",
+      "publishedAt": "2026-11-22T15:00+01:00",
+      "summary": "Prowadzący stacje radiowe w Grand Theft Auto na przestrzeni lat stali się ważnym (i rozpoznawalnym) elementem serii Rockstara. Ich głosy teoretycznie stanowią tło podczas jazdy samochodem, w praktyce jednak budują klimat i wciągają gracza w ten świat. Kogo więc możemy usłyszeć w najnowszym GTA 6?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-Album-Officially-Announced-First-Artists-and-Songs-Revealed-1260x709.webp"
     },
     {
       "sourceName": "PPE",
@@ -245,42 +281,6 @@
       "summary": "Aktualizacja systemu antycheatowego w Apex Legends miała skuteczniej eliminować oszustów, ale niespodziewanie uderzyła również w uczciwych graczy. Po zmianach wprowadzonych 18 listopada około tysiąca osób zostało omyłkowo zbanowanych, choć n...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/bed39ccd87a9fdde73d0/bed39ccd87a9fdde73d0.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 na PC szybciej niż sądzimy. Hakerzy zdradzają konkret",
-      "sourceUrl": "https://www.ppe.pl/news/434073/gta-6-na-pc-szybciej-niz-sadzimy-hakerzy-zdradzaja-konkret.html",
-      "publishedAt": "2026-11-22T08:14+01:00",
-      "summary": "Grand Theft Auto 6 bije właśnie wszelkie możliwe rekordy ocen i sprzedaży, ale pecetowi gracze wciąż mogą tylko z zazdrością patrzeć na posiadaczy konsol.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0f17ad8eae98a6ec0e84/0f17ad8eae98a6ec0e84.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 działa w 60 FPS na Xbox Series X. Wykorzystano lukę Microsoftu",
-      "sourceUrl": "https://www.ppe.pl/news/434072/gta-6-dziala-w-60-fps-na-xbox-series-x-wykorzystano-luke-microsoftu.html",
-      "publishedAt": "2026-11-22T07:38+01:00",
-      "summary": "Wygląda na to, że gracze naprawdę nie zamierzają pogodzić się z blokadą 30 klatek na sekundę w Grand Theft Auto 6. Ledwo opadł kurz po kombinowaniu ze strumieniowaniem obrazu na mocne komputery, a w sieci już pojawił się sposób na odblokowa...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/9cb833bad69fe7a418c4/9cb833bad69fe7a418c4.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Fani chcieli zaszaleć z wyglądem bohaterów GTA 6. „Czy to naprawdę maksimum?”",
-      "sourceUrl": "https://www.ppe.pl/news/433996/fani-chcieli-zaszalec-z-wygladem-bohaterow-gta-6-czy-to-naprawde-maksimum.html",
-      "publishedAt": "2026-11-21T13:30+01:00",
-      "summary": "Zaledwie kilkadziesiąt godzin wystarczyło, aby gracze zaczęli testować granice rozbudowanych systemów GTA 6. Duże zainteresowanie wzbudziła mechanika kondycji i masy ciała, pozwalająca zmieniać sylwetki Jasona oraz Lucii. Część społecznoś...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/39fec08e30958c0ec36b/39fec08e30958c0ec36b.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż INZONE Black Friday 2026 w x-kom. Słuchawki Sony od 199 zł + bon na zakupy!",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/wyprzedaz-inzone-black-friday-2026-w-x-kom-sluchawki-sony-od-199-zl-bon-na-zakupy/",
-      "publishedAt": "2026-11-21T13:19+01:00",
-      "summary": "W internetowym sklepie x-kom rozpoczęła się kolejna wyprzedaż z cyklu Black Friday 2026. Tym razem w niższych cenach możecie zakupić słuchawki z dedykowanej dla graczy serii INZONE . W dalszej części wpisu znajdziecie najciekawsze oferty na wybrane modele od firmy Sony. Wybrane produkty dostępne są w cenach niższych o nawet 100 zł! Dodatkowo, każde zamówienie pozwala otrzymać bon na kolejne zakupy. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-INZONE-Black-Friday-2026-w-x-kom.-Sluchawki-Sony-od-199-zl-bon-na-zakupy_miniaturka-224x224.jpg"
     }
   ],
   "indie": [
