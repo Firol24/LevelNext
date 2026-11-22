@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T17:01+01:00",
+  "updatedAt": "2026-11-22T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Ładowarka GaN toocki 100W (1x USB-A, 2x USB-C PD) za 84,88 zł w Amazon PL",
-    "summary": "Solidna ładowarka firmy toocki, jest teraz do dorwania w polskim oddziale sklepu Amazon w dobrej cenie. Model wyposażony w trzy porty, dwa USB-C oraz jeden USB-A, oferujący moc ładowania do 100W oraz wsparcie dla technologii Power Delivery, kosztuje aktualnie 84,88 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-gan-toocki-100w-1x-usb-a-2x-usb-c-pd-za-8488-zl-w-amazon-pl/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/toocki-100W-gan-usb-c-3b-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Polacy wciąż jej nie znają. To komedia, przy której Martin Scorsese nie mógł przestać się śmiać",
+    "summary": "Hollywood uwielbia opowiadać bajki o własnej wielkości, ale rzadko potrafi spojrzeć w lustro i wybuchnąć śmiechem z własnej głupoty. \"Studio\" (w oryginale \"The Studio\") od Apple TV robi dokładnie to, tylko z siłą rozpędzonego buldożera.",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/434151/polacy-wciaz-jej-nie-znaja-to-komedia-przy-ktorej-martin-scorsese-nie-mogl-przestac-sie-smiac.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/f6b1a2a6d07a4132466b/f6b1a2a6d07a4132466b.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Polacy wciąż jej nie znają. To komedia, przy której Martin Scorsese nie mógł przestać się śmiać",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434151/polacy-wciaz-jej-nie-znaja-to-komedia-przy-ktorej-martin-scorsese-nie-mogl-przestac-sie-smiac.html",
+      "publishedAt": "2026-11-22T18:00+01:00",
+      "summary": "Hollywood uwielbia opowiadać bajki o własnej wielkości, ale rzadko potrafi spojrzeć w lustro i wybuchnąć śmiechem z własnej głupoty. \"Studio\" (w oryginale \"The Studio\") od Apple TV robi dokładnie to, tylko z siłą rozpędzonego buldożera.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f6b1a2a6d07a4132466b/f6b1a2a6d07a4132466b.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ponad połowa graczy na PS5 i Xboksie rzuciła wszystko dla GTA 6. Analitycy podzielili się badaniami",
+      "sourceUrl": "https://cdaction.pl/newsy/ponad-polowa-graczy-na-ps5-i-xboksie-rzucila-wszystko-dla-gta-6-analitycy-podzielili-sie-badaniami/",
+      "publishedAt": "2026-11-22T17:54+01:00",
+      "summary": "Wielka kradzież graczy z konsol.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1-1260x709.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Telewizor TCL 65P8L 65″ QD-Mini LED 4K 144 Hz (+ koszulka w bonusie) za 3299 zł w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/telewizor-tcl-65p8l-65%e2%80%b3-qd-mini-led-4k-144-hz-koszulka-w-bonusie-za-3299-zl-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-22T17:31+01:00",
+      "summary": "65-calowy telewizor TCL 65P8L kupicie w RTV Euro AGD za 3299 zł, czyli o 700 zł mniej względem poprzedniej ceny. Model oferuje ekran QD-Mini LED o rozdzielczości 4K i odświeżaniu 144 Hz, system Google TV oraz obsługę Dolby Vision i Dolby Atmos. Promocja może zainteresować w szczególności osoby, które są również kibicami Arsenalu FC albo angielskiej Premier League, gdyż za zakup sprzętu macie okazję zgarnąć za darmo oficjalną koszulkę aktualnego mistrza Anglii. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Telewizor-TCL-65P8L-65″-QD-Mini-LED-4K-144-Hz-koszulka-w-bonusie-za-3299-zl-w-RTV-Euro-AGD_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "\"Małysz\" na konsolach? Duchowy następca kultowego Deluxe Ski Jumping wylądował na nowych platformach",
+      "sourceUrl": "https://www.ppe.pl/news/434152/malysz-na-konsolach-duchowy-nastepca-kultowego-deluxe-ski-jumping-wyladowal-na-nowych-platformach.html",
+      "publishedAt": "2026-11-22T17:21+01:00",
+      "summary": "Kultowe Deluxe Ski Jumping jest jedną z najpopularniejszych pecetowych gier w naszym kraju, a co za tym idzie nawet po tych dwóch dekadach wciąż budzi duże emocje i wywołuje nostalgiczne wspomnienia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ecdef4a93aff6469b273/ecdef4a93aff6469b273.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Ładowarka GaN toocki 100W (1x USB-A, 2x USB-C PD) za 84,88 zł w Amazon PL",
@@ -83,6 +119,15 @@
       "summary": "Prowadzący stacje radiowe w Grand Theft Auto na przestrzeni lat stali się ważnym (i rozpoznawalnym) elementem serii Rockstara. Ich głosy teoretycznie stanowią tło podczas jazdy samochodem, w praktyce jednak budują klimat i wciągają gracza w ten świat. Kogo więc możemy usłyszeć w najnowszym GTA 6?",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-Album-Officially-Announced-First-Artists-and-Songs-Revealed-1260x709.webp"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najlepsze stacje radiowe z poszczególnych odsłon GTA",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434158/najlepsze-stacje-radiowe-z-poszczegolnych-odslon-gta.html",
+      "publishedAt": "2026-11-22T15:00+01:00",
+      "summary": "Pościgi, strzelaniny, cięte riposty i tony dolarów, wszystko czego gangster zapragnie to esencjonalne motywy serii Grand Theft Auto. Rozpoznawalność tej marki opiera się na wybornej narracji, tj. autentycznych postaciach, ich przeszłości i niema...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4175a71bfe031f55f48d/4175a71bfe031f55f48d.webp"
     },
     {
       "sourceName": "PPE",
@@ -236,51 +281,6 @@
       "summary": "Od lat wydawcy \"częstują\" graczy dodatkami w ramach edycji specjalnych, limitowanych lub po prostu popularnych \"Deluxe Edition\" - współcześnie niemal każda produkcja jest oferowana w co najmniej dwóch wariantach. W dobie drożejących kosztów pr...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/ecfb8d6f7304d8fecdb9/ecfb8d6f7304d8fecdb9.avif"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Robert Downey Jr. wyjaśnia swój wielki powrót. Marvel musiał na niego zasłużyć",
-      "sourceUrl": "https://www.ppe.pl/news/434076/robert-downey-jr-wyjasnia-swoj-wielki-powrot-marvel-musial-na-niego-zasluzyc.html",
-      "publishedAt": "2026-11-22T10:30+01:00",
-      "summary": "Śmierć Tony’ego Starka w Avengers: Endgame wyglądała na definitywne pożegnanie Roberta Downeya Jr. z Marvel Cinematic Universe. Aktor powraca jednak w Avengers: Doomsday - tym razem jako Victor von Doom. Na miesiąc przed premierą widowiska Marv...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4202da4d1213f3b6426a/4202da4d1213f3b6426a.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Zapomnijcie o Mandy z GTA 6. Gracze mają nową ulubienicę",
-      "sourceUrl": "https://www.ppe.pl/news/434130/zapomnijcie-o-mandy-z-gta-6-gracze-maja-nowa-ulubienice.html",
-      "publishedAt": "2026-11-22T10:11+01:00",
-      "summary": "Jeszcze kilka dni temu pół internetu traciło głowę dla Mandy, czyli nachalnej sąsiadki Jasona z początku Grand Theft Auto 6.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/284184fc7b34b085c1af/284184fc7b34b085c1af.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Kupowanie gier w pudełkach straciło sens? Ten argument kończy dyskusję",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433935/kupowanie-gier-w-pudelkach-stracilo-sens-ten-argument-konczy-dyskusje.html",
-      "publishedAt": "2026-11-22T10:00+01:00",
-      "summary": "Przedwczoraj wreszcie mogliśmy uruchomić Grand Theft Auto VI, a polskie sklepy od tygodnia sprzedawały pudełka po 369-379 zł. Drożej niż wydanie cyfrowe za 349 zł. Najlepszy żart? W środku nie ma płyty, tylko kartka z kodem, a papierową map�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e0ae36d7ed72ea8371ed/e0ae36d7ed72ea8371ed.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Znienawidzony finał Gry o Tron doczeka się naprawy?! I to za pośrednictwem gry wideo!",
-      "sourceUrl": "https://www.ppe.pl/news/434075/znienawidzony-final-gry-o-tron-doczeka-sie-naprawy-i-to-za-posrednictwem-gry-wideo.html",
-      "publishedAt": "2026-11-22T09:30+01:00",
-      "summary": "Ostatni sezon „Gry o tron” do dziś wywołuje gorące dyskusje, ale nadchodzące War for Westeros pozwoli fanom rozegrać finał wielkiej wojny na własnych zasadach. Strategia czasu rzeczywistego wykorzystuje wydarzenia oraz wizerunki aktorów z se...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/97962971cdab98923c03/97962971cdab98923c03.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Eksperci wątpią w GTA 6 na PC w stałych 60 klatkach. Nawet mocny pecet może nie wystarczyć",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/eksperci-watpia-w-gta-6-na-pc-w-stalych-60-klatkach-nawet-mocny-p/zc3240c",
-      "publishedAt": "2026-11-22T09:03+01:00",
-      "summary": "Pecetowcy pocieszają się, że konsolowe 30 klatek z GTA 6 ich nie dotyczy. Eksperci studzą ten optymizm: wąskim gardłem nowej gry Rockstara ma być nie karta graficzna, tylko procesor. Apetyt na jego moc jest tak duży, że stałe 60 klatek może być domeną jedynie najmocniejszych komputerów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533030597.jpg"
     }
   ],
   "indie": [
