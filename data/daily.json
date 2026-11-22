@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T10:01+01:00",
+  "updatedAt": "2026-11-22T10:19+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Kupowanie gier w pudełkach straciło sens? Ten argument kończy dyskusję",
-    "summary": "Przedwczoraj wreszcie mogliśmy uruchomić Grand Theft Auto VI, a polskie sklepy od tygodnia sprzedawały pudełka po 369-379 zł. Drożej niż wydanie cyfrowe za 349 zł. Najlepszy żart? W środku nie ma płyty, tylko kartka z kodem, a papierową map�...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433935/kupowanie-gier-w-pudelkach-stracilo-sens-ten-argument-konczy-dyskusje.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/e0ae36d7ed72ea8371ed/e0ae36d7ed72ea8371ed.jpg"
+    "title": "Zapomnijcie o Mandy z GTA 6. Gracze mają nową ulubienicę",
+    "summary": "Jeszcze kilka dni temu pół internetu traciło głowę dla Mandy, czyli nachalnej sąsiadki Jasona z początku Grand Theft Auto 6.",
+    "sourceUrl": "https://www.ppe.pl/news/434130/zapomnijcie-o-mandy-z-gta-6-gracze-maja-nowa-ulubienice.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/284184fc7b34b085c1af/284184fc7b34b085c1af.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Zapomnijcie o Mandy z GTA 6. Gracze mają nową ulubienicę",
+      "sourceUrl": "https://www.ppe.pl/news/434130/zapomnijcie-o-mandy-z-gta-6-gracze-maja-nowa-ulubienice.html",
+      "publishedAt": "2026-11-22T10:11+01:00",
+      "summary": "Jeszcze kilka dni temu pół internetu traciło głowę dla Mandy, czyli nachalnej sąsiadki Jasona z początku Grand Theft Auto 6.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/284184fc7b34b085c1af/284184fc7b34b085c1af.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Kupowanie gier w pudełkach straciło sens? Ten argument kończy dyskusję",
