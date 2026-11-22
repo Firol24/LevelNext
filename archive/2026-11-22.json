@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T18:35+01:00",
+  "updatedAt": "2026-11-22T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Telewizor OLED LG 65C51LA 65″ 4K 120 Hz za 4489 zł w Oficjalnym Sklepie Allegro",
-    "summary": "Wyposażony w porty HDMI 2.1, 65-calowy LG OLED65C51LA dostępny jest w dobrej cenie w oficjalnym sklepie Allegro. Telewizor z matrycą OLED evo 4K o częstotliwości odświeżania 120 Hz oraz wsparciem dla technologii NVIDIA G-SYNC i AMD FreeSync Premium kosztuje 4489 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/telewizor-oled-lg-65c51la-65%e2%80%b3-4k-120-hz-za-4489-zl-w-oficjalnym-sklepie-allegro/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/10/LG-OLED65C51LA-miniatura-224x224.jpg"
+    "title": "Zestaw LEGO Super Heroes Batman Arkham Asylum za 1039 zł (cena kat. 1300 zł) w Oficjalnym Sklepie LEGO",
+    "summary": "Na stronie Oficjalnego Sklepu LEGO znajdziecie teraz w dobrej cenie zestaw LEGO DC Super Heroes Batman: Arkham Asylum. Model, na który składają się 2953 elementy oraz 16 minifigurek z uniwersum Mrocznego Rycerza, dostępny jest za 1039,99 zł, przy cenie katalogowej wynoszącej 1300 zł. Oferta jest przeznaczona dla członków programu Insiders. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-super-heroes-batman-arkham-asylum-za-1039-zl-cena-kat-1300-zl-w-oficjalnym-sklepie-lego/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocja-LEGO-Super-Heroes-76300-Batman-Arkham-Asylum-logo-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw LEGO Super Heroes Batman Arkham Asylum za 1039 zł (cena kat. 1300 zł) w Oficjalnym Sklepie LEGO",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-super-heroes-batman-arkham-asylum-za-1039-zl-cena-kat-1300-zl-w-oficjalnym-sklepie-lego/",
+      "publishedAt": "2026-11-22T18:59+01:00",
+      "summary": "Na stronie Oficjalnego Sklepu LEGO znajdziecie teraz w dobrej cenie zestaw LEGO DC Super Heroes Batman: Arkham Asylum. Model, na który składają się 2953 elementy oraz 16 minifigurek z uniwersum Mrocznego Rycerza, dostępny jest za 1039,99 zł, przy cenie katalogowej wynoszącej 1300 zł. Oferta jest przeznaczona dla członków programu Insiders. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocja-LEGO-Super-Heroes-76300-Batman-Arkham-Asylum-logo-224x224.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Telewizor OLED LG 65C51LA 65″ 4K 120 Hz za 4489 zł w Oficjalnym Sklepie Allegro",
@@ -272,15 +281,6 @@
       "summary": "Kevin Costner mógł nie zostać Johnem Duttonem. Był plan, by w głównego bohatera Yellowstone wcieliła się ta legenda Hollywood.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/532874453.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wielki triumf science fiction lat 90’. Najlepszy filmowy Star Trek kończy trzydzieści lat",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433888/wielki-triumf-science-fiction-lat-90-najlepszy-filmowy-star-trek-konczy-trzydziesci-lat.html",
-      "publishedAt": "2026-11-22T12:00+01:00",
-      "summary": "Trzydzieści lat temu odbyła się premiera filmu „Star Trek: Pierwszy kontakt“, który po latach uchodzi za jedną z najlepszych pełnometrażowych produkcji powiązanych z głównie serialowym uniwersum Gene’a Roddenberry’ego. Zrealizowany nie...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/9f39896c70e7d321f9ad/9f39896c70e7d321f9ad.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "b396c29b9cff5ecb2ae2f32992ff2ecc9b0f8ff9adc0b5178000237ad93d8b40"
+  "editorialHash": "f26f231b7053913fafbbb72dd7ff38d12a02c568e67e868dce358741fe45e5cb"
 }
