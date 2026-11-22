@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T18:01+01:00",
+  "updatedAt": "2026-11-22T18:35+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Polacy wciąż jej nie znają. To komedia, przy której Martin Scorsese nie mógł przestać się śmiać",
-    "summary": "Hollywood uwielbia opowiadać bajki o własnej wielkości, ale rzadko potrafi spojrzeć w lustro i wybuchnąć śmiechem z własnej głupoty. \"Studio\" (w oryginale \"The Studio\") od Apple TV robi dokładnie to, tylko z siłą rozpędzonego buldożera.",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/434151/polacy-wciaz-jej-nie-znaja-to-komedia-przy-ktorej-martin-scorsese-nie-mogl-przestac-sie-smiac.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/f6b1a2a6d07a4132466b/f6b1a2a6d07a4132466b.jpg"
+    "category": "PROMOCJE",
+    "title": "Telewizor OLED LG 65C51LA 65″ 4K 120 Hz za 4489 zł w Oficjalnym Sklepie Allegro",
+    "summary": "Wyposażony w porty HDMI 2.1, 65-calowy LG OLED65C51LA dostępny jest w dobrej cenie w oficjalnym sklepie Allegro. Telewizor z matrycą OLED evo 4K o częstotliwości odświeżania 120 Hz oraz wsparciem dla technologii NVIDIA G-SYNC i AMD FreeSync Premium kosztuje 4489 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/telewizor-oled-lg-65c51la-65%e2%80%b3-4k-120-hz-za-4489-zl-w-oficjalnym-sklepie-allegro/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/10/LG-OLED65C51LA-miniatura-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Telewizor OLED LG 65C51LA 65″ 4K 120 Hz za 4489 zł w Oficjalnym Sklepie Allegro",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/telewizor-oled-lg-65c51la-65%e2%80%b3-4k-120-hz-za-4489-zl-w-oficjalnym-sklepie-allegro/",
+      "publishedAt": "2026-11-22T18:26+01:00",
+      "summary": "Wyposażony w porty HDMI 2.1, 65-calowy LG OLED65C51LA dostępny jest w dobrej cenie w oficjalnym sklepie Allegro. Telewizor z matrycą OLED evo 4K o częstotliwości odświeżania 120 Hz oraz wsparciem dla technologii NVIDIA G-SYNC i AMD FreeSync Premium kosztuje 4489 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/10/LG-OLED65C51LA-miniatura-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "13 lat na karku, a Neverwinter wciąż jest rozwijane. MMORPG z Dungeons & Dragons wiecznie żywe",
+      "sourceUrl": "https://www.ppe.pl/news/434164/13-lat-na-karku-a-neverwinter-wciaz-jest-rozwijane-mmorpg-z-dungeons-dragons-wiecznie-zywe.html",
+      "publishedAt": "2026-11-22T18:20+01:00",
+      "summary": "Rynek MMORPG jest coraz trudniejszy, ale stale rosnąca liczba graczy na całym świecie sprawia, że nawet niszowe produkcje, takie jak właśnie Neverwinter są w stanie utrzymać się na powierzchni, wciąż przyciągając zainteresowanych.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/148b4b1d4813bd32e034/148b4b1d4813bd32e034.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday 2026 na fotele gamingowe w x-kom. Modele Diablo od 539 zł i nie tylko",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/wyprzedaz-black-friday-2026-na-fotele-gamingowe-w-x-kom-modele-diablo-od-539-zl-i-nie-tylko/",
+      "publishedAt": "2026-11-22T18:02+01:00",
+      "summary": "Fotele gamingowe Diablo Chairs, SMX, Anda Seat i Sihoo trafiły na wyprzedaż Black Friday 2026 w x-kom. Ceny zaczynają się od 539 zł za Diablo X-Gamer 2.0, a wśród najciekawszych propozycji znajdziecie również SMX Ararat za 599 zł, Diablo X-One 2.0 za 679 zł oraz materiałowy Anda Seat Novis Plus XL za 1099 zł. Promocyjne ceny wybranych modeli uzyskacie po wpisaniu w koszyku kodów rabatowych podanych w zestawieniu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-2026-na-fotele-gamingowe-w-x-kom.-Modele-Diablo-od-539-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Polacy wciąż jej nie znają. To komedia, przy której Martin Scorsese nie mógł przestać się śmiać",
@@ -254,33 +281,6 @@
       "summary": "Trzydzieści lat temu odbyła się premiera filmu „Star Trek: Pierwszy kontakt“, który po latach uchodzi za jedną z najlepszych pełnometrażowych produkcji powiązanych z głównie serialowym uniwersum Gene’a Roddenberry’ego. Zrealizowany nie...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/9f39896c70e7d321f9ad/9f39896c70e7d321f9ad.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 współtworzyło 50 osób z polskimi korzeniami. Wśród nich weterani GTA 5 i Red Dead Redemption 2",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-wspoltworzylo-50-osob-z-polskimi-korzeniami-wsrod-nich-wete/zd3240d",
-      "publishedAt": "2026-11-22T11:56+01:00",
-      "summary": "Napisy końcowe GTA 6 zdradzają, ile osób polskiego pochodzenia mogło pracować nad hitem Rockstara. To m.in. weterani poprzednich części serii i Red Dead Redemption 2.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533040841.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 ROZGROMIŁO na kawałki Red Dead Redemption 2 i GTA 5. Czegoś takiego NIGDY nie było",
-      "sourceUrl": "https://www.ppe.pl/news/434131/gta-6-rozgromilo-na-kawalki-red-dead-redemption-2-i-gta-5-czegos-takiego-nigdy-nie-bylo.html",
-      "publishedAt": "2026-11-22T11:13+01:00",
-      "summary": "Wiedzieliśmy, że premiera Grand Theft Auto 6 będzie finansowym trzęsieniem ziemi, ale pierwsze konkretne liczby i tak trudno ogarnąć rozumem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/16809299dc759224542e/16809299dc759224542e.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Co sądzicie o cyfrowych edycjach Deluxe? Plaga czy korzyści?",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/434062/co-sadzicie-o-cyfrowych-edycjach-deluxe-plaga-czy-korzysci.html",
-      "publishedAt": "2026-11-22T11:00+01:00",
-      "summary": "Od lat wydawcy \"częstują\" graczy dodatkami w ramach edycji specjalnych, limitowanych lub po prostu popularnych \"Deluxe Edition\" - współcześnie niemal każda produkcja jest oferowana w co najmniej dwóch wariantach. W dobie drożejących kosztów pr...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ecfb8d6f7304d8fecdb9/ecfb8d6f7304d8fecdb9.avif"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "f26f231b7053913fafbbb72dd7ff38d12a02c568e67e868dce358741fe45e5cb"
+  "editorialHash": "b396c29b9cff5ecb2ae2f32992ff2ecc9b0f8ff9adc0b5178000237ad93d8b40"
 }
