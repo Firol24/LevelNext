@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T09:01+01:00",
+  "updatedAt": "2026-11-22T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Komputery wchodzą na salony. Nowa generacja gier będzie należeć do PC",
-    "summary": "Czy Xbox Helix będzie konsolą, a może komputerem? Nie ustają na ten temat debaty, po tym, jak okazało się, że nowy sprzęt Microsoftu będzie mógł odpalać również produkcje wydane na PC. Wspominam o tej sprawie z jednego powodu: jeśli nawet...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433929/komputery-wchodza-na-salony-nowa-generacja-gier-bedzie-nalezec-do-pc.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/01ea3c66a123aefccc67/01ea3c66a123aefccc67.png"
+    "title": "Kupowanie gier w pudełkach straciło sens? Ten argument kończy dyskusję",
+    "summary": "Przedwczoraj wreszcie mogliśmy uruchomić Grand Theft Auto VI, a polskie sklepy od tygodnia sprzedawały pudełka po 369-379 zł. Drożej niż wydanie cyfrowe za 349 zł. Najlepszy żart? W środku nie ma płyty, tylko kartka z kodem, a papierową map�...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/433935/kupowanie-gier-w-pudelkach-stracilo-sens-ten-argument-konczy-dyskusje.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/e0ae36d7ed72ea8371ed/e0ae36d7ed72ea8371ed.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Kupowanie gier w pudełkach straciło sens? Ten argument kończy dyskusję",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433935/kupowanie-gier-w-pudelkach-stracilo-sens-ten-argument-konczy-dyskusje.html",
+      "publishedAt": "2026-11-22T10:00+01:00",
+      "summary": "Przedwczoraj wreszcie mogliśmy uruchomić Grand Theft Auto VI, a polskie sklepy od tygodnia sprzedawały pudełka po 369-379 zł. Drożej niż wydanie cyfrowe za 349 zł. Najlepszy żart? W środku nie ma płyty, tylko kartka z kodem, a papierową map�...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e0ae36d7ed72ea8371ed/e0ae36d7ed72ea8371ed.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Znienawidzony finał Gry o Tron doczeka się naprawy?! I to za pośrednictwem gry wideo!",
+      "sourceUrl": "https://www.ppe.pl/news/434075/znienawidzony-final-gry-o-tron-doczeka-sie-naprawy-i-to-za-posrednictwem-gry-wideo.html",
+      "publishedAt": "2026-11-22T09:30+01:00",
+      "summary": "Ostatni sezon „Gry o tron” do dziś wywołuje gorące dyskusje, ale nadchodzące War for Westeros pozwoli fanom rozegrać finał wielkiej wojny na własnych zasadach. Strategia czasu rzeczywistego wykorzystuje wydarzenia oraz wizerunki aktorów z se...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/97962971cdab98923c03/97962971cdab98923c03.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Komputery wchodzą na salony. Nowa generacja gier będzie należeć do PC",
