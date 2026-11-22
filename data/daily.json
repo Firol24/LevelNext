@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T11:01+01:00",
+  "updatedAt": "2026-11-22T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 współtworzyło 50 osób z polskimi korzeniami. Wśród nich weterani GTA 5 i Red Dead Redemption 2",
-    "summary": "Napisy końcowe GTA 6 zdradzają, ile osób polskiego pochodzenia mogło pracować nad hitem Rockstara. To m.in. weterani poprzednich części serii i Red Dead Redemption 2.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-wspoltworzylo-50-osob-z-polskimi-korzeniami-wsrod-nich-wete/zd3240d",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533040841.jpg"
+    "title": "Wielki triumf science fiction lat 90’. Najlepszy filmowy Star Trek kończy trzydzieści lat",
+    "summary": "Trzydzieści lat temu odbyła się premiera filmu „Star Trek: Pierwszy kontakt“, który po latach uchodzi za jedną z najlepszych pełnometrażowych produkcji powiązanych z głównie serialowym uniwersum Gene’a Roddenberry’ego. Zrealizowany nie...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/433888/wielki-triumf-science-fiction-lat-90-najlepszy-filmowy-star-trek-konczy-trzydziesci-lat.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/9f39896c70e7d321f9ad/9f39896c70e7d321f9ad.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Wielki triumf science fiction lat 90’. Najlepszy filmowy Star Trek kończy trzydzieści lat",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433888/wielki-triumf-science-fiction-lat-90-najlepszy-filmowy-star-trek-konczy-trzydziesci-lat.html",
+      "publishedAt": "2026-11-22T12:00+01:00",
+      "summary": "Trzydzieści lat temu odbyła się premiera filmu „Star Trek: Pierwszy kontakt“, który po latach uchodzi za jedną z najlepszych pełnometrażowych produkcji powiązanych z głównie serialowym uniwersum Gene’a Roddenberry’ego. Zrealizowany nie...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/9f39896c70e7d321f9ad/9f39896c70e7d321f9ad.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 współtworzyło 50 osób z polskimi korzeniami. Wśród nich weterani GTA 5 i Red Dead Redemption 2",
@@ -20,6 +29,15 @@
       "summary": "Napisy końcowe GTA 6 zdradzają, ile osób polskiego pochodzenia mogło pracować nad hitem Rockstara. To m.in. weterani poprzednich części serii i Red Dead Redemption 2.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533040841.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 ROZGROMIŁO na kawałki Red Dead Redemption 2 i GTA 5. Czegoś takiego NIGDY nie było",
+      "sourceUrl": "https://www.ppe.pl/news/434131/gta-6-rozgromilo-na-kawalki-red-dead-redemption-2-i-gta-5-czegos-takiego-nigdy-nie-bylo.html",
+      "publishedAt": "2026-11-22T11:13+01:00",
+      "summary": "Wiedzieliśmy, że premiera Grand Theft Auto 6 będzie finansowym trzęsieniem ziemi, ale pierwsze konkretne liczby i tak trudno ogarnąć rozumem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/16809299dc759224542e/16809299dc759224542e.webp"
     },
     {
       "sourceName": "PPE",
@@ -263,24 +281,6 @@
       "summary": "Łowcy, czas na okazję dla fanów dystrybucji cyfrowej. Z okazji wyprzedaży Black Weeks, w Oficjalnym Sklepie Allegro, możecie zakupić tanio PlayStation 5 Slim Digital. W ramach promocji standardowe wydanie konsoli z kontrolerem DualSense może być Wasze za 2399 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2599 zł. Obie oferty rozpoczną się punktualnie o 9:00! Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/PlayStation-5-Slim-Digital-825GB-promocja_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 padło ofiarą review bombingu. Wściekli gracze nie oszczędzają nowego hitu Rockstara",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-padlo-ofiara-review-bombingu-gracze-nie-oszczedzaja-nowego-hitu-rockstara/",
-      "publishedAt": "2026-11-20T23:35+01:00",
-      "summary": "Nie trzeba było długo czekać, aż emocje wokół premiery GTA 6 znajdą ujście w opiniach graczy na Metacriticu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/image-2.psd-3-1260x662.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pad Nintendo Switch 2 Pro Controller Resident Evil Requiem Edition za 328,89 zł w Empiku",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pad-nintendo-switch-2-pro-controller-resident-evil-requiem-edition-za-32889-zl-w-empiku/",
-      "publishedAt": "2026-11-20T23:04+01:00",
-      "summary": "Gra Resident Evil Requiem, czyli najnowsza odsłona legendarnej serii od firmy CAPCOM zadebiutowała zadebiutowała na rynku na początku 2026 roku. W tym samym czasie na sklepowych półkach pojawiła się także specjalna wersja pada dedykowanego konsoli Nintendo Switch 2. W ramach oferty Black Weeks model Pro Controller Resident Evil Requiem Edition dostępny jest w internetowym sklepie Empik za 328,89 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Preorder-Nintendo-Switch-2-Pro-Controller-Resident-Evil-Requiem-Edition-za-378-zl-w-Empiku_miniaturka-224x224.jpg"
     }
   ],
   "indie": [
