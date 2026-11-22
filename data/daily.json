@@ -1,17 +1,71 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T13:01+01:00",
+  "updatedAt": "2026-11-22T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Grałem 30 godzin w GTA 6 przez 3 dni. Mam swoje przemyślenia",
-    "summary": "Trzydzieści godzin w trzy dni. Brzmi jak wyrok dla moich pleców i totalne zaniedbanie prawdziwego życia, ale prawda jest taka, że od Grand Theft Auto 6 po prostu nie da się oderwać. Kiedy po raz pierwszy postawiłem stopę w spalonej słońcem Leo...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433334/gralem-30-godzin-w-gta-6-przez-3-dni-mam-swoje-przemyslenia.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg"
+    "title": "Milion subskrypcji po 15 latach. Polski youtuber SargeThePlayer świętuje, a pomogło mu GTA 6",
+    "summary": "Mocno związany z branżą gier polski youtuber po blisko 15 latach działania w sieci zdobył milion subskrypcji. Seria z rozgrywki GTA 6 osiągnęła duży wynik oglądalności na kanale SargeThePlayer.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/milion-subskrypcji-po-15-latach-polski-youtuber-sargetheplayer-sw/zf3240f",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533049355.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Milion subskrypcji po 15 latach. Polski youtuber SargeThePlayer świętuje, a pomogło mu GTA 6",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/milion-subskrypcji-po-15-latach-polski-youtuber-sargetheplayer-sw/zf3240f",
+      "publishedAt": "2026-11-22T14:20+01:00",
+      "summary": "Mocno związany z branżą gier polski youtuber po blisko 15 latach działania w sieci zdobył milion subskrypcji. Seria z rozgrywki GTA 6 osiągnęła duży wynik oglądalności na kanale SargeThePlayer.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533049355.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "DC miało wreszcie plan na 10 lat. Hollywood potrzebowało zaledwie chwili, żeby go wywrócić",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433375/dc-mialo-wreszcie-plan-na-10-lat-hollywood-potrzebowalo-zaledwie-chwili-zeby-go-wywrocic.html",
+      "publishedAt": "2026-11-22T14:00+01:00",
+      "summary": "Przez lata największym problemem filmowego DC był brak cierpliwości. Każda większa porażka uruchamiała nerwowe ruchy, każdy sukces natychmiast rodził pomysł na kilka kolejnych projektów, a kolejne ekipy próbowały naprawiać decyzje swoich p...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ad1a10ea8deb800579f7/ad1a10ea8deb800579f7.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Niespodzianka dla posiadaczy Humble Choice! The Outer Worlds 2 ogracie na dwóch platformach",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/niespodzianka-dla-posiadaczy-humble-choice-the-outer-worlds-2-ogracie-na-dwoch-platformach/",
+      "publishedAt": "2026-11-22T14:00+01:00",
+      "summary": "Listopadowe Humble Choice ma dodatkowy argument, by zainteresować teraz również graczy konsolowych. Okazuje się bowiem, że The Outer Worlds 2 z pakietu na ten miesiąc pozwala zagrać zarówno na PC, jak i Xbox Series X|S. Kupując zatem nowego Choice’a, możemy sięgnąć po RPG Obsidian Entertainment również na konsoli Microsoftu, bez dodatkowych opłat. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Niespodzianka-dla-posiadaczy-Humble-Choice-The-Outer-Worlds-2-ogracie-na-dwoch-platformach_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Świetna okazja na pudełkowe Hogwarts Legacy na konsole! Bilet do Szkoły Magii już od 48 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/swietna-okazja-na-pudelkowe-hogwarts-legacy-na-konsole-bilet-do-szkoly-magii-juz-od-48-zl-na-allegro/",
+      "publishedAt": "2026-11-22T13:31+01:00",
+      "summary": "Fani świata Harry’ego Pottera mogą teraz uzupełnić kolekcję o pudełkowe Hogwarts Legacy w dobrej cenie. Na Allegro znajdziecie wydania fizycze na PlayStation 4, PlayStation 5 oraz Xbox Series X, a ceny zaczynają się od 48,40 zł. W tym RPG akcji od studia Avalanche Software stworzycie własnego czarodzieja, rozpoczniecie naukę zaklęć i warzenia eliksirów oraz odkryjecie tajemnice Hogwartu i jego okolic. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Dziedzictwo-Hogwartu-na-konsole-w-promocji_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Brad Pitt chce wrócić do swojego wielkiego hitu. Kontynuacja może pobić kolejny rekord",
+      "sourceUrl": "https://www.ppe.pl/news/434079/brad-pitt-chce-wrocic-do-swojego-wielkiego-hitu-kontynuacja-moze-pobic-kolejny-rekord.html",
+      "publishedAt": "2026-11-22T13:30+01:00",
+      "summary": "Brad Pitt nie należy do aktorów, którzy szczególnie często wracają do swoich najpopularniejszych ról, ale najbliższe lata mogą przynieść kilka wyjątków. Gwiazdor przygotowuje się do ponownego występu jako Cliff Booth, a pod koniec przysz�...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f4c34c28c9cfcbd88611/f4c34c28c9cfcbd88611.webp"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 bije rekordy nie tylko w grach. Nawet dostawcy internetu odczuli premierę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-bije-rekordy-nie-tylko-w-grach-nawet-dostawcy-internetu-odc/ze3240e",
+      "publishedAt": "2026-11-22T13:05+01:00",
+      "summary": "Premiera GTA 6 spowodowała ogromny ruch u dostawcy usług internetowych. To „największy dzień w historii internetu”.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533044854.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Grałem 30 godzin w GTA 6 przez 3 dni. Mam swoje przemyślenia",
@@ -47,6 +101,15 @@
       "summary": "W ofercie polskiego oddziału Amazon pojawiła się promocja na UGREEN Revodok Pro 207. Rozbudowany hub USB, wyposażony w 2 gniazda HDMI (4K@60Hz), 2 gniazda USB-C, dwa gniazda USB-A oraz gniazdo ładowania USB-C PD (100W), może być Wasz za 139,99 zł. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-UGREEN-Revodok-Pro-w-Amazon-PL.-Hub-USB-7w1-2x-HDMI-5-x-USB-za-18199-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Tego naprawdę nie da się wymyślić”. Ta legenda Hollywood miała zagrać postać Kevina Costnera w Yellowstone",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tego-naprawde-nie-da-sie-wymyslic-ta-legenda-hollywood-miala-zagr/z2323ee",
+      "publishedAt": "2026-11-22T12:02+01:00",
+      "summary": "Kevin Costner mógł nie zostać Johnem Duttonem. Był plan, by w głównego bohatera Yellowstone wcieliła się ta legenda Hollywood.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532874453.jpg"
     },
     {
       "sourceName": "PPE",
@@ -218,69 +281,6 @@
       "summary": "Popularność Tify Lockhart dawno wykroczyła poza serię Final Fantasy, ale tym razem zainteresowanie bohaterką przybrało zdecydowanie mniej niewinną formę. Chińska policja zatrzymała 13 osób podejrzanych o produkowanie i sprzedawanie... Tak, do...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/07e80908e6c0ae70f2b7/07e80908e6c0ae70f2b7.png"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Funko POP! w Media Expert. Kolekcjonerskie figurki dostępne od 29,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-funko-pop-w-media-expert-kolekcjonerskie-figurki-dostepne-od-2999-zl/",
-      "publishedAt": "2026-11-21T12:03+01:00",
-      "summary": "Z okazji wyprzedaży Black Friday 2026, w internetowym sklepie Media Expert, pojawiła się specjalna promocja na Funko POP! W ramach oferty możecie zakupić wiele unikalnych modeli z popularnych animacji, filmów oraz seriali, w tym postacie z takich uniwersów jak Lord of the Rings, Marvel Comix czy Star Wars. Wyróżnione przez nas modele oferowane są w rekordowo niskich cenach zaczynających się od 29,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Funko-POP-w-Media-Expert.-Kolekcjonerskie-figurki-dostepne-od-2999-zl_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Fałszywe GTA 6 na PC za 200 dolarów, wielki powrót bikini-girl i zdominowane konsole. Bestseller Rockstara w pigułce",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/falszywe-gta-6-na-pc-za-200-dolarow-wielki-powrot-bikini-girl-i-z/z032407",
-      "publishedAt": "2026-11-21T11:51+01:00",
-      "summary": "Na PC pojawiają się fałszywe wersje GTA 6 za 200 dolarów. Bestseller zdominował konsole, a gracze odnajdują kolejne easter eggi.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532954017.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Kolejna OGROMNA gra Rockstar Games po GTA 6 zdradzona! Zaskakujący wybór",
-      "sourceUrl": "https://www.ppe.pl/news/434043/kolejna-ogromna-gra-rockstar-games-po-gta-6-ujawniona-zaskakujacy-wybor.html",
-      "publishedAt": "2026-11-21T11:46+01:00",
-      "summary": "Ledwo co zdążyliśmy się na dobre rozgościć w słonecznej Leonidzie po premierze Grand Theft Auto 6, a gracze już zaczynają drążyć temat kolejnego wielkiego projektu Rockstar Games.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/351b21bebedacfff05b8/351b21bebedacfff05b8.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Czy GTA 6 jest warte 350 zł? Uwzględniliśmy wielkość gry, inflację i płace minimalne",
-      "sourceUrl": "https://cdaction.pl/teksty/czy-gta-6-jest-warte-350-zl-uwzglednilismy-wielkosc-gry-inflacje-i-place-minimalne/",
-      "publishedAt": "2026-11-21T11:31+01:00",
-      "summary": "Aż trzy i pół stówy – tyle Rockstar Games każe nam płacić za Grand Theft Auto 6. Warto wydać te pieniądze już teraz, nie czekając na promocje?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Unreal Engine 6 przyniesie rewolucję?! Epic rezygnuje z fundamentów znanych deweloperom",
-      "sourceUrl": "https://www.ppe.pl/news/433994/unreal-engine-6-przyniesie-rewolucje-epic-rezygnuje-z-fundamentow-znanych-deweloperom.html",
-      "publishedAt": "2026-11-21T11:30+01:00",
-      "summary": "Unreal Engine 6 nie będzie wyłącznie kolejną odsłoną oferującą ładniejszą grafikę i lepszą wydajność. Epic Games zamierza gruntownie zmienić sposób tworzenia gier, rezygnując z Blueprints oraz Actor Gameplay Framework. Mowa o rozwiązan...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/674408311c5ddebf2fd8/674408311c5ddebf2fd8.png"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Po prostu okropny”. Reżyser Kevina samego w domu ostro ocenił aktora, którego zwolnił z filmu. Gwiazdor nie wytrzymał i odpowiedział na jego zarzuty",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/po-prostu-okropny-rezyser-kevina-samego-w-domu-ostro-ocenil-aktor/zf323eb",
-      "publishedAt": "2026-11-21T11:02+01:00",
-      "summary": "Rola jednego z bandytów w Kevinie samym w domu miała powędrować do innego aktora, którego występ podczas prób reżyser nazwał „okropnym”. Gwiazdor odniósł się do komentarzy Chrisa Columbusa.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532874045.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Sobotnie podsumowanie wyprzedaży w GOG.com. Life is Strange: Before the Storm za 12,19 zł!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/sobotnie-podsumowanie-wyprzedazy-w-gog-com-life-is-strange-before-the-storm-za-1219-zl/",
-      "publishedAt": "2026-11-21T10:26+01:00",
-      "summary": "Łowcy, przygotowaliśmy dla Was trzecie w listopadzie podsumowanie promocji na gry PC z cyfrowego sklepu GOG.com. W dalszej części artykułu znajdziecie 150 najciekawszych ofert na tanie tytuły DRM-Free. Na szczególne wyróżnienie zasługuje tutaj powracające po latach do rekordowo niskiej ceny Life is Strange: Before the Storm, które może być Wasze za 12,19 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Sobotnie-podsumowanie-wyprzedazy-w-GOG.com_.-Life-is-Strange_-Before-the-Storm-za-1219-zl_miniturka-224x224.jpg"
     }
   ],
   "indie": [
