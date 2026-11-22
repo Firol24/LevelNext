@@ -1,17 +1,71 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T19:01+01:00",
+  "updatedAt": "2026-11-22T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Zestaw LEGO Super Heroes Batman Arkham Asylum za 1039 zł (cena kat. 1300 zł) w Oficjalnym Sklepie LEGO",
-    "summary": "Na stronie Oficjalnego Sklepu LEGO znajdziecie teraz w dobrej cenie zestaw LEGO DC Super Heroes Batman: Arkham Asylum. Model, na który składają się 2953 elementy oraz 16 minifigurek z uniwersum Mrocznego Rycerza, dostępny jest za 1039,99 zł, przy cenie katalogowej wynoszącej 1300 zł. Oferta jest przeznaczona dla członków programu Insiders. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-super-heroes-batman-arkham-asylum-za-1039-zl-cena-kat-1300-zl-w-oficjalnym-sklepie-lego/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocja-LEGO-Super-Heroes-76300-Batman-Arkham-Asylum-logo-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Prawo bestii (2026) - recenzja serialu [Netflix]. Szatan z Piotrkowa",
+    "summary": "Na początku 2014 roku Polska wstrzymała oddech. Z więzienia wyjść miał Mariusz Trynkiewicz, pedofil i morderca, który dwadzieścia pięć lat wcześniej został skazany na karę śmierci, później zmienioną na \"ćwiarę\". W morzu emocji dwie da...",
+    "sourceUrl": "https://www.ppe.pl/recenzje/434146/prawo-bestii-2026-recenzja-serialu-netflix-szatan-z-piotrkowa.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/24f50382d77617469085/24f50382d77617469085.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Prawo bestii (2026) - recenzja serialu [Netflix]. Szatan z Piotrkowa",
+      "sourceUrl": "https://www.ppe.pl/recenzje/434146/prawo-bestii-2026-recenzja-serialu-netflix-szatan-z-piotrkowa.html",
+      "publishedAt": "2026-11-22T20:00+01:00",
+      "summary": "Na początku 2014 roku Polska wstrzymała oddech. Z więzienia wyjść miał Mariusz Trynkiewicz, pedofil i morderca, który dwadzieścia pięć lat wcześniej został skazany na karę śmierci, później zmienioną na \"ćwiarę\". W morzu emocji dwie da...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/24f50382d77617469085/24f50382d77617469085.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tygodniowe podsumowanie promocji Steam. Wyprzedaż Black Friday 2026 na gry EA i rabaty do -90%",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tygodniowe-podsumowanie-promocji-steam-wyprzedaz-black-friday-2026-na-gry-ea-i-rabaty-do-90/",
+      "publishedAt": "2026-11-22T19:56+01:00",
+      "summary": "Łowcy, czas na czwarte w tym miesiącu tygodniowe podsumowanie najciekawszych promocji na Steamie. Tym razem Waszą uwagę mogą przyciągnąć przede wszystkim Final Fantasy VII Rebirth za 29,85 zł oraz Darkwood za zaledwie 5,99 zł. Wśród polecanych ofert znajdziecie również Battlefield 6 za 98,96 zł i Star Wars Jedi: Survivor za 44,98 zł. Nie zabrakło też propozycji dla miłośników rozbudowanych RPG, horrorów i wspólnego grania – w zestawieniu czekają między innymi Kingdom Come: Deliverance II, Dead Space oraz It Takes Two. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tygodniowe-podsumowanie-promocji-Steam.-Wyprzedaz-Black-Friday-2026-na-gry-EA-i-rabaty-do-90__miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Mała gra, WIELKI sukces. Here Comes the Horde to nowa niezależna perełka z Polski",
+      "sourceUrl": "https://www.ppe.pl/news/434165/mala-gra-wielki-sukces-here-comes-the-horde-to-nowa-niezalezna-perelka-z-polski.html",
+      "publishedAt": "2026-11-22T19:44+01:00",
+      "summary": "Małe polskie studio Polished Games od paru ładnych lat rozwija swoje możliwości i autorską markę gier, która dzięki swojej nowej odsłonie przebiła się do masowego odbiorcy i zyskuje na popularności.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/2e891db08cda9db6402d/2e891db08cda9db6402d.jpg"
+    },
+    {
+      "sourceName": "Gamerweb",
+      "title": "Modern Warfare 4 – tej kampanii Call of Duty naprawdę potrzebowało",
+      "sourceUrl": "https://gamerweb.pl/modern-warfare-4-tej-kampanii-call-of-duty-naprawde-potrzebowalo/",
+      "publishedAt": "2026-11-22T19:37+01:00",
+      "summary": "Pamiętam jak wielkim wydarzeniem było dla mnie nowe Call of Duty. Chodziło oczywiście o kampanię, a nie o granie w sieci, choć i w multiplayerze spędziłem",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://gamerweb.pl/wp-content/uploads/2026/11/Modern-Warfare-4-e1795372652666.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Rhythm Paradise Groove na Nintendo Switch za 129,89 zł w Empiku",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-rhythm-paradise-groove-na-nintendo-switch-za-12989-zl-w-empiku/",
+      "publishedAt": "2026-11-22T19:28+01:00",
+      "summary": "Premiera Rhythm Paradise Groove odbyła się już jakiś czas temu. Debiutująca na Nintendo Switch produkcja z miejsca podbiła serca graczy i po krótkiej nieobecności, wróciła do sprzedaży w kilku polskich sklepach. Jeśli miło wspominacie poprzednie odsłony serii gier rytmicznych, to okraszoną uroczą grafiką i wyjątkowym humorem produkcję w wydaniu pudełkowym, możecie zakupić za 129,89 zł w Empiku. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/rhythm-paradise-groove-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Skasowany projekt Dead by Daylight w końcu ujrzał światło dzienne. Project T mogło namieszać w serii",
+      "sourceUrl": "https://www.ppe.pl/news/434171/skasowany-projekt-dead-by-daylight-w-koncu-ujrzal-swiatlo-dzienne-project-t-moglo-namieszac-w-serii.html",
+      "publishedAt": "2026-11-22T19:19+01:00",
+      "summary": "Dead by Daylight jest praktycznie największym sieciowym horrorem w naszej, a uniwersum gry rozwijane jest o wiele różnych pobocznych projektów, które jakościowo naprawdę potrafią zachwycać.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/51d50f3ffb929ab8ad3d/51d50f3ffb929ab8ad3d.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Zestaw LEGO Super Heroes Batman Arkham Asylum za 1039 zł (cena kat. 1300 zł) w Oficjalnym Sklepie LEGO",
@@ -227,60 +281,6 @@
       "summary": "Brad Pitt nie należy do aktorów, którzy szczególnie często wracają do swoich najpopularniejszych ról, ale najbliższe lata mogą przynieść kilka wyjątków. Gwiazdor przygotowuje się do ponownego występu jako Cliff Booth, a pod koniec przysz�...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/f4c34c28c9cfcbd88611/f4c34c28c9cfcbd88611.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 bije rekordy nie tylko w grach. Nawet dostawcy internetu odczuli premierę",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-bije-rekordy-nie-tylko-w-grach-nawet-dostawcy-internetu-odc/ze3240e",
-      "publishedAt": "2026-11-22T13:05+01:00",
-      "summary": "Premiera GTA 6 spowodowała ogromny ruch u dostawcy usług internetowych. To „największy dzień w historii internetu”.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533044854.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Grałem 30 godzin w GTA 6 przez 3 dni. Mam swoje przemyślenia",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433334/gralem-30-godzin-w-gta-6-przez-3-dni-mam-swoje-przemyslenia.html",
-      "publishedAt": "2026-11-22T13:00+01:00",
-      "summary": "Trzydzieści godzin w trzy dni. Brzmi jak wyrok dla moich pleców i totalne zaniedbanie prawdziwego życia, ale prawda jest taka, że od Grand Theft Auto 6 po prostu nie da się oderwać. Kiedy po raz pierwszy postawiłem stopę w spalonej słońcem Leo...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Duże podkładki pod mysz Silver Monkey w promocji w x-kom! Dwa modele XL po 34,99 zł",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/duze-podkladki-pod-mysz-silver-monkey-w-promocji-w-x-kom-dwa-modele-xl-po-3499-zl/",
-      "publishedAt": "2026-11-22T12:59+01:00",
-      "summary": "Jeśli szukacie dużej podkładki, na której zmieścicie zarówno mysz, jak i klawiaturę, warto zajrzeć do sklepu x-kom. W promocji dostępne są dwa modele: jasnoszara Silver Monkey Comfort Mouse Pad XL Light Gray o wymiarach 80 × 30 cm oraz czarna Silver Monkey X Control Mouse Mat XL Black o wymiarach 90 × 40 cm. Każdy z nich kupicie za 34,99 zł po zastosowaniu kodu zniżkowego. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Duze-podkladki-pod-mysz-Silver-Monkey-w-promocji-w-x-kom-Dwa-modele-XL-juz-po-3499-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Rockstar apeluje do graczy GTA 6. Robią jedną rzecz, która może \"zepsuć\" całą przygodę",
-      "sourceUrl": "https://www.ppe.pl/news/434078/rockstar-apeluje-do-graczy-gta-6-robia-jedna-rzecz-ktora-moze-zepsuc-cala-przygode.html",
-      "publishedAt": "2026-11-22T12:30+01:00",
-      "summary": "GTA 6 oferuje ogromną mapę wypełnioną aktywnościami, sekretami i przypadkowymi zdarzeniami, ale Rockstar nie chce, aby gracze podchodzili do Leonidy jak do kolejnej listy obowiązków. Wiceprezes ds. projektowania - Stephen Donkin - zaleca, by prze...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na UGREEN Revodok Pro w Amazon PL. Hub USB 7w1 (2x HDMI, 5 x USB) za 139,99 zł",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-ugreen-revodok-pro-w-amazon-pl-hub-usb-7w1-2x-hdmi-5-x-usb-za-13999-zl/",
-      "publishedAt": "2026-11-22T12:27+01:00",
-      "summary": "W ofercie polskiego oddziału Amazon pojawiła się promocja na UGREEN Revodok Pro 207. Rozbudowany hub USB, wyposażony w 2 gniazda HDMI (4K@60Hz), 2 gniazda USB-C, dwa gniazda USB-A oraz gniazdo ładowania USB-C PD (100W), może być Wasz za 139,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-UGREEN-Revodok-Pro-w-Amazon-PL.-Hub-USB-7w1-2x-HDMI-5-x-USB-za-18199-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Tego naprawdę nie da się wymyślić”. Ta legenda Hollywood miała zagrać postać Kevina Costnera w Yellowstone",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tego-naprawde-nie-da-sie-wymyslic-ta-legenda-hollywood-miala-zagr/z2323ee",
-      "publishedAt": "2026-11-22T12:02+01:00",
-      "summary": "Kevin Costner mógł nie zostać Johnem Duttonem. Był plan, by w głównego bohatera Yellowstone wcieliła się ta legenda Hollywood.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532874453.jpg"
     }
   ],
   "indie": [
