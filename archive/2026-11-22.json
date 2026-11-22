@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T12:01+01:00",
+  "updatedAt": "2026-11-22T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Wielki triumf science fiction lat 90’. Najlepszy filmowy Star Trek kończy trzydzieści lat",
-    "summary": "Trzydzieści lat temu odbyła się premiera filmu „Star Trek: Pierwszy kontakt“, który po latach uchodzi za jedną z najlepszych pełnometrażowych produkcji powiązanych z głównie serialowym uniwersum Gene’a Roddenberry’ego. Zrealizowany nie...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/433888/wielki-triumf-science-fiction-lat-90-najlepszy-filmowy-star-trek-konczy-trzydziesci-lat.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/9f39896c70e7d321f9ad/9f39896c70e7d321f9ad.jpg"
+    "title": "Grałem 30 godzin w GTA 6 przez 3 dni. Mam swoje przemyślenia",
+    "summary": "Trzydzieści godzin w trzy dni. Brzmi jak wyrok dla moich pleców i totalne zaniedbanie prawdziwego życia, ale prawda jest taka, że od Grand Theft Auto 6 po prostu nie da się oderwać. Kiedy po raz pierwszy postawiłem stopę w spalonej słońcem Leo...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/433334/gralem-30-godzin-w-gta-6-przez-3-dni-mam-swoje-przemyslenia.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Grałem 30 godzin w GTA 6 przez 3 dni. Mam swoje przemyślenia",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433334/gralem-30-godzin-w-gta-6-przez-3-dni-mam-swoje-przemyslenia.html",
+      "publishedAt": "2026-11-22T13:00+01:00",
+      "summary": "Trzydzieści godzin w trzy dni. Brzmi jak wyrok dla moich pleców i totalne zaniedbanie prawdziwego życia, ale prawda jest taka, że od Grand Theft Auto 6 po prostu nie da się oderwać. Kiedy po raz pierwszy postawiłem stopę w spalonej słońcem Leo...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Duże podkładki pod mysz Silver Monkey w promocji w x-kom! Dwa modele XL po 34,99 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/duze-podkladki-pod-mysz-silver-monkey-w-promocji-w-x-kom-dwa-modele-xl-po-3499-zl/",
+      "publishedAt": "2026-11-22T12:59+01:00",
+      "summary": "Jeśli szukacie dużej podkładki, na której zmieścicie zarówno mysz, jak i klawiaturę, warto zajrzeć do sklepu x-kom. W promocji dostępne są dwa modele: jasnoszara Silver Monkey Comfort Mouse Pad XL Light Gray o wymiarach 80 × 30 cm oraz czarna Silver Monkey X Control Mouse Mat XL Black o wymiarach 90 × 40 cm. Każdy z nich kupicie za 34,99 zł po zastosowaniu kodu zniżkowego. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Duze-podkladki-pod-mysz-Silver-Monkey-w-promocji-w-x-kom-Dwa-modele-XL-juz-po-3499-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rockstar apeluje do graczy GTA 6. Robią jedną rzecz, która może \"zepsuć\" całą przygodę",
+      "sourceUrl": "https://www.ppe.pl/news/434078/rockstar-apeluje-do-graczy-gta-6-robia-jedna-rzecz-ktora-moze-zepsuc-cala-przygode.html",
+      "publishedAt": "2026-11-22T12:30+01:00",
+      "summary": "GTA 6 oferuje ogromną mapę wypełnioną aktywnościami, sekretami i przypadkowymi zdarzeniami, ale Rockstar nie chce, aby gracze podchodzili do Leonidy jak do kolejnej listy obowiązków. Wiceprezes ds. projektowania - Stephen Donkin - zaleca, by prze...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na UGREEN Revodok Pro w Amazon PL. Hub USB 7w1 (2x HDMI, 5 x USB) za 139,99 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-ugreen-revodok-pro-w-amazon-pl-hub-usb-7w1-2x-hdmi-5-x-usb-za-13999-zl/",
+      "publishedAt": "2026-11-22T12:27+01:00",
+      "summary": "W ofercie polskiego oddziału Amazon pojawiła się promocja na UGREEN Revodok Pro 207. Rozbudowany hub USB, wyposażony w 2 gniazda HDMI (4K@60Hz), 2 gniazda USB-C, dwa gniazda USB-A oraz gniazdo ładowania USB-C PD (100W), może być Wasz za 139,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-UGREEN-Revodok-Pro-w-Amazon-PL.-Hub-USB-7w1-2x-HDMI-5-x-USB-za-18199-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Wielki triumf science fiction lat 90’. Najlepszy filmowy Star Trek kończy trzydzieści lat",
@@ -245,42 +281,6 @@
       "summary": "Łowcy, przygotowaliśmy dla Was trzecie w listopadzie podsumowanie promocji na gry PC z cyfrowego sklepu GOG.com. W dalszej części artykułu znajdziecie 150 najciekawszych ofert na tanie tytuły DRM-Free. Na szczególne wyróżnienie zasługuje tutaj powracające po latach do rekordowo niskiej ceny Life is Strange: Before the Storm, które może być Wasze za 12,19 zł! Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Sobotnie-podsumowanie-wyprzedazy-w-GOG.com_.-Life-is-Strange_-Before-the-Storm-za-1219-zl_miniturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Atomfall, High on Life 2 i inne. Darmowe gry i okazje w tym tygodniu",
-      "sourceUrl": "https://cdaction.pl/newsy/atomfall-high-on-life-2-i-inne-darmowe-gry-i-okazje-w-tym-tygodniu/",
-      "publishedAt": "2026-11-21T10:00+01:00",
-      "summary": "Kolejna sobota, kolejne gry za darmo oraz w ofertach Game Passa, PS Plusa i Amazonu Luny.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/collage26-11-20.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Gracze podzielili się na dwa obozy i strzelają „opiniami”. GTA 6 ofiarą review bombingu na Metacritic",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-podzielili-sie-na-dwa-obozy-i-strzelaja-opiniami-gta-6-ofi/ze32405",
-      "publishedAt": "2026-11-21T09:55+01:00",
-      "summary": "Wysoko oceniane przez branżowych krytyków GTA 6 zostało „zbombardowane” przez graczy. Recenzje fanów nowej produkcji Rockstara są mocno podzielone.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532946704.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Macie kartę Nvidii? Pobierzcie nowy sterownik. Może uratować wasz dysk SSD przed przedwczesnym zużyciem",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/macie-karte-nvidii-pobierzcie-nowy-sterownik-moze-uratowac-wasz-d/zf32406",
-      "publishedAt": "2026-11-21T09:48+01:00",
-      "summary": "Dwa ostatnie sterowniki GeForce potrafiły po cichu zapisywać na dysku gigabajty danych na godzinę, nawet gdy komputer nic nie robił. Rekordzista naliczył u siebie 30 GB. Nvidia wydała właśnie poprawkę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532946896.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Konsola PlayStation 5 Slim Digital za 2399 zł na Allegro. Start promocji Black Weeks o 9:00!",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-playstation-5-slim-digital-za-2399-zl-na-allegro-start-promocji-black-weeks-o-900/",
-      "publishedAt": "2026-11-21T08:35+01:00",
-      "summary": "Łowcy, czas na okazję dla fanów dystrybucji cyfrowej. Z okazji wyprzedaży Black Weeks, w Oficjalnym Sklepie Allegro, możecie zakupić tanio PlayStation 5 Slim Digital. W ramach promocji standardowe wydanie konsoli z kontrolerem DualSense może być Wasze za 2399 zł. Za zestaw z dodatkowym, drugim padem zapłacicie natomiast 2599 zł. Obie oferty rozpoczną się punktualnie o 9:00! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/PlayStation-5-Slim-Digital-825GB-promocja_miniaturka-224x224.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "f26f231b7053913fafbbb72dd7ff38d12a02c568e67e868dce358741fe45e5cb"
+  "editorialHash": "b396c29b9cff5ecb2ae2f32992ff2ecc9b0f8ff9adc0b5178000237ad93d8b40"
 }
