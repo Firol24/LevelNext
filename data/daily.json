@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T16:01+01:00",
+  "updatedAt": "2026-11-22T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Polski soulslike taniej miesiąc po premierze! Pudełkowe Valor Mortis na PS5 za 134 zł na Allegro",
-    "summary": "Nieco ponad miesiąc po premierze możecie sięgnąć po pudełkowe Valor Mortis na PS5 w niższej cenie. Polski soulslike od twórców Ghostrunnera, czyli studia One More Level, zabierze Was do alternatywnej Europy z czasów napoleońskich, gdzie jako wskrzeszony żołnierz wykorzystacie broń i nadprzyrodzone moce w walce z potworami. Grę kupicie w serwisie Allegro już za 134,13 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/polski-soulslike-taniej-miesiac-po-premierze-pudelkowe-valor-mortis-na-ps5-za-134-zl-na-allegro/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/valor-mortis-miniaturka-224x224.jpg"
+    "title": "Ładowarka GaN toocki 100W (1x USB-A, 2x USB-C PD) za 84,88 zł w Amazon PL",
+    "summary": "Solidna ładowarka firmy toocki, jest teraz do dorwania w polskim oddziale sklepu Amazon w dobrej cenie. Model wyposażony w trzy porty, dwa USB-C oraz jeden USB-A, oferujący moc ładowania do 100W oraz wsparcie dla technologii Power Delivery, kosztuje aktualnie 84,88 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-gan-toocki-100w-1x-usb-a-2x-usb-c-pd-za-8488-zl-w-amazon-pl/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/toocki-100W-gan-usb-c-3b-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka GaN toocki 100W (1x USB-A, 2x USB-C PD) za 84,88 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-gan-toocki-100w-1x-usb-a-2x-usb-c-pd-za-8488-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-22T17:00+01:00",
+      "summary": "Solidna ładowarka firmy toocki, jest teraz do dorwania w polskim oddziale sklepu Amazon w dobrej cenie. Model wyposażony w trzy porty, dwa USB-C oraz jeden USB-A, oferujący moc ładowania do 100W oraz wsparcie dla technologii Power Delivery, kosztuje aktualnie 84,88 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/toocki-100W-gan-usb-c-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Tygodniowe podsumowanie promocji na gry PlayStation i Xbox. Hogwarts Legacy na PS4 za 29,90 zł i rabaty do -90%!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/tygodniowe-podsumowanie-promocji-na-gry-playstation-i-xbox-hogwarts-legacy-na-ps4-za-2990-zl-i-rabaty-do-90/",
+      "publishedAt": "2026-11-22T16:31+01:00",
+      "summary": "Łowcy, wyprzedaże na konsolach z okazji Black Friday 2026 ruszyły już na dobre. Tym samym wracamy z tygodniowym podsumowaniem najciekawszych promocji na gry dostępne w PlayStation Store oraz Xbox Store. Tym razem uwagę przyciągają Hogwarts Legacy na PS4 za 29,90 zł, remake Dead Space na PS5 za 34,99 zł oraz Warhammer 40,000: Space Marine 2 na PS5 za 74,75 zł. W dobrych cenach kupicie również Kingdom Come: Deliverance II na PS5 za 104,65 zł, a fani Xboxa mogą sięgnąć po Cyberpunka 2077 za 59,70 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Tygodniowe-podsumowanie-promocji-na-gry-PlayStation-i-Xbox.-Mocne-okazje-z-rabatami-do-90__miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dlaczego Grand Theft Auto VI nie dostanie trybu 60 FPS? Specjaliści podają konkretny problem Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/news/434148/dlaczego-grand-theft-auto-vi-nie-dostanie-trybu-60-fps-specjalisci-podaja-konkretny-problem-rockstar-games.html",
+      "publishedAt": "2026-11-22T16:10+01:00",
+      "summary": "Grand Theft Auto VI jest największą grą świata i co do tego nikt nie ma absolutnie żadnych wątpliwości. Niestety jednak projekt Rockstar Games, pomimo wielu fantastycznych zalet, ma jeden poważny problem - brak trybu 60 klatek na sekundę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Polski soulslike taniej miesiąc po premierze! Pudełkowe Valor Mortis na PS5 za 134 zł na Allegro",
@@ -254,33 +281,6 @@
       "summary": "Pecetowcy pocieszają się, że konsolowe 30 klatek z GTA 6 ich nie dotyczy. Eksperci studzą ten optymizm: wąskim gardłem nowej gry Rockstara ma być nie karta graficzna, tylko procesor. Apetyt na jego moc jest tak duży, że stałe 60 klatek może być domeną jedynie najmocniejszych komputerów.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533030597.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Ma 4 Oscary i zgarnął 138 mln dolarów. Na Prime Video wraca jeden z najlepszych filmów wojennych wszech czasów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ma-4-oscary-i-zgarnal-138-mln-dolarow-na-prime-video-wraca-jeden/z1323ed",
-      "publishedAt": "2026-11-22T09:02+01:00",
-      "summary": "Na Prime Viedo ponownie ukaże się cenione widowisko wojenne, które zostało nagrodzone 4 Oscarami.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532874344.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Komputery wchodzą na salony. Nowa generacja gier będzie należeć do PC",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433929/komputery-wchodza-na-salony-nowa-generacja-gier-bedzie-nalezec-do-pc.html",
-      "publishedAt": "2026-11-22T09:00+01:00",
-      "summary": "Czy Xbox Helix będzie konsolą, a może komputerem? Nie ustają na ten temat debaty, po tym, jak okazało się, że nowy sprzęt Microsoftu będzie mógł odpalać również produkcje wydane na PC. Wspominam o tej sprawie z jednego powodu: jeśli nawet...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/01ea3c66a123aefccc67/01ea3c66a123aefccc67.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tysiąc graczy straciło dostęp do popularnego hitu. Twórcy przyznali się do poważnego błędu...",
-      "sourceUrl": "https://www.ppe.pl/news/434074/tysiac-graczy-stracilo-dostep-do-popularnego-hitu-tworcy-przyznali-sie-do-powaznego-bledu.html",
-      "publishedAt": "2026-11-22T08:30+01:00",
-      "summary": "Aktualizacja systemu antycheatowego w Apex Legends miała skuteczniej eliminować oszustów, ale niespodziewanie uderzyła również w uczciwych graczy. Po zmianach wprowadzonych 18 listopada około tysiąca osób zostało omyłkowo zbanowanych, choć n...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/bed39ccd87a9fdde73d0/bed39ccd87a9fdde73d0.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "b396c29b9cff5ecb2ae2f32992ff2ecc9b0f8ff9adc0b5178000237ad93d8b40"
+  "editorialHash": "f26f231b7053913fafbbb72dd7ff38d12a02c568e67e868dce358741fe45e5cb"
 }
