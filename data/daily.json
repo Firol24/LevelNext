@@ -1,17 +1,116 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T11:01+01:00",
+  "updatedAt": "2026-11-23T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Przez 167 lat najwięksi matematycy świata nie potrafili rozwiązać tego problemu. Człowiek z pomocą AI miał dokonać tego w zaledwie 6 tygodni",
-    "summary": "Pracownik Anthropica pochwalił się rozwiązaniem problemu milenijnego z pomocą Claude&apos;a. Dowód liczy ponad 17 milionów linii kodu, a specjalistyczne narzędzia potwierdziły jego poprawność.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/przez-167-lat-najwieksi-matematycy-swiata-nie-potrafili-rozwiazac/z232418",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533124854.jpg"
+    "title": "Elon Musk przyznał, że koszt produkcji komputerów Tesli wzrósł o 100%. Wszystko przez ten sam kryzys pamięci, który uderza w graczy i producentów PC",
+    "summary": "Komputery AI4 montowane w Teslach mają kosztować jednak 1 300 dolarów zamiast 650. Według Elona Muska winne są rosnące ceny podzespołów, do czego miliarder się przyczynia.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/elon-musk-przyznal-ze-koszt-produkcji-komputerow-tesli-wzrosl-o-1/z03241f",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533129064.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Elon Musk przyznał, że koszt produkcji komputerów Tesli wzrósł o 100%. Wszystko przez ten sam kryzys pamięci, który uderza w graczy i producentów PC",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/elon-musk-przyznal-ze-koszt-produkcji-komputerow-tesli-wzrosl-o-1/z03241f",
+      "publishedAt": "2026-11-23T12:25+01:00",
+      "summary": "Komputery AI4 montowane w Teslach mają kosztować jednak 1 300 dolarów zamiast 650. Według Elona Muska winne są rosnące ceny podzespołów, do czego miliarder się przyczynia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533129064.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 ma kasyno, do którego nie można wejść. Polacy mogą nie zagrać w nim nawet po otwarciu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-ma-kasyno-do-ktorego-nie-mozna-wejsc-polacy-moga-nie-zagrac/zd3241c",
+      "publishedAt": "2026-11-23T12:15+01:00",
+      "summary": "W GTA 6 nie brakuje atrakcji, które pozostają niedostępne dla graczy. Niewykluczone jednak, że Rockstar planuje otworzyć je w przyszłości.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533126232.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Mama kupiła mu Vice City, a on po latach upamiętnił ją w GTA 6. Twórcy gry umieścili w niej hołd dla swoich zmarłych członków rodzin",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/mama-kupila-mu-vice-city-a-on-po-latach-upamietnil-ja-w-gta-6-two/zf3241e",
+      "publishedAt": "2026-11-23T12:03+01:00",
+      "summary": "Czasami to właśnie rodzina budzi w nas pasję do gier. Pracownicy Rockstar Games upamiętnili w GTA 6 zmarłych członków rodzin, którzy wspierali ich do samego końca.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533127372.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Hity PlayStation i Xbox oferowane w rekordowo niskich cenach. Tak tanio jeszcze nie było",
+      "sourceUrl": "https://www.ppe.pl/news/434232/hity-playstation-i-xbox-oferowane-w-rekordowo-niskich-cenach-tak-tanio-jeszcze-nie-bylo.html",
+      "publishedAt": "2026-11-23T12:00+01:00",
+      "summary": "Niedawno na Steam uruchomiono wyprzedaż gier z najniższymi cenami gier w historii (m.in. Kingdom Come 2 można kupić za 83,66 zł). Do tej oferty oferty dołączyły właśnie kolejne hity.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6f5c458f1722bfcb08df/6f5c458f1722bfcb08df.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jeden z najlepszych thrillerów Apple TV wróci za 12 tygodni. Nowa odsłona polecanego przez niemal 80% krytyków widowiska prawniczego ma już zwiastun",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najlepszych-thrillerow-apple-tv-wroci-za-13-tygodni-nowa/ze3241d",
+      "publishedAt": "2026-11-23T11:55+01:00",
+      "summary": "Uznany za niewinnego wraca z zupełnie nową sprawą i gwiazdorską obsadą. Do sieci trafił pierwszy zwiastun drugiego sezonu thrillera Apple TV, w którym na sali sądowej spotkają się Rachel Brosnahan i Matthew Rhys.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533126771.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy z mistrzowskiego studia Sony zachwyceni grą dekady",
+      "sourceUrl": "https://www.ppe.pl/news/434219/tworcy-z-mistrzowskiego-studia-sony-zachwyceni-gra-dekady.html",
+      "publishedAt": "2026-11-23T11:51+01:00",
+      "summary": "Kiedy nowymi grami zachwycają się gracze, to świetna sprawa, ale prawdziwy szacunek pojawia się dopiero wtedy, gdy szczęki z wrażenia opadają samym twórcom z absolutnej światowej czołówki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/16809299dc759224542e/16809299dc759224542e.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kingdom Come Deliverance Royal Edition (PS5) za 59,99 zł, KCD II (PS5) za 89,99 zł w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/kingdom-come-deliverance-royal-edition-ps5-za-5999-zl-kcd-ii-ps5-za-8999-zl-w-media-expert/",
+      "publishedAt": "2026-11-23T11:50+01:00",
+      "summary": "W Media Expert macie teraz szansę zakupić hiciory czeskiego Warhorse w niższej cenie. Za Kingdom Come Deliverance Royal Edition, pierwszą część RPG wraz z wszystkimi dodatkami, zapłacicie 59,99 zł. Druga odsłona serii kosztuje 89,99 zł. Obie gry oferowane są w wersji na PS5, a wysyłka do Paczkomatów jest darmowa. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kingdom-Come-Media-Expert-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowości na Steam w cieniu GTA 6. Na pierwszym planie gra, w którą zagrasz na premierę za darmo",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowosci-na-steam-w-cieniu-gta-6-na-pierwszym-planie-gra-w-ktora-z/zc3241b",
+      "publishedAt": "2026-11-23T11:50+01:00",
+      "summary": "W tym tygodniu na Steamie zadebiutują takie gry, jak Arkheron, Am I Nima czy Reshina. Ponadto kilka popularnych strategii dostanie duże dodatki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533126109.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gra nagrodzona na TGA 2025 staje się coraz lepsza. Mechy i podwodna eksploracja na rozgrywce",
+      "sourceUrl": "https://www.ppe.pl/news/434227/gra-nagrodzona-na-tga-2025-staje-sie-coraz-lepsza-mechy-i-podwodna-eksploracja-na-rozgrywce.html",
+      "publishedAt": "2026-11-23T11:31+01:00",
+      "summary": "Wuthering Waves stało się jedną z największych sensacji TGA 2025, zgarniając nagrodę w kluczowej kategorii imprezy. A teraz autorzy szykują się do kolejnego ważnego wydarzenia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/7ae6004d7fd14fc1fd41/7ae6004d7fd14fc1fd41.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Metroid Prime 4 Beyond Nintendo Switch 2 Edition od 119,89 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-metroid-prime-4-beyond-nintendo-switch-2-edition-od-11989-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-23T11:25+01:00",
+      "summary": "Czwarta odsłona serii przygód nieustraszonej Samus Aran, czyli Metroid Prime 4 Beyond, pojawiła się w dobrej cenie w ofercie sklepów Empik.com i MediaMarkt. Pudełko z grą w wersji na Nintendo Switch 1 i kodem do aktualizacji na drugą generację „Pstryczka”, kosztuje 119,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/metroid-prime-4-beyond-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 spaliło PS5! Konsola nie wytrzymała",
+      "sourceUrl": "https://www.ppe.pl/news/434218/gta-6-spalilo-ps5-konsola-nie-wytrzymala.html",
+      "publishedAt": "2026-11-23T11:21+01:00",
+      "summary": "Od dawna było wiadomo, że Grand Theft Auto 6 wyciśnie z obecnej generacji konsol absolutnie ostatnie soki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c4e30a2c05c3bedfc0fc/c4e30a2c05c3bedfc0fc.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Przez 167 lat najwięksi matematycy świata nie potrafili rozwiązać tego problemu. Człowiek z pomocą AI miał dokonać tego w zaledwie 6 tygodni",
@@ -20,6 +119,33 @@
       "summary": "Pracownik Anthropica pochwalił się rozwiązaniem problemu milenijnego z pomocą Claude&apos;a. Dowód liczy ponad 17 milionów linii kodu, a specjalistyczne narzędzia potwierdziły jego poprawność.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533124854.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nie będzie nowego „American Psycho”. Luca Guadagnino rezygnuje z projektu",
+      "sourceUrl": "https://cdaction.pl/kultura/nie-bedzie-nowego-american-psycho-luca-guadagnino-rezygnuje-z-projektu/",
+      "publishedAt": "2026-11-23T11:15+01:00",
+      "summary": "That’s all, folks!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/10/American-Psycho.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Premiera najbardziej wyczekiwanej gry w historii – jakie naprawdę jest GTA VI?",
+      "sourceUrl": "https://cdaction.pl/newsy/premiera-najbardziej-wyczekiwanej-gry-w-historii-jakie-naprawde-jest-gta-vi/",
+      "publishedAt": "2026-11-23T11:05+01:00",
+      "summary": "Żadna gra nie była otoczona tak wielkimi oczekiwaniami jak GTA VI. Fani czekali na nią ponad dekadę, a każdy zwiastun oglądały dziesiątki milionów osób. Teraz, gdy gra jest już dostępna, można wreszcie sprawdzić, czy Rockstar Games sprostało tej presji. Podsumowujemy, co mówią recenzenci i czym GTA VI różni się od poprzednich części. Jak GTA VI...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/pexels-yankrukov-9069305-1260x840.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 rozczarowuje wiele osób. Część dziennikarzy nie może tego znieść i już obraża graczy",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434225/gta-6-rozczarowuje-wiele-osob-czesc-dziennikarzy-nie-moze-tego-zniesc-i-juz-obraza-graczy.html",
+      "publishedAt": "2026-11-23T11:01+01:00",
+      "summary": "Dziennikarze myślą, że wciąż kontrolują dyskurs na temat gier. I mocno się pod tym względem mylą.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8823cfe0f21f9da2d3d9/8823cfe0f21f9da2d3d9.png"
     },
     {
       "sourceName": "PPE",
@@ -61,6 +187,15 @@
       "sourceName": "Łowcy Gier",
       "title": "Promocje na pudełkowe gry PS5 i PS4 na Black Friday 2026 w Media Expert. Wybrane tytuły już od 39,99 zł!",
       "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/promocje-na-pudelkowe-gry-ps5-i-ps4-na-black-friday-2026-w-media-expert-wybrane-tytuly-juz-od-3999-zl/",
+      "publishedAt": "2026-11-23T10:31+01:00",
+      "summary": "Jesteśmy w ostatnim tygodniu Black Weeks, by hucznie wejść w Czarny Piątek. W Media Expert przygotowano promocje na fizyczne wydania gier na konsole Sony PlayStation. Ceny nie powinny być dla Was zaskoczeniem, rozpoczynając się od 39,99 zł za serię PlayStation Hits. Wszystkie oferty dostępne w sklepie, znajdziecie w rozwinięciu artykułu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-2026-ps4-ps5-media-expert-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na pudełkowe gry PS5 i PS4 na Black Friday 2026 w Media Expert. SAROS za 99,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/promocje-na-pudelkowe-gry-ps5-i-ps4-na-black-friday-2026-w-media-expert-saros-za-9999-zl/",
       "publishedAt": "2026-11-23T10:31+01:00",
       "summary": "Jesteśmy w ostatnim tygodniu Black Weeks, by hucznie wejść w Czarny Piątek. W Media Expert przygotowano promocje na fizyczne wydania gier na konsole Sony PlayStation. Ceny nie powinny być dla Was zaskoczeniem, rozpoczynając się od 39,99 zł za serię PlayStation Hits. Wszystkie oferty dostępne w sklepie, znajdziecie w rozwinięciu artykułu. Czytaj więcej »",
       "category": "PROMOCJE",
@@ -146,141 +281,6 @@
       "summary": "Święta bez Kevina nie istnieją…",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/Kevin-sam-w-domu.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Jeden z najbardziej kultowych filmów komediowych w historii po ponad 30 latach doczeka się kontynuacji. Nowa odsłona serii, która zarobiła prawie 1 mld dolarów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najbardziej-kultowych-filmow-komediowych-w-historii-po-po/zc32412",
-      "publishedAt": "2026-11-23T09:30+01:00",
-      "summary": "Kultowe świąteczne widowisko doczeka się kontynuacji po ponad trzech latach. Macaulay Culkin ponownie wcieli się w swego najsłynniejszego bohatera, a za rozwój projektu opartego na pomyśle aktora odpowiadają Seth Rogen i Evan Goldberg.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533118297.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Gears of War: E-Day drugą najlepiej sprzedającą się grą października w USA",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gears-of-war-e-day-druga-najlepiej-sprzedajaca-sie-gra-pazdzierni/zd32413",
-      "publishedAt": "2026-11-23T09:26+01:00",
-      "summary": "Gears of War: E-Day zajęło w październiku drugie miejsce na liście sprzedaży w USA. Z pozoru brzmi to jak triumf, ale dotychczasowe liczby pokazują trochę bardziej skomplikowany obraz. Bez oficjalnych danych wydawcy ciężko o jednoznaczny werdykt, czy Gears of War: E-Day dało radę, czy nie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533118369.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Ostatnie chwile na Disney+ od 16,99 zł miesięcznie przez 3 miesiące. Obejrzyj filmy Marvela przed Avengers: Doomsday!",
-      "sourceUrl": "https://lowcygier.pl/subskrypcje/ostatnie-chwile-na-disney-od-1699-zl-miesiecznie-przez-3-miesiace-obejrzyj-filmy-marvela-przed-avengers-doomsday/",
-      "publishedAt": "2026-11-23T09:12+01:00",
-      "summary": "Świetna promocja na abonament w usłudze streamingowej Disney+ dobiega końca. Dzięki ofercie, z której skorzystają teraz zarówno nowi, jak i powracający użytkownicy spełniający warunki, subskrypcję w wariancie Standard z reklamami mogą aktywować za 16,99 zł miesięcznie przez trzy miesiące. Dostęp w wersji Standard kosztować Was będzie 23,99 zł, natomiast Premium jest już za 39,99 zł miesięcznie. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/disney-plus-nowe-logo-224x224.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Najtańszy w historii monitor Gigabyte 27\" QD-OLED z 240 Hz?! Poniżej 1300 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434216/najtanszy-w-historii-monitor-gigabyte-27-qd-oled-z-240-hz-ponizej-1300-zl.html",
-      "publishedAt": "2026-11-23T09:11+01:00",
-      "summary": "Osoby szukające monitora do grania nie mogły lepiej trafić, ponieważ w nowej ofercie sklepu internetowego X-Kom możemy nabyć sprzęt od Gigabyte w rekordowej cenie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f88d4304a21de10d310b/f88d4304a21de10d310b.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nowy Garmin za 299 zł zamiast wcześniejszego 799 zł. Żal nie brać!",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434215/nowy-garmin-za-299-zl-zamiast-wczesniejszego-799-zl-zal-nie-brac.html",
-      "publishedAt": "2026-11-23T09:09+01:00",
-      "summary": "W sklepie Media Expert taniej o ponad 60% względem standardowej ceny nabędziemy nowy zegarek Garmin.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/46541f48e526fb0822ab/46541f48e526fb0822ab.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Dobitny dowód na zidiocenie części graczy. Fani Zeldy i GTA 6 stali się... wrogami",
-      "sourceUrl": "https://www.ppe.pl/news/434207/dobitny-dowod-na-zidiocenie-czesci-graczy-fani-zeldy-i-gta-6-stali-sie-wrogami.html",
-      "publishedAt": "2026-11-23T09:09+01:00",
-      "summary": "Ten listopad miał być dla miłośników gier absolutnym rajem, bo niemal jeden po drugim na rynek trafiły dwa gigantyczne hity - Grand Theft Auto 6 oraz remake The Legend of Zelda: Ocarina of Time.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6c9dfd8da4ca82776bda/6c9dfd8da4ca82776bda.png"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Mysz bezprzewodowa Ajazz AJ179 Pro 26000 dpi za 169 zł (50 zł taniej) w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/mysz-bezprzewodowa-ajazz-aj179-pro-26000-dpi-za-169-zl-50-zl-taniej-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-23T09:06+01:00",
-      "summary": "Sklep RTV Euro AGD w swoim Hicie Dnia proponuje dziś Ajazz AJ179 Pro. Myszka bezprzewodowa, wyposażona w sensor optyczny PixArt PAW 3395 o rozdzielczości 26000 dpi, 6 przycisków i podświetlaną stację ładującą, kosztuje 169 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/ajazz-aj179-pro-3b-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Activision chce, żeby boty w grach gadały tak jak gracze na Discordzie. Firma opublikowała już wniosek patentowy",
-      "sourceUrl": "https://cdaction.pl/newsy/activision-chce-zeby-boty-w-grach-gadaly-tak-jak-gracze-na-discordzie-firma-opublikowala-juz-wniosek-patentowy/",
-      "publishedAt": "2026-11-23T09:02+01:00",
-      "summary": "Pyszny pomysł, wujku!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/cod-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Najtaniej na polskim rynku - Kingdom Come Deliverance 2 na PS5 za 89 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/398497/najtaniej-na-polskim-rynku-kingdom-come-deliverance-2-na-ps5-za-149-zl.html",
-      "publishedAt": "2026-11-23T08:59+01:00",
-      "summary": "W zaufanym sklepie Media Expert najtaniej na polskim rynku nabędziemy grę Kingdom Come Deliverance 2.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e86a6f49d1c9c3d0311a/e86a6f49d1c9c3d0311a.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "W końcu znakomita oferta promocyjna na Pragmata! Gra od 159 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434213/w-koncu-znakomita-oferta-promocyjna-na-pragmata-gra-od-159-zl.html",
-      "publishedAt": "2026-11-23T08:57+01:00",
-      "summary": "W sklepie Media Expert oraz Allegro nabędziemy w rekordowo niskiej cenie grę Pragmata.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5efe34be30354395368f/5efe34be30354395368f.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Konsola Nintendo Switch 2 Zelda 40th Anniversary Edition + TLoZ Ocarina of Time za 2579 zł w MediaMarkt",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-zelda-40th-anniversary-edition-tloz-ocarina-of-time-za-2579-zl-w-mediamarkt/",
-      "publishedAt": "2026-11-23T08:56+01:00",
-      "summary": "Wybierając zestaw na karcie produktu, możecie w świetnej cenie nabyć jubileuszową edycję Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition wraz z odświeżonym wydaniem Ocarina of Time. Zestaw składający się z konsoli i gry może być wasz za 2579 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/zelda-konsola-ocarina-of-time-nintendo-switch-2-40th-anniversary-edition-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PlayStation Black Friday! Saros za 99 zł i wiele więcej hitów na PS5 i PS4",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434212/playstation-black-friday-saros-za-99-zl-i-wiele-wiecej-hitow-na-ps5-i-ps4.html",
-      "publishedAt": "2026-11-23T08:53+01:00",
-      "summary": "W sieci Media Expert wyruszyło PlayStation Black Friday, dzięki któremu nabędziemy wiele gier na PlayStation we wspaniałych cenach.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/552263c396ad4ef8497d/552263c396ad4ef8497d.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Za to uwielbiamy Rockstar Games. GTA 6 zawstydza Red Dead Redemption 2",
-      "sourceUrl": "https://www.ppe.pl/news/434206/za-to-uwielbiamy-rockstar-games-gta-6-zawstydza-red-dead-redemption-2.html",
-      "publishedAt": "2026-11-23T08:49+01:00",
-      "summary": "Wielkie napady i filmowa fabuła to jedno w GTA 6, ale bądźmy szczerzy - gry Rockstar Games kochamy przede wszystkim za te chwile, kiedy rzucamy główny wątek w kąt i po prostu ruszamy przed siebie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/66bccfcc6ad91fd59f61/66bccfcc6ad91fd59f61.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 wprowadza pierwszą w serii niebinarną postać. Gracze nie mogą jej skrzywdzić",
-      "sourceUrl": "https://www.ppe.pl/news/434169/gta-6-wprowadza-pierwsza-w-serii-niebinarna-postac-gracze-nie-moga-jej-skrzywdzic.html",
-      "publishedAt": "2026-11-23T08:40+01:00",
-      "summary": "GTA 6 jest już dostępne, a gracze każdego dnia odkrywają kolejne szczegóły przygotowane przez Rockstar Games. Najnowsza odsłona kultowej serii nie tylko zachwyca rozbudowanym światem, ale również wprowadza rozwiązania, których wcześniej w G...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/bbd2c313bf2a3bc14a76/bbd2c313bf2a3bc14a76.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Cyberpunk 2 nie zamierza rywalizować z GTA 6. Gra Rockstar wywołuje „depresję”",
-      "sourceUrl": "https://www.ppe.pl/news/434193/cyberpunk-2-nie-zamierza-rywalizowac-z-gta-6-gra-rockstar-wywoluje-depresje.html",
-      "publishedAt": "2026-11-23T07:50+01:00",
-      "summary": "GTA 6 zachwyca nie tylko graczy, ale również deweloperów, którzy doskonale zdają sobie sprawę z ogromu pracy włożonej w najnowszą produkcję Rockstar Games. Twórcy z całego świata komentują skalę przedsięwzięcia, a niektórzy otwarcie pr...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/454a49d9dd7957346423/454a49d9dd7957346423.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "f26f231b7053913fafbbb72dd7ff38d12a02c568e67e868dce358741fe45e5cb"
+  "editorialHash": "b396c29b9cff5ecb2ae2f32992ff2ecc9b0f8ff9adc0b5178000237ad93d8b40"
 }
