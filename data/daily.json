@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T20:01+01:00",
+  "updatedAt": "2026-11-23T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Steam Awards 2026 zaskakuje nowościami. Gracze wybiorą najlepsze gry roku w aż 14 kategoriach, wystartowały nominacje",
-    "summary": "Valve rozpoczęło przyjmowanie nominacji do Nagród Steam 2026. Jubileuszowa edycja plebiscytu przynosi sporo zmian, w tym nowe kategorie i powrót kilku zapomnianych wyróżnień.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/steam-awards-2026-zaskakuje-nowosciami-gracze-wybiora-najlepsze-g/z432438",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533159575.jpg"
+    "title": "GTA 6 pozwala odbyć nostalgiczną podróż w przeszłość i powrócić do Vice City z lat 80. Zostanie po tym piękna pamiątka",
+    "summary": "Zaledwie kilka dni po premierze GTA 6 udało się rozwiązać jedną z najbardziej skomplikowanych zagadek przygotowanych przez Rockstar Games.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-pozwala-odbyc-nostalgiczna-podroz-w-przeszlosc-i-powrocic-d/zd3243a",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533162403.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 pozwala odbyć nostalgiczną podróż w przeszłość i powrócić do Vice City z lat 80. Zostanie po tym piękna pamiątka",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-pozwala-odbyc-nostalgiczna-podroz-w-przeszlosc-i-powrocic-d/zd3243a",
+      "publishedAt": "2026-11-23T21:45+01:00",
+      "summary": "Zaledwie kilka dni po premierze GTA 6 udało się rozwiązać jedną z najbardziej skomplikowanych zagadek przygotowanych przez Rockstar Games.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533162403.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Remake Assassin’s Creed 2 nie powstaje, ale wystarczy jedno słowo Ubisoftu, by Ezio Auditore powrócił w kultowym wydaniu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/remake-assassins-creed-2-nie-powstaje-ale-wystarczy-jedno-slowo-u/z532439",
+      "publishedAt": "2026-11-23T21:26+01:00",
+      "summary": "Aktor głosowy Ezia Auditore z Assassin’s Creed 2 chętnie powróciłby do roli, gdyby Ubisoft postanowił opracować remake owej gry.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533161493.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje z okazji Black Friday 2026 na Steam. Rekordowo tanie 007 First Light za 114,50 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/promocje-z-okazji-black-friday-2026-na-steam-rekordowo-tanie-007-first-light-za-11450-zl/",
+      "publishedAt": "2026-11-23T21:00+01:00",
+      "summary": "Łowcy, choć w tym roku brak jest oficjalnej wyprzedaży Black Friday 2026 na Steam, to jednak wielu wydawców postanowiło znacznie obniżyć ceny swoich produkcji z okazji zbliżającego się Czarnego Piątku. W ramach oferty wybrane gry na PC w sklepie Valve dostępne są w cenach niższych o nawet -90%. Na szczególne wyróżnienie zasługuje tutaj 007 First Light w historycznie najniższej cenie. Ciesząca się uznaniem graczy produkcja studia IO Interactive może być Wasza za rekordowe 114,50 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocje-z-okazji-Black-Friday-2026-na-Steam.-Rekordowo-tanie-007-First-Light-za-11450-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Steam Awards 2026 zaskakuje nowościami. Gracze wybiorą najlepsze gry roku w aż 14 kategoriach, wystartowały nominacje",
@@ -20,6 +47,15 @@
       "summary": "Valve rozpoczęło przyjmowanie nominacji do Nagród Steam 2026. Jubileuszowa edycja plebiscytu przynosi sporo zmian, w tym nowe kategorie i powrót kilku zapomnianych wyróżnień.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533159575.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 w 60 FPS na Xboksach?! Eksperci potwierdzają szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/434292/gta-6-w-60-fps-na-xboksach-eksperci-potwierdzaja-szczegoly.html",
+      "publishedAt": "2026-11-23T20:44+01:00",
+      "summary": "GTA 6 w 60 klatkach na sekundę? Już w weekend pierwsi gracze potwierdzili, że prosty trick pozwala odblokować płynność gry na Xboksach, więc eksperci postanowili dokładnie zbadać sprawę. Wyniki testów pokazują, dlaczego Rockstar zdecydował...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -32,12 +68,30 @@
     },
     {
       "sourceName": "PPE",
+      "title": "Werwulf i... przerwa. Robert Eggers przekazał niespodziewane wieści",
+      "sourceUrl": "https://www.ppe.pl/news/434285/werwulf-i-przerwa-robert-eggers-przekazal-niespodziewane-wiesci.html",
+      "publishedAt": "2026-11-23T20:28+01:00",
+      "summary": "Robert Eggers, reżyser takich filmów jak „Czarownica”, „Lighthouse” i „Nosferatu”, nie zamierza na razie na stałe pozostawać w świecie horroru. Twórca przyznał, że po ponad dekadzie pracy z tym gatunkiem chce spróbować czegoś inne...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/625bc199fd4b5af124ed/625bc199fd4b5af124ed.webp"
+    },
+    {
+      "sourceName": "PPE",
       "title": "DOOM: The Dark Ages miało być grą na wyłączność Xboxa. Plany Microsoftu uległy zmianie",
       "sourceUrl": "https://www.ppe.pl/news/434303/doom-the-dark-ages-mialo-byc-gra-na-wylacznosc-xboxa-plany-microsoftu-ulegly-zmianie.html",
       "publishedAt": "2026-11-23T20:01+01:00",
       "summary": "DOOM: The Dark Ages pierwotnie powstawało z myślą o jednej platformie. Jak ujawnili byli pracownicy id Software, podczas produkcji strzelanka miała być tytułem ekskluzywnym dla Xboxa. Ostatecznie jednak Microsoft zmienił podejście, a gra trafił...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/1240b37f9b48b7f1973a/1240b37f9b48b7f1973a.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ruszyły nominacje do Nagród Steam 2026. Wybierz ulubione gry w 14 kategoriach!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/ruszyly-nominacje-do-nagrod-steam-2026-wybierz-ulubione-gry-w-14-kategoriach/",
+      "publishedAt": "2026-11-23T20:01+01:00",
+      "summary": "Zmiany w kalendarzu wyprzedaży Steam pozbawiły nas dedykowanej wyprzedaży z okazji Black Friday, ale znacznie przyspieszyły start nominacji Nagród Steam 2026. Przez najbliższe siedem dni (do 30 listopada, godzina 19:00) będziecie mogli oddawać głosy na swoje ulubione produkcje, które w ciągu ostatnich 12 miesięcy zadebiutowały na platformie Valve. Pięć tytułów cieszących się największą popularnością w każdej spośród 14 kategorii trafi do wielkiego finału. Ogłoszenie zwycięzców nastąpi 2 stycznia 2026 roku, w ramach zakończenia Steam Winter Sale 2026. Warto zaznaczyć, że jest to jubileuszowa 10. gala Steam Awards , dlatego w ramach specjalnej kategorii „Galeria sław” możecie wskazać najlepszą grę minionej dekady spośród dziesięciu dostępnych GOTY. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Ruszyly-nominacje-do-Nagrod-Steam-2026.-Wybierz-ulubione-gry-w-14-kategoriach_miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -227,60 +281,6 @@
       "summary": "The Last of Us Part II Remastered na PC doczekało się darmowego trybu wieloosobowego.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/6ee0bb0115749eb32f43/6ee0bb0115749eb32f43.png"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Grał w GTA 6 i nagle zobaczył znajomą okolicę. Po wyjściu ze swojego pokoju znalazł się w identycznym otoczeniu co w grze",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gral-w-gta-6-i-nagle-zobaczyl-znajoma-okolice-po-wyjsciu-ze-swoje/z232427",
-      "publishedAt": "2026-11-23T17:00+01:00",
-      "summary": "Czy ten gracz żyje w Matriksie? Okazuje się, że GTA 6 w idealny sposób odwzorowało jego dzielnicę – immersja nie zna tutaj granic.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533134202.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Fan GTA 6 znalazł sposób, by obejść blokadę 30 fps-ów na Xboksie. Miało to jednak niespodziewane konsekwencje",
-      "sourceUrl": "https://cdaction.pl/newsy/fan-gta-6-znalazl-sposob-by-obejsc-blokade-30-fps-ow-na-xboksie-mialo-to-jednak-niespodziewane-konsekwencje/",
-      "publishedAt": "2026-11-23T17:00+01:00",
-      "summary": "Gotowi na festiwal przyspieszonych animacji?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTAVI-11-1-1260x709.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na Sony DualSense Edge w RTV Euro AGD. Specjalne kontrolery do PS5 za 739,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocja-na-sony-dualsense-edge-w-rtv-euro-agd-specjalne-kontrolery-do-ps5-za-73999-zl/",
-      "publishedAt": "2026-11-23T16:49+01:00",
-      "summary": "W internetowym sklepie RTV Euro AGD pojawiła się wyjątkowa promocja na kontroler Sony DualSense Edge. Specjalna, ulepszona wersja bezprzewodowego pada dedykowanego konsoli PlayStation 5 dostępna jest za 739,99 zł. Podana kwota pojawi się w koszyku po wykorzystaniu limitowanego kodu zniżkwoego. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2022/08/DualSense-Edge_miniaturka-scaled.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wykradziona wersja GTA 6 na Xboksa jest kompletna. Brakujący plik ujrzał światło dzienne",
-      "sourceUrl": "https://www.ppe.pl/news/434271/wykradziona-wersja-gta-6-na-xboksa-jest-kompletna-brakujacy-plik-ujrzal-swiatlo-dzienne.html",
-      "publishedAt": "2026-11-23T16:42+01:00",
-      "summary": "Wygląda na to, że pojawienie się nieautoryzowanej konwersji GTA 6 na PC to kwestia czasu. Cyberleek, który kilka miesięcy temu zasypywał Internet nagraniami z wczesnej wersji gry, dotrzymał słowa i dokończył publikację konsolowej wersji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/93f540f52ca0944f69c9/93f540f52ca0944f69c9.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Darkest Dungeon 2 doczeka się nowego dodatku. Grywalna postać i świeży tryb właśnie zostały zapowiedziane",
-      "sourceUrl": "https://cdaction.pl/newsy/darkest-dungeon-2-doczeka-sie-nowego-dodatku-grywalna-postac-i-swiezy-tryb-wlasnie-zostaly-zapowiedziane/",
-      "publishedAt": "2026-11-23T16:30+01:00",
-      "summary": "Zdeprawowany lud domaga się igrzysk!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-23T123945.338-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Kolejna porażka Denuvo! Phantom Blade Zero zostało złamane",
-      "sourceUrl": "https://www.ppe.pl/news/434259/kolejna-porazka-denuvo-phantom-blade-zero-zostalo-zlamane.html",
-      "publishedAt": "2026-11-23T16:30+01:00",
-      "summary": "Phantom Blade Zero doczekało się nieoficjalnego obejścia zabezpieczeń Denuvo.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/cf222a2072d152c81bcc/cf222a2072d152c81bcc.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
+  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
 }
