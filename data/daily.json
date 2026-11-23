@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T17:01+01:00",
+  "updatedAt": "2026-11-23T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "W GTA 6 Rockstar „dojrzał”, a kobieta w głównej roli to potwierdza. „Zmiana, na którą czekaliśmy zdecydowanie zbyt długo”",
-    "summary": "Weteran Rockstara nazwał „dojrzewaniem” wprowadzenie kobiecej protagonistki do GTA 6. To „zmiana, na którą czekaliśmy zdecydowanie zbyt długo”.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-rockstar-dojrzal-a-kobieta-w-glownej-roli-to-potwierdza-z/zf32433",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533148472.jpg"
+    "title": "5 dni po premierze GTA 6 haker Cyberleek spełnia groźbę wobec Rockstara i Take-Two [Aktualizacja]",
+    "summary": "Po premierze GTA 6 do sieci wrócił Cyberleek, który twierdzi, że opublikował kompletny build gry na Xboksa z listopada 2026 roku.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/2-dni-po-premierze-gta-6-wraca-cyberleek-twierdzi-ze-udostepnil-n/z5323d9",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/532857988.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "5 dni po premierze GTA 6 haker Cyberleek spełnia groźbę wobec Rockstara i Take-Two [Aktualizacja]",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/2-dni-po-premierze-gta-6-wraca-cyberleek-twierdzi-ze-udostepnil-n/z5323d9",
+      "publishedAt": "2026-11-23T18:30+01:00",
+      "summary": "Po premierze GTA 6 do sieci wrócił Cyberleek, który twierdzi, że opublikował kompletny build gry na Xboksa z listopada 2026 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/532857988.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Pierwsza po premierze aktualizacja do GTA 6 jest już dostępna dla wszystkich graczy. Usuwa dwa poważne błędy, które psuły grę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pierwsza-po-premierze-aktualizacja-do-gta-6-jest-juz-dostepna-dla/z032434",
+      "publishedAt": "2026-11-23T18:25+01:00",
+      "summary": "Poznaliśmy szczegóły najnowszej łatki do GTA 6. Rockstar Games wziął na celownik kilka uciążliwych błędów, w tym takie, przez które gracze mogli tracić postępy lub utknąć w fabule.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533150648.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "NVIDIA wciąż niszczy dyski SSD! Nowy sterownik nie rozwiązał pilnego problemu",
+      "sourceUrl": "https://www.ppe.pl/news/434262/nvidia-wciaz-niszczy-dyski-ssd-nowy-sterownik-nie-rozwiazal-pilnego-problemu.html",
+      "publishedAt": "2026-11-23T18:00+01:00",
+      "summary": "Najnowszy sterownik NVIDIA GeForce 621.35 Hotfix nie wyeliminował błędu powodującego nadmierny zapis danych na dyskach SSD.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/92e6d949b00b12c97bbd/92e6d949b00b12c97bbd.webp"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "W GTA 6 Rockstar „dojrzał”, a kobieta w głównej roli to potwierdza. „Zmiana, na którą czekaliśmy zdecydowanie zbyt długo”",
@@ -29,6 +56,60 @@
       "summary": "Przemierzając Vice City w GTA 6 lepiej uważajcie na niektóre tunele. Okazuje się, że w mieście najwyraźniej rezyduje podejrzany, kreskówkowy Kojot.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533148456.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na ilustrowane wydanie Władcy Pierścieni (J.R.R. Tolkien) za 150 zł na Allegro!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-ilustrowane-wydanie-wladcy-pierscieni-j-r-r-tolkien-za-150-zl-na-allegro/",
+      "publishedAt": "2026-11-23T17:48+01:00",
+      "summary": "Bezpośrednio na Allegro możecie zakupić tanio trylogię Władcy Pierścieni w specjalnej edycji bogato ozdobionej ilustracjami autorstwa Alana Lee. Arcydzieło J.R.R. Tolkiena oferowane jest w postaci trzech tomów w twardej oprawie (1312 stron) dystrybuowanych przez wydawnictwo Zysk i S-ka . Za przekład odpowiada natomiast Jerzy Łoziński, czyli twórca „legendarnego” tłumaczenia zawierającego takie perełki jak: Bilbo Bagosz , Krzaty czy Łazik . W tym przypadku jest to wersja poprawiona – pozbawiona wszechobecnych spolszczeń, jednak wprawne oko dostrzeże, że pierwszy tom zamiast najpopularniejszej u nasz wersji z Drużyną Pierścienia, zatytułowano jako „Bractwo Pierścienia” . Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-ilustrowane-wydanie-Wladcy-Pierscieni-J.R.R.-Tolkien-za-150-zl-na-Allegro_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ten serial animowany wygląda jak krzyżówka Queen’s Domain z Eye of the Beholder. Pierwszy odcinek „Crawlers” jest już dostępny za darmo",
+      "sourceUrl": "https://cdaction.pl/newsy/ten-serial-animowany-wyglada-jak-krzyzowka-queens-domain-z-eye-of-the-beholder-pierwszy-odcinek-crawlers-jest-juz-dostepny-za-darmo/",
+      "publishedAt": "2026-11-23T17:45+01:00",
+      "summary": "Gotowi zejść do podziemi?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-23T142206.699-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Haker od głośnego wycieku GTA 6 usłyszał wyrok. Sąd skazał go na 7 lat i tego samego dnia wypuścił na wolność",
+      "sourceUrl": "https://www.ppe.pl/news/434272/haker-od-glosnego-wycieku-gta-6-uslyszal-wyrok-sad-skazal-go-na-7-lat-i-tego-samego-dnia-wypuscil-na-wolnosc.html",
+      "publishedAt": "2026-11-23T17:45+01:00",
+      "summary": "Grand Theft Auto VI jest już dostępne na konsolach obecnej generacji i oprócz oczekiwania na nową produkcję Rockstar Games, która zapisała się w historii, kończy się głośna sprawa Ariona Kurtaja.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/76746f4c142b292ed3b5/76746f4c142b292ed3b5.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Driveclub pomoże odświeżyć kultowe wyścigi z PS3! Błoto, realistyczne opady deszczu i inne efekty graficzne",
+      "sourceUrl": "https://www.ppe.pl/news/434260/driveclub-pomoze-odswiezyc-kultowe-wyscigi-z-ps3-bloto-realistyczne-opady-deszczu-i-inne-efekty-graficzne.html",
+      "publishedAt": "2026-11-23T17:30+01:00",
+      "summary": "MotorStorm: Pacific Rift może powrócić w zupełnie nowej odsłonie na PC.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/cd7b6a91c87d5a29633c/cd7b6a91c87d5a29633c.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Dostawa do Paczkomatów InPost za darmo dla zamówień od 59 zł w sklepie Media Expert!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/dostawa-do-paczkomatow-inpost-za-darmo-dla-zamowien-od-59-zl-w-sklepie-media-expert/",
+      "publishedAt": "2026-11-23T17:14+01:00",
+      "summary": "Łowcy, z okazji Black Friday 2026 sieć sklepów Media Expert łączy siły z firmą InPost i gwarantuje Wam darmową dostawę do Paczkomatów. Z okazji możecie skorzystać w przypadku dowolnego zamówienia o wartości minimum 59 zł, zamiast standardowych 99 zł. Oferta obowiązuje do 27 listopada, do godziny 23:00 i obejmuje cały asortyment internetowego sklepu Media Expert z wyłączeniem kategorii OUTLET . Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Dostawa-do-Paczkomatow-InPost-za-darmo-dla-zamowien-od-59-zl-w-sklepie-Media-Expert_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Hollow Knight i HK Silksong na PS5, XSX i Switch 2 z premierą w ten piątek. Gdzie kupić gry najtaniej?",
+      "sourceUrl": "https://lowcygier.pl/preordery/pudelkowe-hollow-knight-i-hk-silksong-na-ps5-xsx-i-switch-2-z-premiera-w-ten-piatek-gdzie-kupic-gry-najtaniej/",
+      "publishedAt": "2026-11-23T17:03+01:00",
+      "summary": "W tym tygodniu czeka na nas jeszcze jedna duża pudełkowa premiera. A nawet dwie! W piątek na rynek trafi Hollow Knight Silksong w wersji na PlayStation 5, Xbox Series X oraz Nintendo Switch 2. Wtedy też dostaniemy reedycję pierwszego HK na urządzenia najnowszej generacji, niestety, z pomięciem amerykańskiej konsoli. Przygotowaliśmy dla Was krótki wpis, z którego dowiecie się, gdzie zakupicie obie fizyczne edycje metroidvanii od australijskiego studia Team Cherry najtaniej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Hollow-Knight-preorder-Silksong-logo-224x224.jpg"
     },
     {
       "sourceName": "PPE",
@@ -56,6 +137,15 @@
       "summary": "Czy ten gracz żyje w Matriksie? Okazuje się, że GTA 6 w idealny sposób odwzorowało jego dzielnicę – immersja nie zna tutaj granic.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533134202.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Fan GTA 6 znalazł sposób, by obejść blokadę 30 fps-ów na Xboksie. Miało to jednak niespodziewane konsekwencje",
+      "sourceUrl": "https://cdaction.pl/newsy/fan-gta-6-znalazl-sposob-by-obejsc-blokade-30-fps-ow-na-xboksie-mialo-to-jednak-niespodziewane-konsekwencje/",
+      "publishedAt": "2026-11-23T17:00+01:00",
+      "summary": "Gotowi na festiwal przyspieszonych animacji?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTAVI-11-1-1260x709.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -191,96 +281,6 @@
       "summary": "Wygląda na to, że Koei Tecmo szykuje kolejne wydanie Nioh 3.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/11ea20b5af17986cb383/11ea20b5af17986cb383.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wielki zwrot akcji w NVIDIA! Jensen Huang ponownie staje na czele firmy!",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/wielki-zwrot-akcji-w-nvidia-jensen-huang-ponownie-staje-na-czele-firmy/",
-      "publishedAt": "2026-11-23T15:42+01:00",
-      "summary": "Dopiero co informowaliśmy Was o tym, że Jensen Huang zrezygnował z bycia szefem NVIDIA, a jego stanowisko, do czasu wyłonienia nowego prezesa, przejmie dyrektor finansowa Colette Kress. Dziś okazało się natomiast, że… żadnych wyborów nie będzie, gdyż po 11 dniach poza firmą, Jensen powraca na stołek CEO. Informację tę przekazał Zarząd NVIDIA. Jednym z powodów była opinia prezydenta USA i jego współpracowników. Rada miała otrzymać opinie od najwyższych rangą przedstawicieli rządu Stanów Zjednoczonych i na tej podstawie uznano, że przywrócenie Huanga nie stanowi zagrożenia dla bezpieczeństwa narodowego. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Jensen-Huang-NVIDIA-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 mogło już przebić roczne prognozy. W mniej niż tydzień niemal 45 mln sprzedanych egzemplarzy",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moglo-juz-przebic-roczne-prognozy-w-mniej-niz-tydzien-niema/z13242f",
-      "publishedAt": "2026-11-23T15:38+01:00",
-      "summary": "Sprzedaż Grand Theft Auto 6 mogła „nieco” wyprzedzić nawet najbardziej optymistyczne prognozy analityków.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533140489.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Malezja chce łapać przemytników kart graficznych NVIDII dzięki rachunkom za prąd. Władze znalazły nietypowy sposób na tropienie chipów trafiających do Chin",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/malezja-chce-lapac-przemytnikow-kart-graficznych-nvidii-dzieki-ra/z03242e",
-      "publishedAt": "2026-11-23T15:30+01:00",
-      "summary": "Malezja chce, żeby operatorzy centrów danych ujawniali kluczowe informacje na temat zarządzanych obiektów. Jednym z celów nowych regulacji jest zablokowanie przemytu układów do Chin.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533139780.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Znany analityk podaje szaloną liczbę sprzedanych kopii GTA 6. „To największa premiera w historii branży rozrywkowej”",
-      "sourceUrl": "https://cdaction.pl/newsy/znany-analityk-podaje-szalona-liczbe-sprzedanych-kopii-gta-6-to-najwieksza-premiera-w-historii-branzy-rozrywkowej/",
-      "publishedAt": "2026-11-23T15:30+01:00",
-      "summary": "Powiedzieć, że robi wrażenie, to jak nie powiedzieć zupełnie nic.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-10.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Finałowy zwiastun „Avengers: Doomsday” już jest! Marvel wyjaśnia przeszłość Steve’a Rogersa",
-      "sourceUrl": "https://cdaction.pl/kultura/finalowy-zwiastun-avengers-doomsday-juz-jest-marvel-wyjasnia-przeszlosc-stevea-rogersa/",
-      "publishedAt": "2026-11-23T15:28+01:00",
-      "summary": "Do premiery kolejnego widowiska MCU pozostał mniej niż miesiąc.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Avengers.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Jensen Huang wraca na stanowisko szefa NVIDIA! Zarząd podjął jednogłośną decyzję",
-      "sourceUrl": "https://www.ppe.pl/news/434266/jensen-huang-wraca-na-stanowisko-szefa-nvidia-zarzad-podjal-jednoglosna-decyzje.html",
-      "publishedAt": "2026-11-23T15:22+01:00",
-      "summary": "Rada dyrektorów Nvidii przywróciła Jensena Huanga na stanowiska prezesa, prezydenta oraz członka zarządu ze skutkiem natychmiastowym.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/22d17f37743ad0f115c6/22d17f37743ad0f115c6.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "3 klasyczne strategie wróciły na Steama. Gracze chwalą reedycje, a jedna ma aż 95% pozytywnych opinii",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/3-klasyczne-strategie-wrocily-na-steama-gracze-chwala-reedycje-a/zf3242d",
-      "publishedAt": "2026-11-23T15:19+01:00",
-      "summary": "Kilka dni temu na Steamie zadebiutowały reedycje trzech klasycznych pecetowych strategii. Cała trójka spotkała się z ciepłym przyjęciem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533139567.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Black Friday 2026 w Loaded. Polecane promocje na klucze Steam",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/wyprzedaz-black-friday-2026-w-loaded-polecane-promocje-na-klucze-steam/",
-      "publishedAt": "2026-11-23T15:16+01:00",
-      "summary": "Po niedawnej, małej rozgrzewce, przyszedł czas na właściwą promocję związaną z Black Friday w sklepie Loaded. Na liście przecenionych gier, znajdziecie między innymi Hogwarts Legacy, Warhammer 40,000: Space Marine 2, Frostpunk 2, czy też The First Berserker: Kazan. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/loaded-black-friday-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Avengers: Doomsday na finalnym zwiastunie! Marvel odkrywa karty przed wielką premierą",
-      "sourceUrl": "https://www.ppe.pl/news/434263/avengers-doomsday-na-finalnym-zwiastunie-marvel-odkrywa-karty-przed-wielka-premiera.html",
-      "publishedAt": "2026-11-23T15:11+01:00",
-      "summary": "Marvel Studios opublikowało ostateczny, finałowy zwiastun superprodukcji Avengers: Doomsday.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4202da4d1213f3b6426a/4202da4d1213f3b6426a.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Ciri w Wiedźminie 4 jest „znacznie bardziej porywcza i kieruje się emocjami” bardziej niż Geralt",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ciri-w-wiedzminie-4-jest-jest-znacznie-bardziej-porywcza-i-kieruj/zd3242b",
-      "publishedAt": "2026-11-23T15:05+01:00",
-      "summary": "Twórcy Wiedźmina 4 mają na uwadze, że Ciri to własna postać, z odmiennym charakterem od Geralta.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533137835.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
+  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
 }
