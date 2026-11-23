@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T19:01+01:00",
+  "updatedAt": "2026-11-23T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 na PC „prawie się uruchamia”. Moderzy wykonali ważny krok, ale Rockstar i Take-Two raczej nie puszczą tego płazem",
-    "summary": "GTA 6 wciąż nie ma oficjalnej daty premiery na PC, ale moderzy nie zamierzają czekać na Rockstar Games. Dzięki najnowszemu wyciekowi poczynili już pierwsze postępy, które mogą przybliżyć grę do uruchomienia na komputerach.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-na-pc-prawie-sie-uruchamia-moderzy-wykonali-wazny-krok-ale/z232436",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533155996.jpg"
+    "title": "Steam Awards 2026 zaskakuje nowościami. Gracze wybiorą najlepsze gry roku w aż 14 kategoriach, wystartowały nominacje",
+    "summary": "Valve rozpoczęło przyjmowanie nominacji do Nagród Steam 2026. Jubileuszowa edycja plebiscytu przynosi sporo zmian, w tym nowe kategorie i powrót kilku zapomnianych wyróżnień.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/steam-awards-2026-zaskakuje-nowosciami-gracze-wybiora-najlepsze-g/z432438",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533159575.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Steam Awards 2026 zaskakuje nowościami. Gracze wybiorą najlepsze gry roku w aż 14 kategoriach, wystartowały nominacje",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/steam-awards-2026-zaskakuje-nowosciami-gracze-wybiora-najlepsze-g/z432438",
+      "publishedAt": "2026-11-23T20:53+01:00",
+      "summary": "Valve rozpoczęło przyjmowanie nominacji do Nagród Steam 2026. Jubileuszowa edycja plebiscytu przynosi sporo zmian, w tym nowe kategorie i powrót kilku zapomnianych wyróżnień.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533159575.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Po 25 latach Microsoft miał dać graczom wolność, za którą nauczył ich płacić. Nowy plan na Xbox Helix może to jednak wykluczać",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-25-latach-microsoft-mial-dac-graczom-wolnosc-za-ktora-nauczyl/z332437",
+      "publishedAt": "2026-11-23T20:37+01:00",
+      "summary": "Xbox Helix miał zrewolucjonizować rynek konsol nie tylko dzięki połączeniu z pecetem. Nowa konsola mogła zerwać z niemal 25-letnią tradycją, ale ambitne plany mogą ostatecznie nie doczekać się realizacji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533158570.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "DOOM: The Dark Ages miało być grą na wyłączność Xboxa. Plany Microsoftu uległy zmianie",
+      "sourceUrl": "https://www.ppe.pl/news/434303/doom-the-dark-ages-mialo-byc-gra-na-wylacznosc-xboxa-plany-microsoftu-ulegly-zmianie.html",
+      "publishedAt": "2026-11-23T20:01+01:00",
+      "summary": "DOOM: The Dark Ages pierwotnie powstawało z myślą o jednej platformie. Jak ujawnili byli pracownicy id Software, podczas produkcji strzelanka miała być tytułem ekskluzywnym dla Xboxa. Ostatecznie jednak Microsoft zmienił podejście, a gra trafił...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/1240b37f9b48b7f1973a/1240b37f9b48b7f1973a.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 na PC „prawie się uruchamia”. Moderzy wykonali ważny krok, ale Rockstar i Take-Two raczej nie puszczą tego płazem",
@@ -22,6 +49,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533155996.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Serialowy „God of War” z kolejnym powrotem z gier! Znamy odtwórczynię roli żony Kratosa",
+      "sourceUrl": "https://cdaction.pl/newsy/serialowy-god-of-war-z-kolejnym-powrotem-z-gier-znamy-odtworczynie-roli-zony-kratosa/",
+      "publishedAt": "2026-11-23T19:49+01:00",
+      "summary": "Casting marzeń stał się faktem!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/06/God-of-War-Laufey-2-1260x624.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Haker odpowiedzialny za potężny wyciek z GTA 6 usłyszał zaskakujący wyrok. Ważną rolę odegrały wiek i talent sprawcy",
       "sourceUrl": "https://www.gry-online.pl/newsroom/haker-odpowiedzialny-za-potezny-wyciek-z-gta-6-uslyszal-zaskakuja/z132435",
@@ -29,6 +65,33 @@
       "summary": "Haker odpowiedzialny za kradzież materiałów z GTA 6 usłyszał wyrok. Przez najbliższe lata jego aktywność w sieci będzie kontrolowana.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533154475.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 odbiera graczy Call of Duty i Fortnite. Spadki aktywności są ogromne",
+      "sourceUrl": "https://www.ppe.pl/news/434273/gta-6-odbiera-graczy-call-of-duty-i-fortnite-spadki-aktywnosci-sa-ogromne.html",
+      "publishedAt": "2026-11-23T19:29+01:00",
+      "summary": "Premiera GTA 6 mocno odbiła się na aktywności graczy w innych popularnych produkcjach. Według danych firmy analitycznej Alinea Analytics, debiut najnowszej gry Rockstar Games przyczynił się do wyraźnego odpływu użytkowników z Call of Duty i Fo...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/284184fc7b34b085c1af/284184fc7b34b085c1af.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż gier na Nintendo Switch 2 w Media Expert. Pudełkowa Pragmata już za 179,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/wyprzedaz-gier-na-nintendo-switch-2-w-media-expert-pudelkowa-pragmata-juz-za-17999-zl/",
+      "publishedAt": "2026-11-23T19:07+01:00",
+      "summary": "W ramach wyprzedaży Black Friday 2026, w internetowym sklepie Media Expert, możecie zakupić tanio wybrane gry pudełkowe na Nintendo Switch 2. Na szczególną uwagę zasługuje tutaj fizyczna edycja jednej z najciekawszych produkcji tego roku, czyli Pragmata 179,99 zł. Warto dodać, że dzieło studia CAPCOM oferowane jest w postaci GKC. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-gier-na-Nintendo-Switch-2-w-Media-Expert.-Pudelkowa-Pragmata-juz-za-17999-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Football Manager 27 ponownie załatany. Sports Interactive zapewnia, że to dopiero początek!",
+      "sourceUrl": "https://www.ppe.pl/news/434275/football-manager-27-ponownie-zalatany-sports-interactive-zapewnia-ze-to-dopiero-poczatek.html",
+      "publishedAt": "2026-11-23T19:02+01:00",
+      "summary": "Sports Interactive zapowiedziało kolejną aktualizację do Football Managera 27.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f9f24a0bcd9627f712a4/f9f24a0bcd9627f712a4.jpg"
     },
     {
       "sourceName": "PPE",
@@ -218,69 +281,6 @@
       "summary": "Phantom Blade Zero doczekało się nieoficjalnego obejścia zabezpieczeń Denuvo.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/cf222a2072d152c81bcc/cf222a2072d152c81bcc.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Gracze WoW Forever organizują wielkie marsze przez ziemie wroga i inwazje na stolice przeciwnika. „Najlepsza zabawa w WoW-ie od jakichś 15 lat”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-wow-forever-organizuja-wielkie-marsze-przez-ziemie-wroga-i/zd32431",
-      "publishedAt": "2026-11-23T16:26+01:00",
-      "summary": "Społeczność WoW Forever zaczyna organizować coraz bardziej imponujące inicjatywy. Wielkie pochody na stolice wroga mogą być dopiero początkiem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533143582.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Ładowarka USB-C Motorola TurboPower 68W za 69 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-usb-c-motorola-turbopower-68w-za-69-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-23T16:24+01:00",
-      "summary": "Szybka, jednoportowa ładowarka Motorola TurboPower, pojawiła się w dobrej cenie w ofercie polskiego oddziału sklepu Amazon. Model oferujący moc 68W, z kablem USB-C w zestawie, kosztuje 69 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/motorola-turbopower-usb-c-68W-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO Creator 3w1 Dzikie Zwierzęta Dumny Lew już za 169,99 zł (cena kat. 274,99 zł) na Allegro",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-creator-3w1-dzikie-zwierzeta-dumny-lew-juz-za-16999-zl-cena-kat-27499-zl-na-allegro/",
-      "publishedAt": "2026-11-23T16:20+01:00",
-      "summary": "Dobra okazja na zakup zestawu LEGO Creator 3w1 Dzikie Zwierzęta Dumny Lew, jest teraz do dorwania w ramach Allegro Black Weeks. Model składający się z 839 elementów, z którego możecie złożyć króla dżungli, lwicę lub dwa lwiątka, dostępny jest w historycznie najniższej cenie wynoszącej 169,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/LEGO-31386-Creator-3w1-Dzikie-Zwierzeta_-Dumny-Lew_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Jensen Huang wraca na stanowisko CEO Nvidii. Zarząd zmienił zdanie po zaledwie kilkunastu dniach",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/jensen-huang-wraca-na-stanowisko-ceo-nvidii-zarzad-zmienil-zdanie/zc32430",
-      "publishedAt": "2026-11-23T16:16+01:00",
-      "summary": "Jensen Huang ponownie został dyrektorem generalnym Nvidii. Rada dyrektorów jednogłośnie zdecydowała o przywróceniu współzałożyciela firmy na stanowisko, z którego zrezygnował w atmosferze skandalu obyczajowego.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533142987.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Nvidia ma nowego szefa, którym jest stary szef. Jensen Huang powrócił na stanowisko",
-      "sourceUrl": "https://cdaction.pl/newsy/nvidia-ma-nowego-szefa-ktorym-jest-stary-szef-jensen-huang-powrocil-na-stanowisko/",
-      "publishedAt": "2026-11-23T16:05+01:00",
-      "summary": "Wyrywacz rąk powraca.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/jensen-huang-4345.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wiedźmin 4 nie będzie tym czym myślisz. A Ciri nie będzie drugim Geraltem",
-      "sourceUrl": "https://www.ppe.pl/news/434253/wiedzmin-4-nie-bedzie-tym-czym-myslisz-a-ciri-nie-bedzie-drugim-geraltem.html",
-      "publishedAt": "2026-11-23T16:01+01:00",
-      "summary": "Wiceprezes do spraw fabuły w CD Projekt Red, Marcin Blacha, omówił w rozmowie z serwisem Inven Global różnice między Geraltem a Ciri w grze Wiedźmin 4.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/69b99f3cd51a83eb4954/69b99f3cd51a83eb4954.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Wielu graczy nienawidzi otwartego PvP w World of Warcraft. Ja uważam, że bez niego tracimy jedną z najlepszych rzeczy, jakie oferują gry MMO",
-      "sourceUrl": "https://www.gry-online.pl/opinie/w-world-of-warcraft-forever-chcialem-tylko-dotrzec-do-lochu-ale-u/z549dd",
-      "publishedAt": "2026-11-23T16:01+01:00",
-      "summary": "Otwarte PvP sprawia, że świat MMO żyje własnym życiem, a inni gracze przestają być jedynie uczestnikami podróży, tylko stają się częścią nieprzewidywalnej przygody. Dlatego warto dać szansę takiej rywalizacji!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533141593.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
+  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
 }
