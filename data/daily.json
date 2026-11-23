@@ -1,17 +1,71 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T08:01+01:00",
+  "updatedAt": "2026-11-23T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Cyberpunk 2 nie zamierza rywalizować z GTA 6. Gra Rockstar wywołuje „depresję”",
-    "summary": "GTA 6 zachwyca nie tylko graczy, ale również deweloperów, którzy doskonale zdają sobie sprawę z ogromu pracy włożonej w najnowszą produkcję Rockstar Games. Twórcy z całego świata komentują skalę przedsięwzięcia, a niektórzy otwarcie pr...",
-    "sourceUrl": "https://www.ppe.pl/news/434193/cyberpunk-2-nie-zamierza-rywalizowac-z-gta-6-gra-rockstar-wywoluje-depresje.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/454a49d9dd7957346423/454a49d9dd7957346423.jpg"
+    "title": "Najtaniej na polskim rynku - Kingdom Come Deliverance 2 na PS5 za 89 zł",
+    "summary": "W zaufanym sklepie Media Expert najtaniej na polskim rynku nabędziemy grę Kingdom Come Deliverance 2.",
+    "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/398497/najtaniej-na-polskim-rynku-kingdom-come-deliverance-2-na-ps5-za-149-zl.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/e86a6f49d1c9c3d0311a/e86a6f49d1c9c3d0311a.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Najtaniej na polskim rynku - Kingdom Come Deliverance 2 na PS5 za 89 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/398497/najtaniej-na-polskim-rynku-kingdom-come-deliverance-2-na-ps5-za-149-zl.html",
+      "publishedAt": "2026-11-23T08:59+01:00",
+      "summary": "W zaufanym sklepie Media Expert najtaniej na polskim rynku nabędziemy grę Kingdom Come Deliverance 2.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e86a6f49d1c9c3d0311a/e86a6f49d1c9c3d0311a.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "W końcu znakomita oferta promocyjna na Pragmata! Gra od 159 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434213/w-koncu-znakomita-oferta-promocyjna-na-pragmata-gra-od-159-zl.html",
+      "publishedAt": "2026-11-23T08:57+01:00",
+      "summary": "W sklepie Media Expert oraz Allegro nabędziemy w rekordowo niskiej cenie grę Pragmata.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5efe34be30354395368f/5efe34be30354395368f.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola Nintendo Switch 2 Zelda 40th Anniversary Edition + TLoZ Ocarina of Time za 2579 zł w MediaMarkt",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-zelda-40th-anniversary-edition-tloz-ocarina-of-time-za-2579-zl-w-mediamarkt/",
+      "publishedAt": "2026-11-23T08:56+01:00",
+      "summary": "Wybierając zestaw na karcie produktu, możecie w świetnej cenie nabyć jubileuszową edycję Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition wraz z odświeżonym wydaniem Ocarina of Time. Zestaw składający się z konsoli i gry może być wasz za 2579 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/zelda-konsola-ocarina-of-time-nintendo-switch-2-40th-anniversary-edition-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation Black Friday! Saros za 99 zł i wiele więcej hitów na PS5 i PS4",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434212/playstation-black-friday-saros-za-99-zl-i-wiele-wiecej-hitow-na-ps5-i-ps4.html",
+      "publishedAt": "2026-11-23T08:53+01:00",
+      "summary": "W sieci Media Expert wyruszyło PlayStation Black Friday, dzięki któremu nabędziemy wiele gier na PlayStation we wspaniałych cenach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/552263c396ad4ef8497d/552263c396ad4ef8497d.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Za to uwielbiamy Rockstar Games. GTA 6 zawstydza Red Dead Redemption 2",
+      "sourceUrl": "https://www.ppe.pl/news/434206/za-to-uwielbiamy-rockstar-games-gta-6-zawstydza-red-dead-redemption-2.html",
+      "publishedAt": "2026-11-23T08:49+01:00",
+      "summary": "Wielkie napady i filmowa fabuła to jedno w GTA 6, ale bądźmy szczerzy - gry Rockstar Games kochamy przede wszystkim za te chwile, kiedy rzucamy główny wątek w kąt i po prostu ruszamy przed siebie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/66bccfcc6ad91fd59f61/66bccfcc6ad91fd59f61.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 wprowadza pierwszą w serii niebinarną postać. Gracze nie mogą jej skrzywdzić",
+      "sourceUrl": "https://www.ppe.pl/news/434169/gta-6-wprowadza-pierwsza-w-serii-niebinarna-postac-gracze-nie-moga-jej-skrzywdzic.html",
+      "publishedAt": "2026-11-23T08:40+01:00",
+      "summary": "GTA 6 jest już dostępne, a gracze każdego dnia odkrywają kolejne szczegóły przygotowane przez Rockstar Games. Najnowsza odsłona kultowej serii nie tylko zachwyca rozbudowanym światem, ale również wprowadza rozwiązania, których wcześniej w G...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/bbd2c313bf2a3bc14a76/bbd2c313bf2a3bc14a76.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Cyberpunk 2 nie zamierza rywalizować z GTA 6. Gra Rockstar wywołuje „depresję”",
@@ -227,24 +281,6 @@
       "summary": "CD-Action Grand Theft Auto jest już na finiszu swojej przedsprzedaży – możecie dalej zamawiać numer przed jego premierą i wysyłką dnia 2 grudnia 2026 roku. Tymczasem – abyście zyskali więcej informacji o wydaniu specjalnym – prezentujemy wam oficjalną okładkę oraz spis treści.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/CDA_GTA-1260x709.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Gra totalna czy zawracanie głowy? GTA 6 goni za realizmem, który nie zawsze ma sens [FELIETON]",
-      "sourceUrl": "https://cdaction.pl/teksty/gra-totalna-czy-zawracanie-glowy-gta-6-goni-za-realizmem-ktory-nie-zawsze-ma-sens-felieton/",
-      "publishedAt": "2026-11-20T16:30+01:00",
-      "summary": "Klasyczna trylogia Grand Theft Auto zbudowana na silniku RenderWare zrobiła ogromny krok naprzód, przechodząc w pełen trójwymiar, ale z obsesyjnym dążeniem Rockstara do realizmu zderzyliśmy się dopiero w GTA 4.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-4-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online / Publicystyka",
-      "title": "Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku",
-      "sourceUrl": "https://www.gry-online.pl/recenzje/recenzja-gta-6-po-120-godzinach-to-znacznie-wiecej-niz-tylko-gra/z449dc",
-      "publishedAt": "2026-11-18T13:00+01:00",
-      "summary": "Gra roku? Pff, nie ma o czym mówić, po ten tytuł GTA 6 sięgnie bez głosu sprzeciwu. Zastanowiłbym się raczej, czy nie mamy przed sobą również mocnego kandydata do tytułu gry generacji i gry dekady. Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku został opublikowany przez gry-online.pl 18 listopada 2026. Zobacz zasady korzystania z naszych treści .",
-      "category": "PUBLICYSTYKA",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532619018.jpg"
     }
   ],
   "indie": [
