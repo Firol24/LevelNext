@@ -1,17 +1,143 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T09:01+01:00",
+  "updatedAt": "2026-11-23T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Najtaniej na polskim rynku - Kingdom Come Deliverance 2 na PS5 za 89 zł",
-    "summary": "W zaufanym sklepie Media Expert najtaniej na polskim rynku nabędziemy grę Kingdom Come Deliverance 2.",
-    "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/398497/najtaniej-na-polskim-rynku-kingdom-come-deliverance-2-na-ps5-za-149-zl.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/e86a6f49d1c9c3d0311a/e86a6f49d1c9c3d0311a.jpg"
+    "title": "Dlaczego Jason z GTA 6 tak mało mówi? Rockstar zdradził, że wzorował go na legendzie Hollywood i bohaterze kryminału sprzed 54 lat",
+    "summary": "Twórcy GTA podzielili się kolejnymi informacjami zza kulis. Pokazują one, jak dużą wagę Rockstar Games przykładało do szczegółów gry.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/dlaczego-jason-z-gta-6-tak-malo-mowi-rockstar-zdradzil-ze-wzorowa/z032416",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533122256.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dlaczego Jason z GTA 6 tak mało mówi? Rockstar zdradził, że wzorował go na legendzie Hollywood i bohaterze kryminału sprzed 54 lat",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dlaczego-jason-z-gta-6-tak-malo-mowi-rockstar-zdradzil-ze-wzorowa/z032416",
+      "publishedAt": "2026-11-23T10:35+01:00",
+      "summary": "Twórcy GTA podzielili się kolejnymi informacjami zza kulis. Pokazują one, jak dużą wagę Rockstar Games przykładało do szczegółów gry.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533122256.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Pierwsza gra na Steamie z 10 milionami recenzji. Rywale CS2 nie mają nawet 3 milionów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pierwsza-gra-na-steamie-z-10-milionami-recenzji-rywale-cs2-nie-ma/zf32415",
+      "publishedAt": "2026-11-23T10:18+01:00",
+      "summary": "Counter-Strike ma tak wiele recenzji na Steamie, że potrzeba pięć innych najpopularniejszych gier, by przebić wynik CS2.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533121242.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 5 rozwala system! Gracze rzucili się na grę Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/news/434209/gta-5-rozwala-system-gracze-rzucili-sie-na-gre-rockstar-games.html",
+      "publishedAt": "2026-11-23T10:01+01:00",
+      "summary": "Kiedy na rynek wchodzi taki gigant jak Grand Theft Auto 6, zdrowy rozsądek podpowiada, że poprzednia część serii powinna w końcu pójść w odstawkę. W końcu GTA 5 ma już na karku trzynaście długich lat.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d8bc0df893ebd9761b5a/d8bc0df893ebd9761b5a.png"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Magia GTA 6 zaczyna się dopiero po 8 godzinach. Tak uważa były twórca serii",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/magia-gta-6-zaczyna-sie-dopiero-po-8-godzinach-tak-uwaza-byly-two/ze32414",
+      "publishedAt": "2026-11-23T09:45+01:00",
+      "summary": "Weteran Rockstar Games podzielił się opinią o GTA 6 po weekendzie z grą. Chwali produkcję, ale przyznaje rację części krytyki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533119381.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jennifer Lawrence chwali się swoimi intymnymi scenami. Zrobiła ranking",
+      "sourceUrl": "https://www.ppe.pl/news/434208/jennifer-lawrence-chwali-sie-swoimi-intymnymi-scenami-zrobila-ranking.html",
+      "publishedAt": "2026-11-23T09:34+01:00",
+      "summary": "Jennifer Lawrence od lat słynie z tego, że kompletnie nie ma filtra i w wywiadach potrafi wypalić absolutnie wszystko. Aktorka znów to udowodniła w programie Watch What Happens Live u Andy’ego Cohena, gdzie wpadła u boku swojego kolegi z planu I...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a3daab3a08f317b60122/a3daab3a08f317b60122.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Kevin znów będzie sam w domu! Disney oficjalnie zamówił nowy film z Macaulayem Culkinem w roli głównej",
+      "sourceUrl": "https://cdaction.pl/kultura/kevin-znow-bedzie-sam-w-domu-disney-oficjalnie-zamowil-nowy-film-z-macaulayem-culkinem-w-roli-glownej/",
+      "publishedAt": "2026-11-23T09:30+01:00",
+      "summary": "Święta bez Kevina nie istnieją…",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/Kevin-sam-w-domu.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jeden z najbardziej kultowych filmów komediowych w historii po ponad 30 latach doczeka się kontynuacji. Nowa odsłona serii, która zarobiła prawie 1 mld dolarów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najbardziej-kultowych-filmow-komediowych-w-historii-po-po/zc32412",
+      "publishedAt": "2026-11-23T09:30+01:00",
+      "summary": "Kultowe świąteczne widowisko doczeka się kontynuacji po ponad trzech latach. Macaulay Culkin ponownie wcieli się w swego najsłynniejszego bohatera, a za rozwój projektu opartego na pomyśle aktora odpowiadają Seth Rogen i Evan Goldberg.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533118297.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gears of War: E-Day drugą najlepiej sprzedającą się grą października w USA",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gears-of-war-e-day-druga-najlepiej-sprzedajaca-sie-gra-pazdzierni/zd32413",
+      "publishedAt": "2026-11-23T09:26+01:00",
+      "summary": "Gears of War: E-Day zajęło w październiku drugie miejsce na liście sprzedaży w USA. Z pozoru brzmi to jak triumf, ale dotychczasowe liczby pokazują trochę bardziej skomplikowany obraz. Bez oficjalnych danych wydawcy ciężko o jednoznaczny werdykt, czy Gears of War: E-Day dało radę, czy nie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533118369.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ostatnie chwile na Disney+ od 16,99 zł miesięcznie przez 3 miesiące. Obejrzyj filmy Marvela przed Avengers: Doomsday!",
+      "sourceUrl": "https://lowcygier.pl/subskrypcje/ostatnie-chwile-na-disney-od-1699-zl-miesiecznie-przez-3-miesiace-obejrzyj-filmy-marvela-przed-avengers-doomsday/",
+      "publishedAt": "2026-11-23T09:12+01:00",
+      "summary": "Świetna promocja na abonament w usłudze streamingowej Disney+ dobiega końca. Dzięki ofercie, z której skorzystają teraz zarówno nowi, jak i powracający użytkownicy spełniający warunki, subskrypcję w wariancie Standard z reklamami mogą aktywować za 16,99 zł miesięcznie przez trzy miesiące. Dostęp w wersji Standard kosztować Was będzie 23,99 zł, natomiast Premium jest już za 39,99 zł miesięcznie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/disney-plus-nowe-logo-224x224.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najtańszy w historii monitor Gigabyte 27\" QD-OLED z 240 Hz?! Poniżej 1300 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434216/najtanszy-w-historii-monitor-gigabyte-27-qd-oled-z-240-hz-ponizej-1300-zl.html",
+      "publishedAt": "2026-11-23T09:11+01:00",
+      "summary": "Osoby szukające monitora do grania nie mogły lepiej trafić, ponieważ w nowej ofercie sklepu internetowego X-Kom możemy nabyć sprzęt od Gigabyte w rekordowej cenie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f88d4304a21de10d310b/f88d4304a21de10d310b.webp"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy Garmin za 299 zł zamiast wcześniejszego 799 zł. Żal nie brać!",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434215/nowy-garmin-za-299-zl-zamiast-wczesniejszego-799-zl-zal-nie-brac.html",
+      "publishedAt": "2026-11-23T09:09+01:00",
+      "summary": "W sklepie Media Expert taniej o ponad 60% względem standardowej ceny nabędziemy nowy zegarek Garmin.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/46541f48e526fb0822ab/46541f48e526fb0822ab.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dobitny dowód na zidiocenie części graczy. Fani Zeldy i GTA 6 stali się... wrogami",
+      "sourceUrl": "https://www.ppe.pl/news/434207/dobitny-dowod-na-zidiocenie-czesci-graczy-fani-zeldy-i-gta-6-stali-sie-wrogami.html",
+      "publishedAt": "2026-11-23T09:09+01:00",
+      "summary": "Ten listopad miał być dla miłośników gier absolutnym rajem, bo niemal jeden po drugim na rynek trafiły dwa gigantyczne hity - Grand Theft Auto 6 oraz remake The Legend of Zelda: Ocarina of Time.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6c9dfd8da4ca82776bda/6c9dfd8da4ca82776bda.png"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Mysz bezprzewodowa Ajazz AJ179 Pro 26000 dpi za 169 zł (50 zł taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/mysz-bezprzewodowa-ajazz-aj179-pro-26000-dpi-za-169-zl-50-zl-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-23T09:06+01:00",
+      "summary": "Sklep RTV Euro AGD w swoim Hicie Dnia proponuje dziś Ajazz AJ179 Pro. Myszka bezprzewodowa, wyposażona w sensor optyczny PixArt PAW 3395 o rozdzielczości 26000 dpi, 6 przycisków i podświetlaną stację ładującą, kosztuje 169 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/ajazz-aj179-pro-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Activision chce, żeby boty w grach gadały tak jak gracze na Discordzie. Firma opublikowała już wniosek patentowy",
+      "sourceUrl": "https://cdaction.pl/newsy/activision-chce-zeby-boty-w-grach-gadaly-tak-jak-gracze-na-discordzie-firma-opublikowala-juz-wniosek-patentowy/",
+      "publishedAt": "2026-11-23T09:02+01:00",
+      "summary": "Pyszny pomysł, wujku!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/cod-1260x709.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Najtaniej na polskim rynku - Kingdom Come Deliverance 2 na PS5 za 89 zł",
@@ -155,132 +281,6 @@
       "summary": "Fani świata Harry’ego Pottera mogą teraz uzupełnić kolekcję o pudełkowe Hogwarts Legacy w dobrej cenie. Na Allegro znajdziecie wydania fizycze na PlayStation 4, PlayStation 5 oraz Xbox Series X, a ceny zaczynają się od 48,40 zł. W tym RPG akcji od studia Avalanche Software stworzycie własnego czarodzieja, rozpoczniecie naukę zaklęć i warzenia eliksirów oraz odkryjecie tajemnice Hogwartu i jego okolic. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Dziedzictwo-Hogwartu-na-konsole-w-promocji_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Brad Pitt chce wrócić do swojego wielkiego hitu. Kontynuacja może pobić kolejny rekord",
-      "sourceUrl": "https://www.ppe.pl/news/434079/brad-pitt-chce-wrocic-do-swojego-wielkiego-hitu-kontynuacja-moze-pobic-kolejny-rekord.html",
-      "publishedAt": "2026-11-22T13:30+01:00",
-      "summary": "Brad Pitt nie należy do aktorów, którzy szczególnie często wracają do swoich najpopularniejszych ról, ale najbliższe lata mogą przynieść kilka wyjątków. Gwiazdor przygotowuje się do ponownego występu jako Cliff Booth, a pod koniec przysz�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f4c34c28c9cfcbd88611/f4c34c28c9cfcbd88611.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 bije rekordy nie tylko w grach. Nawet dostawcy internetu odczuli premierę",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-bije-rekordy-nie-tylko-w-grach-nawet-dostawcy-internetu-odc/ze3240e",
-      "publishedAt": "2026-11-22T13:05+01:00",
-      "summary": "Premiera GTA 6 spowodowała ogromny ruch u dostawcy usług internetowych. To „największy dzień w historii internetu”.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533044854.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Grałem 30 godzin w GTA 6 przez 3 dni. Mam swoje przemyślenia",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433334/gralem-30-godzin-w-gta-6-przez-3-dni-mam-swoje-przemyslenia.html",
-      "publishedAt": "2026-11-22T13:00+01:00",
-      "summary": "Trzydzieści godzin w trzy dni. Brzmi jak wyrok dla moich pleców i totalne zaniedbanie prawdziwego życia, ale prawda jest taka, że od Grand Theft Auto 6 po prostu nie da się oderwać. Kiedy po raz pierwszy postawiłem stopę w spalonej słońcem Leo...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Duże podkładki pod mysz Silver Monkey w promocji w x-kom! Dwa modele XL po 34,99 zł",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/duze-podkladki-pod-mysz-silver-monkey-w-promocji-w-x-kom-dwa-modele-xl-po-3499-zl/",
-      "publishedAt": "2026-11-22T12:59+01:00",
-      "summary": "Jeśli szukacie dużej podkładki, na której zmieścicie zarówno mysz, jak i klawiaturę, warto zajrzeć do sklepu x-kom. W promocji dostępne są dwa modele: jasnoszara Silver Monkey Comfort Mouse Pad XL Light Gray o wymiarach 80 × 30 cm oraz czarna Silver Monkey X Control Mouse Mat XL Black o wymiarach 90 × 40 cm. Każdy z nich kupicie za 34,99 zł po zastosowaniu kodu zniżkowego. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Duze-podkladki-pod-mysz-Silver-Monkey-w-promocji-w-x-kom-Dwa-modele-XL-juz-po-3499-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Rockstar apeluje do graczy GTA 6. Robią jedną rzecz, która może \"zepsuć\" całą przygodę",
-      "sourceUrl": "https://www.ppe.pl/news/434078/rockstar-apeluje-do-graczy-gta-6-robia-jedna-rzecz-ktora-moze-zepsuc-cala-przygode.html",
-      "publishedAt": "2026-11-22T12:30+01:00",
-      "summary": "GTA 6 oferuje ogromną mapę wypełnioną aktywnościami, sekretami i przypadkowymi zdarzeniami, ale Rockstar nie chce, aby gracze podchodzili do Leonidy jak do kolejnej listy obowiązków. Wiceprezes ds. projektowania - Stephen Donkin - zaleca, by prze...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d44f955126f636342d61/d44f955126f636342d61.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na UGREEN Revodok Pro w Amazon PL. Hub USB 7w1 (2x HDMI, 5 x USB) za 139,99 zł",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-ugreen-revodok-pro-w-amazon-pl-hub-usb-7w1-2x-hdmi-5-x-usb-za-13999-zl/",
-      "publishedAt": "2026-11-22T12:27+01:00",
-      "summary": "W ofercie polskiego oddziału Amazon pojawiła się promocja na UGREEN Revodok Pro 207. Rozbudowany hub USB, wyposażony w 2 gniazda HDMI (4K@60Hz), 2 gniazda USB-C, dwa gniazda USB-A oraz gniazdo ładowania USB-C PD (100W), może być Wasz za 139,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Promocja-na-UGREEN-Revodok-Pro-w-Amazon-PL.-Hub-USB-7w1-2x-HDMI-5-x-USB-za-18199-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Tego naprawdę nie da się wymyślić”. Ta legenda Hollywood miała zagrać postać Kevina Costnera w Yellowstone",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tego-naprawde-nie-da-sie-wymyslic-ta-legenda-hollywood-miala-zagr/z2323ee",
-      "publishedAt": "2026-11-22T12:02+01:00",
-      "summary": "Kevin Costner mógł nie zostać Johnem Duttonem. Był plan, by w głównego bohatera Yellowstone wcieliła się ta legenda Hollywood.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532874453.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wielki triumf science fiction lat 90’. Najlepszy filmowy Star Trek kończy trzydzieści lat",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433888/wielki-triumf-science-fiction-lat-90-najlepszy-filmowy-star-trek-konczy-trzydziesci-lat.html",
-      "publishedAt": "2026-11-22T12:00+01:00",
-      "summary": "Trzydzieści lat temu odbyła się premiera filmu „Star Trek: Pierwszy kontakt“, który po latach uchodzi za jedną z najlepszych pełnometrażowych produkcji powiązanych z głównie serialowym uniwersum Gene’a Roddenberry’ego. Zrealizowany nie...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/9f39896c70e7d321f9ad/9f39896c70e7d321f9ad.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 współtworzyło 50 osób z polskimi korzeniami. Wśród nich weterani GTA 5 i Red Dead Redemption 2",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-wspoltworzylo-50-osob-z-polskimi-korzeniami-wsrod-nich-wete/zd3240d",
-      "publishedAt": "2026-11-22T11:56+01:00",
-      "summary": "Napisy końcowe GTA 6 zdradzają, ile osób polskiego pochodzenia mogło pracować nad hitem Rockstara. To m.in. weterani poprzednich części serii i Red Dead Redemption 2.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533040841.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Eksperci wątpią w GTA 6 na PC w stałych 60 klatkach. Nawet mocny pecet może nie wystarczyć",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/eksperci-watpia-w-gta-6-na-pc-w-stalych-60-klatkach-nawet-mocny-p/zc3240c",
-      "publishedAt": "2026-11-22T09:03+01:00",
-      "summary": "Pecetowcy pocieszają się, że konsolowe 30 klatek z GTA 6 ich nie dotyczy. Eksperci studzą ten optymizm: wąskim gardłem nowej gry Rockstara ma być nie karta graficzna, tylko procesor. Apetyt na jego moc jest tak duży, że stałe 60 klatek może być domeną jedynie najmocniejszych komputerów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533030597.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Czy GTA 6 jest warte 350 zł? Uwzględniliśmy wielkość gry, inflację i płace minimalne",
-      "sourceUrl": "https://cdaction.pl/teksty/czy-gta-6-jest-warte-350-zl-uwzglednilismy-wielkosc-gry-inflacje-i-place-minimalne/",
-      "publishedAt": "2026-11-21T11:31+01:00",
-      "summary": "Aż trzy i pół stówy – tyle Rockstar Games każe nam płacić za Grand Theft Auto 6. Warto wydać te pieniądze już teraz, nie czekając na promocje?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1260x709.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Atomfall, High on Life 2 i inne. Darmowe gry i okazje w tym tygodniu",
-      "sourceUrl": "https://cdaction.pl/newsy/atomfall-high-on-life-2-i-inne-darmowe-gry-i-okazje-w-tym-tygodniu/",
-      "publishedAt": "2026-11-21T10:00+01:00",
-      "summary": "Kolejna sobota, kolejne gry za darmo oraz w ofertach Game Passa, PS Plusa i Amazonu Luny.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/collage26-11-20.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 padło ofiarą review bombingu. Wściekli gracze nie oszczędzają nowego hitu Rockstara",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-padlo-ofiara-review-bombingu-gracze-nie-oszczedzaja-nowego-hitu-rockstara/",
-      "publishedAt": "2026-11-20T23:35+01:00",
-      "summary": "Nie trzeba było długo czekać, aż emocje wokół premiery GTA 6 znajdą ujście w opiniach graczy na Metacriticu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/image-2.psd-3-1260x662.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "CD-Action Grand Theft Auto: Sprawdź okładkę i pełną zawartość numeru",
-      "sourceUrl": "https://cdaction.pl/newsy/cd-action-grand-theft-auto-sprawdz-okladke-i-zawartosc-numeru/",
-      "publishedAt": "2026-11-20T17:49+01:00",
-      "summary": "CD-Action Grand Theft Auto jest już na finiszu swojej przedsprzedaży – możecie dalej zamawiać numer przed jego premierą i wysyłką dnia 2 grudnia 2026 roku. Tymczasem – abyście zyskali więcej informacji o wydaniu specjalnym – prezentujemy wam oficjalną okładkę oraz spis treści.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/CDA_GTA-1260x709.jpg"
     }
   ],
   "indie": [
