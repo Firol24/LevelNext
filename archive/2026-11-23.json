@@ -1,17 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T22:01+01:00",
+  "updatedAt": "2026-11-23T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "To „NAJWIĘKSZY” sekret GTA 6?! Wielka niespodzianka dla fanów PS2",
-    "summary": "Rockstar Games ponownie udowadnia, że GTA 6 jest prawdziwą kopalnią sekretów, a najnowsze odkrycie może być jednym z najbardziej spektakularnych easter eggów w historii całej serii. W najnowszej odsłonie Grand Theft Auto można dosłownie przen...",
-    "sourceUrl": "https://www.ppe.pl/news/434291/to-najwiekszy-sekret-gta-6-wielka-niespodzianka-dla-fanow-ps2.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/58ddc3356de60be3435f/58ddc3356de60be3435f.jpg"
+    "category": "PROMOCJE",
+    "title": "Zabezpiecz swoje konta z Yubico. Klucz sprzętowy YubiKey 5C NFC już za 199 zł na Allegro!",
+    "summary": "Łowcy, jeśli poszukujecie sprawdzonego i niezawodnego zabezpieczenia dostępu do swoich kont, to warto rzucić okiem na najnowszą promocją na platformie Allegro. Klucz sprzętowy Yubico YubiKey 5C NFC ze wsparciem dla protokołów WebAuthn, Yubico OTP, OATH HOTP, OATH TOTP, U2F, Smart Card (PIV), czy OpenPGP i FIDO2, dostępny jest w rekordowej cenie 199 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zabezpiecz-swoje-konta-z-yubico-klucz-sprzetowy-yubikey-5c-nfc-juz-za-199-zl-na-allegro/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/07/yubico-yubikey-5c-nfc-3b-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zabezpiecz swoje konta z Yubico. Klucz sprzętowy YubiKey 5C NFC już za 199 zł na Allegro!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zabezpiecz-swoje-konta-z-yubico-klucz-sprzetowy-yubikey-5c-nfc-juz-za-199-zl-na-allegro/",
+      "publishedAt": "2026-11-23T22:55+01:00",
+      "summary": "Łowcy, jeśli poszukujecie sprawdzonego i niezawodnego zabezpieczenia dostępu do swoich kont, to warto rzucić okiem na najnowszą promocją na platformie Allegro. Klucz sprzętowy Yubico YubiKey 5C NFC ze wsparciem dla protokołów WebAuthn, Yubico OTP, OATH HOTP, OATH TOTP, U2F, Smart Card (PIV), czy OpenPGP i FIDO2, dostępny jest w rekordowej cenie 199 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/07/yubico-yubikey-5c-nfc-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Percy Jackson i Bogowie Olimpijscy (2023) - recenzja połowy 3. sezonu serialu [Disney]. Klątwa tytana",
+      "sourceUrl": "https://www.ppe.pl/recenzje/434309/percy-jackson-i-bogowie-olimpijscy-2023-recenzja-polowy-3-sezonu-serialu-disney-klatwa-tytana.html",
+      "publishedAt": "2026-11-23T22:38+01:00",
+      "summary": "Percy, Annabeth i Talia infiltrują akademię West Hall aby wydostać z niej rodzeństwo półbogów. Nie wszystko idzie jednak tak, jak powinno. Drużyna musi przegrupować się i ruszyć na niebezpieczną misję, od której zależeć będą dalsze los...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/46686275f4f5de7ff743/46686275f4f5de7ff743.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyjątkowo tanie Riders Republic na PC. Wersja Ubisoft Connect za 12,79 zł, Steam za 15,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyjatkowo-tanie-riders-republic-na-pc-wersja-ubisoft-connect-za-1279-zl-steam-za-1599-zl/",
+      "publishedAt": "2026-11-23T22:19+01:00",
+      "summary": "W sklepach cyfrowej dystrybucji pojawiła się bardzo dobra promocja na Riders Republic w wersji na PC. Produkcja oferująca szaloną jazdę na rowerach, nartach, snowboardzie, a także latanie w wingsuicie dostępna jest za jedyne 12,79 zł w Ubisoft Store. Jeśli ponad wszystko preferujecie platformę Steam, to Wasza wygoda będzie kosztować 15,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2021/08/riders-republic-miniaturka-scaled.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Z God of War Laufey do God of War. Deborah Ann Woll w starej-nowej roli",
+      "sourceUrl": "https://www.ppe.pl/news/434277/z-god-of-war-laufey-do-god-of-war-deborah-ann-woll-w-starej-nowej-roli.html",
+      "publishedAt": "2026-11-23T22:16+01:00",
+      "summary": "Amazon nie zamierza oszczędzać na serialowej adaptacji God of War, a najnowsza wiadomość powinna szczególnie ucieszyć fanów produkcji Santa Monica Studio. Twórcy zdecydowali się na interesujący ruch, ponieważ do obsady dołączyła aktorka do...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0c3f728e6a417f9bf50c/0c3f728e6a417f9bf50c-jpg-1600w.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Tego plebiscytu nie wygra GTA 6. Wystartowały nominacje do Steam Awards",
+      "sourceUrl": "https://cdaction.pl/newsy/tego-plebiscytu-nie-wygra-gta-6-wystartowaly-nominacje-do-steam-awards/",
+      "publishedAt": "2026-11-23T22:00+01:00",
+      "summary": "Ale nikt nie mówi, że GTA 5 jest bez szans...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/steam-awards-4840.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "To „NAJWIĘKSZY” sekret GTA 6?! Wielka niespodzianka dla fanów PS2",
@@ -236,51 +281,6 @@
       "summary": "Przemierzając Vice City w GTA 6 lepiej uważajcie na niektóre tunele. Okazuje się, że w mieście najwyraźniej rezyduje podejrzany, kreskówkowy Kojot.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533148456.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na ilustrowane wydanie Władcy Pierścieni (J.R.R. Tolkien) za 150 zł na Allegro!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-ilustrowane-wydanie-wladcy-pierscieni-j-r-r-tolkien-za-150-zl-na-allegro/",
-      "publishedAt": "2026-11-23T17:48+01:00",
-      "summary": "Bezpośrednio na Allegro możecie zakupić tanio trylogię Władcy Pierścieni w specjalnej edycji bogato ozdobionej ilustracjami autorstwa Alana Lee. Arcydzieło J.R.R. Tolkiena oferowane jest w postaci trzech tomów w twardej oprawie (1312 stron) dystrybuowanych przez wydawnictwo Zysk i S-ka . Za przekład odpowiada natomiast Jerzy Łoziński, czyli twórca „legendarnego” tłumaczenia zawierającego takie perełki jak: Bilbo Bagosz , Krzaty czy Łazik . W tym przypadku jest to wersja poprawiona – pozbawiona wszechobecnych spolszczeń, jednak wprawne oko dostrzeże, że pierwszy tom zamiast najpopularniejszej u nasz wersji z Drużyną Pierścienia, zatytułowano jako „Bractwo Pierścienia” . Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-ilustrowane-wydanie-Wladcy-Pierscieni-J.R.R.-Tolkien-za-150-zl-na-Allegro_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Ten serial animowany wygląda jak krzyżówka Queen’s Domain z Eye of the Beholder. Pierwszy odcinek „Crawlers” jest już dostępny za darmo",
-      "sourceUrl": "https://cdaction.pl/newsy/ten-serial-animowany-wyglada-jak-krzyzowka-queens-domain-z-eye-of-the-beholder-pierwszy-odcinek-crawlers-jest-juz-dostepny-za-darmo/",
-      "publishedAt": "2026-11-23T17:45+01:00",
-      "summary": "Gotowi zejść do podziemi?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-23T142206.699-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Haker od głośnego wycieku GTA 6 usłyszał wyrok. Sąd skazał go na 7 lat i tego samego dnia wypuścił na wolność",
-      "sourceUrl": "https://www.ppe.pl/news/434272/haker-od-glosnego-wycieku-gta-6-uslyszal-wyrok-sad-skazal-go-na-7-lat-i-tego-samego-dnia-wypuscil-na-wolnosc.html",
-      "publishedAt": "2026-11-23T17:45+01:00",
-      "summary": "Grand Theft Auto VI jest już dostępne na konsolach obecnej generacji i oprócz oczekiwania na nową produkcję Rockstar Games, która zapisała się w historii, kończy się głośna sprawa Ariona Kurtaja.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/76746f4c142b292ed3b5/76746f4c142b292ed3b5.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Driveclub pomoże odświeżyć kultowe wyścigi z PS3! Błoto, realistyczne opady deszczu i inne efekty graficzne",
-      "sourceUrl": "https://www.ppe.pl/news/434260/driveclub-pomoze-odswiezyc-kultowe-wyscigi-z-ps3-bloto-realistyczne-opady-deszczu-i-inne-efekty-graficzne.html",
-      "publishedAt": "2026-11-23T17:30+01:00",
-      "summary": "MotorStorm: Pacific Rift może powrócić w zupełnie nowej odsłonie na PC.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/cd7b6a91c87d5a29633c/cd7b6a91c87d5a29633c.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Dostawa do Paczkomatów InPost za darmo dla zamówień od 59 zł w sklepie Media Expert!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/dostawa-do-paczkomatow-inpost-za-darmo-dla-zamowien-od-59-zl-w-sklepie-media-expert/",
-      "publishedAt": "2026-11-23T17:14+01:00",
-      "summary": "Łowcy, z okazji Black Friday 2026 sieć sklepów Media Expert łączy siły z firmą InPost i gwarantuje Wam darmową dostawę do Paczkomatów. Z okazji możecie skorzystać w przypadku dowolnego zamówienia o wartości minimum 59 zł, zamiast standardowych 99 zł. Oferta obowiązuje do 27 listopada, do godziny 23:00 i obejmuje cały asortyment internetowego sklepu Media Expert z wyłączeniem kategorii OUTLET . Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Dostawa-do-Paczkomatow-InPost-za-darmo-dla-zamowien-od-59-zl-w-sklepie-Media-Expert_miniaturka-224x224.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
+  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
 }
