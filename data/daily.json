@@ -1,21 +1,138 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T14:01+01:00",
+  "updatedAt": "2026-11-23T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "GTA VI na PlayStation 5 taniej w Loaded. Kup klucz za 317,99 zł (32 zł taniej niż w PS Store)",
-    "summary": "Jeśli nie macie jeszcze swojej kopii GTA VI, możecie skorzystać z promocji w Loaded z okazji Black Friday 2026. Klucz aktywujący grę w wersji na konsolę PlayStation 5 dorwiecie za 317,99 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/keyshopy/gta-vi-na-playstation-5-taniej-w-loaded-kup-klucz-za-31799-zl-32-zl-taniej-niz-w-ps-store/",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-logo-v32-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "GTA 6 mogło już przebić roczne prognozy. W mniej niż tydzień niemal 45 mln sprzedanych egzemplarzy",
+    "summary": "Sprzedaż Grand Theft Auto 6 mogła „nieco” wyprzedzić nawet najbardziej optymistyczne prognozy analityków.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moglo-juz-przebic-roczne-prognozy-w-mniej-niz-tydzien-niema/z13242f",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533140489.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 mogło już przebić roczne prognozy. W mniej niż tydzień niemal 45 mln sprzedanych egzemplarzy",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moglo-juz-przebic-roczne-prognozy-w-mniej-niz-tydzien-niema/z13242f",
+      "publishedAt": "2026-11-23T15:38+01:00",
+      "summary": "Sprzedaż Grand Theft Auto 6 mogła „nieco” wyprzedzić nawet najbardziej optymistyczne prognozy analityków.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533140489.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Malezja chce łapać przemytników kart graficznych NVIDII dzięki rachunkom za prąd. Władze znalazły nietypowy sposób na tropienie chipów trafiających do Chin",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/malezja-chce-lapac-przemytnikow-kart-graficznych-nvidii-dzieki-ra/z03242e",
+      "publishedAt": "2026-11-23T15:30+01:00",
+      "summary": "Malezja chce, żeby operatorzy centrów danych ujawniali kluczowe informacje na temat zarządzanych obiektów. Jednym z celów nowych regulacji jest zablokowanie przemytu układów do Chin.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533139780.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "3 klasyczne strategie wróciły na Steama. Gracze chwalą reedycje, a jedna ma aż 95% pozytywnych opinii",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/3-klasyczne-strategie-wrocily-na-steama-gracze-chwala-reedycje-a/zf3242d",
+      "publishedAt": "2026-11-23T15:19+01:00",
+      "summary": "Kilka dni temu na Steamie zadebiutowały reedycje trzech klasycznych pecetowych strategii. Cała trójka spotkała się z ciepłym przyjęciem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533139567.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ciri w Wiedźminie 4 jest „znacznie bardziej porywcza i kieruje się emocjami” bardziej niż Geralt",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ciri-w-wiedzminie-4-jest-jest-znacznie-bardziej-porywcza-i-kieruj/zd3242b",
+      "publishedAt": "2026-11-23T15:05+01:00",
+      "summary": "Twórcy Wiedźmina 4 mają na uwadze, że Ciri to własna postać, z odmiennym charakterem od Geralta.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533137835.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 2 dni na Prime Video jedna z najważniejszych premier sci-fi w tym tygodniu. Wszystkie 8 odcinków serialu rozwijającego kultowe uniwersum zadebiutuje jednego dnia",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-2-dni-na-prime-video-jedna-z-najwazniejszych-premier-sci-fi-w/z332428",
+      "publishedAt": "2026-11-23T15:00+01:00",
+      "summary": "Kultowe uniwersum Ridleya Scotta powraca w serialowej odsłonie. Już w środę na Prime Video zadebiutuje produkcja z Michelle Yeoh i Hunter Schafer w rolach głównych. Pierwszy sezon obejrzymy w całości w dniu premiery.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533135940.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 otrzymało pierwszą aktualizację! Nie wszyscy pobiorą ją od razu",
+      "sourceUrl": "https://www.ppe.pl/news/434250/gta-6-otrzymalo-pierwsza-aktualizacje-nie-wszyscy-pobiora-ja-od-razu.html",
+      "publishedAt": "2026-11-23T14:51+01:00",
+      "summary": "Rockstar Games rozpoczęło udostępnianie pierwszej popremierowej aktualizacji do GTA 6. Patch oznaczony numerem 1.002.002 trafił na PlayStation 5 oraz Xbox Series X/S, ale producent zdecydował się na nietypowy sposób dystrybucji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0b34316f8d651b6e381c/0b34316f8d651b6e381c.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Activision oficjalnie! Xbox szykuje wielki powrót kultowej gry",
+      "sourceUrl": "https://www.ppe.pl/news/434249/activision-oficjalnie-xbox-szykuje-wielki-powrot-kultowej-gry.html",
+      "publishedAt": "2026-11-23T14:36+01:00",
+      "summary": "Czy kultowe Banjo-Kazooie doczeka się wreszcie nowej odsłony? Pojawił się kolejny sygnał, który może zainteresować fanów marki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5cd450b2ca8edf0d3553/5cd450b2ca8edf0d3553.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Remake Star Wars: Knights of the Old Republic faktycznie wyjdzie w przyszłym roku? Tytuł ma zostać pokazany na The Game Awards",
+      "sourceUrl": "https://cdaction.pl/newsy/remake-star-wars-knights-of-the-old-republic-faktycznie-wyjdzie-w-przyszlym-roku-tytul-ma-zostac-pokazany-na-the-game-awards/",
+      "publishedAt": "2026-11-23T14:30+01:00",
+      "summary": "Zakończyłoby to trwającą wiele lat ciszę w kwestii projektu, o którym wiemy w zasadzie tyle, że powstaje.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Star-Wars-Knights-of-the-Old-Republic-Remake-1260x659.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Samsung QE65S85F 65″ OLED 4K 120Hz Dolby Atmos HDMI 2.1 za 4169 zł (630 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/samsung-qe65s85f-65-oled-4k-120hz-dolby-atmos-hdmi-2-1-za-4169-zl-630-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-23T14:27+01:00",
+      "summary": "Korzystając z kodu zniżkowego, będziecie mogli zaoszczędzić na zakupie Samsung QE65S85F w Media Expert. Sklep oferuje 65-calowy telewizor z matrycą OLED o częstotliwości odświeżania 120 Hz za 4169 złotych. Urządzenie posiada porty HDMI 2.1 oraz obsługuje Dolby Atmos. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/Telewizor-65-cali-OLED-Samsung-QE65S85FAE-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Epic Games zmienia Unreal Engine 6! Przyszłość tworzenia gier należy do AI",
+      "sourceUrl": "https://www.ppe.pl/news/434246/epic-games-zmienia-unreal-engine-6-przyszlosc-tworzenia-gier-nalezy-do-ai.html",
+      "publishedAt": "2026-11-23T14:20+01:00",
+      "summary": "Epic Games szykuje poważną zmianę w swoim silniku graficznym. Unreal Engine 6 nie będzie obsługiwał popularnego systemu wizualnego skryptowania Blueprint ani Actor Gameplay Framework.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5df8a6da79f3caf9f51d/5df8a6da79f3caf9f51d.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pokémon TCG otrzyma potężny dodatek. Nowe karty zadebiutują na początku 2027 roku",
+      "sourceUrl": "https://www.ppe.pl/news/434256/pokemon-tcg-otrzyma-potezny-dodatek-nowe-karty-zadebiutuja-na-poczatku-2027-roku.html",
+      "publishedAt": "2026-11-23T14:05+01:00",
+      "summary": "Fani Pokémon Trading Card Game mogą szykować się na kolejną porcję kart z Mega Ewolucjami.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/cec52adab8e4996bb23a/cec52adab8e4996bb23a.png"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Rockstar zdradził inspiracje stojące za postacią Jasona w GTA 6. Jedną z nich jest gwiazda Hollywood znana z ról antybohaterów",
+      "sourceUrl": "https://cdaction.pl/newsy/rockstar-zdradzil-inspiracje-stojace-za-postacia-jasona-w-gta-6-jedna-z-nich-jest-gwiazda-hollywood-znana-z-rol-antybohaterow/",
+      "publishedAt": "2026-11-23T14:00+01:00",
+      "summary": "Nie zabrakło również rozmów z prawdziwymi weteranami wojskowymi.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-4.jpg"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "GTA VI na PlayStation 5 taniej w Loaded. Kup klucz za 317,99 zł (32 zł taniej niż w PS Store)",
       "sourceUrl": "https://lowcygier.pl/keyshopy/gta-vi-na-playstation-5-taniej-w-loaded-kup-klucz-za-31799-zl-32-zl-taniej-niz-w-ps-store/",
+      "publishedAt": "2026-11-23T13:55+01:00",
+      "summary": "Jeśli nie macie jeszcze swojej kopii GTA VI, możecie skorzystać z promocji w Loaded z okazji Black Friday 2026. Klucz aktywujący grę w wersji na konsolę PlayStation 5 dorwiecie za 317,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-logo-v32-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "GTA VI na PlayStation 5 taniej w Loaded. Kup klucz za 317,99 zł (32 zł mniej niż w PS Store)",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/gta-vi-na-playstation-5-taniej-w-loaded-kup-klucz-za-31799-zl-32-zl-mniej-niz-w-ps-store/",
       "publishedAt": "2026-11-23T13:55+01:00",
       "summary": "Jeśli nie macie jeszcze swojej kopii GTA VI, możecie skorzystać z promocji w Loaded z okazji Black Friday 2026. Klucz aktywujący grę w wersji na konsolę PlayStation 5 dorwiecie za 317,99 zł. Czytaj więcej »",
       "category": "PROMOCJE",
@@ -164,123 +281,6 @@
       "summary": "Wygląda na to, że Rob Run nie jest tylko ciekawostką i efemerydą. Ta gra, nawiązująca oferowaną rozgrywką do marki Grand Theft Auto, już na stałe wpisuje się w gamingowy krajobraz.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/0e228f01973018ca8ddb/0e228f01973018ca8ddb.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nowa gra Rockstar Games zdetronizuje GTA 6. Premiera ma nastąpić bardzo szybko",
-      "sourceUrl": "https://www.ppe.pl/news/434233/nowa-gra-rockstar-games-zdetronizuje-gta-6-premiera-ma-nastapic-bardzo-szybko.html",
-      "publishedAt": "2026-11-23T12:38+01:00",
-      "summary": "Minęły dopiero cztery dni od premiery Grand Theft Auto 6, które z 32,5 milionami zamówień przedpremierowych i rekordowymi ocenami na równi ze starą Zeldą właśnie rozbiło bank, a w sieci już robi się głośno o tym, co Rockstar Games rzuci n...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/351b21bebedacfff05b8/351b21bebedacfff05b8.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Tegoroczny exclusive Sony na PS5 za niecałe 100 zł. Potężna promocja w Media Expert",
-      "sourceUrl": "https://cdaction.pl/newsy/tegoroczny-exclusive-sony-na-ps5-za-niecale-100-zl-potezna-promocja-w-media-expert/",
-      "publishedAt": "2026-11-23T12:36+01:00",
-      "summary": "Wyjątkowa oferta dla fanów roguelike’ów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/03/saros-1260x758.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Nintendo Sound Clock Alarmo za 224,99 zł (50% taniej) w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/nintendo-sound-clock-alarmo-za-22499-zl-50-taniej-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-23T12:36+01:00",
-      "summary": "W sklepie RTV Euro AGD możecie taniej kupić praktyczny gadżet dla fanów wielkiego N. Mowa tu o Nintendo Sound Clock Alarmo, czyli budzik mający Wam uprzyjemnić wstawanie. Akcesorium dedykowane śpiochom, może być wasze za 224,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/01/Pierwsza-promocja-na-Nintendo-Sound-Clock-Alarmo.-Budzik-dostepny-za-419-zl-w-Media-Expert_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Były pracownik Rockstara ujawnia, co Red Dead Redemption 2 robi lepiej od GTA 6. „Zastanawiam się, kto to robił”",
-      "sourceUrl": "https://cdaction.pl/newsy/byly-pracownik-rockstara-ujawnia-co-red-dead-redemption-2-robi-lepiej-od-gta-6-zastanawiam-sie-kto-to-robil/",
-      "publishedAt": "2026-11-23T12:30+01:00",
-      "summary": "Drobna rzecz, ale warto ją odnotować.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/gta6-5-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Elon Musk przyznał, że koszt produkcji komputerów Tesli wzrósł o 100%. Wszystko przez ten sam kryzys pamięci, który uderza w graczy i producentów PC",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/elon-musk-przyznal-ze-koszt-produkcji-komputerow-tesli-wzrosl-o-1/z03241f",
-      "publishedAt": "2026-11-23T12:25+01:00",
-      "summary": "Komputery AI4 montowane w Teslach mają kosztować jednak 1 300 dolarów zamiast 650. Według Elona Muska winne są rosnące ceny podzespołów, do czego miliarder się przyczynia.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533129064.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nie możesz pominąć tej misji w GTA 6. Sprawdź klozet, a zwiększysz pasek wytrzymałości",
-      "sourceUrl": "https://www.ppe.pl/news/434221/nie-mozesz-pominac-tej-misji-w-gta-6-sprawdz-klozet-a-zwiekszysz-pasek-wytrzymalosci.html",
-      "publishedAt": "2026-11-23T12:16+01:00",
-      "summary": "Jeśli myśleliście, że w Grand Theft Auto 6 Rockstar Games trochę spoważniał, to jedno z pierwszych zadań pobocznych szybko wyprowadzi was z błędu. Już od pierwszego rozdziału można trafić na kompletnie odjechaną misję The Final Flush, kt...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/edb8693855cc28e232eb/edb8693855cc28e232eb.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 ma kasyno, do którego nie można wejść. Polacy mogą nie zagrać w nim nawet po otwarciu",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-ma-kasyno-do-ktorego-nie-mozna-wejsc-polacy-moga-nie-zagrac/zd3241c",
-      "publishedAt": "2026-11-23T12:15+01:00",
-      "summary": "W GTA 6 nie brakuje atrakcji, które pozostają niedostępne dla graczy. Niewykluczone jednak, że Rockstar planuje otworzyć je w przyszłości.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533126232.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na słuchawki i głośniki Marshall w x-kom. Wybrane modele dostępne od 249,90 zł",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-sluchawki-i-glosniki-marshall-w-x-kom-wybrane-modele-dostepne-od-24990-zl/",
-      "publishedAt": "2026-11-23T12:11+01:00",
-      "summary": "Sprzęt audio firmy Marshall został przeceniono w ramach Black Weeks w x-kom. Przyjrzeliśmy się ofercie sklepu i opracowaliśmy dla Was wpis z promocjami na głośniki oraz słuchawki bezprzewodowe. Ceny rozpoczynają się od 249,90 zł za Marshall Minor IV TWS. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/marshall-minor-iv-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Mama kupiła mu Vice City, a on po latach upamiętnił ją w GTA 6. Twórcy gry umieścili w niej hołd dla swoich zmarłych członków rodzin",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/mama-kupila-mu-vice-city-a-on-po-latach-upamietnil-ja-w-gta-6-two/zf3241e",
-      "publishedAt": "2026-11-23T12:03+01:00",
-      "summary": "Czasami to właśnie rodzina budzi w nas pasję do gier. Pracownicy Rockstar Games upamiętnili w GTA 6 zmarłych członków rodzin, którzy wspierali ich do samego końca.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533127372.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Hity PlayStation i Xbox oferowane w rekordowo niskich cenach. Tak tanio jeszcze nie było",
-      "sourceUrl": "https://www.ppe.pl/news/434232/hity-playstation-i-xbox-oferowane-w-rekordowo-niskich-cenach-tak-tanio-jeszcze-nie-bylo.html",
-      "publishedAt": "2026-11-23T12:00+01:00",
-      "summary": "Niedawno na Steam uruchomiono wyprzedaż gier z najniższymi cenami gier w historii (m.in. Kingdom Come 2 można kupić za 83,66 zł). Do tej oferty oferty dołączyły właśnie kolejne hity.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6f5c458f1722bfcb08df/6f5c458f1722bfcb08df.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Zapowiedziano kolejny literacki prequel Baldur’s Gate’a 3 po kontrowersyjnym „Astarionie”. Tym razem przyszła pora na Posępne Serce",
-      "sourceUrl": "https://cdaction.pl/newsy/zapowiedziano-kolejny-literacki-prequel-baldurs-gatea-3-po-kontrowersyjnym-astarionie-tym-razem-przyszla-pora-na-posepne-serce/",
-      "publishedAt": "2026-11-23T12:00+01:00",
-      "summary": "Czekacie?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-23T110010.600-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Jeden z najlepszych thrillerów Apple TV wróci za 12 tygodni. Nowa odsłona polecanego przez niemal 80% krytyków widowiska prawniczego ma już zwiastun",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najlepszych-thrillerow-apple-tv-wroci-za-13-tygodni-nowa/ze3241d",
-      "publishedAt": "2026-11-23T11:55+01:00",
-      "summary": "Uznany za niewinnego wraca z zupełnie nową sprawą i gwiazdorską obsadą. Do sieci trafił pierwszy zwiastun drugiego sezonu thrillera Apple TV, w którym na sali sądowej spotkają się Rachel Brosnahan i Matthew Rhys.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533126771.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Twórcy z mistrzowskiego studia Sony zachwyceni grą dekady",
-      "sourceUrl": "https://www.ppe.pl/news/434219/tworcy-z-mistrzowskiego-studia-sony-zachwyceni-gra-dekady.html",
-      "publishedAt": "2026-11-23T11:51+01:00",
-      "summary": "Kiedy nowymi grami zachwycają się gracze, to świetna sprawa, ale prawdziwy szacunek pojawia się dopiero wtedy, gdy szczęki z wrażenia opadają samym twórcom z absolutnej światowej czołówki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/16809299dc759224542e/16809299dc759224542e.webp"
     }
   ],
   "indie": [
