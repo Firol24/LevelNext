@@ -1,17 +1,71 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T15:01+01:00",
+  "updatedAt": "2026-11-23T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 mogło już przebić roczne prognozy. W mniej niż tydzień niemal 45 mln sprzedanych egzemplarzy",
-    "summary": "Sprzedaż Grand Theft Auto 6 mogła „nieco” wyprzedzić nawet najbardziej optymistyczne prognozy analityków.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moglo-juz-przebic-roczne-prognozy-w-mniej-niz-tydzien-niema/z13242f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533140489.jpg"
+    "title": "Jensen Huang wraca na stanowisko CEO Nvidii. Zarząd zmienił zdanie po zaledwie kilkunastu dniach",
+    "summary": "Jensen Huang ponownie został dyrektorem generalnym Nvidii. Rada dyrektorów jednogłośnie zdecydowała o przywróceniu współzałożyciela firmy na stanowisko, z którego zrezygnował w atmosferze skandalu obyczajowego.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/jensen-huang-wraca-na-stanowisko-ceo-nvidii-zarzad-zmienil-zdanie/zc32430",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533142987.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jensen Huang wraca na stanowisko CEO Nvidii. Zarząd zmienił zdanie po zaledwie kilkunastu dniach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jensen-huang-wraca-na-stanowisko-ceo-nvidii-zarzad-zmienil-zdanie/zc32430",
+      "publishedAt": "2026-11-23T16:16+01:00",
+      "summary": "Jensen Huang ponownie został dyrektorem generalnym Nvidii. Rada dyrektorów jednogłośnie zdecydowała o przywróceniu współzałożyciela firmy na stanowisko, z którego zrezygnował w atmosferze skandalu obyczajowego.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533142987.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin 4 nie będzie tym czym myślisz. A Ciri nie będzie drugim Geraltem",
+      "sourceUrl": "https://www.ppe.pl/news/434253/wiedzmin-4-nie-bedzie-tym-czym-myslisz-a-ciri-nie-bedzie-drugim-geraltem.html",
+      "publishedAt": "2026-11-23T16:01+01:00",
+      "summary": "Wiceprezes do spraw fabuły w CD Projekt Red, Marcin Blacha, omówił w rozmowie z serwisem Inven Global różnice między Geraltem a Ciri w grze Wiedźmin 4.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/69b99f3cd51a83eb4954/69b99f3cd51a83eb4954.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wielu graczy nienawidzi otwartego PvP w World of Warcraft. Ja uważam, że bez niego tracimy jedną z najlepszych rzeczy, jakie oferują gry MMO",
+      "sourceUrl": "https://www.gry-online.pl/opinie/w-world-of-warcraft-forever-chcialem-tylko-dotrzec-do-lochu-ale-u/z549dd",
+      "publishedAt": "2026-11-23T16:01+01:00",
+      "summary": "Otwarte PvP sprawia, że świat MMO żyje własnym życiem, a inni gracze przestają być jedynie uczestnikami podróży, tylko stają się częścią nieprzewidywalnej przygody. Dlatego warto dać szansę takiej rywalizacji!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533141593.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Star Wars Heritage Pack na Nintendo Switch za 134,24 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-star-wars-heritage-pack-na-nintendo-switch-za-13424-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-23T15:48+01:00",
+      "summary": "Siedem kultowych gier z uniwersum Gwiezdnych Wojen, które zebrano w zestaw Star Wars Heritage Pack, kupicie taniej na Black Friday w polskim Amazonie. Pudełkowe wydanie kompilacji na konsolę Nintendo Switch kosztuje nieco ponad 134 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/10/star-wars-heritage-pack-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowe wydanie Nioh 3 wyciekło przed zapowiedzią? Gra została oceniona w Korei",
+      "sourceUrl": "https://www.ppe.pl/news/434252/nowe-wydanie-nioh-3-wycieklo-przed-zapowiedzia-gra-zostala-oceniona-w-korei.html",
+      "publishedAt": "2026-11-23T15:45+01:00",
+      "summary": "Wygląda na to, że Koei Tecmo szykuje kolejne wydanie Nioh 3.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/11ea20b5af17986cb383/11ea20b5af17986cb383.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wielki zwrot akcji w NVIDIA! Jensen Huang ponownie staje na czele firmy!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/wielki-zwrot-akcji-w-nvidia-jensen-huang-ponownie-staje-na-czele-firmy/",
+      "publishedAt": "2026-11-23T15:42+01:00",
+      "summary": "Dopiero co informowaliśmy Was o tym, że Jensen Huang zrezygnował z bycia szefem NVIDIA, a jego stanowisko, do czasu wyłonienia nowego prezesa, przejmie dyrektor finansowa Colette Kress. Dziś okazało się natomiast, że… żadnych wyborów nie będzie, gdyż po 11 dniach poza firmą, Jensen powraca na stołek CEO. Informację tę przekazał Zarząd NVIDIA. Jednym z powodów była opinia prezydenta USA i jego współpracowników. Rada miała otrzymać opinie od najwyższych rangą przedstawicieli rządu Stanów Zjednoczonych i na tej podstawie uznano, że przywrócenie Huanga nie stanowi zagrożenia dla bezpieczeństwa narodowego. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Jensen-Huang-NVIDIA-logo-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 mogło już przebić roczne prognozy. W mniej niż tydzień niemal 45 mln sprzedanych egzemplarzy",
@@ -31,6 +85,33 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533139780.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Znany analityk podaje szaloną liczbę sprzedanych kopii GTA 6. „To największa premiera w historii branży rozrywkowej”",
+      "sourceUrl": "https://cdaction.pl/newsy/znany-analityk-podaje-szalona-liczbe-sprzedanych-kopii-gta-6-to-najwieksza-premiera-w-historii-branzy-rozrywkowej/",
+      "publishedAt": "2026-11-23T15:30+01:00",
+      "summary": "Powiedzieć, że robi wrażenie, to jak nie powiedzieć zupełnie nic.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-10.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Finałowy zwiastun „Avengers: Doomsday” już jest! Marvel wyjaśnia przeszłość Steve’a Rogersa",
+      "sourceUrl": "https://cdaction.pl/kultura/finalowy-zwiastun-avengers-doomsday-juz-jest-marvel-wyjasnia-przeszlosc-stevea-rogersa/",
+      "publishedAt": "2026-11-23T15:28+01:00",
+      "summary": "Do premiery kolejnego widowiska MCU pozostał mniej niż miesiąc.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Avengers.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jensen Huang wraca na stanowisko szefa NVIDIA! Zarząd podjął jednogłośną decyzję",
+      "sourceUrl": "https://www.ppe.pl/news/434266/jensen-huang-wraca-na-stanowisko-szefa-nvidia-zarzad-podjal-jednoglosna-decyzje.html",
+      "publishedAt": "2026-11-23T15:22+01:00",
+      "summary": "Rada dyrektorów Nvidii przywróciła Jensena Huanga na stanowiska prezesa, prezydenta oraz członka zarządu ze skutkiem natychmiastowym.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/22d17f37743ad0f115c6/22d17f37743ad0f115c6.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "3 klasyczne strategie wróciły na Steama. Gracze chwalą reedycje, a jedna ma aż 95% pozytywnych opinii",
       "sourceUrl": "https://www.gry-online.pl/newsroom/3-klasyczne-strategie-wrocily-na-steama-gracze-chwala-reedycje-a/zf3242d",
@@ -38,6 +119,24 @@
       "summary": "Kilka dni temu na Steamie zadebiutowały reedycje trzech klasycznych pecetowych strategii. Cała trójka spotkała się z ciepłym przyjęciem.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533139567.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday 2026 w Loaded. Polecane promocje na klucze Steam",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/wyprzedaz-black-friday-2026-w-loaded-polecane-promocje-na-klucze-steam/",
+      "publishedAt": "2026-11-23T15:16+01:00",
+      "summary": "Po niedawnej, małej rozgrzewce, przyszedł czas na właściwą promocję związaną z Black Friday w sklepie Loaded. Na liście przecenionych gier, znajdziecie między innymi Hogwarts Legacy, Warhammer 40,000: Space Marine 2, Frostpunk 2, czy też The First Berserker: Kazan. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/loaded-black-friday-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Avengers: Doomsday na finalnym zwiastunie! Marvel odkrywa karty przed wielką premierą",
+      "sourceUrl": "https://www.ppe.pl/news/434263/avengers-doomsday-na-finalnym-zwiastunie-marvel-odkrywa-karty-przed-wielka-premiera.html",
+      "publishedAt": "2026-11-23T15:11+01:00",
+      "summary": "Marvel Studios opublikowało ostateczny, finałowy zwiastun superprodukcji Avengers: Doomsday.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4202da4d1213f3b6426a/4202da4d1213f3b6426a.webp"
     },
     {
       "sourceName": "GRY-Online",
@@ -49,6 +148,24 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533137835.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Podszywają się pod polski sklep z grami i oszukują graczy na tysiące złotych. Policja nie reaguje",
+      "sourceUrl": "https://cdaction.pl/newsy/podszywaja-sie-pod-polski-sklep-z-grami-i-oszukuja-graczy-na-tysiace-zlotych-policja-nie-reaguje/",
+      "publishedAt": "2026-11-23T15:05+01:00",
+      "summary": "Polujecie na niskie ceny z okazji Black Friday? Nie dajcie się nabrać złodziejom. PlayStation 5 Pro za 2600 zł to jedna z pułapek fałszywego sklepu internetowego podszywającego się pod prywatny, poznański biznes – Stogram.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-49-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Activision opatentowało AI, które podsłuchuje graczy. NPC będą naśladować ich zachowanie",
+      "sourceUrl": "https://www.ppe.pl/news/434251/activision-opatentowalo-ai-ktore-podsluchuje-graczy-npc-beda-nasladowac-ich-zachowanie.html",
+      "publishedAt": "2026-11-23T15:04+01:00",
+      "summary": "Activision chce wykorzystać sztuczną inteligencję w zupełnie nowy sposób.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/92d679b589d9f22a1bc9/92d679b589d9f22a1bc9.webp"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Za 2 dni na Prime Video jedna z najważniejszych premier sci-fi w tym tygodniu. Wszystkie 8 odcinków serialu rozwijającego kultowe uniwersum zadebiutuje jednego dnia",
       "sourceUrl": "https://www.gry-online.pl/newsroom/za-2-dni-na-prime-video-jedna-z-najwazniejszych-premier-sci-fi-w/z332428",
@@ -56,6 +173,15 @@
       "summary": "Kultowe uniwersum Ridleya Scotta powraca w serialowej odsłonie. Już w środę na Prime Video zadebiutuje produkcja z Michelle Yeoh i Hunter Schafer w rolach głównych. Pierwszy sezon obejrzymy w całości w dniu premiery.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533135940.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Ulepszenia z droższej wersji GTA 6 są już dostępne osobno. Za paczkę Vintage Vice City zapłacicie nieco ponad 20 zł",
+      "sourceUrl": "https://cdaction.pl/newsy/ulepszenia-z-drozszej-wersji-gta-6-sa-juz-dostepne-osobno-za-paczke-vintage-vice-city-zaplacicie-nieco-ponad-20-zl/",
+      "publishedAt": "2026-11-23T15:00+01:00",
+      "summary": "Możemy już rozszerzyć podstawową wersję gry o elementy wcześniej ekskluzywne dla edycji Ultimate.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/08/image.psd-6-1260x662.jpg"
     },
     {
       "sourceName": "PPE",
@@ -155,132 +281,6 @@
       "summary": "Sklep internetowy Empik.com odpalił już jakiś czas temu swoje Black Weeks, ale na ostatniej prostej przed Black Friday otrzymaliśmy kilka ciekawych ofert na gry Nintendo Switch 2. Najtańszym tytułem jest Bravely Default: Flying Fairy HD Remaster, który nabędziecie za 66,89 zł. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-weeks-2026-nintendo-switch-2-empik-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 z DLSS 5 i 120 FPS-ach! Prosty błąd zdradza plany na wersję PC w 2027 roku",
-      "sourceUrl": "https://www.ppe.pl/news/434244/gta-6-z-dlss-5-i-120-fps-ach-prosty-blad-zdradza-plany-na-wersje-pc-w-2027-roku.html",
-      "publishedAt": "2026-11-23T13:36+01:00",
-      "summary": "Mimo bardzo dobrego odbioru Grand Theft Auto VI w sieci narastają dyskusje o problemach z wydajnością. Liczne doniesienia wskazują, że wysokie obciążenie graficzne obnaża degradację ciekłego metalu w starszych egzemplarzach PlayStation 5.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/459037e5fefa22f0e1de/459037e5fefa22f0e1de.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Wymagania GTA 6 na PC. Ruszyło zgadywanie i jest już lista CPU: od Ryzena 5 5600 po 9800X3D",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/wymagania-gta-6-na-pc-ruszylo-zgadywanie-i-jest-juz-lista-cpu-od/z132426",
-      "publishedAt": "2026-11-23T13:35+01:00",
-      "summary": "Po analizie Digital Foundry, o której pisaliśmy wczoraj, było jasne, że ktoś spróbuje oszacować, jakich konkretnie modeli procesorów będzie wymagać wersja PC GTA 6. Jedna z pierwszych takich list już jest i - jakżeby inaczej - wywołała gorącą dyskusję.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533133320.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "17-letni Windows 7 dostał drugie życie. Entuzjaści sprawili, że system Microsoftu może obsługiwać najnowsze karty NVIDII, AMD i Intela",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/17-letni-windows-7-dostal-drugie-zycie-entuzjasci-sprawili-ze-sys/z032425",
-      "publishedAt": "2026-11-23T13:35+01:00",
-      "summary": "Modderzy zmodyfikowali architekturę sterowników graficznych w Windowsie 7. Dzięki temu możliwe jest używanie nowszych kart graficznych GeForce RTX 40 i 50 oraz Radeonów RX 7000 i 9000.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533133101.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Ma tylko 3 odcinki i podbija Netflixa. Nowy hiszpański kryminał jest już w top 5 w Polsce",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ma-tylko-3-odcinki-i-podbija-netflixa-nowy-hiszpanski-kryminal-je/ze32423",
-      "publishedAt": "2026-11-23T13:30+01:00",
-      "summary": "Zestawienie najpopularniejszych seriali Netflixa w Polsce zdominowały rodzime produkcje, ale do pierwszej piątki wpadł także hiszpański miniserial kryminalny, który zabiera widzów do małego, pozornie spokojnego miasteczka.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533131588.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "30 lat temu Einstein usunął Hitlera z historii, a gracze ruszyli na wojnę ze Stalinem. Kultowy Red Alert miał milion zamówień jeszcze przed premierą",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/30-lat-temu-einstein-usunal-hitlera-z-historii-a-gracze-ruszyli-n/zb32420",
-      "publishedAt": "2026-11-23T13:24+01:00",
-      "summary": "22 listopada minęło 30 lat od amerykańskiej premiery Command & Conquer: Red Alert. Kultowy RTS studia Westwood odniósł gigantyczny sukces.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533130410.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Brak powiązań z Blade Runner 2049 i wielka gra AAA w drodze! Nowe fakty o uniwersum Łowcy Androidów",
-      "sourceUrl": "https://www.ppe.pl/news/434240/brak-powiazan-z-blade-runner-2049-i-wielka-gra-aaa-w-drodze-nowe-fakty-o-uniwersum-lowcy-androidow.html",
-      "publishedAt": "2026-11-23T13:16+01:00",
-      "summary": "Showrunnerka serialu Blade Runner 2099, Silka Luisa, oparła strukturę świata po bezpośrednich konsultacjach z Ridleyem Scottem. Reżyser oryginału z 1982 roku pełni funkcję producenta wykonawczego projektu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8649791f9c8b47e1fd8b/8649791f9c8b47e1fd8b.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Zaginione miasto do Heroes 3 w akcji. Zobaczcie nową prezentację gigamoda Day of Reckoning",
-      "sourceUrl": "https://cdaction.pl/newsy/pierwszy-pokaz-rozgrywki-z-gigamoda-do-heroes-3-zobaczcie-jak-prezentuje-sie-day-of-reckoning-w-akcji/",
-      "publishedAt": "2026-11-23T13:15+01:00",
-      "summary": "Możemy rzucić okiem na Pałac i Kuźnię.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/kuznia-day-of-the-reckoning-1260x583.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pad Xbox Series X25 Edycja Limitowana za 349 zł w x-kom",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pad-xbox-series-x25-edycja-limitowana-za-349-zl-w-x-kom/",
-      "publishedAt": "2026-11-23T13:13+01:00",
-      "summary": "Specjalna, lekko przezroczysta wersja pada Xbox Series, pojawiła się w x-komie w dobrej cenie. Przygotowana z okazji 25-lecia marki giganta z Redmond limitowana edycja kontrolera, jest dostępna za 349 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Xbox-X25-Controller-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 dostało pierwszą łatkę po premierze. Znamy rozmiar aktualizacji",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-dostalo-pierwsza-latke-po-premierze-znamy-rozmiar-aktualiza/zf32424",
-      "publishedAt": "2026-11-23T13:09+01:00",
-      "summary": "Rockstar Games udostępnił pierwszą popremierową aktualizację do GTA 6. Nie wiadomo jeszcze, jakie zmiany wprowadza.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533131765.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Seks w GTA 6 był ogromnym wyzwaniem dla Rockstar. Twórcy zdradzili kulisy",
-      "sourceUrl": "https://www.ppe.pl/news/434239/seks-w-gta-6-byl-ogromnym-wyzwaniem-dla-rockstar-tworcy-zdradzili-kulisy.html",
-      "publishedAt": "2026-11-23T13:00+01:00",
-      "summary": "Wiarygodna realizacja scen seksu i intymności w Grand Theft Auto 6 okazała się wyjątkowo trudnym zadaniem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4f9c6b7284f116094bbe/4f9c6b7284f116094bbe.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Fanom już udało się uratować New World od zapomnienia. Wiemy kiedy wystartuje prywatny serwer, który przetrwa zamknięcie oficjalnej wersji MMO",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/fanom-juz-udalo-sie-uratowac-new-world-od-zapomnienia-wiemy-kiedy/zd32422",
-      "publishedAt": "2026-11-23T12:57+01:00",
-      "summary": "Pamiętacie jeszcze Project Azoth? Twórcy inicjatywy zdołali uratować porzucone MMORPG od Amazona.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533130839.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Tylko 8% pozytywnych recenzji w miesiąc. Kultowy rogalik ma problemy z AI, błędami i wydawcą",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tylko-8-pozytywnych-recenzji-w-miesiac-kultowy-rogalik-ma-problem/zc32421",
-      "publishedAt": "2026-11-23T12:56+01:00",
-      "summary": "Fani Edmunda McMillena nie są zachwyceni ostatnimi (i nie tylko) poczynaniami wydawcy The Binding of Isaac.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533130770.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Amazon chce, żeby granie było tak proste jak oglądanie. Rozmawiam z Jeffem Gattisem, szefem działu gamingowego",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/434228/amazon-chce-zeby-granie-bylo-tak-proste-jak-ogladanie-rozmawiam-z-jeffem-gattisem-szefem-dzialu-gamingowego.html",
-      "publishedAt": "2026-11-23T12:45+01:00",
-      "summary": "Użytkownik ma odpalać grę równie łatwo jak kolejny odcinek serialu - właśnie do tego zmierza Amazon, łącząc Lunę z Prime Video. Bez kupowania konsoli, pobierania kilkudziesięciu gigabajtów danych i zastanawiania się, czy komputer spełnia ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a491123f96cbe7350e76/a491123f96cbe7350e76.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gracze zwariowali na punkcie \"darmowego GTA 6\". Gangsterska gra bije rekordy",
-      "sourceUrl": "https://www.ppe.pl/news/434237/gracze-zwariowali-na-punkcie-darmowego-gta-6-gangsterska-gra-bije-rekordy.html",
-      "publishedAt": "2026-11-23T12:40+01:00",
-      "summary": "Wygląda na to, że Rob Run nie jest tylko ciekawostką i efemerydą. Ta gra, nawiązująca oferowaną rozgrywką do marki Grand Theft Auto, już na stałe wpisuje się w gamingowy krajobraz.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0e228f01973018ca8ddb/0e228f01973018ca8ddb.jpg"
     }
   ],
   "indie": [
@@ -361,7 +361,7 @@
       "note": "Rockstar potwierdza premierę 19 listopada na PS5 i Xbox Series X|S. Akcja przenosi serię do fikcyjnego stanu Leonida.",
       "sourceUrl": "https://www.rockstargames.com/VI",
       "summary": "Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.",
-      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?TfXRuFEcaoj7Q2oKW_PXW"
+      "imageUrl": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?6wC5t2qhtJZtllO-YhLcO"
     },
     {
       "date": "2026-11-24",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "f26f231b7053913fafbbb72dd7ff38d12a02c568e67e868dce358741fe45e5cb"
+  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
 }
