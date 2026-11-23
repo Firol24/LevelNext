@@ -1,17 +1,125 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T12:01+01:00",
+  "updatedAt": "2026-11-23T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Elon Musk przyznał, że koszt produkcji komputerów Tesli wzrósł o 100%. Wszystko przez ten sam kryzys pamięci, który uderza w graczy i producentów PC",
-    "summary": "Komputery AI4 montowane w Teslach mają kosztować jednak 1 300 dolarów zamiast 650. Według Elona Muska winne są rosnące ceny podzespołów, do czego miliarder się przyczynia.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/elon-musk-przyznal-ze-koszt-produkcji-komputerow-tesli-wzrosl-o-1/z03241f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533129064.jpg"
+    "title": "Ma tylko 3 odcinki i podbija Netflixa. Nowy hiszpański kryminał jest już w top 5 w Polsce",
+    "summary": "Zestawienie najpopularniejszych seriali Netflixa w Polsce zdominowały rodzime produkcje, ale do pierwszej piątki wpadł także hiszpański miniserial kryminalny, który zabiera widzów do małego, pozornie spokojnego miasteczka.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/ma-tylko-3-odcinki-i-podbija-netflixa-nowy-hiszpanski-kryminal-je/ze32423",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533131588.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ma tylko 3 odcinki i podbija Netflixa. Nowy hiszpański kryminał jest już w top 5 w Polsce",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ma-tylko-3-odcinki-i-podbija-netflixa-nowy-hiszpanski-kryminal-je/ze32423",
+      "publishedAt": "2026-11-23T13:30+01:00",
+      "summary": "Zestawienie najpopularniejszych seriali Netflixa w Polsce zdominowały rodzime produkcje, ale do pierwszej piątki wpadł także hiszpański miniserial kryminalny, który zabiera widzów do małego, pozornie spokojnego miasteczka.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533131588.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "30 lat temu Einstein usunął Hitlera z historii, a gracze ruszyli na wojnę ze Stalinem. Kultowy Red Alert miał milion zamówień jeszcze przed premierą",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/30-lat-temu-einstein-usunal-hitlera-z-historii-a-gracze-ruszyli-n/zb32420",
+      "publishedAt": "2026-11-23T13:24+01:00",
+      "summary": "22 listopada minęło 30 lat od amerykańskiej premiery Command & Conquer: Red Alert. Kultowy RTS studia Westwood odniósł gigantyczny sukces.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533130410.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 dostało pierwszą łatkę po premierze. Znamy rozmiar aktualizacji",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-dostalo-pierwsza-latke-po-premierze-znamy-rozmiar-aktualiza/zf32424",
+      "publishedAt": "2026-11-23T13:09+01:00",
+      "summary": "Rockstar Games udostępnił pierwszą popremierową aktualizację do GTA 6. Nie wiadomo jeszcze, jakie zmiany wprowadza.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533131765.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Seks w GTA 6 był ogromnym wyzwaniem dla Rockstar. Twórcy zdradzili kulisy",
+      "sourceUrl": "https://www.ppe.pl/news/434239/seks-w-gta-6-byl-ogromnym-wyzwaniem-dla-rockstar-tworcy-zdradzili-kulisy.html",
+      "publishedAt": "2026-11-23T13:00+01:00",
+      "summary": "Wiarygodna realizacja scen seksu i intymności w Grand Theft Auto 6 okazała się wyjątkowo trudnym zadaniem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4f9c6b7284f116094bbe/4f9c6b7284f116094bbe.webp"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Fanom już udało się uratować New World od zapomnienia. Wiemy kiedy wystartuje prywatny serwer, który przetrwa zamknięcie oficjalnej wersji MMO",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/fanom-juz-udalo-sie-uratowac-new-world-od-zapomnienia-wiemy-kiedy/zd32422",
+      "publishedAt": "2026-11-23T12:57+01:00",
+      "summary": "Pamiętacie jeszcze Project Azoth? Twórcy inicjatywy zdołali uratować porzucone MMORPG od Amazona.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533130839.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Tylko 8% pozytywnych recenzji w miesiąc. Kultowy rogalik ma problemy z AI, błędami i wydawcą",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tylko-8-pozytywnych-recenzji-w-miesiac-kultowy-rogalik-ma-problem/zc32421",
+      "publishedAt": "2026-11-23T12:56+01:00",
+      "summary": "Fani Edmunda McMillena nie są zachwyceni ostatnimi (i nie tylko) poczynaniami wydawcy The Binding of Isaac.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533130770.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Amazon chce, żeby granie było tak proste jak oglądanie. Rozmawiam z Jeffem Gattisem, szefem działu gamingowego",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434228/amazon-chce-zeby-granie-bylo-tak-proste-jak-ogladanie-rozmawiam-z-jeffem-gattisem-szefem-dzialu-gamingowego.html",
+      "publishedAt": "2026-11-23T12:45+01:00",
+      "summary": "Użytkownik ma odpalać grę równie łatwo jak kolejny odcinek serialu - właśnie do tego zmierza Amazon, łącząc Lunę z Prime Video. Bez kupowania konsoli, pobierania kilkudziesięciu gigabajtów danych i zastanawiania się, czy komputer spełnia ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a491123f96cbe7350e76/a491123f96cbe7350e76.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gracze zwariowali na punkcie \"darmowego GTA 6\". Gangsterska gra bije rekordy",
+      "sourceUrl": "https://www.ppe.pl/news/434237/gracze-zwariowali-na-punkcie-darmowego-gta-6-gangsterska-gra-bije-rekordy.html",
+      "publishedAt": "2026-11-23T12:40+01:00",
+      "summary": "Wygląda na to, że Rob Run nie jest tylko ciekawostką i efemerydą. Ta gra, nawiązująca oferowaną rozgrywką do marki Grand Theft Auto, już na stałe wpisuje się w gamingowy krajobraz.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0e228f01973018ca8ddb/0e228f01973018ca8ddb.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowa gra Rockstar Games zdetronizuje GTA 6. Premiera ma nastąpić bardzo szybko",
+      "sourceUrl": "https://www.ppe.pl/news/434233/nowa-gra-rockstar-games-zdetronizuje-gta-6-premiera-ma-nastapic-bardzo-szybko.html",
+      "publishedAt": "2026-11-23T12:38+01:00",
+      "summary": "Minęły dopiero cztery dni od premiery Grand Theft Auto 6, które z 32,5 milionami zamówień przedpremierowych i rekordowymi ocenami na równi ze starą Zeldą właśnie rozbiło bank, a w sieci już robi się głośno o tym, co Rockstar Games rzuci n...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/351b21bebedacfff05b8/351b21bebedacfff05b8.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Tegoroczny exclusive Sony na PS5 za niecałe 100 zł. Potężna promocja w Media Expert",
+      "sourceUrl": "https://cdaction.pl/newsy/tegoroczny-exclusive-sony-na-ps5-za-niecale-100-zl-potezna-promocja-w-media-expert/",
+      "publishedAt": "2026-11-23T12:36+01:00",
+      "summary": "Wyjątkowa oferta dla fanów roguelike’ów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/03/saros-1260x758.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nintendo Sound Clock Alarmo za 224,99 zł (50% taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/nintendo-sound-clock-alarmo-za-22499-zl-50-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-23T12:36+01:00",
+      "summary": "W sklepie RTV Euro AGD możecie taniej kupić praktyczny gadżet dla fanów wielkiego N. Mowa tu o Nintendo Sound Clock Alarmo, czyli budzik mający Wam uprzyjemnić wstawanie. Akcesorium dedykowane śpiochom, może być wasze za 224,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/01/Pierwsza-promocja-na-Nintendo-Sound-Clock-Alarmo.-Budzik-dostepny-za-419-zl-w-Media-Expert_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Były pracownik Rockstara ujawnia, co Red Dead Redemption 2 robi lepiej od GTA 6. „Zastanawiam się, kto to robił”",
+      "sourceUrl": "https://cdaction.pl/newsy/byly-pracownik-rockstara-ujawnia-co-red-dead-redemption-2-robi-lepiej-od-gta-6-zastanawiam-sie-kto-to-robil/",
+      "publishedAt": "2026-11-23T12:30+01:00",
+      "summary": "Drobna rzecz, ale warto ją odnotować.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/gta6-5-1260x709.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Elon Musk przyznał, że koszt produkcji komputerów Tesli wzrósł o 100%. Wszystko przez ten sam kryzys pamięci, który uderza w graczy i producentów PC",
@@ -22,6 +130,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533129064.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Nie możesz pominąć tej misji w GTA 6. Sprawdź klozet, a zwiększysz pasek wytrzymałości",
+      "sourceUrl": "https://www.ppe.pl/news/434221/nie-mozesz-pominac-tej-misji-w-gta-6-sprawdz-klozet-a-zwiekszysz-pasek-wytrzymalosci.html",
+      "publishedAt": "2026-11-23T12:16+01:00",
+      "summary": "Jeśli myśleliście, że w Grand Theft Auto 6 Rockstar Games trochę spoważniał, to jedno z pierwszych zadań pobocznych szybko wyprowadzi was z błędu. Już od pierwszego rozdziału można trafić na kompletnie odjechaną misję The Final Flush, kt...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/edb8693855cc28e232eb/edb8693855cc28e232eb.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "GTA 6 ma kasyno, do którego nie można wejść. Polacy mogą nie zagrać w nim nawet po otwarciu",
       "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-ma-kasyno-do-ktorego-nie-mozna-wejsc-polacy-moga-nie-zagrac/zd3241c",
@@ -29,6 +146,15 @@
       "summary": "W GTA 6 nie brakuje atrakcji, które pozostają niedostępne dla graczy. Niewykluczone jednak, że Rockstar planuje otworzyć je w przyszłości.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533126232.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na słuchawki i głośniki Marshall w x-kom. Wybrane modele dostępne od 249,90 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-sluchawki-i-glosniki-marshall-w-x-kom-wybrane-modele-dostepne-od-24990-zl/",
+      "publishedAt": "2026-11-23T12:11+01:00",
+      "summary": "Sprzęt audio firmy Marshall został przeceniono w ramach Black Weeks w x-kom. Przyjrzeliśmy się ofercie sklepu i opracowaliśmy dla Was wpis z promocjami na głośniki oraz słuchawki bezprzewodowe. Ceny rozpoczynają się od 249,90 zł za Marshall Minor IV TWS. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/marshall-minor-iv-2b-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -47,6 +173,15 @@
       "summary": "Niedawno na Steam uruchomiono wyprzedaż gier z najniższymi cenami gier w historii (m.in. Kingdom Come 2 można kupić za 83,66 zł). Do tej oferty oferty dołączyły właśnie kolejne hity.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/6f5c458f1722bfcb08df/6f5c458f1722bfcb08df.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Zapowiedziano kolejny literacki prequel Baldur’s Gate’a 3 po kontrowersyjnym „Astarionie”. Tym razem przyszła pora na Posępne Serce",
+      "sourceUrl": "https://cdaction.pl/newsy/zapowiedziano-kolejny-literacki-prequel-baldurs-gatea-3-po-kontrowersyjnym-astarionie-tym-razem-przyszla-pora-na-posepne-serce/",
+      "publishedAt": "2026-11-23T12:00+01:00",
+      "summary": "Czekacie?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-23T110010.600-1260x709.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -146,141 +281,6 @@
       "summary": "Dziennikarze myślą, że wciąż kontrolują dyskurs na temat gier. I mocno się pod tym względem mylą.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/8823cfe0f21f9da2d3d9/8823cfe0f21f9da2d3d9.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wielka kompromitacja PlayStation. Sony skasowało zamówienia klientom",
-      "sourceUrl": "https://www.ppe.pl/news/434211/wielka-kompromitacja-playstation-sony-skasowalo-zamowienia-klientom.html",
-      "publishedAt": "2026-11-23T10:52+01:00",
-      "summary": "Sony najwyraźniej ma ostatnio jakiegoś pecha, bo w dziale sprzętowym PlayStation właśnie zaliczyło kolejną dużą wpadkę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0d90f352e00087b7bf28/0d90f352e00087b7bf28.png"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Netflix szykuje z Harlanem Cobenem 15. wspólny thriller. Za sterami serialu staną twórcy kryminału z top 10 wszech czasów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/netflix-szykuje-z-harlanem-cobenem-15-wspolny-thriller-za-sterami/z132417",
-      "publishedAt": "2026-11-23T10:50+01:00",
-      "summary": "Netflix po raz drugi zaadaptuje tę samą powieść Harlana Cobena. Za ekranizację The Innocent odpowiedzą twórcy jednego z największych hitów w historii platformy, kryminału z Samem Worthingtonem oraz Britt Lower.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533123093.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Premiera Gothic 3 Classic na PS5 i Xbox Series już jutro. Gdzie kupić pudełkowe wydanie gry najtaniej?",
-      "sourceUrl": "https://lowcygier.pl/preordery/premiera-gothic-3-classic-na-ps5-i-xbox-series-juz-jutro-gdzie-kupic-pudelkowe-wydanie-gry-najtaniej/",
-      "publishedAt": "2026-11-23T10:48+01:00",
-      "summary": "Bezimienny nie obawia się GTA VI. Premiera Gothic 3 Classic odbędzie się już 24 listopada. Na początku w ostatnią odsłonę przygód charyzmatycznego bohatera zagrają posiadacze konsol PlayStation 5 oraz Xbox Series. Wydanie wersji na Nintendo Switch 2 zostało bowiem przeniesione na przyszły rok. Przygotowaliśmy dla Was wpis, z którego dowiecie się, co zaoferuje odświeżony RPG i gdzie kupicie go najtaniej. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gothic-3-Classic-premiera-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Dlaczego Jason z GTA 6 tak mało mówi? Rockstar zdradził, że wzorował go na legendzie Hollywood i bohaterze kryminału sprzed 54 lat",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/dlaczego-jason-z-gta-6-tak-malo-mowi-rockstar-zdradzil-ze-wzorowa/z032416",
-      "publishedAt": "2026-11-23T10:35+01:00",
-      "summary": "Twórcy GTA podzielili się kolejnymi informacjami zza kulis. Pokazują one, jak dużą wagę Rockstar Games przykładało do szczegółów gry.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533122256.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na pudełkowe gry PS5 i PS4 na Black Friday 2026 w Media Expert. Wybrane tytuły już od 39,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/promocje-na-pudelkowe-gry-ps5-i-ps4-na-black-friday-2026-w-media-expert-wybrane-tytuly-juz-od-3999-zl/",
-      "publishedAt": "2026-11-23T10:31+01:00",
-      "summary": "Jesteśmy w ostatnim tygodniu Black Weeks, by hucznie wejść w Czarny Piątek. W Media Expert przygotowano promocje na fizyczne wydania gier na konsole Sony PlayStation. Ceny nie powinny być dla Was zaskoczeniem, rozpoczynając się od 39,99 zł za serię PlayStation Hits. Wszystkie oferty dostępne w sklepie, znajdziecie w rozwinięciu artykułu. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-2026-ps4-ps5-media-expert-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na pudełkowe gry PS5 i PS4 na Black Friday 2026 w Media Expert. SAROS za 99,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/promocje-na-pudelkowe-gry-ps5-i-ps4-na-black-friday-2026-w-media-expert-saros-za-9999-zl/",
-      "publishedAt": "2026-11-23T10:31+01:00",
-      "summary": "Jesteśmy w ostatnim tygodniu Black Weeks, by hucznie wejść w Czarny Piątek. W Media Expert przygotowano promocje na fizyczne wydania gier na konsole Sony PlayStation. Ceny nie powinny być dla Was zaskoczeniem, rozpoczynając się od 39,99 zł za serię PlayStation Hits. Wszystkie oferty dostępne w sklepie, znajdziecie w rozwinięciu artykułu. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-2026-ps4-ps5-media-expert-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 zawiesza się na PS5. Gracze zgłaszają tajemniczy błąd",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-zawiesza-sie-na-ps5-gracze-zglaszaja-tajemniczy-blad/",
-      "publishedAt": "2026-11-23T10:30+01:00",
-      "summary": "GTA 6 zaliczyło spektakularny start, ale nie wszyscy mogą cieszyć się nową produkcją Rockstara bez przeszkód. Część posiadaczy PS5 skarży się na tajemniczy błąd.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-23-o-09.56.49-1260x662.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Rockstar Games orze ile tylko może. Specjalny pakiet do GTA 6 w cenie 22,50 zł",
-      "sourceUrl": "https://www.ppe.pl/news/434210/rockstar-games-orze-ile-tylko-moze-specjalny-pakiet-do-gta-6-w-cenie-22-50-zl.html",
-      "publishedAt": "2026-11-23T10:26+01:00",
-      "summary": "Mogłoby się wydawać, że po zarobieniu miliardów dolarów na samej premierze Grand Theft Auto 6 Rockstar Games trochę spuści z tonu i pozwoli graczom po prostu cieszyć się grą. Nic z tych rzeczy - wydawca orze ile może i bez skrępowania wycis...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4abec57654b56214b0b7/4abec57654b56214b0b7.avif"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Pierwsza gra na Steamie z 10 milionami recenzji. Rywale CS2 nie mają nawet 3 milionów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/pierwsza-gra-na-steamie-z-10-milionami-recenzji-rywale-cs2-nie-ma/zf32415",
-      "publishedAt": "2026-11-23T10:18+01:00",
-      "summary": "Counter-Strike ma tak wiele recenzji na Steamie, że potrzeba pięć innych najpopularniejszych gier, by przebić wynik CS2.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533121242.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Marketingowe ściemy GTA 6. Wersja na PS5 działająca gorzej od Xbox i graficzny downgrade",
-      "sourceUrl": "https://www.ppe.pl/news/434217/marketingowe-sciemy-gta-6-wersja-na-ps5-dzialajaca-gorzej-od-xbox-i-graficzny-downgrade.html",
-      "publishedAt": "2026-11-23T10:15+01:00",
-      "summary": "W swoich materiałach marketingowych Sony przedstawiało GTA 6, jako tytuł, który działa najlepiej na PS5. Sprawdźmy, jak wygląda to w rzeczywistości.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/b800b48ac7c63bcfc959/b800b48ac7c63bcfc959.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 5 rozwala system! Gracze rzucili się na grę Rockstar Games",
-      "sourceUrl": "https://www.ppe.pl/news/434209/gta-5-rozwala-system-gracze-rzucili-sie-na-gre-rockstar-games.html",
-      "publishedAt": "2026-11-23T10:01+01:00",
-      "summary": "Kiedy na rynek wchodzi taki gigant jak Grand Theft Auto 6, zdrowy rozsądek podpowiada, że poprzednia część serii powinna w końcu pójść w odstawkę. W końcu GTA 5 ma już na karku trzynaście długich lat.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d8bc0df893ebd9761b5a/d8bc0df893ebd9761b5a.png"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Cyberpunk 2 nie zamierza rywalizować z GTA 6. CD Projekt Red ma pomysł na własny, unikalny otwarty świat",
-      "sourceUrl": "https://cdaction.pl/newsy/cyberpunk-2-nie-zamierza-rywalizowac-z-gta-6-cd-projekt-red-ma-pomysl-na-wlasny-unikalny-otwarty-swiat/",
-      "publishedAt": "2026-11-23T10:00+01:00",
-      "summary": "Dyrektor narracji Cyberpunka 2 prześmiewczo twierdzi, że „przygnębienie związane z tworzeniem gier z otwartym światem wywołane przez GTA 6 to fakt”.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Cyberpunk-2.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Magia GTA 6 zaczyna się dopiero po 8 godzinach. Tak uważa były twórca serii",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/magia-gta-6-zaczyna-sie-dopiero-po-8-godzinach-tak-uwaza-byly-two/ze32414",
-      "publishedAt": "2026-11-23T09:45+01:00",
-      "summary": "Weteran Rockstar Games podzielił się opinią o GTA 6 po weekendzie z grą. Chwali produkcję, ale przyznaje rację części krytyki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533119381.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Jennifer Lawrence chwali się swoimi intymnymi scenami. Zrobiła ranking",
-      "sourceUrl": "https://www.ppe.pl/news/434208/jennifer-lawrence-chwali-sie-swoimi-intymnymi-scenami-zrobila-ranking.html",
-      "publishedAt": "2026-11-23T09:34+01:00",
-      "summary": "Jennifer Lawrence od lat słynie z tego, że kompletnie nie ma filtra i w wywiadach potrafi wypalić absolutnie wszystko. Aktorka znów to udowodniła w programie Watch What Happens Live u Andy’ego Cohena, gdzie wpadła u boku swojego kolegi z planu I...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a3daab3a08f317b60122/a3daab3a08f317b60122.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Kevin znów będzie sam w domu! Disney oficjalnie zamówił nowy film z Macaulayem Culkinem w roli głównej",
-      "sourceUrl": "https://cdaction.pl/kultura/kevin-znow-bedzie-sam-w-domu-disney-oficjalnie-zamowil-nowy-film-z-macaulayem-culkinem-w-roli-glownej/",
-      "publishedAt": "2026-11-23T09:30+01:00",
-      "summary": "Święta bez Kevina nie istnieją…",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/07/Kevin-sam-w-domu.jpg"
     }
   ],
   "indie": [
