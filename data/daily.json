@@ -1,17 +1,125 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T16:01+01:00",
+  "updatedAt": "2026-11-23T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Jensen Huang wraca na stanowisko CEO Nvidii. Zarząd zmienił zdanie po zaledwie kilkunastu dniach",
-    "summary": "Jensen Huang ponownie został dyrektorem generalnym Nvidii. Rada dyrektorów jednogłośnie zdecydowała o przywróceniu współzałożyciela firmy na stanowisko, z którego zrezygnował w atmosferze skandalu obyczajowego.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/jensen-huang-wraca-na-stanowisko-ceo-nvidii-zarzad-zmienil-zdanie/zc32430",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533142987.jpg"
+    "title": "W GTA 6 Rockstar „dojrzał”, a kobieta w głównej roli to potwierdza. „Zmiana, na którą czekaliśmy zdecydowanie zbyt długo”",
+    "summary": "Weteran Rockstara nazwał „dojrzewaniem” wprowadzenie kobiecej protagonistki do GTA 6. To „zmiana, na którą czekaliśmy zdecydowanie zbyt długo”.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-rockstar-dojrzal-a-kobieta-w-glownej-roli-to-potwierdza-z/zf32433",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533148472.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "W GTA 6 Rockstar „dojrzał”, a kobieta w głównej roli to potwierdza. „Zmiana, na którą czekaliśmy zdecydowanie zbyt długo”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-rockstar-dojrzal-a-kobieta-w-glownej-roli-to-potwierdza-z/zf32433",
+      "publishedAt": "2026-11-23T17:50+01:00",
+      "summary": "Weteran Rockstara nazwał „dojrzewaniem” wprowadzenie kobiecej protagonistki do GTA 6. To „zmiana, na którą czekaliśmy zdecydowanie zbyt długo”.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533148472.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy GTA 6 zastawili na graczy pułapkę niczym z Looney Tunes i zaskakującą wielu w nią wpada",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-gta-6-zastawili-na-graczy-pulapke-niczym-z-looney-tunes-i/ze32432",
+      "publishedAt": "2026-11-23T17:48+01:00",
+      "summary": "Przemierzając Vice City w GTA 6 lepiej uważajcie na niektóre tunele. Okazuje się, że w mieście najwyraźniej rezyduje podejrzany, kreskówkowy Kojot.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533148456.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "NVIDIA RTX Spark. Ciekawa konkurencja dla MacBooków Pro. Proponujemy trzy laptopy dla wymagających odbiorców",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/433744/nvidia-rtx-spark-ciekawa-konkurencja-dla-macbookow-pro-proponujemy-trzy-laptopy-dla-wymagajacych-odbiorcow.html",
+      "publishedAt": "2026-11-23T17:00+01:00",
+      "summary": "NVIDIA RTX Spark to platforma komputerowa, która łączy procesor ARM, grafikę Blackwell RTX i dużą pulę wspólnej pamięci w jednym układzie. Projekt ma trafić do osób montujących filmy, projektujących grafikę, piszących kod i korzystający...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/72910c0fe24503e17443/72910c0fe24503e17443.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Last of Us Part II Remastered otrzymało darmowy multiplayer! Tryb jest już dostępny",
+      "sourceUrl": "https://www.ppe.pl/news/434261/the-last-of-us-part-ii-remastered-otrzymalo-darmowy-multiplayer-tryb-jest-juz-dostepny.html",
+      "publishedAt": "2026-11-23T17:00+01:00",
+      "summary": "The Last of Us Part II Remastered na PC doczekało się darmowego trybu wieloosobowego.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6ee0bb0115749eb32f43/6ee0bb0115749eb32f43.png"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Grał w GTA 6 i nagle zobaczył znajomą okolicę. Po wyjściu ze swojego pokoju znalazł się w identycznym otoczeniu co w grze",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gral-w-gta-6-i-nagle-zobaczyl-znajoma-okolice-po-wyjsciu-ze-swoje/z232427",
+      "publishedAt": "2026-11-23T17:00+01:00",
+      "summary": "Czy ten gracz żyje w Matriksie? Okazuje się, że GTA 6 w idealny sposób odwzorowało jego dzielnicę – immersja nie zna tutaj granic.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533134202.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na Sony DualSense Edge w RTV Euro AGD. Specjalne kontrolery do PS5 za 739,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocja-na-sony-dualsense-edge-w-rtv-euro-agd-specjalne-kontrolery-do-ps5-za-73999-zl/",
+      "publishedAt": "2026-11-23T16:49+01:00",
+      "summary": "W internetowym sklepie RTV Euro AGD pojawiła się wyjątkowa promocja na kontroler Sony DualSense Edge. Specjalna, ulepszona wersja bezprzewodowego pada dedykowanego konsoli PlayStation 5 dostępna jest za 739,99 zł. Podana kwota pojawi się w koszyku po wykorzystaniu limitowanego kodu zniżkwoego. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2022/08/DualSense-Edge_miniaturka-scaled.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wykradziona wersja GTA 6 na Xboksa jest kompletna. Brakujący plik ujrzał światło dzienne",
+      "sourceUrl": "https://www.ppe.pl/news/434271/wykradziona-wersja-gta-6-na-xboksa-jest-kompletna-brakujacy-plik-ujrzal-swiatlo-dzienne.html",
+      "publishedAt": "2026-11-23T16:42+01:00",
+      "summary": "Wygląda na to, że pojawienie się nieautoryzowanej konwersji GTA 6 na PC to kwestia czasu. Cyberleek, który kilka miesięcy temu zasypywał Internet nagraniami z wczesnej wersji gry, dotrzymał słowa i dokończył publikację konsolowej wersji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/93f540f52ca0944f69c9/93f540f52ca0944f69c9.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Darkest Dungeon 2 doczeka się nowego dodatku. Grywalna postać i świeży tryb właśnie zostały zapowiedziane",
+      "sourceUrl": "https://cdaction.pl/newsy/darkest-dungeon-2-doczeka-sie-nowego-dodatku-grywalna-postac-i-swiezy-tryb-wlasnie-zostaly-zapowiedziane/",
+      "publishedAt": "2026-11-23T16:30+01:00",
+      "summary": "Zdeprawowany lud domaga się igrzysk!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-23T123945.338-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Kolejna porażka Denuvo! Phantom Blade Zero zostało złamane",
+      "sourceUrl": "https://www.ppe.pl/news/434259/kolejna-porazka-denuvo-phantom-blade-zero-zostalo-zlamane.html",
+      "publishedAt": "2026-11-23T16:30+01:00",
+      "summary": "Phantom Blade Zero doczekało się nieoficjalnego obejścia zabezpieczeń Denuvo.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/cf222a2072d152c81bcc/cf222a2072d152c81bcc.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracze WoW Forever organizują wielkie marsze przez ziemie wroga i inwazje na stolice przeciwnika. „Najlepsza zabawa w WoW-ie od jakichś 15 lat”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-wow-forever-organizuja-wielkie-marsze-przez-ziemie-wroga-i/zd32431",
+      "publishedAt": "2026-11-23T16:26+01:00",
+      "summary": "Społeczność WoW Forever zaczyna organizować coraz bardziej imponujące inicjatywy. Wielkie pochody na stolice wroga mogą być dopiero początkiem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533143582.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka USB-C Motorola TurboPower 68W za 69 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-usb-c-motorola-turbopower-68w-za-69-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-23T16:24+01:00",
+      "summary": "Szybka, jednoportowa ładowarka Motorola TurboPower, pojawiła się w dobrej cenie w ofercie polskiego oddziału sklepu Amazon. Model oferujący moc 68W, z kablem USB-C w zestawie, kosztuje 69 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/motorola-turbopower-usb-c-68W-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Creator 3w1 Dzikie Zwierzęta Dumny Lew już za 169,99 zł (cena kat. 274,99 zł) na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-creator-3w1-dzikie-zwierzeta-dumny-lew-juz-za-16999-zl-cena-kat-27499-zl-na-allegro/",
+      "publishedAt": "2026-11-23T16:20+01:00",
+      "summary": "Dobra okazja na zakup zestawu LEGO Creator 3w1 Dzikie Zwierzęta Dumny Lew, jest teraz do dorwania w ramach Allegro Black Weeks. Model składający się z 839 elementów, z którego możecie złożyć króla dżungli, lwicę lub dwa lwiątka, dostępny jest w historycznie najniższej cenie wynoszącej 169,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/LEGO-31386-Creator-3w1-Dzikie-Zwierzeta_-Dumny-Lew_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Jensen Huang wraca na stanowisko CEO Nvidii. Zarząd zmienił zdanie po zaledwie kilkunastu dniach",
@@ -20,6 +128,15 @@
       "summary": "Jensen Huang ponownie został dyrektorem generalnym Nvidii. Rada dyrektorów jednogłośnie zdecydowała o przywróceniu współzałożyciela firmy na stanowisko, z którego zrezygnował w atmosferze skandalu obyczajowego.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533142987.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nvidia ma nowego szefa, którym jest stary szef. Jensen Huang powrócił na stanowisko",
+      "sourceUrl": "https://cdaction.pl/newsy/nvidia-ma-nowego-szefa-ktorym-jest-stary-szef-jensen-huang-powrocil-na-stanowisko/",
+      "publishedAt": "2026-11-23T16:05+01:00",
+      "summary": "Wyrywacz rąk powraca.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/jensen-huang-4345.jpg"
     },
     {
       "sourceName": "PPE",
@@ -38,6 +155,24 @@
       "summary": "Otwarte PvP sprawia, że świat MMO żyje własnym życiem, a inni gracze przestają być jedynie uczestnikami podróży, tylko stają się częścią nieprzewidywalnej przygody. Dlatego warto dać szansę takiej rywalizacji!",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533141593.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Czarny kontroler DualSense z przewodem do komputera PC za 258,89 zł (taniej o 61 zł) w Empiku",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/czarny-kontroler-dualsense-z-przewodem-do-komputera-pc-za-25889-zl-taniej-o-61-zl-w-empiku/",
+      "publishedAt": "2026-11-23T16:01+01:00",
+      "summary": "Choć Sony zrezygnowało z wydania gier singleplayer na komputerach, w sprzedaży wciąż dostępny jest kontroler Dualsense PC Ready. Czarny pad, sprzedawany w zestawie z kablem USB, możecie dorwać teraz za 259 zł w Empiku z okazji Black Friday 2026. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/03/sony-dualsense-pc-ready-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "3 kultowe strategie trafiły w odświeżonych wersjach na Steama i GOG.com. Wśród nich m.in. ostatnia odsłona serii Warlords",
+      "sourceUrl": "https://cdaction.pl/newsy/3-kultowe-strategie-trafily-w-odswiezonych-wersjach-na-steama-i-gog-com-wsrod-nich-m-in-ostatnia-odslona-serii-warlords/",
+      "publishedAt": "2026-11-23T16:00+01:00",
+      "summary": "Klimaty fantasy, XV-wieczna Ameryka lub II wojna światowa – fani strategii mają w czym wybierać.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Warlords.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -146,141 +281,6 @@
       "summary": "Twórcy Wiedźmina 4 mają na uwadze, że Ciri to własna postać, z odmiennym charakterem od Geralta.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533137835.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Podszywają się pod polski sklep z grami i oszukują graczy na tysiące złotych. Policja nie reaguje",
-      "sourceUrl": "https://cdaction.pl/newsy/podszywaja-sie-pod-polski-sklep-z-grami-i-oszukuja-graczy-na-tysiace-zlotych-policja-nie-reaguje/",
-      "publishedAt": "2026-11-23T15:05+01:00",
-      "summary": "Polujecie na niskie ceny z okazji Black Friday? Nie dajcie się nabrać złodziejom. PlayStation 5 Pro za 2600 zł to jedna z pułapek fałszywego sklepu internetowego podszywającego się pod prywatny, poznański biznes – Stogram.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-49-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Activision opatentowało AI, które podsłuchuje graczy. NPC będą naśladować ich zachowanie",
-      "sourceUrl": "https://www.ppe.pl/news/434251/activision-opatentowalo-ai-ktore-podsluchuje-graczy-npc-beda-nasladowac-ich-zachowanie.html",
-      "publishedAt": "2026-11-23T15:04+01:00",
-      "summary": "Activision chce wykorzystać sztuczną inteligencję w zupełnie nowy sposób.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/92d679b589d9f22a1bc9/92d679b589d9f22a1bc9.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Za 2 dni na Prime Video jedna z najważniejszych premier sci-fi w tym tygodniu. Wszystkie 8 odcinków serialu rozwijającego kultowe uniwersum zadebiutuje jednego dnia",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/za-2-dni-na-prime-video-jedna-z-najwazniejszych-premier-sci-fi-w/z332428",
-      "publishedAt": "2026-11-23T15:00+01:00",
-      "summary": "Kultowe uniwersum Ridleya Scotta powraca w serialowej odsłonie. Już w środę na Prime Video zadebiutuje produkcja z Michelle Yeoh i Hunter Schafer w rolach głównych. Pierwszy sezon obejrzymy w całości w dniu premiery.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533135940.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Ulepszenia z droższej wersji GTA 6 są już dostępne osobno. Za paczkę Vintage Vice City zapłacicie nieco ponad 20 zł",
-      "sourceUrl": "https://cdaction.pl/newsy/ulepszenia-z-drozszej-wersji-gta-6-sa-juz-dostepne-osobno-za-paczke-vintage-vice-city-zaplacicie-nieco-ponad-20-zl/",
-      "publishedAt": "2026-11-23T15:00+01:00",
-      "summary": "Możemy już rozszerzyć podstawową wersję gry o elementy wcześniej ekskluzywne dla edycji Ultimate.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/08/image.psd-6-1260x662.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 otrzymało pierwszą aktualizację! Nie wszyscy pobiorą ją od razu",
-      "sourceUrl": "https://www.ppe.pl/news/434250/gta-6-otrzymalo-pierwsza-aktualizacje-nie-wszyscy-pobiora-ja-od-razu.html",
-      "publishedAt": "2026-11-23T14:51+01:00",
-      "summary": "Rockstar Games rozpoczęło udostępnianie pierwszej popremierowej aktualizacji do GTA 6. Patch oznaczony numerem 1.002.002 trafił na PlayStation 5 oraz Xbox Series X/S, ale producent zdecydował się na nietypowy sposób dystrybucji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0b34316f8d651b6e381c/0b34316f8d651b6e381c.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Activision oficjalnie! Xbox szykuje wielki powrót kultowej gry",
-      "sourceUrl": "https://www.ppe.pl/news/434249/activision-oficjalnie-xbox-szykuje-wielki-powrot-kultowej-gry.html",
-      "publishedAt": "2026-11-23T14:36+01:00",
-      "summary": "Czy kultowe Banjo-Kazooie doczeka się wreszcie nowej odsłony? Pojawił się kolejny sygnał, który może zainteresować fanów marki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5cd450b2ca8edf0d3553/5cd450b2ca8edf0d3553.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Remake Star Wars: Knights of the Old Republic faktycznie wyjdzie w przyszłym roku? Tytuł ma zostać pokazany na The Game Awards",
-      "sourceUrl": "https://cdaction.pl/newsy/remake-star-wars-knights-of-the-old-republic-faktycznie-wyjdzie-w-przyszlym-roku-tytul-ma-zostac-pokazany-na-the-game-awards/",
-      "publishedAt": "2026-11-23T14:30+01:00",
-      "summary": "Zakończyłoby to trwającą wiele lat ciszę w kwestii projektu, o którym wiemy w zasadzie tyle, że powstaje.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Star-Wars-Knights-of-the-Old-Republic-Remake-1260x659.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Samsung QE65S85F 65″ OLED 4K 120Hz Dolby Atmos HDMI 2.1 za 4169 zł (630 zł taniej) w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/samsung-qe65s85f-65-oled-4k-120hz-dolby-atmos-hdmi-2-1-za-4169-zl-630-zl-taniej-w-media-expert/",
-      "publishedAt": "2026-11-23T14:27+01:00",
-      "summary": "Korzystając z kodu zniżkowego, będziecie mogli zaoszczędzić na zakupie Samsung QE65S85F w Media Expert. Sklep oferuje 65-calowy telewizor z matrycą OLED o częstotliwości odświeżania 120 Hz za 4169 złotych. Urządzenie posiada porty HDMI 2.1 oraz obsługuje Dolby Atmos. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/Telewizor-65-cali-OLED-Samsung-QE65S85FAE-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Epic Games zmienia Unreal Engine 6! Przyszłość tworzenia gier należy do AI",
-      "sourceUrl": "https://www.ppe.pl/news/434246/epic-games-zmienia-unreal-engine-6-przyszlosc-tworzenia-gier-nalezy-do-ai.html",
-      "publishedAt": "2026-11-23T14:20+01:00",
-      "summary": "Epic Games szykuje poważną zmianę w swoim silniku graficznym. Unreal Engine 6 nie będzie obsługiwał popularnego systemu wizualnego skryptowania Blueprint ani Actor Gameplay Framework.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5df8a6da79f3caf9f51d/5df8a6da79f3caf9f51d.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Pokémon TCG otrzyma potężny dodatek. Nowe karty zadebiutują na początku 2027 roku",
-      "sourceUrl": "https://www.ppe.pl/news/434256/pokemon-tcg-otrzyma-potezny-dodatek-nowe-karty-zadebiutuja-na-poczatku-2027-roku.html",
-      "publishedAt": "2026-11-23T14:05+01:00",
-      "summary": "Fani Pokémon Trading Card Game mogą szykować się na kolejną porcję kart z Mega Ewolucjami.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/cec52adab8e4996bb23a/cec52adab8e4996bb23a.png"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Rockstar zdradził inspiracje stojące za postacią Jasona w GTA 6. Jedną z nich jest gwiazda Hollywood znana z ról antybohaterów",
-      "sourceUrl": "https://cdaction.pl/newsy/rockstar-zdradzil-inspiracje-stojace-za-postacia-jasona-w-gta-6-jedna-z-nich-jest-gwiazda-hollywood-znana-z-rol-antybohaterow/",
-      "publishedAt": "2026-11-23T14:00+01:00",
-      "summary": "Nie zabrakło również rozmów z prawdziwymi weteranami wojskowymi.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-4.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "GTA VI na PlayStation 5 taniej w Loaded. Kup klucz za 317,99 zł (32 zł taniej niż w PS Store)",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/gta-vi-na-playstation-5-taniej-w-loaded-kup-klucz-za-31799-zl-32-zl-taniej-niz-w-ps-store/",
-      "publishedAt": "2026-11-23T13:55+01:00",
-      "summary": "Jeśli nie macie jeszcze swojej kopii GTA VI, możecie skorzystać z promocji w Loaded z okazji Black Friday 2026. Klucz aktywujący grę w wersji na konsolę PlayStation 5 dorwiecie za 317,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-logo-v32-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "GTA VI na PlayStation 5 taniej w Loaded. Kup klucz za 317,99 zł (32 zł mniej niż w PS Store)",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/gta-vi-na-playstation-5-taniej-w-loaded-kup-klucz-za-31799-zl-32-zl-mniej-niz-w-ps-store/",
-      "publishedAt": "2026-11-23T13:55+01:00",
-      "summary": "Jeśli nie macie jeszcze swojej kopii GTA VI, możecie skorzystać z promocji w Loaded z okazji Black Friday 2026. Klucz aktywujący grę w wersji na konsolę PlayStation 5 dorwiecie za 317,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-logo-v32-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PS6 automatycznie poprawi grafikę w grach. Sony szykuje potężną konsolę",
-      "sourceUrl": "https://www.ppe.pl/news/434245/ps6-automatycznie-poprawi-grafike-w-grach-sony-szykuje-potezna-konsole.html",
-      "publishedAt": "2026-11-23T13:51+01:00",
-      "summary": "Sony pracuje nad rozwiązaniem, które może znacząco zmienić sposób dostosowywania grafiki w grach.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6adaa5e7e6cbcd6bb064/6adaa5e7e6cbcd6bb064.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Gry pudełkowe Nintendo Switch 2 taniej w Empiku. Promocje na Black Friday 2026 z cenami od 67 zł!",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/gry-pudelkowe-nintendo-switch-2-taniej-w-empiku-promocje-na-black-friday-2026-z-cenami-od-67-zl/",
-      "publishedAt": "2026-11-23T13:43+01:00",
-      "summary": "Sklep internetowy Empik.com odpalił już jakiś czas temu swoje Black Weeks, ale na ostatniej prostej przed Black Friday otrzymaliśmy kilka ciekawych ofert na gry Nintendo Switch 2. Najtańszym tytułem jest Bravely Default: Flying Fairy HD Remaster, który nabędziecie za 66,89 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-weeks-2026-nintendo-switch-2-empik-2b-224x224.jpg"
     }
   ],
   "indie": [
