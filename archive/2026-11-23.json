@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T10:01+01:00",
+  "updatedAt": "2026-11-23T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Dlaczego Jason z GTA 6 tak mało mówi? Rockstar zdradził, że wzorował go na legendzie Hollywood i bohaterze kryminału sprzed 54 lat",
-    "summary": "Twórcy GTA podzielili się kolejnymi informacjami zza kulis. Pokazują one, jak dużą wagę Rockstar Games przykładało do szczegółów gry.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/dlaczego-jason-z-gta-6-tak-malo-mowi-rockstar-zdradzil-ze-wzorowa/z032416",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533122256.jpg"
+    "title": "Przez 167 lat najwięksi matematycy świata nie potrafili rozwiązać tego problemu. Człowiek z pomocą AI miał dokonać tego w zaledwie 6 tygodni",
+    "summary": "Pracownik Anthropica pochwalił się rozwiązaniem problemu milenijnego z pomocą Claude&apos;a. Dowód liczy ponad 17 milionów linii kodu, a specjalistyczne narzędzia potwierdziły jego poprawność.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/przez-167-lat-najwieksi-matematycy-swiata-nie-potrafili-rozwiazac/z232418",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533124854.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Przez 167 lat najwięksi matematycy świata nie potrafili rozwiązać tego problemu. Człowiek z pomocą AI miał dokonać tego w zaledwie 6 tygodni",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/przez-167-lat-najwieksi-matematycy-swiata-nie-potrafili-rozwiazac/z232418",
+      "publishedAt": "2026-11-23T11:15+01:00",
+      "summary": "Pracownik Anthropica pochwalił się rozwiązaniem problemu milenijnego z pomocą Claude&apos;a. Dowód liczy ponad 17 milionów linii kodu, a specjalistyczne narzędzia potwierdziły jego poprawność.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533124854.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wielka kompromitacja PlayStation. Sony skasowało zamówienia klientom",
+      "sourceUrl": "https://www.ppe.pl/news/434211/wielka-kompromitacja-playstation-sony-skasowalo-zamowienia-klientom.html",
+      "publishedAt": "2026-11-23T10:52+01:00",
+      "summary": "Sony najwyraźniej ma ostatnio jakiegoś pecha, bo w dziale sprzętowym PlayStation właśnie zaliczyło kolejną dużą wpadkę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0d90f352e00087b7bf28/0d90f352e00087b7bf28.png"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Netflix szykuje z Harlanem Cobenem 15. wspólny thriller. Za sterami serialu staną twórcy kryminału z top 10 wszech czasów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/netflix-szykuje-z-harlanem-cobenem-15-wspolny-thriller-za-sterami/z132417",
+      "publishedAt": "2026-11-23T10:50+01:00",
+      "summary": "Netflix po raz drugi zaadaptuje tę samą powieść Harlana Cobena. Za ekranizację The Innocent odpowiedzą twórcy jednego z największych hitów w historii platformy, kryminału z Samem Worthingtonem oraz Britt Lower.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533123093.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera Gothic 3 Classic na PS5 i Xbox Series już jutro. Gdzie kupić pudełkowe wydanie gry najtaniej?",
+      "sourceUrl": "https://lowcygier.pl/preordery/premiera-gothic-3-classic-na-ps5-i-xbox-series-juz-jutro-gdzie-kupic-pudelkowe-wydanie-gry-najtaniej/",
+      "publishedAt": "2026-11-23T10:48+01:00",
+      "summary": "Bezimienny nie obawia się GTA VI. Premiera Gothic 3 Classic odbędzie się już 24 listopada. Na początku w ostatnią odsłonę przygód charyzmatycznego bohatera zagrają posiadacze konsol PlayStation 5 oraz Xbox Series. Wydanie wersji na Nintendo Switch 2 zostało bowiem przeniesione na przyszły rok. Przygotowaliśmy dla Was wpis, z którego dowiecie się, co zaoferuje odświeżony RPG i gdzie kupicie go najtaniej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gothic-3-Classic-premiera-logo-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Dlaczego Jason z GTA 6 tak mało mówi? Rockstar zdradził, że wzorował go na legendzie Hollywood i bohaterze kryminału sprzed 54 lat",
@@ -20,6 +56,33 @@
       "summary": "Twórcy GTA podzielili się kolejnymi informacjami zza kulis. Pokazują one, jak dużą wagę Rockstar Games przykładało do szczegółów gry.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533122256.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na pudełkowe gry PS5 i PS4 na Black Friday 2026 w Media Expert. Wybrane tytuły już od 39,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/promocje-na-pudelkowe-gry-ps5-i-ps4-na-black-friday-2026-w-media-expert-wybrane-tytuly-juz-od-3999-zl/",
+      "publishedAt": "2026-11-23T10:31+01:00",
+      "summary": "Jesteśmy w ostatnim tygodniu Black Weeks, by hucznie wejść w Czarny Piątek. W Media Expert przygotowano promocje na fizyczne wydania gier na konsole Sony PlayStation. Ceny nie powinny być dla Was zaskoczeniem, rozpoczynając się od 39,99 zł za serię PlayStation Hits. Wszystkie oferty dostępne w sklepie, znajdziecie w rozwinięciu artykułu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-2026-ps4-ps5-media-expert-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 zawiesza się na PS5. Gracze zgłaszają tajemniczy błąd",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-zawiesza-sie-na-ps5-gracze-zglaszaja-tajemniczy-blad/",
+      "publishedAt": "2026-11-23T10:30+01:00",
+      "summary": "GTA 6 zaliczyło spektakularny start, ale nie wszyscy mogą cieszyć się nową produkcją Rockstara bez przeszkód. Część posiadaczy PS5 skarży się na tajemniczy błąd.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-23-o-09.56.49-1260x662.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rockstar Games orze ile tylko może. Specjalny pakiet do GTA 6 w cenie 22,50 zł",
+      "sourceUrl": "https://www.ppe.pl/news/434210/rockstar-games-orze-ile-tylko-moze-specjalny-pakiet-do-gta-6-w-cenie-22-50-zl.html",
+      "publishedAt": "2026-11-23T10:26+01:00",
+      "summary": "Mogłoby się wydawać, że po zarobieniu miliardów dolarów na samej premierze Grand Theft Auto 6 Rockstar Games trochę spuści z tonu i pozwoli graczom po prostu cieszyć się grą. Nic z tych rzeczy - wydawca orze ile może i bez skrępowania wycis...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4abec57654b56214b0b7/4abec57654b56214b0b7.avif"
     },
     {
       "sourceName": "GRY-Online",
@@ -32,12 +95,30 @@
     },
     {
       "sourceName": "PPE",
+      "title": "Marketingowe ściemy GTA 6. Wersja na PS5 działająca gorzej od Xbox i graficzny downgrade",
+      "sourceUrl": "https://www.ppe.pl/news/434217/marketingowe-sciemy-gta-6-wersja-na-ps5-dzialajaca-gorzej-od-xbox-i-graficzny-downgrade.html",
+      "publishedAt": "2026-11-23T10:15+01:00",
+      "summary": "W swoich materiałach marketingowych Sony przedstawiało GTA 6, jako tytuł, który działa najlepiej na PS5. Sprawdźmy, jak wygląda to w rzeczywistości.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/b800b48ac7c63bcfc959/b800b48ac7c63bcfc959.png"
+    },
+    {
+      "sourceName": "PPE",
       "title": "GTA 5 rozwala system! Gracze rzucili się na grę Rockstar Games",
       "sourceUrl": "https://www.ppe.pl/news/434209/gta-5-rozwala-system-gracze-rzucili-sie-na-gre-rockstar-games.html",
       "publishedAt": "2026-11-23T10:01+01:00",
       "summary": "Kiedy na rynek wchodzi taki gigant jak Grand Theft Auto 6, zdrowy rozsądek podpowiada, że poprzednia część serii powinna w końcu pójść w odstawkę. W końcu GTA 5 ma już na karku trzynaście długich lat.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/d8bc0df893ebd9761b5a/d8bc0df893ebd9761b5a.png"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Cyberpunk 2 nie zamierza rywalizować z GTA 6. CD Projekt Red ma pomysł na własny, unikalny otwarty świat",
+      "sourceUrl": "https://cdaction.pl/newsy/cyberpunk-2-nie-zamierza-rywalizowac-z-gta-6-cd-projekt-red-ma-pomysl-na-wlasny-unikalny-otwarty-swiat/",
+      "publishedAt": "2026-11-23T10:00+01:00",
+      "summary": "Dyrektor narracji Cyberpunka 2 prześmiewczo twierdzi, że „przygnębienie związane z tworzeniem gier z otwartym światem wywołane przez GTA 6 to fakt”.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Cyberpunk-2.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -200,87 +281,6 @@
       "summary": "GTA 6 zachwyca nie tylko graczy, ale również deweloperów, którzy doskonale zdają sobie sprawę z ogromu pracy włożonej w najnowszą produkcję Rockstar Games. Twórcy z całego świata komentują skalę przedsięwzięcia, a niektórzy otwarcie pr...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/454a49d9dd7957346423/454a49d9dd7957346423.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Sprzedaż nie jest najważniejsza. To TEN WYNIK pokazuje skalę sukcesu GTA 6",
-      "sourceUrl": "https://www.ppe.pl/news/434191/sprzedaz-nie-jest-najwazniejsza-to-ten-wynik-pokazuje-skale-sukcesu-gta-6.html",
-      "publishedAt": "2026-11-23T07:30+01:00",
-      "summary": "Od miesięcy wiedzieliśmy, że GTA 6 będzie gigantycznym wydarzeniem, a zainteresowanie najnowszą produkcją Rockstar Games osiągnie wręcz absurdalny poziom. Gracze czekali na tę premierę przez długie lata, więc trudno dziwić się znakomitym w...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7c1ca01123fd69289d8a/7c1ca01123fd69289d8a.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 zaliczyło downgrade? W niektórych momentach będziecie zaskoczeni",
-      "sourceUrl": "https://www.ppe.pl/news/434192/gta-6-zaliczylo-downgrade-w-niektorych-momentach-bedziecie-zaskoczeni.html",
-      "publishedAt": "2026-11-23T07:05+01:00",
-      "summary": "Na przestrzeni całej kampanii marketingowej GTA 6 zobaczyliśmy kilka niezwykle efektownych zwiastunów, które rozbudzały wyobraźnię graczy. Rockstar Games prezentowało tak szczegółowy świat, że wiele osób zastanawiało się, czy rzeczywista ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/3a292c1090bc952fdf71/3a292c1090bc952fdf71.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Bany na PS5 za GTA 6. To może być początek większych problemów",
-      "sourceUrl": "https://www.ppe.pl/news/434167/bany-na-ps5-za-gta-6-to-moze-byc-poczatek-wiekszych-problemow.html",
-      "publishedAt": "2026-11-23T06:40+01:00",
-      "summary": "GTA 6 trafiło na rynek, a gracze z ogromną przyjemnością odkrywają kolejne atrakcje przygotowane przez Rockstar Games. Produkcja oferuje mnóstwo nietypowych sytuacji, które aż proszą się o uwiecznienie na zdjęciach i pokazanie znajomym. Okazu...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f5e9970b9b185684deb1/f5e9970b9b185684deb1.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Mężczyźni mają problemy przez GTA 6. Kobiety zarzucają im, że „starają się dla Lucii”",
-      "sourceUrl": "https://www.ppe.pl/news/434172/mezczyzni-maja-problemy-przez-gta-6-kobiety-zarzucaja-im-ze-staraja-sie-dla-lucii.html",
-      "publishedAt": "2026-11-23T06:15+01:00",
-      "summary": "Jeszcze kilka tygodni temu gracze żartowali, że premiera GTA 6 może wywołać prawdziwy kryzys w niejednym związku. Powodem miała być Lucia, czyli jedna z głównych bohaterek najnowszej produkcji Rockstar Games. Wtedy trudno było traktować podo...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "SkyShowtime z nowym thrillerem kryminalnym! Jedna sytuacja zmienia wszystko",
-      "sourceUrl": "https://www.ppe.pl/news/434174/skyshowtime-z-nowym-thrillerem-kryminalnym-jedna-sytuacja-zmienia-wszystko.html",
-      "publishedAt": "2026-11-23T05:44+01:00",
-      "summary": "Miłośnicy mocnych historii, kryminalnych zagadek i bohaterów uwikłanych w niebezpieczne wydarzenia mają kolejny powód, by zainteresować się ofertą SkyShowtime.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f6f3645b9fd6695c8c9a/f6f3645b9fd6695c8c9a.png"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Milion subskrypcji po 15 latach. Polski youtuber SargeThePlayer świętuje, a pomogło mu GTA 6",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/milion-subskrypcji-po-15-latach-polski-youtuber-sargetheplayer-sw/zf3240f",
-      "publishedAt": "2026-11-22T14:20+01:00",
-      "summary": "Mocno związany z branżą gier polski youtuber po blisko 15 latach działania w sieci zdobył milion subskrypcji. Seria z rozgrywki GTA 6 osiągnęła duży wynik oglądalności na kanale SargeThePlayer.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533049355.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "DC miało wreszcie plan na 10 lat. Hollywood potrzebowało zaledwie chwili, żeby go wywrócić",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433375/dc-mialo-wreszcie-plan-na-10-lat-hollywood-potrzebowalo-zaledwie-chwili-zeby-go-wywrocic.html",
-      "publishedAt": "2026-11-22T14:00+01:00",
-      "summary": "Przez lata największym problemem filmowego DC był brak cierpliwości. Każda większa porażka uruchamiała nerwowe ruchy, każdy sukces natychmiast rodził pomysł na kilka kolejnych projektów, a kolejne ekipy próbowały naprawiać decyzje swoich p...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ad1a10ea8deb800579f7/ad1a10ea8deb800579f7.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Niespodzianka dla posiadaczy Humble Choice! The Outer Worlds 2 ogracie na dwóch platformach",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/niespodzianka-dla-posiadaczy-humble-choice-the-outer-worlds-2-ogracie-na-dwoch-platformach/",
-      "publishedAt": "2026-11-22T14:00+01:00",
-      "summary": "Listopadowe Humble Choice ma dodatkowy argument, by zainteresować teraz również graczy konsolowych. Okazuje się bowiem, że The Outer Worlds 2 z pakietu na ten miesiąc pozwala zagrać zarówno na PC, jak i Xbox Series X|S. Kupując zatem nowego Choice’a, możemy sięgnąć po RPG Obsidian Entertainment również na konsoli Microsoftu, bez dodatkowych opłat. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Niespodzianka-dla-posiadaczy-Humble-Choice-The-Outer-Worlds-2-ogracie-na-dwoch-platformach_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Świetna okazja na pudełkowe Hogwarts Legacy na konsole! Bilet do Szkoły Magii już od 48 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/swietna-okazja-na-pudelkowe-hogwarts-legacy-na-konsole-bilet-do-szkoly-magii-juz-od-48-zl-na-allegro/",
-      "publishedAt": "2026-11-22T13:31+01:00",
-      "summary": "Fani świata Harry’ego Pottera mogą teraz uzupełnić kolekcję o pudełkowe Hogwarts Legacy w dobrej cenie. Na Allegro znajdziecie wydania fizycze na PlayStation 4, PlayStation 5 oraz Xbox Series X, a ceny zaczynają się od 48,40 zł. W tym RPG akcji od studia Avalanche Software stworzycie własnego czarodzieja, rozpoczniecie naukę zaklęć i warzenia eliksirów oraz odkryjecie tajemnice Hogwartu i jego okolic. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Dziedzictwo-Hogwartu-na-konsole-w-promocji_miniaturka-224x224.jpg"
     }
   ],
   "indie": [
