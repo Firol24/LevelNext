@@ -1,17 +1,71 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T13:01+01:00",
+  "updatedAt": "2026-11-23T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Ma tylko 3 odcinki i podbija Netflixa. Nowy hiszpański kryminał jest już w top 5 w Polsce",
-    "summary": "Zestawienie najpopularniejszych seriali Netflixa w Polsce zdominowały rodzime produkcje, ale do pierwszej piątki wpadł także hiszpański miniserial kryminalny, który zabiera widzów do małego, pozornie spokojnego miasteczka.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/ma-tylko-3-odcinki-i-podbija-netflixa-nowy-hiszpanski-kryminal-je/ze32423",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533131588.jpg"
+    "category": "PROMOCJE",
+    "title": "GTA VI na PlayStation 5 taniej w Loaded. Kup klucz za 317,99 zł (32 zł taniej niż w PS Store)",
+    "summary": "Jeśli nie macie jeszcze swojej kopii GTA VI, możecie skorzystać z promocji w Loaded z okazji Black Friday 2026. Klucz aktywujący grę w wersji na konsolę PlayStation 5 dorwiecie za 317,99 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/keyshopy/gta-vi-na-playstation-5-taniej-w-loaded-kup-klucz-za-31799-zl-32-zl-taniej-niz-w-ps-store/",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-logo-v32-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "GTA VI na PlayStation 5 taniej w Loaded. Kup klucz za 317,99 zł (32 zł taniej niż w PS Store)",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/gta-vi-na-playstation-5-taniej-w-loaded-kup-klucz-za-31799-zl-32-zl-taniej-niz-w-ps-store/",
+      "publishedAt": "2026-11-23T13:55+01:00",
+      "summary": "Jeśli nie macie jeszcze swojej kopii GTA VI, możecie skorzystać z promocji w Loaded z okazji Black Friday 2026. Klucz aktywujący grę w wersji na konsolę PlayStation 5 dorwiecie za 317,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/GTA-VI-logo-v32-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS6 automatycznie poprawi grafikę w grach. Sony szykuje potężną konsolę",
+      "sourceUrl": "https://www.ppe.pl/news/434245/ps6-automatycznie-poprawi-grafike-w-grach-sony-szykuje-potezna-konsole.html",
+      "publishedAt": "2026-11-23T13:51+01:00",
+      "summary": "Sony pracuje nad rozwiązaniem, które może znacząco zmienić sposób dostosowywania grafiki w grach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6adaa5e7e6cbcd6bb064/6adaa5e7e6cbcd6bb064.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gry pudełkowe Nintendo Switch 2 taniej w Empiku. Promocje na Black Friday 2026 z cenami od 67 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/gry-pudelkowe-nintendo-switch-2-taniej-w-empiku-promocje-na-black-friday-2026-z-cenami-od-67-zl/",
+      "publishedAt": "2026-11-23T13:43+01:00",
+      "summary": "Sklep internetowy Empik.com odpalił już jakiś czas temu swoje Black Weeks, ale na ostatniej prostej przed Black Friday otrzymaliśmy kilka ciekawych ofert na gry Nintendo Switch 2. Najtańszym tytułem jest Bravely Default: Flying Fairy HD Remaster, który nabędziecie za 66,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-weeks-2026-nintendo-switch-2-empik-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z DLSS 5 i 120 FPS-ach! Prosty błąd zdradza plany na wersję PC w 2027 roku",
+      "sourceUrl": "https://www.ppe.pl/news/434244/gta-6-z-dlss-5-i-120-fps-ach-prosty-blad-zdradza-plany-na-wersje-pc-w-2027-roku.html",
+      "publishedAt": "2026-11-23T13:36+01:00",
+      "summary": "Mimo bardzo dobrego odbioru Grand Theft Auto VI w sieci narastają dyskusje o problemach z wydajnością. Liczne doniesienia wskazują, że wysokie obciążenie graficzne obnaża degradację ciekłego metalu w starszych egzemplarzach PlayStation 5.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/459037e5fefa22f0e1de/459037e5fefa22f0e1de.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wymagania GTA 6 na PC. Ruszyło zgadywanie i jest już lista CPU: od Ryzena 5 5600 po 9800X3D",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wymagania-gta-6-na-pc-ruszylo-zgadywanie-i-jest-juz-lista-cpu-od/z132426",
+      "publishedAt": "2026-11-23T13:35+01:00",
+      "summary": "Po analizie Digital Foundry, o której pisaliśmy wczoraj, było jasne, że ktoś spróbuje oszacować, jakich konkretnie modeli procesorów będzie wymagać wersja PC GTA 6. Jedna z pierwszych takich list już jest i - jakżeby inaczej - wywołała gorącą dyskusję.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533133320.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "17-letni Windows 7 dostał drugie życie. Entuzjaści sprawili, że system Microsoftu może obsługiwać najnowsze karty NVIDII, AMD i Intela",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/17-letni-windows-7-dostal-drugie-zycie-entuzjasci-sprawili-ze-sys/z032425",
+      "publishedAt": "2026-11-23T13:35+01:00",
+      "summary": "Modderzy zmodyfikowali architekturę sterowników graficznych w Windowsie 7. Dzięki temu możliwe jest używanie nowszych kart graficznych GeForce RTX 40 i 50 oraz Radeonów RX 7000 i 9000.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533133101.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Ma tylko 3 odcinki i podbija Netflixa. Nowy hiszpański kryminał jest już w top 5 w Polsce",
@@ -29,6 +83,33 @@
       "summary": "22 listopada minęło 30 lat od amerykańskiej premiery Command & Conquer: Red Alert. Kultowy RTS studia Westwood odniósł gigantyczny sukces.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533130410.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Brak powiązań z Blade Runner 2049 i wielka gra AAA w drodze! Nowe fakty o uniwersum Łowcy Androidów",
+      "sourceUrl": "https://www.ppe.pl/news/434240/brak-powiazan-z-blade-runner-2049-i-wielka-gra-aaa-w-drodze-nowe-fakty-o-uniwersum-lowcy-androidow.html",
+      "publishedAt": "2026-11-23T13:16+01:00",
+      "summary": "Showrunnerka serialu Blade Runner 2099, Silka Luisa, oparła strukturę świata po bezpośrednich konsultacjach z Ridleyem Scottem. Reżyser oryginału z 1982 roku pełni funkcję producenta wykonawczego projektu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8649791f9c8b47e1fd8b/8649791f9c8b47e1fd8b.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Zaginione miasto do Heroes 3 w akcji. Zobaczcie nową prezentację gigamoda Day of Reckoning",
+      "sourceUrl": "https://cdaction.pl/newsy/pierwszy-pokaz-rozgrywki-z-gigamoda-do-heroes-3-zobaczcie-jak-prezentuje-sie-day-of-reckoning-w-akcji/",
+      "publishedAt": "2026-11-23T13:15+01:00",
+      "summary": "Możemy rzucić okiem na Pałac i Kuźnię.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/kuznia-day-of-the-reckoning-1260x583.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pad Xbox Series X25 Edycja Limitowana za 349 zł w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pad-xbox-series-x25-edycja-limitowana-za-349-zl-w-x-kom/",
+      "publishedAt": "2026-11-23T13:13+01:00",
+      "summary": "Specjalna, lekko przezroczysta wersja pada Xbox Series, pojawiła się w x-komie w dobrej cenie. Przygotowana z okazji 25-lecia marki giganta z Redmond limitowana edycja kontrolera, jest dostępna za 349 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Xbox-X25-Controller-logo-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -200,87 +281,6 @@
       "summary": "Kiedy nowymi grami zachwycają się gracze, to świetna sprawa, ale prawdziwy szacunek pojawia się dopiero wtedy, gdy szczęki z wrażenia opadają samym twórcom z absolutnej światowej czołówki.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/16809299dc759224542e/16809299dc759224542e.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Kingdom Come Deliverance Royal Edition (PS5) za 59,99 zł, KCD II (PS5) za 89,99 zł w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/kingdom-come-deliverance-royal-edition-ps5-za-5999-zl-kcd-ii-ps5-za-8999-zl-w-media-expert/",
-      "publishedAt": "2026-11-23T11:50+01:00",
-      "summary": "W Media Expert macie teraz szansę zakupić hiciory czeskiego Warhorse w niższej cenie. Za Kingdom Come Deliverance Royal Edition, pierwszą część RPG wraz z wszystkimi dodatkami, zapłacicie 59,99 zł. Druga odsłona serii kosztuje 89,99 zł. Obie gry oferowane są w wersji na PS5, a wysyłka do Paczkomatów jest darmowa. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kingdom-Come-Media-Expert-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Nowości na Steam w cieniu GTA 6. Na pierwszym planie gra, w którą zagrasz na premierę za darmo",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nowosci-na-steam-w-cieniu-gta-6-na-pierwszym-planie-gra-w-ktora-z/zc3241b",
-      "publishedAt": "2026-11-23T11:50+01:00",
-      "summary": "W tym tygodniu na Steamie zadebiutują takie gry, jak Arkheron, Am I Nima czy Reshina. Ponadto kilka popularnych strategii dostanie duże dodatki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533126109.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gra nagrodzona na TGA 2025 staje się coraz lepsza. Mechy i podwodna eksploracja na rozgrywce",
-      "sourceUrl": "https://www.ppe.pl/news/434227/gra-nagrodzona-na-tga-2025-staje-sie-coraz-lepsza-mechy-i-podwodna-eksploracja-na-rozgrywce.html",
-      "publishedAt": "2026-11-23T11:31+01:00",
-      "summary": "Wuthering Waves stało się jedną z największych sensacji TGA 2025, zgarniając nagrodę w kluczowej kategorii imprezy. A teraz autorzy szykują się do kolejnego ważnego wydarzenia.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7ae6004d7fd14fc1fd41/7ae6004d7fd14fc1fd41.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Metroid Prime 4 Beyond Nintendo Switch 2 Edition od 119,89 zł w polskich sklepach",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-metroid-prime-4-beyond-nintendo-switch-2-edition-od-11989-zl-w-polskich-sklepach/",
-      "publishedAt": "2026-11-23T11:25+01:00",
-      "summary": "Czwarta odsłona serii przygód nieustraszonej Samus Aran, czyli Metroid Prime 4 Beyond, pojawiła się w dobrej cenie w ofercie sklepów Empik.com i MediaMarkt. Pudełko z grą w wersji na Nintendo Switch 1 i kodem do aktualizacji na drugą generację „Pstryczka”, kosztuje 119,89 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/metroid-prime-4-beyond-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 spaliło PS5! Konsola nie wytrzymała",
-      "sourceUrl": "https://www.ppe.pl/news/434218/gta-6-spalilo-ps5-konsola-nie-wytrzymala.html",
-      "publishedAt": "2026-11-23T11:21+01:00",
-      "summary": "Od dawna było wiadomo, że Grand Theft Auto 6 wyciśnie z obecnej generacji konsol absolutnie ostatnie soki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c4e30a2c05c3bedfc0fc/c4e30a2c05c3bedfc0fc.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Przez 167 lat najwięksi matematycy świata nie potrafili rozwiązać tego problemu. Człowiek z pomocą AI miał dokonać tego w zaledwie 6 tygodni",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/przez-167-lat-najwieksi-matematycy-swiata-nie-potrafili-rozwiazac/z232418",
-      "publishedAt": "2026-11-23T11:15+01:00",
-      "summary": "Pracownik Anthropica pochwalił się rozwiązaniem problemu milenijnego z pomocą Claude&apos;a. Dowód liczy ponad 17 milionów linii kodu, a specjalistyczne narzędzia potwierdziły jego poprawność.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533124854.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Nie będzie nowego „American Psycho”. Luca Guadagnino rezygnuje z projektu",
-      "sourceUrl": "https://cdaction.pl/kultura/nie-bedzie-nowego-american-psycho-luca-guadagnino-rezygnuje-z-projektu/",
-      "publishedAt": "2026-11-23T11:15+01:00",
-      "summary": "That’s all, folks!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/10/American-Psycho.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Premiera najbardziej wyczekiwanej gry w historii – jakie naprawdę jest GTA VI?",
-      "sourceUrl": "https://cdaction.pl/newsy/premiera-najbardziej-wyczekiwanej-gry-w-historii-jakie-naprawde-jest-gta-vi/",
-      "publishedAt": "2026-11-23T11:05+01:00",
-      "summary": "Żadna gra nie była otoczona tak wielkimi oczekiwaniami jak GTA VI. Fani czekali na nią ponad dekadę, a każdy zwiastun oglądały dziesiątki milionów osób. Teraz, gdy gra jest już dostępna, można wreszcie sprawdzić, czy Rockstar Games sprostało tej presji. Podsumowujemy, co mówią recenzenci i czym GTA VI różni się od poprzednich części. Jak GTA VI...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/pexels-yankrukov-9069305-1260x840.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 rozczarowuje wiele osób. Część dziennikarzy nie może tego znieść i już obraża graczy",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/434225/gta-6-rozczarowuje-wiele-osob-czesc-dziennikarzy-nie-moze-tego-zniesc-i-juz-obraza-graczy.html",
-      "publishedAt": "2026-11-23T11:01+01:00",
-      "summary": "Dziennikarze myślą, że wciąż kontrolują dyskurs na temat gier. I mocno się pod tym względem mylą.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8823cfe0f21f9da2d3d9/8823cfe0f21f9da2d3d9.png"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "b396c29b9cff5ecb2ae2f32992ff2ecc9b0f8ff9adc0b5178000237ad93d8b40"
+  "editorialHash": "f26f231b7053913fafbbb72dd7ff38d12a02c568e67e868dce358741fe45e5cb"
 }
