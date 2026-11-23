@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T21:01+01:00",
+  "updatedAt": "2026-11-23T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 pozwala odbyć nostalgiczną podróż w przeszłość i powrócić do Vice City z lat 80. Zostanie po tym piękna pamiątka",
-    "summary": "Zaledwie kilka dni po premierze GTA 6 udało się rozwiązać jedną z najbardziej skomplikowanych zagadek przygotowanych przez Rockstar Games.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-pozwala-odbyc-nostalgiczna-podroz-w-przeszlosc-i-powrocic-d/zd3243a",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533162403.jpg"
+    "title": "To „NAJWIĘKSZY” sekret GTA 6?! Wielka niespodzianka dla fanów PS2",
+    "summary": "Rockstar Games ponownie udowadnia, że GTA 6 jest prawdziwą kopalnią sekretów, a najnowsze odkrycie może być jednym z najbardziej spektakularnych easter eggów w historii całej serii. W najnowszej odsłonie Grand Theft Auto można dosłownie przen...",
+    "sourceUrl": "https://www.ppe.pl/news/434291/to-najwiekszy-sekret-gta-6-wielka-niespodzianka-dla-fanow-ps2.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/58ddc3356de60be3435f/58ddc3356de60be3435f.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "To „NAJWIĘKSZY” sekret GTA 6?! Wielka niespodzianka dla fanów PS2",
+      "sourceUrl": "https://www.ppe.pl/news/434291/to-najwiekszy-sekret-gta-6-wielka-niespodzianka-dla-fanow-ps2.html",
+      "publishedAt": "2026-11-23T21:48+01:00",
+      "summary": "Rockstar Games ponownie udowadnia, że GTA 6 jest prawdziwą kopalnią sekretów, a najnowsze odkrycie może być jednym z najbardziej spektakularnych easter eggów w historii całej serii. W najnowszej odsłonie Grand Theft Auto można dosłownie przen...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/58ddc3356de60be3435f/58ddc3356de60be3435f.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 pozwala odbyć nostalgiczną podróż w przeszłość i powrócić do Vice City z lat 80. Zostanie po tym piękna pamiątka",
@@ -29,6 +38,24 @@
       "summary": "Aktor głosowy Ezia Auditore z Assassin’s Creed 2 chętnie powróciłby do roli, gdyby Ubisoft postanowił opracować remake owej gry.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533161493.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Promocja na HBO Max! Idealna okazja do zobaczenia wyjątkowych filmów i seriali",
+      "sourceUrl": "https://www.ppe.pl/news/434284/promocja-na-hbo-max-idealna-okazja-do-zobaczenia-wyjatkowych-filmow-i-seriali.html",
+      "publishedAt": "2026-11-23T21:13+01:00",
+      "summary": "Black Friday to nie tylko okazja do kupowania gier, konsol czy telewizorów w niższych cenach. Coraz częściej do wielkiego święta promocji dołączają również platformy streamingowe, a najnowsza propozycja HBO Max może zainteresować naprawdę ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0538523df41a51aafae2/0538523df41a51aafae2.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 zabrało graczy innym grom. Do tego, według analityków, zarobiło więcej pieniędzy niż podaje Take-Two",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-zabralo-graczy-innym-grom-do-tego-wedlug-analitykow-zarobilo-wiecej-pieniedzy-niz-podaje-take-two/",
+      "publishedAt": "2026-11-23T21:10+01:00",
+      "summary": "Wielka kradzież graczy sześć.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-7-1-1260x709.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -254,33 +281,6 @@
       "summary": "Łowcy, z okazji Black Friday 2026 sieć sklepów Media Expert łączy siły z firmą InPost i gwarantuje Wam darmową dostawę do Paczkomatów. Z okazji możecie skorzystać w przypadku dowolnego zamówienia o wartości minimum 59 zł, zamiast standardowych 99 zł. Oferta obowiązuje do 27 listopada, do godziny 23:00 i obejmuje cały asortyment internetowego sklepu Media Expert z wyłączeniem kategorii OUTLET . Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Dostawa-do-Paczkomatow-InPost-za-darmo-dla-zamowien-od-59-zl-w-sklepie-Media-Expert_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Hollow Knight i HK Silksong na PS5, XSX i Switch 2 z premierą w ten piątek. Gdzie kupić gry najtaniej?",
-      "sourceUrl": "https://lowcygier.pl/preordery/pudelkowe-hollow-knight-i-hk-silksong-na-ps5-xsx-i-switch-2-z-premiera-w-ten-piatek-gdzie-kupic-gry-najtaniej/",
-      "publishedAt": "2026-11-23T17:03+01:00",
-      "summary": "W tym tygodniu czeka na nas jeszcze jedna duża pudełkowa premiera. A nawet dwie! W piątek na rynek trafi Hollow Knight Silksong w wersji na PlayStation 5, Xbox Series X oraz Nintendo Switch 2. Wtedy też dostaniemy reedycję pierwszego HK na urządzenia najnowszej generacji, niestety, z pomięciem amerykańskiej konsoli. Przygotowaliśmy dla Was krótki wpis, z którego dowiecie się, gdzie zakupicie obie fizyczne edycje metroidvanii od australijskiego studia Team Cherry najtaniej. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Hollow-Knight-preorder-Silksong-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "NVIDIA RTX Spark. Ciekawa konkurencja dla MacBooków Pro. Proponujemy trzy laptopy dla wymagających odbiorców",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433744/nvidia-rtx-spark-ciekawa-konkurencja-dla-macbookow-pro-proponujemy-trzy-laptopy-dla-wymagajacych-odbiorcow.html",
-      "publishedAt": "2026-11-23T17:00+01:00",
-      "summary": "NVIDIA RTX Spark to platforma komputerowa, która łączy procesor ARM, grafikę Blackwell RTX i dużą pulę wspólnej pamięci w jednym układzie. Projekt ma trafić do osób montujących filmy, projektujących grafikę, piszących kod i korzystający...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/72910c0fe24503e17443/72910c0fe24503e17443.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "The Last of Us Part II Remastered otrzymało darmowy multiplayer! Tryb jest już dostępny",
-      "sourceUrl": "https://www.ppe.pl/news/434261/the-last-of-us-part-ii-remastered-otrzymalo-darmowy-multiplayer-tryb-jest-juz-dostepny.html",
-      "publishedAt": "2026-11-23T17:00+01:00",
-      "summary": "The Last of Us Part II Remastered na PC doczekało się darmowego trybu wieloosobowego.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6ee0bb0115749eb32f43/6ee0bb0115749eb32f43.png"
     }
   ],
   "indie": [
