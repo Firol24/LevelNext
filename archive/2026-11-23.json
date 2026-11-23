@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T05:01+01:00",
+  "updatedAt": "2026-11-23T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Milion subskrypcji po 15 latach. Polski youtuber SargeThePlayer świętuje, a pomogło mu GTA 6",
-    "summary": "Mocno związany z branżą gier polski youtuber po blisko 15 latach działania w sieci zdobył milion subskrypcji. Seria z rozgrywki GTA 6 osiągnęła duży wynik oglądalności na kanale SargeThePlayer.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/milion-subskrypcji-po-15-latach-polski-youtuber-sargetheplayer-sw/zf3240f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533049355.jpg"
+    "title": "SkyShowtime z nowym thrillerem kryminalnym! Jedna sytuacja zmienia wszystko",
+    "summary": "Miłośnicy mocnych historii, kryminalnych zagadek i bohaterów uwikłanych w niebezpieczne wydarzenia mają kolejny powód, by zainteresować się ofertą SkyShowtime.",
+    "sourceUrl": "https://www.ppe.pl/news/434174/skyshowtime-z-nowym-thrillerem-kryminalnym-jedna-sytuacja-zmienia-wszystko.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/f6f3645b9fd6695c8c9a/f6f3645b9fd6695c8c9a.png"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "SkyShowtime z nowym thrillerem kryminalnym! Jedna sytuacja zmienia wszystko",
+      "sourceUrl": "https://www.ppe.pl/news/434174/skyshowtime-z-nowym-thrillerem-kryminalnym-jedna-sytuacja-zmienia-wszystko.html",
+      "publishedAt": "2026-11-23T05:44+01:00",
+      "summary": "Miłośnicy mocnych historii, kryminalnych zagadek i bohaterów uwikłanych w niebezpieczne wydarzenia mają kolejny powód, by zainteresować się ofertą SkyShowtime.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f6f3645b9fd6695c8c9a/f6f3645b9fd6695c8c9a.png"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Milion subskrypcji po 15 latach. Polski youtuber SargeThePlayer świętuje, a pomogło mu GTA 6",
