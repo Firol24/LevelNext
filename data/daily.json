@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T06:39+01:00",
+  "updatedAt": "2026-11-23T07:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Mężczyźni mają problemy przez GTA 6. Kobiety zarzucają im, że „starają się dla Lucii”",
-    "summary": "Jeszcze kilka tygodni temu gracze żartowali, że premiera GTA 6 może wywołać prawdziwy kryzys w niejednym związku. Powodem miała być Lucia, czyli jedna z głównych bohaterek najnowszej produkcji Rockstar Games. Wtedy trudno było traktować podo...",
-    "sourceUrl": "https://www.ppe.pl/news/434172/mezczyzni-maja-problemy-przez-gta-6-kobiety-zarzucaja-im-ze-staraja-sie-dla-lucii.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
+    "title": "Bany na PS5 za GTA 6. To może być początek większych problemów",
+    "summary": "GTA 6 trafiło na rynek, a gracze z ogromną przyjemnością odkrywają kolejne atrakcje przygotowane przez Rockstar Games. Produkcja oferuje mnóstwo nietypowych sytuacji, które aż proszą się o uwiecznienie na zdjęciach i pokazanie znajomym. Okazu...",
+    "sourceUrl": "https://www.ppe.pl/news/434167/bany-na-ps5-za-gta-6-to-moze-byc-poczatek-wiekszych-problemow.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/f5e9970b9b185684deb1/f5e9970b9b185684deb1.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Bany na PS5 za GTA 6. To może być początek większych problemów",
+      "sourceUrl": "https://www.ppe.pl/news/434167/bany-na-ps5-za-gta-6-to-moze-byc-poczatek-wiekszych-problemow.html",
+      "publishedAt": "2026-11-23T06:40+01:00",
+      "summary": "GTA 6 trafiło na rynek, a gracze z ogromną przyjemnością odkrywają kolejne atrakcje przygotowane przez Rockstar Games. Produkcja oferuje mnóstwo nietypowych sytuacji, które aż proszą się o uwiecznienie na zdjęciach i pokazanie znajomym. Okazu...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f5e9970b9b185684deb1/f5e9970b9b185684deb1.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Mężczyźni mają problemy przez GTA 6. Kobiety zarzucają im, że „starają się dla Lucii”",
