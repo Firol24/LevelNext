@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-23",
-  "updatedAt": "2026-11-23T06:01+01:00",
+  "updatedAt": "2026-11-23T06:39+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "SkyShowtime z nowym thrillerem kryminalnym! Jedna sytuacja zmienia wszystko",
-    "summary": "Miłośnicy mocnych historii, kryminalnych zagadek i bohaterów uwikłanych w niebezpieczne wydarzenia mają kolejny powód, by zainteresować się ofertą SkyShowtime.",
-    "sourceUrl": "https://www.ppe.pl/news/434174/skyshowtime-z-nowym-thrillerem-kryminalnym-jedna-sytuacja-zmienia-wszystko.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/f6f3645b9fd6695c8c9a/f6f3645b9fd6695c8c9a.png"
+    "title": "Mężczyźni mają problemy przez GTA 6. Kobiety zarzucają im, że „starają się dla Lucii”",
+    "summary": "Jeszcze kilka tygodni temu gracze żartowali, że premiera GTA 6 może wywołać prawdziwy kryzys w niejednym związku. Powodem miała być Lucia, czyli jedna z głównych bohaterek najnowszej produkcji Rockstar Games. Wtedy trudno było traktować podo...",
+    "sourceUrl": "https://www.ppe.pl/news/434172/mezczyzni-maja-problemy-przez-gta-6-kobiety-zarzucaja-im-ze-staraja-sie-dla-lucii.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Mężczyźni mają problemy przez GTA 6. Kobiety zarzucają im, że „starają się dla Lucii”",
+      "sourceUrl": "https://www.ppe.pl/news/434172/mezczyzni-maja-problemy-przez-gta-6-kobiety-zarzucaja-im-ze-staraja-sie-dla-lucii.html",
+      "publishedAt": "2026-11-23T06:15+01:00",
+      "summary": "Jeszcze kilka tygodni temu gracze żartowali, że premiera GTA 6 może wywołać prawdziwy kryzys w niejednym związku. Powodem miała być Lucia, czyli jedna z głównych bohaterek najnowszej produkcji Rockstar Games. Wtedy trudno było traktować podo...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
+    },
     {
       "sourceName": "PPE",
       "title": "SkyShowtime z nowym thrillerem kryminalnym! Jedna sytuacja zmienia wszystko",
