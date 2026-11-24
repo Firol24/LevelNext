@@ -38,7 +38,34 @@ h1{font:clamp(38px,7vw,68px)/.98 var(--serif);letter-spacing:-.035em;margin:18px
 <script>
 (()=>{const root=document.getElementById('article');const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:''}catch{return ''}};
 const el=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n};
-async function load(){try{const id=new URLSearchParams(location.search).get('id');if(!id)throw Error('Nie wskazano felietonu.');const r=await fetch('data/manual-news.json?ts='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('Nie udało się pobrać publikacji.');const data=await r.json();let item=null;for(const entries of Object.values(data)){if(Array.isArray(entries)){item=entries.find(x=>x.articleSlug===id);if(item)break;}}if(!item)throw Error('Nie znaleziono tego felietonu.');document.title=item.title+' — LEVEL NEXT';const date=item.publishedAt?new Date(item.publishedAt):null;const dateText=date&&!Number.isNaN(date.getTime())?date.toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'}):'LEVEL NEXT / REDAKCJA';root.replaceChildren(el('div','kicker','LEVEL NEXT / FELIETON'),el('h1','',item.title),el('p','dek',item.summary||''));root.append(el('div','date',dateText+' · '+(item.sourceName||'LEVEL NEXT / REDAKCJA')));if(item.imageUrl){const img=el('img','hero');img.src=safeUrl(item.imageUrl);img.alt='';img.onerror=()=>img.remove();root.append(img);}const body=el('div','body');(item.articleBody||'').split(/\n\s*\n/).map(s=>s.trim()).filter(Boolean).forEach(p=>body.append(el('p','',p)));root.append(body);const footer=el('div','footer');const back=el('a','', 'Wróć do wydania ↗');back.href='daily.html';footer.append(back);if(item.sourceUrl){const src=el('a','','　Źródło ↗');src.href=safeUrl(item.sourceUrl);src.target='_blank';src.rel='noopener noreferrer';footer.append(src);}root.append(footer);}catch(e){root.replaceChildren(el('div','error',e.message));}}
+async function load(){try{
+const params=new URLSearchParams(location.search);const id=params.get('id');const issueDate=params.get('date');
+if(!id)throw Error('Nie wskazano publikacji.');
+let item=null;let isManual=false;
+try{const r=await fetch('data/manual-news.json?ts='+Date.now(),{cache:'no-store'});if(r.ok){const data=await r.json();for(const entries of Object.values(data)){if(Array.isArray(entries)){item=entries.find(x=>x.articleSlug===id);if(item){isManual=true;break;}}}}}catch{}
+if(!item){
+ const validDate=issueDate&&/^\\d{4}-\\d{2}-\\d{2}$/.test(issueDate);
+ const path=validDate?'archive/'+issueDate+'.json':'data/daily.json';
+ const r=await fetch(path+'?ts='+Date.now(),{cache:'no-store'});
+ if(!r.ok)throw Error('Nie udało się pobrać wydania z archiwum.');
+ const issue=await r.json();item=(issue.news||[]).find(x=>x.articleSlug===id);
+}
+if(!item)throw Error('Nie znaleziono tej publikacji w wydaniu.');
+document.title=item.title+' — LEVEL NEXT DAILY';
+const date=item.publishedAt?new Date(item.publishedAt):null;
+const dateText=date&&!Number.isNaN(date.getTime())?date.toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'}):'LEVEL NEXT / REDAKCJA';
+const label=isManual?'LEVEL NEXT / FELIETON':'LEVEL NEXT DAILY / SKRÓT REDAKCYJNY';
+root.replaceChildren(el('div','kicker',label),el('h1','',item.title),el('p','dek',item.summary||''));
+root.append(el('div','date',dateText+' · '+(item.sourceName||'LEVEL NEXT / REDAKCJA')));
+if(item.imageUrl){const img=el('img','hero');img.src=safeUrl(item.imageUrl);img.alt='';img.onerror=()=>img.remove();root.append(img);}
+const body=el('div','body');
+(item.articleBody||item.summary||'').split(/\\n\\s*\\n/).map(s=>s.trim()).filter(Boolean).forEach(p=>body.append(el('p','',p)));
+root.append(body);
+if(!isManual)root.append(el('p','byline','To skrót przygotowany na podstawie opisu udostępnionego przez źródło. Nie jest to pełny tekst oryginalnej publikacji.'));
+const footer=el('div','footer');const back=el('a','', 'Wróć do wydania ↗');back.href=issueDate?'daily.html?date='+encodeURIComponent(issueDate):'daily.html';footer.append(back);
+if(item.sourceUrl){const src=el('a','','　Oryginalny materiał ↗');src.href=safeUrl(item.sourceUrl);src.target='_blank';src.rel='noopener noreferrer';footer.append(src);}
+root.append(footer);
+}catch(e){root.replaceChildren(el('div','error',e.message));}}
 load();})();
 </script><script src="site.js?v=18"></script>
 </body></html>
