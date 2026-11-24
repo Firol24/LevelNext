@@ -645,6 +645,74 @@
       color:#e0d3bd;
     }
 
+
+    /* COVER / PAGE DIMENSION + LEGIBILITY FIX 2026-11-24
+       Okładka ma odpowiadać wymiarom jednej strony otwartej gazety. */
+    @media(min-width:781px){
+      .closed-cover{
+        width:min(660px,calc(min(88vh,960px) * .825));
+        height:min(88vh,960px);
+        aspect-ratio:auto;
+      }
+    }
+    @media(max-height:650px) and (min-width:781px){
+      .closed-cover{
+        width:528px;
+        height:640px;
+      }
+    }
+
+    /* Jasna papierowa okładka: jawne kolory elementów, bez dziedziczenia bieli. */
+    .closed-cover-art{
+      color:#211d18!important;
+      background:linear-gradient(135deg,#faf6e9 0%,#e9dfca 100%)!important;
+      border-color:#a99b7f!important;
+    }
+    .closed-cover-top,
+    .closed-cover-bottom{
+      color:#625543!important;
+    }
+    .closed-brand{
+      color:#762b23!important;
+    }
+    .closed-cover h1{
+      color:#211d18!important;
+    }
+    .closed-cover h1 em{
+      color:#8b3028!important;
+    }
+    .closed-cover-date{
+      color:#625543!important;
+    }
+    .closed-cover-feature{
+      border-top-color:#a99b7f!important;
+    }
+    .cover-eyebrow{
+      color:#762b23!important;
+    }
+    #cover-headline{
+      color:#211d18!important;
+    }
+    #cover-summary{
+      color:#494033!important;
+    }
+    .closed-cover-bottom{
+      color:#625543!important;
+    }
+    .closed-cover-art:before{
+      border-color:#8c795b55!important;
+    }
+    .closed-cover-art:after{
+      background:linear-gradient(110deg,transparent 0 55%,#ffffff18 56%,transparent 70%)!important;
+    }
+
+    @media(max-width:780px){
+      .closed-cover{
+        width:min(420px,calc((100dvh - 100px)*.68));
+        height:min(620px,calc(100dvh - 100px));
+      }
+    }
+
   </style>
 
 <link rel="icon" type="image/png" sizes="1024x1024" href="logo.png">
