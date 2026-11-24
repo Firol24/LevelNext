@@ -1,17 +1,116 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T13:01+01:00",
+  "updatedAt": "2026-11-24T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "15-letni Polak próbował przenieść GTA 6 na PC, ale projekt Leonida właśnie upadł. W jego miejsce przyszedł „cwaniak”, który twierdzi, że jest zbyt sprytny, by dać się złapać Rockstarowi",
-    "summary": "Project Leonida został zamknięty przez jego 15-letniego twórcę. Próby uruchomienia GTA 6 na PC podjęli się już inni piraci, którzy chwalą się postępami.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/15-letni-polak-probowal-przeniesc-gta-6-na-pc-ale-projekt-leonida/zf3244b",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533217422.jpg"
+    "title": "GTA 6 skrywa całą masę easter eggów. Nawiązania do Terminatora, Piły, Mario czy podróże w czasie to dopiero początek",
+    "summary": "W GTA 6 pojawiła się cała masa nawiązań do popkultury, więc część z nich dla was opisaliśmy. Lista oczywiście nie jest kompletna, a wraz z upływem czasu easter eggów jedynie będzie przybywać.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-skrywa-cala-mase-easter-eggow-nawiazania-do-terminatora-pil/ze32450",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533221323.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 skrywa całą masę easter eggów. Nawiązania do Terminatora, Piły, Mario czy podróże w czasie to dopiero początek",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-skrywa-cala-mase-easter-eggow-nawiazania-do-terminatora-pil/ze32450",
+      "publishedAt": "2026-11-24T14:04+01:00",
+      "summary": "W GTA 6 pojawiła się cała masa nawiązań do popkultury, więc część z nich dla was opisaliśmy. Lista oczywiście nie jest kompletna, a wraz z upływem czasu easter eggów jedynie będzie przybywać.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533221323.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ubisoft szykuje remake Assassin’s Creed 2? Odtwórca Ezio chce ponownie wcielić się w bohatera",
+      "sourceUrl": "https://www.ppe.pl/news/434407/ubisoft-szykuje-remake-assassin-s-creed-2-odtworca-ezio-chce-ponownie-wcielic-sie-w-bohatera.html",
+      "publishedAt": "2026-11-24T14:01+01:00",
+      "summary": "Fani Assassin’s Creed 2 mogą mieć powód do nadziei. Roger Craig Smith, aktor głosowy wcielający się w Ezio Auditore, przyznał w rozmowie z PCGamesN, że z ogromną chęcią powróciłby do swojej najbardziej rozpoznawalnej roli, gdyby Ubisoft z...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8ec656b76421bc80bb97/8ec656b76421bc80bb97.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Nowy Xbox miał podobno porzucić abonament za multiplayera i uruchamiać gry ze Steama. Teraz nie jest to już takie pewne",
+      "sourceUrl": "https://cdaction.pl/newsy/nowy-xbox-mial-podobno-porzucic-abonament-za-multiplayera-i-uruchamiac-gry-ze-steama-teraz-nie-jest-to-juz-takie-pewne/",
+      "publishedAt": "2026-11-24T13:56+01:00",
+      "summary": "Początkowa wizja następcy Xboksów Series X/S mogła ulec istotnemu przeobrażeniu w wyniku kryzysu na rynku pamięci RAM i zmianie w kierownictwie firmy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Xbox-1260x598.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "12. gra z GameCube'a w ofercie Nintendo Switch Online. To klasyka sprzed 25 lat",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/12-gra-z-gamecubea-w-ofercie-nintendo-switch-online-to-klasyk-spr/z33244f",
+      "publishedAt": "2026-11-24T13:52+01:00",
+      "summary": "Nintendo Switch Online + Expansion Pack wzbogaciło się o kolejną produkcję, którą gracze mogą sprwadzić po raz pierwszy od 25 lat.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533220663.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na słuchawki bezprzewodowe Nothing w x-kom. Model Ear (3) za 499 zł (200 zł taniej)",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-sluchawki-bezprzewodowe-nothing-w-x-kom-model-ear-3-za-499-zl-200-zl-taniej/",
+      "publishedAt": "2026-11-24T13:46+01:00",
+      "summary": "Sklep x-kom postanowił obniżyć cenę wybranych modeli słuchawek bezprzewodowych firmy Nothing. Dostępne są zarówno te true wireless jak i nauszne Nothing Headphone (a). Ceny rozpoczynają się już od 379 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/sluchawki-nothing-1b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Niemal 5 lat pracy nad GTA 6. Aktor opowiedział o tajemnicach Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/news/434402/niemal-5-lat-pracy-nad-gta-6-aktor-opowiedzial-o-tajemnicach-rockstar-games.html",
+      "publishedAt": "2026-11-24T13:43+01:00",
+      "summary": "Produkcja GTA 6 trwała latami nie tylko po stronie deweloperów. Mike Forbs, aktor wcielający się w Boobie Ike'a, ujawnił, że pracował nad najnowszą odsłoną serii Rockstar Games przez niemal pięć lat.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Gracze odkryli wyjątkowy easter egg w GTA 6. Dosłownie przenosi nas do starego Vice City",
+      "sourceUrl": "https://cdaction.pl/newsy/gracze-odkryli-wyjatkowy-easter-egg-w-gta-6-doslownie-przenosi-nas-do-starego-vice-city/",
+      "publishedAt": "2026-11-24T13:30+01:00",
+      "summary": "Można wtedy napisać, że gra się w, he he, GTA Vice City (kurtyna).",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-11-1260x732.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jutro na Netflix trafi polecany przez 90% widzów film wojenny z 2026 roku z aktorem z To. Prawdziwa historia z czasów II wojny światowej",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jutro-na-netflix-trafi-jeden-z-najlepszych-filmow-wojennych-2026/z632449",
+      "publishedAt": "2026-11-24T13:30+01:00",
+      "summary": "Już jutro biblioteka Netflixa powiększy się o dramat wojenny The Mosquito Bowl Petera Berga. Oparta na faktach historia gwiazd futbolu na froncie II wojny światowej po premierze w kinach podzieliła widzów i krytyków.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533215866.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Take-Two uderza w fanów GTA! Ponad 600 projektów z nieoficjalnymi portami znika z GitHuba",
+      "sourceUrl": "https://www.ppe.pl/news/434401/take-two-uderza-w-fanow-gta-ponad-600-projektow-z-nieoficjalnymi-portami-znika-z-githuba.html",
+      "publishedAt": "2026-11-24T13:23+01:00",
+      "summary": "Take-Two rozpoczęło szeroko zakrojoną akcję przeciwko nieoficjalnym portom GTA 5 na urządzenia mobilne. W publicznym rejestrze GitHuba pojawiły się cztery zgłoszenia DMCA, które objęły główne projekty oraz setki ich kopii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6a225ac63232001ccc5f/6a225ac63232001ccc5f.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Kup laptopa w Media Expert i zgarnij zestaw LEGO. HyperX Omen 15 + Lama zaopatrzeniowa za 5999 zł (667 zł taniej)",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/kup-laptopa-w-media-expert-i-zgarnij-zestaw-lego-hyperx-omen-15-lama-zaopatrzeniowa-za-5999-zl-667-zl-taniej/",
+      "publishedAt": "2026-11-24T13:20+01:00",
+      "summary": "Ciekawa promocja rozpoczęła się właśnie w sklepie Media Expert w ramach Black Friday 2026 i nadchodzących Świąt. Zamysł jest bardzo prosty – kupujecie wybranego laptopa, rejestrujecie zakup wypełniając formularz i czekacie na paczkę z klockami LEGO. Możecie mieć problem zmieścić się z tym w ramach prezentu gwiazdkowego, ale być może zainteresują Was oferty, które znajdziecie w dalszej części wpisu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lego-fortnite-lama-hp-omen-15-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy stworzyli ogromną mapę gry! Red Dead Redemption 2, Elden Ring i GTA 5 zostają daleko w tyle",
+      "sourceUrl": "https://www.ppe.pl/news/434400/tworcy-stworzyli-ogromna-mape-gry-red-dead-redemption-2-elden-ring-i-gta-5-zostaja-daleko-w-tyle.html",
+      "publishedAt": "2026-11-24T13:04+01:00",
+      "summary": "Crimson Desert oferuje jeden z największych otwartych światów wśród współczesnych gier.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5c46565bb49deea4af1f/5c46565bb49deea4af1f.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "15-letni Polak próbował przenieść GTA 6 na PC, ale projekt Leonida właśnie upadł. W jego miejsce przyszedł „cwaniak”, który twierdzi, że jest zbyt sprytny, by dać się złapać Rockstarowi",
@@ -182,105 +281,6 @@
       "summary": "W kilku sklepach Media Expert możecie jeszcze znaleźć SAROS. Ekskluzywna dla konsoli Sony PlayStation 5 produkcja studia Housemarque, będąca grą akcji z elementami gatunku roguelike, dostępna jest za 99,99 zł. Warto również przypomnieć, że niedawno wyszła duża, darmowa aktualizacja Zenith. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/saros-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Mass Effect Universe wyjaśniłby NAJWAŻNIEJSZY element Mass Effect 3. Scenarzystka zdradza istotne szczegóły",
-      "sourceUrl": "https://www.ppe.pl/news/434392/mass-effect-universe-wyjasnilby-najwazniejszy-element-mass-effect-3-scenarzystka-zdradza-istotne-szczegoly.html",
-      "publishedAt": "2026-11-24T11:16+01:00",
-      "summary": "Zakończenie Mass Effect 3 od lat uchodzi za jeden z najbardziej kontrowersyjnych finałów w historii gier i zarazem największy ból głowy dla każdego, kto chciałby ruszyć fabułę tej serii dalej. Jak pogodzić tak skrajnie różne losy całej ga...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0d2f722ebf42838f238d/0d2f722ebf42838f238d.png"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Fatalne wieści dla graczy planujących zakup RAM-u. Samsung nie ma już praktycznie wolnych mocy produkcyjnych na 2027 rok, a klienci rezerwują dostawy nawet do 2031 roku",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/fatalne-wiesci-dla-graczy-planujacych-zakup-ram-u-samsung-nie-ma/z132444",
-      "publishedAt": "2026-11-24T11:15+01:00",
-      "summary": "Samsung miał wyprzedać całą produkcję pamięci DRAM na 2027 rok, a firmy już zabiegają o kontrakty sięgające nawet 2031 roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533211108.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "CD Projekt Red przekonuje, że Ciri w Wiedźminie 4 nie będzie po prostu zamiennikiem Geralta. „Jest zupełnie inną osobą”",
-      "sourceUrl": "https://cdaction.pl/newsy/cd-projekt-red-przekonuje-ze-ciri-w-wiedzminie-4-nie-bedzie-po-prostu-zamiennikiem-geralta-jest-zupelnie-inna-osoba/",
-      "publishedAt": "2026-11-24T11:15+01:00",
-      "summary": "Co ważne, wpłynie to na konstrukcję zadań.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/03/Wiedzmin-4.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Zestaw LEGO 21375 Godzilla dostępny w Oficjalnym sklepie LEGO już w piątek. 5363 elementowy Król Potworów do tanich nie należy",
-      "sourceUrl": "https://lowcygier.pl/preordery/zestaw-lego-21375-godzilla-dostepny-w-oficjalnym-sklepie-lego-juz-w-piatek-5363-elementowy-krol-potworow-do-tanich-nie-nalezy/",
-      "publishedAt": "2026-11-24T10:59+01:00",
-      "summary": "Fani klocków LEGO i potworów, szykujcie się na końcówkę listopada, a dokładniej na Black Friday. Wielkimi krokami zbliża się bowiem premiera LEGO 21375 Godzilla, potężnego, 70-centrymetrowego Króla Kaiju. Ten składający się z 5363 elementów set został wyceniony w Oficjalnym sklepie LEGO na 1699,99 zł. Jako upominek otrzymacie także Godzilla – logo i ślad, na którym widać również Mothrę. Godzilla również posiada swój ikoniczny atomowy promień, który możecie włożyć do paszczy. Co prawda zestaw jeszcze nie jest możliwy do kupienia, ale karta produktu jest już dostępna. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lego-ideas-godzilla-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Komputer MSI MPG Infinite X3 32GB RAM RTX 5070 za 11040,99 zł w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/komputer-msi-mpg-infinite-x3-32gb-ram-rtx-5070-za-1104099-zl-w-media-expert/",
-      "publishedAt": "2026-11-24T10:56+01:00",
-      "summary": "Gotowy komputer MSI MPG Infinite X3 w dobrej konfiguracji, pojawił się w ofercie sklepu Media Expert w niższej cenie. Model z procesorem Intel Core Ultra 7-265KF, 32GB RAM DDR5 o taktowaniu 5600 MHz oraz kartą graficzną Nvidia GeForce RTX 5070, może być wasz za 11040,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/msi-mpg-infinite-komputer-3b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Posiadacze GTA 6 oceniają grę na 9,6/10. Trolle z Metacritic ośmieszeni",
-      "sourceUrl": "https://www.ppe.pl/news/434368/posiadacze-gta-6-oceniaja-gre-na-9-6-10-trolle-z-metacritic-osmieszeni.html",
-      "publishedAt": "2026-11-24T10:55+01:00",
-      "summary": "Jeśli ktoś wyrabiał sobie zdanie o Grand Theft Auto 6 wyłącznie po ocenach użytkowników na Metacriticu, mógłby pomyśleć, że Rockstar Games wypuścił totalnego gniota. Tam internetowe trolle i złośliwi fani konkurencji w kilka chwil zbili ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Gracze mieli rację, pogoda w GTA 6 nie działała. Teraz Leonidę w końcu nawiedzają efektowne huragany",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-mieli-racje-pogoda-w-gta-6-nie-dzialala-teraz-leonide-w-ko/z032443",
-      "publishedAt": "2026-11-24T10:48+01:00",
-      "summary": "Dzięki ostatniej aktualizacji do GTA 6 gracze nareszcie mogą doświadczyć zróżnicowanych zjawisk atmosferycznych. Szczególnie imponująco prezentuje się huragan.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533209668.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tutaj o nagrodach decydują wyłącznie gracze. Ruszyło najlepsze głosowanie na GOTY w branży gier",
-      "sourceUrl": "https://www.ppe.pl/news/434389/tutaj-o-nagrodach-decyduja-wylacznie-gracze-ruszylo-najlepsze-glosowanie-na-goty-w-branzy-gier.html",
-      "publishedAt": "2026-11-24T10:48+01:00",
-      "summary": "Steam Awards bije na głowę inne branżowe plebiscyty z nagrodami. Z prostego powodu - tutaj o wszystkim decydują gracze.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/1321e5af2152816786de/1321e5af2152816786de.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Światowy fenomen Apple TV wrócił po 3 latach; sukces nowych odcinków z 90% na Rotten Tomatoes teraz zapewnił mu kontynuację",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/swiatowy-fenomen-apple-tv-wrocil-po-3-latach-sukces-nowych-odcink/ze32441",
-      "publishedAt": "2026-11-24T10:30+01:00",
-      "summary": "Apple TV zdecydowało się kontynuować jeden ze swoich najgłośniejszych tytułów. Jason Sudeikis powróci w piątym sezonie nagrodzonego Emmy komediowego widowiska.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533207191.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Koniec trylogii zanim zaczęła się na dobre? „Batman 2” ma być ostatnim filmem Matta Reevesa i Roberta Pattinsona",
-      "sourceUrl": "https://cdaction.pl/kultura/koniec-trylogii-zanim-zaczela-sie-na-dobre-batman-2-ma-byc-ostatnim-filmem-matta-reevesa-i-roberta-pattinsona/",
-      "publishedAt": "2026-11-24T10:30+01:00",
-      "summary": "Przynajmniej Pattinson ma już zapewnioną ciepłą posadkę w MI6.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/Batman-2.jpeg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "To będzie najlepsze The Game Awards w historii? Dwaj giganci mają się tam pojawić",
-      "sourceUrl": "https://www.ppe.pl/news/434367/to-bedzie-najlepsze-the-game-awards-w-historii-dwaj-giganci-maja-sie-tam-pojawic.html",
-      "publishedAt": "2026-11-24T10:28+01:00",
-      "summary": "Grudniowa gala The Game Awards zapowiada się w tym roku wyjątkowo gorąco, ale to miłośnicy Gwiezdnych Wojen mogą przeżyć podczas niej najlepszy wieczór w historii tej imprezy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6eee35f7dee0432b2b87/6eee35f7dee0432b2b87.jpg"
     }
   ],
   "indie": [
