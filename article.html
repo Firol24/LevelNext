@@ -44,7 +44,7 @@ if(!id)throw Error('Nie wskazano publikacji.');
 let item=null;let isManual=false;
 try{const r=await fetch('data/manual-news.json?ts='+Date.now(),{cache:'no-store'});if(r.ok){const data=await r.json();for(const entries of Object.values(data)){if(Array.isArray(entries)){item=entries.find(x=>x.articleSlug===id);if(item){isManual=true;break;}}}}}catch{}
 if(!item){
- const validDate=issueDate&&/^\\d{4}-\\d{2}-\\d{2}$/.test(issueDate);
+ const validDate=issueDate&&/^\d{4}-\d{2}-\d{2}$/.test(issueDate);
  const path=validDate?'archive/'+issueDate+'.json':'data/daily.json';
  const r=await fetch(path+'?ts='+Date.now(),{cache:'no-store'});
  if(!r.ok)throw Error('Nie udało się pobrać wydania z archiwum.');
@@ -59,7 +59,7 @@ root.replaceChildren(el('div','kicker',label),el('h1','',item.title),el('p','dek
 root.append(el('div','date',dateText+' · '+(item.sourceName||'LEVEL NEXT / REDAKCJA')));
 if(item.imageUrl){const img=el('img','hero');img.src=safeUrl(item.imageUrl);img.alt='';img.onerror=()=>img.remove();root.append(img);}
 const body=el('div','body');
-(item.articleBody||item.summary||'').split(/\\n\\s*\\n/).map(s=>s.trim()).filter(Boolean).forEach(p=>body.append(el('p','',p)));
+(item.articleBody||item.summary||'').split(/\n\s*\n/).map(s=>s.trim()).filter(Boolean).forEach(p=>body.append(el('p','',p)));
 root.append(body);
 if(!isManual)root.append(el('p','byline','To skrót przygotowany na podstawie opisu udostępnionego przez źródło. Nie jest to pełny tekst oryginalnej publikacji.'));
 const footer=el('div','footer');const back=el('a','', 'Wróć do wydania ↗');back.href=issueDate?'daily.html?date='+encodeURIComponent(issueDate):'daily.html';footer.append(back);
