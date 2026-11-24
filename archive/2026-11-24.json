@@ -1,17 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T07:01+01:00",
+  "updatedAt": "2026-11-24T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 „działa na PC”, ale przed graczami mnóstwo pracy",
-    "summary": "GTA 6 zadebiutowało wyłącznie na PlayStation 5 i Xboksach Series X|S, ale społeczność pecetowa nie zamierza cierpliwie czekać na oficjalną premierę. Po niedawnym wycieku konsolowej wersji gry rozpoczęły się prace nad nieoficjalnym uruchomien...",
-    "sourceUrl": "https://www.ppe.pl/news/434318/gta-6-dziala-na-pc-ale-przed-graczami-mnostwo-pracy.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
+    "title": "2 gry w Xbox Game Pass. W tym najnowsza odsłona polskiej serii strzelanek FPP",
+    "summary": "Abonenci usług Xbox i PC Game Pass otrzymają dzisiaj dwie gry. Nowością jest Sniper: Ghost Warrior Contracts 2, natomiast Motorslice rozszerza grono swych odbiorców.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-w-xbox-game-pass-w-tym-najnowsza-odslona-polskiej-serii-str/zf3243c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533201718.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "2 gry w Xbox Game Pass. W tym najnowsza odsłona polskiej serii strzelanek FPP",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-w-xbox-game-pass-w-tym-najnowsza-odslona-polskiej-serii-str/zf3243c",
+      "publishedAt": "2026-11-24T08:35+01:00",
+      "summary": "Abonenci usług Xbox i PC Game Pass otrzymają dzisiaj dwie gry. Nowością jest Sniper: Ghost Warrior Contracts 2, natomiast Motorslice rozszerza grono swych odbiorców.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533201718.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Hit PlayStation z „nieoficjalną premierą” na PC. Gracze przenieśli grę i oferują znakomitą jakość",
+      "sourceUrl": "https://www.ppe.pl/news/434321/hit-playstation-z-nieoficjalna-premiera-na-pc-gracze-przeniesli-gre-i-oferuja-znakomita-jakosc.html",
+      "publishedAt": "2026-11-24T07:50+01:00",
+      "summary": "Sony od lat przenosi kolejne hity PlayStation na komputery osobiste, ale nie wszystkie produkcje doczekały się oficjalnych portów. Społeczność postanowiła wziąć sprawy w swoje ręce i właśnie osiągnęła kolejny imponujący rezultat.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/db73a28ac644800a7138/db73a28ac644800a7138.png"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation rezygnuje z pudełek? A gry w fizycznej dystrybucji przeżywają renesans",
+      "sourceUrl": "https://www.ppe.pl/news/434304/playstation-rezygnuje-z-pudelek-a-gry-w-fizycznej-dystrybucji-przezywaja-renesans.html",
+      "publishedAt": "2026-11-24T07:30+01:00",
+      "summary": "Sony stawia na cyfrową dystrybucję, a przyszłość fizycznych wydań gier na PlayStation budzi coraz więcej pytań. Jak się jednak okazuje… najnowsze dane z Wielkiej Brytanii pokazują, że gracze wcale nie zamierzają masowo rezygnować z pudeł...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8dc263c110baa12a3d5f/8dc263c110baa12a3d5f.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 traci wielki ekskluzywny hit. Gra w styczniu trafi na Xboksa",
+      "sourceUrl": "https://www.ppe.pl/news/434319/ps5-traci-wielki-ekskluzywny-hit-gra-w-styczniu-trafi-na-xboksa.html",
+      "publishedAt": "2026-11-24T07:05+01:00",
+      "summary": "PlayStation przez lata było jedynym konsolowym domem dla jednej z najbardziej wymagających serii RPG akcji, ale ta sytuacja wkrótce się zmieni. Potwierdzają się wcześniejsze doniesienia dotyczące zakończenia konsolowej ekskluzywności popularne...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ee72cb8ac57c1f58918b/ee72cb8ac57c1f58918b.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Za 8 dni wraca jeden z najlepszych seriali kryminalnych Apple TV. Pierwsza odsłona widowiska z gwiazdami jest polecana przez 92% krytyków",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/za-8-dni-wraca-jeden-z-najlepszych-seriali-kryminalnych-apple-tv/ze3242c",
+      "publishedAt": "2026-11-24T06:50+01:00",
+      "summary": "Już na początku grudnia na Apple TV powróci serial łączący w sobie komedię i kryminał. Fani czarnego humoru i słonecznej Florydy mogą w przyszłym tygodniu zajrzeć na Apple TV, gdzie zadebiutuje nowy odcinek produkcji z Vince’em Vaughnem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533139366.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 „działa na PC”, ale przed graczami mnóstwo pracy",
@@ -20,6 +65,15 @@
       "summary": "GTA 6 zadebiutowało wyłącznie na PlayStation 5 i Xboksach Series X|S, ale społeczność pecetowa nie zamierza cierpliwie czekać na oficjalną premierę. Po niedawnym wycieku konsolowej wersji gry rozpoczęły się prace nad nieoficjalnym uruchomien...",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Specjalny przedpremierowy bonus do GTA 6 jest dostępny dla wszystkich graczy. Trzeba jednak dodatkowo zapłacić",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/specjalny-przedpremierowy-bonus-do-gta-6-jest-dostepny-dla-wszyst/ze3243b",
+      "publishedAt": "2026-11-24T06:30+01:00",
+      "summary": "GTA 6 niewątpliwie jest warte swojej ceny. Jeśli jednak uważacie, że gra Rockstar Games kosztuje zbyt mało, a nie nabyliście jej przed premierą, za 22,50 zł możecie dokupić mały bonus.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533163148.jpg"
     },
     {
       "sourceName": "PPE",
@@ -236,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -244,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -252,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -260,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -279,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -289,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -327,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -414,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
+  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
 }
