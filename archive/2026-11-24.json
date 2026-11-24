@@ -1,17 +1,107 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T08:01+01:00",
+  "updatedAt": "2026-11-24T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "2 gry w Xbox Game Pass. W tym najnowsza odsłona polskiej serii strzelanek FPP",
-    "summary": "Abonenci usług Xbox i PC Game Pass otrzymają dzisiaj dwie gry. Nowością jest Sniper: Ghost Warrior Contracts 2, natomiast Motorslice rozszerza grono swych odbiorców.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-w-xbox-game-pass-w-tym-najnowsza-odslona-polskiej-serii-str/zf3243c",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533201718.jpg"
+    "title": "GTA 6 to największa premiera w historii PlayStation. Liczby robią piorunujące wrażenie",
+    "summary": "GTA 6 ustanowiło nowy rekord, stając się największą premierą w historii PlayStation. W ciągu pierwszych dni od debiutu w produkcję Rockstara zagrało na PS5 ponad 39 milionów unikalnych graczy.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-to-najwieksza-premiera-w-historii-playstation-liczby-robia/z23243f",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533204427.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 to największa premiera w historii PlayStation. Liczby robią piorunujące wrażenie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-to-najwieksza-premiera-w-historii-playstation-liczby-robia/z23243f",
+      "publishedAt": "2026-11-24T09:20+01:00",
+      "summary": "GTA 6 ustanowiło nowy rekord, stając się największą premierą w historii PlayStation. W ciągu pierwszych dni od debiutu w produkcję Rockstara zagrało na PS5 ponad 39 milionów unikalnych graczy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533204427.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zarobił ponad 1 mld dolarów i zapisał się w historii, od dziś obejrzysz go w domu. Jeden z największych hitów roku właśnie wleciał na SkyShowtime",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zarobil-ponad-1-mld-dolarow-i-zapisal-sie-w-historii-od-dzis-obej/z13243e",
+      "publishedAt": "2026-11-24T09:18+01:00",
+      "summary": "Od dziś w ramach abonamentu obejrzeć można najbardziej kasowy film biograficzny i najbardziej dochodową biografię muzyczną. To tegoroczne widowisko, które podzieliło odbiorców.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533203489.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "1 gra do odebrania w Amazon Prime Gaming. To wysoko oceniana gra narracyjna",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/1-gra-do-odebrania-w-amazon-prime-gaming-to-wysoko-oceniana-gra-n/z03243d",
+      "publishedAt": "2026-11-24T09:05+01:00",
+      "summary": "Abonenci Amazon Luna Standard odbiorą dzisiaj ostatnią z produkcji przygotowanych na listopad. Mowa o wysoko ocenianym visual novel z elementami RPG pod tytułem Arcadia Fallen.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533201865.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wybitne Call of Duty: Modern Warfare 4 na PS5 i NS2 już o wiele taniej",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434373/wybitne-call-of-duty-modern-warfare-4-na-ps5-i-ns2-juz-o-wiele-taniej.html",
+      "publishedAt": "2026-11-24T09:00+01:00",
+      "summary": "Wystarczył miesiąc, aby Call of Duty Modern Warfare 4 staniało o nawet 100 złotych względem ceny cyfrowej na PS Store.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/2c92737bc003800a41f9/2c92737bc003800a41f9.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Monitor LG UltraGear 27G411B-B 27″ IPS 144 Hz za 349 zł (50 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/monitor-lg-ultragear-27g411b-b-27-ips-144-hz-za-349-zl-50-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-24T08:57+01:00",
+      "summary": "W Hicie Dnia, sklep Media Expert proponuje dziś LG UltraGear 27G411B. Monitor z matrycą IPS o przekątnej 27 cali, rozdzielczości FullHD oraz wsparciem dla technologii AMD FreeSync, kosztuje tylko 349 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lg-ultragear-27G411B-2b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Świetne słuchawki Sony H3 Inzone z mikrofonem, dźwiękiem przestrzennym 360 do PC/PS5 za 199 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434372/swietne-sluchawki-sony-h3-inzone-z-mikrofonem-dzwiekiem-przestrzennym-360-do-pc-ps5-za-199-zl.html",
+      "publishedAt": "2026-11-24T08:57+01:00",
+      "summary": "W ramach nowych okazji w sklepie internetowym X-Kom możemy nabyć po świetnej cenie słuchawki INZONE H3 firmy Sony.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/116c277b86321ef7e28b/116c277b86321ef7e28b.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 pobiło rekordy wszech czasów na PlayStation 5. Sony opublikowało laurkę dla Rockstara",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-pobilo-rekordy-wszech-czasow-na-playstation-5-sony-opublikowalo-laurke-dla-rockstara/",
+      "publishedAt": "2026-11-24T08:55+01:00",
+      "summary": "No dajcie już sobie całusa.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-6-1-1260x709.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Soundbar LG S40TR z mocą 400W i Bass Reflex od 653 zł. Konkretna oferta dla klientów",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434371/soundbar-lg-s40tr-z-moca-400w-i-bass-reflex-od-653-zl-konkretna-oferta-dla-klientow.html",
+      "publishedAt": "2026-11-24T08:55+01:00",
+      "summary": "W sklepie Media Expert w ramach wyprzedaży możemy nabyć taniej o ponad 100 złotych porządny soundbar firmy LG.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/81029e6ded05de737b33/81029e6ded05de737b33.webp"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pady DualSense do PS5 i PC tanio na Black Friday. Limitowane od 270 zł, zwykłe jeszcze taniej",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434370/pady-dualsense-do-ps5-i-pc-tanio-na-black-friday-limitowane-od-270-zl-zwykle-jeszcze-taniej.html",
+      "publishedAt": "2026-11-24T08:51+01:00",
+      "summary": "W sklepie Empik w ramach Black Friday na sprzęty Sony nabędziemy o wiele taniej kontrolery DualSense.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a1205f1b4ab23e839612/a1205f1b4ab23e839612.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jensen Huang traktowany jak mesjasz. Wiwaty i łzy w oczach w Nvidii",
+      "sourceUrl": "https://www.ppe.pl/news/434363/jensen-huang-traktowany-jak-mesjasz-wiwaty-i-lzy-w-oczach-w-nvidii.html",
+      "publishedAt": "2026-11-24T08:51+01:00",
+      "summary": "Telenowela w Nvidii właśnie zaliczyła zwrot akcji, którego nie powstydziliby się najlepsi scenarzyści z Hollywood. Zaledwie kilkanaście dni po tym, jak Jensen Huang podał się do dymisji w cieniu głośnego skandalu obyczajowego, rada nadzorcza ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/08c389fe14066e599a09/08c389fe14066e599a09.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "2 gry w Xbox Game Pass. W tym najnowsza odsłona polskiej serii strzelanek FPP",
@@ -191,96 +281,6 @@
       "summary": "The Last of Us Part II Remastered na PC doczekało się darmowego trybu wieloosobowego.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/6ee0bb0115749eb32f43/6ee0bb0115749eb32f43.png"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na Sony DualSense Edge w RTV Euro AGD. Kontroler PlayStation 5 za 739,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocja-na-sony-dualsense-edge-w-rtv-euro-agd-specjalne-kontrolery-do-ps5-za-73999-zl/",
-      "publishedAt": "2026-11-23T16:49+01:00",
-      "summary": "W internetowym sklepie RTV Euro AGD pojawiła się wyjątkowa promocja na kontroler Sony DualSense Edge. Specjalna, ulepszona wersja bezprzewodowego pada dedykowanego konsoli PlayStation 5 dostępna jest za 739,99 zł. Podana kwota pojawi się w koszyku po wykorzystaniu limitowanego kodu zniżkwoego. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2022/08/DualSense-Edge_miniaturka-scaled.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Darkest Dungeon 2 doczeka się nowego dodatku. Grywalna postać i świeży tryb właśnie zostały zapowiedziane",
-      "sourceUrl": "https://cdaction.pl/newsy/darkest-dungeon-2-doczeka-sie-nowego-dodatku-grywalna-postac-i-swiezy-tryb-wlasnie-zostaly-zapowiedziane/",
-      "publishedAt": "2026-11-23T16:30+01:00",
-      "summary": "Zdeprawowany lud domaga się igrzysk!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-23T123945.338-1260x709.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Gracze WoW Forever organizują wielkie marsze przez ziemie wroga i inwazje na stolice przeciwnika. „Najlepsza zabawa w WoW-ie od jakichś 15 lat”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-wow-forever-organizuja-wielkie-marsze-przez-ziemie-wroga-i/zd32431",
-      "publishedAt": "2026-11-23T16:26+01:00",
-      "summary": "Społeczność WoW Forever zaczyna organizować coraz bardziej imponujące inicjatywy. Wielkie pochody na stolice wroga mogą być dopiero początkiem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533143582.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Ładowarka USB-C Motorola TurboPower 68W za 69 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-usb-c-motorola-turbopower-68w-za-69-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-23T16:24+01:00",
-      "summary": "Szybka, jednoportowa ładowarka Motorola TurboPower, pojawiła się w dobrej cenie w ofercie polskiego oddziału sklepu Amazon. Model oferujący moc 68W, z kablem USB-C w zestawie, kosztuje 69 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/motorola-turbopower-usb-c-68W-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Jensen Huang wraca na stanowisko CEO Nvidii. Zarząd zmienił zdanie po zaledwie kilkunastu dniach",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/jensen-huang-wraca-na-stanowisko-ceo-nvidii-zarzad-zmienil-zdanie/zc32430",
-      "publishedAt": "2026-11-23T16:16+01:00",
-      "summary": "Jensen Huang ponownie został dyrektorem generalnym Nvidii. Rada dyrektorów jednogłośnie zdecydowała o przywróceniu współzałożyciela firmy na stanowisko, z którego zrezygnował w atmosferze skandalu obyczajowego.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533142987.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Nvidia ma nowego szefa, którym jest stary szef. Jensen Huang powrócił na stanowisko",
-      "sourceUrl": "https://cdaction.pl/newsy/nvidia-ma-nowego-szefa-ktorym-jest-stary-szef-jensen-huang-powrocil-na-stanowisko/",
-      "publishedAt": "2026-11-23T16:05+01:00",
-      "summary": "Wyrywacz rąk powraca.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/jensen-huang-4345.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Wielu graczy nienawidzi otwartego PvP w World of Warcraft. Ja uważam, że bez niego tracimy jedną z najlepszych rzeczy, jakie oferują gry MMO",
-      "sourceUrl": "https://www.gry-online.pl/opinie/w-world-of-warcraft-forever-chcialem-tylko-dotrzec-do-lochu-ale-u/z549dd",
-      "publishedAt": "2026-11-23T16:01+01:00",
-      "summary": "Otwarte PvP sprawia, że świat MMO żyje własnym życiem, a inni gracze przestają być jedynie uczestnikami podróży, tylko stają się częścią nieprzewidywalnej przygody. Dlatego warto dać szansę takiej rywalizacji!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533141593.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "3 kultowe strategie trafiły w odświeżonych wersjach na Steama i GOG.com. Wśród nich m.in. ostatnia odsłona serii Warlords",
-      "sourceUrl": "https://cdaction.pl/newsy/3-kultowe-strategie-trafily-w-odswiezonych-wersjach-na-steama-i-gog-com-wsrod-nich-m-in-ostatnia-odslona-serii-warlords/",
-      "publishedAt": "2026-11-23T16:00+01:00",
-      "summary": "Klimaty fantasy, XV-wieczna Ameryka lub II wojna światowa – fani strategii mają w czym wybierać.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Warlords.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 mogło już przebić roczne prognozy. W mniej niż tydzień niemal 45 mln sprzedanych egzemplarzy",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-moglo-juz-przebic-roczne-prognozy-w-mniej-niz-tydzien-niema/z13242f",
-      "publishedAt": "2026-11-23T15:38+01:00",
-      "summary": "Sprzedaż Grand Theft Auto 6 mogła „nieco” wyprzedzić nawet najbardziej optymistyczne prognozy analityków.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533140489.jpg"
-    },
-    {
-      "sourceName": "GRY-Online / Publicystyka",
-      "title": "Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku",
-      "sourceUrl": "https://www.gry-online.pl/recenzje/recenzja-gta-6-po-120-godzinach-to-znacznie-wiecej-niz-tylko-gra/z449dc",
-      "publishedAt": "2026-11-18T13:00+01:00",
-      "summary": "Gra roku? Pff, nie ma o czym mówić, po ten tytuł GTA 6 sięgnie bez głosu sprzeciwu. Zastanowiłbym się raczej, czy nie mamy przed sobą również mocnego kandydata do tytułu gry generacji i gry dekady. Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku został opublikowany przez gry-online.pl 18 listopada 2026. Zobacz zasady korzystania z naszych treści .",
-      "category": "PUBLICYSTYKA",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532619018.jpg"
     }
   ],
   "indie": [
