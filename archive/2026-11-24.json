@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T05:01+01:00",
+  "updatedAt": "2026-11-24T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Granie w chmurze w GTA 6 nie tylko na Xboksie. Fani PlayStation mogą świętować",
-    "summary": "Granie zdalne w GTA 6 miało nie być możliwe dla graczy PlayStation, którzy nie mieli gry zainstalowanej na konsoli. Okazuje się jednak, że wystarczyło się wykazać odrobiną cierpliwości i poczekać.",
-    "sourceUrl": "https://www.ppe.pl/news/434310/granie-w-chmurze-w-gta-6-nie-tylko-na-xboksie-fani-playstation-moga-swietowac.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/7c1ca01123fd69289d8a/7c1ca01123fd69289d8a.jpg"
+    "title": "W kwietniu w kinach, a już dzisiaj na SkyShowtime. Jeden z największych HITów 2026 roku",
+    "summary": "SkyShowtime przygotowało prawdziwą bombę na początek tygodnia! Do oferty platformy trafiła właśnie produkcja, która jeszcze kilka miesięcy temu przyciągała tłumy do kin na całym świecie.",
+    "sourceUrl": "https://www.ppe.pl/news/434306/w-kwietniu-w-kinach-a-juz-dzisiaj-na-skyshowtime-jeden-z-najwiekszych-hitow-2026-roku.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/efc789ccc2677780e5f1/efc789ccc2677780e5f1.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "W kwietniu w kinach, a już dzisiaj na SkyShowtime. Jeden z największych HITów 2026 roku",
+      "sourceUrl": "https://www.ppe.pl/news/434306/w-kwietniu-w-kinach-a-juz-dzisiaj-na-skyshowtime-jeden-z-najwiekszych-hitow-2026-roku.html",
+      "publishedAt": "2026-11-24T05:44+01:00",
+      "summary": "SkyShowtime przygotowało prawdziwą bombę na początek tygodnia! Do oferty platformy trafiła właśnie produkcja, która jeszcze kilka miesięcy temu przyciągała tłumy do kin na całym świecie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/efc789ccc2677780e5f1/efc789ccc2677780e5f1.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "Granie w chmurze w GTA 6 nie tylko na Xboksie. Fani PlayStation mogą świętować",
