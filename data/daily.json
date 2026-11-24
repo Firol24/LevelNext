@@ -1,17 +1,26 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T20:01+01:00",
+  "updatedAt": "2026-11-24T20:18+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Deweloperzy patrzą na GTA 6 z zazdrością i zachwytem. Największą uwagę zwracają na detale, których gracze nigdy nie zauważą",
-    "summary": "Rockstar ponownie pokazuje, jak wiele można wycisnąć z dbałości o detale. Szczegółowość GTA VI przyciąga uwagę nie tylko graczy, ale również innych twórców, którzy z uznaniem przyglądają się rozwiązaniom zastosowanym w hicie amerykańskiego studia.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/deweloperzy-patrza-na-gta-6-z-zazdroscia-i-zachwytem-najwieksza-u/z13245c",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533244464.jpg"
+    "title": "Podciąć sobie skrzydła czy wziąć na siebie 100% ryzyka? Ambitni twórcy gier mają dziś nie lada dylemat",
+    "summary": "Niezależny deweloper może sam wydawać gry, ale musi pamiętać o pełnym ryzyku. Współzałożycielka firmy The Game Bakers, odpowiedzialnej m.in. za Furi i Cairn, opowiedziała o self-publishingu.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/podciac-sobie-skrzydla-czy-wziac-na-siebie-100-ryzyka-ambitni-two/z23245d",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533247192.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Podciąć sobie skrzydła czy wziąć na siebie 100% ryzyka? Ambitni twórcy gier mają dziś nie lada dylemat",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/podciac-sobie-skrzydla-czy-wziac-na-siebie-100-ryzyka-ambitni-two/z23245d",
+      "publishedAt": "2026-11-24T21:16+01:00",
+      "summary": "Niezależny deweloper może sam wydawać gry, ale musi pamiętać o pełnym ryzyku. Współzałożycielka firmy The Game Bakers, odpowiedzialnej m.in. za Furi i Cairn, opowiedziała o self-publishingu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533247192.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Deweloperzy patrzą na GTA 6 z zazdrością i zachwytem. Największą uwagę zwracają na detale, których gracze nigdy nie zauważą",
@@ -20,6 +29,24 @@
       "summary": "Rockstar ponownie pokazuje, jak wiele można wycisnąć z dbałości o detale. Szczegółowość GTA VI przyciąga uwagę nie tylko graczy, ale również innych twórców, którzy z uznaniem przyglądają się rozwiązaniom zastosowanym w hicie amerykańskiego studia.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533244464.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rockstar zamyka serwer Discorda. Grupa próbowała przenieść GTA 6 na PC",
+      "sourceUrl": "https://www.ppe.pl/news/434425/rockstar-zamyka-serwer-discorda-grupa-probowala-przeniesc-gta-6-na-pc.html",
+      "publishedAt": "2026-11-24T20:14+01:00",
+      "summary": "Rockstar Games doprowadziło do zamknięcia serwera Discorda, na którym rozwijano projekt nieoficjalnego portu GTA 6 na komputery osobiste. Inicjatywa znana jako Project Leonida miała na celu ponowne skompilowanie gry w taki sposób, aby mogła dział...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Lords of the Fallen 2 z oknem premiery. Nie będziemy czekali aż tak długo!",
+      "sourceUrl": "https://www.ppe.pl/news/434437/lords-of-the-fallen-2-z-oknem-premiery-nie-bedziemy-czekali-az-tak-dlugo.html",
+      "publishedAt": "2026-11-24T20:05+01:00",
+      "summary": "CI Games ujawniło przybliżony termin premiery Lords of the Fallen 2. Produkcja ma trafić na rynek w kwietniu 2027 roku. Informację przekazał we wtorek Marek Tymiński, założyciel i prezes polskiego studia. Dokładny dzień debiutu nie został jes...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5653f1dbc8010d9a82c9/5653f1dbc8010d9a82c9.png"
     },
     {
       "sourceName": "PPE",
@@ -254,33 +281,6 @@
       "summary": "Specjalne, zawierające steelbook wydanie Elden Ring: Nightreign – Seekers Edition, kupicie taniej poprzez serwis Allegro. Poboczna odsłona soulslike studia FromSoftware, skupiająca się na dynamicznej, kooperacyjnej rozgrywce, kosztuje 74,99 zł w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/02/Preorder-Elden-Ring-Nightreign-Seekers-Edition-na-konsole-za-18390-zl-dostawa-w-Gamefinity_obrazek-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Final Fantasy VII Revelation nie będzie tak brutalne, jak sugerowały przecieki. Znamy klasyfikację wiekową",
-      "sourceUrl": "https://www.ppe.pl/news/434410/final-fantasy-vii-revelation-nie-bedzie-tak-brutalne-jak-sugerowaly-przecieki-znamy-klasyfikacje-wiekowa.html",
-      "publishedAt": "2026-11-24T16:01+01:00",
-      "summary": "Final Fantasy VII Revelation nie otrzymało kategorii wiekowej Mature 17+, choć właśnie taki scenariusz przez kilka miesięcy brano pod uwagę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/03a6f21c0696bea2ff30/03a6f21c0696bea2ff30.webp"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "W sieci pojawiły się grafiki i concept arty z nowej gry Ninja Theory. Senua zachwyciłaby nas wizją świata?",
-      "sourceUrl": "https://cdaction.pl/newsy/w-sieci-pojawily-sie-grafiki-i-concept-arty-z-nowej-gry-ninja-theory-senua-zachwycilaby-nas-wizja-swiata/",
-      "publishedAt": "2026-11-24T16:00+01:00",
-      "summary": "Ech, to prawdopodobnie kolejne informacje z gatunku: co mogłoby być.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Senua.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Płatność za Humble Choice już jutro! Definitywny koniec planu Classic i nowa data płatności!",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/platnosc-za-humble-choice-juz-jutro-definitywny-koniec-planu-classic-i-nowa-data-platnosci/",
-      "publishedAt": "2026-11-24T15:57+01:00",
-      "summary": "Łowcy, pamiętacie jeszcze jak subskrypcja zmieniła swoją formułę, przeistaczając się w Humble Choice? Wtedy to aktywni abonenci otrzymali dostęp do planu Classic rozliczanego w dolarach. Niestety wariant ten był przez większość czasu niekorzystny ze względu na kurs walutowy w stosunku do kwoty w euro. Jeśli jednak z jakiegoś powodu pozostawaliście przy starym rozliczeniu, to już we wrześniu 2026 roku pierwsze osoby (w tym również ja!) zgłaszały, że ich subskrypcja Month-to-Month Classic Plan za $14.99 została zmieniona na standardowy Humble Choice za €12.99! Najnowszy e-mail od przedstawicieli HB wyjaśnia całą sytuacją, informując użytkowników, że plan Classic zostaje całkowicie wygaszony. Jego posiadacze będą automatycznie przeniesieni na abonament w wariancie Month-to-Month Plan (lub rocznym) bez utraty jakichkolwiek korzyści. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nadchodza-zmiany-w-Humble-Choice.-Definitywny-koniec-planu-Classic-i-nowa-data-platnosci_minaturka-224x224.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -399,7 +399,7 @@
       "genre": "Akcja / sci-fi",
       "summary": "Prequel przenosi widzów na 50. Głodowe Igrzyska, w których młody Haymitch Abernathy trafia na arenę z dwukrotnie większą liczbą trybutów.",
       "sourceUrl": "https://www.rankino.pl/premiery/igrzyska-smierci-wschod-slonca-w-dniu-dozynek",
-      "imageUrl": "https://www.rankino.pl/og/premiery/igrzyska-smierci-wschod-slonca-w-dniu-dozynek.png"
+      "imageUrl": "https://www.mediarodzina.pl/mrcore/uploads/2026/04/Igrzyska-smierci.-Wschod-slonca-w-dniu-dozynek_-plakat-PL-A.jpg"
     },
     {
       "date": "2026-11-20",
@@ -407,7 +407,7 @@
       "genre": "Akcja / thriller",
       "summary": "Ethan Hawke i Russell Crowe w thrillerze Padraica McKinleya o przemytniczym świecie i niebezpiecznych układach.",
       "sourceUrl": "https://www.rankino.pl/premiery/przemytnicy",
-      "imageUrl": "https://www.rankino.pl/og/premiery/przemytnicy.png"
+      "imageUrl": "https://prod3.agileticketing.net/images/user/fsc_2553/TheWeight_poater-1080x1600.jpg"
     },
     {
       "date": "2026-11-20",
@@ -415,7 +415,7 @@
       "genre": "Komedia kryminalna",
       "summary": "W filharmonii lat 70. podczas koncertu ginie jeden z widzów. Inspektor Wróbel prowadzi śledztwo wśród muzyków i publiczności.",
       "sourceUrl": "https://www.rankino.pl/premiery/morderstwo-w-filharmonii",
-      "imageUrl": "https://www.rankino.pl/og/premiery/morderstwo-w-filharmonii.png"
+      "imageUrl": "https://fwcdn.pl/fpo/40/34/10134034/8267518.7.webp"
     },
     {
       "date": "2026-11-20",
@@ -423,7 +423,7 @@
       "genre": "Animacja / komedia",
       "summary": "Kojot ma dość wadliwych produktów firmy Acme i postanawia pozwać producenta. Animowana komedia w reżyserii Dave'a Greena.",
       "sourceUrl": "https://www.rankino.pl/premiery/strus-pedziwiatr-i-zemsta-kojota",
-      "imageUrl": "https://www.rankino.pl/og/premiery/strus-pedziwiatr-i-zemsta-kojota.png"
+      "imageUrl": "https://v1.fdbimg.pl/crop?height=1739&noprofile=true&quality=80&sign=doTDCl_CwjDEZ7PhMNKj9E36P0wlz1LDLBkammeZoi8&stripmeta=true&type=webp&url=https%3A%2F%2Fi11.fdbimg.pl%2Fi%2Fk%2Fz%2Ff%2Fkzfvjrjydk6tr1fvlzktho0f866v&width=1200"
     },
     {
       "date": "2026-11-25",
@@ -431,7 +431,7 @@
       "genre": "Animacja / fantasy",
       "summary": "Nastolatka Billie odkrywa magiczne zdolności i trafia do krainy czarownic Hexe, gdzie czekają na nią rodzinne sekrety.",
       "sourceUrl": "https://www.rankino.pl/premiery/hokus-krolestwo-magii",
-      "imageUrl": "https://www.rankino.pl/og/premiery/hokus-krolestwo-magii.png"
+      "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/image_15452e00.jpeg?region=0%2C0%2C540%2C810"
     },
     {
       "date": "2026-11-27",
@@ -439,7 +439,7 @@
       "genre": "Thriller / dramat",
       "summary": "Thriller Jamesa Graya prezentowany w Cannes, z Adamem Driverem, Scarlett Johansson i Milesem Tellerem.",
       "sourceUrl": "https://www.rankino.pl/premiery/papierowy-tygrys",
-      "imageUrl": "https://www.rankino.pl/og/premiery/papierowy-tygrys.png"
+      "imageUrl": "https://www.impawards.com/2026/posters/paper_tiger_xxlg.jpg"
     },
     {
       "date": "2026-11-27",
@@ -447,7 +447,7 @@
       "genre": "Komedia",
       "summary": "Czwarta część serii „Poznaj mojego tatę”. Ben Stiller i Robert De Niro wracają, a do rodziny dołącza Ariana Grande.",
       "sourceUrl": "https://www.rankino.pl/premiery/poznaj-swojego-tescia",
-      "imageUrl": "https://www.rankino.pl/og/premiery/poznaj-swojego-tescia.png"
+      "imageUrl": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/focker-in-law/images/regions/us/onesheet.jpg"
     },
     {
       "date": "2026-11-27",
@@ -455,7 +455,7 @@
       "genre": "Dokument / dramat",
       "summary": "premiera 27 listopada 2026. Z Lewina Kłodzkiego na sceny Paryża i Las Vegas. Dokument o głosie, którego nie dało się podrobić, i o cenie,…",
       "sourceUrl": "https://www.rankino.pl/premiery/violetta-villas",
-      "imageUrl": "https://www.rankino.pl/og/premiery/violetta-villas.png"
+      "imageUrl": "https://v.wpimg.pl/NzdiMzM5YRsFCztJYk5sDkZTbxMkF2JYEUt3WGJWYUxVWH4CdQJ5S0sPJBYoRysKC0cqCDhFLw0URz0WYlQ-E0sffFUpXD0KCAg0VShYLB8ARiwcewYqTVRYYE59AXpXUAp4Q2ANfE9QRHhPewJ5GFdadEJ8VmwH"
     }
   ],
   "film": {
@@ -465,8 +465,8 @@
     "summary": "Po odziedziczeniu odosobnionego domu matka i jej dwie córki przeżywają brutalny napad. Wydarzenia tamtej nocy na długo odciskają się na rodzinie. Gęsty horror psychologiczny oparty na klaustrofobii, traumie i narastającej paranoi.",
     "availabilityNote": "JustWatch Polska sprawdził dostępność 7 listopada 2026 r. i wskazuje film w abonamencie Amazon Prime Video (Abo HD) w Polsce. To oferta subskrypcyjna, nie wypożyczenie ani zakup.",
     "availabilityUrl": "https://www.justwatch.com/pl/film/ghostland",
-    "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
+  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
 }
