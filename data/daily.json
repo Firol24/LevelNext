@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T15:30+01:00",
+  "updatedAt": "2026-11-24T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -20,6 +20,51 @@
       "summary": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Final Fantasy VII Revelation nie będzie tak brutalne, jak sugerowały przecieki. Znamy klasyfikację wiekową",
+      "sourceUrl": "https://www.ppe.pl/news/434410/final-fantasy-vii-revelation-nie-bedzie-tak-brutalne-jak-sugerowaly-przecieki-znamy-klasyfikacje-wiekowa.html",
+      "publishedAt": "2026-11-24T16:01+01:00",
+      "summary": "Final Fantasy VII Revelation nie otrzymało kategorii wiekowej Mature 17+, choć właśnie taki scenariusz przez kilka miesięcy brano pod uwagę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/03a6f21c0696bea2ff30/03a6f21c0696bea2ff30.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Płatność za Humble Choice już jutro! Definitywny koniec planu Classic i nowa data płatności!",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/platnosc-za-humble-choice-juz-jutro-definitywny-koniec-planu-classic-i-nowa-data-platnosci/",
+      "publishedAt": "2026-11-24T15:57+01:00",
+      "summary": "Łowcy, pamiętacie jeszcze jak subskrypcja zmieniła swoją formułę, przeistaczając się w Humble Choice? Wtedy to aktywni abonenci otrzymali dostęp do planu Classic rozliczanego w dolarach. Niestety wariant ten był przez większość czasu niekorzystny ze względu na kurs walutowy w stosunku do kwoty w euro. Jeśli jednak z jakiegoś powodu pozostawaliście przy starym rozliczeniu, to już we wrześniu 2026 roku pierwsze osoby (w tym również ja!) zgłaszały, że ich subskrypcja Month-to-Month Classic Plan za $14.99 została zmieniona na standardowy Humble Choice za €12.99! Najnowszy e-mail od przedstawicieli HB wyjaśnia całą sytuacją, informując użytkowników, że plan Classic zostaje całkowicie wygaszony. Jego posiadacze będą automatycznie przeniesieni na abonament w wariancie Month-to-Month Plan (lub rocznym) bez utraty jakichkolwiek korzyści. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nadchodza-zmiany-w-Humble-Choice.-Definitywny-koniec-planu-Classic-i-nowa-data-platnosci_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera Gothic 3 Classic na PS5 i Xbox Series za nami. Gdzie kupić pudełkowe wydanie gry najtaniej?",
+      "sourceUrl": "https://lowcygier.pl/preordery/premiera-gothic-3-classic-na-ps5-i-xbox-series-za-nami-gdzie-kupic-pudelkowe-wydanie-gry-najtaniej/",
+      "publishedAt": "2026-11-24T15:48+01:00",
+      "summary": "Bezimienny nie obawiał się GTA VI. Premiera Gothic 3 Classic odbyła się dzisiaj, to jest 24 listopada. Na początku w ostatnią odsłonę przygód charyzmatycznego bohatera zagrają posiadacze konsol PlayStation 5 oraz Xbox Series. Wydanie wersji na Nintendo Switch 2 zostało bowiem przeniesione na przyszły rok. Przygotowaliśmy dla Was wpis, z którego dowiecie się, co zaoferuje odświeżony RPG i gdzie kupicie go najtaniej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gothic-3-Classic-premiera-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Diablo 4 otrzyma nową klasę i broń! Blizzard przywraca wojowniczkę z kultowej odsłony",
+      "sourceUrl": "https://www.ppe.pl/news/434409/diablo-4-otrzyma-nowa-klase-i-bron-blizzard-przywraca-wojowniczke-z-kultowej-odslony.html",
+      "publishedAt": "2026-11-24T15:45+01:00",
+      "summary": "Diablo 4 otrzyma kolejną grywalną klasę w pierwszej połowie 2027 roku. Blizzard przygotowuje powrót Amazonki, którą fani serii pamiętają przede wszystkim z Diablo 2.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/47a639a1537a30aa797d/47a639a1537a30aa797d.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pora ruszyć głową! Książka Murdoku 80 zabójczych łamigłówek za 23,81 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/pora-ruszyc-glowa-ksiazka-murdoku-80-zabojczych-lamiglowek-za-2381-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-24T15:42+01:00",
+      "summary": "Co jakiś czas warto poćwiczyć szare komórki. Teraz w polskim oddziale sklepu Amazon dorwiecie taniej książkę Murdoku 80 zabójczych łamigłówek. Na 208 stronach znajdziecie „śledztwa” łączące w sobie prostotę zagadek takich jak sudoku z klasycznymi zadaniami logicznymi, a wszystko to za jedyne 23,81 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Murdoku-80-zabojczych-lamiglowek-logo-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -236,51 +281,6 @@
       "summary": "Można wtedy napisać, że gra się w, he he, GTA Vice City (kurtyna).",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-11-1260x732.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Jutro na Netflix trafi polecany przez 90% widzów film wojenny z 2026 roku z aktorem z To. Prawdziwa historia z czasów II wojny światowej",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/jutro-na-netflix-trafi-jeden-z-najlepszych-filmow-wojennych-2026/z632449",
-      "publishedAt": "2026-11-24T13:30+01:00",
-      "summary": "Już jutro biblioteka Netflixa powiększy się o dramat wojenny The Mosquito Bowl Petera Berga. Oparta na faktach historia gwiazd futbolu na froncie II wojny światowej po premierze w kinach podzieliła widzów i krytyków.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533215866.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Take-Two uderza w fanów GTA! Ponad 600 projektów z nieoficjalnymi portami znika z GitHuba",
-      "sourceUrl": "https://www.ppe.pl/news/434401/take-two-uderza-w-fanow-gta-ponad-600-projektow-z-nieoficjalnymi-portami-znika-z-githuba.html",
-      "publishedAt": "2026-11-24T13:23+01:00",
-      "summary": "Take-Two rozpoczęło szeroko zakrojoną akcję przeciwko nieoficjalnym portom GTA 5 na urządzenia mobilne. W publicznym rejestrze GitHuba pojawiły się cztery zgłoszenia DMCA, które objęły główne projekty oraz setki ich kopii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6a225ac63232001ccc5f/6a225ac63232001ccc5f.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Kup laptopa w Media Expert i zgarnij zestaw LEGO. HyperX Omen 15 + Lama zaopatrzeniowa za 5999 zł (667 zł taniej)",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/kup-laptopa-w-media-expert-i-zgarnij-zestaw-lego-hyperx-omen-15-lama-zaopatrzeniowa-za-5999-zl-667-zl-taniej/",
-      "publishedAt": "2026-11-24T13:20+01:00",
-      "summary": "Ciekawa promocja rozpoczęła się właśnie w sklepie Media Expert w ramach Black Friday 2026 i nadchodzących Świąt. Zamysł jest bardzo prosty – kupujecie wybranego laptopa, rejestrujecie zakup wypełniając formularz i czekacie na paczkę z klockami LEGO. Możecie mieć problem zmieścić się z tym w ramach prezentu gwiazdkowego, ale być może zainteresują Was oferty, które znajdziecie w dalszej części wpisu. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lego-fortnite-lama-hp-omen-15-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Twórcy stworzyli ogromną mapę gry! Red Dead Redemption 2, Elden Ring i GTA 5 zostają daleko w tyle",
-      "sourceUrl": "https://www.ppe.pl/news/434400/tworcy-stworzyli-ogromna-mape-gry-red-dead-redemption-2-elden-ring-i-gta-5-zostaja-daleko-w-tyle.html",
-      "publishedAt": "2026-11-24T13:04+01:00",
-      "summary": "Crimson Desert oferuje jeden z największych otwartych światów wśród współczesnych gier.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5c46565bb49deea4af1f/5c46565bb49deea4af1f.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "15-letni Polak próbował przenieść GTA 6 na PC, ale projekt Leonida właśnie upadł. W jego miejsce przyszedł „cwaniak”, który twierdzi, że jest zbyt sprytny, by dać się złapać Rockstarowi",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/15-letni-polak-probowal-przeniesc-gta-6-na-pc-ale-projekt-leonida/zf3244b",
-      "publishedAt": "2026-11-24T13:03+01:00",
-      "summary": "Project Leonida został zamknięty przez jego 15-letniego twórcę. Próby uruchomienia GTA 6 na PC podjęli się już inni piraci, którzy chwalą się postępami.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533217422.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
+  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
 }
