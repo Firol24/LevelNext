@@ -1,17 +1,71 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T15:01+01:00",
+  "updatedAt": "2026-11-24T15:30+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Mike Pondsmith zdradził pochodzenie słowa „choom” z Cyberpunka i zaskoczył niejednego gracza z kraju, który był inspiracją",
-    "summary": "W sieci pojawił się wpis jednego gracza, który rzuca światło na niecodzienną etymologię popularnego słowa z Cyberpunka 2077. Ta unikalna inspiracja to kawał historii wielkich odkryć geograficznych.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/mike-pondsmith-zdradzil-pochodzenie-slowa-choom-z-cyberpunka-i-za/z032452",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533225858.jpg"
+    "title": "15 lat temu Wiedźmin 2 uratował CD Projekt RED przed upadkiem. Wróciłem do gry, bez której moglibyśmy nigdy nie zobaczyć Wiedźmina 3 i 4",
+    "summary": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie.",
+    "sourceUrl": "https://www.gry-online.pl/opinie/wiedzmin-2-ma-15-lat-i-wciaz-zyje-w-cieniu-trojki-a-przeciez-to-w/z649de",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "15 lat temu Wiedźmin 2 uratował CD Projekt RED przed upadkiem. Wróciłem do gry, bez której moglibyśmy nigdy nie zobaczyć Wiedźmina 3 i 4",
+      "sourceUrl": "https://www.gry-online.pl/opinie/wiedzmin-2-ma-15-lat-i-wciaz-zyje-w-cieniu-trojki-a-przeciez-to-w/z649de",
+      "publishedAt": "2026-11-24T16:20+01:00",
+      "summary": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kultowa strategia z 1996 roku otrzymała darmowy remake w pełnym 3D. Można w nią zagrać bez posiadania oryginału",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kultowa-strategia-z-1996-roku-otrzymala-darmowy-remake-w-pelnym-3/z432456",
+      "publishedAt": "2026-11-24T15:38+01:00",
+      "summary": "Strategia Z od studia Bitmap Brothers obchodzi 30. urodziny. Z tej okazji fani opracowali darmowy remake w pełnym 3D.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533227096.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Data urodzenia Lucii z GTA 6 wywołała u niektórych graczy kryzys. Nagle odkryli, że bohaterowie mogliby być ich dziećmi",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/data-urodzenia-lucii-z-gta-6-wywolala-u-niektorych-graczy-kryzys/z332455",
+      "publishedAt": "2026-11-24T15:33+01:00",
+      "summary": "Czy GTA 6 może zagwarantować nam egzystencjalny kryzys? Tak, jeśli tylko spojrzycie w dokumenty bohaterów nowej gry Rockstara.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533226810.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórca Resident Evil nie znosi AI. Shinji Mikami korzysta z niej, choć wolałby, żeby nie istniała",
+      "sourceUrl": "https://www.ppe.pl/news/434408/tworca-resident-evil-nie-znosi-ai-shinji-mikami-korzysta-z-niej-choc-wolalby-zeby-nie-istniala.html",
+      "publishedAt": "2026-11-24T15:29+01:00",
+      "summary": "Shinji Mikami, legendarny twórca serii Resident Evil, nie ukrywa sceptycyzmu wobec sztucznej inteligencji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/942937bb5f207e4fefae/942937bb5f207e4fefae.webp"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy Control chwalą autorów GTA 6 za podejście do Maxa Payne'a. „Wszystko idzie świetnie”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-control-chwala-tworcow-gta-6-za-podejscie-do-maxa-paynea-w/z132453",
+      "publishedAt": "2026-11-24T15:26+01:00",
+      "summary": "Twórcy odświeżonych wersji dylogii Maxa Payne&apos;a bardzo cenią sobie współpracę z Rockstar Games.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533226371.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Oficjalna Nintendo Switch 2 Camera za 112 zł (157 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/oficjalna-nintendo-switch-2-camera-za-112-zl-157-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-24T15:21+01:00",
+      "summary": "Korzystając z kodu zniżkowego, będziecie mogli kupić w x-komie taniej Nintendo Switch 2 Camera. Oficjalne akcesorium do najnowszego „Pstryczka”, które świetnie sprawdzi się podczas rozmów w GameChat lub w grach, które korzystają z kamery, kosztuje 112 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/04/Preorder-Nintendo-Switch-2-Camera-dostepny-w-Ultima.-Akcesorium-do-konsoli-za-259-zl_miniaturka-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Mike Pondsmith zdradził pochodzenie słowa „choom” z Cyberpunka i zaskoczył niejednego gracza z kraju, który był inspiracją",
@@ -20,6 +74,33 @@
       "summary": "W sieci pojawił się wpis jednego gracza, który rzuca światło na niecodzienną etymologię popularnego słowa z Cyberpunka 2077. Ta unikalna inspiracja to kawał historii wielkich odkryć geograficznych.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533225858.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najnowszy tytuł Naughty Dog może zadebiutować później niż zakładano! Twórcy potrzebują więcej czasu",
+      "sourceUrl": "https://www.ppe.pl/news/434418/intergalactic-the-heretic-prophet-moze-zadebiutowac-pozniej-niz-zakladano-tworcy-potrzebuja-wiecej-czasu.html",
+      "publishedAt": "2026-11-24T15:16+01:00",
+      "summary": "Naughty Dog nadal celuje w premierę Intergalactic: The Heretic Prophet w 2027 roku, ale najnowsze doniesienia sugerują, że na nową produkcję twórców The Last of Us możemy poczekać do końcówki przyszłego roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f6a675d29017d5e1f650/f6a675d29017d5e1f650.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Aktor głosowy Ezio chętnie wróciłby w remake’u Assassin’s Creeda 2. „Chciałbym wierzyć, że Ubisoft ma coś w zanadrzu”",
+      "sourceUrl": "https://cdaction.pl/newsy/aktor-glosowy-ezio-chetnie-wrocilby-w-remakeu-assassins-creeda-2-chcialbym-wierzyc-ze-ubisoft-ma-cos-w-zanadrzu/",
+      "publishedAt": "2026-11-24T15:15+01:00",
+      "summary": "Roger Craig Smith wyznał, że jest otwarty na współpracę z Ubisoftem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-24-o-12.39.05-1260x662.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Splatoon Raiders na Nintendo Switch 2 za 178,99 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-splatoon-raiders-na-nintendo-switch-2-za-17899-zl-na-allegro/",
+      "publishedAt": "2026-11-24T15:14+01:00",
+      "summary": "Splatoon Raiders, czyli poboczna odsłona serii kolorowych shooterów trzecioosobowych, skierowana tym razem do pojedynczego gracza, jest dostępna taniej na Allegro. Serwis aukcyjny proponuje ekskluzywną produkcję na konsole Nintendo Switch 2 za 178,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/splatoon-raiders-miniaturka-224x224.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -200,87 +281,6 @@
       "summary": "Project Leonida został zamknięty przez jego 15-letniego twórcę. Próby uruchomienia GTA 6 na PC podjęli się już inni piraci, którzy chwalą się postępami.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533217422.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "WoW Forever już zaczyna mieć problem z botami, a gracze widzą jego źródło w Azji",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/wow-forever-juz-zaczyna-miec-problem-z-botami-a-gracze-widza-jego/z03244c",
-      "publishedAt": "2026-11-24T13:01+01:00",
-      "summary": "Problemy z botami w grach MMO to popularna kwestia. Teraz zaczynają doskwierać także fanom WoW Forever.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533217631.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Żegnajcie płyty. Fani GTA 6 prawdopodobnie podpisali wyrok śmierci na fizycznych wydaniach gier",
-      "sourceUrl": "https://www.ppe.pl/news/434399/zegnajcie-plyty-fani-gta-6-prawdopodobnie-podpisali-wyrok-smierci-na-fizycznych-wydaniach-gier.html",
-      "publishedAt": "2026-11-24T12:48+01:00",
-      "summary": "W sieci pojawiły się właśnie nowe, cotygodniowe wyniki sprzedażowe gier na rynku brytyjskim.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/bbec4400e8c1de6be5dc/bbec4400e8c1de6be5dc.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "AI nie skopiuje najlepszych gier - zapewnia prezes tinyBuild. Wskazuje jeden kluczowy element, z którym nie radzą sobie nawet ludzie",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ai-nie-skopiuje-najlepszych-gier-zapewnia-prezes-tinybuild-wskazu/ze3244a",
-      "publishedAt": "2026-11-24T12:46+01:00",
-      "summary": "Szef tinyBuild uważa, że deweloperzy nie powinni się przesadnie martwić kopiowaniem gier przez AI. Twierdzi, że technologia nie jest w stanie odtworzyć najważniejszego elementu dobrej produkcji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533216751.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Były producent Dragon Age’a uważa, że to nie decyzje BioWare’u zamknęły studio. „EA kładzie pistolet i pyta, czy sam strzelisz”",
-      "sourceUrl": "https://cdaction.pl/newsy/byly-producent-dragon-agea-uwaza-ze-to-nie-decyzje-biowareu-zamknely-studio-ea-kladzie-pistolet-i-pyta-czy-sam-strzelisz/",
-      "publishedAt": "2026-11-24T12:45+01:00",
-      "summary": "Chodzi o nacisk na gry-usługi, pospieszanie produkcji czy wymuszanie na developerach używania nieswojej technologii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Dragon-Age-Origins.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Mario and Luigi Brothership na Nintendo Switch za 122 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-mario-and-luigi-brothership-na-nintendo-switch-za-122-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-24T12:29+01:00",
-      "summary": "Turowy jRPG z wąsatymi braćmi hydraulikami, czyli Mario & Luigi: Brothership, pojawił się w polskim Amazonie w dobrej cenie. Ekskluzywna dla Nintendo Switch produkcja, jest do kupienia za 122,39 zł. Ważna informacja, okładka jest w języku francuskim. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/10/mario-luigi-brothership-switch-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Twórcy gry dla Rockstar Games chwalą się pracą. Remake kultowych gier nadchodzi!",
-      "sourceUrl": "https://www.ppe.pl/news/434396/tworcy-gry-dla-rockstar-games-chwala-sie-praca-remake-kultowych-gier-nadchodzi.html",
-      "publishedAt": "2026-11-24T12:26+01:00",
-      "summary": "Podczas gdy oczy całej branży wciąż skierowane są na Grand Theft Auto 6, w tle spokojnie dojrzewa inny projekt z logo Rockstar Games, na który starsi gracze czekają z równie dużym sentymentem. Chodzi oczywiście o remake dwóch pierwszych czę�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/3f7f21bb0794122b8d71/3f7f21bb0794122b8d71.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Tylko 50% pozytywnych ocen dla Stellaris: Willpower. Nowe DLC z fanatycznym pacyfizmem podzieliło graczy na Steamie",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tylko-50-pozytywnych-ocen-dla-stellaris-willpower-nowe-dlc-z-fana/z532448",
-      "publishedAt": "2026-11-24T12:20+01:00",
-      "summary": "Stellaris: Willpower pozwala na „przyjazny” podbój galaktyki, lecz gracze nie są pewni, jak istotne są te ideologiczne nowinki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533214439.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Pracownicy NVIDII zgotowali Jensenowi Huangowi owację na stojąco. Za kulisami jego powrotu kryją się kolejne romanse i interwencja Donalda Trumpa",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/pracownicy-nvidii-zgotowali-jensenowi-huangowi-owacje-na-stojaco/z332446",
-      "publishedAt": "2026-11-24T12:15+01:00",
-      "summary": "Jensen Huang został powitany oklaskami przez pracowników w siedzibie NVIDII. Według doniesień na spotkaniu z radą dyrektorów ujawnił, że ma na koncie więcej romansów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533213564.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Czas na ostatnie rozszerzenie jednego z największych hitów 2026 roku",
-      "sourceUrl": "https://www.ppe.pl/news/434398/czas-na-ostatnie-rozszerzenie-jednego-z-najwiekszych-hitow-2026-roku.html",
-      "publishedAt": "2026-11-24T12:13+01:00",
-      "summary": "Ekipa Team Ninja razem z Tecmo Koei przedstawia szczegóły na temat ostatniego rozszerzenia jednego z największych hitów 2026 roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/31cfcd574b1c5744e994/31cfcd574b1c5744e994.jpg"
     }
   ],
   "indie": [
