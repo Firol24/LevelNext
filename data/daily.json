@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T20:18+01:00",
+  "updatedAt": "2026-11-24T20:34+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -9,6 +9,7 @@
     "title": "Podciąć sobie skrzydła czy wziąć na siebie 100% ryzyka? Ambitni twórcy gier mają dziś nie lada dylemat",
     "summary": "Niezależny deweloper może sam wydawać gry, ale musi pamiętać o pełnym ryzyku. Współzałożycielka firmy The Game Bakers, odpowiedzialnej m.in. za Furi i Cairn, opowiedziała o self-publishingu.",
     "sourceUrl": "https://www.gry-online.pl/newsroom/podciac-sobie-skrzydla-czy-wziac-na-siebie-100-ryzyka-ambitni-two/z23245d",
+    "articleSlug": "30294f43a6e9",
     "imageUrl": "https://www.gry-online.pl/i/h/22/533247192.jpg"
   },
   "news": [
@@ -19,7 +20,20 @@
       "publishedAt": "2026-11-24T21:16+01:00",
       "summary": "Niezależny deweloper może sam wydawać gry, ale musi pamiętać o pełnym ryzyku. Współzałożycielka firmy The Game Bakers, odpowiedzialnej m.in. za Furi i Cairn, opowiedziała o self-publishingu.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533247192.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533247192.jpg",
+      "articleSlug": "30294f43a6e9",
+      "articleBody": "Niezależny deweloper może sam wydawać gry, ale musi pamiętać o pełnym ryzyku. Współzałożycielka firmy The Game Bakers, odpowiedzialnej m.in. za Furi i Cairn, opowiedziała o self-publishingu."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gamescom 2027 przenosi się do dużo większej hali. Mają rozmach!",
+      "sourceUrl": "https://www.ppe.pl/news/434438/gamescom-2027-przenosi-sie-do-duzo-wiekszej-hali-maja-rozmach.html",
+      "publishedAt": "2026-11-24T20:30+01:00",
+      "summary": "Gamescom 2027 odbędzie się w nowej lokalizacji. Geoff Keighley poinformował w mediach społecznościowych, że jedno z najważniejszych wydarzeń branży gier przeniesie się do Lanxess Arena w Kolonii. Zmiana ma pozwolić na przyjęcie znacznie wię...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e2a274740c03b5203497/e2a274740c03b5203497.jpg",
+      "articleSlug": "ecd1b04ec679",
+      "articleBody": "Gamescom 2027 odbędzie się w nowej lokalizacji. Geoff Keighley poinformował w mediach społecznościowych, że jedno z najważniejszych wydarzeń branży gier przeniesie się do Lanxess Arena w Kolonii. Zmiana ma pozwolić na przyjęcie znacznie wię..."
     },
     {
       "sourceName": "GRY-Online",
@@ -28,7 +42,20 @@
       "publishedAt": "2026-11-24T20:28+01:00",
       "summary": "Rockstar ponownie pokazuje, jak wiele można wycisnąć z dbałości o detale. Szczegółowość GTA VI przyciąga uwagę nie tylko graczy, ale również innych twórców, którzy z uznaniem przyglądają się rozwiązaniom zastosowanym w hicie amerykańskiego studia.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533244464.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533244464.jpg",
+      "articleSlug": "ed1e525d0418",
+      "articleBody": "Rockstar ponownie pokazuje, jak wiele można wycisnąć z dbałości o detale. Szczegółowość GTA VI przyciąga uwagę nie tylko graczy, ale również innych twórców, którzy z uznaniem przyglądają się rozwiązaniom zastosowanym w hicie amerykańskiego studia."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Sony INZONE - od monitora OLED po słuchawki. Co wybrać do grania?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/431878/sony-inzone-od-monitora-oled-po-sluchawki-co-wybrac-do-grania.html",
+      "publishedAt": "2026-11-24T20:22+01:00",
+      "summary": "W Counter-Strike’u 2 chcemy dobrze widzieć przeciwnika podczas szybkiego obrotu. W grze RPG wolimy usłyszeć, jak za plecami zamyka się brama, a gdzieś nad głową przelatuje smok. Do tego dochodzą wygoda, miejsce na biurku i sterowanie, które m...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0356dba82be4368fe289/0356dba82be4368fe289.jpg",
+      "articleSlug": "5dce2a0f4d61",
+      "articleBody": "W Counter-Strike’u 2 chcemy dobrze widzieć przeciwnika podczas szybkiego obrotu. W grze RPG wolimy usłyszeć, jak za plecami zamyka się brama, a gdzieś nad głową przelatuje smok. Do tego dochodzą wygoda, miejsce na biurku i sterowanie, które m..."
     },
     {
       "sourceName": "PPE",
@@ -37,7 +64,9 @@
       "publishedAt": "2026-11-24T20:14+01:00",
       "summary": "Rockstar Games doprowadziło do zamknięcia serwera Discorda, na którym rozwijano projekt nieoficjalnego portu GTA 6 na komputery osobiste. Inicjatywa znana jako Project Leonida miała na celu ponowne skompilowanie gry w taki sposób, aby mogła dział...",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg",
+      "articleSlug": "321c7c44cdb1",
+      "articleBody": "Rockstar Games doprowadziło do zamknięcia serwera Discorda, na którym rozwijano projekt nieoficjalnego portu GTA 6 na komputery osobiste. Inicjatywa znana jako Project Leonida miała na celu ponowne skompilowanie gry w taki sposób, aby mogła dział..."
     },
     {
       "sourceName": "PPE",
@@ -46,7 +75,9 @@
       "publishedAt": "2026-11-24T20:05+01:00",
       "summary": "CI Games ujawniło przybliżony termin premiery Lords of the Fallen 2. Produkcja ma trafić na rynek w kwietniu 2027 roku. Informację przekazał we wtorek Marek Tymiński, założyciel i prezes polskiego studia. Dokładny dzień debiutu nie został jes...",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5653f1dbc8010d9a82c9/5653f1dbc8010d9a82c9.png"
+      "imageUrl": "https://pliki.ppe.pl/storage/5653f1dbc8010d9a82c9/5653f1dbc8010d9a82c9.png",
+      "articleSlug": "4dbbbb9b058d",
+      "articleBody": "CI Games ujawniło przybliżony termin premiery Lords of the Fallen 2. Produkcja ma trafić na rynek w kwietniu 2027 roku. Informację przekazał we wtorek Marek Tymiński, założyciel i prezes polskiego studia. Dokładny dzień debiutu nie został jes..."
     },
     {
       "sourceName": "PPE",
@@ -55,7 +86,9 @@
       "publishedAt": "2026-11-24T19:56+01:00",
       "summary": "Kilka miesięcy temu gruchnęła informacja, że najnowsza odsłona cenionej marki Ninja Theory pt. Senua raczej nie powstanie, a samo studio zostało zamknięte. Chociaż marka pozostała w rękach Microsoftu, raczej nie należy oczekiwać, że produkc...",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/b8ddbe8843265b6f6e00/b8ddbe8843265b6f6e00.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/b8ddbe8843265b6f6e00/b8ddbe8843265b6f6e00.jpg",
+      "articleSlug": "8dae337d2622",
+      "articleBody": "Kilka miesięcy temu gruchnęła informacja, że najnowsza odsłona cenionej marki Ninja Theory pt. Senua raczej nie powstanie, a samo studio zostało zamknięte. Chociaż marka pozostała w rękach Microsoftu, raczej nie należy oczekiwać, że produkc..."
     },
     {
       "sourceName": "PPE",
@@ -64,7 +97,9 @@
       "publishedAt": "2026-11-24T19:35+01:00",
       "summary": "David Fincher nie jest zainteresowany angażowaniem się w wielkie franczyzy filmowe. Reżyser zdradził w podcaście „Happy Sad Confused” Josha Horowitza, że otrzymał propozycję objęcia funkcji showrunnera serialu „Władca Pierścieni: Pierś...",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c99207d87db5a6171897/c99207d87db5a6171897.webp"
+      "imageUrl": "https://pliki.ppe.pl/storage/c99207d87db5a6171897/c99207d87db5a6171897.webp",
+      "articleSlug": "1981e33440ba",
+      "articleBody": "David Fincher nie jest zainteresowany angażowaniem się w wielkie franczyzy filmowe. Reżyser zdradził w podcaście „Happy Sad Confused” Josha Horowitza, że otrzymał propozycję objęcia funkcji showrunnera serialu „Władca Pierścieni: Pierś..."
     },
     {
       "sourceName": "Łowcy Gier",
@@ -73,7 +108,9 @@
       "publishedAt": "2026-11-24T19:29+01:00",
       "summary": "Łowcy, z okazji Black Friday 2026, w internetowym sklepie Media Markt, wystartowała wyprzedaż puzzli Good Loot 1000 elementów. W ramach oferty wybrane modele, pozwalające zbudować sceny z najpopularniejszych gier oraz odtworzyć obrazy współczesnych artystów, dostępne są w rekordowo niskich cenach. Na szczególne wyróżnienie zasługuje tutaj wariant Warcraft 30th Anniversary, przygotowany z okazji 30. urodzin kultowego uniwersum, który może być Wasz już za jedyne 18,97 zł! Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-Black-Friday-na-puzzle-Good-Loot-w-Media-Markt.-Modele-1000-elementow-od-1897-zl_miniaturka-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-Black-Friday-na-puzzle-Good-Loot-w-Media-Markt.-Modele-1000-elementow-od-1897-zl_miniaturka-224x224.jpg",
+      "articleSlug": "8d467c596aa2",
+      "articleBody": "Łowcy, z okazji Black Friday 2026, w internetowym sklepie Media Markt, wystartowała wyprzedaż puzzli Good Loot 1000 elementów. W ramach oferty wybrane modele, pozwalające zbudować sceny z najpopularniejszych gier oraz odtworzyć obrazy współczesnych artystów, dostępne są w rekordowo niskich cenach. Na szczególne wyróżnienie zasługuje tutaj wariant Warcraft 30th Anniversary, przygotowany z okazji 30. urodzin kultowego uniwersum, który może być Wasz już za jedyne 18,97 zł! Czytaj więcej »"
     },
     {
       "sourceName": "PPE",
@@ -82,7 +119,9 @@
       "publishedAt": "2026-11-24T19:27+01:00",
       "summary": "CD Projekt RED przeznacza gigantyczne zasoby na rozwój Wiedźmina 4. Polski gigant opublikował najnowszy raport finansowy, który pokazuje, że przygoda Ciri jest obecnie zdecydowanie najważniejszym projektem studia.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/69b99f3cd51a83eb4954/69b99f3cd51a83eb4954.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/69b99f3cd51a83eb4954/69b99f3cd51a83eb4954.jpg",
+      "articleSlug": "5eb18dedf558",
+      "articleBody": "CD Projekt RED przeznacza gigantyczne zasoby na rozwój Wiedźmina 4. Polski gigant opublikował najnowszy raport finansowy, który pokazuje, że przygoda Ciri jest obecnie zdecydowanie najważniejszym projektem studia."
     },
     {
       "sourceName": "GRY-Online",
@@ -91,7 +130,9 @@
       "publishedAt": "2026-11-24T19:11+01:00",
       "summary": "Jest szansa, że na gali The Game Awards 2026 poznamy termin premiery Wiedźmina 3: Pieśni przeszłości. Przy kampanii marketingowej Wiedźmina 4 CD Projekt Red będzie natomiast współpracował z Sony.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533239885.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533239885.jpg",
+      "articleSlug": "ee756bede6ed",
+      "articleBody": "Jest szansa, że na gali The Game Awards 2026 poznamy termin premiery Wiedźmina 3: Pieśni przeszłości. Przy kampanii marketingowej Wiedźmina 4 CD Projekt Red będzie natomiast współpracował z Sony."
     },
     {
       "sourceName": "PPE",
@@ -100,7 +141,9 @@
       "publishedAt": "2026-11-24T19:01+01:00",
       "summary": "Star Wars: Galactic Racer doczeka się nowej aktualizacji. Twórcy zapowiedzieli Speed Legends, które trafi do gry w grudniu i będzie dostępne bez dodatkowych opłat dla wszystkich użytkowników.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/1b53039f9d61b762ad25/1b53039f9d61b762ad25.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/1b53039f9d61b762ad25/1b53039f9d61b762ad25.jpg",
+      "articleSlug": "133f759478b1",
+      "articleBody": "Star Wars: Galactic Racer doczeka się nowej aktualizacji. Twórcy zapowiedzieli Speed Legends, które trafi do gry w grudniu i będzie dostępne bez dodatkowych opłat dla wszystkich użytkowników."
     },
     {
       "sourceName": "CD-Action",
@@ -109,7 +152,9 @@
       "publishedAt": "2026-11-24T19:00+01:00",
       "summary": "Możliwe, że Mass Effect Universe rozwiązałby także problem głodu na świecie i wiele więcej.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/mass-effect-4900.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/mass-effect-4900.jpg",
+      "articleSlug": "56cb0f619925",
+      "articleBody": "Możliwe, że Mass Effect Universe rozwiązałby także problem głodu na świecie i wiele więcej."
     },
     {
       "sourceName": "PPE",
@@ -118,7 +163,9 @@
       "publishedAt": "2026-11-24T18:44+01:00",
       "summary": "Od premiery Cyberpunk: Edgerunners 2 minęło trochę czasu i mamy już pewność, że serial podbił Netfliksa i nie tylko. CD Projekt RED ujawnił, jak w pierwszych tygodniach poradziła sobie powracająca produkcja anime.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/b99ae86dfef1b680a634/b99ae86dfef1b680a634.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/b99ae86dfef1b680a634/b99ae86dfef1b680a634.jpg",
+      "articleSlug": "03679391e6de",
+      "articleBody": "Od premiery Cyberpunk: Edgerunners 2 minęło trochę czasu i mamy już pewność, że serial podbił Netfliksa i nie tylko. CD Projekt RED ujawnił, jak w pierwszych tygodniach poradziła sobie powracająca produkcja anime."
     },
     {
       "sourceName": "PPE",
@@ -127,7 +174,9 @@
       "publishedAt": "2026-11-24T18:32+01:00",
       "summary": "Battlestate Games udostępniło aktualizację 1.3.5.0 do Escape from Tarkov, która stanowi ważny etap przejścia gry na silnik Unity 6. Zmiana ma unowocześnić techniczne podstawy popularnej strzelanki i ułatwić wdrażanie kolejnych technologii gra...",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/063d3193fc957323e955/063d3193fc957323e955.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/063d3193fc957323e955/063d3193fc957323e955.jpg",
+      "articleSlug": "51d5fd5ac86a",
+      "articleBody": "Battlestate Games udostępniło aktualizację 1.3.5.0 do Escape from Tarkov, która stanowi ważny etap przejścia gry na silnik Unity 6. Zmiana ma unowocześnić techniczne podstawy popularnej strzelanki i ułatwić wdrażanie kolejnych technologii gra..."
     },
     {
       "sourceName": "GRY-Online",
@@ -136,7 +185,9 @@
       "publishedAt": "2026-11-24T18:29+01:00",
       "summary": "Taktyczne RPG, które przypadło do gustu tysiącom graczy na Steamie, doczeka się kontynuacji. Symphony of War II: Dominion postawi na rozbudowywanie armii i turowe bitwy, lecz ciężar walk przeniesie również na morze.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533237355.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533237355.jpg",
+      "articleSlug": "d10b2e2e988c",
+      "articleBody": "Taktyczne RPG, które przypadło do gustu tysiącom graczy na Steamie, doczeka się kontynuacji. Symphony of War II: Dominion postawi na rozbudowywanie armii i turowe bitwy, lecz ciężar walk przeniesie również na morze."
     },
     {
       "sourceName": "Łowcy Gier",
@@ -145,7 +196,9 @@
       "publishedAt": "2026-11-24T18:29+01:00",
       "summary": "Łowcy, w internetowym sklepie RTV Euro AGD, z okazji Black Friday 2026, wystartowała nowa wyprzedaż figurek z uniwersum Warhammer 40.000 oraz Warhammer: The Horus Heresy (potocznie określanego liczbą 30.000) . W ramach promocji wybrane modele od firmy Joy Toy dostępne są w cenach zaczynających się od 109,50 zł! Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wielka-wyprzedaz-Warhammer-30K-i-40K-w-RTV-Euro-AGD.-Wybrane-figurki-juz-od-10950-zl_minaturka-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wielka-wyprzedaz-Warhammer-30K-i-40K-w-RTV-Euro-AGD.-Wybrane-figurki-juz-od-10950-zl_minaturka-224x224.jpg",
+      "articleSlug": "2da65922ef08",
+      "articleBody": "Łowcy, w internetowym sklepie RTV Euro AGD, z okazji Black Friday 2026, wystartowała nowa wyprzedaż figurek z uniwersum Warhammer 40.000 oraz Warhammer: The Horus Heresy (potocznie określanego liczbą 30.000) . W ramach promocji wybrane modele od firmy Joy Toy dostępne są w cenach zaczynających się od 109,50 zł! Czytaj więcej »"
     },
     {
       "sourceName": "CD-Action",
@@ -154,7 +207,9 @@
       "publishedAt": "2026-11-24T18:21+01:00",
       "summary": "Jest lepiej niż się spodziewano.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/wiedzmin3-piesni-przeszlosci-1-1260x709.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/wiedzmin3-piesni-przeszlosci-1-1260x709.jpg",
+      "articleSlug": "9dcc49df75c4",
+      "articleBody": "Jest lepiej niż się spodziewano."
     },
     {
       "sourceName": "PPE",
@@ -163,7 +218,9 @@
       "publishedAt": "2026-11-24T18:01+01:00",
       "summary": "Valve oficjalnie rozpoczęło nominacje do dziesiątej edycji Steam Awards. Tegoroczne nagrody będą wyjątkowe, ponieważ platforma świętuje dziesięciolecie plebiscytu.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/b1cb49f60d2e857b3b69/b1cb49f60d2e857b3b69.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/b1cb49f60d2e857b3b69/b1cb49f60d2e857b3b69.jpg",
+      "articleSlug": "d349b6af28ad",
+      "articleBody": "Valve oficjalnie rozpoczęło nominacje do dziesiątej edycji Steam Awards. Tegoroczne nagrody będą wyjątkowe, ponieważ platforma świętuje dziesięciolecie plebiscytu."
     },
     {
       "sourceName": "CD-Action",
@@ -172,7 +229,9 @@
       "publishedAt": "2026-11-24T18:00+01:00",
       "summary": "Kierując się zdrowym rozsądkiem i rachunkiem prawdopodobieństwa, to jedna z tych opowieści, która nie miała prawa się wydarzyć, a jednak jest prawdziwa. I to w niej najpiękniejsze.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/MV5BMTk0YTVmYjgtNTg3ZS00YWI3LWI3M2QtNTNjNWVlZjYwNjdkXkEyXkFqcGc@-1260x840.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/MV5BMTk0YTVmYjgtNTg3ZS00YWI3LWI3M2QtNTNjNWVlZjYwNjdkXkEyXkFqcGc@-1260x840.jpg",
+      "articleSlug": "1d4c08ebd25c",
+      "articleBody": "Kierując się zdrowym rozsądkiem i rachunkiem prawdopodobieństwa, to jedna z tych opowieści, która nie miała prawa się wydarzyć, a jednak jest prawdziwa. I to w niej najpiękniejsze."
     },
     {
       "sourceName": "GRY-Online",
@@ -181,7 +240,9 @@
       "publishedAt": "2026-11-24T17:55+01:00",
       "summary": "Niektórzy gracze poświęcili już na GTA 6 długie godziny. Według analityka ponad milion osób spędziło ponad 50 godzin w stanie Leonida.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533235042.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533235042.jpg",
+      "articleSlug": "ab3c26aaae36",
+      "articleBody": "Niektórzy gracze poświęcili już na GTA 6 długie godziny. Według analityka ponad milion osób spędziło ponad 50 godzin w stanie Leonida."
     },
     {
       "sourceName": "PPE",
@@ -190,7 +251,9 @@
       "publishedAt": "2026-11-24T17:45+01:00",
       "summary": "Premiera Grand Theft Auto VI jest już oficjalnie za nami. Tym samym nie tylko śmiercią naturalną umarł mem „mamy X przed GTA 6”, ale też mamy pierwsze informacje na temat tego, jaki impakt wywarła najnowsza produkcja Rockstara.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/26875af7b6cc5e7b66c1/26875af7b6cc5e7b66c1.jpg"
+      "imageUrl": "https://pliki.ppe.pl/storage/26875af7b6cc5e7b66c1/26875af7b6cc5e7b66c1.jpg",
+      "articleSlug": "8d2953f2c090",
+      "articleBody": "Premiera Grand Theft Auto VI jest już oficjalnie za nami. Tym samym nie tylko śmiercią naturalną umarł mem „mamy X przed GTA 6”, ale też mamy pierwsze informacje na temat tego, jaki impakt wywarła najnowsza produkcja Rockstara."
     },
     {
       "sourceName": "PPE",
@@ -199,7 +262,9 @@
       "publishedAt": "2026-11-24T17:31+01:00",
       "summary": "Powrót Iana McKellena do roli Gandalfa robi wrażenie nawet na osobach pracujących przy nowym filmie ze świata Władcy Pierścieni.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/2d68a0e1e9057df3b98b/2d68a0e1e9057df3b98b.webp"
+      "imageUrl": "https://pliki.ppe.pl/storage/2d68a0e1e9057df3b98b/2d68a0e1e9057df3b98b.webp",
+      "articleSlug": "d39757784dd8",
+      "articleBody": "Powrót Iana McKellena do roli Gandalfa robi wrażenie nawet na osobach pracujących przy nowym filmie ze świata Władcy Pierścieni."
     },
     {
       "sourceName": "Łowcy Gier",
@@ -208,7 +273,9 @@
       "publishedAt": "2026-11-24T17:25+01:00",
       "summary": "Łowcy, na dobry początek tygodnia zespół Fanatical oferuje coś dla osób poszukujących chwili relaksu. W ramach najnowszego zestawu Build Your Own Casual Bundle możecie wybrać maksymalnie 7 gier PC. Do Waszej dyspozycji ponownie oddano 17 produkcji w postaci kluczy Steam. Całość dostępna jest za 46,74 zł, co daje nam bardzo dobity przelicznik na poziomie ok. 6,68 zł za jedną pozycję ! Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odstresuj-sie-z-nowa-paczka-od-Fanatical.-Zestaw-7-odprezajacych-gier-Steam-juz-za-47-zl_miniaturka-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odstresuj-sie-z-nowa-paczka-od-Fanatical.-Zestaw-7-odprezajacych-gier-Steam-juz-za-47-zl_miniaturka-224x224.jpg",
+      "articleSlug": "e9054de9df94",
+      "articleBody": "Łowcy, na dobry początek tygodnia zespół Fanatical oferuje coś dla osób poszukujących chwili relaksu. W ramach najnowszego zestawu Build Your Own Casual Bundle możecie wybrać maksymalnie 7 gier PC. Do Waszej dyspozycji ponownie oddano 17 produkcji w postaci kluczy Steam. Całość dostępna jest za 46,74 zł, co daje nam bardzo dobity przelicznik na poziomie ok. 6,68 zł za jedną pozycję ! Czytaj więcej »"
     },
     {
       "sourceName": "PPE",
@@ -217,7 +284,9 @@
       "publishedAt": "2026-11-24T17:01+01:00",
       "summary": "Rockstar Games poprawiło jeden z problemów GTA 6, na który od premiery zwracali uwagę gracze. Najnowsza aktualizacja naprawia błąd systemu pogodowego powodujący, że przez długi czas w grze utrzymywały się identyczne warunki atmosferyczne.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5a644b79a9bee5cf0893/5a644b79a9bee5cf0893.webp"
+      "imageUrl": "https://pliki.ppe.pl/storage/5a644b79a9bee5cf0893/5a644b79a9bee5cf0893.webp",
+      "articleSlug": "f90935ab3cb9",
+      "articleBody": "Rockstar Games poprawiło jeden z problemów GTA 6, na który od premiery zwracali uwagę gracze. Najnowsza aktualizacja naprawia błąd systemu pogodowego powodujący, że przez długi czas w grze utrzymywały się identyczne warunki atmosferyczne."
     },
     {
       "sourceName": "GRY-Online",
@@ -226,7 +295,9 @@
       "publishedAt": "2026-11-24T17:01+01:00",
       "summary": "W sieci pojawiła się dyskusja graczy na temat pominiętego wątku Cyberpunka, który mógłby powrócić w kontynuacji hitu CD Projektu. Pytanie jednak, czy warto, by tak się stało?",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533231983.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533231983.jpg",
+      "articleSlug": "c4d9dd101aea",
+      "articleBody": "W sieci pojawiła się dyskusja graczy na temat pominiętego wątku Cyberpunka, który mógłby powrócić w kontynuacji hitu CD Projektu. Pytanie jednak, czy warto, by tak się stało?"
     },
     {
       "sourceName": "CD-Action",
@@ -235,7 +306,9 @@
       "publishedAt": "2026-11-24T16:45+01:00",
       "summary": "Uwaga na spoilery (i to całkiem spore).",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-12.jpg"
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-12.jpg",
+      "articleSlug": "ca1fd78f26fc",
+      "articleBody": "Uwaga na spoilery (i to całkiem spore)."
     },
     {
       "sourceName": "PPE",
@@ -244,7 +317,9 @@
       "publishedAt": "2026-11-24T16:31+01:00",
       "summary": "Premiera Grand Theft Auto 6 odbiła się echem nie tylko na rynku konsol i komputerów. Z danych firmy AppsFlyer wynika, że w pierwszych dniach po debiucie gry wydatki Brytyjczyków na mikropłatności w mobilnych produkcjach akcji i strategiach spadł...",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c03e96ac7f3ca79b93b5/c03e96ac7f3ca79b93b5.webp"
+      "imageUrl": "https://pliki.ppe.pl/storage/c03e96ac7f3ca79b93b5/c03e96ac7f3ca79b93b5.webp",
+      "articleSlug": "932d39577904",
+      "articleBody": "Premiera Grand Theft Auto 6 odbiła się echem nie tylko na rynku konsol i komputerów. Z danych firmy AppsFlyer wynika, że w pierwszych dniach po debiucie gry wydatki Brytyjczyków na mikropłatności w mobilnych produkcjach akcji i strategiach spadł..."
     },
     {
       "sourceName": "Łowcy Gier",
@@ -253,7 +328,9 @@
       "publishedAt": "2026-11-24T16:25+01:00",
       "summary": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie poprzez serwis Allegro. Pudełko z grą wyścigową, za stworzeniem której stoją osoby pracujące przy serii Burnout, kosztuje 212 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
       "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/star-wars-galactic-racer-deluxe-edition-224x224.jpg"
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/star-wars-galactic-racer-deluxe-edition-224x224.jpg",
+      "articleSlug": "810af1e61e85",
+      "articleBody": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie poprzez serwis Allegro. Pudełko z grą wyścigową, za stworzeniem której stoją osoby pracujące przy serii Burnout, kosztuje 212 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »"
     },
     {
       "sourceName": "GRY-Online",
@@ -262,25 +339,9 @@
       "publishedAt": "2026-11-24T16:20+01:00",
       "summary": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie.",
       "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 okiem redakcji CD-Action. Oto 10 różnych opinii o najnowszej grze Rockstara",
-      "sourceUrl": "https://cdaction.pl/juz-gralismy/gta-6-okiem-redakcji-cd-action-oto-10-roznych-opinii-o-najnowszej-grze-rockstara/",
-      "publishedAt": "2026-11-24T16:09+01:00",
-      "summary": "Oczywiście, że ufamy naszemu recenzentowi. Ba, nadal zachęcamy do przeczytania obszernego tekstu Spikaina, w którym opowiada o GTA 6 z perspektywy 80 spędzonych w grze godzin. Redakcja chciała jednak dołożyć od siebie nieco więcej. Przed wami zatem dziesięć różnych opinii o najnowszym dziele Rockstara – różnych, choć w gruncie rzeczy podobnych…",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-1.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Elden Ring Nightreign Seekers Edition na PS5 + steelbook za 74,99 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/elden-ring-nightreign-seekers-edition-na-ps5-steelbook-za-7499-zl-na-allegro/",
-      "publishedAt": "2026-11-24T16:03+01:00",
-      "summary": "Specjalne, zawierające steelbook wydanie Elden Ring: Nightreign – Seekers Edition, kupicie taniej poprzez serwis Allegro. Poboczna odsłona soulslike studia FromSoftware, skupiająca się na dynamicznej, kooperacyjnej rozgrywce, kosztuje 74,99 zł w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/02/Preorder-Elden-Ring-Nightreign-Seekers-Edition-na-konsole-za-18390-zl-dostawa-w-Gamefinity_obrazek-224x224.jpg"
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg",
+      "articleSlug": "d98c9ef97495",
+      "articleBody": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie."
     }
   ],
   "indie": [
