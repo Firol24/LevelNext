@@ -1,17 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T10:01+01:00",
+  "updatedAt": "2026-11-24T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gracze mieli rację, pogoda w GTA 6 nie działała. Teraz Leonidę w końcu nawiedzają efektowne huragany",
-    "summary": "Dzięki ostatniej aktualizacji do GTA 6 gracze nareszcie mogą doświadczyć zróżnicowanych zjawisk atmosferycznych. Szczególnie imponująco prezentuje się huragan.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-mieli-racje-pogoda-w-gta-6-nie-dzialala-teraz-leonide-w-ko/z032443",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533209668.jpg"
+    "title": "Skasowane Mass Effect 5 miało uszanować wybory z ME3. Producent Dragon Age tłumaczy, jak styl EA doprowadził do końca BioWare",
+    "summary": "Scenarzystka Mass Effect Universe opowiedziała trochę o tym, jak skasowana piąta część serii rozwiązałaby problem wielu zakończeń w Mass Effect 3.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/skasowane-mass-effect-5-mialo-uszanowac-wybory-z-me3-producent-dr/z432447",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533213638.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Skasowane Mass Effect 5 miało uszanować wybory z ME3. Producent Dragon Age tłumaczy, jak styl EA doprowadził do końca BioWare",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/skasowane-mass-effect-5-mialo-uszanowac-wybory-z-me3-producent-dr/z432447",
+      "publishedAt": "2026-11-24T11:54+01:00",
+      "summary": "Scenarzystka Mass Effect Universe opowiedziała trochę o tym, jak skasowana piąta część serii rozwiązałaby problem wielu zakończeń w Mass Effect 3.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533213638.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Fatalne wieści dla graczy planujących zakup RAM-u. Samsung nie ma już praktycznie wolnych mocy produkcyjnych na 2027 rok, a klienci rezerwują dostawy nawet do 2031 roku",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/fatalne-wiesci-dla-graczy-planujacych-zakup-ram-u-samsung-nie-ma/z132444",
+      "publishedAt": "2026-11-24T11:15+01:00",
+      "summary": "Samsung miał wyprzedać całą produkcję pamięci DRAM na 2027 rok, a firmy już zabiegają o kontrakty sięgające nawet 2031 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533211108.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw LEGO 21375 Godzilla dostępny w Oficjalnym sklepie LEGO już w piątek. 5363 elementowy Król Potworów do tanich nie należy",
+      "sourceUrl": "https://lowcygier.pl/preordery/zestaw-lego-21375-godzilla-dostepny-w-oficjalnym-sklepie-lego-juz-w-piatek-5363-elementowy-krol-potworow-do-tanich-nie-nalezy/",
+      "publishedAt": "2026-11-24T10:59+01:00",
+      "summary": "Fani klocków LEGO i potworów, szykujcie się na końcówkę listopada, a dokładniej na Black Friday. Wielkimi krokami zbliża się bowiem premiera LEGO 21375 Godzilla, potężnego, 70-centrymetrowego Króla Kaiju. Ten składający się z 5363 elementów set został wyceniony w Oficjalnym sklepie LEGO na 1699,99 zł. Jako upominek otrzymacie także Godzilla – logo i ślad, na którym widać również Mothrę. Godzilla również posiada swój ikoniczny atomowy promień, który możecie włożyć do paszczy. Co prawda zestaw jeszcze nie jest możliwy do kupienia, ale karta produktu jest już dostępna. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lego-ideas-godzilla-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Komputer MSI MPG Infinite X3 32GB RAM RTX 5070 za 11040,99 zł w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/komputer-msi-mpg-infinite-x3-32gb-ram-rtx-5070-za-1104099-zl-w-media-expert/",
+      "publishedAt": "2026-11-24T10:56+01:00",
+      "summary": "Gotowy komputer MSI MPG Infinite X3 w dobrej konfiguracji, pojawił się w ofercie sklepu Media Expert w niższej cenie. Model z procesorem Intel Core Ultra 7-265KF, 32GB RAM DDR5 o taktowaniu 5600 MHz oraz kartą graficzną Nvidia GeForce RTX 5070, może być wasz za 11040,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/msi-mpg-infinite-komputer-3b-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Posiadacze GTA 6 oceniają grę na 9,6/10. Trolle z Metacritic ośmieszeni",
+      "sourceUrl": "https://www.ppe.pl/news/434368/posiadacze-gta-6-oceniaja-gre-na-9-6-10-trolle-z-metacritic-osmieszeni.html",
+      "publishedAt": "2026-11-24T10:55+01:00",
+      "summary": "Jeśli ktoś wyrabiał sobie zdanie o Grand Theft Auto 6 wyłącznie po ocenach użytkowników na Metacriticu, mógłby pomyśleć, że Rockstar Games wypuścił totalnego gniota. Tam internetowe trolle i złośliwi fani konkurencji w kilka chwil zbili ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gracze mieli rację, pogoda w GTA 6 nie działała. Teraz Leonidę w końcu nawiedzają efektowne huragany",
@@ -20,6 +65,15 @@
       "summary": "Dzięki ostatniej aktualizacji do GTA 6 gracze nareszcie mogą doświadczyć zróżnicowanych zjawisk atmosferycznych. Szczególnie imponująco prezentuje się huragan.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533209668.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tutaj o nagrodach decydują wyłącznie gracze. Ruszyło najlepsze głosowanie na GOTY w branży gier",
+      "sourceUrl": "https://www.ppe.pl/news/434389/tutaj-o-nagrodach-decyduja-wylacznie-gracze-ruszylo-najlepsze-glosowanie-na-goty-w-branzy-gier.html",
+      "publishedAt": "2026-11-24T10:48+01:00",
+      "summary": "Steam Awards bije na głowę inne branżowe plebiscyty z nagrodami. Z prostego powodu - tutaj o wszystkim decydują gracze.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/1321e5af2152816786de/1321e5af2152816786de.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -31,6 +85,33 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533207191.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Koniec trylogii zanim zaczęła się na dobre? „Batman 2” ma być ostatnim filmem Matta Reevesa i Roberta Pattinsona",
+      "sourceUrl": "https://cdaction.pl/kultura/koniec-trylogii-zanim-zaczela-sie-na-dobre-batman-2-ma-byc-ostatnim-filmem-matta-reevesa-i-roberta-pattinsona/",
+      "publishedAt": "2026-11-24T10:30+01:00",
+      "summary": "Przynajmniej Pattinson ma już zapewnioną ciepłą posadkę w MI6.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/10/Batman-2.jpeg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To będzie najlepsze The Game Awards w historii? Dwaj giganci mają się tam pojawić",
+      "sourceUrl": "https://www.ppe.pl/news/434367/to-bedzie-najlepsze-the-game-awards-w-historii-dwaj-giganci-maja-sie-tam-pojawic.html",
+      "publishedAt": "2026-11-24T10:28+01:00",
+      "summary": "Grudniowa gala The Game Awards zapowiada się w tym roku wyjątkowo gorąco, ale to miłośnicy Gwiezdnych Wojen mogą przeżyć podczas niej najlepszy wieczór w historii tej imprezy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6eee35f7dee0432b2b87/6eee35f7dee0432b2b87.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Słuchawki bezprzewodowe Logitech G733 Lightspeed za 289 zł (160 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/sluchawki-bezprzewodowe-logitech-g733-lightspeed-za-289-zl-160-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-24T10:26+01:00",
+      "summary": "Słuchawki gamingowe Logitech G733 Lightspeed pojawiły się w Gorącym Strzale sklepu x-kom. Posiadające podświetlenie RGB oraz mikrofon z technologią Blue Voice akcesorium z łącznością bezprzewodową przez adapter USB, kosztuje 289 złotych. Oferta dotyczy modelu w kolorze czarnym. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/11/Logitech_G733_Lightspeed_miniatura-224x224.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "GTA 6 wygląda lepiej niż na zwiastunach? Gracze porównali trailery z gotową grą",
       "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-wyglada-lepiej-niz-na-zwiastunach-gracze-porownali-trailery/zf32442",
@@ -38,6 +119,24 @@
       "summary": "Grand Theft Auto 6 budzi skrajne emocje nawet porównaniami graficznymi ze zwiastunami.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533207563.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tego silnika nie wolno krytykować. Epic Games grozi redakcji krytykującej zamulony Unreal Engine 5",
+      "sourceUrl": "https://www.ppe.pl/news/434376/tego-silnika-nie-wolno-krytykowac-epic-games-grozi-redakcji-krytykujacej-zamulony-unreal-engine-5.html",
+      "publishedAt": "2026-11-24T10:12+01:00",
+      "summary": "Redakcja Threat Interactive od dłuższego czasu wykonuje świetną robotę, przyglądając się fatalnej optymalizacji nowych gier, działających na Unreal Engine 5. Nie podoba się to firmie Tima Sweeneya.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/fba0355a965e1d9ae515/fba0355a965e1d9ae515.png"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 z pierwszą aktualizacją. Rockstar łata najbardziej uciążliwe błędy",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-z-pierwsza-aktualizacja-rockstar-lata-najbardziej-uciazliwe-bledy/",
+      "publishedAt": "2026-11-24T10:00+01:00",
+      "summary": "Parę dni po premierze GTA 6 doczekało się aktualizacji 1.0.2.2, która eliminuje szereg uciążliwych błędów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-24-o-09.24.52-1260x662.jpg"
     },
     {
       "sourceName": "PPE",
@@ -182,105 +281,6 @@
       "summary": "W sklepie Media Expert w ramach wyprzedaży możemy nabyć taniej o ponad 100 złotych porządny soundbar firmy LG.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/81029e6ded05de737b33/81029e6ded05de737b33.webp"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Pady DualSense do PS5 i PC tanio na Black Friday. Limitowane od 270 zł, zwykłe jeszcze taniej",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434370/pady-dualsense-do-ps5-i-pc-tanio-na-black-friday-limitowane-od-270-zl-zwykle-jeszcze-taniej.html",
-      "publishedAt": "2026-11-24T08:51+01:00",
-      "summary": "W sklepie Empik w ramach Black Friday na sprzęty Sony nabędziemy o wiele taniej kontrolery DualSense.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a1205f1b4ab23e839612/a1205f1b4ab23e839612.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Jensen Huang traktowany jak mesjasz. Wiwaty i łzy w oczach w Nvidii",
-      "sourceUrl": "https://www.ppe.pl/news/434363/jensen-huang-traktowany-jak-mesjasz-wiwaty-i-lzy-w-oczach-w-nvidii.html",
-      "publishedAt": "2026-11-24T08:51+01:00",
-      "summary": "Telenowela w Nvidii właśnie zaliczyła zwrot akcji, którego nie powstydziliby się najlepsi scenarzyści z Hollywood. Zaledwie kilkanaście dni po tym, jak Jensen Huang podał się do dymisji w cieniu głośnego skandalu obyczajowego, rada nadzorcza ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/08c389fe14066e599a09/08c389fe14066e599a09.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "2 gry w Xbox Game Pass. W tym najnowsza odsłona polskiej serii strzelanek FPP",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/2-gry-w-xbox-game-pass-w-tym-najnowsza-odslona-polskiej-serii-str/zf3243c",
-      "publishedAt": "2026-11-24T08:35+01:00",
-      "summary": "Abonenci usług Xbox i PC Game Pass otrzymają dzisiaj dwie gry. Nowością jest Sniper: Ghost Warrior Contracts 2, natomiast Motorslice rozszerza grono swych odbiorców.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533201718.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Hit PlayStation z „nieoficjalną premierą” na PC. Gracze przenieśli grę i oferują znakomitą jakość",
-      "sourceUrl": "https://www.ppe.pl/news/434321/hit-playstation-z-nieoficjalna-premiera-na-pc-gracze-przeniesli-gre-i-oferuja-znakomita-jakosc.html",
-      "publishedAt": "2026-11-24T07:50+01:00",
-      "summary": "Sony od lat przenosi kolejne hity PlayStation na komputery osobiste, ale nie wszystkie produkcje doczekały się oficjalnych portów. Społeczność postanowiła wziąć sprawy w swoje ręce i właśnie osiągnęła kolejny imponujący rezultat.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/db73a28ac644800a7138/db73a28ac644800a7138.png"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PlayStation rezygnuje z pudełek? A gry w fizycznej dystrybucji przeżywają renesans",
-      "sourceUrl": "https://www.ppe.pl/news/434304/playstation-rezygnuje-z-pudelek-a-gry-w-fizycznej-dystrybucji-przezywaja-renesans.html",
-      "publishedAt": "2026-11-24T07:30+01:00",
-      "summary": "Sony stawia na cyfrową dystrybucję, a przyszłość fizycznych wydań gier na PlayStation budzi coraz więcej pytań. Jak się jednak okazuje… najnowsze dane z Wielkiej Brytanii pokazują, że gracze wcale nie zamierzają masowo rezygnować z pudeł...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8dc263c110baa12a3d5f/8dc263c110baa12a3d5f.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PS5 traci wielki ekskluzywny hit. Gra w styczniu trafi na Xboksa",
-      "sourceUrl": "https://www.ppe.pl/news/434319/ps5-traci-wielki-ekskluzywny-hit-gra-w-styczniu-trafi-na-xboksa.html",
-      "publishedAt": "2026-11-24T07:05+01:00",
-      "summary": "PlayStation przez lata było jedynym konsolowym domem dla jednej z najbardziej wymagających serii RPG akcji, ale ta sytuacja wkrótce się zmieni. Potwierdzają się wcześniejsze doniesienia dotyczące zakończenia konsolowej ekskluzywności popularne...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ee72cb8ac57c1f58918b/ee72cb8ac57c1f58918b.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Za 8 dni wraca jeden z najlepszych seriali kryminalnych Apple TV. Pierwsza odsłona widowiska z gwiazdami jest polecana przez 92% krytyków",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/za-8-dni-wraca-jeden-z-najlepszych-seriali-kryminalnych-apple-tv/ze3242c",
-      "publishedAt": "2026-11-24T06:50+01:00",
-      "summary": "Już na początku grudnia na Apple TV powróci serial łączący w sobie komedię i kryminał. Fani czarnego humoru i słonecznej Florydy mogą w przyszłym tygodniu zajrzeć na Apple TV, gdzie zadebiutuje nowy odcinek produkcji z Vince’em Vaughnem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533139366.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 „działa na PC”, ale przed graczami mnóstwo pracy",
-      "sourceUrl": "https://www.ppe.pl/news/434318/gta-6-dziala-na-pc-ale-przed-graczami-mnostwo-pracy.html",
-      "publishedAt": "2026-11-24T06:40+01:00",
-      "summary": "GTA 6 zadebiutowało wyłącznie na PlayStation 5 i Xboksach Series X|S, ale społeczność pecetowa nie zamierza cierpliwie czekać na oficjalną premierę. Po niedawnym wycieku konsolowej wersji gry rozpoczęły się prace nad nieoficjalnym uruchomien...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Specjalny przedpremierowy bonus do GTA 6 jest dostępny dla wszystkich graczy. Trzeba jednak dodatkowo zapłacić",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/specjalny-przedpremierowy-bonus-do-gta-6-jest-dostepny-dla-wszyst/ze3243b",
-      "publishedAt": "2026-11-24T06:30+01:00",
-      "summary": "GTA 6 niewątpliwie jest warte swojej ceny. Jeśli jednak uważacie, że gra Rockstar Games kosztuje zbyt mało, a nie nabyliście jej przed premierą, za 22,50 zł możecie dokupić mały bonus.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533163148.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 z „NAJWIĘKSZĄ” premierą w historii PlayStation. Sony potwierdza wynik",
-      "sourceUrl": "https://www.ppe.pl/news/434320/gta-6-z-najwieksza-premiera-w-historii-playstation-sony-potwierdza-wynik.html",
-      "publishedAt": "2026-11-24T06:17+01:00",
-      "summary": "Sony od wielu miesięcy mocno promowało GTA 6, a bliska współpraca z Take-Two Interactive i Rockstar Games najwyraźniej przyniosła oczekiwane rezultaty. Najnowsza odsłona Grand Theft Auto zadebiutowała z gigantycznym rozmachem, ale dopiero teraz ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/9dda6cf74bf3b375eaf6/9dda6cf74bf3b375eaf6.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "W kwietniu w kinach, a już dzisiaj na SkyShowtime. Jeden z największych HITów 2026 roku",
-      "sourceUrl": "https://www.ppe.pl/news/434306/w-kwietniu-w-kinach-a-juz-dzisiaj-na-skyshowtime-jeden-z-najwiekszych-hitow-2026-roku.html",
-      "publishedAt": "2026-11-24T05:44+01:00",
-      "summary": "SkyShowtime przygotowało prawdziwą bombę na początek tygodnia! Do oferty platformy trafiła właśnie produkcja, która jeszcze kilka miesięcy temu przyciągała tłumy do kin na całym świecie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/efc789ccc2677780e5f1/efc789ccc2677780e5f1.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
+  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
 }
