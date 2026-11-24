@@ -1,18 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T21:01+01:00",
+  "updatedAt": "2026-11-24T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Wiedźmin 4 przeskoczy Wiedźmina 3 tak, jak GTA 6 przewyższyło GTA 5. CD Projekt Red nie zamierza jednak ściągać do Take-Two",
-    "summary": "CD Projekt Red zapewnia, że Wiedźmin 4 będzie równie wielkim skokiem względem Wiedźmina 3, jak GTA 6 jest dla GTA 5. Polscy twórcy nie zamierzają jednak ślepo kopiować kampanii marketingowej hitowej gry Rockstara.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-4-przeskoczy-wiedzmina-3-tak-jak-gta-6-przewyzszylo-gta/z33245e",
-    "articleSlug": "4f51dc87b4d3",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533248500.jpg"
+    "title": "Średniowieczna strategia Total War: Medieval 3 zmusi do dyplomacji nawet najlepszych taktyków. Inspiracją jest uwielbiana gra",
+    "summary": "W Total War: Medieval 3 zwycięstwo nie będzie zależało wyłącznie od siły armii. Creative Assembly chce, by dyplomacja stała się równie istotnym elementem kampanii, a sztuczna inteligencja podejmowała decyzje zgodne z interesami kierowanych przez nią frakcji.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/sredniowieczna-strategia-total-war-medieval-3-zmusi-do-dyplomacji/zf32460",
+    "articleSlug": "a22e1b7b03e6",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533250522.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Średniowieczna strategia Total War: Medieval 3 zmusi do dyplomacji nawet najlepszych taktyków. Inspiracją jest uwielbiana gra",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/sredniowieczna-strategia-total-war-medieval-3-zmusi-do-dyplomacji/zf32460",
+      "publishedAt": "2026-11-24T22:10+01:00",
+      "summary": "W Total War: Medieval 3 zwycięstwo nie będzie zależało wyłącznie od siły armii. Creative Assembly chce, by dyplomacja stała się równie istotnym elementem kampanii, a sztuczna inteligencja podejmowała decyzje zgodne z interesami kierowanych przez nią frakcji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533250522.jpg",
+      "articleSlug": "a22e1b7b03e6",
+      "articleBody": "W Total War: Medieval 3 zwycięstwo nie będzie zależało wyłącznie od siły armii. Creative Assembly chce, by dyplomacja stała się równie istotnym elementem kampanii, a sztuczna inteligencja podejmowała decyzje zgodne z interesami kierowanych przez nią frakcji."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Rockstar szykuje wielką ekranizację? Red Dead Redemption może trafić do kin i na streaming",
+      "sourceUrl": "https://www.ppe.pl/news/434433/rockstar-szykuje-wielka-ekranizacje-red-dead-redemption-moze-trafic-do-kin-i-na-streaming.html",
+      "publishedAt": "2026-11-24T21:43+01:00",
+      "summary": "Rockstar Games przez lata niechętnie podchodziło do pomysłu przenoszenia swoich największych marek na ekrany, ale najnowsze doniesienia sugerują, że firma może wreszcie zmienić strategię. Po gigantycznym sukcesie GTA 6 twórcy podobno zaczęli ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/548b483934999629fc01/548b483934999629fc01.jpg",
+      "articleSlug": "e24a5c55d032",
+      "articleBody": "Rockstar Games przez lata niechętnie podchodziło do pomysłu przenoszenia swoich największych marek na ekrany, ale najnowsze doniesienia sugerują, że firma może wreszcie zmienić strategię. Po gigantycznym sukcesie GTA 6 twórcy podobno zaczęli ..."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Wiedźmin 4 przeskoczy Wiedźmina 3 tak, jak GTA 6 przewyższyło GTA 5. CD Projekt Red nie zamierza jednak ściągać do Take-Two",
@@ -25,6 +47,17 @@
       "articleBody": "CD Projekt Red zapewnia, że Wiedźmin 4 będzie równie wielkim skokiem względem Wiedźmina 3, jak GTA 6 jest dla GTA 5. Polscy twórcy nie zamierzają jednak ślepo kopiować kampanii marketingowej hitowej gry Rockstara."
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na zestaw Red Dead Redemption Bundle. Dwie gry PC za 151,99 zł na Steam!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/promocja-na-zestaw-red-dead-redemption-bundle-dwie-gry-pc-za-15199-zl-na-steam/",
+      "publishedAt": "2026-11-24T21:25+01:00",
+      "summary": "HOWDY Łowcy! Z okazji trwających na Steam wyprzedaży Black Friday 2026 w ofercie sklepu Gabe’a Newella pojawiła się bardzo dobra promocja na zestaw Red Dead Redemption Bundle. Jeśli mieliście w planach zakupienie obu produkcji od studia Rockstar w wersjach na platformę Valve, to aktualna oferta pozwala zakupić specjalny pakiet w historycznie najniższej cenie. Za paczkę zawierającą Red Dead Redemption i Red Dead Redemption 2 zapłacicie 151,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-zestaw-Red-Dead-Redemption-Bundle.-Dwie-gry-PC-za-15199-zl-na-Steam_miniaturka-224x224.jpg",
+      "articleSlug": "198f0e493e70",
+      "articleBody": "HOWDY Łowcy! Z okazji trwających na Steam wyprzedaży Black Friday 2026 w ofercie sklepu Gabe’a Newella pojawiła się bardzo dobra promocja na zestaw Red Dead Redemption Bundle. Jeśli mieliście w planach zakupienie obu produkcji od studia Rockstar w wersjach na platformę Valve, to aktualna oferta pozwala zakupić specjalny pakiet w historycznie najniższej cenie. Za paczkę zawierającą Red Dead Redemption i Red Dead Redemption 2 zapłacicie 151,99 zł! Czytaj więcej »"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Podciąć sobie skrzydła czy wziąć na siebie 100% ryzyka? Ambitni twórcy gier mają dziś nie lada dylemat",
       "sourceUrl": "https://www.gry-online.pl/newsroom/podciac-sobie-skrzydla-czy-wziac-na-siebie-100-ryzyka-ambitni-two/z23245d",
@@ -34,6 +67,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533247192.jpg",
       "articleSlug": "30294f43a6e9",
       "articleBody": "Niezależny deweloper może sam wydawać gry, ale musi pamiętać o pełnym ryzyku. Współzałożycielka firmy The Game Bakers, odpowiedzialnej m.in. za Furi i Cairn, opowiedziała o self-publishingu."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Na Netflix powrócił jeden z najlepszych seriali ostatnich lat. To giga niespodzianka",
+      "sourceUrl": "https://www.ppe.pl/news/434430/na-netflix-powrocil-jeden-z-najlepszych-seriali-ostatnich-lat-to-giga-niespodzianka.html",
+      "publishedAt": "2026-11-24T21:05+01:00",
+      "summary": "Netflix przygotował kapitalną niespodziankę dla fanów tajemniczych historii, które potrafią trzymać w napięciu od pierwszego do ostatniego odcinka. Na platformę powróciła produkcja uznawana przez wielu widzów za jeden z najlepszych seriali o...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/19ffa6b3358be9a3f72b/19ffa6b3358be9a3f72b.jpg",
+      "articleSlug": "94848c7d96cd",
+      "articleBody": "Netflix przygotował kapitalną niespodziankę dla fanów tajemniczych historii, które potrafią trzymać w napięciu od pierwszego do ostatniego odcinka. Na platformę powróciła produkcja uznawana przez wielu widzów za jeden z najlepszych seriali o..."
     },
     {
       "sourceName": "PPE",
@@ -298,50 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odstresuj-sie-z-nowa-paczka-od-Fanatical.-Zestaw-7-odprezajacych-gier-Steam-juz-za-47-zl_miniaturka-224x224.jpg",
       "articleSlug": "e9054de9df94",
       "articleBody": "Łowcy, na dobry początek tygodnia zespół Fanatical oferuje coś dla osób poszukujących chwili relaksu. W ramach najnowszego zestawu Build Your Own Casual Bundle możecie wybrać maksymalnie 7 gier PC. Do Waszej dyspozycji ponownie oddano 17 produkcji w postaci kluczy Steam. Całość dostępna jest za 46,74 zł, co daje nam bardzo dobity przelicznik na poziomie ok. 6,68 zł za jedną pozycję ! Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 naprawia pogodę, ale gracze już mają kolejne żądania. Chcą znacznie więcej",
-      "sourceUrl": "https://www.ppe.pl/news/434413/gta-6-naprawia-pogode-ale-gracze-juz-maja-kolejne-zadania-chca-znacznie-wiecej.html",
-      "publishedAt": "2026-11-24T17:01+01:00",
-      "summary": "Rockstar Games poprawiło jeden z problemów GTA 6, na który od premiery zwracali uwagę gracze. Najnowsza aktualizacja naprawia błąd systemu pogodowego powodujący, że przez długi czas w grze utrzymywały się identyczne warunki atmosferyczne.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5a644b79a9bee5cf0893/5a644b79a9bee5cf0893.webp",
-      "articleSlug": "f90935ab3cb9",
-      "articleBody": "Rockstar Games poprawiło jeden z problemów GTA 6, na który od premiery zwracali uwagę gracze. Najnowsza aktualizacja naprawia błąd systemu pogodowego powodujący, że przez długi czas w grze utrzymywały się identyczne warunki atmosferyczne."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Tego elementu uniwersum lepiej nie umieszczać w Cyberpunku 2? Fani spierają się o detal przypominający Fallout New Vegas",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tego-elementu-uniwersum-lepiej-nie-umieszczac-w-cyberpunku-2-fani/z632458",
-      "publishedAt": "2026-11-24T17:01+01:00",
-      "summary": "W sieci pojawiła się dyskusja graczy na temat pominiętego wątku Cyberpunka, który mógłby powrócić w kontynuacji hitu CD Projektu. Pytanie jednak, czy warto, by tak się stało?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533231983.jpg",
-      "articleSlug": "c4d9dd101aea",
-      "articleBody": "W sieci pojawiła się dyskusja graczy na temat pominiętego wątku Cyberpunka, który mógłby powrócić w kontynuacji hitu CD Projektu. Pytanie jednak, czy warto, by tak się stało?"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Gracze chwalą GTA 6 za realistyczne przedstawienie resocjalizacji przestępców. „Ludzie opuszczający więzienie naprawdę się z tym zmagają”",
-      "sourceUrl": "https://cdaction.pl/newsy/gracze-chwala-gta-6-za-realistyczne-przedstawienie-resocjalizacji-przestepcow-ludzie-opuszczajacy-wiezienie-naprawde-sie-z-tym-zmagaja/",
-      "publishedAt": "2026-11-24T16:45+01:00",
-      "summary": "Uwaga na spoilery (i to całkiem spore).",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-12.jpg",
-      "articleSlug": "ca1fd78f26fc",
-      "articleBody": "Uwaga na spoilery (i to całkiem spore)."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 uderzyło w mobilny rynek gier! Przychody z mikropłatności spadły aż o 24,5%",
-      "sourceUrl": "https://www.ppe.pl/news/434412/gta-6-uderzylo-w-mobilny-rynek-gier-przychody-z-mikroplatnosci-spadly-az-o-24-5.html",
-      "publishedAt": "2026-11-24T16:31+01:00",
-      "summary": "Premiera Grand Theft Auto 6 odbiła się echem nie tylko na rynku konsol i komputerów. Z danych firmy AppsFlyer wynika, że w pierwszych dniach po debiucie gry wydatki Brytyjczyków na mikropłatności w mobilnych produkcjach akcji i strategiach spadł...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c03e96ac7f3ca79b93b5/c03e96ac7f3ca79b93b5.webp",
-      "articleSlug": "932d39577904",
-      "articleBody": "Premiera Grand Theft Auto 6 odbiła się echem nie tylko na rynku konsol i komputerów. Z danych firmy AppsFlyer wynika, że w pierwszych dniach po debiucie gry wydatki Brytyjczyków na mikropłatności w mobilnych produkcjach akcji i strategiach spadł..."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
+  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
 }
