@@ -1,18 +1,29 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T20:34+01:00",
+  "updatedAt": "2026-11-24T20:35+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Podciąć sobie skrzydła czy wziąć na siebie 100% ryzyka? Ambitni twórcy gier mają dziś nie lada dylemat",
-    "summary": "Niezależny deweloper może sam wydawać gry, ale musi pamiętać o pełnym ryzyku. Współzałożycielka firmy The Game Bakers, odpowiedzialnej m.in. za Furi i Cairn, opowiedziała o self-publishingu.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/podciac-sobie-skrzydla-czy-wziac-na-siebie-100-ryzyka-ambitni-two/z23245d",
-    "articleSlug": "30294f43a6e9",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533247192.jpg"
+    "title": "Wiedźmin 4 przeskoczy Wiedźmina 3 tak, jak GTA 6 przewyższyło GTA 5. CD Projekt Red nie zamierza jednak ściągać do Take-Two",
+    "summary": "CD Projekt Red zapewnia, że Wiedźmin 4 będzie równie wielkim skokiem względem Wiedźmina 3, jak GTA 6 jest dla GTA 5. Polscy twórcy nie zamierzają jednak ślepo kopiować kampanii marketingowej hitowej gry Rockstara.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-4-przeskoczy-wiedzmina-3-tak-jak-gta-6-przewyzszylo-gta/z33245e",
+    "articleSlug": "4f51dc87b4d3",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533248500.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wiedźmin 4 przeskoczy Wiedźmina 3 tak, jak GTA 6 przewyższyło GTA 5. CD Projekt Red nie zamierza jednak ściągać do Take-Two",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-4-przeskoczy-wiedzmina-3-tak-jak-gta-6-przewyzszylo-gta/z33245e",
+      "publishedAt": "2026-11-24T21:35+01:00",
+      "summary": "CD Projekt Red zapewnia, że Wiedźmin 4 będzie równie wielkim skokiem względem Wiedźmina 3, jak GTA 6 jest dla GTA 5. Polscy twórcy nie zamierzają jednak ślepo kopiować kampanii marketingowej hitowej gry Rockstara.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533248500.jpg",
+      "articleSlug": "4f51dc87b4d3",
+      "articleBody": "CD Projekt Red zapewnia, że Wiedźmin 4 będzie równie wielkim skokiem względem Wiedźmina 3, jak GTA 6 jest dla GTA 5. Polscy twórcy nie zamierzają jednak ślepo kopiować kampanii marketingowej hitowej gry Rockstara."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Podciąć sobie skrzydła czy wziąć na siebie 100% ryzyka? Ambitni twórcy gier mają dziś nie lada dylemat",
@@ -331,17 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/star-wars-galactic-racer-deluxe-edition-224x224.jpg",
       "articleSlug": "810af1e61e85",
       "articleBody": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie poprzez serwis Allegro. Pudełko z grą wyścigową, za stworzeniem której stoją osoby pracujące przy serii Burnout, kosztuje 212 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "15 lat temu Wiedźmin 2 uratował CD Projekt RED przed upadkiem. Wróciłem do gry, bez której moglibyśmy nigdy nie zobaczyć Wiedźmina 3 i 4",
-      "sourceUrl": "https://www.gry-online.pl/opinie/wiedzmin-2-ma-15-lat-i-wciaz-zyje-w-cieniu-trojki-a-przeciez-to-w/z649de",
-      "publishedAt": "2026-11-24T16:20+01:00",
-      "summary": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg",
-      "articleSlug": "d98c9ef97495",
-      "articleBody": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie."
     }
   ],
   "indie": [
