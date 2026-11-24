@@ -1,17 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T19:01+01:00",
+  "updatedAt": "2026-11-24T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Przy Wiedźminie 4 CD Projekt Red będzie współpracował z Sony. Cyberpunka 2 tworzy już 200 osób",
-    "summary": "Jest szansa, że na gali The Game Awards 2026 poznamy termin premiery Wiedźmina 3: Pieśni przeszłości. Przy kampanii marketingowej Wiedźmina 4 CD Projekt Red będzie natomiast współpracował z Sony.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/przy-wiedzminie-4-cd-projekt-red-bedzie-wspolpracowal-z-sony-cybe/z03245b",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533239885.jpg"
+    "title": "Deweloperzy patrzą na GTA 6 z zazdrością i zachwytem. Największą uwagę zwracają na detale, których gracze nigdy nie zauważą",
+    "summary": "Rockstar ponownie pokazuje, jak wiele można wycisnąć z dbałości o detale. Szczegółowość GTA VI przyciąga uwagę nie tylko graczy, ale również innych twórców, którzy z uznaniem przyglądają się rozwiązaniom zastosowanym w hicie amerykańskiego studia.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/deweloperzy-patrza-na-gta-6-z-zazdroscia-i-zachwytem-najwieksza-u/z13245c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533244464.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Deweloperzy patrzą na GTA 6 z zazdrością i zachwytem. Największą uwagę zwracają na detale, których gracze nigdy nie zauważą",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/deweloperzy-patrza-na-gta-6-z-zazdroscia-i-zachwytem-najwieksza-u/z13245c",
+      "publishedAt": "2026-11-24T20:28+01:00",
+      "summary": "Rockstar ponownie pokazuje, jak wiele można wycisnąć z dbałości o detale. Szczegółowość GTA VI przyciąga uwagę nie tylko graczy, ale również innych twórców, którzy z uznaniem przyglądają się rozwiązaniom zastosowanym w hicie amerykańskiego studia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533244464.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tak miała wyglądać niewydana Senua! Artyści pokazali masę konkretnych grafik i ujawnili szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/434434/tak-miala-wygladac-niewydana-senua-artysci-pokazali-mase-konkretnych-grafik-i-ujawnili-szczegoly.html",
+      "publishedAt": "2026-11-24T19:56+01:00",
+      "summary": "Kilka miesięcy temu gruchnęła informacja, że najnowsza odsłona cenionej marki Ninja Theory pt. Senua raczej nie powstanie, a samo studio zostało zamknięte. Chociaż marka pozostała w rękach Microsoftu, raczej nie należy oczekiwać, że produkc...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/b8ddbe8843265b6f6e00/b8ddbe8843265b6f6e00.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "David Fincher zdradził, dlaczego odrzucił propozycję pracy nad Pierścieniami władzy",
+      "sourceUrl": "https://www.ppe.pl/news/434426/david-fincher-zdradzil-dlaczego-odrzucil-propozycje-pracy-nad-pierscieniami-wladzy.html",
+      "publishedAt": "2026-11-24T19:35+01:00",
+      "summary": "David Fincher nie jest zainteresowany angażowaniem się w wielkie franczyzy filmowe. Reżyser zdradził w podcaście „Happy Sad Confused” Josha Horowitza, że otrzymał propozycję objęcia funkcji showrunnera serialu „Władca Pierścieni: Pierś...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c99207d87db5a6171897/c99207d87db5a6171897.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja Black Friday na puzzle Good Loot w Media Markt. Modele 1000 elementów od 18,97 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-black-friday-na-puzzle-good-loot-w-media-markt-modele-1000-elementow-od-1897-zl/",
+      "publishedAt": "2026-11-24T19:29+01:00",
+      "summary": "Łowcy, z okazji Black Friday 2026, w internetowym sklepie Media Markt, wystartowała wyprzedaż puzzli Good Loot 1000 elementów. W ramach oferty wybrane modele, pozwalające zbudować sceny z najpopularniejszych gier oraz odtworzyć obrazy współczesnych artystów, dostępne są w rekordowo niskich cenach. Na szczególne wyróżnienie zasługuje tutaj wariant Warcraft 30th Anniversary, przygotowany z okazji 30. urodzin kultowego uniwersum, który może być Wasz już za jedyne 18,97 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-Black-Friday-na-puzzle-Good-Loot-w-Media-Markt.-Modele-1000-elementow-od-1897-zl_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "500 twórców Wiedźmina 4 i kolejne sukcesy Wiedźmina 3 i Cyberpunka 2077. Te wyniki zdumiewają",
+      "sourceUrl": "https://www.ppe.pl/news/434429/500-tworcow-wiedzmina-4-i-kolejne-sukcesy-wiedzmina-3-i-cyberpunka-2077-te-wyniki-zdumiewaja.html",
+      "publishedAt": "2026-11-24T19:27+01:00",
+      "summary": "CD Projekt RED przeznacza gigantyczne zasoby na rozwój Wiedźmina 4. Polski gigant opublikował najnowszy raport finansowy, który pokazuje, że przygoda Ciri jest obecnie zdecydowanie najważniejszym projektem studia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/69b99f3cd51a83eb4954/69b99f3cd51a83eb4954.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Przy Wiedźminie 4 CD Projekt Red będzie współpracował z Sony. Cyberpunka 2 tworzy już 200 osób",
@@ -29,6 +74,15 @@
       "summary": "Star Wars: Galactic Racer doczeka się nowej aktualizacji. Twórcy zapowiedzieli Speed Legends, które trafi do gry w grudniu i będzie dostępne bez dodatkowych opłat dla wszystkich użytkowników.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/1b53039f9d61b762ad25/1b53039f9d61b762ad25.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Anulowany Mass Effect naprawiłby krytykowane zakończenia Mass Effecta 3. „Pracowaliśmy nad tym długo i mozolnie, by nie wkurzyć wszystkich”",
+      "sourceUrl": "https://cdaction.pl/newsy/anulowany-mass-effect-naprawilby-krytykowane-zakonczenia-mass-effecta-3-pracowalismy-nad-tym-dlugo-i-mozolnie-by-nie-wkurzyc-wszystkich/",
+      "publishedAt": "2026-11-24T19:00+01:00",
+      "summary": "Możliwe, że Mass Effect Universe rozwiązałby także problem głodu na świecie i wiele więcej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/mass-effect-4900.jpg"
     },
     {
       "sourceName": "PPE",
@@ -227,60 +281,6 @@
       "summary": "Łowcy, pamiętacie jeszcze jak subskrypcja zmieniła swoją formułę, przeistaczając się w Humble Choice? Wtedy to aktywni abonenci otrzymali dostęp do planu Classic rozliczanego w dolarach. Niestety wariant ten był przez większość czasu niekorzystny ze względu na kurs walutowy w stosunku do kwoty w euro. Jeśli jednak z jakiegoś powodu pozostawaliście przy starym rozliczeniu, to już we wrześniu 2026 roku pierwsze osoby (w tym również ja!) zgłaszały, że ich subskrypcja Month-to-Month Classic Plan za $14.99 została zmieniona na standardowy Humble Choice za €12.99! Najnowszy e-mail od przedstawicieli HB wyjaśnia całą sytuacją, informując użytkowników, że plan Classic zostaje całkowicie wygaszony. Jego posiadacze będą automatycznie przeniesieni na abonament w wariancie Month-to-Month Plan (lub rocznym) bez utraty jakichkolwiek korzyści. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nadchodza-zmiany-w-Humble-Choice.-Definitywny-koniec-planu-Classic-i-nowa-data-platnosci_minaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Premiera Gothic 3 Classic na PS5 i Xbox Series za nami. Gdzie kupić pudełkowe wydanie gry najtaniej?",
-      "sourceUrl": "https://lowcygier.pl/preordery/premiera-gothic-3-classic-na-ps5-i-xbox-series-za-nami-gdzie-kupic-pudelkowe-wydanie-gry-najtaniej/",
-      "publishedAt": "2026-11-24T15:48+01:00",
-      "summary": "Bezimienny nie obawiał się GTA VI. Premiera Gothic 3 Classic odbyła się dzisiaj, to jest 24 listopada. Na początku w ostatnią odsłonę przygód charyzmatycznego bohatera zagrają posiadacze konsol PlayStation 5 oraz Xbox Series. Wydanie wersji na Nintendo Switch 2 zostało bowiem przeniesione na przyszły rok. Przygotowaliśmy dla Was wpis, z którego dowiecie się, co zaoferuje odświeżony RPG i gdzie kupicie go najtaniej. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gothic-3-Classic-premiera-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Diablo 4 otrzyma nową klasę i broń! Blizzard przywraca wojowniczkę z kultowej odsłony",
-      "sourceUrl": "https://www.ppe.pl/news/434409/diablo-4-otrzyma-nowa-klase-i-bron-blizzard-przywraca-wojowniczke-z-kultowej-odslony.html",
-      "publishedAt": "2026-11-24T15:45+01:00",
-      "summary": "Diablo 4 otrzyma kolejną grywalną klasę w pierwszej połowie 2027 roku. Blizzard przygotowuje powrót Amazonki, którą fani serii pamiętają przede wszystkim z Diablo 2.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/47a639a1537a30aa797d/47a639a1537a30aa797d.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pora ruszyć głową! Książka Murdoku 80 zabójczych łamigłówek za 23,81 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/pora-ruszyc-glowa-ksiazka-murdoku-80-zabojczych-lamiglowek-za-2381-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-24T15:42+01:00",
-      "summary": "Co jakiś czas warto poćwiczyć szare komórki. Teraz w polskim oddziale sklepu Amazon dorwiecie taniej książkę Murdoku 80 zabójczych łamigłówek. Na 208 stronach znajdziecie „śledztwa” łączące w sobie prostotę zagadek takich jak sudoku z klasycznymi zadaniami logicznymi, a wszystko to za jedyne 23,81 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Murdoku-80-zabojczych-lamiglowek-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Kultowa strategia z 1996 roku otrzymała darmowy remake w pełnym 3D. Można w nią zagrać bez posiadania oryginału",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/kultowa-strategia-z-1996-roku-otrzymala-darmowy-remake-w-pelnym-3/z432456",
-      "publishedAt": "2026-11-24T15:38+01:00",
-      "summary": "Strategia Z od studia Bitmap Brothers obchodzi 30. urodziny. Z tej okazji fani opracowali darmowy remake w pełnym 3D.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533227096.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Data urodzenia Lucii z GTA 6 wywołała u niektórych graczy kryzys. Nagle odkryli, że bohaterowie mogliby być ich dziećmi",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/data-urodzenia-lucii-z-gta-6-wywolala-u-niektorych-graczy-kryzys/z332455",
-      "publishedAt": "2026-11-24T15:33+01:00",
-      "summary": "Czy GTA 6 może zagwarantować nam egzystencjalny kryzys? Tak, jeśli tylko spojrzycie w dokumenty bohaterów nowej gry Rockstara.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533226810.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Twórca Resident Evil nie znosi AI. Shinji Mikami korzysta z niej, choć wolałby, żeby nie istniała",
-      "sourceUrl": "https://www.ppe.pl/news/434408/tworca-resident-evil-nie-znosi-ai-shinji-mikami-korzysta-z-niej-choc-wolalby-zeby-nie-istniala.html",
-      "publishedAt": "2026-11-24T15:29+01:00",
-      "summary": "Shinji Mikami, legendarny twórca serii Resident Evil, nie ukrywa sceptycyzmu wobec sztucznej inteligencji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/942937bb5f207e4fefae/942937bb5f207e4fefae.webp"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
+  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
 }
