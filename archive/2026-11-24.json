@@ -1,17 +1,71 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T16:01+01:00",
+  "updatedAt": "2026-11-24T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "15 lat temu Wiedźmin 2 uratował CD Projekt RED przed upadkiem. Wróciłem do gry, bez której moglibyśmy nigdy nie zobaczyć Wiedźmina 3 i 4",
-    "summary": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie.",
-    "sourceUrl": "https://www.gry-online.pl/opinie/wiedzmin-2-ma-15-lat-i-wciaz-zyje-w-cieniu-trojki-a-przeciez-to-w/z649de",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg"
+    "title": "Milion graczy GTA 6 ma grać od premiery po 10 godzin dziennie. Red Dead Redemption może przetrzeć GTA drogę na wielki ekran",
+    "summary": "Niektórzy gracze poświęcili już na GTA 6 długie godziny. Według analityka ponad milion osób spędziło ponad 50 godzin w stanie Leonida.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/milion-graczy-gta-6-ma-grac-od-premiery-po-10-godzin-dziennie-red/z732459",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533235042.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Milion graczy GTA 6 ma grać od premiery po 10 godzin dziennie. Red Dead Redemption może przetrzeć GTA drogę na wielki ekran",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/milion-graczy-gta-6-ma-grac-od-premiery-po-10-godzin-dziennie-red/z732459",
+      "publishedAt": "2026-11-24T17:55+01:00",
+      "summary": "Niektórzy gracze poświęcili już na GTA 6 długie godziny. Według analityka ponad milion osób spędziło ponad 50 godzin w stanie Leonida.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533235042.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 naprawia pogodę, ale gracze już mają kolejne żądania. Chcą znacznie więcej",
+      "sourceUrl": "https://www.ppe.pl/news/434413/gta-6-naprawia-pogode-ale-gracze-juz-maja-kolejne-zadania-chca-znacznie-wiecej.html",
+      "publishedAt": "2026-11-24T17:01+01:00",
+      "summary": "Rockstar Games poprawiło jeden z problemów GTA 6, na który od premiery zwracali uwagę gracze. Najnowsza aktualizacja naprawia błąd systemu pogodowego powodujący, że przez długi czas w grze utrzymywały się identyczne warunki atmosferyczne.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5a644b79a9bee5cf0893/5a644b79a9bee5cf0893.webp"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Tego elementu uniwersum lepiej nie umieszczać w Cyberpunku 2? Fani spierają się o detal przypominający Fallout New Vegas",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tego-elementu-uniwersum-lepiej-nie-umieszczac-w-cyberpunku-2-fani/z632458",
+      "publishedAt": "2026-11-24T17:01+01:00",
+      "summary": "W sieci pojawiła się dyskusja graczy na temat pominiętego wątku Cyberpunka, który mógłby powrócić w kontynuacji hitu CD Projektu. Pytanie jednak, czy warto, by tak się stało?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533231983.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Gracze chwalą GTA 6 za realistyczne przedstawienie resocjalizacji przestępców. „Ludzie opuszczający więzienie naprawdę się z tym zmagają”",
+      "sourceUrl": "https://cdaction.pl/newsy/gracze-chwala-gta-6-za-realistyczne-przedstawienie-resocjalizacji-przestepcow-ludzie-opuszczajacy-wiezienie-naprawde-sie-z-tym-zmagaja/",
+      "publishedAt": "2026-11-24T16:45+01:00",
+      "summary": "Uwaga na spoilery (i to całkiem spore).",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-12.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 uderzyło w mobilny rynek gier! Przychody z mikropłatności spadły aż o 24,5%",
+      "sourceUrl": "https://www.ppe.pl/news/434412/gta-6-uderzylo-w-mobilny-rynek-gier-przychody-z-mikroplatnosci-spadly-az-o-24-5.html",
+      "publishedAt": "2026-11-24T16:31+01:00",
+      "summary": "Premiera Grand Theft Auto 6 odbiła się echem nie tylko na rynku konsol i komputerów. Z danych firmy AppsFlyer wynika, że w pierwszych dniach po debiucie gry wydatki Brytyjczyków na mikropłatności w mobilnych produkcjach akcji i strategiach spadł...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c03e96ac7f3ca79b93b5/c03e96ac7f3ca79b93b5.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Star Wars Galactic Racer Deluxe Edition na PS5 za 212 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-star-wars-galactic-racer-deluxe-edition-na-ps5-za-212-zl-na-allegro/",
+      "publishedAt": "2026-11-24T16:25+01:00",
+      "summary": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie poprzez serwis Allegro. Pudełko z grą wyścigową, za stworzeniem której stoją osoby pracujące przy serii Burnout, kosztuje 212 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/star-wars-galactic-racer-deluxe-edition-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "15 lat temu Wiedźmin 2 uratował CD Projekt RED przed upadkiem. Wróciłem do gry, bez której moglibyśmy nigdy nie zobaczyć Wiedźmina 3 i 4",
@@ -22,6 +76,24 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 okiem redakcji CD-Action. Oto 10 różnych opinii o najnowszej grze Rockstara",
+      "sourceUrl": "https://cdaction.pl/juz-gralismy/gta-6-okiem-redakcji-cd-action-oto-10-roznych-opinii-o-najnowszej-grze-rockstara/",
+      "publishedAt": "2026-11-24T16:09+01:00",
+      "summary": "Oczywiście, że ufamy naszemu recenzentowi. Ba, nadal zachęcamy do przeczytania obszernego tekstu Spikaina, w którym opowiada o GTA 6 z perspektywy 80 spędzonych w grze godzin. Redakcja chciała jednak dołożyć od siebie nieco więcej. Przed wami zatem dziesięć różnych opinii o najnowszym dziele Rockstara – różnych, choć w gruncie rzeczy podobnych…",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-1.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Elden Ring Nightreign Seekers Edition na PS5 + steelbook za 74,99 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/elden-ring-nightreign-seekers-edition-na-ps5-steelbook-za-7499-zl-na-allegro/",
+      "publishedAt": "2026-11-24T16:03+01:00",
+      "summary": "Specjalne, zawierające steelbook wydanie Elden Ring: Nightreign – Seekers Edition, kupicie taniej poprzez serwis Allegro. Poboczna odsłona soulslike studia FromSoftware, skupiająca się na dynamicznej, kooperacyjnej rozgrywce, kosztuje 74,99 zł w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/02/Preorder-Elden-Ring-Nightreign-Seekers-Edition-na-konsole-za-18390-zl-dostawa-w-Gamefinity_obrazek-224x224.jpg"
+    },
+    {
       "sourceName": "PPE",
       "title": "Final Fantasy VII Revelation nie będzie tak brutalne, jak sugerowały przecieki. Znamy klasyfikację wiekową",
       "sourceUrl": "https://www.ppe.pl/news/434410/final-fantasy-vii-revelation-nie-bedzie-tak-brutalne-jak-sugerowaly-przecieki-znamy-klasyfikacje-wiekowa.html",
@@ -29,6 +101,15 @@
       "summary": "Final Fantasy VII Revelation nie otrzymało kategorii wiekowej Mature 17+, choć właśnie taki scenariusz przez kilka miesięcy brano pod uwagę.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/03a6f21c0696bea2ff30/03a6f21c0696bea2ff30.webp"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "W sieci pojawiły się grafiki i concept arty z nowej gry Ninja Theory. Senua zachwyciłaby nas wizją świata?",
+      "sourceUrl": "https://cdaction.pl/newsy/w-sieci-pojawily-sie-grafiki-i-concept-arty-z-nowej-gry-ninja-theory-senua-zachwycilaby-nas-wizja-swiata/",
+      "publishedAt": "2026-11-24T16:00+01:00",
+      "summary": "Ech, to prawdopodobnie kolejne informacje z gatunku: co mogłoby być.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Senua.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -200,87 +281,6 @@
       "summary": "Choć Sony zrezygnowało z wydania gier singleplayer na komputerach, w sprzedaży wciąż dostępny jest kontroler Dualsense PC Ready. Czarny pad, sprzedawany w zestawie z kablem USB, możecie dorwać teraz za 259,99 zł w Media Expert z okazji Black Friday 2026. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/03/sony-dualsense-pc-ready-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "EA doprowadziło BioWare do trudnych decyzji? Były szef Dragon Age ujawnia kulisy",
-      "sourceUrl": "https://www.ppe.pl/news/434404/ea-doprowadzilo-bioware-do-trudnych-decyzji-byly-szef-dragon-age-ujawnia-kulisy.html",
-      "publishedAt": "2026-11-24T14:19+01:00",
-      "summary": "BioWare przez lata musiało podejmować trudne decyzje pod presją finansowych oczekiwań Electronic Arts. Tak twierdzi Mark Darrah, były producent wykonawczy serii Dragon Age.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c79af9f5df3c570d45ed/c79af9f5df3c570d45ed.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "NASA potrzebowała 49 lat, by osiągnąć ten historyczny kamień milowy. Voyager 1 oddalił się tak bardzo, że jego sygnał dociera na Ziemię dopiero po 24 godzinach",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nasa-potrzebowala-49-lat-by-osiagnac-ten-historyczny-kamien-milow/zf32451",
-      "publishedAt": "2026-11-24T14:15+01:00",
-      "summary": "Sonda Voyager 1 oficjalnie stała się pierwszym obiektem zbudowanym przez człowieka, który osiągnął odległość 1 doby świetlnej od Ziemi.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533222056.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 skrywa całą masę easter eggów. Nawiązania do Terminatora, Piły, Mario czy podróże w czasie to dopiero początek",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-skrywa-cala-mase-easter-eggow-nawiazania-do-terminatora-pil/ze32450",
-      "publishedAt": "2026-11-24T14:04+01:00",
-      "summary": "W GTA 6 pojawiła się cała masa nawiązań do popkultury, więc część z nich dla was opisaliśmy. Lista oczywiście nie jest kompletna, a wraz z upływem czasu easter eggów jedynie będzie przybywać.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533221323.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ubisoft szykuje remake Assassin’s Creed 2? Odtwórca Ezio chce ponownie wcielić się w bohatera",
-      "sourceUrl": "https://www.ppe.pl/news/434407/ubisoft-szykuje-remake-assassin-s-creed-2-odtworca-ezio-chce-ponownie-wcielic-sie-w-bohatera.html",
-      "publishedAt": "2026-11-24T14:01+01:00",
-      "summary": "Fani Assassin’s Creed 2 mogą mieć powód do nadziei. Roger Craig Smith, aktor głosowy wcielający się w Ezio Auditore, przyznał w rozmowie z PCGamesN, że z ogromną chęcią powróciłby do swojej najbardziej rozpoznawalnej roli, gdyby Ubisoft z...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8ec656b76421bc80bb97/8ec656b76421bc80bb97.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Nowy Xbox miał podobno porzucić abonament za multiplayera i uruchamiać gry ze Steama. Teraz nie jest to już takie pewne",
-      "sourceUrl": "https://cdaction.pl/newsy/nowy-xbox-mial-podobno-porzucic-abonament-za-multiplayera-i-uruchamiac-gry-ze-steama-teraz-nie-jest-to-juz-takie-pewne/",
-      "publishedAt": "2026-11-24T13:56+01:00",
-      "summary": "Początkowa wizja następcy Xboksów Series X/S mogła ulec istotnemu przeobrażeniu w wyniku kryzysu na rynku pamięci RAM i zmianie w kierownictwie firmy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Xbox-1260x598.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "12. gra z GameCube'a w ofercie Nintendo Switch Online. To klasyka sprzed 25 lat",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/12-gra-z-gamecubea-w-ofercie-nintendo-switch-online-to-klasyk-spr/z33244f",
-      "publishedAt": "2026-11-24T13:52+01:00",
-      "summary": "Nintendo Switch Online + Expansion Pack wzbogaciło się o kolejną produkcję, którą gracze mogą sprwadzić po raz pierwszy od 25 lat.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533220663.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na słuchawki bezprzewodowe Nothing w x-kom. Model Ear (3) za 499 zł (200 zł taniej)",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-sluchawki-bezprzewodowe-nothing-w-x-kom-model-ear-3-za-499-zl-200-zl-taniej/",
-      "publishedAt": "2026-11-24T13:46+01:00",
-      "summary": "Sklep x-kom postanowił obniżyć cenę wybranych modeli słuchawek bezprzewodowych firmy Nothing. Dostępne są zarówno te true wireless jak i nauszne Nothing Headphone (a). Ceny rozpoczynają się już od 379 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/sluchawki-nothing-1b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Niemal 5 lat pracy nad GTA 6. Aktor opowiedział o tajemnicach Rockstar Games",
-      "sourceUrl": "https://www.ppe.pl/news/434402/niemal-5-lat-pracy-nad-gta-6-aktor-opowiedzial-o-tajemnicach-rockstar-games.html",
-      "publishedAt": "2026-11-24T13:43+01:00",
-      "summary": "Produkcja GTA 6 trwała latami nie tylko po stronie deweloperów. Mike Forbs, aktor wcielający się w Boobie Ike'a, ujawnił, że pracował nad najnowszą odsłoną serii Rockstar Games przez niemal pięć lat.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Gracze odkryli wyjątkowy easter egg w GTA 6. Dosłownie przenosi nas do starego Vice City",
-      "sourceUrl": "https://cdaction.pl/newsy/gracze-odkryli-wyjatkowy-easter-egg-w-gta-6-doslownie-przenosi-nas-do-starego-vice-city/",
-      "publishedAt": "2026-11-24T13:30+01:00",
-      "summary": "Można wtedy napisać, że gra się w, he he, GTA Vice City (kurtyna).",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-11-1260x732.jpg"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
+  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
 }
