@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T22:01+01:00",
+  "updatedAt": "2026-11-24T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Średniowieczna strategia Total War: Medieval 3 zmusi do dyplomacji nawet najlepszych taktyków. Inspiracją jest uwielbiana gra",
-    "summary": "W Total War: Medieval 3 zwycięstwo nie będzie zależało wyłącznie od siły armii. Creative Assembly chce, by dyplomacja stała się równie istotnym elementem kampanii, a sztuczna inteligencja podejmowała decyzje zgodne z interesami kierowanych przez nią frakcji.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/sredniowieczna-strategia-total-war-medieval-3-zmusi-do-dyplomacji/zf32460",
-    "articleSlug": "a22e1b7b03e6",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533250522.jpg"
+    "category": "PROMOCJE",
+    "title": "Wtorkowe podsumowanie wyprzedaży Steam. Warhammer 40,000: Space Marine 2 za 52,49 zł!",
+    "summary": "Łowcy, przygotowaliśmy dla Was mini-posumowanie wtorkowych wyprzedaży jakie wystartowały w sklepie Valve. W ramach oferty wybrane produkcje PC, wśród których znajdziecie mnóstwo tytułów od wydawnictwa Focus Entertainment, dostępne są na platformie Steam w cenach niższych o nawet -90%. Na szczególne wyróżnienie zasługuje tutaj wysoko oceniane Warhammer 40,000: Space Marine 2, które może być Wasze już za 52,49 zł! Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wtorkowe-podsumowanie-wyprzedazy-steam-warhammer-40000-space-marine-2-za-5249-zl/",
+    "articleSlug": "df3bd9659986",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wtorkowe-podsumowanie-wyprzedazy-Steam.-Warhammer-40000_-Space-Marine-2-za-5249-zl_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wtorkowe podsumowanie wyprzedaży Steam. Warhammer 40,000: Space Marine 2 za 52,49 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wtorkowe-podsumowanie-wyprzedazy-steam-warhammer-40000-space-marine-2-za-5249-zl/",
+      "publishedAt": "2026-11-24T22:58+01:00",
+      "summary": "Łowcy, przygotowaliśmy dla Was mini-posumowanie wtorkowych wyprzedaży jakie wystartowały w sklepie Valve. W ramach oferty wybrane produkcje PC, wśród których znajdziecie mnóstwo tytułów od wydawnictwa Focus Entertainment, dostępne są na platformie Steam w cenach niższych o nawet -90%. Na szczególne wyróżnienie zasługuje tutaj wysoko oceniane Warhammer 40,000: Space Marine 2, które może być Wasze już za 52,49 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wtorkowe-podsumowanie-wyprzedazy-Steam.-Warhammer-40000_-Space-Marine-2-za-5249-zl_miniaturka-224x224.jpg",
+      "articleSlug": "df3bd9659986",
+      "articleBody": "Łowcy, przygotowaliśmy dla Was mini-posumowanie wtorkowych wyprzedaży jakie wystartowały w sklepie Valve. W ramach oferty wybrane produkcje PC, wśród których znajdziecie mnóstwo tytułów od wydawnictwa Focus Entertainment, dostępne są na platformie Steam w cenach niższych o nawet -90%. Na szczególne wyróżnienie zasługuje tutaj wysoko oceniane Warhammer 40,000: Space Marine 2, które może być Wasze już za 52,49 zł! Czytaj więcej »"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Przygotuj się na premierę serialu Harry Potter. Hogwarts Legacy na PC i konsole już od 19 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/przygotuj-sie-na-premiere-serialu-harry-potter-hogwarts-legacy-na-pc-i-konsole-juz-od-19-zl/",
+      "publishedAt": "2026-11-24T22:23+01:00",
+      "summary": "Łowcy, czekacie na premierę serialu Harry Potter od HBO? Najnowsza interpretacja dzieła J. K. Rowling zadebiutuje na małych ekranach już 25 grudnia. Wprowadzenie się w magiczny nastrój może zdecydowanie ułatwić produkcja studia Avalanche Software. W ramach wyprzedaży Black Friday 2026 gra Hogwarts Legacy w cyfrowych wersjach na PC oraz konsole aktualnej i poprzedniej generacji dostępna jest już od nieco ponad 19 zł (cena klucza Steam) ! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Przygotuj-sie-na-premiere-serialu-Harry-Potter.-Hogwarts-Legacy-na-PC-i-konsole-juz-od-19-zl_miniaturka-224x224.jpg",
+      "articleSlug": "5751528bc2a7",
+      "articleBody": "Łowcy, czekacie na premierę serialu Harry Potter od HBO? Najnowsza interpretacja dzieła J. K. Rowling zadebiutuje na małych ekranach już 25 grudnia. Wprowadzenie się w magiczny nastrój może zdecydowanie ułatwić produkcja studia Avalanche Software. W ramach wyprzedaży Black Friday 2026 gra Hogwarts Legacy w cyfrowych wersjach na PC oraz konsole aktualnej i poprzedniej generacji dostępna jest już od nieco ponad 19 zł (cena klucza Steam) ! Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin 4 zapewni skok jakościowy względem Wiedźmina 3 jak GTA 6 i GTA 5. Polacy obiecują nową jakość",
+      "sourceUrl": "https://www.ppe.pl/news/434436/wiedzmin-4-zapewni-skok-jakosciowy-wzgledem-wiedzmina-3-jak-gta-6-i-gta-5-polacy-obiecuja-nowa-jakosc.html",
+      "publishedAt": "2026-11-24T22:21+01:00",
+      "summary": "GTA 6 pokazało, jak ogromny postęp technologiczny może dokonać się pomiędzy kolejnymi odsłonami jednej serii, a CD Projekt RED zamierza osiągnąć podobny rezultat. Polskie studio nie ukrywa, że uważnie przygląda się najnowszej produkcji Roc...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d1b93e44ffdc6fbe5868/d1b93e44ffdc6fbe5868.jpg",
+      "articleSlug": "8eb4d32a4369",
+      "articleBody": "GTA 6 pokazało, jak ogromny postęp technologiczny może dokonać się pomiędzy kolejnymi odsłonami jednej serii, a CD Projekt RED zamierza osiągnąć podobny rezultat. Polskie studio nie ukrywa, że uważnie przygląda się najnowszej produkcji Roc..."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Średniowieczna strategia Total War: Medieval 3 zmusi do dyplomacji nawet najlepszych taktyków. Inspiracją jest uwielbiana gra",
@@ -309,39 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533235042.jpg",
       "articleSlug": "ab3c26aaae36",
       "articleBody": "Niektórzy gracze poświęcili już na GTA 6 długie godziny. Według analityka ponad milion osób spędziło ponad 50 godzin w stanie Leonida."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nie tylko Rockstar i PlayStation odczuły sukces GTA 6. YouTube również notuje kosmiczne wyniki",
-      "sourceUrl": "https://www.ppe.pl/news/434421/nie-tylko-rockstar-i-playstation-odczuly-sukces-gta-6-youtube-rowniez-notuje-kosmiczne-wyniki.html",
-      "publishedAt": "2026-11-24T17:45+01:00",
-      "summary": "Premiera Grand Theft Auto VI jest już oficjalnie za nami. Tym samym nie tylko śmiercią naturalną umarł mem „mamy X przed GTA 6”, ale też mamy pierwsze informacje na temat tego, jaki impakt wywarła najnowsza produkcja Rockstara.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/26875af7b6cc5e7b66c1/26875af7b6cc5e7b66c1.jpg",
-      "articleSlug": "8d2953f2c090",
-      "articleBody": "Premiera Grand Theft Auto VI jest już oficjalnie za nami. Tym samym nie tylko śmiercią naturalną umarł mem „mamy X przed GTA 6”, ale też mamy pierwsze informacje na temat tego, jaki impakt wywarła najnowsza produkcja Rockstara."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Anya Taylor-Joy zobaczyła Gandalfa na planie nowego Władcy Pierścieni. Jej reakcja mówi wszystko",
-      "sourceUrl": "https://www.ppe.pl/news/434416/anya-taylor-joy-zobaczyla-gandalfa-na-planie-nowego-wladcy-pierscieni-jej-reakcja-mowi-wszystko.html",
-      "publishedAt": "2026-11-24T17:31+01:00",
-      "summary": "Powrót Iana McKellena do roli Gandalfa robi wrażenie nawet na osobach pracujących przy nowym filmie ze świata Władcy Pierścieni.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/2d68a0e1e9057df3b98b/2d68a0e1e9057df3b98b.webp",
-      "articleSlug": "d39757784dd8",
-      "articleBody": "Powrót Iana McKellena do roli Gandalfa robi wrażenie nawet na osobach pracujących przy nowym filmie ze świata Władcy Pierścieni."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Odstresuj się z nową paczką od Fanatical. Zestaw 7 odprężających gier Steam już za 47 zł!",
-      "sourceUrl": "https://lowcygier.pl/bundle/odstresuj-sie-z-nowa-paczka-od-fanatical-zestaw-7-odprezajacych-gier-steam-juz-za-47-zl/",
-      "publishedAt": "2026-11-24T17:25+01:00",
-      "summary": "Łowcy, na dobry początek tygodnia zespół Fanatical oferuje coś dla osób poszukujących chwili relaksu. W ramach najnowszego zestawu Build Your Own Casual Bundle możecie wybrać maksymalnie 7 gier PC. Do Waszej dyspozycji ponownie oddano 17 produkcji w postaci kluczy Steam. Całość dostępna jest za 46,74 zł, co daje nam bardzo dobity przelicznik na poziomie ok. 6,68 zł za jedną pozycję ! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odstresuj-sie-z-nowa-paczka-od-Fanatical.-Zestaw-7-odprezajacych-gier-Steam-juz-za-47-zl_miniaturka-224x224.jpg",
-      "articleSlug": "e9054de9df94",
-      "articleBody": "Łowcy, na dobry początek tygodnia zespół Fanatical oferuje coś dla osób poszukujących chwili relaksu. W ramach najnowszego zestawu Build Your Own Casual Bundle możecie wybrać maksymalnie 7 gier PC. Do Waszej dyspozycji ponownie oddano 17 produkcji w postaci kluczy Steam. Całość dostępna jest za 46,74 zł, co daje nam bardzo dobity przelicznik na poziomie ok. 6,68 zł za jedną pozycję ! Czytaj więcej »"
     }
   ],
   "indie": [
