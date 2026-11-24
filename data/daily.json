@@ -1,17 +1,35 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T06:01+01:00",
+  "updatedAt": "2026-11-24T07:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "W kwietniu w kinach, a już dzisiaj na SkyShowtime. Jeden z największych HITów 2026 roku",
-    "summary": "SkyShowtime przygotowało prawdziwą bombę na początek tygodnia! Do oferty platformy trafiła właśnie produkcja, która jeszcze kilka miesięcy temu przyciągała tłumy do kin na całym świecie.",
-    "sourceUrl": "https://www.ppe.pl/news/434306/w-kwietniu-w-kinach-a-juz-dzisiaj-na-skyshowtime-jeden-z-najwiekszych-hitow-2026-roku.html",
-    "imageUrl": "https://pliki.ppe.pl/storage/efc789ccc2677780e5f1/efc789ccc2677780e5f1.jpg"
+    "title": "GTA 6 „działa na PC”, ale przed graczami mnóstwo pracy",
+    "summary": "GTA 6 zadebiutowało wyłącznie na PlayStation 5 i Xboksach Series X|S, ale społeczność pecetowa nie zamierza cierpliwie czekać na oficjalną premierę. Po niedawnym wycieku konsolowej wersji gry rozpoczęły się prace nad nieoficjalnym uruchomien...",
+    "sourceUrl": "https://www.ppe.pl/news/434318/gta-6-dziala-na-pc-ale-przed-graczami-mnostwo-pracy.html",
+    "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 „działa na PC”, ale przed graczami mnóstwo pracy",
+      "sourceUrl": "https://www.ppe.pl/news/434318/gta-6-dziala-na-pc-ale-przed-graczami-mnostwo-pracy.html",
+      "publishedAt": "2026-11-24T06:40+01:00",
+      "summary": "GTA 6 zadebiutowało wyłącznie na PlayStation 5 i Xboksach Series X|S, ale społeczność pecetowa nie zamierza cierpliwie czekać na oficjalną premierę. Po niedawnym wycieku konsolowej wersji gry rozpoczęły się prace nad nieoficjalnym uruchomien...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z „NAJWIĘKSZĄ” premierą w historii PlayStation. Sony potwierdza wynik",
+      "sourceUrl": "https://www.ppe.pl/news/434320/gta-6-z-najwieksza-premiera-w-historii-playstation-sony-potwierdza-wynik.html",
+      "publishedAt": "2026-11-24T06:17+01:00",
+      "summary": "Sony od wielu miesięcy mocno promowało GTA 6, a bliska współpraca z Take-Two Interactive i Rockstar Games najwyraźniej przyniosła oczekiwane rezultaty. Najnowsza odsłona Grand Theft Auto zadebiutowała z gigantycznym rozmachem, ale dopiero teraz ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/9dda6cf74bf3b375eaf6/9dda6cf74bf3b375eaf6.jpg"
+    },
     {
       "sourceName": "PPE",
       "title": "W kwietniu w kinach, a już dzisiaj na SkyShowtime. Jeden z największych HITów 2026 roku",
