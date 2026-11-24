@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T11:01+01:00",
+  "updatedAt": "2026-11-24T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Skasowane Mass Effect 5 miało uszanować wybory z ME3. Producent Dragon Age tłumaczy, jak styl EA doprowadził do końca BioWare",
-    "summary": "Scenarzystka Mass Effect Universe opowiedziała trochę o tym, jak skasowana piąta część serii rozwiązałaby problem wielu zakończeń w Mass Effect 3.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/skasowane-mass-effect-5-mialo-uszanowac-wybory-z-me3-producent-dr/z432447",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533213638.jpg"
+    "title": "AI nie skopiuje najlepszych gier - zapewnia prezes tinyBuild. Wskazuje jeden kluczowy element, z którym nie radzą sobie nawet ludzie",
+    "summary": "Szef tinyBuild uważa, że deweloperzy nie powinni się przesadnie martwić kopiowaniem gier przez AI. Twierdzi, że technologia nie jest w stanie odtworzyć najważniejszego elementu dobrej produkcji.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/ai-nie-skopiuje-najlepszych-gier-zapewnia-prezes-tinybuild-wskazu/ze3244a",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533216751.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "AI nie skopiuje najlepszych gier - zapewnia prezes tinyBuild. Wskazuje jeden kluczowy element, z którym nie radzą sobie nawet ludzie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ai-nie-skopiuje-najlepszych-gier-zapewnia-prezes-tinybuild-wskazu/ze3244a",
+      "publishedAt": "2026-11-24T12:46+01:00",
+      "summary": "Szef tinyBuild uważa, że deweloperzy nie powinni się przesadnie martwić kopiowaniem gier przez AI. Twierdzi, że technologia nie jest w stanie odtworzyć najważniejszego elementu dobrej produkcji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533216751.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Tylko 50% pozytywnych ocen dla Stellaris: Willpower. Nowe DLC z fanatycznym pacyfizmem podzieliło graczy na Steamie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tylko-50-pozytywnych-ocen-dla-stellaris-willpower-nowe-dlc-z-fana/z532448",
+      "publishedAt": "2026-11-24T12:20+01:00",
+      "summary": "Stellaris: Willpower pozwala na „przyjazny” podbój galaktyki, lecz gracze nie są pewni, jak istotne są te ideologiczne nowinki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533214439.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Pracownicy NVIDII zgotowali Jensenowi Huangowi owację na stojąco. Za kulisami jego powrotu kryją się kolejne romanse i interwencja Donalda Trumpa",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pracownicy-nvidii-zgotowali-jensenowi-huangowi-owacje-na-stojaco/z332446",
+      "publishedAt": "2026-11-24T12:15+01:00",
+      "summary": "Jensen Huang został powitany oklaskami przez pracowników w siedzibie NVIDII. Według doniesień na spotkaniu z radą dyrektorów ujawnił, że ma na koncie więcej romansów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533213564.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "1. miejsce w 87 krajach: w 2022 roku jej film pokonał Diunę i Stevena Spielberga - teraz jej nowe dzieło podbija listy przebojów streamingu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/1-miejsce-w-87-krajach-w-2022-roku-jej-film-pokonal-diune-i-steve/z232445",
+      "publishedAt": "2026-11-24T12:00+01:00",
+      "summary": "Najpopularniejszym obecnie filmem na Apple TV jest nowe dzieło Sian Heder, która kilka lat temu w wyścigu o Oscara pokonała Denisa Villeneuve’a i Stevena Spielberga. Produkcja z Markiem Ruffalo to numer 1 w ponad 80 krajach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533211295.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Skasowane Mass Effect 5 miało uszanować wybory z ME3. Producent Dragon Age tłumaczy, jak styl EA doprowadził do końca BioWare",
@@ -22,6 +58,51 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533213638.jpg"
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Kalendarz adwentowy LEGO Star Wars na 2026 rok za 119,99 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/kalendarz-adwentowy-lego-star-wars-na-2026-rok-za-11999-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-24T11:42+01:00",
+      "summary": "Święta już tuż tuż. Pierwsze świąteczne hity zaczynają przygrywać w radiu, a i pogoda coraz bardziej wskazuje na to, że nadciągają chłodniejsze dni. Rozgrzać oczekiwanie na wigilijną kolację z najbliższymi może natomiast oferta polskiego Amazona, gdzie kupicie teraz kalendarz adwentowy LEGO Star Wars na 2026 rok. W jego skład wchodzi 293 elementów oraz 5 minifigurek, które możecie nabyć za 119,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/LEGO®-75456-Star-Wars-Kalendarz-adwentowy-na-2026-rok_miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 zaraz prześcignie Wiedźmina 3! OGROMNE zyski dzięki PS5 i XSX",
+      "sourceUrl": "https://www.ppe.pl/news/434391/gta-6-zaraz-przescignie-wiedzmina-3-ogromne-zyski-dzieki-ps5-i-xsx.html",
+      "publishedAt": "2026-11-24T11:41+01:00",
+      "summary": "Tempo, w jakim sprzedaje się Grand Theft Auto 6, wymyka się już jakiejkolwiek skali. Najlepiej widać to, gdy zestawimy ten wynik z jednym z największych hitów w historii branży - polskim Wiedźminem 3.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/03327c4f3165ea465554/03327c4f3165ea465554.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Branża cofa się w rozwoju. ASUS szykuje komputery \"średniej klasy\" z 8 GB RAM",
+      "sourceUrl": "https://www.ppe.pl/news/434394/branza-cofa-sie-w-rozwoju-asus-szykuje-komputery-sredniej-klasy-z-8-gb-ram.html",
+      "publishedAt": "2026-11-24T11:27+01:00",
+      "summary": "To, co dzieje się obecnie w sektorze hardware'u jest przerażające.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6a7d490c7147e6c44b0b/6a7d490c7147e6c44b0b.webp"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "SAROS w świetnej cenie w Media Expert. Ekskluzywna gra na PS5 za 99,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/saros-w-swietnej-cenie-w-media-expert-ekskluzywna-gra-na-ps5-za-9999-zl/",
+      "publishedAt": "2026-11-24T11:25+01:00",
+      "summary": "W kilku sklepach Media Expert możecie jeszcze znaleźć SAROS. Ekskluzywna dla konsoli Sony PlayStation 5 produkcja studia Housemarque, będąca grą akcji z elementami gatunku roguelike, dostępna jest za 99,99 zł. Warto również przypomnieć, że niedawno wyszła duża, darmowa aktualizacja Zenith. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/saros-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Mass Effect Universe wyjaśniłby NAJWAŻNIEJSZY element Mass Effect 3. Scenarzystka zdradza istotne szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/434392/mass-effect-universe-wyjasnilby-najwazniejszy-element-mass-effect-3-scenarzystka-zdradza-istotne-szczegoly.html",
+      "publishedAt": "2026-11-24T11:16+01:00",
+      "summary": "Zakończenie Mass Effect 3 od lat uchodzi za jeden z najbardziej kontrowersyjnych finałów w historii gier i zarazem największy ból głowy dla każdego, kto chciałby ruszyć fabułę tej serii dalej. Jak pogodzić tak skrajnie różne losy całej ga...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0d2f722ebf42838f238d/0d2f722ebf42838f238d.png"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Fatalne wieści dla graczy planujących zakup RAM-u. Samsung nie ma już praktycznie wolnych mocy produkcyjnych na 2027 rok, a klienci rezerwują dostawy nawet do 2031 roku",
       "sourceUrl": "https://www.gry-online.pl/newsroom/fatalne-wiesci-dla-graczy-planujacych-zakup-ram-u-samsung-nie-ma/z132444",
@@ -29,6 +110,15 @@
       "summary": "Samsung miał wyprzedać całą produkcję pamięci DRAM na 2027 rok, a firmy już zabiegają o kontrakty sięgające nawet 2031 roku.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533211108.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "CD Projekt Red przekonuje, że Ciri w Wiedźminie 4 nie będzie po prostu zamiennikiem Geralta. „Jest zupełnie inną osobą”",
+      "sourceUrl": "https://cdaction.pl/newsy/cd-projekt-red-przekonuje-ze-ciri-w-wiedzminie-4-nie-bedzie-po-prostu-zamiennikiem-geralta-jest-zupelnie-inna-osoba/",
+      "publishedAt": "2026-11-24T11:15+01:00",
+      "summary": "Co ważne, wpłynie to na konstrukcję zadań.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/03/Wiedzmin-4.jpg"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -191,96 +281,6 @@
       "summary": "W ofercie polskiego oddziału sklepu Amazon znajdziecie EPOMAKER X Aula F75 Max w dobrej cenie. Kompaktowa klawiatura mechaniczna z łącznością bezprzewodową, wyposażona w praktyczny wyświetlacz i pokrętło do sterowania multimediami, kosztuje 296,40 zł. Czytaj więcej »",
       "category": "PROMOCJE",
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/epomaker-aura-f75-max-1b-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 to największa premiera w historii PlayStation. Liczby robią piorunujące wrażenie",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-to-najwieksza-premiera-w-historii-playstation-liczby-robia/z23243f",
-      "publishedAt": "2026-11-24T09:20+01:00",
-      "summary": "GTA 6 ustanowiło nowy rekord, stając się największą premierą w historii PlayStation. W ciągu pierwszych dni od debiutu w produkcję Rockstara zagrało na PS5 ponad 39 milionów unikalnych graczy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533204427.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Zarobił ponad 1 mld dolarów i zapisał się w historii, od dziś obejrzysz go w domu. Jeden z największych hitów roku właśnie wleciał na SkyShowtime",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/zarobil-ponad-1-mld-dolarow-i-zapisal-sie-w-historii-od-dzis-obej/z13243e",
-      "publishedAt": "2026-11-24T09:18+01:00",
-      "summary": "Od dziś w ramach abonamentu obejrzeć można najbardziej kasowy film biograficzny i najbardziej dochodową biografię muzyczną. To tegoroczne widowisko, które podzieliło odbiorców.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533203489.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "\"Cyberpunk 2 anulowany\". Polski twórca z CD Projekt RED zażartował przez GTA 6",
-      "sourceUrl": "https://www.ppe.pl/news/434364/cyberpunk-2-anulowany-polski-tworca-z-cd-projekt-red-zaniemowil.html",
-      "publishedAt": "2026-11-24T09:14+01:00",
-      "summary": "Premiera Grand Theft Auto 6 wywołała euforię wśród graczy, ale dla wielu twórców pracujących nad innymi otwartymi światami okazała się małym szokiem. Świetnie pokazał to właśnie jeden z głównych polskich deweloperów w CD Projekt Red, ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c4e30a2c05c3bedfc0fc/c4e30a2c05c3bedfc0fc.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "1 gra do odebrania w Amazon Prime Gaming. To wysoko oceniana gra narracyjna",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/1-gra-do-odebrania-w-amazon-prime-gaming-to-wysoko-oceniana-gra-n/z03243d",
-      "publishedAt": "2026-11-24T09:05+01:00",
-      "summary": "Abonenci Amazon Luna Standard odbiorą dzisiaj ostatnią z produkcji przygotowanych na listopad. Mowa o wysoko ocenianym visual novel z elementami RPG pod tytułem Arcadia Fallen.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533201865.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gogle PlayStation VR2 do PS5 i PC w najniższej cenie od wielu miesięcy",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434374/gogle-playstation-vr2-do-ps5-i-pc-w-najnizszej-cenie-od-wielu-miesiecy.html",
-      "publishedAt": "2026-11-24T09:03+01:00",
-      "summary": "W oficjalnym sklepie Allegro w ramach trwających Black Weeks nabędziemy bardzo tanio okulary VR od Sony.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4087ee2a30a26e36f8dc/4087ee2a30a26e36f8dc.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wybitne Call of Duty: Modern Warfare 4 na PS5 i NS2 już o wiele taniej",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434373/wybitne-call-of-duty-modern-warfare-4-na-ps5-i-ns2-juz-o-wiele-taniej.html",
-      "publishedAt": "2026-11-24T09:00+01:00",
-      "summary": "Wystarczył miesiąc, aby Call of Duty Modern Warfare 4 staniało o nawet 100 złotych względem ceny cyfrowej na PS Store.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/2c92737bc003800a41f9/2c92737bc003800a41f9.webp"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Monitor LG UltraGear 27G411B-B 27″ IPS 144 Hz za 349 zł (50 zł taniej) w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/monitor-lg-ultragear-27g411b-b-27-ips-144-hz-za-349-zl-50-zl-taniej-w-media-expert/",
-      "publishedAt": "2026-11-24T08:57+01:00",
-      "summary": "W Hicie Dnia, sklep Media Expert proponuje dziś LG UltraGear 27G411B. Monitor z matrycą IPS o przekątnej 27 cali, rozdzielczości FullHD oraz wsparciem dla technologii AMD FreeSync, kosztuje tylko 349 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lg-ultragear-27G411B-2b-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Świetne słuchawki Sony H3 Inzone z mikrofonem, dźwiękiem przestrzennym 360 do PC/PS5 za 199 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434372/swietne-sluchawki-sony-h3-inzone-z-mikrofonem-dzwiekiem-przestrzennym-360-do-pc-ps5-za-199-zl.html",
-      "publishedAt": "2026-11-24T08:57+01:00",
-      "summary": "W ramach nowych okazji w sklepie internetowym X-Kom możemy nabyć po świetnej cenie słuchawki INZONE H3 firmy Sony.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/116c277b86321ef7e28b/116c277b86321ef7e28b.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 pobiło rekordy wszech czasów na PlayStation 5. Sony opublikowało laurkę dla Rockstara",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-pobilo-rekordy-wszech-czasow-na-playstation-5-sony-opublikowalo-laurke-dla-rockstara/",
-      "publishedAt": "2026-11-24T08:55+01:00",
-      "summary": "No dajcie już sobie całusa.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-6-1-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Soundbar LG S40TR z mocą 400W i Bass Reflex od 653 zł. Konkretna oferta dla klientów",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434371/soundbar-lg-s40tr-z-moca-400w-i-bass-reflex-od-653-zl-konkretna-oferta-dla-klientow.html",
-      "publishedAt": "2026-11-24T08:55+01:00",
-      "summary": "W sklepie Media Expert w ramach wyprzedaży możemy nabyć taniej o ponad 100 złotych porządny soundbar firmy LG.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/81029e6ded05de737b33/81029e6ded05de737b33.webp"
     }
   ],
   "indie": [
@@ -290,7 +290,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -298,7 +298,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -306,7 +306,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -314,7 +314,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -333,7 +333,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -343,7 +343,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -381,7 +381,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -468,5 +468,5 @@
     "imageUrl": "https://images.justwatch.com/poster/246416117/s718/ghostland.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "958616c40030356438fc558adecf1a447a5b51a5e8e9eae5b3cb0e1ec31f52c6"
+  "editorialHash": "66eba55ac63edce948c29f34abf134f5c08884899df525eb136f4d918dc54cc3"
 }
