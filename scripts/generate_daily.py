@@ -189,6 +189,19 @@ def enrich_news(items):
     by_url = {item.get("sourceUrl"): item for item in enriched}
     return [by_url.get(item.get("sourceUrl"), item) for item in items]
 
+def attach_article_pages(items):
+    """Give every RSS item a stable internal summary page; keep the source text intact."""
+    for item in items:
+        source_url = item.get("sourceUrl", "")
+        if not source_url:
+            continue
+        item["articleSlug"] = hashlib.sha1(source_url.encode("utf-8")).hexdigest()[:12]
+        # Only use the description supplied by the feed or public page metadata.
+        # Never fetch, copy, or reconstruct the publisher's full article.
+        item["articleBody"] = item.get("summary", "").strip()
+    return items
+
+
 def main():
     now = datetime.now(WARSAW)
     force = __import__("os").environ.get("FORCE_PUBLISH") == "1"
@@ -308,6 +321,7 @@ def main():
     # materiałów, a nie dokładamy bez końca kolejnych pozycji przy aktualizacji godzinowej.
     news = news[:30]
     news = enrich_news(news)
+    news = attach_article_pages(news)
     news.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
     lead_item = news[0]
     rss_fields = {
@@ -315,7 +329,8 @@ def main():
             "category": lead_item.get("category", "NAJNOWSZE"),
             "title": lead_item["title"],
             "summary": lead_item["summary"] or "Otwórz oryginalny materiał, aby poznać szczegóły.",
-            "sourceUrl": lead_item["sourceUrl"]
+            "sourceUrl": lead_item["sourceUrl"],
+            "articleSlug": lead_item.get("articleSlug", "")
         },
         "news": news,
         "updatedAt": now.isoformat(timespec="minutes")
