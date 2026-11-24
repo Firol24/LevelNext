@@ -1,17 +1,53 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T18:01+01:00",
+  "updatedAt": "2026-11-24T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Znakomite RPG fantasy doczeka się kontynuacji. Wydawca Manor Lords pomoże odnieść sukces Symphony of War 2: Dominion",
-    "summary": "Taktyczne RPG, które przypadło do gustu tysiącom graczy na Steamie, doczeka się kontynuacji. Symphony of War II: Dominion postawi na rozbudowywanie armii i turowe bitwy, lecz ciężar walk przeniesie również na morze.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/znakomite-rpg-fantasy-doczeka-sie-kontynuacji-wydawca-manor-lords/zf3245a",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533237355.jpg"
+    "title": "Przy Wiedźminie 4 CD Projekt Red będzie współpracował z Sony. Cyberpunka 2 tworzy już 200 osób",
+    "summary": "Jest szansa, że na gali The Game Awards 2026 poznamy termin premiery Wiedźmina 3: Pieśni przeszłości. Przy kampanii marketingowej Wiedźmina 4 CD Projekt Red będzie natomiast współpracował z Sony.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/przy-wiedzminie-4-cd-projekt-red-bedzie-wspolpracowal-z-sony-cybe/z03245b",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533239885.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Przy Wiedźminie 4 CD Projekt Red będzie współpracował z Sony. Cyberpunka 2 tworzy już 200 osób",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/przy-wiedzminie-4-cd-projekt-red-bedzie-wspolpracowal-z-sony-cybe/z03245b",
+      "publishedAt": "2026-11-24T19:11+01:00",
+      "summary": "Jest szansa, że na gali The Game Awards 2026 poznamy termin premiery Wiedźmina 3: Pieśni przeszłości. Przy kampanii marketingowej Wiedźmina 4 CD Projekt Red będzie natomiast współpracował z Sony.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533239885.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Star Wars: Galactic Racer otrzyma darmową aktualizację. Speed Legends wprowadzi sporo nowości",
+      "sourceUrl": "https://www.ppe.pl/news/434423/star-wars-galactic-racer-otrzyma-darmowa-aktualizacje-speed-legends-wprowadzi-sporo-nowosci.html",
+      "publishedAt": "2026-11-24T19:01+01:00",
+      "summary": "Star Wars: Galactic Racer doczeka się nowej aktualizacji. Twórcy zapowiedzieli Speed Legends, które trafi do gry w grudniu i będzie dostępne bez dodatkowych opłat dla wszystkich użytkowników.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/1b53039f9d61b762ad25/1b53039f9d61b762ad25.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Cyberpunk: Edgerunners 2 zdobył serca fanów anime. CD Projekt RED potwierdza podbój Netfliksa",
+      "sourceUrl": "https://www.ppe.pl/news/434432/cyberpunk-edgerunners-2-zdobyl-serca-fanow-anime-cd-projekt-red-potwierdza-podboj-netfliksa.html",
+      "publishedAt": "2026-11-24T18:44+01:00",
+      "summary": "Od premiery Cyberpunk: Edgerunners 2 minęło trochę czasu i mamy już pewność, że serial podbił Netfliksa i nie tylko. CD Projekt RED ujawnił, jak w pierwszych tygodniach poradziła sobie powracająca produkcja anime.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/b99ae86dfef1b680a634/b99ae86dfef1b680a634.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Escape from Tarkov przechodzi na Unity 6. Aktualizacja przynosi pierwsze usprawnienia",
+      "sourceUrl": "https://www.ppe.pl/news/434420/escape-from-tarkov-przechodzi-na-unity-6-aktualizacja-przynosi-pierwsze-usprawnienia.html",
+      "publishedAt": "2026-11-24T18:32+01:00",
+      "summary": "Battlestate Games udostępniło aktualizację 1.3.5.0 do Escape from Tarkov, która stanowi ważny etap przejścia gry na silnik Unity 6. Zmiana ma unowocześnić techniczne podstawy popularnej strzelanki i ułatwić wdrażanie kolejnych technologii gra...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/063d3193fc957323e955/063d3193fc957323e955.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Znakomite RPG fantasy doczeka się kontynuacji. Wydawca Manor Lords pomoże odnieść sukces Symphony of War 2: Dominion",
@@ -20,6 +56,24 @@
       "summary": "Taktyczne RPG, które przypadło do gustu tysiącom graczy na Steamie, doczeka się kontynuacji. Symphony of War II: Dominion postawi na rozbudowywanie armii i turowe bitwy, lecz ciężar walk przeniesie również na morze.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533237355.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wielka wyprzedaż Warhammer 30K i 40K w RTV Euro AGD. Wybrane figurki już od 109,50 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wielka-wyprzedaz-warhammer-30k-i-40k-w-rtv-euro-agd-wybrane-figurki-juz-od-10950-zl/",
+      "publishedAt": "2026-11-24T18:29+01:00",
+      "summary": "Łowcy, w internetowym sklepie RTV Euro AGD, z okazji Black Friday 2026, wystartowała nowa wyprzedaż figurek z uniwersum Warhammer 40.000 oraz Warhammer: The Horus Heresy (potocznie określanego liczbą 30.000) . W ramach promocji wybrane modele od firmy Joy Toy dostępne są w cenach zaczynających się od 109,50 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wielka-wyprzedaz-Warhammer-30K-i-40K-w-RTV-Euro-AGD.-Wybrane-figurki-juz-od-10950-zl_minaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Wiedźmin 4 i Cyberpunk 2 powstają w powiększonym zespole kosztem Syriusza. CD Projekt Red pochwalił się wynikami",
+      "sourceUrl": "https://cdaction.pl/newsy/wiedzmin-4-i-cyberpunk-powstaja-w-powiekszonym-zespole-kosztem-syriusza-cd-projekt-red-pochwalil-sie-wynikami/",
+      "publishedAt": "2026-11-24T18:21+01:00",
+      "summary": "Jest lepiej niż się spodziewano.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/wiedzmin3-piesni-przeszlosci-1-1260x709.jpg"
     },
     {
       "sourceName": "PPE",
@@ -227,60 +281,6 @@
       "summary": "Shinji Mikami, legendarny twórca serii Resident Evil, nie ukrywa sceptycyzmu wobec sztucznej inteligencji.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/942937bb5f207e4fefae/942937bb5f207e4fefae.webp"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Twórcy Control chwalą autorów GTA 6 za podejście do Maxa Payne'a. „Wszystko idzie świetnie”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-control-chwala-tworcow-gta-6-za-podejscie-do-maxa-paynea-w/z132453",
-      "publishedAt": "2026-11-24T15:26+01:00",
-      "summary": "Twórcy odświeżonych wersji dylogii Maxa Payne&apos;a bardzo cenią sobie współpracę z Rockstar Games.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533226371.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Oficjalna Nintendo Switch 2 Camera za 112 zł (157 zł taniej) w x-kom",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/oficjalna-nintendo-switch-2-camera-za-112-zl-157-zl-taniej-w-x-kom/",
-      "publishedAt": "2026-11-24T15:21+01:00",
-      "summary": "Korzystając z kodu zniżkowego, będziecie mogli kupić w x-komie taniej Nintendo Switch 2 Camera. Oficjalne akcesorium do najnowszego „Pstryczka”, które świetnie sprawdzi się podczas rozmów w GameChat lub w grach, które korzystają z kamery, kosztuje 112 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/04/Preorder-Nintendo-Switch-2-Camera-dostepny-w-Ultima.-Akcesorium-do-konsoli-za-259-zl_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Mike Pondsmith zdradził pochodzenie słowa „choom” z Cyberpunka i zaskoczył niejednego gracza z kraju, który był inspiracją",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/mike-pondsmith-zdradzil-pochodzenie-slowa-choom-z-cyberpunka-i-za/z032452",
-      "publishedAt": "2026-11-24T15:20+01:00",
-      "summary": "W sieci pojawił się wpis jednego gracza, który rzuca światło na niecodzienną etymologię popularnego słowa z Cyberpunka 2077. Ta unikalna inspiracja to kawał historii wielkich odkryć geograficznych.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533225858.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Najnowszy tytuł Naughty Dog może zadebiutować później niż zakładano! Twórcy potrzebują więcej czasu",
-      "sourceUrl": "https://www.ppe.pl/news/434418/intergalactic-the-heretic-prophet-moze-zadebiutowac-pozniej-niz-zakladano-tworcy-potrzebuja-wiecej-czasu.html",
-      "publishedAt": "2026-11-24T15:16+01:00",
-      "summary": "Naughty Dog nadal celuje w premierę Intergalactic: The Heretic Prophet w 2027 roku, ale najnowsze doniesienia sugerują, że na nową produkcję twórców The Last of Us możemy poczekać do końcówki przyszłego roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f6a675d29017d5e1f650/f6a675d29017d5e1f650.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Aktor głosowy Ezio chętnie wróciłby w remake’u Assassin’s Creeda 2. „Chciałbym wierzyć, że Ubisoft ma coś w zanadrzu”",
-      "sourceUrl": "https://cdaction.pl/newsy/aktor-glosowy-ezio-chetnie-wrocilby-w-remakeu-assassins-creeda-2-chcialbym-wierzyc-ze-ubisoft-ma-cos-w-zanadrzu/",
-      "publishedAt": "2026-11-24T15:15+01:00",
-      "summary": "Roger Craig Smith wyznał, że jest otwarty na współpracę z Ubisoftem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-24-o-12.39.05-1260x662.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Splatoon Raiders na Nintendo Switch 2 za 178,99 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-splatoon-raiders-na-nintendo-switch-2-za-17899-zl-na-allegro/",
-      "publishedAt": "2026-11-24T15:14+01:00",
-      "summary": "Splatoon Raiders, czyli poboczna odsłona serii kolorowych shooterów trzecioosobowych, skierowana tym razem do pojedynczego gracza, jest dostępna taniej na Allegro. Serwis aukcyjny proponuje ekskluzywną produkcję na konsole Nintendo Switch 2 za 178,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/splatoon-raiders-miniaturka-224x224.jpg"
     }
   ],
   "indie": [
