@@ -1,17 +1,44 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T12:01+01:00",
+  "updatedAt": "2026-11-24T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "AI nie skopiuje najlepszych gier - zapewnia prezes tinyBuild. Wskazuje jeden kluczowy element, z którym nie radzą sobie nawet ludzie",
-    "summary": "Szef tinyBuild uważa, że deweloperzy nie powinni się przesadnie martwić kopiowaniem gier przez AI. Twierdzi, że technologia nie jest w stanie odtworzyć najważniejszego elementu dobrej produkcji.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/ai-nie-skopiuje-najlepszych-gier-zapewnia-prezes-tinybuild-wskazu/ze3244a",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533216751.jpg"
+    "title": "15-letni Polak próbował przenieść GTA 6 na PC, ale projekt Leonida właśnie upadł. W jego miejsce przyszedł „cwaniak”, który twierdzi, że jest zbyt sprytny, by dać się złapać Rockstarowi",
+    "summary": "Project Leonida został zamknięty przez jego 15-letniego twórcę. Próby uruchomienia GTA 6 na PC podjęli się już inni piraci, którzy chwalą się postępami.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/15-letni-polak-probowal-przeniesc-gta-6-na-pc-ale-projekt-leonida/zf3244b",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533217422.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "15-letni Polak próbował przenieść GTA 6 na PC, ale projekt Leonida właśnie upadł. W jego miejsce przyszedł „cwaniak”, który twierdzi, że jest zbyt sprytny, by dać się złapać Rockstarowi",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/15-letni-polak-probowal-przeniesc-gta-6-na-pc-ale-projekt-leonida/zf3244b",
+      "publishedAt": "2026-11-24T13:03+01:00",
+      "summary": "Project Leonida został zamknięty przez jego 15-letniego twórcę. Próby uruchomienia GTA 6 na PC podjęli się już inni piraci, którzy chwalą się postępami.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533217422.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "WoW Forever już zaczyna mieć problem z botami, a gracze widzą jego źródło w Azji",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wow-forever-juz-zaczyna-miec-problem-z-botami-a-gracze-widza-jego/z03244c",
+      "publishedAt": "2026-11-24T13:01+01:00",
+      "summary": "Problemy z botami w grach MMO to popularna kwestia. Teraz zaczynają doskwierać także fanom WoW Forever.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533217631.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Żegnajcie płyty. Fani GTA 6 prawdopodobnie podpisali wyrok śmierci na fizycznych wydaniach gier",
+      "sourceUrl": "https://www.ppe.pl/news/434399/zegnajcie-plyty-fani-gta-6-prawdopodobnie-podpisali-wyrok-smierci-na-fizycznych-wydaniach-gier.html",
+      "publishedAt": "2026-11-24T12:48+01:00",
+      "summary": "W sieci pojawiły się właśnie nowe, cotygodniowe wyniki sprzedażowe gier na rynku brytyjskim.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/bbec4400e8c1de6be5dc/bbec4400e8c1de6be5dc.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "AI nie skopiuje najlepszych gier - zapewnia prezes tinyBuild. Wskazuje jeden kluczowy element, z którym nie radzą sobie nawet ludzie",
@@ -20,6 +47,33 @@
       "summary": "Szef tinyBuild uważa, że deweloperzy nie powinni się przesadnie martwić kopiowaniem gier przez AI. Twierdzi, że technologia nie jest w stanie odtworzyć najważniejszego elementu dobrej produkcji.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533216751.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Były producent Dragon Age’a uważa, że to nie decyzje BioWare’u zamknęły studio. „EA kładzie pistolet i pyta, czy sam strzelisz”",
+      "sourceUrl": "https://cdaction.pl/newsy/byly-producent-dragon-agea-uwaza-ze-to-nie-decyzje-biowareu-zamknely-studio-ea-kladzie-pistolet-i-pyta-czy-sam-strzelisz/",
+      "publishedAt": "2026-11-24T12:45+01:00",
+      "summary": "Chodzi o nacisk na gry-usługi, pospieszanie produkcji czy wymuszanie na developerach używania nieswojej technologii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Dragon-Age-Origins.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Mario and Luigi Brothership na Nintendo Switch za 122 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-mario-and-luigi-brothership-na-nintendo-switch-za-122-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-24T12:29+01:00",
+      "summary": "Turowy jRPG z wąsatymi braćmi hydraulikami, czyli Mario & Luigi: Brothership, pojawił się w polskim Amazonie w dobrej cenie. Ekskluzywna dla Nintendo Switch produkcja, jest do kupienia za 122,39 zł. Ważna informacja, okładka jest w języku francuskim. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/10/mario-luigi-brothership-switch-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy gry dla Rockstar Games chwalą się pracą. Remake kultowych gier nadchodzi!",
+      "sourceUrl": "https://www.ppe.pl/news/434396/tworcy-gry-dla-rockstar-games-chwala-sie-praca-remake-kultowych-gier-nadchodzi.html",
+      "publishedAt": "2026-11-24T12:26+01:00",
+      "summary": "Podczas gdy oczy całej branży wciąż skierowane są na Grand Theft Auto 6, w tle spokojnie dojrzewa inny projekt z logo Rockstar Games, na który starsi gracze czekają z równie dużym sentymentem. Chodzi oczywiście o remake dwóch pierwszych czę�...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/3f7f21bb0794122b8d71/3f7f21bb0794122b8d71.webp"
     },
     {
       "sourceName": "GRY-Online",
@@ -40,6 +94,33 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533213564.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "Czas na ostatnie rozszerzenie jednego z największych hitów 2026 roku",
+      "sourceUrl": "https://www.ppe.pl/news/434398/czas-na-ostatnie-rozszerzenie-jednego-z-najwiekszych-hitow-2026-roku.html",
+      "publishedAt": "2026-11-24T12:13+01:00",
+      "summary": "Ekipa Team Ninja razem z Tecmo Koei przedstawia szczegóły na temat ostatniego rozszerzenia jednego z największych hitów 2026 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/31cfcd574b1c5744e994/31cfcd574b1c5744e994.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Hackathon w polskim sejmie. W projekt zaangażował się CDPR, Bloober, Techland i inne firmy",
+      "sourceUrl": "https://cdaction.pl/newsy/hackathon-w-polskim-sejmie/",
+      "publishedAt": "2026-11-24T12:10+01:00",
+      "summary": "Pełny program GameChanger ogłoszony. Branża gier, edukacja i młodzież wspólnie przeciw dezinformacji. W wyjątkowej inicjatywie wezmą udział Bloober Team, CD PROJEKT RED, Elsewhere Entertainment, Flying Wild Hog, Ogham Interactive, Techland oraz uczestniczki programu Dziewczyny w grze",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/pexels-bertellifotografia-18999469-1260x840.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA zawsze miało problem z kobietami. Lucia z GTA 6 zmienia całą serię Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/news/434393/gta-zawsze-mialo-problem-z-kobietami-lucia-z-gta-6-zmienia-cala-serie-rockstar-games.html",
+      "publishedAt": "2026-11-24T12:02+01:00",
+      "summary": "Nie ma co się oszukiwać - seria Grand Theft Auto przez długie lata nie traktowała kobiet najlepiej. W kolejnych wielkich odsłonach panie najczęściej robiły za tło, stereotypowe ozdobniki albo postacie z trzeciego planu, podczas gdy pierwsze skr...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/506866bdb1cf07bf0ff3/506866bdb1cf07bf0ff3.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "1. miejsce w 87 krajach: w 2022 roku jej film pokonał Diunę i Stevena Spielberga - teraz jej nowe dzieło podbija listy przebojów streamingu",
       "sourceUrl": "https://www.gry-online.pl/newsroom/1-miejsce-w-87-krajach-w-2022-roku-jej-film-pokonal-diune-i-steve/z232445",
@@ -47,6 +128,15 @@
       "summary": "Najpopularniejszym obecnie filmem na Apple TV jest nowe dzieło Sian Heder, która kilka lat temu w wyścigu o Oscara pokonała Denisa Villeneuve’a i Stevena Spielberga. Produkcja z Markiem Ruffalo to numer 1 w ponad 80 krajach.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533211295.jpg"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Haker odpowiedzialny za wielki wyciek z GTA 6 w 2022 roku usłyszał niespodziewany wyrok. „Nie pozwól, by to się powtórzyło”",
+      "sourceUrl": "https://cdaction.pl/newsy/haker-odpowiedzialny-za-wielki-wyciek-z-gta-6-w-2022-roku-uslyszal-niespodziewany-wyrok-nie-pozwol-by-to-sie-powtorzylo/",
+      "publishedAt": "2026-11-24T12:00+01:00",
+      "summary": "Być może nie tego spodziewał się zarówno haker, jak i Rockstar.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-VI.jpg"
     },
     {
       "sourceName": "GRY-Online",
@@ -191,96 +281,6 @@
       "summary": "Grudniowa gala The Game Awards zapowiada się w tym roku wyjątkowo gorąco, ale to miłośnicy Gwiezdnych Wojen mogą przeżyć podczas niej najlepszy wieczór w historii tej imprezy.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/6eee35f7dee0432b2b87/6eee35f7dee0432b2b87.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Słuchawki bezprzewodowe Logitech G733 Lightspeed za 289 zł (160 zł taniej) w x-kom",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/sluchawki-bezprzewodowe-logitech-g733-lightspeed-za-289-zl-160-zl-taniej-w-x-kom/",
-      "publishedAt": "2026-11-24T10:26+01:00",
-      "summary": "Słuchawki gamingowe Logitech G733 Lightspeed pojawiły się w Gorącym Strzale sklepu x-kom. Posiadające podświetlenie RGB oraz mikrofon z technologią Blue Voice akcesorium z łącznością bezprzewodową przez adapter USB, kosztuje 289 złotych. Oferta dotyczy modelu w kolorze czarnym. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/11/Logitech_G733_Lightspeed_miniatura-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 wygląda lepiej niż na zwiastunach? Gracze porównali trailery z gotową grą",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-wyglada-lepiej-niz-na-zwiastunach-gracze-porownali-trailery/zf32442",
-      "publishedAt": "2026-11-24T10:18+01:00",
-      "summary": "Grand Theft Auto 6 budzi skrajne emocje nawet porównaniami graficznymi ze zwiastunami.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533207563.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tego silnika nie wolno krytykować. Epic Games grozi redakcji krytykującej zamulony Unreal Engine 5",
-      "sourceUrl": "https://www.ppe.pl/news/434376/tego-silnika-nie-wolno-krytykowac-epic-games-grozi-redakcji-krytykujacej-zamulony-unreal-engine-5.html",
-      "publishedAt": "2026-11-24T10:12+01:00",
-      "summary": "Redakcja Threat Interactive od dłuższego czasu wykonuje świetną robotę, przyglądając się fatalnej optymalizacji nowych gier, działających na Unreal Engine 5. Nie podoba się to firmie Tima Sweeneya.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/fba0355a965e1d9ae515/fba0355a965e1d9ae515.png"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 z pierwszą aktualizacją. Rockstar łata najbardziej uciążliwe błędy",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-z-pierwsza-aktualizacja-rockstar-lata-najbardziej-uciazliwe-bledy/",
-      "publishedAt": "2026-11-24T10:00+01:00",
-      "summary": "Parę dni po premierze GTA 6 doczekało się aktualizacji 1.0.2.2, która eliminuje szereg uciążliwych błędów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-24-o-09.24.52-1260x662.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 tworzyło dziesiątki Polaków! Rodacy przyczynili się do sukcesu gry",
-      "sourceUrl": "https://www.ppe.pl/news/434366/gta-6-tworzylo-dziesiatki-polakow-rodacy-przyczynili-sie-do-sukcesu-gry.html",
-      "publishedAt": "2026-11-24T09:57+01:00",
-      "summary": "Kiedy cały świat zachwyca się Grand Theft Auto 6, my w Polsce mamy do tego jeszcze jeden, całkiem miły powód. Jeśli ktoś przesiedział napisy końcowe albo zaczął w nich trochę grzebać, szybko zauważył, że przy największej grze w histori...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0f17ad8eae98a6ec0e84/0f17ad8eae98a6ec0e84.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe PRAGMATA na PS5 za 159 zł na Allegro Black Weeks",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-pragmata-na-ps5-za-159-zl-na-allegro-black-weeks/",
-      "publishedAt": "2026-11-24T09:54+01:00",
-      "summary": "Capcom w tym roku wydał kilka naprawdę świetnych gier, a wśród nich PRAGMATA, które możecie kupić teraz w dobrej cenie poprzez serwis Allegro. Pudełko z wydaniem na konsole Sony PlayStation 5, nabędziecie bowiem za 159 złotych. Przypominamy, że jest to przygodówka akcji, w której poprowadzicie losami dwójki bohaterów, Hugh i Diany. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/pragmata-ps5-miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Black Friday 2026 z PLAION. Gry pudełkowe w promocyjnych cenach!",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/black-friday-2026-z-plaion-gry-pudelkowe-w-promocyjnych-cenach/",
-      "publishedAt": "2026-11-24T09:40+01:00",
-      "summary": "Wypatrujecie kolejnych wyprzedaży z okazji Czarnego Piątku? Świetnie się składa, bo mamy coś dla Was. Wybrane polskie sklepy, we współpracy z PLAION Polska, zdecydowały się dołączyć do zabawy i zaoferować taniej gry pudełkowe na konsole PlayStation, Xbox oraz Nintendo Switch 1 i 2. Miłośnicy retro będą zaś mogli sięgnąć po tytuły i akcesoria Evercade. Akcja już wystartowała, i choć potrwa do 27 grudnia, ruszajcie na polowanie już teraz, gdyż najlepsze oferty mogą bardzo szybko zniknąć! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Plaion-Black-Friday-2026-promocja-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PlayStation wyłączyło kluczową funkcję PS5 przez GTA 6. Gracze są wściekli",
-      "sourceUrl": "https://www.ppe.pl/news/434365/playstation-wylaczylo-kluczowa-funkcje-ps5-przez-gta-6-gracze-sa-wsciekli.html",
-      "publishedAt": "2026-11-24T09:38+01:00",
-      "summary": "Premiera Grand Theft Auto 6 bije wszelkie rekordy, ale przy okazji wyraźnie daje w kość infrastrukturze wokół samej gry. Tym razem na własnej skórze odczuwają to posiadacze PlayStation 5, u których od kilku dni w praktyce przestała działać j...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/413b019b862efe892d9e/413b019b862efe892d9e.png"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Gwiazdor „Szoguna” zostanie Hokage? Hiroyuki Sanada o krok od roli w aktorskim filmie „Naruto”",
-      "sourceUrl": "https://cdaction.pl/kultura/gwiazdor-szoguna-zostanie-hokage-hiroyuki-sanada-o-krok-od-roli-w-aktorskim-filmie-naruto/",
-      "publishedAt": "2026-11-24T09:30+01:00",
-      "summary": "Zdjęcia ruszą wiosną, ale główni bohaterowie to wciąż tajemnica.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/11/Szogun.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Klawiatura mechaniczna EPOMAKER X Aula F75 Max 75% Reaper Switch za 296,40 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/klawiatura-mechaniczna-epomaker-x-aula-f75-max-75-reaper-switch-za-29640-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-24T09:25+01:00",
-      "summary": "W ofercie polskiego oddziału sklepu Amazon znajdziecie EPOMAKER X Aula F75 Max w dobrej cenie. Kompaktowa klawiatura mechaniczna z łącznością bezprzewodową, wyposażona w praktyczny wyświetlacz i pokrętło do sterowania multimediami, kosztuje 296,40 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/epomaker-aura-f75-max-1b-224x224.jpg"
     }
   ],
   "indie": [
