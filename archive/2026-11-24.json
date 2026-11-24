@@ -1,17 +1,98 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T09:01+01:00",
+  "updatedAt": "2026-11-24T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 to największa premiera w historii PlayStation. Liczby robią piorunujące wrażenie",
-    "summary": "GTA 6 ustanowiło nowy rekord, stając się największą premierą w historii PlayStation. W ciągu pierwszych dni od debiutu w produkcję Rockstara zagrało na PS5 ponad 39 milionów unikalnych graczy.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-to-najwieksza-premiera-w-historii-playstation-liczby-robia/z23243f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533204427.jpg"
+    "title": "Gracze mieli rację, pogoda w GTA 6 nie działała. Teraz Leonidę w końcu nawiedzają efektowne huragany",
+    "summary": "Dzięki ostatniej aktualizacji do GTA 6 gracze nareszcie mogą doświadczyć zróżnicowanych zjawisk atmosferycznych. Szczególnie imponująco prezentuje się huragan.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-mieli-racje-pogoda-w-gta-6-nie-dzialala-teraz-leonide-w-ko/z032443",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533209668.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracze mieli rację, pogoda w GTA 6 nie działała. Teraz Leonidę w końcu nawiedzają efektowne huragany",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracze-mieli-racje-pogoda-w-gta-6-nie-dzialala-teraz-leonide-w-ko/z032443",
+      "publishedAt": "2026-11-24T10:48+01:00",
+      "summary": "Dzięki ostatniej aktualizacji do GTA 6 gracze nareszcie mogą doświadczyć zróżnicowanych zjawisk atmosferycznych. Szczególnie imponująco prezentuje się huragan.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533209668.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Światowy fenomen Apple TV wrócił po 3 latach; sukces nowych odcinków z 90% na Rotten Tomatoes teraz zapewnił mu kontynuację",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/swiatowy-fenomen-apple-tv-wrocil-po-3-latach-sukces-nowych-odcink/ze32441",
+      "publishedAt": "2026-11-24T10:30+01:00",
+      "summary": "Apple TV zdecydowało się kontynuować jeden ze swoich najgłośniejszych tytułów. Jason Sudeikis powróci w piątym sezonie nagrodzonego Emmy komediowego widowiska.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533207191.jpg"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 wygląda lepiej niż na zwiastunach? Gracze porównali trailery z gotową grą",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-wyglada-lepiej-niz-na-zwiastunach-gracze-porownali-trailery/zf32442",
+      "publishedAt": "2026-11-24T10:18+01:00",
+      "summary": "Grand Theft Auto 6 budzi skrajne emocje nawet porównaniami graficznymi ze zwiastunami.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533207563.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 tworzyło dziesiątki Polaków! Rodacy przyczynili się do sukcesu gry",
+      "sourceUrl": "https://www.ppe.pl/news/434366/gta-6-tworzylo-dziesiatki-polakow-rodacy-przyczynili-sie-do-sukcesu-gry.html",
+      "publishedAt": "2026-11-24T09:57+01:00",
+      "summary": "Kiedy cały świat zachwyca się Grand Theft Auto 6, my w Polsce mamy do tego jeszcze jeden, całkiem miły powód. Jeśli ktoś przesiedział napisy końcowe albo zaczął w nich trochę grzebać, szybko zauważył, że przy największej grze w histori...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0f17ad8eae98a6ec0e84/0f17ad8eae98a6ec0e84.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe PRAGMATA na PS5 za 159 zł na Allegro Black Weeks",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-pragmata-na-ps5-za-159-zl-na-allegro-black-weeks/",
+      "publishedAt": "2026-11-24T09:54+01:00",
+      "summary": "Capcom w tym roku wydał kilka naprawdę świetnych gier, a wśród nich PRAGMATA, które możecie kupić teraz w dobrej cenie poprzez serwis Allegro. Pudełko z wydaniem na konsole Sony PlayStation 5, nabędziecie bowiem za 159 złotych. Przypominamy, że jest to przygodówka akcji, w której poprowadzicie losami dwójki bohaterów, Hugh i Diany. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/pragmata-ps5-miniaturka-224x224.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Black Friday 2026 z PLAION. Gry pudełkowe w promocyjnych cenach!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/black-friday-2026-z-plaion-gry-pudelkowe-w-promocyjnych-cenach/",
+      "publishedAt": "2026-11-24T09:40+01:00",
+      "summary": "Wypatrujecie kolejnych wyprzedaży z okazji Czarnego Piątku? Świetnie się składa, bo mamy coś dla Was. Wybrane polskie sklepy, we współpracy z PLAION Polska, zdecydowały się dołączyć do zabawy i zaoferować taniej gry pudełkowe na konsole PlayStation, Xbox oraz Nintendo Switch 1 i 2. Miłośnicy retro będą zaś mogli sięgnąć po tytuły i akcesoria Evercade. Akcja już wystartowała, i choć potrwa do 27 grudnia, ruszajcie na polowanie już teraz, gdyż najlepsze oferty mogą bardzo szybko zniknąć! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Plaion-Black-Friday-2026-promocja-logo-224x224.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation wyłączyło kluczową funkcję PS5 przez GTA 6. Gracze są wściekli",
+      "sourceUrl": "https://www.ppe.pl/news/434365/playstation-wylaczylo-kluczowa-funkcje-ps5-przez-gta-6-gracze-sa-wsciekli.html",
+      "publishedAt": "2026-11-24T09:38+01:00",
+      "summary": "Premiera Grand Theft Auto 6 bije wszelkie rekordy, ale przy okazji wyraźnie daje w kość infrastrukturze wokół samej gry. Tym razem na własnej skórze odczuwają to posiadacze PlayStation 5, u których od kilku dni w praktyce przestała działać j...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/413b019b862efe892d9e/413b019b862efe892d9e.png"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Gwiazdor „Szoguna” zostanie Hokage? Hiroyuki Sanada o krok od roli w aktorskim filmie „Naruto”",
+      "sourceUrl": "https://cdaction.pl/kultura/gwiazdor-szoguna-zostanie-hokage-hiroyuki-sanada-o-krok-od-roli-w-aktorskim-filmie-naruto/",
+      "publishedAt": "2026-11-24T09:30+01:00",
+      "summary": "Zdjęcia ruszą wiosną, ale główni bohaterowie to wciąż tajemnica.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/11/Szogun.jpg"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Klawiatura mechaniczna EPOMAKER X Aula F75 Max 75% Reaper Switch za 296,40 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/klawiatura-mechaniczna-epomaker-x-aula-f75-max-75-reaper-switch-za-29640-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-24T09:25+01:00",
+      "summary": "W ofercie polskiego oddziału sklepu Amazon znajdziecie EPOMAKER X Aula F75 Max w dobrej cenie. Kompaktowa klawiatura mechaniczna z łącznością bezprzewodową, wyposażona w praktyczny wyświetlacz i pokrętło do sterowania multimediami, kosztuje 296,40 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/epomaker-aura-f75-max-1b-224x224.jpg"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 to największa premiera w historii PlayStation. Liczby robią piorunujące wrażenie",
@@ -31,6 +112,15 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533203489.jpg"
     },
     {
+      "sourceName": "PPE",
+      "title": "\"Cyberpunk 2 anulowany\". Polski twórca z CD Projekt RED zażartował przez GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/434364/cyberpunk-2-anulowany-polski-tworca-z-cd-projekt-red-zaniemowil.html",
+      "publishedAt": "2026-11-24T09:14+01:00",
+      "summary": "Premiera Grand Theft Auto 6 wywołała euforię wśród graczy, ale dla wielu twórców pracujących nad innymi otwartymi światami okazała się małym szokiem. Świetnie pokazał to właśnie jeden z głównych polskich deweloperów w CD Projekt Red, ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c4e30a2c05c3bedfc0fc/c4e30a2c05c3bedfc0fc.jpg"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "1 gra do odebrania w Amazon Prime Gaming. To wysoko oceniana gra narracyjna",
       "sourceUrl": "https://www.gry-online.pl/newsroom/1-gra-do-odebrania-w-amazon-prime-gaming-to-wysoko-oceniana-gra-n/z03243d",
@@ -38,6 +128,15 @@
       "summary": "Abonenci Amazon Luna Standard odbiorą dzisiaj ostatnią z produkcji przygotowanych na listopad. Mowa o wysoko ocenianym visual novel z elementami RPG pod tytułem Arcadia Fallen.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://www.gry-online.pl/i/h/22/533201865.jpg"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gogle PlayStation VR2 do PS5 i PC w najniższej cenie od wielu miesięcy",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434374/gogle-playstation-vr2-do-ps5-i-pc-w-najnizszej-cenie-od-wielu-miesiecy.html",
+      "publishedAt": "2026-11-24T09:03+01:00",
+      "summary": "W oficjalnym sklepie Allegro w ramach trwających Black Weeks nabędziemy bardzo tanio okulary VR od Sony.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4087ee2a30a26e36f8dc/4087ee2a30a26e36f8dc.jpg"
     },
     {
       "sourceName": "PPE",
@@ -182,105 +281,6 @@
       "summary": "SkyShowtime przygotowało prawdziwą bombę na początek tygodnia! Do oferty platformy trafiła właśnie produkcja, która jeszcze kilka miesięcy temu przyciągała tłumy do kin na całym świecie.",
       "category": "WIADOMOŚCI",
       "imageUrl": "https://pliki.ppe.pl/storage/efc789ccc2677780e5f1/efc789ccc2677780e5f1.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Granie w chmurze w GTA 6 nie tylko na Xboksie. Fani PlayStation mogą świętować",
-      "sourceUrl": "https://www.ppe.pl/news/434310/granie-w-chmurze-w-gta-6-nie-tylko-na-xboksie-fani-playstation-moga-swietowac.html",
-      "publishedAt": "2026-11-23T23:32+01:00",
-      "summary": "Granie zdalne w GTA 6 miało nie być możliwe dla graczy PlayStation, którzy nie mieli gry zainstalowanej na konsoli. Okazuje się jednak, że wystarczyło się wykazać odrobiną cierpliwości i poczekać.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7c1ca01123fd69289d8a/7c1ca01123fd69289d8a.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na ilustrowane wydanie Władcy Pierścieni (J.R.R. Tolkien) za 150 zł na Allegro!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-ilustrowane-wydanie-wladcy-pierscieni-j-r-r-tolkien-za-150-zl-na-allegro/",
-      "publishedAt": "2026-11-23T17:48+01:00",
-      "summary": "Bezpośrednio na Allegro możecie zakupić tanio trylogię Władcy Pierścieni w specjalnej edycji bogato ozdobionej ilustracjami autorstwa Alana Lee. Arcydzieło J.R.R. Tolkiena oferowane jest w postaci trzech tomów w twardej oprawie (1312 stron) dystrybuowanych przez wydawnictwo Zysk i S-ka . Za przekład odpowiada natomiast Jerzy Łoziński, czyli twórca „legendarnego” tłumaczenia zawierającego takie perełki jak: Bilbo Bagosz , Krzaty czy Łazik . W tym przypadku jest to wersja poprawiona – pozbawiona wszechobecnych spolszczeń, jednak wprawne oko dostrzeże, że pierwszy tom zamiast najpopularniejszej u nasz wersji z Drużyną Pierścienia, zatytułowano jako „Bractwo Pierścienia” . Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-ilustrowane-wydanie-Wladcy-Pierscieni-J.R.R.-Tolkien-za-150-zl-na-Allegro_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Ten serial animowany wygląda jak krzyżówka Queen’s Domain z Eye of the Beholder. Pierwszy odcinek „Crawlers” jest już dostępny za darmo",
-      "sourceUrl": "https://cdaction.pl/newsy/ten-serial-animowany-wyglada-jak-krzyzowka-queens-domain-z-eye-of-the-beholder-pierwszy-odcinek-crawlers-jest-juz-dostepny-za-darmo/",
-      "publishedAt": "2026-11-23T17:45+01:00",
-      "summary": "Gotowi zejść do podziemi?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-23T142206.699-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Haker od głośnego wycieku GTA 6 usłyszał wyrok. Sąd skazał go na 7 lat i tego samego dnia wypuścił na wolność",
-      "sourceUrl": "https://www.ppe.pl/news/434272/haker-od-glosnego-wycieku-gta-6-uslyszal-wyrok-sad-skazal-go-na-7-lat-i-tego-samego-dnia-wypuscil-na-wolnosc.html",
-      "publishedAt": "2026-11-23T17:45+01:00",
-      "summary": "Grand Theft Auto VI jest już dostępne na konsolach obecnej generacji i oprócz oczekiwania na nową produkcję Rockstar Games, która zapisała się w historii, kończy się głośna sprawa Ariona Kurtaja.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/76746f4c142b292ed3b5/76746f4c142b292ed3b5.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Driveclub pomoże odświeżyć kultowe wyścigi z PS3! Błoto, realistyczne opady deszczu i inne efekty graficzne",
-      "sourceUrl": "https://www.ppe.pl/news/434260/driveclub-pomoze-odswiezyc-kultowe-wyscigi-z-ps3-bloto-realistyczne-opady-deszczu-i-inne-efekty-graficzne.html",
-      "publishedAt": "2026-11-23T17:30+01:00",
-      "summary": "MotorStorm: Pacific Rift może powrócić w zupełnie nowej odsłonie na PC.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/cd7b6a91c87d5a29633c/cd7b6a91c87d5a29633c.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Dostawa do Paczkomatów InPost za darmo dla zamówień od 59 zł w sklepie Media Expert!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/dostawa-do-paczkomatow-inpost-za-darmo-dla-zamowien-od-59-zl-w-sklepie-media-expert/",
-      "publishedAt": "2026-11-23T17:14+01:00",
-      "summary": "Łowcy, z okazji Black Friday 2026 sieć sklepów Media Expert łączy siły z firmą InPost i gwarantuje Wam darmową dostawę do Paczkomatów. Z okazji możecie skorzystać w przypadku dowolnego zamówienia o wartości minimum 59 zł, zamiast standardowych 99 zł. Oferta obowiązuje do 27 listopada, do godziny 23:00 i obejmuje cały asortyment internetowego sklepu Media Expert z wyłączeniem kategorii OUTLET . Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Dostawa-do-Paczkomatow-InPost-za-darmo-dla-zamowien-od-59-zl-w-sklepie-Media-Expert_miniaturka-224x224.jpg"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Hollow Knight i HK Silksong na PS5, XSX i Switch 2 z premierą w ten piątek. Gdzie kupić gry najtaniej?",
-      "sourceUrl": "https://lowcygier.pl/preordery/pudelkowe-hollow-knight-i-hk-silksong-na-ps5-xsx-i-switch-2-z-premiera-w-ten-piatek-gdzie-kupic-gry-najtaniej/",
-      "publishedAt": "2026-11-23T17:03+01:00",
-      "summary": "W tym tygodniu czeka na nas jeszcze jedna duża pudełkowa premiera. A nawet dwie! W piątek na rynek trafi Hollow Knight Silksong w wersji na PlayStation 5, Xbox Series X oraz Nintendo Switch 2. Wtedy też dostaniemy reedycję pierwszego HK na urządzenia najnowszej generacji, niestety, z pomięciem amerykańskiej konsoli. Przygotowaliśmy dla Was krótki wpis, z którego dowiecie się, gdzie zakupicie obie fizyczne edycje metroidvanii od australijskiego studia Team Cherry najtaniej. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Hollow-Knight-preorder-Silksong-logo-224x224.jpg"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Grał w GTA 6 i nagle zobaczył znajomą okolicę. Po wyjściu ze swojego pokoju znalazł się w identycznym otoczeniu co w grze",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gral-w-gta-6-i-nagle-zobaczyl-znajoma-okolice-po-wyjsciu-ze-swoje/z232427",
-      "publishedAt": "2026-11-23T17:00+01:00",
-      "summary": "Czy ten gracz żyje w Matriksie? Okazuje się, że GTA 6 w idealny sposób odwzorowało jego dzielnicę – immersja nie zna tutaj granic.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533134202.jpg"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Fan GTA 6 znalazł sposób, by obejść blokadę 30 fps-ów na Xboksie. Miało to jednak niespodziewane konsekwencje",
-      "sourceUrl": "https://cdaction.pl/newsy/fan-gta-6-znalazl-sposob-by-obejsc-blokade-30-fps-ow-na-xboksie-mialo-to-jednak-niespodziewane-konsekwencje/",
-      "publishedAt": "2026-11-23T17:00+01:00",
-      "summary": "Gotowi na festiwal przyspieszonych animacji?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTAVI-11-1-1260x709.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "NVIDIA RTX Spark. Ciekawa konkurencja dla MacBooków Pro. Proponujemy trzy laptopy dla wymagających odbiorców",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/433744/nvidia-rtx-spark-ciekawa-konkurencja-dla-macbookow-pro-proponujemy-trzy-laptopy-dla-wymagajacych-odbiorcow.html",
-      "publishedAt": "2026-11-23T17:00+01:00",
-      "summary": "NVIDIA RTX Spark to platforma komputerowa, która łączy procesor ARM, grafikę Blackwell RTX i dużą pulę wspólnej pamięci w jednym układzie. Projekt ma trafić do osób montujących filmy, projektujących grafikę, piszących kod i korzystający...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/72910c0fe24503e17443/72910c0fe24503e17443.jpg"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "The Last of Us Part II Remastered otrzymało darmowy multiplayer! Tryb jest już dostępny",
-      "sourceUrl": "https://www.ppe.pl/news/434261/the-last-of-us-part-ii-remastered-otrzymalo-darmowy-multiplayer-tryb-jest-juz-dostepny.html",
-      "publishedAt": "2026-11-23T17:00+01:00",
-      "summary": "The Last of Us Part II Remastered na PC doczekało się darmowego trybu wieloosobowego.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6ee0bb0115749eb32f43/6ee0bb0115749eb32f43.png"
     }
   ],
   "indie": [
