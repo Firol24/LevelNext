@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-24",
-  "updatedAt": "2026-11-24T20:35+01:00",
+  "updatedAt": "2026-11-24T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -34,6 +34,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533247192.jpg",
       "articleSlug": "30294f43a6e9",
       "articleBody": "Niezależny deweloper może sam wydawać gry, ale musi pamiętać o pełnym ryzyku. Współzałożycielka firmy The Game Bakers, odpowiedzialnej m.in. za Furi i Cairn, opowiedziała o self-publishingu."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 będzie „najlepszym miejscem” do gry w Wiedźmina 4? CD Projekt i Sony podpisały umowę",
+      "sourceUrl": "https://www.ppe.pl/news/434439/ps5-bedzie-najlepszym-miejscem-do-gry-w-wiedzmina-4-cd-projekt-i-sony-podpisaly-umowe.html",
+      "publishedAt": "2026-11-24T20:41+01:00",
+      "summary": "Sony nie ma dość globalnych kampanii marketingowych po sukcesie GTA 6. Japońska korporacja nawiązała właśnie współpracę z kolejnym wielkim wydawcą, a tym razem chodzi o jedną z najbardziej wyczekiwanych gier RPG najbliższych lat. CD Projekt...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/332a4b9c3c2dc4dff392/332a4b9c3c2dc4dff392.png",
+      "articleSlug": "0604955c3b07",
+      "articleBody": "Sony nie ma dość globalnych kampanii marketingowych po sukcesie GTA 6. Japońska korporacja nawiązała właśnie współpracę z kolejnym wielkim wydawcą, a tym razem chodzi o jedną z najbardziej wyczekiwanych gier RPG najbliższych lat. CD Projekt..."
     },
     {
       "sourceName": "PPE",
@@ -331,17 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/c03e96ac7f3ca79b93b5/c03e96ac7f3ca79b93b5.webp",
       "articleSlug": "932d39577904",
       "articleBody": "Premiera Grand Theft Auto 6 odbiła się echem nie tylko na rynku konsol i komputerów. Z danych firmy AppsFlyer wynika, że w pierwszych dniach po debiucie gry wydatki Brytyjczyków na mikropłatności w mobilnych produkcjach akcji i strategiach spadł..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Star Wars Galactic Racer Deluxe Edition na PS5 za 212 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-star-wars-galactic-racer-deluxe-edition-na-ps5-za-212-zl-na-allegro/",
-      "publishedAt": "2026-11-24T16:25+01:00",
-      "summary": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie poprzez serwis Allegro. Pudełko z grą wyścigową, za stworzeniem której stoją osoby pracujące przy serii Burnout, kosztuje 212 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/star-wars-galactic-racer-deluxe-edition-224x224.jpg",
-      "articleSlug": "810af1e61e85",
-      "articleBody": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie poprzez serwis Allegro. Pudełko z grą wyścigową, za stworzeniem której stoją osoby pracujące przy serii Burnout, kosztuje 212 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »"
     }
   ],
   "indie": [
