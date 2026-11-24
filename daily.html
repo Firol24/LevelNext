@@ -883,8 +883,8 @@
       publishedLabel=Number.isNaN(publishedDate.getTime()) ? item.publishedAt : publishedDate.toLocaleString('pl-PL',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:false});
     }
     article.append(node('div','story-meta',[item.sourceName,publishedLabel].filter(Boolean).join(' · ')));
-    if(item.articleSlug){const a=node('a','read-link','Czytaj felieton ↗');a.href='article.html?id='+encodeURIComponent(item.articleSlug);article.append(a);}
-    else {const a=link(item.sourceUrl,'Oryginalne źródło ↗'); if(a) article.append(a);}
+    if(item.articleSlug){const a=node('a','read-link',item.articleBody?'Czytaj omówienie ↗':'Czytaj felieton ↗');a.href='article.html?date='+encodeURIComponent(item.editionDate||'')+'&id='+encodeURIComponent(item.articleSlug);article.append(a);}
+    const source=link(item.sourceUrl,'Oryginalne źródło ↗'); if(source) article.append(source);
     return article;
   }
   function render(data, features=[]) {
@@ -897,7 +897,8 @@
       lead.append(node('span','lead-label',data.lead.category||'Na okładce'));
       if(data.lead.imageUrl){const img=node('img','lead-image');prepareImage(img,data.lead.imageUrl);img.alt='Grafika do głównego materiału';lead.append(img);}
       lead.append(node('h2','',data.lead.title),node('p','',data.lead.summary||''));
-      const a=link(data.lead.sourceUrl,'Oryginalne źródło ↗'); if(a) lead.append(a);
+      if(data.lead.articleSlug){const a=node('a','read-link','Czytaj omówienie ↗');a.href='article.html?date='+encodeURIComponent(date||'')+'&id='+encodeURIComponent(data.lead.articleSlug);lead.append(a);}
+      const source=link(data.lead.sourceUrl,'Oryginalne źródło ↗'); if(source) lead.append(source);
     }
     if(data.updatedAt){
       const updated=new Date(data.updatedAt);
@@ -909,7 +910,7 @@
     if(date){const d=new Date(date+'T12:00:00');$('book-edition').textContent=d.toLocaleDateString('pl-PL',{day:'numeric',month:'long',year:'numeric'});}
     if(data.lead&&data.lead.title){$('cover-headline').textContent=data.lead.title;$('cover-summary').textContent=(data.lead.summary||'Otwórz numer, aby przeczytać szczegóły.').trim().slice(0,150).replace(/\\s+\\S*$/,'')+((data.lead.summary||'').trim().length>150?'…':'');if(data.lead.imageUrl){const coverImage=$('cover-image');coverImage.src=safeUrl(data.lead.imageUrl);coverImage.classList.remove('hidden');coverImage.onerror=()=>coverImage.classList.add('hidden');}}
     if(Array.isArray(data.news)&&data.news.length){
-      const items=data.news;
+      const items=data.news.map(item=>({...item,editionDate:item.editionDate||date||''}));
       const pageSize=3;
       const chunks=[];
       for(let i=0;i<items.length;i+=pageSize)chunks.push(items.slice(i,i+pageSize));
