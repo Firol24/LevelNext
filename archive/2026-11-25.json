@@ -1,18 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T21:01+01:00",
+  "updatedAt": "2026-11-25T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Twórczyni postaci Lucii z GTA 6 ma dość. Gniew i oskarżenia części graczy zmusiły ją do radykalnego ruchu w social mediach",
-    "summary": "Scenarzystka GTA 6, która odpowiadała za postać Lucii Caminos, usunęła konto w mediach społecznościowych po fali komentarzy wypełnionych wyzwiskami i oskarżeniami.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/tworczyni-postaci-lucii-z-gta-6-ma-dosc-gniew-i-oskarzenia-czesci/z532484",
-    "articleSlug": "fc87c89287cf",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533334097.jpg"
+    "title": "Intergalactic: The Heretic Prophet pewniakiem PlayStation na 2027 rok? Firma już promuje grę",
+    "summary": "W ostatnich miesiącach pojawiały się jednak coraz ciekawsze doniesienia sugerujące, że najnowsza przygoda twórców The Last of Us może zadebiutować już w 2027 roku. Teraz otrzymaliśmy kolejny sygnał, który może potwierdzać te przypuszczeni...",
+    "sourceUrl": "https://www.ppe.pl/news/434566/intergalactic-the-heretic-prophet-pewniakiem-playstation-na-2027-rok-firma-juz-promuje-gre.html",
+    "articleSlug": "d9ba48e0e8fc",
+    "imageUrl": "https://pliki.ppe.pl/storage/f6a675d29017d5e1f650/f6a675d29017d5e1f650.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Intergalactic: The Heretic Prophet pewniakiem PlayStation na 2027 rok? Firma już promuje grę",
+      "sourceUrl": "https://www.ppe.pl/news/434566/intergalactic-the-heretic-prophet-pewniakiem-playstation-na-2027-rok-firma-juz-promuje-gre.html",
+      "publishedAt": "2026-11-25T21:49+01:00",
+      "summary": "W ostatnich miesiącach pojawiały się jednak coraz ciekawsze doniesienia sugerujące, że najnowsza przygoda twórców The Last of Us może zadebiutować już w 2027 roku. Teraz otrzymaliśmy kolejny sygnał, który może potwierdzać te przypuszczeni...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f6a675d29017d5e1f650/f6a675d29017d5e1f650.jpg",
+      "articleSlug": "d9ba48e0e8fc",
+      "articleBody": "W ostatnich miesiącach pojawiały się jednak coraz ciekawsze doniesienia sugerujące, że najnowsza przygoda twórców The Last of Us może zadebiutować już w 2027 roku. Teraz otrzymaliśmy kolejny sygnał, który może potwierdzać te przypuszczeni..."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Twórca Devil May Cry ma na oku znaną serię. „Gdybyśmy zrobili nową Castlevanię, byłaby czymś niesamowitym”",
+      "sourceUrl": "https://cdaction.pl/newsy/tworca-devil-may-cry-ma-na-oku-znana-serie-gdybysmy-zrobili-nowa-castlevanie-bylaby-czyms-niesamowitym/",
+      "publishedAt": "2026-11-25T21:30+01:00",
+      "summary": "Dracula May Cry.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/hideki-kamiya-7743.jpg",
+      "articleSlug": "8d94165f439d",
+      "articleBody": "Dracula May Cry."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Twórczyni postaci Lucii z GTA 6 ma dość. Gniew i oskarżenia części graczy zmusiły ją do radykalnego ruchu w social mediach",
@@ -25,6 +47,17 @@
       "articleBody": "Scenarzystka GTA 6, która odpowiadała za postać Lucii Caminos, usunęła konto w mediach społecznościowych po fali komentarzy wypełnionych wyzwiskami i oskarżeniami."
     },
     {
+      "sourceName": "PPE",
+      "title": "Nowy Władca Pierścieni nadciąga! Zakończono prace nad The Lord of the Rings: The Hunt for Gollum",
+      "sourceUrl": "https://www.ppe.pl/news/434573/nowy-wladca-pierscieni-nadciaga-zakonczono-prace-nad-the-lord-of-the-rings-the-hunt-for-gollum.html",
+      "publishedAt": "2026-11-25T21:19+01:00",
+      "summary": "Fani uniwersum „Władcy Pierścieni” czekali na tę wiadomość zdecydowanie za długo. Warner Bros. oficjalnie potwierdziło zakończenie zdjęć do „The Lord of the Rings: The Hunt for Gollum”, czyli jednej z najbardziej wyczekiwanych produkcj...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/56ac31d2efeee306e165/56ac31d2efeee306e165.jpg",
+      "articleSlug": "51fb0176551b",
+      "articleBody": "Fani uniwersum „Władcy Pierścieni” czekali na tę wiadomość zdecydowanie za długo. Warner Bros. oficjalnie potwierdziło zakończenie zdjęć do „The Lord of the Rings: The Hunt for Gollum”, czyli jednej z najbardziej wyczekiwanych produkcj..."
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Battlefield 6 cierpi, bo EA DICE zbyt mocno słucha się graczy. Korzysta na tym największy rywal strzelanki, FPS Wardogs",
       "sourceUrl": "https://www.gry-online.pl/newsroom/battlefield-6-cierpi-bo-ea-dice-zbyt-mocno-slucha-sie-graczy-korz/z432483",
@@ -34,6 +67,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533333122.jpg",
       "articleSlug": "a3dc5230983a",
       "articleBody": "Szef studia Bulkhead twierdzi, że twórcy gry Battlefield 6 za bardzo słuchają się swojej społczeności. Z tego powodu w strzelance Electronic Arts na PC ma bawić się coraz mniej osób."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na Soundbar Samsung HW-Q930F + Subwoofer + dwa głośniki za 1949 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-soundbar-samsung-hw-q930f-subwoofer-dwa-glosniki-za-1949-zl-na-allegro/",
+      "publishedAt": "2026-11-25T21:10+01:00",
+      "summary": "W ofercie Oficjalnego Sklepu Allegro, z okazji trwającej wyprzedaży Black Weeks, pojawiła się promocja na Soundbar Samsung HW-Q930F. Zestaw kina domowego, oferującego wielokanałowy dźwięk przestrzenny 9.1.4 oraz wsparcie dla bezprzewodowej wersji technologii Dolby Atmos, dostępny jest już za 1949 zł. W pakiecie otrzymacie także osobny Subwoofer, dwa głośniki tylne, uchwyt do montażu na ścianie, kabel HDMI oraz uniwersalny pilot. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Soundbar-Samsung-HW-Q930F-Subwoofer-dwa-glosniki-za-1949-zl-na-Allegro_miniaturka-224x224.jpg",
+      "articleSlug": "248d734c28de",
+      "articleBody": "W ofercie Oficjalnego Sklepu Allegro, z okazji trwającej wyprzedaży Black Weeks, pojawiła się promocja na Soundbar Samsung HW-Q930F. Zestaw kina domowego, oferującego wielokanałowy dźwięk przestrzenny 9.1.4 oraz wsparcie dla bezprzewodowej wersji technologii Dolby Atmos, dostępny jest już za 1949 zł. W pakiecie otrzymacie także osobny Subwoofer, dwa głośniki tylne, uchwyt do montażu na ścianie, kabel HDMI oraz uniwersalny pilot. Czytaj więcej »"
     },
     {
       "sourceName": "PPE",
@@ -298,50 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533321626.jpg",
       "articleSlug": "72adb35baacd",
       "articleBody": "Dodatek Sea of Sorrow do Hollow Knight: Silksong najwyraźniej zbliża się wielkimi krokami. Team Cherry zaprasza na niespodziewany pokaz, który może przynieść również zapowiedź nowej gry australijskiego studia."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 zaskoczy skalą eksploracji. Gracze doliczyli się ponad 1500 budynków do zwiedzania",
-      "sourceUrl": "https://www.ppe.pl/news/434552/gta-6-zaskoczy-skala-eksploracji-gracze-doliczyli-sie-ponad-1500-budynkow-do-zwiedzania.html",
-      "publishedAt": "2026-11-25T17:45+01:00",
-      "summary": "Świat Grand Theft Auto 6 może zaoferować znacznie więcej dostępnych wnętrz, niż wcześniej przypuszczano.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/59d72d07f5bd0795dd7f/59d72d07f5bd0795dd7f.webp",
-      "articleSlug": "98595d09b12a",
-      "articleBody": "Świat Grand Theft Auto 6 może zaoferować znacznie więcej dostępnych wnętrz, niż wcześniej przypuszczano."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyjątkowo tanie puzzle Good Loot w RTV Euro AGD. Warianty Thorgal (1000 el.) po 5,50 zł!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyjatkowo-tanie-puzzle-good-loot-w-rtv-euro-agd-warianty-thorgal-1000-el-po-550-zl/",
-      "publishedAt": "2026-11-25T17:42+01:00",
-      "summary": "W internetowym sklepie RTV Euro AGD, wykorzystując specjalny kod zniżkowy, możecie zakupić tanio puzzle Good Loot. Modele przygotowane z myślą o fanach serii komiksów Thorgal dostępne są w historycznie niskich cenach. W ramach oferty za warianty składające się z 1000 elementów zapłacicie jedynie 5,50 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyjatkowo-tanie-puzzle-Good-Loot-w-RTV-Euro-AGD.-Warianty-Thorgal-1000-el.-po-550-zl_miniaturka-224x224.jpg",
-      "articleSlug": "c72f63b312b5",
-      "articleBody": "W internetowym sklepie RTV Euro AGD, wykorzystując specjalny kod zniżkowy, możecie zakupić tanio puzzle Good Loot. Modele przygotowane z myślą o fanach serii komiksów Thorgal dostępne są w historycznie niskich cenach. W ramach oferty za warianty składające się z 1000 elementów zapłacicie jedynie 5,50 zł! Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PS Plus na grudzień OFICJALNIE. Sony rozpoczyna ostatni miesiąc roku od mocnego uderzenia nostalgii",
-      "sourceUrl": "https://www.ppe.pl/news/434561/ps-plus-na-grudzien-oficjalnie-sony-rozpoczyna-ostatni-miesiac-roku-od-mocnego-uderzenia-nostalgii.html",
-      "publishedAt": "2026-11-25T17:38+01:00",
-      "summary": "Listopad dobiega końca, a to oznacza, że zbliża się czas odświeżenia zestawu gier dostępnych w ramach PlayStation Plus Essential.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/96976eed717bc5eda703/96976eed717bc5eda703.webp",
-      "articleSlug": "db92eb3d9516",
-      "articleBody": "Listopad dobiega końca, a to oznacza, że zbliża się czas odświeżenia zestawu gier dostępnych w ramach PlayStation Plus Essential."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Wiedźmin 4 nie będzie tytułem ekskluzywnym PlayStation. CD Projekt Red uspokaja graczy zaniepokojonych umową z Sony",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-4-nie-bedzie-tytulem-ekskluzywnym-playstation-cd-projekt/z13247a",
-      "publishedAt": "2026-11-25T17:16+01:00",
-      "summary": "Współpraca CD Projekt Red i Sony mogła wzbudzić niepokój wśród części graczy. Michał Nowakowski rozwiał jednak wątpliwości dotyczące ekskluzywności Wiedźmina 4 i pozostałych nadchodzących gier polskiego studia.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533319292.jpg",
-      "articleSlug": "d2bd74310e39",
-      "articleBody": "Współpraca CD Projekt Red i Sony mogła wzbudzić niepokój wśród części graczy. Michał Nowakowski rozwiał jednak wątpliwości dotyczące ekskluzywności Wiedźmina 4 i pozostałych nadchodzących gier polskiego studia."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
+  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
 }
