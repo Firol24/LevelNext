@@ -1,18 +1,183 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T14:01+01:00",
+  "updatedAt": "2026-11-25T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Pierwszy Mass Effect do dziś potrafi zszokować ilością wyciętej zawartości. Dużą część z niej można po latach ograć",
-    "summary": "Gracz przywrócił wyciętą zawartość z poziomu Mass Effecta, który w oryginalnej grze trwa zaledwie pięć minut.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/pierwszy-mass-effect-do-dzis-potrafi-zszokowac-iloscia-wycietej-z/z132471",
-    "articleSlug": "dc6d47622fd9",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533307314.jpg"
+    "title": "Najbardziej realistyczna walka w historii strzelanek? Twórcy taktycznego FPS-a Gray Zone Warfare zapowiadają przełomowe zmiany",
+    "summary": "Do sieci trafił materiał wideo poświęcony wyczekiwanej aktualizacji Breakthrough do gry Gray Zone Warfare.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/najbardziej-realistyczna-walka-w-historii-strzelanek-tworcy-takty/z932479",
+    "articleSlug": "f65dec45ad28",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533313621.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Najbardziej realistyczna walka w historii strzelanek? Twórcy taktycznego FPS-a Gray Zone Warfare zapowiadają przełomowe zmiany",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/najbardziej-realistyczna-walka-w-historii-strzelanek-tworcy-takty/z932479",
+      "publishedAt": "2026-11-25T15:40+01:00",
+      "summary": "Do sieci trafił materiał wideo poświęcony wyczekiwanej aktualizacji Breakthrough do gry Gray Zone Warfare.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533313621.jpg",
+      "articleSlug": "f65dec45ad28",
+      "articleBody": "Do sieci trafił materiał wideo poświęcony wyczekiwanej aktualizacji Breakthrough do gry Gray Zone Warfare."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Brązowy pas o długości 8 850 km przecina Atlantyk - znacznie się rozszerza i łączy obecnie Karaiby z Afryką Zachodnią",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/brazowy-pas-o-dlugosci-8-850-km-przecina-atlantyk-znacznie-sie-ro/z832478",
+      "publishedAt": "2026-11-25T15:25+01:00",
+      "summary": "Od Zatoki Meksykańskiej i Karaibów po zachodnie wybrzeże Afryki ciągnie się pas gronorostów. Na otwartym oceanie glony zapewniają zwierzętom schronienie, ale u wybrzeży stają się zagrożeniem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533312542.jpg",
+      "articleSlug": "2829092c3482",
+      "articleBody": "Od Zatoki Meksykańskiej i Karaibów po zachodnie wybrzeże Afryki ciągnie się pas gronorostów. Na otwartym oceanie glony zapewniają zwierzętom schronienie, ale u wybrzeży stają się zagrożeniem."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "NVIDIA zapowiada nową strategię. Efekt? Ceny kart graficznych w górę!",
+      "sourceUrl": "https://www.ppe.pl/news/434541/nvidia-zapowiada-nowa-strategie-efekt-ceny-kart-graficznych-w-gore.html",
+      "publishedAt": "2026-11-25T15:01+01:00",
+      "summary": "NVIDIA ma po raz kolejny zmniejszyć dostawy gamingowych kart graficznych w czwartym kwartale 2026 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/08c389fe14066e599a09/08c389fe14066e599a09.jpg",
+      "articleSlug": "25721e05825f",
+      "articleBody": "NVIDIA ma po raz kolejny zmniejszyć dostawy gamingowych kart graficznych w czwartym kwartale 2026 roku."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Rekord ostatniego roku na Steamie to 51 graczy. Capcom wycofuje Exoprimal ze sprzedaży i podaje datę zamknięcia serwerów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/rekord-ostatniego-roku-na-steamie-to-51-graczy-capcom-wycofuje-ex/z632476",
+      "publishedAt": "2026-11-25T14:55+01:00",
+      "summary": "Capcom zapowiedział zamknięcie serwerów Exoprimal, aczkolwiek nie nastąpi to zbyt prędko.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533310797.jpg",
+      "articleSlug": "6a543ba49097",
+      "articleBody": "Capcom zapowiedział zamknięcie serwerów Exoprimal, aczkolwiek nie nastąpi to zbyt prędko."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Gracz ma wiele żyć. Jego plecy niekoniecznie. Twój fotel też ma znaczenie",
+      "sourceUrl": "https://cdaction.pl/technologie/gracz-ma-wiele-zyc-jego-plecy-niekoniecznie-twoj-fotel-tez-ma-znaczenie/",
+      "publishedAt": "2026-11-25T14:51+01:00",
+      "summary": "Możesz mieć komputer za kilkanaście tysięcy złotych, monitor z imponującym odświeżaniem i myszkę reagującą na najdrobniejszy ruch. Wszystko po to, by uzyskać przewagę nad przeciwnikami. Jest jednak jeden element gamingowego stanowiska, o którym często zapominamy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/1a-1260x709.png",
+      "articleSlug": "afbb6a07b462",
+      "articleBody": "Możesz mieć komputer za kilkanaście tysięcy złotych, monitor z imponującym odświeżaniem i myszkę reagującą na najdrobniejszy ruch. Wszystko po to, by uzyskać przewagę nad przeciwnikami. Jest jednak jeden element gamingowego stanowiska, o którym często zapominamy."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "[PRICEBUG?] Captain Tsubasa 2 World Fighters na PC za 16 zł w Loaded. Gra z Kapitanem Jastrzębiem za ułamek ceny!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/pricebug-captain-tsubasa-2-world-fighters-na-pc-za-16-zl-w-loaded-gra-z-kapitanem-jastrzebiem-za-ulamek-ceny/",
+      "publishedAt": "2026-11-25T14:46+01:00",
+      "summary": "W Loaded możecie teraz zgarnąć niezwykle tanio Captain Tsubasa 2: World Fighters. Pecetowe wydanie produkcji opartej na kultowym anime z lat 80., może być wasze za 16 złotych. Warto się pośpieszyć, ponieważ jest to prawdopodobnie błąd cenowy. Na Steamie gra w tym momencie kosztuje 254,25 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/captain-tsubasa-2-world-fighters-kwadrat-224x224.jpg",
+      "articleSlug": "e6f48848fa9a",
+      "articleBody": "W Loaded możecie teraz zgarnąć niezwykle tanio Captain Tsubasa 2: World Fighters. Pecetowe wydanie produkcji opartej na kultowym anime z lat 80., może być wasze za 16 złotych. Warto się pośpieszyć, ponieważ jest to prawdopodobnie błąd cenowy. Na Steamie gra w tym momencie kosztuje 254,25 zł! Czytaj więcej »"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ponad 300 miejsc w GTA 6, których nie można przegapić. Specjalnie dla Was przygotowaliśmy polską interaktywną mapę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-300-miejsc-w-gta-6-ktorych-nie-warto-przegapic-specjalnie-d/z432474",
+      "publishedAt": "2026-11-25T14:46+01:00",
+      "summary": "Przygotowaliśmy dla Was interaktywną mapę GTA 6, która ułatwi eksplorację ogromnego świata stworzonego przez Rockstar Games. To nie tylko zbiór znaczników, ale również źródło szczegółowych instrukcji, zdjęć i materiałów wideo, które pomogą Wam odkryć sekrety gry. Całość dostępna jest w języku polskim.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533309927.jpg",
+      "articleSlug": "a7bcd8bc5ebc",
+      "articleBody": "Przygotowaliśmy dla Was interaktywną mapę GTA 6, która ułatwi eksplorację ogromnego świata stworzonego przez Rockstar Games. To nie tylko zbiór znaczników, ale również źródło szczegółowych instrukcji, zdjęć i materiałów wideo, które pomogą Wam odkryć sekrety gry. Całość dostępna jest w języku polskim."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 uruchomione na PC! Nieoficjalne porty zrobiły ogromny postęp w mniej niż dobę",
+      "sourceUrl": "https://www.ppe.pl/news/434546/gta-6-uruchomione-na-pc-nieoficjalne-porty-zrobily-ogromny-postep-w-mniej-niz-dobe.html",
+      "publishedAt": "2026-11-25T14:45+01:00",
+      "summary": "Wyciek plików z wersji GTA 6 na Xboksa Series X szybko przyniósł nieoczekiwane rezultaty.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg",
+      "articleSlug": "ba1f39c4b7aa",
+      "articleBody": "Wyciek plików z wersji GTA 6 na Xboksa Series X szybko przyniósł nieoczekiwane rezultaty."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wysyłali po kilka gier tygodniowo dzięki AI. Organizatorzy mieli dość i zawiesili konkurs retro",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wysylali-po-kilka-gier-tygodniowo-dzieki-ai-organizatorzy-mieli-d/z532475",
+      "publishedAt": "2026-11-25T14:41+01:00",
+      "summary": "Zalew gier wygenerowanych przy pomocy AI spowodował zawieszenie działalności konkursu Atari Homebrew Awards poświęconego tworzeniu produkcji retro.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533310085.jpg",
+      "articleSlug": "bd722376d8a9",
+      "articleBody": "Zalew gier wygenerowanych przy pomocy AI spowodował zawieszenie działalności konkursu Atari Homebrew Awards poświęconego tworzeniu produkcji retro."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 przegrzewa i uszkadza konsole PS5. Gracze alarmują, że ich sprzęt nie nadaje się już do użytku",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-przegrzewa-i-uszkadza-konsole-ps5-gracze-alarmuja-ze-ich-sprzet-nie-nadaje-sie-juz-do-uzytku/",
+      "publishedAt": "2026-11-25T14:30+01:00",
+      "summary": "To pechowe wyjątki czy niebezpieczne zjawisko?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-13.jpg",
+      "articleSlug": "b392abcf7d2e",
+      "articleBody": "To pechowe wyjątki czy niebezpieczne zjawisko?"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pady Xbox Series taniej w Amazon PL. Storm Breaker Edycja Specjalna za 215 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pady-xbox-series-taniej-w-amazon-pl-storm-breaker-edycja-specjalna-za-215-zl/",
+      "publishedAt": "2026-11-25T14:30+01:00",
+      "summary": "Specjalna edycja kontrolera bezprzewodowego Xbox Series – Storm Breaker, pojawiła się w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Pad w akcentach czerni i bieli, kosztuje aktualnie 214,88 zł. Dodatkowo, zakup uprawnia Was do otrzymania bonu na kwotę 50 zł do wykorzystania przy kolejnych zakupach, jeśli wasz koszyk przekroczy 250 zł. To jeden z wielu kolorów, które zostały teraz przecenione w Amazonie. Znajdziecie je w rozwinięciu tego wpisu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/storm-breaker-xbox-224x224.jpg",
+      "articleSlug": "77af914398ea",
+      "articleBody": "Specjalna edycja kontrolera bezprzewodowego Xbox Series – Storm Breaker, pojawiła się w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Pad w akcentach czerni i bieli, kosztuje aktualnie 214,88 zł. Dodatkowo, zakup uprawnia Was do otrzymania bonu na kwotę 50 zł do wykorzystania przy kolejnych zakupach, jeśli wasz koszyk przekroczy 250 zł. To jeden z wielu kolorów, które zostały teraz przecenione w Amazonie. Znajdziecie je w rozwinięciu tego wpisu. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Prime Video nie powiedział ostatniego słowa! Mike Flanagan ujawnia ważne informacje o nowej produkcji",
+      "sourceUrl": "https://www.ppe.pl/news/434537/prime-video-nie-powiedzial-ostatniego-slowa-mike-flanagan-ujawnia-wazne-informacje-o-nowej-produkcji.html",
+      "publishedAt": "2026-11-25T14:25+01:00",
+      "summary": "Serial „Carrie” od Mike'a Flanagana doczeka się kontynuacji, a prace nad drugim sezonem są już na zaawansowanym etapie przygotowań.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c840dae283d7f8faeba4/c840dae283d7f8faeba4.png",
+      "articleSlug": "26de82e58e32",
+      "articleBody": "Serial „Carrie” od Mike'a Flanagana doczeka się kontynuacji, a prace nad drugim sezonem są już na zaawansowanym etapie przygotowań."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Jak działa policja i system gwiazdek w GTA 6? Te rzeczy powinniście wiedzieć, zanim złamiecie prawo jako Jason i Lucia",
+      "sourceUrl": "https://cdaction.pl/teksty/jak-dziala-policja-i-system-gwiazdek-w-gta-6-te-rzeczy-powinniscie-wiedziec-zanim-zlamiecie-prawo-jako-jason-i-lucia/",
+      "publishedAt": "2026-11-25T14:15+01:00",
+      "summary": "Policja i sposoby radzenia sobie z nią towarzyszą serii Grand Theft Auto od samego początku. Najnowsza odsłona kultowego cyklu wyraźnie rozbudowuje mechaniki pościgu i ucieczki, dlatego postanowiliśmy przyjrzeć im się z bliska.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-10.jpg",
+      "articleSlug": "a881534072c6",
+      "articleBody": "Policja i sposoby radzenia sobie z nią towarzyszą serii Grand Theft Auto od samego początku. Najnowsza odsłona kultowego cyklu wyraźnie rozbudowuje mechaniki pościgu i ucieczki, dlatego postanowiliśmy przyjrzeć im się z bliska."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Uważaj na ten sterownik NVIDIA! Test wykazał gorszą wydajność i spadek FPS-ów w grach",
+      "sourceUrl": "https://www.ppe.pl/news/434536/uwazaj-na-ten-sterownik-nvidia-test-wykazal-gorsza-wydajnosc-i-spadek-fps-ow-w-grach.html",
+      "publishedAt": "2026-11-25T14:07+01:00",
+      "summary": "Najnowsze sterowniki NVIDIA mogą negatywnie wpływać na wydajność Call of Duty: Modern Warfare 4.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/77bd31d739d201830fe8/77bd31d739d201830fe8.webp",
+      "articleSlug": "139208380504",
+      "articleBody": "Najnowsze sterowniki NVIDIA mogą negatywnie wpływać na wydajność Call of Duty: Modern Warfare 4."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Might and Magic The Card Game właśnie opuściło wczesny dostęp. Wersja premierowa dostała masę nowości",
+      "sourceUrl": "https://cdaction.pl/newsy/might-and-magic-the-card-game-wlasnie-opuscilo-wczesny-dostep-wersja-premierowa-dostala-mase-nowosci/",
+      "publishedAt": "2026-11-25T14:00+01:00",
+      "summary": "Czekaliście na to wydarzenie?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-25T125621.538-1260x709.jpg",
+      "articleSlug": "50db54976e89",
+      "articleBody": "Czekaliście na to wydarzenie?"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Pierwszy Mass Effect do dziś potrafi zszokować ilością wyciętej zawartości. Dużą część z niej można po latach ograć",
@@ -177,171 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533302997.jpg",
       "articleSlug": "1d2289294c02",
       "articleBody": "Jak wiele możliwości oferuje GTA 6, jeżeli chodzi o eksplorację? Gracz przeliczył, ile budynków znajdziemy w Leonidzie – i do ilu z nich możemy wejść."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gothic 3 po 20 latach trafia na PS5 i Xbox Series X/S! Kultowe RPG otrzymało nową wersję",
-      "sourceUrl": "https://www.ppe.pl/news/434531/gothic-3-po-20-latach-trafia-na-ps5-i-xbox-series-x-s-kultowe-rpg-otrzymalo-nowa-wersje.html",
-      "publishedAt": "2026-11-25T12:45+01:00",
-      "summary": "Po niemal dwudziestu latach od pecetowego debiutu z 2006 roku gra Gothic 3 trafiła na współczesne konsole.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8823c0c59597b042561a/8823c0c59597b042561a.jpg",
-      "articleSlug": "50a538fa1686",
-      "articleBody": "Po niemal dwudziestu latach od pecetowego debiutu z 2006 roku gra Gothic 3 trafiła na współczesne konsole."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Star Wars Galactic Racer Deluxe Edition na PS5 za 189 zł w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-star-wars-galactic-racer-deluxe-edition-na-ps5-za-189-zl-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-25T12:44+01:00",
-      "summary": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie w RTV Euro AGD. Pudełko z grą wyścigową, za której stworzeniem stoją osoby pracujące przy serii Burnout, kosztuje 189 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/star-wars-galactic-racer-deluxe-edition-224x224.jpg",
-      "articleSlug": "8c87d341f394",
-      "articleBody": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie w RTV Euro AGD. Pudełko z grą wyścigową, za której stworzeniem stoją osoby pracujące przy serii Burnout, kosztuje 189 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe The Blood of Dawnwalker Launch Edition na PS5 + Steelbook za 174,11 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-the-blood-of-dawnwalker-launch-edition-na-ps5-steelbook-za-17411-zl-na-allegro/",
-      "publishedAt": "2026-11-25T12:38+01:00",
-      "summary": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 174,11 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Promocja-na-The-Blood-of-Dawnwalker-ps5_miniaturka-224x224.jpg",
-      "articleSlug": "73f4f083ed58",
-      "articleBody": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 174,11 zł! Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Baldur’s Gate 3 na PC za 114,38 zł w Kinguinie",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/baldurs-gate-3-na-pc-za-11438-zl-w-kinguinie/",
-      "publishedAt": "2026-11-25T12:31+01:00",
-      "summary": "Jeśli lubicie RPG na setki godzin, Baldur’s Gate 3 na pewno was nie zawiedzie. W sklepie Kinguin macie możliwość teraz nabyć wielką grę Larian Studios trochę taniej. Pecetowe wydanie w formie gifta na Steam, dorwiecie aktualnie za nieco ponad 114 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Promocja-na-Baldurs-Gate-3_miniaturka-224x224.jpg",
-      "articleSlug": "10509d4c19e2",
-      "articleBody": "Jeśli lubicie RPG na setki godzin, Baldur’s Gate 3 na pewno was nie zawiedzie. W sklepie Kinguin macie możliwość teraz nabyć wielką grę Larian Studios trochę taniej. Pecetowe wydanie w formie gifta na Steam, dorwiecie aktualnie za nieco ponad 114 złotych. Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 i Red Dead Redemption 2 rozgrywają się w tym samym uniwersum? Gracze twierdzą, że to więcej niż zwykłe easter eggi",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-i-red-dead-redemption-2-rozgrywaja-sie-w-tym-samym-uniwersum-gracze-twierdza-ze-to-wiecej-niz-zwykle-easter-eggi/",
-      "publishedAt": "2026-11-25T12:30+01:00",
-      "summary": "I trzeba im chyba przyznać rację (tylko uważajcie na spoilery).",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-Red-Dead-Redemption-2.jpg",
-      "articleSlug": "d31b3c44c2a5",
-      "articleBody": "I trzeba im chyba przyznać rację (tylko uważajcie na spoilery)."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na akumulatorki AA i AAA Amazon Basics z okazji Black Friday 2026 24 sztuki AA już za 79 zł",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-akumulatorki-aa-i-aaa-amazon-basics-z-okazji-black-friday-2026-24-sztuki-aa-juz-za-79-zl/",
-      "publishedAt": "2026-11-25T12:25+01:00",
-      "summary": "Pisaliśmy Wam już o bateriach, a teraz przyszła pora na akumulatorki. W trakcie Black Friday 2026 możecie zaopatrzyć się w kilka różnych typów, nadających się do ponownego ładowania, bateryjek. Oczywiście posegregowaliśmy wszystko według opłacalności. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/amazon-basics-12-aaa-2b-224x224.jpg",
-      "articleSlug": "cb84b98d6990",
-      "articleBody": "Pisaliśmy Wam już o bateriach, a teraz przyszła pora na akumulatorki. W trakcie Black Friday 2026 możecie zaopatrzyć się w kilka różnych typów, nadających się do ponownego ładowania, bateryjek. Oczywiście posegregowaliśmy wszystko według opłacalności. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Nowy polski serial podbija HBO Max. Oparta na faktach historia kryminalna jest już w światowym top 10",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-polski-serial-podbija-hbo-max-oparta-na-faktach-historia-kry/z13246b",
-      "publishedAt": "2026-11-25T12:17+01:00",
-      "summary": "Na HBO Max zadebiutował oparty na prawdziwej historii serial Jana Holoubka z Łukaszem Simlatem. Widowisko zbiera bardzo dobre recenzje i cieszy się zainteresowaniem nie tylko w Polsce.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533300229.jpg",
-      "articleSlug": "6080729927ec",
-      "articleBody": "Na HBO Max zadebiutował oparty na prawdziwej historii serial Jana Holoubka z Łukaszem Simlatem. Widowisko zbiera bardzo dobre recenzje i cieszy się zainteresowaniem nie tylko w Polsce."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Do internetu z dowodem osobistym? Polska przygotowała przepisy obowiązkowej weryfikacji wieku. Internauci obawiają się, że obejmą nawet Steam",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/do-internetu-z-dowodem-osobistym-polska-przygotowala-przepisy-obo/z23246c",
-      "publishedAt": "2026-11-25T12:15+01:00",
-      "summary": "Rząd przygotował projekt ustawy zakładający cyfrową weryfikację wieku użytkowników mediów społecznościowych. Celem przepisów jest ograniczenie osobom nieletnim dostępu do treści nieodpowiednich dla ich wieku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533301107.jpg",
-      "articleSlug": "6bd0fd71891c",
-      "articleBody": "Rząd przygotował projekt ustawy zakładający cyfrową weryfikację wieku użytkowników mediów społecznościowych. Celem przepisów jest ograniczenie osobom nieletnim dostępu do treści nieodpowiednich dla ich wieku."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "System seller Nintendo Switch 2 właśnie stał się jeszcze lepszy",
-      "sourceUrl": "https://www.ppe.pl/news/434522/system-seller-nintendo-switch-2-wlasnie-stal-sie-jeszcze-lepszy.html",
-      "publishedAt": "2026-11-25T12:15+01:00",
-      "summary": "Jedna z najlepszych gier dostępnych na Switch 2, którą nasz recenzent nazwał \"system sellerem\" tej konsoli, właśnie otrzymała dużą aktualizację.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4538e5e6245bcf14ba1b/4538e5e6245bcf14ba1b.jpg",
-      "articleSlug": "d7c66ed31392",
-      "articleBody": "Jedna z najlepszych gier dostępnych na Switch 2, którą nasz recenzent nazwał \"system sellerem\" tej konsoli, właśnie otrzymała dużą aktualizację."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Mandy z GTA 6 nie może poradzić sobie z popularnością. Faceci ją uwielbiają",
-      "sourceUrl": "https://www.ppe.pl/news/434525/mandy-z-gta-6-nie-moze-poradzic-sobie-z-popularnoscia-faceci-ja-uwielbiaja.html",
-      "publishedAt": "2026-11-25T12:09+01:00",
-      "summary": "Grand Theft Auto 6 nie ma jeszcze nawet tygodnia, a internet już zdążył oszaleć na punkcie jednej z pierwszych postaci pobocznych w całej grze.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8feb5fde28f976fe3a11/8feb5fde28f976fe3a11.jpg",
-      "articleSlug": "3a312160a46a",
-      "articleBody": "Grand Theft Auto 6 nie ma jeszcze nawet tygodnia, a internet już zdążył oszaleć na punkcie jednej z pierwszych postaci pobocznych w całej grze."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Znamy nowe okno wydawnicze Lords of the Fallen 2. Dokładna data premiery pojawi się już wkrótce",
-      "sourceUrl": "https://cdaction.pl/newsy/znamy-nowe-okno-wydawnicze-lords-of-the-fallen-2-dokladna-data-premiery-pojawi-sie-juz-wkrotce/",
-      "publishedAt": "2026-11-25T12:00+01:00",
-      "summary": "Czekacie na tego soulslike’a?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-25T101601.956-1260x709.jpg",
-      "articleSlug": "6ffe386e1335",
-      "articleBody": "Czekacie na tego soulslike’a?"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Cyberpunk 2 nabiera tempa, a CD Projekt RED zmienia zasady gry. Koniec z latami ciszy między wielkimi premierami",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/cyberpunk-2-nabiera-tempa-a-cd-projekt-red-zmienia-zasady-gry-kon/z03246a",
-      "publishedAt": "2026-11-25T11:56+01:00",
-      "summary": "Podczas omawiania wyników finansowych grupy CD Projekt RED dowiedzieliśmy się trochę nowego o postępach w pracach nad kontynuacją Cyberpunka 2077.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533300193.jpg",
-      "articleSlug": "a08644a3f893",
-      "articleBody": "Podczas omawiania wyników finansowych grupy CD Projekt RED dowiedzieliśmy się trochę nowego o postępach w pracach nad kontynuacją Cyberpunka 2077."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wszystkie cheat kody do GTA VI. Jak odblokować nielimitowaną gotówkę oraz bronie w Grand Theft Auto",
-      "sourceUrl": "https://lowcygier.pl/aktualnosci/wszystkie-cheat-kody-do-gta-vi-sposob-odblokowania-jak-je-aktywowac-i-co-daja/",
-      "publishedAt": "2026-11-25T11:53+01:00",
-      "summary": "Podobnie jak w poprzednich częściach, w GTA VI nie zabrakło kodów. Najnowsza gra Rockstar oferuje mnóstwo sekretów (na ten moment poznaliśmy ich 61), które pozwolą jeszcze lepiej bawić się w Vice City i okolicach. Nie skorzystacie z nich jednak od razu. Najpierw trzeba ukończyć główny wątek fabularny, a do tego spełnić, niekiedy bardzo wymagające, warunki odblokowania cheatów w GTA VI. Przygotowaliśmy dla Was listę zawierającą wszystkie znane na ten moment oszustwa wraz ze sposobem ich zdobycia i aktywacji. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kody-GTA-VI-logo-224x224.jpg",
-      "articleSlug": "51d177150a1a",
-      "articleBody": "Podobnie jak w poprzednich częściach, w GTA VI nie zabrakło kodów. Najnowsza gra Rockstar oferuje mnóstwo sekretów (na ten moment poznaliśmy ich 61), które pozwolą jeszcze lepiej bawić się w Vice City i okolicach. Nie skorzystacie z nich jednak od razu. Najpierw trzeba ukończyć główny wątek fabularny, a do tego spełnić, niekiedy bardzo wymagające, warunki odblokowania cheatów w GTA VI. Przygotowaliśmy dla Was listę zawierającą wszystkie znane na ten moment oszustwa wraz ze sposobem ich zdobycia i aktywacji. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Zainstalujcie to jak najszybciej. Nowe sterowniki naprawiają problem zużywania dysków SSD",
-      "sourceUrl": "https://www.ppe.pl/news/434526/zainstalujcie-to-jak-najszybciej-nowe-sterowniki-naprawiaja-problem-zuzywania-dyskow-ssd.html",
-      "publishedAt": "2026-11-25T11:50+01:00",
-      "summary": "Kilka dni temu w sieci zrobiło się głośno na temat rzekomo \"niszczenia\" dysków SSD przez sterowniki NVIDIA. Mamy już rozwiązanie tego problemu po pierwszej nieudanej próbie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/92e6d949b00b12c97bbd/92e6d949b00b12c97bbd.webp",
-      "articleSlug": "b869d7e6abd2",
-      "articleBody": "Kilka dni temu w sieci zrobiło się głośno na temat rzekomo \"niszczenia\" dysków SSD przez sterowniki NVIDIA. Mamy już rozwiązanie tego problemu po pierwszej nieudanej próbie."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Na RTX 5090 idzie zbić fortunę. Wielki biznesmen jednak się przeliczył?",
-      "sourceUrl": "https://www.ppe.pl/news/434524/na-rtx-5090-idzie-zbic-fortune-wielki-biznesmen-jednak-sie-przeliczyl.html",
-      "publishedAt": "2026-11-25T11:47+01:00",
-      "summary": "Skalperzy od lat psują krew zwykłym graczom i nic nie wskazuje na to, żeby ta plaga miała szybko zniknąć. Tym razem w sieci zrobiło się głośno o pewnym cwaniaku z Kanady, który potraktował premierę i zamieszanie wokół flagowych kart Nvidi...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/690e97d4caa626e6a00d/690e97d4caa626e6a00d.webp",
-      "articleSlug": "a68075740e47",
-      "articleBody": "Skalperzy od lat psują krew zwykłym graczom i nic nie wskazuje na to, żeby ta plaga miała szybko zniknąć. Tym razem w sieci zrobiło się głośno o pewnym cwaniaku z Kanady, który potraktował premierę i zamieszanie wokół flagowych kart Nvidi..."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
+  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
 }
