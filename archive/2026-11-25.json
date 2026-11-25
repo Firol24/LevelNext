@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T10:01+01:00",
+  "updatedAt": "2026-11-25T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Straszna wizja Google. Telewizja, w której oglądasz siebie",
-    "summary": "Włączasz telewizor, a tam ty. W komedii romantycznej, w kosmicznej przygodzie, w kryminale. Twoja twarz, twój głos, scenariusz napisany przez AI na podstawie tego, co oglądasz. A w środku reklamy. Tak wygląda „Mój kanał” z wniosku patentowego Google.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/straszna-wizja-google-telewizja-w-ktorej-ogladasz-siebie/z432465",
-    "articleSlug": "dad82225ee3f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533295782.jpg"
+    "title": "16. sezon Diablo 4 już 1 grudnia, a lista zmian robi wrażenie. Blizzard spełnił prośby fanów w sprawie zawartości z Diablo 2",
+    "summary": "Blizzard przedstawił zawartość szesnastego sezonu Diablo 4. Deweloperzy postanowili zachować na stałe część atrakcji, które wprowadzono w ramach poprzedniej serii.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/16-sezon-diablo-4-juz-1-grudnia-a-lista-zmian-robi-wrazenie-blizz/z732468",
+    "articleSlug": "60e920836546",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533298146.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "16. sezon Diablo 4 już 1 grudnia, a lista zmian robi wrażenie. Blizzard spełnił prośby fanów w sprawie zawartości z Diablo 2",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/16-sezon-diablo-4-juz-1-grudnia-a-lista-zmian-robi-wrazenie-blizz/z732468",
+      "publishedAt": "2026-11-25T11:23+01:00",
+      "summary": "Blizzard przedstawił zawartość szesnastego sezonu Diablo 4. Deweloperzy postanowili zachować na stałe część atrakcji, które wprowadzono w ramach poprzedniej serii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533298146.jpg",
+      "articleSlug": "60e920836546",
+      "articleBody": "Blizzard przedstawił zawartość szesnastego sezonu Diablo 4. Deweloperzy postanowili zachować na stałe część atrakcji, które wprowadzono w ramach poprzedniej serii."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Inżynier NVIDII zrezygnował z pracy, bo firma pozbyła się Jensena Huanga. Teraz przyznaje, że działał zbyt pochopnie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/inzynier-nvidii-zrezygnowal-z-pracy-bo-firma-pozbyla-sie-jensena/z532466",
+      "publishedAt": "2026-11-25T10:55+01:00",
+      "summary": "Inżynier, który odszedł z NVIDII na znak protestu po rezygnacji Jensena Huanga, dziś nie wyklucza powrotu. Przyznał, że mógł podjąć tę decyzję zbyt pochopnie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533296479.jpg",
+      "articleSlug": "5cc2bac04038",
+      "articleBody": "Inżynier, który odszedł z NVIDII na znak protestu po rezygnacji Jensena Huanga, dziś nie wyklucza powrotu. Przyznał, że mógł podjąć tę decyzję zbyt pochopnie."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PC-towcy umieją świetnie udawać? Ponad połowa z nich olewa GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/434510/pc-towcy-umia-swietnie-udawac-ponad-polowa-z-nich-olewa-gta-6.html",
+      "publishedAt": "2026-11-25T10:48+01:00",
+      "summary": "Pół świata od prawie tygodnia nie odchodzi od telewizorów, a konsole znikają ze sklepów jak świeże bułeczki, tymczasem pecetowcy sprawiają wrażenie, jakby premiera Grand Theft Auto 6 w ogóle ich nie ruszała.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6090263d06f5f3b9241b/6090263d06f5f3b9241b.jpg",
+      "articleSlug": "7351649b6f04",
+      "articleBody": "Pół świata od prawie tygodnia nie odchodzi od telewizorów, a konsole znikają ze sklepów jak świeże bułeczki, tymczasem pecetowcy sprawiają wrażenie, jakby premiera Grand Theft Auto 6 w ogóle ich nie ruszała."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Straszna wizja Google. Telewizja, w której oglądasz siebie",
@@ -45,6 +78,72 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533294958.jpg",
       "articleSlug": "733c0abcc05e",
       "articleBody": "Prime Video podjęło decyzję w sprawie przyszłości jednego ze swoich najgłośniejszych seriali. Platforma poinformowała, że rozpoczęto preprodukcję czwartego sezonu Pierścieni Władzy, a aktorzy wejdą na plan wiosną."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Apple iPad mini 7 gen. A17 Pro 128GB za 1999 zł (750 zł taniej) w MediaMarkt",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/apple-ipad-mini-7-gen-a17-pro-128gb-za-1999-zl-750-zl-taniej-w-mediamarkt/",
+      "publishedAt": "2026-11-25T10:32+01:00",
+      "summary": "W ramach Black Friday 2026, możecie kupić taniej Apple iPad mini 7. generacji w sklepie MediaMarkt. Tablet z ekranem Liquid Retina o przekątnej 8.3″, wsparciem dla rysika Pencil i Pencil Pro oraz wbudowaną pamięcią 128GB, kosztuje 1999 zł. Oferta dotyczy modelu w kolorze gwiezdnej szarości. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/apple-ipad-mini-7-gen-a17-pro-2-224x224.jpg",
+      "articleSlug": "2a9959840fb3",
+      "articleBody": "W ramach Black Friday 2026, możecie kupić taniej Apple iPad mini 7. generacji w sklepie MediaMarkt. Tablet z ekranem Liquid Retina o przekątnej 8.3″, wsparciem dla rysika Pencil i Pencil Pro oraz wbudowaną pamięcią 128GB, kosztuje 1999 zł. Oferta dotyczy modelu w kolorze gwiezdnej szarości. Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "CD Projekt Red szykuje 2 niezapowiedziane projekty. Przeskok między Wiedźminem 3 a 4 ma być porównywalny do GTA 5 i 6",
+      "sourceUrl": "https://cdaction.pl/newsy/cd-projekt-red-szykuje-2-niezapowiedziane-projekty-przeskok-miedzy-wiedzminem-3-a-4-ma-byc-porownywalny-do-gta-5-i-6/",
+      "publishedAt": "2026-11-25T10:30+01:00",
+      "summary": "Polskie studio podchodzi ambitnie do nadchodzącego Wiedźmina 4.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/014_PL_Witcher_IV_CGI_screenshot_.jpeg",
+      "articleSlug": "63df69d42a04",
+      "articleBody": "Polskie studio podchodzi ambitnie do nadchodzącego Wiedźmina 4."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Te gry są nieśmiertelne. RDR 2 i GTA 5 zbliżają się do rekordów pomimo premiery GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/434521/te-gry-sa-niesmiertelne-rdr-2-i-gta-5-zblizaja-sie-do-rekordow-pomimo-premiery-gta-6.html",
+      "publishedAt": "2026-11-25T10:28+01:00",
+      "summary": "GTA 6 bije obecnie rekordy popularności, co nie znaczy jednak, że wszyscy są zadowoleni. Wręcz przeciwnie - produkcja podzieliła społeczność graczy, co znajduje wyraz w niskiej średniej na Metacritic.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/042aee5ca4b354f26c80/042aee5ca4b354f26c80.jpg",
+      "articleSlug": "de87e8e32c24",
+      "articleBody": "GTA 6 bije obecnie rekordy popularności, co nie znaczy jednak, że wszyscy są zadowoleni. Wręcz przeciwnie - produkcja podzieliła społeczność graczy, co znajduje wyraz w niskiej średniej na Metacritic."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "\"Boimy się\". Twórcy GTA 6 z ważnym apelem i konkretną zmianą w Rockstar Games",
+      "sourceUrl": "https://www.ppe.pl/news/434509/boimy-sie-tworcy-gta-6-z-waznym-apelem-i-konkretna-zmiana-w-rockstar-games.html",
+      "publishedAt": "2026-11-25T10:23+01:00",
+      "summary": "Mogłoby się wydawać, że zrobienie największej i najlepiej sprzedającej się gry w historii daje człowiekowi przynajmniej święty spokój o własny etat. Grand Theft Auto 6 zarobiło w sam dzień premiery blisko 3,8 miliarda dolarów i zgarnęło...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/9dda6cf74bf3b375eaf6/9dda6cf74bf3b375eaf6.jpg",
+      "articleSlug": "50297cc7506b",
+      "articleBody": "Mogłoby się wydawać, że zrobienie największej i najlepiej sprzedającej się gry w historii daje człowiekowi przynajmniej święty spokój o własny etat. Grand Theft Auto 6 zarobiło w sam dzień premiery blisko 3,8 miliarda dolarów i zgarnęło..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Oszczędź na zakupach w Amazon PL! Sprawdź obowiązujące rabaty Black Friday przed zakupami",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/oszczedz-na-zakupach-w-amazon-pl-sprawdz-obowiazujace-rabaty-black-friday-przed-zakupami/",
+      "publishedAt": "2026-11-25T10:20+01:00",
+      "summary": "Czarny Piątek już a kilka dni. Polski oddział Amazon wystartował ze swoimi promocjami nieco wcześniej, a dodatkowo nałożyło się kilka akcji, dzięki którym naprawdę sporo możecie zaoszczędzić. Postanowiliśmy dla Was wszystko zebrać w jednym miejscu dla lepszej przejrzystości. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-2026-amazon-miniaurka-224x224.jpg",
+      "articleSlug": "fab53804ccf5",
+      "articleBody": "Czarny Piątek już a kilka dni. Polski oddział Amazon wystartował ze swoimi promocjami nieco wcześniej, a dodatkowo nałożyło się kilka akcji, dzięki którym naprawdę sporo możecie zaoszczędzić. Postanowiliśmy dla Was wszystko zebrać w jednym miejscu dla lepszej przejrzystości. Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Uber Tristram i Diablo Clone zostaną na stałe w Diablo 4. Nowi przeciwnicy, ulepszony endgame, dodatkowe przedmioty i inne szczegóły 16. sezonu",
+      "sourceUrl": "https://cdaction.pl/newsy/uber-tristram-i-diablo-clone-zostana-na-stale-w-diablo-4-nowi-przeciwnicy-ulepszony-endgame-dodatkowe-przedmioty-i-inne-szczegoly-16-sezonu/",
+      "publishedAt": "2026-11-25T10:00+01:00",
+      "summary": "Już 1 grudnia rozpocznie się nowy sezon Diablo 4.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-25-o-09.10.11-1260x662.jpg",
+      "articleSlug": "e9acb640ef06",
+      "articleBody": "Już 1 grudnia rozpocznie się nowy sezon Diablo 4."
     },
     {
       "sourceName": "GRY-Online",
@@ -243,105 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/06/neverwinter-nights-2-enhanced-edition-miniaturka-cyfra-224x224.jpg",
       "articleSlug": "6f0d6d51ceb7",
       "articleBody": "Kultowa gra RPG, pierwotnie wydana w 2006 roku, jest teraz dostępna w promocji w oficjalnej dystrybucji. Sklep WinGameStore oferuje bowiem Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition za niecałe 24 zł w pecetowym wydaniu. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 robi z graczy człowieka, nie simpa. Ostra reakcja twórcy GOTY na toksyczną społeczność",
-      "sourceUrl": "https://www.ppe.pl/news/434505/gta-6-robi-z-graczy-czlowieka-nie-simpa-ostra-reakcja-tworcy-goty-na-toksyczna-spolecznosc.html",
-      "publishedAt": "2026-11-25T08:21+01:00",
-      "summary": "Odkąd Grand Theft Auto 6 trafiło w ręce graczy, w sieci nie brakuje złośliwych głosów czepiających się tego, jak bardzo Jason przejmuje się losem Lucii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/1f96602d5d62e9064aa7/1f96602d5d62e9064aa7.webp",
-      "articleSlug": "b02950806799",
-      "articleBody": "Odkąd Grand Theft Auto 6 trafiło w ręce graczy, w sieci nie brakuje złośliwych głosów czepiających się tego, jak bardzo Jason przejmuje się losem Lucii."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Netflix ma MOCNĄ premierę! 90% widzów poleca wojenne wojenne widowisko",
-      "sourceUrl": "https://www.ppe.pl/news/434442/netflix-ma-mocna-premiere-90-procent-widzow-poleca-wojenne-wojenne-widowisko.html",
-      "publishedAt": "2026-11-25T08:10+01:00",
-      "summary": "Netflix przygotował kolejną interesującą propozycję dla widzów, którzy uwielbiają historie inspirowane prawdziwymi wydarzeniami. Streamingowy gigant zabiera nas w sam środek II wojny światowej, ale zamiast koncentrować się wyłącznie na bru...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d53b8b42f91cc9ec20bb/d53b8b42f91cc9ec20bb.jpg",
-      "articleSlug": "c926c2731560",
-      "articleBody": "Netflix przygotował kolejną interesującą propozycję dla widzów, którzy uwielbiają historie inspirowane prawdziwymi wydarzeniami. Streamingowy gigant zabiera nas w sam środek II wojny światowej, ale zamiast koncentrować się wyłącznie na bru..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Hokus: Królestwo magii (2026) - recenzja filmu [Disney]. Pokus sto, ale czy warto się na nie nabierać?",
-      "sourceUrl": "https://www.ppe.pl/recenzje/434452/hokus-krolestwo-magii-2026-recenzja-filmu-disney-pokus-sto-ale-czy-warto-sie-na-nie-nabierac.html",
-      "publishedAt": "2026-11-25T08:00+01:00",
-      "summary": "Billie Doe od zawsze czuła, że jest inna niż wszyscy. Pewnego dnia przekonuje się jednak, jak bardzo prawdziwe jest to stwierdzenie. Trochę przez przypadek, a trochę za sprawą nastoletniego buntu odkrywa, że jest czarownicą i trafia do innego w...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/37b73e7ea33ee0224f4d/37b73e7ea33ee0224f4d.webp",
-      "articleSlug": "5430d545e113",
-      "articleBody": "Billie Doe od zawsze czuła, że jest inna niż wszyscy. Pewnego dnia przekonuje się jednak, jak bardzo prawdziwe jest to stwierdzenie. Trochę przez przypadek, a trochę za sprawą nastoletniego buntu odkrywa, że jest czarownicą i trafia do innego w..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nie będzie nieoficjalnej wersji GTA 6 na PC. Prawnicy rozpoczęli konkretne działania",
-      "sourceUrl": "https://www.ppe.pl/news/434453/nie-bedzie-nieoficjalnej-wersji-gta-6-na-pc-prawnicy-rozpoczeli-konkretne-dzialania.html",
-      "publishedAt": "2026-11-25T07:50+01:00",
-      "summary": "Take-Two nie zamierza biernie patrzeć na działania graczy związane z nieoficjalnym portem GTA 6. Po rozpoczęciu działań przeciwko grupie odpowiedzialnej za projekt, przyszedł czas na usuwanie postów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/bbd2c313bf2a3bc14a76/bbd2c313bf2a3bc14a76.jpg",
-      "articleSlug": "4d6cad55655a",
-      "articleBody": "Take-Two nie zamierza biernie patrzeć na działania graczy związane z nieoficjalnym portem GTA 6. Po rozpoczęciu działań przeciwko grupie odpowiedzialnej za projekt, przyszedł czas na usuwanie postów."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Fani wciąż krytykują, ale Władcy Pierścieni powróci. Zapowiedziano nową historię",
-      "sourceUrl": "https://www.ppe.pl/news/434435/fani-wciaz-krytykuja-ale-wladcy-pierscieni-powroci-zapowiedziano-nowa-historie.html",
-      "publishedAt": "2026-11-25T07:30+01:00",
-      "summary": "Amazon podjął ważną decyzję dotyczącą przyszłości jednej ze swoich najdroższych produkcji. Choć serial osadzony w uniwersum „Władcy Pierścieni” od początku wzbudza ogromne emocje, a kolejne sezony nie przyciągają już tak wielu widz�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/1611fe88a040cc874850/1611fe88a040cc874850.jpg",
-      "articleSlug": "534d0240e2d8",
-      "articleBody": "Amazon podjął ważną decyzję dotyczącą przyszłości jednej ze swoich najdroższych produkcji. Choć serial osadzony w uniwersum „Władcy Pierścieni” od początku wzbudza ogromne emocje, a kolejne sezony nie przyciągają już tak wielu widz�..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PS5 jednak nie jest „najlepszym miejscem” do gry w GTA 6. Xbox Series X z lepszą jakością rozgrywki",
-      "sourceUrl": "https://www.ppe.pl/news/434431/ps5-jednak-nie-jest-najlepszym-miejscem-do-gry-w-gta-6-xbox-series-x-z-lepsza-jakoscia-rozgrywki.html",
-      "publishedAt": "2026-11-25T07:05+01:00",
-      "summary": "Sony przez wiele miesięcy promowało PlayStation 5 jako najlepsze miejsce do rozpoczęcia przygody w GTA 6, ale najnowsza analiza pokazuje, że rzeczywistość jest nieco bardziej skomplikowana. Digital Foundry przygotowało kompleksowe porównanie wsz...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7455dcc20c563be4f39c/7455dcc20c563be4f39c.png",
-      "articleSlug": "a5bad4713ef0",
-      "articleBody": "Sony przez wiele miesięcy promowało PlayStation 5 jako najlepsze miejsce do rozpoczęcia przygody w GTA 6, ale najnowsza analiza pokazuje, że rzeczywistość jest nieco bardziej skomplikowana. Digital Foundry przygotowało kompleksowe porównanie wsz..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Dziś najważniejsza premiera sci-fi Prime Video w tym tygodniu. Widowisko poszerzające kultowe uniwersum zbiera mieszane recenzje",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-najwazniejsza-premiera-sci-fi-prime-video-w-tym-tygodniu-wid/z532457",
-      "publishedAt": "2026-11-25T06:50+01:00",
-      "summary": "Na Prime Video debiutuje dziś Blade Runner 2099, czyli serialowa odsłona kultowego uniwersum sci-fi z Michelle Yeoh i Hunter Schafer w rolach głównych. Co o widowisku sądzą recenzenci?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533228993.jpg",
-      "articleSlug": "4ab462e537ef",
-      "articleBody": "Na Prime Video debiutuje dziś Blade Runner 2099, czyli serialowa odsłona kultowego uniwersum sci-fi z Michelle Yeoh i Hunter Schafer w rolach głównych. Co o widowisku sądzą recenzenci?"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Cyberpunk 2 zadebiutuje szybciej niż wielu sądzi. Gra notuje „dobry progres”",
-      "sourceUrl": "https://www.ppe.pl/news/434440/cyberpunk-2-zadebiutuje-szybciej-niz-wielu-sadzi-gra-notuje-dobry-progres.html",
-      "publishedAt": "2026-11-25T06:40+01:00",
-      "summary": "CD Projekt RED nie zamierza ponownie kazać graczom czekać niemal dekady na kolejną wielką produkcję. Polskie studio przygotowuje obecnie Wiedźmina 4, ale jednocześnie coraz większe zasoby przeznacza na rozwój Cyberpunka 2.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a04768bba6af026a4ff5/a04768bba6af026a4ff5.webp",
-      "articleSlug": "67c1ed4641e5",
-      "articleBody": "CD Projekt RED nie zamierza ponownie kazać graczom czekać niemal dekady na kolejną wielką produkcję. Polskie studio przygotowuje obecnie Wiedźmina 4, ale jednocześnie coraz większe zasoby przeznacza na rozwój Cyberpunka 2."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "12 dni temu samotny deweloper wydał na Steam swoją pierwszą grę. Dziś świętuje wielki sukces, choć przyznał się do użycia AI",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/12-dni-temu-samotny-deweloper-wydal-na-steam-swoja-pierwsza-gre-d/z43245f",
-      "publishedAt": "2026-11-25T06:30+01:00",
-      "summary": "Niezależny deweloper wykorzystał sztuczną inteligencję w swojej debiutanckiej grze i osiągnął ogromny sukces na Steamie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533249257.jpg",
-      "articleSlug": "da172d102b1e",
-      "articleBody": "Niezależny deweloper wykorzystał sztuczną inteligencję w swojej debiutanckiej grze i osiągnął ogromny sukces na Steamie."
     }
   ],
   "indie": [
