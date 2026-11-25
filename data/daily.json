@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T20:01+01:00",
+  "updatedAt": "2026-11-25T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Gracz GTA 6 ujawnił 22 „sekretne” mechaniki. Rockstar ukrył je tak dobrze, że umknęły nawet osobom, które grają od 50 godzin",
-    "summary": "GTA 6 skrywa mnóstwo nieoczywistych mechanik. Jeden z graczy przygotował zestawienie 22 przydatnych wskazówek, które mogą zaskoczyć nawet osoby mające za sobą kilkadziesiąt godzin rozgrywki.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-gta-6-ujawnil-22-sekretne-mechaniki-rockstar-ukryl-je-tak-d/z332482",
-    "articleSlug": "fbe62630f868",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533331850.jpg"
+    "title": "Twórczyni postaci Lucii z GTA 6 ma dość. Gniew i oskarżenia części graczy zmusiły ją do radykalnego ruchu w social mediach",
+    "summary": "Scenarzystka GTA 6, która odpowiadała za postać Lucii Caminos, usunęła konto w mediach społecznościowych po fali komentarzy wypełnionych wyzwiskami i oskarżeniami.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/tworczyni-postaci-lucii-z-gta-6-ma-dosc-gniew-i-oskarzenia-czesci/z532484",
+    "articleSlug": "fc87c89287cf",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533334097.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórczyni postaci Lucii z GTA 6 ma dość. Gniew i oskarżenia części graczy zmusiły ją do radykalnego ruchu w social mediach",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworczyni-postaci-lucii-z-gta-6-ma-dosc-gniew-i-oskarzenia-czesci/z532484",
+      "publishedAt": "2026-11-25T21:24+01:00",
+      "summary": "Scenarzystka GTA 6, która odpowiadała za postać Lucii Caminos, usunęła konto w mediach społecznościowych po fali komentarzy wypełnionych wyzwiskami i oskarżeniami.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533334097.jpg",
+      "articleSlug": "fc87c89287cf",
+      "articleBody": "Scenarzystka GTA 6, która odpowiadała za postać Lucii Caminos, usunęła konto w mediach społecznościowych po fali komentarzy wypełnionych wyzwiskami i oskarżeniami."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Battlefield 6 cierpi, bo EA DICE zbyt mocno słucha się graczy. Korzysta na tym największy rywal strzelanki, FPS Wardogs",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/battlefield-6-cierpi-bo-ea-dice-zbyt-mocno-slucha-sie-graczy-korz/z432483",
+      "publishedAt": "2026-11-25T21:11+01:00",
+      "summary": "Szef studia Bulkhead twierdzi, że twórcy gry Battlefield 6 za bardzo słuchają się swojej społczeności. Z tego powodu w strzelance Electronic Arts na PC ma bawić się coraz mniej osób.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533333122.jpg",
+      "articleSlug": "a3dc5230983a",
+      "articleBody": "Szef studia Bulkhead twierdzi, że twórcy gry Battlefield 6 za bardzo słuchają się swojej społczeności. Z tego powodu w strzelance Electronic Arts na PC ma bawić się coraz mniej osób."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Władca Pierścieni: Pierścienie Władzy (2026) - recenzja 3 sezonu serialu [Prime Video]. Sauron powrócił",
+      "sourceUrl": "https://www.ppe.pl/recenzje/434557/wladca-pierscieni-pierscienie-wladzy-2026-recenzja-3-sezonu-serialu-prime-video-sauron-powrocil.html",
+      "publishedAt": "2026-11-25T21:00+01:00",
+      "summary": "Amazon utopił w swoim Śródziemiu budżet zdolny utrzymać małą armię, a mimo to przez dwie pierwsze serie serwował widzom głównie kosztowny wygaszacz ekranu i męczące zgadywanki o tożsamości każdego brodacza na horyzoncie. Koniec z tym.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f0d03ff3ec1a6de27797/f0d03ff3ec1a6de27797.jpg",
+      "articleSlug": "62efbd21e7de",
+      "articleBody": "Amazon utopił w swoim Śródziemiu budżet zdolny utrzymać małą armię, a mimo to przez dwie pierwsze serie serwował widzom głównie kosztowny wygaszacz ekranu i męczące zgadywanki o tożsamości każdego brodacza na horyzoncie. Koniec z tym."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Gracz GTA 6 ujawnił 22 „sekretne” mechaniki. Rockstar ukrył je tak dobrze, że umknęły nawet osobom, które grają od 50 godzin",
@@ -25,6 +58,39 @@
       "articleBody": "GTA 6 skrywa mnóstwo nieoczywistych mechanik. Jeden z graczy przygotował zestawienie 22 przydatnych wskazówek, które mogą zaskoczyć nawet osoby mające za sobą kilkadziesiąt godzin rozgrywki."
     },
     {
+      "sourceName": "PPE",
+      "title": "GTA 6 to „feministyczny chłam” pełny propagandy woke? Psycholog tłumaczy, gdzie gracze mają problem",
+      "sourceUrl": "https://www.ppe.pl/news/434586/gta-6-to-feministyczny-chlam-pelny-propagandy-woke-psycholog-tlumaczy-gdzie-gracze-maja-problem.html",
+      "publishedAt": "2026-11-25T20:44+01:00",
+      "summary": "GTA 6 od premiery zbiera znakomite oceny, ale nie wszystkie decyzje Rockstar Games przypadły do gustu wieloletnim fanom serii. Część społeczności zarzuca twórcom, że najnowsza odsłona Grand Theft Auto stała się zbyt poprawna politycznie, a na...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg",
+      "articleSlug": "cdbfbaab176d",
+      "articleBody": "GTA 6 od premiery zbiera znakomite oceny, ale nie wszystkie decyzje Rockstar Games przypadły do gustu wieloletnim fanom serii. Część społeczności zarzuca twórcom, że najnowsza odsłona Grand Theft Auto stała się zbyt poprawna politycznie, a na..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Stwórz coś pięknego z Humble Bundle. Zestaw 7 gier Steam o budowaniu dostępny za 61 zł!",
+      "sourceUrl": "https://lowcygier.pl/bundle/stworz-cos-pieknego-z-humble-bundle-zestaw-7-gier-steam-o-budowaniu-dostepny-za-61-zl/",
+      "publishedAt": "2026-11-25T20:30+01:00",
+      "summary": "Łowcy, po małych perturbacjach zespół Humble Bundle powrócił do sprawdzonej wielokrotnie godziny 20:00 i przygotował coś dla fanów tworzenia i budowania. W ramach zestawu Humble Builders Blueprint Bundle możecie otrzymać maksymalnie 7 gier na Steam oraz dwa dodatki DLC. Całość dostępna jest w trzech progach cenowych, a najdroższy z nich kosztuje nieco ponad 61 zł. Daje nam to dobry przelicznik ok. 8,76 zł za jedną pozycję na PC! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Stworz-cos-pieknego-z-Humble-Bundle.-Zestaw-7-gier-Steam-o-budowaniu-dostepny-za-61-zl_minaturka-224x224.jpg",
+      "articleSlug": "c7db6e62bd8f",
+      "articleBody": "Łowcy, po małych perturbacjach zespół Humble Bundle powrócił do sprawdzonej wielokrotnie godziny 20:00 i przygotował coś dla fanów tworzenia i budowania. W ramach zestawu Humble Builders Blueprint Bundle możecie otrzymać maksymalnie 7 gier na Steam oraz dwa dodatki DLC. Całość dostępna jest w trzech progach cenowych, a najdroższy z nich kosztuje nieco ponad 61 zł. Daje nam to dobry przelicznik ok. 8,76 zł za jedną pozycję na PC! Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To już PEWNE! Disney potwierdził, że Avatar 4 powstanie. Kiedy premiera?",
+      "sourceUrl": "https://www.ppe.pl/news/434584/to-juz-pewne-disney-potwierdzil-ze-avatar-4-powstanie-kiedy-premiera.html",
+      "publishedAt": "2026-11-25T20:24+01:00",
+      "summary": "Disney oficjalnie uwzględnił „Avatara 4” w swoim planie nadchodzących premier kinowych. Informacja pojawiła się podczas prezentacji studia Upfronts w Buenos Aires w Argentynie. Produkcja Jamesa Camerona została wymieniona obok takich projektó...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4d7e2db81862e8680b50/4d7e2db81862e8680b50.jpg",
+      "articleSlug": "f64776a8e6d3",
+      "articleBody": "Disney oficjalnie uwzględnił „Avatara 4” w swoim planie nadchodzących premier kinowych. Informacja pojawiła się podczas prezentacji studia Upfronts w Buenos Aires w Argentynie. Produkcja Jamesa Camerona została wymieniona obok takich projektó..."
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Electronic Arts „wskrzesiło” kultowego komentatora z serii FIFA. Dzięki AI usłyszymy go w EA Sports FC 27",
       "sourceUrl": "https://www.gry-online.pl/newsroom/electronic-arts-wskrzesilo-kultowego-komentatora-z-serii-fifa-dzi/z132480",
@@ -34,6 +100,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533330517.jpg",
       "articleSlug": "3fb6a0689396",
       "articleBody": "Brytyjski komentator powróci z zaświatów, aby ponownie relacjonować mecze w EA Sports FC 27. Deweloper wykorzystał AI do wygenerowania głosu Johna Motsona, który zmarł trzy lata temu."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Electronic Arts wchodzi w nekromancję. W EA Sports FC pojawi się zmarły przed laty komentator",
+      "sourceUrl": "https://cdaction.pl/newsy/electronic-arts-wchodzi-w-nekromancje-w-ea-sports-fc-pojawi-sie-zmarly-przed-laty-komentator/",
+      "publishedAt": "2026-11-25T20:15+01:00",
+      "summary": "Sztuka wskrzeszania.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/ea-sports-fc-27-8933.jpg",
+      "articleSlug": "6477b98d093c",
+      "articleBody": "Sztuka wskrzeszania."
     },
     {
       "sourceName": "GRY-Online",
@@ -265,83 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533319292.jpg",
       "articleSlug": "d2bd74310e39",
       "articleBody": "Współpraca CD Projekt Red i Sony mogła wzbudzić niepokój wśród części graczy. Michał Nowakowski rozwiał jednak wątpliwości dotyczące ekskluzywności Wiedźmina 4 i pozostałych nadchodzących gier polskiego studia."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Google Chrome obciąża komputer i zajmuje pamięć RAM. Nawet po jej zamknięciu",
-      "sourceUrl": "https://www.ppe.pl/news/434551/google-chrome-obciaza-komputer-i-zajmuje-pamiec-ram-nawet-po-jej-zamknieciu.html",
-      "publishedAt": "2026-11-25T17:16+01:00",
-      "summary": "Google Chrome może nadal zajmować pamięć RAM nawet po zamknięciu przeglądarki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/03fecc6a4122ec05872f/03fecc6a4122ec05872f.webp",
-      "articleSlug": "9767480f902d",
-      "articleBody": "Google Chrome może nadal zajmować pamięć RAM nawet po zamknięciu przeglądarki."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Legendarny twórca chce przygotować „szaloną” odsłonę Castlevanii. Czeka na kontakt od Konami",
-      "sourceUrl": "https://www.ppe.pl/news/434540/legendarny-tworca-chce-przygotowac-szalona-odslone-castlevanii-czeka-na-kontakt-od-konami.html",
-      "publishedAt": "2026-11-25T17:01+01:00",
-      "summary": "Hideki Kamiya, twórca znany z takich gier jak Resident Evil 2, Devil May Cry, Okami i Bayonetta, wyraził zainteresowanie stworzeniem nowej odsłony serii Castlevania. Japoński projektant uważa, że jego zespół mógłby przygotować coś naprawdę ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/11ca89e23a66e84ded9c/11ca89e23a66e84ded9c.jpg",
-      "articleSlug": "6bfb97f30cf7",
-      "articleBody": "Hideki Kamiya, twórca znany z takich gier jak Resident Evil 2, Devil May Cry, Okami i Bayonetta, wyraził zainteresowanie stworzeniem nowej odsłony serii Castlevania. Japoński projektant uważa, że jego zespół mógłby przygotować coś naprawdę ..."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Święta gra Polaków za mniej niż dychę. Kupisz ją na GOG-u taniej niż paczkę chipsów",
-      "sourceUrl": "https://cdaction.pl/newsy/swieta-gra-polakow-za-mniej-niz-dyche-kupisz-ja-na-gog-u-taniej-niz-paczke-chipsow/",
-      "publishedAt": "2026-11-25T16:46+01:00",
-      "summary": "Heroes of Might & Magic 3 to jedna z najbardziej kultowych strategii w historii i prawdziwy klasyk w Polsce. Teraz można ją kupić na GOG-u za zaledwie 9,85 zł. To aż 75 proc. taniej od ceny regularnej, a zbliżająca się premiera remake'u sprawia, że warto żeby nadrobić tę legendarna pozycję.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/077e2d394794adcb0c084d5d24d4-1260x583.jpg",
-      "articleSlug": "1ac2b3062499",
-      "articleBody": "Heroes of Might & Magic 3 to jedna z najbardziej kultowych strategii w historii i prawdziwy klasyk w Polsce. Teraz można ją kupić na GOG-u za zaledwie 9,85 zł. To aż 75 proc. taniej od ceny regularnej, a zbliżająca się premiera remake'u sprawia, że warto żeby nadrobić tę legendarna pozycję."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 ocenzurowane w kilku krajach. Powód jest dość zaskakujący",
-      "sourceUrl": "https://www.ppe.pl/news/434550/gta-6-ocenzurowane-w-kilku-krajach-powod-jest-dosc-zaskakujacy.html",
-      "publishedAt": "2026-11-25T16:45+01:00",
-      "summary": "Australijska wersja GTA 6 zawiera nietypową zmianę, której nie znajdziemy w międzynarodowym wydaniu gry.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8415225a1ac45a5fd275/8415225a1ac45a5fd275.jpg",
-      "articleSlug": "b4781a859f40",
-      "articleBody": "Australijska wersja GTA 6 zawiera nietypową zmianę, której nie znajdziemy w międzynarodowym wydaniu gry."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Black Friday 2026 w GOG. Nowe hity i retro perełki z rabatami do -95%!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-2026-w-gog-nowe-hity-i-retro-perelki-z-rabatami-do-95/",
-      "publishedAt": "2026-11-25T16:31+01:00",
-      "summary": "Wystartowała tegoroczna odsłona wyprzedaży Black Friday w GOG.com. Sklep chwali się ponad 8 tysiącami promocji na gry PC, które są DRM-Free, więc każdy powinien znaleźć tutaj coś dobrego. My postanowiliśmy przygotować dla Was wpis z najlepszymi ofertami. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-gog-MINIATURKA-224x224.jpg",
-      "articleSlug": "e6e1d3847483",
-      "articleBody": "Wystartowała tegoroczna odsłona wyprzedaży Black Friday w GOG.com. Sklep chwali się ponad 8 tysiącami promocji na gry PC, które są DRM-Free, więc każdy powinien znaleźć tutaj coś dobrego. My postanowiliśmy przygotować dla Was wpis z najlepszymi ofertami. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Sprawdziłem GTA 6 na PS5 i PS5 Pro. Droższa konsola oferuje lepszą grafikę, ale zdecydowanie odradzam przesiadkę",
-      "sourceUrl": "https://www.gry-online.pl/opinie/chcesz-wydac-kilka-tysiecy-zlotych-by-gta-6-wygladalo-lepiej-spra/z749df",
-      "publishedAt": "2026-11-25T16:30+01:00",
-      "summary": "GTA 6 zachwyca grafiką już na podstawowym PS5, ale wersja na PS5 Pro potrafi dorzucić kilka wizualnych usprawnień. Czy różnice są warte dopłaty do mocniejszej konsoli? Sprawdziłem obie wersje i wiem, w co lepiej zainwestować.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533316196.jpg",
-      "articleSlug": "7b780d789f46",
-      "articleBody": "GTA 6 zachwyca grafiką już na podstawowym PS5, ale wersja na PS5 Pro potrafi dorzucić kilka wizualnych usprawnień. Czy różnice są warte dopłaty do mocniejszej konsoli? Sprawdziłem obie wersje i wiem, w co lepiej zainwestować."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Ponad 560 mln odsłon w 24 godziny. Nowy zwiastun jednego z najbardziej oczekiwanych filmów roku bije rekordy Disneya",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-560-mln-odslon-w-24-godziny-nowy-zwiastun-jednego-z-najbard/z732477",
-      "publishedAt": "2026-11-25T16:18+01:00",
-      "summary": "Finałowy zwiastun Avengers: Doomsday zebrał ponad 560 mln wyświetleń w ciągu pierwszej doby. Tym samym zapowiedź grudniowego widowiska Marvela została drugim najchętniej oglądanym trailerem w historii oraz rekordzistą Disneya.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533311043.jpg",
-      "articleSlug": "3c22fa66451e",
-      "articleBody": "Finałowy zwiastun Avengers: Doomsday zebrał ponad 560 mln wyświetleń w ciągu pierwszej doby. Tym samym zapowiedź grudniowego widowiska Marvela została drugim najchętniej oglądanym trailerem w historii oraz rekordzistą Disneya."
     }
   ],
   "indie": [
