@@ -1,18 +1,106 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T19:01+01:00",
+  "updatedAt": "2026-11-25T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "PS Plus na grudzień 2026: Sony ujawniło 3 gry. Trudno wybrać najlepszą i najgorszą",
-    "summary": "Sony tak skomponowało ofertę PS Plusa na grudzień 2026 roku, że trudno wskazać najlepszą grę. Duża jest również różnorodność tytułów.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/ps-plus-na-grudzien-2026-sony-ujawnilo-3-gry-trudno-wybrac-najlep/z53247e",
-    "articleSlug": "c6b49861000f",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533326513.jpg"
+    "title": "Gracz GTA 6 ujawnił 22 „sekretne” mechaniki. Rockstar ukrył je tak dobrze, że umknęły nawet osobom, które grają od 50 godzin",
+    "summary": "GTA 6 skrywa mnóstwo nieoczywistych mechanik. Jeden z graczy przygotował zestawienie 22 przydatnych wskazówek, które mogą zaskoczyć nawet osoby mające za sobą kilkadziesiąt godzin rozgrywki.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-gta-6-ujawnil-22-sekretne-mechaniki-rockstar-ukryl-je-tak-d/z332482",
+    "articleSlug": "fbe62630f868",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533331850.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracz GTA 6 ujawnił 22 „sekretne” mechaniki. Rockstar ukrył je tak dobrze, że umknęły nawet osobom, które grają od 50 godzin",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-gta-6-ujawnil-22-sekretne-mechaniki-rockstar-ukryl-je-tak-d/z332482",
+      "publishedAt": "2026-11-25T20:50+01:00",
+      "summary": "GTA 6 skrywa mnóstwo nieoczywistych mechanik. Jeden z graczy przygotował zestawienie 22 przydatnych wskazówek, które mogą zaskoczyć nawet osoby mające za sobą kilkadziesiąt godzin rozgrywki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533331850.jpg",
+      "articleSlug": "fbe62630f868",
+      "articleBody": "GTA 6 skrywa mnóstwo nieoczywistych mechanik. Jeden z graczy przygotował zestawienie 22 przydatnych wskazówek, które mogą zaskoczyć nawet osoby mające za sobą kilkadziesiąt godzin rozgrywki."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Electronic Arts „wskrzesiło” kultowego komentatora z serii FIFA. Dzięki AI usłyszymy go w EA Sports FC 27",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/electronic-arts-wskrzesilo-kultowego-komentatora-z-serii-fifa-dzi/z132480",
+      "publishedAt": "2026-11-25T20:23+01:00",
+      "summary": "Brytyjski komentator powróci z zaświatów, aby ponownie relacjonować mecze w EA Sports FC 27. Deweloper wykorzystał AI do wygenerowania głosu Johna Motsona, który zmarł trzy lata temu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533330517.jpg",
+      "articleSlug": "3fb6a0689396",
+      "articleBody": "Brytyjski komentator powróci z zaświatów, aby ponownie relacjonować mecze w EA Sports FC 27. Deweloper wykorzystał AI do wygenerowania głosu Johna Motsona, który zmarł trzy lata temu."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Rockstar miał bardzo źle potraktować tłumaczy GTA 6. To zaniedbanie, na które twórcy gier pozwalają sobie zbyt często",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/rockstar-mial-bardzo-zle-potraktowac-tlumaczy-gta-6-to-zaniedbani/z63247f",
+      "publishedAt": "2026-11-25T20:08+01:00",
+      "summary": "Wokół GTA 6 pojawiły się kontrowersje związane z traktowaniem tłumaczy. Niektórzy z nich mieli zostać pozbawieni możliwości publicznego pochwalenia się swoim wkładem w powstanie gry.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533329605.jpg",
+      "articleSlug": "1a47d162330c",
+      "articleBody": "Wokół GTA 6 pojawiły się kontrowersje związane z traktowaniem tłumaczy. Niektórzy z nich mieli zostać pozbawieni możliwości publicznego pochwalenia się swoim wkładem w powstanie gry."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Hollow Knight: Silksong – Sea of Sorrow otrzyma sporo nowości. Prezentacja za pasem!",
+      "sourceUrl": "https://www.ppe.pl/news/434562/hollow-knight-silksong-sea-of-sorrow-otrzyma-sporo-nowosci-prezentacja-za-pasem.html",
+      "publishedAt": "2026-11-25T20:01+01:00",
+      "summary": "Team Cherry zapowiedziało kolejną prezentację zatytułowaną „Cherry Time”. Transmisja odbędzie się w piątek, 27 listopada, i przyniesie kilka interesujących ogłoszeń. Wśród nich znajdzie się również nowa informacja dotycząca dodatku ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/3c1321a364e3cef3a73a/3c1321a364e3cef3a73a.jpg",
+      "articleSlug": "bb3e16ec2236",
+      "articleBody": "Team Cherry zapowiedziało kolejną prezentację zatytułowaną „Cherry Time”. Transmisja odbędzie się w piątek, 27 listopada, i przyniesie kilka interesujących ogłoszeń. Wśród nich znajdzie się również nowa informacja dotycząca dodatku ..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Cronos od Bloober Team otrzyma nie tylko fabularne DLC. Prezes zapowiedział nowe wydanie",
+      "sourceUrl": "https://www.ppe.pl/news/434569/cronos-od-bloober-team-otrzyma-nie-tylko-fabularne-dlc-prezes-zapowiedzial-nowe-wydanie.html",
+      "publishedAt": "2026-11-25T19:46+01:00",
+      "summary": "Cronos to nowe IP rozwijane przez Bloober Team, z którym krakowski zespół wiąże spore plany. Okazuje się, że już wkrótce światło dzienne ujrzy nie tylko długo wyczekiwany dodatek fabularny.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0d04615fa37bcfd8efe4/0d04615fa37bcfd8efe4.jpg",
+      "articleSlug": "0ef1102c1577",
+      "articleBody": "Cronos to nowe IP rozwijane przez Bloober Team, z którym krakowski zespół wiąże spore plany. Okazuje się, że już wkrótce światło dzienne ujrzy nie tylko długo wyczekiwany dodatek fabularny."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola Nintendo Switch 2 z wymienną baterią za 2029 zł (możliwe 1929 zł) na Allegro",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-z-wymienna-bateria-za-2029-zl-mozliwe-1929-zl-na-allegro/",
+      "publishedAt": "2026-11-25T19:45+01:00",
+      "summary": "Łowcy, bezpośrednio na Allegro pojawiła się świetna promocja na odświeżone wydanie Nintendo Switch 2. Najnowszy model konsoli od giganta z Kioto, w którym bez żadnych większych problemów wymienicie baterię, dostępny jest za 2029 zł w ramach limitowanej oferty Black Weeks. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Konsola-Nintendo-Switch-2-z-wymienna-bateria-za-2029-zl-mozliwe-1929-zl-na-Allegro_miniaturka-224x224.jpg",
+      "articleSlug": "20d77b035b55",
+      "articleBody": "Łowcy, bezpośrednio na Allegro pojawiła się świetna promocja na odświeżone wydanie Nintendo Switch 2. Najnowszy model konsoli od giganta z Kioto, w którym bez żadnych większych problemów wymienicie baterię, dostępny jest za 2029 zł w ramach limitowanej oferty Black Weeks. Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Dinozaury wymierają po raz drugi. Capcom spuszcza meteoryt na serwery własnej gry",
+      "sourceUrl": "https://cdaction.pl/newsy/dinozaury-wymieraja-po-raz-drugi-capcom-spuszcza-meteoryt-na-serwery-wlasnej-gry/",
+      "publishedAt": "2026-11-25T19:30+01:00",
+      "summary": "Żegnajcie, dinusie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/exoprimal-1260x709.jpg",
+      "articleSlug": "aafa2acceb29",
+      "articleBody": "Żegnajcie, dinusie."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gwiazda po latach wyjaśniła, dlaczego odeszła z Doktora Who. Nieoczekiwany powód!",
+      "sourceUrl": "https://www.ppe.pl/news/434563/gwiazda-po-latach-wyjasnila-dlaczego-odeszla-z-doktora-who-nioczekiwany-powod.html",
+      "publishedAt": "2026-11-25T19:29+01:00",
+      "summary": "Billie Piper po raz pierwszy tak otwarcie opowiedziała o powodach swojego odejścia z „Doktora Who”. Aktorka, która wcielała się w Rose Tyler, przyznała, że chciała opuścić serial już po pierwszym sezonie. Ostatecznie pozostała w produkcj...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/1848169010f2c5684247/1848169010f2c5684247.jpg",
+      "articleSlug": "16cca2606278",
+      "articleBody": "Billie Piper po raz pierwszy tak otwarcie opowiedziała o powodach swojego odejścia z „Doktora Who”. Aktorka, która wcielała się w Rose Tyler, przyznała, że chciała opuścić serial już po pierwszym sezonie. Ostatecznie pozostała w produkcj..."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "PS Plus na grudzień 2026: Sony ujawniło 3 gry. Trudno wybrać najlepszą i najgorszą",
@@ -25,6 +113,17 @@
       "articleBody": "Sony tak skomponowało ofertę PS Plusa na grudzień 2026 roku, że trudno wskazać najlepszą grę. Duża jest również różnorodność tytułów."
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday 2026 w WinGameStore. Wybrane gry Steam nawet do 96% taniej!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-2026-w-wingamestore-wybrane-gry-steam-nawet-do-96-taniej/",
+      "publishedAt": "2026-11-25T19:08+01:00",
+      "summary": "Łowcy, do promocyjnego szaleństwa związanego z Czarnym Piątkiem dołączył cyfrowy sklep WinGameStore. W ramach wyprzedaży Black Friday 2026 Sale wybrane gry na PC dostępne są w cenach niższych o rekordowe 96%. Na szczególne wyróżnienie zasługują takie pozycje jak Legacy of Kain: Defiance Remastered, Neverwinter Nights 2: Enhanced Edition oraz The Lord of the Rings: War in the North – Legacy Edition w historycznie niskich cenach. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-2026-w-WinGameStore.-Wybrane-gry-Steam-nawet-do-96-taniej_miniaturka-224x224.jpg",
+      "articleSlug": "dcb51b974da6",
+      "articleBody": "Łowcy, do promocyjnego szaleństwa związanego z Czarnym Piątkiem dołączył cyfrowy sklep WinGameStore. W ramach wyprzedaży Black Friday 2026 Sale wybrane gry na PC dostępne są w cenach niższych o rekordowe 96%. Na szczególne wyróżnienie zasługują takie pozycje jak Legacy of Kain: Defiance Remastered, Neverwinter Nights 2: Enhanced Edition oraz The Lord of the Rings: War in the North – Legacy Edition w historycznie niskich cenach. Czytaj więcej »"
+    },
+    {
       "sourceName": "PPE",
       "title": "Gry na PS5 i Nintendo Switch oraz nowe gadżety w Action - przegląd okazji od 34,98 zł!",
       "sourceUrl": "https://www.ppe.pl/news/434554/gry-na-ps5-i-nintendo-switch-oraz-nowe-gadzety-w-action-przeglad-okazji-od-34-98-zl.html",
@@ -34,6 +133,17 @@
       "imageUrl": "https://pliki.ppe.pl/storage/36062732b1e23df2271d/36062732b1e23df2271d.jpg",
       "articleSlug": "d0ad31ca410a",
       "articleBody": "Sieć sklepów Action ponownie przygotowała zestaw ciekawych propozycji na działach z elektroniką i gamingiem."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "PS Plus Essential w grudniu: Jastrząb na deskorolce i zbyt straszny bunkier",
+      "sourceUrl": "https://cdaction.pl/newsy/ps-plus-essential-w-grudniu-jastrzab-na-deskorolce-i-zbyt-straszny-bunkier/",
+      "publishedAt": "2026-11-25T19:00+01:00",
+      "summary": "Sony ujawniło ostatnią w tym roku zawartość pakietu PS Plus Essential.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/tony-hawks-pro-skater-34-7856.jpg",
+      "articleSlug": "bf57af425629",
+      "articleBody": "Sony ujawniło ostatnią w tym roku zawartość pakietu PS Plus Essential."
     },
     {
       "sourceName": "GRY-Online",
@@ -232,116 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533311043.jpg",
       "articleSlug": "3c22fa66451e",
       "articleBody": "Finałowy zwiastun Avengers: Doomsday zebrał ponad 560 mln wyświetleń w ciągu pierwszej doby. Tym samym zapowiedź grudniowego widowiska Marvela została drugim najchętniej oglądanym trailerem w historii oraz rekordzistą Disneya."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Ładowarka Xiaomi 67W HyperCharge 3A + kabel USB za 54,99 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-xiaomi-67w-hypercharge-3a-kabel-usb-za-5499-zl-na-allegro/",
-      "publishedAt": "2026-11-25T16:06+01:00",
-      "summary": "Zaprojektowana z myślą o smartfonach serii Mi, Redmi i POCO ładowarka Xiaomi HyperCharge, możliwa jest do kupienia taniej poprzez serwis Allegro. Model z dedykowanym kablem USB w zestawie, wspierający moc ładowania do 67W, kosztuje 54,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/xiaomi-hypercharge-67W-2b-224x224.jpg",
-      "articleSlug": "f3c4ffa6c0e4",
-      "articleBody": "Zaprojektowana z myślą o smartfonach serii Mi, Redmi i POCO ładowarka Xiaomi HyperCharge, możliwa jest do kupienia taniej poprzez serwis Allegro. Model z dedykowanym kablem USB w zestawie, wspierający moc ładowania do 67W, kosztuje 54,99 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Konsola Nintendo Switch 2 z wymienną baterią za 2139 zł (210 zł taniej) w x-kom",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-z-wymienna-bateria-za-2139-zl-210-zl-taniej-w-x-kom/",
-      "publishedAt": "2026-11-25T16:03+01:00",
-      "summary": "Odświeżony model Nintendo Switch 2, w którym macie bezproblemowy dostęp do baterii celem jej wymiany w razie potrzeby, jest możliwy do kupienia w x-komie nieco taniej. Za najnowszy model konsoli giganta z Kioto, zapłacicie teraz 2139 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocje-na-Nintendo-Switch-2-w-x-kom.-Konsola-bez-dodatkow-dostepna-za-jedyne-1799-zl_miniaturka-224x224.jpg",
-      "articleSlug": "744dc034c83a",
-      "articleBody": "Odświeżony model Nintendo Switch 2, w którym macie bezproblemowy dostęp do baterii celem jej wymiany w razie potrzeby, jest możliwy do kupienia w x-komie nieco taniej. Za najnowszy model konsoli giganta z Kioto, zapłacicie teraz 2139 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Dead or Alive świętuje 30-lecie! Twórcy rozdają dodatki do „szóstki” i pokazują nową Kasumi",
-      "sourceUrl": "https://www.ppe.pl/news/434548/dead-or-alive-swietuje-30-lecie-tworcy-rozdaja-dodatki-do-szostki-i-pokazuja-nowa-kasumi.html",
-      "publishedAt": "2026-11-25T15:46+01:00",
-      "summary": "Koei Tecmo i Team Ninja świętują 30. rocznicę serii Dead or Alive. Z tej okazji przygotowano specjalny zwiastun, darmową aktualizację do Dead or Alive 6 Last Round oraz szereg promocji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/246a63ce0ca36a01862c/246a63ce0ca36a01862c.jpg",
-      "articleSlug": "7c5d7cd01c05",
-      "articleBody": "Koei Tecmo i Team Ninja świętują 30. rocznicę serii Dead or Alive. Z tej okazji przygotowano specjalny zwiastun, darmową aktualizację do Dead or Alive 6 Last Round oraz szereg promocji."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Usprawnianie Steama trwa! Valve tym razem wprowadza zmiany w Rynku społeczności",
-      "sourceUrl": "https://cdaction.pl/newsy/usprawnianie-steama-trwa-valve-tym-razem-wprowadza-zmiany-w-rynku-spolecznosci/",
-      "publishedAt": "2026-11-25T15:45+01:00",
-      "summary": "Steam pięknieje nam z każdym kolejnym dniem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Steam.jpg",
-      "articleSlug": "4607274baec4",
-      "articleBody": "Steam pięknieje nam z każdym kolejnym dniem."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Najbardziej realistyczna walka w historii strzelanek? Twórcy taktycznego FPS-a Gray Zone Warfare zapowiadają przełomowe zmiany",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/najbardziej-realistyczna-walka-w-historii-strzelanek-tworcy-takty/z932479",
-      "publishedAt": "2026-11-25T15:40+01:00",
-      "summary": "Do sieci trafił materiał wideo poświęcony wyczekiwanej aktualizacji Breakthrough do gry Gray Zone Warfare.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533313621.jpg",
-      "articleSlug": "f65dec45ad28",
-      "articleBody": "Do sieci trafił materiał wideo poświęcony wyczekiwanej aktualizacji Breakthrough do gry Gray Zone Warfare."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na Perplexus w Amazon PL. Gry zręcznościowe dostępne już od 46,59 zł",
-      "sourceUrl": "https://lowcygier.pl/gry-planszowe/promocje-na-perplexus-w-amazon-pl-gry-zrecznosciowe-dostepne-juz-od-4659-zl/",
-      "publishedAt": "2026-11-25T15:37+01:00",
-      "summary": "Trójwymiarowy labirynt zamknięty w przezroczystej sferze opracowany przez Spin Master, czyli Perplexus, pojawił się w polskim oddziale sklepu Amazon w niższej cenie. Przeceniono kilka wariantów, a Epic, który będzie stanowił prawdziwe wyzwanie dzięki 125 przeszkodom, które będziecie musieli pokonać, kosztuje teraz 76,21 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/perplexus-epic-3b-224x224.jpg",
-      "articleSlug": "3da30c411044",
-      "articleBody": "Trójwymiarowy labirynt zamknięty w przezroczystej sferze opracowany przez Spin Master, czyli Perplexus, pojawił się w polskim oddziale sklepu Amazon w niższej cenie. Przeceniono kilka wariantów, a Epic, który będzie stanowił prawdziwe wyzwanie dzięki 125 przeszkodom, które będziecie musieli pokonać, kosztuje teraz 76,21 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Abby winna kontrowersji wokół The Last of Us 2? Gracze nie znali całej historii",
-      "sourceUrl": "https://www.ppe.pl/news/434544/abby-winna-kontrowersji-wokol-the-last-of-us-2-gracze-nie-znali-calej-historii.html",
-      "publishedAt": "2026-11-25T15:31+01:00",
-      "summary": "Laura Bailey, aktorka wcielająca się w Abby w The Last of Us Part 2, uważa, że przedpremierowe wycieki miały ogromny wpływ na falę krytyki, która spadła na nią po ujawnieniu fabuły gry.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4527895a1f7e4b8c7309/4527895a1f7e4b8c7309.jpg",
-      "articleSlug": "e104acba1299",
-      "articleBody": "Laura Bailey, aktorka wcielająca się w Abby w The Last of Us Part 2, uważa, że przedpremierowe wycieki miały ogromny wpływ na falę krytyki, która spadła na nią po ujawnieniu fabuły gry."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Brązowy pas o długości 8 850 km przecina Atlantyk - znacznie się rozszerza i łączy obecnie Karaiby z Afryką Zachodnią",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/brazowy-pas-o-dlugosci-8-850-km-przecina-atlantyk-znacznie-sie-ro/z832478",
-      "publishedAt": "2026-11-25T15:25+01:00",
-      "summary": "Od Zatoki Meksykańskiej i Karaibów po zachodnie wybrzeże Afryki ciągnie się pas gronorostów. Na otwartym oceanie glony zapewniają zwierzętom schronienie, ale u wybrzeży stają się zagrożeniem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533312542.jpg",
-      "articleSlug": "2829092c3482",
-      "articleBody": "Od Zatoki Meksykańskiej i Karaibów po zachodnie wybrzeże Afryki ciągnie się pas gronorostów. Na otwartym oceanie glony zapewniają zwierzętom schronienie, ale u wybrzeży stają się zagrożeniem."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Persona 5 Tactica na XOne / XSX za jedyne 19,99 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-persona-5-tactica-na-xone-xsx-za-jedyne-1999-zl-na-allegro/",
-      "publishedAt": "2026-11-25T15:24+01:00",
-      "summary": "W ramach trwających Allegro Black Weeks, kupicie teraz taniej Persona 5 Tactica. Spin-off jRPG studia Atlus, w którym ponownie wcielimy się w Widmowych Złodziei, może być wasz za 19,99 zł, w wersji na konsole Xbox One i Xbox Series X. Starcia w tym tytule są bardziej nastawione na taktykę i dzieją się na siatce, po której się poruszamy. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/Persona-5-Tactica-xbox-miniatura-224x224.jpg",
-      "articleSlug": "aff0ae181c77",
-      "articleBody": "W ramach trwających Allegro Black Weeks, kupicie teraz taniej Persona 5 Tactica. Spin-off jRPG studia Atlus, w którym ponownie wcielimy się w Widmowych Złodziei, może być wasz za 19,99 zł, w wersji na konsole Xbox One i Xbox Series X. Starcia w tym tytule są bardziej nastawione na taktykę i dzieją się na siatce, po której się poruszamy. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Skyrim trafił na PS Vita. Nie uwierzysz jak dobrze to działa na przenośnej konsoli Sony",
-      "sourceUrl": "https://www.ppe.pl/news/434538/skyrim-trafil-na-ps-vita-nie-uwierzysz-jak-dobrze-to-dziala-na-przenosnej-konsoli-sony.html",
-      "publishedAt": "2026-11-25T15:15+01:00",
-      "summary": "Jeden z moderów przygotował nieoficjalny port The Elder Scrolls V: Skyrim na PlayStation Vita.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7cfe8f2015763d6512bf/7cfe8f2015763d6512bf.webp",
-      "articleSlug": "8c43ec6cabb2",
-      "articleBody": "Jeden z moderów przygotował nieoficjalny port The Elder Scrolls V: Skyrim na PlayStation Vita."
     }
   ],
   "indie": [
