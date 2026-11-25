@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T18:46+01:00",
+  "updatedAt": "2026-11-25T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -23,6 +23,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533326513.jpg",
       "articleSlug": "c6b49861000f",
       "articleBody": "Sony tak skomponowało ofertę PS Plusa na grudzień 2026 roku, że trudno wskazać najlepszą grę. Duża jest również różnorodność tytułów."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gry na PS5 i Nintendo Switch oraz nowe gadżety w Action - przegląd okazji od 34,98 zł!",
+      "sourceUrl": "https://www.ppe.pl/news/434554/gry-na-ps5-i-nintendo-switch-oraz-nowe-gadzety-w-action-przeglad-okazji-od-34-98-zl.html",
+      "publishedAt": "2026-11-25T19:00+01:00",
+      "summary": "Sieć sklepów Action ponownie przygotowała zestaw ciekawych propozycji na działach z elektroniką i gamingiem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/36062732b1e23df2271d/36062732b1e23df2271d.jpg",
+      "articleSlug": "d0ad31ca410a",
+      "articleBody": "Sieć sklepów Action ponownie przygotowała zestaw ciekawych propozycji na działach z elektroniką i gamingiem."
     },
     {
       "sourceName": "GRY-Online",
@@ -331,17 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/7cfe8f2015763d6512bf/7cfe8f2015763d6512bf.webp",
       "articleSlug": "8c43ec6cabb2",
       "articleBody": "Jeden z moderów przygotował nieoficjalny port The Elder Scrolls V: Skyrim na PlayStation Vita."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Zestaw do czyszczenia elektroniki (20 elementów) za jedyne 23 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-do-czyszczenia-elektroniki-20-elementow-za-jedyne-23-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-25T15:09+01:00",
-      "summary": "Jeśli szukacie poręcznego i praktycznego akcesorium, które zawiera 20 narzędzi ułatwiających czyszczenie sprzętów elektronicznych, możecie sięgnąć po ofertę polskiego oddziału sklepu Amazon. W cenie 23,16 zł możecie bowiem nabyć przybornik firmy Vicloon, w którym znajdziecie szczoteczki, pędzelki i wszystko, co wam może pomóc w zachowaniu czystości waszych urządzeń. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/vicloon-narzedzia-do-czyszczenia-elektroniki-3b-224x224.jpg",
-      "articleSlug": "86c53b5ee181",
-      "articleBody": "Jeśli szukacie poręcznego i praktycznego akcesorium, które zawiera 20 narzędzi ułatwiających czyszczenie sprzętów elektronicznych, możecie sięgnąć po ofertę polskiego oddziału sklepu Amazon. W cenie 23,16 zł możecie bowiem nabyć przybornik firmy Vicloon, w którym znajdziecie szczoteczki, pędzelki i wszystko, co wam może pomóc w zachowaniu czystości waszych urządzeń. Czytaj więcej »"
     }
   ],
   "indie": [
