@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T09:01+01:00",
+  "updatedAt": "2026-11-25T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Koniec z gadaniem, pokażcie wreszcie grę! Twórca Path of Exile 2 ostro o transmisjach Blizzarda i stylu Steve'a Jobsa",
-    "summary": "Twórca Path of Exile 2 wyjaśnił, jak powinny wyglądać dobre transmisje na żywo zapowiadające gry. Przy okazji skrytykował Blizzarda za sposób ich prowadzenia.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/koniec-z-gadaniem-pokazcie-wreszcie-gre-tworca-path-of-exile-2-os/z132462",
-    "articleSlug": "50c88ef08bbc",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533293019.jpg"
+    "title": "Straszna wizja Google. Telewizja, w której oglądasz siebie",
+    "summary": "Włączasz telewizor, a tam ty. W komedii romantycznej, w kosmicznej przygodzie, w kryminale. Twoja twarz, twój głos, scenariusz napisany przez AI na podstawie tego, co oglądasz. A w środku reklamy. Tak wygląda „Mój kanał” z wniosku patentowego Google.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/straszna-wizja-google-telewizja-w-ktorej-ogladasz-siebie/z432465",
+    "articleSlug": "dad82225ee3f",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533295782.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Straszna wizja Google. Telewizja, w której oglądasz siebie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/straszna-wizja-google-telewizja-w-ktorej-ogladasz-siebie/z432465",
+      "publishedAt": "2026-11-25T10:43+01:00",
+      "summary": "Włączasz telewizor, a tam ty. W komedii romantycznej, w kosmicznej przygodzie, w kryminale. Twoja twarz, twój głos, scenariusz napisany przez AI na podstawie tego, co oglądasz. A w środku reklamy. Tak wygląda „Mój kanał” z wniosku patentowego Google.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533295782.jpg",
+      "articleSlug": "dad82225ee3f",
+      "articleBody": "Włączasz telewizor, a tam ty. W komedii romantycznej, w kosmicznej przygodzie, w kryminale. Twoja twarz, twój głos, scenariusz napisany przez AI na podstawie tego, co oglądasz. A w środku reklamy. Tak wygląda „Mój kanał” z wniosku patentowego Google."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Najbardziej wyczekiwana strategia grudnia szykuje się do premiery. Dawn of War 4 dostało datę preloadu i tajemniczą zapowiedź piątego stronnictwa",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/najbardziej-wyczekiwana-strategia-grudnia-szykuje-sie-do-premiery/z332464",
+      "publishedAt": "2026-11-25T10:37+01:00",
+      "summary": "Nowy zwiastun Warhammer 40,000: Dawn of War 4 zdaje się potwierdzać piąte stronnictwo, które dołączy do walk na planecie Kronus.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533295305.jpg",
+      "articleSlug": "fcfab2dfde0d",
+      "articleBody": "Nowy zwiastun Warhammer 40,000: Dawn of War 4 zdaje się potwierdzać piąte stronnictwo, które dołączy do walk na planecie Kronus."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Najdroższy serial w historii będzie kontynuowany. Prime Video przedłuża fantasy, które pochłonęło ponad 1 mld dolarów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/najdrozszy-serial-w-historii-bedzie-kontynuowany-prime-video-prze/z232463",
+      "publishedAt": "2026-11-25T10:36+01:00",
+      "summary": "Prime Video podjęło decyzję w sprawie przyszłości jednego ze swoich najgłośniejszych seriali. Platforma poinformowała, że rozpoczęto preprodukcję czwartego sezonu Pierścieni Władzy, a aktorzy wejdą na plan wiosną.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533294958.jpg",
+      "articleSlug": "733c0abcc05e",
+      "articleBody": "Prime Video podjęło decyzję w sprawie przyszłości jednego ze swoich najgłośniejszych seriali. Platforma poinformowała, że rozpoczęto preprodukcję czwartego sezonu Pierścieni Władzy, a aktorzy wejdą na plan wiosną."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Koniec z gadaniem, pokażcie wreszcie grę! Twórca Path of Exile 2 ostro o transmisjach Blizzarda i stylu Steve'a Jobsa",
@@ -23,6 +56,61 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533293019.jpg",
       "articleSlug": "50c88ef08bbc",
       "articleBody": "Twórca Path of Exile 2 wyjaśnił, jak powinny wyglądać dobre transmisje na żywo zapowiadające gry. Przy okazji skrytykował Blizzarda za sposób ich prowadzenia."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Avowed na PC taniej w Loaded. Klucz Steam dostępny już za 69,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/avowed-na-pc-taniej-w-loaded-klucz-steam-dostepny-juz-za-6999-zl/",
+      "publishedAt": "2026-11-25T09:56+01:00",
+      "summary": "Avowed, czyli action RPG studia Obsidian Entertainment, jest teraz dostępne w dobrej cenie w sklepie internetowym Loaded. Produkcja, w której traficie do krainy nazwanej Żywymi Ziemiami, by zbadać tajemniczą zarazę, kosztuje 69,99 zł. Warto zaznaczyć, że to wersja przeznaczona na Steam. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/06/Avowed-logo-224x224.jpg",
+      "articleSlug": "ec9b8674a9f2",
+      "articleBody": "Avowed, czyli action RPG studia Obsidian Entertainment, jest teraz dostępne w dobrej cenie w sklepie internetowym Loaded. Produkcja, w której traficie do krainy nazwanej Żywymi Ziemiami, by zbadać tajemniczą zarazę, kosztuje 69,99 zł. Warto zaznaczyć, że to wersja przeznaczona na Steam. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ależ to wygląda! Gracze nie mogą wyjść z podziwu efektów pogodowych po aktualizacji GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/434517/alez-to-wyglada-gracze-nie-moga-wyjsc-z-podziwu-efektow-pogodowych-po-aktualizacji-gta-6.html",
+      "publishedAt": "2026-11-25T09:53+01:00",
+      "summary": "Przez pierwsze dni po premierze Grand Theft Auto 6 na Reddicie i portalu X nie brakowało marudzenia, że w słonecznej Leonidzie w ogóle nie pada, a Rockstar po prostu naściemniał w swoich zapowiedziach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6201c997579a67845dad/6201c997579a67845dad.png",
+      "articleSlug": "ea810ced5278",
+      "articleBody": "Przez pierwsze dni po premierze Grand Theft Auto 6 na Reddicie i portalu X nie brakowało marudzenia, że w słonecznej Leonidzie w ogóle nie pada, a Rockstar po prostu naściemniał w swoich zapowiedziach."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Black Friday z Canal+. Dwa miesiące seriali i filmów w cenie jednego! Zobacz 6. sezon The Office PL (i nie tylko) za 29 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/black-friday-z-canal-dwa-miesiace-seriali-i-filmow-w-cenie-jednego-zobacz-6-sezon-the-office-pl-i-nie-tylko-za-29-zl/",
+      "publishedAt": "2026-11-25T09:47+01:00",
+      "summary": "Miłośnicy filmów także dostali coś dla siebie podczas tegorocznego Black Friday. Canal+ wystartował z promocją, w ramach której za 29 zł dostaniecie pakiet SERIALE I FILMY na dwa miesiące zamiast jednego. Po zakupie otrzymacie dostęp do kolekcji Canal+, Anime, BBC Player i Filmbox oraz 67 kanałów telewizyjnych. Przez 60 dni będziecie mogli oglądać bez ograniczeń na dwóch różnych urządzeniach tysiące materiałów, w tym najnowszy sezon The Office. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Canal-seriale-i-filmy-2-miesiace-logo-224x224.jpg",
+      "articleSlug": "55010b9a1d00",
+      "articleBody": "Miłośnicy filmów także dostali coś dla siebie podczas tegorocznego Black Friday. Canal+ wystartował z promocją, w ramach której za 29 zł dostaniecie pakiet SERIALE I FILMY na dwa miesiące zamiast jednego. Po zakupie otrzymacie dostęp do kolekcji Canal+, Anime, BBC Player i Filmbox oraz 67 kanałów telewizyjnych. Przez 60 dni będziecie mogli oglądać bez ograniczeń na dwóch różnych urządzeniach tysiące materiałów, w tym najnowszy sezon The Office. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "DLSS 5 w pierwszej oficjalnej implementacji, która ma sens. Ta gra będzie wzorem dla branży",
+      "sourceUrl": "https://www.ppe.pl/news/434516/dlls-5-w-pierwszej-oficjalnej-implementacji-ktora-ma-sens-ta-gra-bedzie-wzorem-dla-branzy.html",
+      "publishedAt": "2026-11-25T09:45+01:00",
+      "summary": "Dotychczas oficjalne implementacje NVIDIA DLSS 5 były wielkim rozczarowaniem. To się jednak zmienia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8f72ac8b6de27d34c590/8f72ac8b6de27d34c590.png",
+      "articleSlug": "2a050402df84",
+      "articleBody": "Dotychczas oficjalne implementacje NVIDIA DLSS 5 były wielkim rozczarowaniem. To się jednak zmienia."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ile lat ma Lucia i Jason z GTA 6? Wiek bohaterów zszokuje wielu",
+      "sourceUrl": "https://www.ppe.pl/news/434508/ile-lat-ma-lucia-i-jason-z-gta-6-wiek-bohaterow-zszokuje-wielu.html",
+      "publishedAt": "2026-11-25T09:36+01:00",
+      "summary": "Odkąd gracze rzucili się na Grand Theft Auto 6, w sieci niemal codziennie wypływają coraz to ciekawsze drobiazgi wygrzebane z samej gry. Tym razem fani rozwikłali jedną z zagadek, która nurtowała sporo osób jeszcze od pierwszego zwiastuna - ile...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/7823a0677c470f9f0670/7823a0677c470f9f0670.jpg",
+      "articleSlug": "2ebe0b84655a",
+      "articleBody": "Odkąd gracze rzucili się na Grand Theft Auto 6, w sieci niemal codziennie wypływają coraz to ciekawsze drobiazgi wygrzebane z samej gry. Tym razem fani rozwikłali jedną z zagadek, która nurtowała sporo osób jeszcze od pierwszego zwiastuna - ile..."
     },
     {
       "sourceName": "GRY-Online",
@@ -36,6 +124,50 @@
       "articleBody": "Graczom marzy się własny port GTA 6 na PC. Tyle że narzędzia AI nie wystarczą do osiągnięcia tego celu przez osoby, które nic nie wiedzą nawet „promptach”."
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Film lub serial na podstawie Red Dead Redemption powstanie? Rockstar stawia zaporową cenę za prawa do ekranizacji",
+      "sourceUrl": "https://cdaction.pl/newsy/film-lub-serial-na-podstawie-red-dead-redemption-powstanie-rockstar-stawia-zaporowa-cene-za-prawa-do-ekranizacji/",
+      "publishedAt": "2026-11-25T09:30+01:00",
+      "summary": "Stawka zawrotna, ale w Hollywood na pewno nie zabraknie chętnych.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/12/Zrzut-ekranu-2025-12-2-o-09.28.23-1260x630.jpg",
+      "articleSlug": "b44b12e5dc16",
+      "articleBody": "Stawka zawrotna, ale w Hollywood na pewno nie zabraknie chętnych."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Przepiękna, chwytające za serce opowieść Resonance A Plague Tale od 149 zł zamiast 209 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434515/przepiekna-chwytajace-za-serce-opowiesc-resonance-a-plague-tale-od-149-zl-zamiast-209-zl.html",
+      "publishedAt": "2026-11-25T09:28+01:00",
+      "summary": "W sklepie Media Expert tanio nabędziemy grę Resonance A Plague Tale Legacy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/db8a69bfe08d42914bbe/db8a69bfe08d42914bbe.jpg",
+      "articleSlug": "ace84a4295b1",
+      "articleBody": "W sklepie Media Expert tanio nabędziemy grę Resonance A Plague Tale Legacy."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wyśmienity tablet Lenovo Tab K11 Plus z 8/256 GB, 1200p 90 Hz czy baterią 8600 mAh za 849 zł zamiast 1299 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/410028/wysmienity-tablet-lenovo-tab-k11-plus-z-8-256-gb-1200p-90-hz-czy-bateria-8600-mah-za-899-zl-zamiast-1299-zl.html",
+      "publishedAt": "2026-11-25T09:25+01:00",
+      "summary": "Dzięki przecenom XXL w Media Expert taniej o równe 400 złotych nabędziemy tablet firmy Lenovo.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4e5a3b41419d3509ecb7/4e5a3b41419d3509ecb7.jpg",
+      "articleSlug": "1aee8b1cae04",
+      "articleBody": "Dzięki przecenom XXL w Media Expert taniej o równe 400 złotych nabędziemy tablet firmy Lenovo."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Star Wars Piernikowa maszyna krocząca AT-AT za 171,99 zł (cena katalogowa 249,99 zł) w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-star-wars-piernikowa-maszyna-kroczaca-at-at-za-17199-zl-cena-katalogowa-24999-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-25T09:22+01:00",
+      "summary": "Czy Święta i Gwiezdne Wojny mogą iść ze sobą w parze? Oczywiście, że tak! I to w bardzo świąteczny sposób. Możecie bowiem kupić zestaw LEGO Star Wars – Piernikowa maszyna krocząca AT-AT w wybranych sklepach internetowych nieco taniej. Z 697 elementów będziecie mogli zbudować ciasteczkową machinę, kryjącą wewnątrz minifigurkę korzennego Dartha Vadera. Wszystko to w cenie 171,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/lego-star-wars-piernikowa-maszyna-kroczaca-at-at-2b-224x224.jpg",
+      "articleSlug": "6aeee698c9ae",
+      "articleBody": "Czy Święta i Gwiezdne Wojny mogą iść ze sobą w parze? Oczywiście, że tak! I to w bardzo świąteczny sposób. Możecie bowiem kupić zestaw LEGO Star Wars – Piernikowa maszyna krocząca AT-AT w wybranych sklepach internetowych nieco taniej. Z 697 elementów będziecie mogli zbudować ciasteczkową machinę, kryjącą wewnątrz minifigurkę korzennego Dartha Vadera. Wszystko to w cenie 171,99 zł. Czytaj więcej »"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Polacy przygotowali grunt pod premierę Lords of the Fallen 2. Szef studia nie ma wątpliwości: ta gra odniesie sukces [Aktualizacja: miesiąc premiery]",
       "sourceUrl": "https://www.gry-online.pl/newsroom/polacy-przygotowali-grunt-pod-premiere-lords-of-the-fallen-2-szef/z43218f",
@@ -45,6 +177,28 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/531136206.jpg",
       "articleSlug": "83443bc55702",
       "articleBody": "CI Games jest tak pewne sukcesu Lords of the Fallen 2, że zamiast polegać na wydawcy lub emisjach akcji, sfinansuje resztę prac nad grami zwykłą pożyczką w bankach. Poznaliśmy miesiąc premiery."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pad Sony DualSense Galaktyczny Fiolet za 259,99 zł (39 zł taniej) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/bez-kategorii/pad-sony-dualsense-galaktyczny-fiolet-za-25999-zl-39-zl-taniej-w-media-expert/",
+      "publishedAt": "2026-11-25T09:10+01:00",
+      "summary": "W sklepie Media Expert możecie z okazji Black Friday 2026 kupić taniej Sony DualSense w kolorze Galaktyczny Fiolet. Kontroler bezprzewodowy, dedykowany konsoli PlayStation 5 i kompatybilny z PC, kosztuje 259,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/05/DualSense-Galactic-Purple-logo-224x224.jpg",
+      "articleSlug": "0bcb32071aa2",
+      "articleBody": "W sklepie Media Expert możecie z okazji Black Friday 2026 kupić taniej Sony DualSense w kolorze Galaktyczny Fiolet. Kontroler bezprzewodowy, dedykowany konsoli PlayStation 5 i kompatybilny z PC, kosztuje 259,99 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 ma już działać na PC. Take-Two zamknęło najgłośniejszy piracki projekt",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-ma-juz-dzialac-na-pc-take-two-zamknelo-najglosniejszy-piracki-projekt/",
+      "publishedAt": "2026-11-25T09:02+01:00",
+      "summary": "Szybko poszło.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-7-2-1260x709.jpg",
+      "articleSlug": "0a7d87cb3af9",
+      "articleBody": "Szybko poszło."
     },
     {
       "sourceName": "Łowcy Gier",
@@ -188,160 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533249257.jpg",
       "articleSlug": "da172d102b1e",
       "articleBody": "Niezależny deweloper wykorzystał sztuczną inteligencję w swojej debiutanckiej grze i osiągnął ogromny sukces na Steamie."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 przegrzewa PS5. Specjalista mówi wprost „ROZPOCZĄŁ SIĘ BLACKOUT PS5”",
-      "sourceUrl": "https://www.ppe.pl/news/434449/gta-6-przegrzewa-ps5-specjalista-mowi-wprost-rozpoczal-sie-blackout-ps5.html",
-      "publishedAt": "2026-11-25T06:15+01:00",
-      "summary": "GTA 6 jest bez wątpienia jedną z najbardziej wymagających produkcji dostępnych na PlayStation 5, ale najnowsze doniesienia mogą poważnie zaniepokoić posiadaczy konsoli Sony. W sieci pojawia się coraz więcej relacji graczy, którzy podczas rozgr...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/b2bd008ee8f18cf1a24d/b2bd008ee8f18cf1a24d.png",
-      "articleSlug": "c9fd5e90b6b8",
-      "articleBody": "GTA 6 jest bez wątpienia jedną z najbardziej wymagających produkcji dostępnych na PlayStation 5, ale najnowsze doniesienia mogą poważnie zaniepokoić posiadaczy konsoli Sony. W sieci pojawia się coraz więcej relacji graczy, którzy podczas rozgr..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Amazon Prime Video z MEGA nowością. Wielki powrót najlepszego science fiction to najważniejsza premiera dnia",
-      "sourceUrl": "https://www.ppe.pl/news/434441/amazon-prime-video-z-mega-nowoscia-wielki-powrot-najlepszego-science-fiction-to-najwazniejsza-premiera-dnia.html",
-      "publishedAt": "2026-11-25T05:43+01:00",
-      "summary": "Miłośnicy science fiction mają kolejny powód, by spędzić weekend przed ekranem. Na Amazon Prime Video trafiła właśnie produkcja, która zabiera widzów do jednego z najbardziej rozpoznawalnych futurystycznych światów w historii kina.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/16dbf7f37ddba3fda9ec/16dbf7f37ddba3fda9ec.jpg",
-      "articleSlug": "c2bed1f0672c",
-      "articleBody": "Miłośnicy science fiction mają kolejny powód, by spędzić weekend przed ekranem. Na Amazon Prime Video trafiła właśnie produkcja, która zabiera widzów do jednego z najbardziej rozpoznawalnych futurystycznych światów w historii kina."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nie tylko Rockstar i PlayStation odczuły sukces GTA 6. YouTube również notuje kosmiczne wyniki",
-      "sourceUrl": "https://www.ppe.pl/news/434421/nie-tylko-rockstar-i-playstation-odczuly-sukces-gta-6-youtube-rowniez-notuje-kosmiczne-wyniki.html",
-      "publishedAt": "2026-11-24T17:45+01:00",
-      "summary": "Premiera Grand Theft Auto VI jest już oficjalnie za nami. Tym samym nie tylko śmiercią naturalną umarł mem „mamy X przed GTA 6”, ale też mamy pierwsze informacje na temat tego, jaki impakt wywarła najnowsza produkcja Rockstara.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/26875af7b6cc5e7b66c1/26875af7b6cc5e7b66c1.jpg",
-      "articleSlug": "8d2953f2c090",
-      "articleBody": "Premiera Grand Theft Auto VI jest już oficjalnie za nami. Tym samym nie tylko śmiercią naturalną umarł mem „mamy X przed GTA 6”, ale też mamy pierwsze informacje na temat tego, jaki impakt wywarła najnowsza produkcja Rockstara."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Anya Taylor-Joy zobaczyła Gandalfa na planie nowego Władcy Pierścieni. Jej reakcja mówi wszystko",
-      "sourceUrl": "https://www.ppe.pl/news/434416/anya-taylor-joy-zobaczyla-gandalfa-na-planie-nowego-wladcy-pierscieni-jej-reakcja-mowi-wszystko.html",
-      "publishedAt": "2026-11-24T17:31+01:00",
-      "summary": "Powrót Iana McKellena do roli Gandalfa robi wrażenie nawet na osobach pracujących przy nowym filmie ze świata Władcy Pierścieni.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/2d68a0e1e9057df3b98b/2d68a0e1e9057df3b98b.webp",
-      "articleSlug": "d39757784dd8",
-      "articleBody": "Powrót Iana McKellena do roli Gandalfa robi wrażenie nawet na osobach pracujących przy nowym filmie ze świata Władcy Pierścieni."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Odstresuj się z nową paczką od Fanatical. Zestaw 7 odprężających gier Steam już za 47 zł!",
-      "sourceUrl": "https://lowcygier.pl/bundle/odstresuj-sie-z-nowa-paczka-od-fanatical-zestaw-7-odprezajacych-gier-steam-juz-za-47-zl/",
-      "publishedAt": "2026-11-24T17:25+01:00",
-      "summary": "Łowcy, na dobry początek tygodnia zespół Fanatical oferuje coś dla osób poszukujących chwili relaksu. W ramach najnowszego zestawu Build Your Own Casual Bundle możecie wybrać maksymalnie 7 gier PC. Do Waszej dyspozycji ponownie oddano 17 produkcji w postaci kluczy Steam. Całość dostępna jest za 46,74 zł, co daje nam bardzo dobity przelicznik na poziomie ok. 6,68 zł za jedną pozycję ! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Odstresuj-sie-z-nowa-paczka-od-Fanatical.-Zestaw-7-odprezajacych-gier-Steam-juz-za-47-zl_miniaturka-224x224.jpg",
-      "articleSlug": "e9054de9df94",
-      "articleBody": "Łowcy, na dobry początek tygodnia zespół Fanatical oferuje coś dla osób poszukujących chwili relaksu. W ramach najnowszego zestawu Build Your Own Casual Bundle możecie wybrać maksymalnie 7 gier PC. Do Waszej dyspozycji ponownie oddano 17 produkcji w postaci kluczy Steam. Całość dostępna jest za 46,74 zł, co daje nam bardzo dobity przelicznik na poziomie ok. 6,68 zł za jedną pozycję ! Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Tego elementu uniwersum lepiej nie umieszczać w Cyberpunku 2? Fani spierają się o detal przypominający Fallout New Vegas",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tego-elementu-uniwersum-lepiej-nie-umieszczac-w-cyberpunku-2-fani/z632458",
-      "publishedAt": "2026-11-24T17:01+01:00",
-      "summary": "W sieci pojawiła się dyskusja graczy na temat pominiętego wątku Cyberpunka, który mógłby powrócić w kontynuacji hitu CD Projektu. Pytanie jednak, czy warto, by tak się stało?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533231983.jpg",
-      "articleSlug": "c4d9dd101aea",
-      "articleBody": "W sieci pojawiła się dyskusja graczy na temat pominiętego wątku Cyberpunka, który mógłby powrócić w kontynuacji hitu CD Projektu. Pytanie jednak, czy warto, by tak się stało?"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 naprawia pogodę, ale gracze już mają kolejne żądania. Chcą znacznie więcej",
-      "sourceUrl": "https://www.ppe.pl/news/434413/gta-6-naprawia-pogode-ale-gracze-juz-maja-kolejne-zadania-chca-znacznie-wiecej.html",
-      "publishedAt": "2026-11-24T17:01+01:00",
-      "summary": "Rockstar Games poprawiło jeden z problemów GTA 6, na który od premiery zwracali uwagę gracze. Najnowsza aktualizacja naprawia błąd systemu pogodowego powodujący, że przez długi czas w grze utrzymywały się identyczne warunki atmosferyczne.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5a644b79a9bee5cf0893/5a644b79a9bee5cf0893.webp",
-      "articleSlug": "f90935ab3cb9",
-      "articleBody": "Rockstar Games poprawiło jeden z problemów GTA 6, na który od premiery zwracali uwagę gracze. Najnowsza aktualizacja naprawia błąd systemu pogodowego powodujący, że przez długi czas w grze utrzymywały się identyczne warunki atmosferyczne."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Gracze chwalą GTA 6 za realistyczne przedstawienie resocjalizacji przestępców. „Ludzie opuszczający więzienie naprawdę się z tym zmagają”",
-      "sourceUrl": "https://cdaction.pl/newsy/gracze-chwala-gta-6-za-realistyczne-przedstawienie-resocjalizacji-przestepcow-ludzie-opuszczajacy-wiezienie-naprawde-sie-z-tym-zmagaja/",
-      "publishedAt": "2026-11-24T16:45+01:00",
-      "summary": "Uwaga na spoilery (i to całkiem spore).",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-12.jpg",
-      "articleSlug": "ca1fd78f26fc",
-      "articleBody": "Uwaga na spoilery (i to całkiem spore)."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 uderzyło w mobilny rynek gier! Przychody z mikropłatności spadły aż o 24,5%",
-      "sourceUrl": "https://www.ppe.pl/news/434412/gta-6-uderzylo-w-mobilny-rynek-gier-przychody-z-mikroplatnosci-spadly-az-o-24-5.html",
-      "publishedAt": "2026-11-24T16:31+01:00",
-      "summary": "Premiera Grand Theft Auto 6 odbiła się echem nie tylko na rynku konsol i komputerów. Z danych firmy AppsFlyer wynika, że w pierwszych dniach po debiucie gry wydatki Brytyjczyków na mikropłatności w mobilnych produkcjach akcji i strategiach spadł...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c03e96ac7f3ca79b93b5/c03e96ac7f3ca79b93b5.webp",
-      "articleSlug": "932d39577904",
-      "articleBody": "Premiera Grand Theft Auto 6 odbiła się echem nie tylko na rynku konsol i komputerów. Z danych firmy AppsFlyer wynika, że w pierwszych dniach po debiucie gry wydatki Brytyjczyków na mikropłatności w mobilnych produkcjach akcji i strategiach spadł..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Star Wars Galactic Racer Deluxe Edition na PS5 za 212 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-star-wars-galactic-racer-deluxe-edition-na-ps5-za-212-zl-na-allegro/",
-      "publishedAt": "2026-11-24T16:25+01:00",
-      "summary": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie poprzez serwis Allegro. Pudełko z grą wyścigową, za stworzeniem której stoją osoby pracujące przy serii Burnout, kosztuje 212 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/star-wars-galactic-racer-deluxe-edition-224x224.jpg",
-      "articleSlug": "810af1e61e85",
-      "articleBody": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie poprzez serwis Allegro. Pudełko z grą wyścigową, za stworzeniem której stoją osoby pracujące przy serii Burnout, kosztuje 212 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "15 lat temu Wiedźmin 2 uratował CD Projekt RED przed upadkiem. Wróciłem do gry, bez której moglibyśmy nigdy nie zobaczyć Wiedźmina 3 i 4",
-      "sourceUrl": "https://www.gry-online.pl/opinie/wiedzmin-2-ma-15-lat-i-wciaz-zyje-w-cieniu-trojki-a-przeciez-to-w/z649de",
-      "publishedAt": "2026-11-24T16:20+01:00",
-      "summary": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg",
-      "articleSlug": "d98c9ef97495",
-      "articleBody": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 okiem redakcji CD-Action. Oto 10 różnych opinii o najnowszej grze Rockstara",
-      "sourceUrl": "https://cdaction.pl/juz-gralismy/gta-6-okiem-redakcji-cd-action-oto-10-roznych-opinii-o-najnowszej-grze-rockstara/",
-      "publishedAt": "2026-11-24T16:09+01:00",
-      "summary": "Oczywiście, że ufamy naszemu recenzentowi. Ba, nadal zachęcamy do przeczytania obszernego tekstu Spikaina, w którym opowiada o GTA 6 z perspektywy 80 spędzonych w grze godzin. Redakcja chciała jednak dołożyć od siebie nieco więcej. Przed wami zatem dziesięć różnych opinii o najnowszym dziele Rockstara – różnych, choć w gruncie rzeczy podobnych…",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-1.jpg",
-      "articleSlug": "27379865c279",
-      "articleBody": "Oczywiście, że ufamy naszemu recenzentowi. Ba, nadal zachęcamy do przeczytania obszernego tekstu Spikaina, w którym opowiada o GTA 6 z perspektywy 80 spędzonych w grze godzin. Redakcja chciała jednak dołożyć od siebie nieco więcej. Przed wami zatem dziesięć różnych opinii o najnowszym dziele Rockstara – różnych, choć w gruncie rzeczy podobnych…"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Elden Ring Nightreign Seekers Edition na PS5 + steelbook za 74,99 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/elden-ring-nightreign-seekers-edition-na-ps5-steelbook-za-7499-zl-na-allegro/",
-      "publishedAt": "2026-11-24T16:03+01:00",
-      "summary": "Specjalne, zawierające steelbook wydanie Elden Ring: Nightreign – Seekers Edition, kupicie taniej poprzez serwis Allegro. Poboczna odsłona soulslike studia FromSoftware, skupiająca się na dynamicznej, kooperacyjnej rozgrywce, kosztuje 74,99 zł w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/02/Preorder-Elden-Ring-Nightreign-Seekers-Edition-na-konsole-za-18390-zl-dostawa-w-Gamefinity_obrazek-224x224.jpg",
-      "articleSlug": "96f72a412011",
-      "articleBody": "Specjalne, zawierające steelbook wydanie Elden Ring: Nightreign – Seekers Edition, kupicie taniej poprzez serwis Allegro. Poboczna odsłona soulslike studia FromSoftware, skupiająca się na dynamicznej, kooperacyjnej rozgrywce, kosztuje 74,99 zł w wersji na konsole Sony PlayStation 5. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Final Fantasy VII Revelation nie będzie tak brutalne, jak sugerowały przecieki. Znamy klasyfikację wiekową",
-      "sourceUrl": "https://www.ppe.pl/news/434410/final-fantasy-vii-revelation-nie-bedzie-tak-brutalne-jak-sugerowaly-przecieki-znamy-klasyfikacje-wiekowa.html",
-      "publishedAt": "2026-11-24T16:01+01:00",
-      "summary": "Final Fantasy VII Revelation nie otrzymało kategorii wiekowej Mature 17+, choć właśnie taki scenariusz przez kilka miesięcy brano pod uwagę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/03a6f21c0696bea2ff30/03a6f21c0696bea2ff30.webp",
-      "articleSlug": "41fae5bb767b",
-      "articleBody": "Final Fantasy VII Revelation nie otrzymało kategorii wiekowej Mature 17+, choć właśnie taki scenariusz przez kilka miesięcy brano pod uwagę."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
+  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
 }
