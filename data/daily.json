@@ -1,18 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T15:01+01:00",
+  "updatedAt": "2026-11-25T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Najbardziej realistyczna walka w historii strzelanek? Twórcy taktycznego FPS-a Gray Zone Warfare zapowiadają przełomowe zmiany",
-    "summary": "Do sieci trafił materiał wideo poświęcony wyczekiwanej aktualizacji Breakthrough do gry Gray Zone Warfare.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/najbardziej-realistyczna-walka-w-historii-strzelanek-tworcy-takty/z932479",
-    "articleSlug": "f65dec45ad28",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533313621.jpg"
+    "title": "Dead or Alive świętuje 30-lecie! Twórcy rozdają dodatki do „szóstki” i pokazują nową Kasumi",
+    "summary": "Koei Tecmo i Team Ninja świętują 30. rocznicę serii Dead or Alive. Z tej okazji przygotowano specjalny zwiastun, darmową aktualizację do Dead or Alive 6 Last Round oraz szereg promocji.",
+    "sourceUrl": "https://www.ppe.pl/news/434548/dead-or-alive-swietuje-30-lecie-tworcy-rozdaja-dodatki-do-szostki-i-pokazuja-nowa-kasumi.html",
+    "articleSlug": "7c5d7cd01c05",
+    "imageUrl": "https://pliki.ppe.pl/storage/246a63ce0ca36a01862c/246a63ce0ca36a01862c.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Dead or Alive świętuje 30-lecie! Twórcy rozdają dodatki do „szóstki” i pokazują nową Kasumi",
+      "sourceUrl": "https://www.ppe.pl/news/434548/dead-or-alive-swietuje-30-lecie-tworcy-rozdaja-dodatki-do-szostki-i-pokazuja-nowa-kasumi.html",
+      "publishedAt": "2026-11-25T15:46+01:00",
+      "summary": "Koei Tecmo i Team Ninja świętują 30. rocznicę serii Dead or Alive. Z tej okazji przygotowano specjalny zwiastun, darmową aktualizację do Dead or Alive 6 Last Round oraz szereg promocji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/246a63ce0ca36a01862c/246a63ce0ca36a01862c.jpg",
+      "articleSlug": "7c5d7cd01c05",
+      "articleBody": "Koei Tecmo i Team Ninja świętują 30. rocznicę serii Dead or Alive. Z tej okazji przygotowano specjalny zwiastun, darmową aktualizację do Dead or Alive 6 Last Round oraz szereg promocji."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Usprawnianie Steama trwa! Valve tym razem wprowadza zmiany w Rynku społeczności",
+      "sourceUrl": "https://cdaction.pl/newsy/usprawnianie-steama-trwa-valve-tym-razem-wprowadza-zmiany-w-rynku-spolecznosci/",
+      "publishedAt": "2026-11-25T15:45+01:00",
+      "summary": "Steam pięknieje nam z każdym kolejnym dniem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Steam.jpg",
+      "articleSlug": "4607274baec4",
+      "articleBody": "Steam pięknieje nam z każdym kolejnym dniem."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Najbardziej realistyczna walka w historii strzelanek? Twórcy taktycznego FPS-a Gray Zone Warfare zapowiadają przełomowe zmiany",
@@ -23,6 +45,28 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533313621.jpg",
       "articleSlug": "f65dec45ad28",
       "articleBody": "Do sieci trafił materiał wideo poświęcony wyczekiwanej aktualizacji Breakthrough do gry Gray Zone Warfare."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na Perplexus w Amazon PL. Gry zręcznościowe dostępne już od 46,59 zł",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/promocje-na-perplexus-w-amazon-pl-gry-zrecznosciowe-dostepne-juz-od-4659-zl/",
+      "publishedAt": "2026-11-25T15:37+01:00",
+      "summary": "Trójwymiarowy labirynt zamknięty w przezroczystej sferze opracowany przez Spin Master, czyli Perplexus, pojawił się w polskim oddziale sklepu Amazon w niższej cenie. Przeceniono kilka wariantów, a Epic, który będzie stanowił prawdziwe wyzwanie dzięki 125 przeszkodom, które będziecie musieli pokonać, kosztuje teraz 76,21 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/perplexus-epic-3b-224x224.jpg",
+      "articleSlug": "3da30c411044",
+      "articleBody": "Trójwymiarowy labirynt zamknięty w przezroczystej sferze opracowany przez Spin Master, czyli Perplexus, pojawił się w polskim oddziale sklepu Amazon w niższej cenie. Przeceniono kilka wariantów, a Epic, który będzie stanowił prawdziwe wyzwanie dzięki 125 przeszkodom, które będziecie musieli pokonać, kosztuje teraz 76,21 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Abby winna kontrowersji wokół The Last of Us 2? Gracze nie znali całej historii",
+      "sourceUrl": "https://www.ppe.pl/news/434544/abby-winna-kontrowersji-wokol-the-last-of-us-2-gracze-nie-znali-calej-historii.html",
+      "publishedAt": "2026-11-25T15:31+01:00",
+      "summary": "Laura Bailey, aktorka wcielająca się w Abby w The Last of Us Part 2, uważa, że przedpremierowe wycieki miały ogromny wpływ na falę krytyki, która spadła na nią po ujawnieniu fabuły gry.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4527895a1f7e4b8c7309/4527895a1f7e4b8c7309.jpg",
+      "articleSlug": "e104acba1299",
+      "articleBody": "Laura Bailey, aktorka wcielająca się w Abby w The Last of Us Part 2, uważa, że przedpremierowe wycieki miały ogromny wpływ na falę krytyki, która spadła na nią po ujawnieniu fabuły gry."
     },
     {
       "sourceName": "GRY-Online",
@@ -36,6 +80,39 @@
       "articleBody": "Od Zatoki Meksykańskiej i Karaibów po zachodnie wybrzeże Afryki ciągnie się pas gronorostów. Na otwartym oceanie glony zapewniają zwierzętom schronienie, ale u wybrzeży stają się zagrożeniem."
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Persona 5 Tactica na XOne / XSX za jedyne 19,99 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-persona-5-tactica-na-xone-xsx-za-jedyne-1999-zl-na-allegro/",
+      "publishedAt": "2026-11-25T15:24+01:00",
+      "summary": "W ramach trwających Allegro Black Weeks, kupicie teraz taniej Persona 5 Tactica. Spin-off jRPG studia Atlus, w którym ponownie wcielimy się w Widmowych Złodziei, może być wasz za 19,99 zł, w wersji na konsole Xbox One i Xbox Series X. Starcia w tym tytule są bardziej nastawione na taktykę i dzieją się na siatce, po której się poruszamy. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/03/Persona-5-Tactica-xbox-miniatura-224x224.jpg",
+      "articleSlug": "aff0ae181c77",
+      "articleBody": "W ramach trwających Allegro Black Weeks, kupicie teraz taniej Persona 5 Tactica. Spin-off jRPG studia Atlus, w którym ponownie wcielimy się w Widmowych Złodziei, może być wasz za 19,99 zł, w wersji na konsole Xbox One i Xbox Series X. Starcia w tym tytule są bardziej nastawione na taktykę i dzieją się na siatce, po której się poruszamy. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Skyrim trafił na PS Vita. Nie uwierzysz jak dobrze to działa na przenośnej konsoli Sony",
+      "sourceUrl": "https://www.ppe.pl/news/434538/skyrim-trafil-na-ps-vita-nie-uwierzysz-jak-dobrze-to-dziala-na-przenosnej-konsoli-sony.html",
+      "publishedAt": "2026-11-25T15:15+01:00",
+      "summary": "Jeden z moderów przygotował nieoficjalny port The Elder Scrolls V: Skyrim na PlayStation Vita.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/7cfe8f2015763d6512bf/7cfe8f2015763d6512bf.webp",
+      "articleSlug": "8c43ec6cabb2",
+      "articleBody": "Jeden z moderów przygotował nieoficjalny port The Elder Scrolls V: Skyrim na PlayStation Vita."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw do czyszczenia elektroniki (20 elementów) za jedyne 23 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-do-czyszczenia-elektroniki-20-elementow-za-jedyne-23-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-25T15:09+01:00",
+      "summary": "Jeśli szukacie poręcznego i praktycznego akcesorium, które zawiera 20 narzędzi ułatwiających czyszczenie sprzętów elektronicznych, możecie sięgnąć po ofertę polskiego oddziału sklepu Amazon. W cenie 23,16 zł możecie bowiem nabyć przybornik firmy Vicloon, w którym znajdziecie szczoteczki, pędzelki i wszystko, co wam może pomóc w zachowaniu czystości waszych urządzeń. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/vicloon-narzedzia-do-czyszczenia-elektroniki-3b-224x224.jpg",
+      "articleSlug": "86c53b5ee181",
+      "articleBody": "Jeśli szukacie poręcznego i praktycznego akcesorium, które zawiera 20 narzędzi ułatwiających czyszczenie sprzętów elektronicznych, możecie sięgnąć po ofertę polskiego oddziału sklepu Amazon. W cenie 23,16 zł możecie bowiem nabyć przybornik firmy Vicloon, w którym znajdziecie szczoteczki, pędzelki i wszystko, co wam może pomóc w zachowaniu czystości waszych urządzeń. Czytaj więcej »"
+    },
+    {
       "sourceName": "PPE",
       "title": "NVIDIA zapowiada nową strategię. Efekt? Ceny kart graficznych w górę!",
       "sourceUrl": "https://www.ppe.pl/news/434541/nvidia-zapowiada-nowa-strategie-efekt-ceny-kart-graficznych-w-gore.html",
@@ -45,6 +122,17 @@
       "imageUrl": "https://pliki.ppe.pl/storage/08c389fe14066e599a09/08c389fe14066e599a09.jpg",
       "articleSlug": "25721e05825f",
       "articleBody": "NVIDIA ma po raz kolejny zmniejszyć dostawy gamingowych kart graficznych w czwartym kwartale 2026 roku."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Gothic 3 Classic jest już dostępny! To coś znacznie więcej niż zwykły port na konsole",
+      "sourceUrl": "https://cdaction.pl/newsy/gothic-3-classic-jest-juz-dostepny-to-cos-znacznie-wiecej-niz-zwykly-port-na-konsole/",
+      "publishedAt": "2026-11-25T15:00+01:00",
+      "summary": "Bliżej mu do delikatnego remastera.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Gothic-3.jpg",
+      "articleSlug": "850af6ffbec9",
+      "articleBody": "Bliżej mu do delikatnego remastera."
     },
     {
       "sourceName": "GRY-Online",
@@ -254,94 +342,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1-1260x709.jpg",
       "articleSlug": "88955676c774",
       "articleBody": "Spearmint Rhino zatrudniło specjalnie choreografkę, by im w tym pomogła."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Metaphor ReFantazio na Nintendo Switch 2 za 146,71 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/metaphor-refantazio-na-nintendo-switch-2-za-14671-zl-na-allegro/",
-      "publishedAt": "2026-11-25T13:19+01:00",
-      "summary": "Premiera Metaphor: ReFantazio na Nintendo Switch 2 miała miejsce w zasadzie dwa tygodnie temu. Jeśli nie zaopatrzyliście się w swój egzemplarz do tej pory, w serwisie Allegro pojawiła się oferta, która może Was zainteresować. Pudełkowe wydanie jRPG studia Atlus, umieszczone na Game Key Card, dostępne jest za 146,71 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/metaphor-refantazio-ns2-miniaturka-224x224.jpg",
-      "articleSlug": "a7de526b80db",
-      "articleBody": "Premiera Metaphor: ReFantazio na Nintendo Switch 2 miała miejsce w zasadzie dwa tygodnie temu. Jeśli nie zaopatrzyliście się w swój egzemplarz do tej pory, w serwisie Allegro pojawiła się oferta, która może Was zainteresować. Pudełkowe wydanie jRPG studia Atlus, umieszczone na Game Key Card, dostępne jest za 146,71 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 daje konsolom potężny wycisk. Streamerka twierdzi, że gra uszkodziła jej PS5, a testy Digital Foundry pokazują, że Xbox Series X radzi sobie lepiej",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-daje-konsolom-potezny-wycisk-streamerka-twierdzi-ze-gra-usz/z53246f",
-      "publishedAt": "2026-11-25T13:16+01:00",
-      "summary": "Testy ekspertów wykazały, że GTA 6 działa lepiej na Xboksie Series X niż na PlayStation 5. Internauci zaczęli krytykować kampanię marketingową Sony, w której przekonywano, że hit Rockstara „plays best on PS5”.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533304963.jpg",
-      "articleSlug": "228b0308b699",
-      "articleBody": "Testy ekspertów wykazały, że GTA 6 działa lepiej na Xboksie Series X niż na PlayStation 5. Internauci zaczęli krytykować kampanię marketingową Sony, w której przekonywano, że hit Rockstara „plays best on PS5”."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Twórca Undertale i Deltarune stworzył darmowe RPG! Można zagrać nawet w przeglądarce",
-      "sourceUrl": "https://www.ppe.pl/news/434532/tworca-undertale-i-deltarune-stworzyl-darmowe-rpg-mozna-zagrac-nawet-w-przegladarce.html",
-      "publishedAt": "2026-11-25T13:15+01:00",
-      "summary": "Temmie Chang, artystka znana z pracy przy Undertale i Deltarune, udostępniła za darmo swoją nową grę RPG zatytułowaną Of The World.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/93c1f4131d0e59c4a68f/93c1f4131d0e59c4a68f.jpg",
-      "articleSlug": "dc0f63d77713",
-      "articleBody": "Temmie Chang, artystka znana z pracy przy Undertale i Deltarune, udostępniła za darmo swoją nową grę RPG zatytułowaną Of The World."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ted Lasso nie złożył jeszcze wypowiedzenia. Apple TV zapowiedział 5. sezon",
-      "sourceUrl": "https://www.ppe.pl/news/434530/ted-lasso-nie-zlozyl-jeszcze-wypowiedzenia-apple-tv-zapowiedzial-5-sezon.html",
-      "publishedAt": "2026-11-25T13:00+01:00",
-      "summary": "Apple TV wie, że nie zabija się kury znoszącej złote jaja. Po kilku miesiącach niepewności serwis potwierdził, że zamierza wciąż inwestować w jeden ze swoich największych serialowych hitów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4469fcb3688d53727044/4469fcb3688d53727044.jpg",
-      "articleSlug": "5000e34b5f56",
-      "articleBody": "Apple TV wie, że nie zabija się kury znoszącej złote jaja. Po kilku miesiącach niepewności serwis potwierdził, że zamierza wciąż inwestować w jeden ze swoich największych serialowych hitów."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Remedy chwali współpracę z Rockstarem przy Max Payne 1&2 Remake. „Jest naprawdę genialnym partnerem”",
-      "sourceUrl": "https://cdaction.pl/newsy/remedy-chwali-wspolprace-z-rockstarem-przy-max-payne-12-remake-jest-naprawde-genialnym-partnerem/",
-      "publishedAt": "2026-11-25T13:00+01:00",
-      "summary": "Fińskie studio nadal wzbrania się jednak przed zdradzeniem szczegółów na temat projektu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Max-Payne.jpg",
-      "articleSlug": "184ea1a86bcd",
-      "articleBody": "Fińskie studio nadal wzbrania się jednak przed zdradzeniem szczegółów na temat projektu."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 rozbija bank na YouTube z kosmicznym wynikiem, a gracze odkryli sposób na przeprowadzanie cichych napadów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-rozbija-bank-na-youtube-z-kosmicznym-wynikiem-a-gracze-odkr/z43246e",
-      "publishedAt": "2026-11-25T12:54+01:00",
-      "summary": "Statystyki opublikowane przez YouTube dobrze obrazują, jak dużym zainteresowaniem cieszy się GTA 6. Już niedługo fani gry będą mogli zacząć kolekcjonować oficjalny zestaw kart.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533303548.jpg",
-      "articleSlug": "223a4a22c221",
-      "articleBody": "Statystyki opublikowane przez YouTube dobrze obrazują, jak dużym zainteresowaniem cieszy się GTA 6. Już niedługo fani gry będą mogli zacząć kolekcjonować oficjalny zestaw kart."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wypróbuj Star Wars Galactic Racer za darmo na Xbox Series. Posiadacze PS5 potrzebują PlayStation Plus Premium!",
-      "sourceUrl": "https://lowcygier.pl/darmowe/wyprobuj-star-wars-galactic-racer-za-darmo-na-xbox-series-posiadacze-ps5-potrzebuja-playstation-plus-premium/",
-      "publishedAt": "2026-11-25T12:54+01:00",
-      "summary": "Jeśli nie jesteście pewni co do zakupu gry wyścigowej z uniwersum Gwiezdnych Wojen, macie teraz najlepszą okazję do sprawdzenia tego tytułu. Posiadacze konsol Xbox Series X|S mogą bowiem zagrać w Star Wars: Galactic Racer za darmo, dzięki wersji demonstracyjnej. W nieco gorszej sytuacji są użytkownicy konsol japońskiego giganta. W tym przypadku wersja próbna gry jest dostępna jedynie z najwyższym progiem abonamentu PS+ Premium. Xbox Store: Star Wars: Galactic Racer Demo (Xbox Series X|S) za darmo PlayStation Store: Star Wars: Galactic Racer Wersja próbna gry PS5 graj 2 godziny jeśli posiadasz PS+ Premium Spodobało się Wam demo? Sprawdźcie, gdzie możecie kupić cyfrowe wydanie Star Wars: Galactic Racer najtaniej. STAR WARS: Galactic Racer PS5 Więcej ofert znajdziesz na GG.deals STAR WARS: Galactic Racer Xbox Series Więcej ofert znajdziesz na GG.deals Zobacz również: Pudełkowe Star Wars Gal",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/Star-Wars-Galactic-Racer-logo-224x224.jpg",
-      "articleSlug": "7ae3860b306d",
-      "articleBody": "Jeśli nie jesteście pewni co do zakupu gry wyścigowej z uniwersum Gwiezdnych Wojen, macie teraz najlepszą okazję do sprawdzenia tego tytułu. Posiadacze konsol Xbox Series X|S mogą bowiem zagrać w Star Wars: Galactic Racer za darmo, dzięki wersji demonstracyjnej. W nieco gorszej sytuacji są użytkownicy konsol japońskiego giganta. W tym przypadku wersja próbna gry jest dostępna jedynie z najwyższym progiem abonamentu PS+ Premium. Xbox Store: Star Wars: Galactic Racer Demo (Xbox Series X|S) za darmo PlayStation Store: Star Wars: Galactic Racer Wersja próbna gry PS5 graj 2 godziny jeśli posiadasz PS+ Premium Spodobało się Wam demo? Sprawdźcie, gdzie możecie kupić cyfrowe wydanie Star Wars: Galactic Racer najtaniej. STAR WARS: Galactic Racer PS5 Więcej ofert znajdziesz na GG.deals STAR WARS: Galactic Racer Xbox Series Więcej ofert znajdziesz na GG.deals Zobacz również: Pudełkowe Star Wars Gal"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Gracz policzył wszystkie budynki w GTA 6. Zaskakująco duża część z nich jest otwarta na zwiedzanie",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-policzyl-wszystkie-budynki-w-gta-6-zaskakujaco-duza-czesc-z/z33246d",
-      "publishedAt": "2026-11-25T12:45+01:00",
-      "summary": "Jak wiele możliwości oferuje GTA 6, jeżeli chodzi o eksplorację? Gracz przeliczył, ile budynków znajdziemy w Leonidzie – i do ilu z nich możemy wejść.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533302997.jpg",
-      "articleSlug": "1d2289294c02",
-      "articleBody": "Jak wiele możliwości oferuje GTA 6, jeżeli chodzi o eksplorację? Gracz przeliczył, ile budynków znajdziemy w Leonidzie – i do ilu z nich możemy wejść."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
+  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
 }
