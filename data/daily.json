@@ -1,18 +1,183 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T16:01+01:00",
+  "updatedAt": "2026-11-25T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Dead or Alive świętuje 30-lecie! Twórcy rozdają dodatki do „szóstki” i pokazują nową Kasumi",
-    "summary": "Koei Tecmo i Team Ninja świętują 30. rocznicę serii Dead or Alive. Z tej okazji przygotowano specjalny zwiastun, darmową aktualizację do Dead or Alive 6 Last Round oraz szereg promocji.",
-    "sourceUrl": "https://www.ppe.pl/news/434548/dead-or-alive-swietuje-30-lecie-tworcy-rozdaja-dodatki-do-szostki-i-pokazuja-nowa-kasumi.html",
-    "articleSlug": "7c5d7cd01c05",
-    "imageUrl": "https://pliki.ppe.pl/storage/246a63ce0ca36a01862c/246a63ce0ca36a01862c.jpg"
+    "title": "W GTA 6 Rockstar osiągnął to, co było niemożliwe 24 lata temu. W końcu wprowadził immersyjną nowość do otwartego świata",
+    "summary": "Jedna z chwalonych przez graczy nowości w GTA 6 miała pojawić się w serii już 24 lata temu. Kulisy porzuconego wówczas pomysłu zdradził były deweloper Rockstar Games.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-rockstar-osiagnal-to-co-bylo-niemozliwe-24-lata-temu-w-ko/z33247c",
+    "articleSlug": "b063f8d25105",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533324273.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "W GTA 6 Rockstar osiągnął to, co było niemożliwe 24 lata temu. W końcu wprowadził immersyjną nowość do otwartego świata",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-gta-6-rockstar-osiagnal-to-co-bylo-niemozliwe-24-lata-temu-w-ko/z33247c",
+      "publishedAt": "2026-11-25T18:38+01:00",
+      "summary": "Jedna z chwalonych przez graczy nowości w GTA 6 miała pojawić się w serii już 24 lata temu. Kulisy porzuconego wówczas pomysłu zdradził były deweloper Rockstar Games.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533324273.jpg",
+      "articleSlug": "b063f8d25105",
+      "articleBody": "Jedna z chwalonych przez graczy nowości w GTA 6 miała pojawić się w serii już 24 lata temu. Kulisy porzuconego wówczas pomysłu zdradził były deweloper Rockstar Games."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nadchodzi darmowy dodatek do jednego z największych hitów 2025 roku. Twórcy Hollow Knight: Silksong mogą zapowiedzieć nową grę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nadchodzi-darmowy-dodatek-do-jednego-z-najwiekszych-hitow-2025-ro/z23247b",
+      "publishedAt": "2026-11-25T17:53+01:00",
+      "summary": "Dodatek Sea of Sorrow do Hollow Knight: Silksong najwyraźniej zbliża się wielkimi krokami. Team Cherry zaprasza na niespodziewany pokaz, który może przynieść również zapowiedź nowej gry australijskiego studia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533321626.jpg",
+      "articleSlug": "72adb35baacd",
+      "articleBody": "Dodatek Sea of Sorrow do Hollow Knight: Silksong najwyraźniej zbliża się wielkimi krokami. Team Cherry zaprasza na niespodziewany pokaz, który może przynieść również zapowiedź nowej gry australijskiego studia."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 zaskoczy skalą eksploracji. Gracze doliczyli się ponad 1500 budynków do zwiedzania",
+      "sourceUrl": "https://www.ppe.pl/news/434552/gta-6-zaskoczy-skala-eksploracji-gracze-doliczyli-sie-ponad-1500-budynkow-do-zwiedzania.html",
+      "publishedAt": "2026-11-25T17:45+01:00",
+      "summary": "Świat Grand Theft Auto 6 może zaoferować znacznie więcej dostępnych wnętrz, niż wcześniej przypuszczano.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/59d72d07f5bd0795dd7f/59d72d07f5bd0795dd7f.webp",
+      "articleSlug": "98595d09b12a",
+      "articleBody": "Świat Grand Theft Auto 6 może zaoferować znacznie więcej dostępnych wnętrz, niż wcześniej przypuszczano."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyjątkowo tanie puzzle Good Loot w RTV Euro AGD. Warianty Thorgal (1000 el.) po 5,50 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyjatkowo-tanie-puzzle-good-loot-w-rtv-euro-agd-warianty-thorgal-1000-el-po-550-zl/",
+      "publishedAt": "2026-11-25T17:42+01:00",
+      "summary": "W internetowym sklepie RTV Euro AGD, wykorzystując specjalny kod zniżkowy, możecie zakupić tanio puzzle Good Loot. Modele przygotowane z myślą o fanach serii komiksów Thorgal dostępne są w historycznie niskich cenach. W ramach oferty za warianty składające się z 1000 elementów zapłacicie jedynie 5,50 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyjatkowo-tanie-puzzle-Good-Loot-w-RTV-Euro-AGD.-Warianty-Thorgal-1000-el.-po-550-zl_miniaturka-224x224.jpg",
+      "articleSlug": "c72f63b312b5",
+      "articleBody": "W internetowym sklepie RTV Euro AGD, wykorzystując specjalny kod zniżkowy, możecie zakupić tanio puzzle Good Loot. Modele przygotowane z myślą o fanach serii komiksów Thorgal dostępne są w historycznie niskich cenach. W ramach oferty za warianty składające się z 1000 elementów zapłacicie jedynie 5,50 zł! Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS Plus na grudzień OFICJALNIE. Sony rozpoczyna ostatni miesiąc roku od mocnego uderzenia nostalgii",
+      "sourceUrl": "https://www.ppe.pl/news/434561/ps-plus-na-grudzien-oficjalnie-sony-rozpoczyna-ostatni-miesiac-roku-od-mocnego-uderzenia-nostalgii.html",
+      "publishedAt": "2026-11-25T17:38+01:00",
+      "summary": "Listopad dobiega końca, a to oznacza, że zbliża się czas odświeżenia zestawu gier dostępnych w ramach PlayStation Plus Essential.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/96976eed717bc5eda703/96976eed717bc5eda703.webp",
+      "articleSlug": "db92eb3d9516",
+      "articleBody": "Listopad dobiega końca, a to oznacza, że zbliża się czas odświeżenia zestawu gier dostępnych w ramach PlayStation Plus Essential."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wiedźmin 4 nie będzie tytułem ekskluzywnym PlayStation. CD Projekt Red uspokaja graczy zaniepokojonych umową z Sony",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-4-nie-bedzie-tytulem-ekskluzywnym-playstation-cd-projekt/z13247a",
+      "publishedAt": "2026-11-25T17:16+01:00",
+      "summary": "Współpraca CD Projekt Red i Sony mogła wzbudzić niepokój wśród części graczy. Michał Nowakowski rozwiał jednak wątpliwości dotyczące ekskluzywności Wiedźmina 4 i pozostałych nadchodzących gier polskiego studia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533319292.jpg",
+      "articleSlug": "d2bd74310e39",
+      "articleBody": "Współpraca CD Projekt Red i Sony mogła wzbudzić niepokój wśród części graczy. Michał Nowakowski rozwiał jednak wątpliwości dotyczące ekskluzywności Wiedźmina 4 i pozostałych nadchodzących gier polskiego studia."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Google Chrome obciąża komputer i zajmuje pamięć RAM. Nawet po jej zamknięciu",
+      "sourceUrl": "https://www.ppe.pl/news/434551/google-chrome-obciaza-komputer-i-zajmuje-pamiec-ram-nawet-po-jej-zamknieciu.html",
+      "publishedAt": "2026-11-25T17:16+01:00",
+      "summary": "Google Chrome może nadal zajmować pamięć RAM nawet po zamknięciu przeglądarki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/03fecc6a4122ec05872f/03fecc6a4122ec05872f.webp",
+      "articleSlug": "9767480f902d",
+      "articleBody": "Google Chrome może nadal zajmować pamięć RAM nawet po zamknięciu przeglądarki."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Legendarny twórca chce przygotować „szaloną” odsłonę Castlevanii. Czeka na kontakt od Konami",
+      "sourceUrl": "https://www.ppe.pl/news/434540/legendarny-tworca-chce-przygotowac-szalona-odslone-castlevanii-czeka-na-kontakt-od-konami.html",
+      "publishedAt": "2026-11-25T17:01+01:00",
+      "summary": "Hideki Kamiya, twórca znany z takich gier jak Resident Evil 2, Devil May Cry, Okami i Bayonetta, wyraził zainteresowanie stworzeniem nowej odsłony serii Castlevania. Japoński projektant uważa, że jego zespół mógłby przygotować coś naprawdę ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/11ca89e23a66e84ded9c/11ca89e23a66e84ded9c.jpg",
+      "articleSlug": "6bfb97f30cf7",
+      "articleBody": "Hideki Kamiya, twórca znany z takich gier jak Resident Evil 2, Devil May Cry, Okami i Bayonetta, wyraził zainteresowanie stworzeniem nowej odsłony serii Castlevania. Japoński projektant uważa, że jego zespół mógłby przygotować coś naprawdę ..."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Święta gra Polaków za mniej niż dychę. Kupisz ją na GOG-u taniej niż paczkę chipsów",
+      "sourceUrl": "https://cdaction.pl/newsy/swieta-gra-polakow-za-mniej-niz-dyche-kupisz-ja-na-gog-u-taniej-niz-paczke-chipsow/",
+      "publishedAt": "2026-11-25T16:46+01:00",
+      "summary": "Heroes of Might & Magic 3 to jedna z najbardziej kultowych strategii w historii i prawdziwy klasyk w Polsce. Teraz można ją kupić na GOG-u za zaledwie 9,85 zł. To aż 75 proc. taniej od ceny regularnej, a zbliżająca się premiera remake'u sprawia, że warto żeby nadrobić tę legendarna pozycję.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/077e2d394794adcb0c084d5d24d4-1260x583.jpg",
+      "articleSlug": "1ac2b3062499",
+      "articleBody": "Heroes of Might & Magic 3 to jedna z najbardziej kultowych strategii w historii i prawdziwy klasyk w Polsce. Teraz można ją kupić na GOG-u za zaledwie 9,85 zł. To aż 75 proc. taniej od ceny regularnej, a zbliżająca się premiera remake'u sprawia, że warto żeby nadrobić tę legendarna pozycję."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 ocenzurowane w kilku krajach. Powód jest dość zaskakujący",
+      "sourceUrl": "https://www.ppe.pl/news/434550/gta-6-ocenzurowane-w-kilku-krajach-powod-jest-dosc-zaskakujacy.html",
+      "publishedAt": "2026-11-25T16:45+01:00",
+      "summary": "Australijska wersja GTA 6 zawiera nietypową zmianę, której nie znajdziemy w międzynarodowym wydaniu gry.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8415225a1ac45a5fd275/8415225a1ac45a5fd275.jpg",
+      "articleSlug": "b4781a859f40",
+      "articleBody": "Australijska wersja GTA 6 zawiera nietypową zmianę, której nie znajdziemy w międzynarodowym wydaniu gry."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday 2026 w GOG. Nowe hity i retro perełki z rabatami do -95%!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-2026-w-gog-nowe-hity-i-retro-perelki-z-rabatami-do-95/",
+      "publishedAt": "2026-11-25T16:31+01:00",
+      "summary": "Wystartowała tegoroczna odsłona wyprzedaży Black Friday w GOG.com. Sklep chwali się ponad 8 tysiącami promocji na gry PC, które są DRM-Free, więc każdy powinien znaleźć tutaj coś dobrego. My postanowiliśmy przygotować dla Was wpis z najlepszymi ofertami. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-gog-MINIATURKA-224x224.jpg",
+      "articleSlug": "e6e1d3847483",
+      "articleBody": "Wystartowała tegoroczna odsłona wyprzedaży Black Friday w GOG.com. Sklep chwali się ponad 8 tysiącami promocji na gry PC, które są DRM-Free, więc każdy powinien znaleźć tutaj coś dobrego. My postanowiliśmy przygotować dla Was wpis z najlepszymi ofertami. Czytaj więcej »"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Sprawdziłem GTA 6 na PS5 i PS5 Pro. Droższa konsola oferuje lepszą grafikę, ale zdecydowanie odradzam przesiadkę",
+      "sourceUrl": "https://www.gry-online.pl/opinie/chcesz-wydac-kilka-tysiecy-zlotych-by-gta-6-wygladalo-lepiej-spra/z749df",
+      "publishedAt": "2026-11-25T16:30+01:00",
+      "summary": "GTA 6 zachwyca grafiką już na podstawowym PS5, ale wersja na PS5 Pro potrafi dorzucić kilka wizualnych usprawnień. Czy różnice są warte dopłaty do mocniejszej konsoli? Sprawdziłem obie wersje i wiem, w co lepiej zainwestować.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533316196.jpg",
+      "articleSlug": "7b780d789f46",
+      "articleBody": "GTA 6 zachwyca grafiką już na podstawowym PS5, ale wersja na PS5 Pro potrafi dorzucić kilka wizualnych usprawnień. Czy różnice są warte dopłaty do mocniejszej konsoli? Sprawdziłem obie wersje i wiem, w co lepiej zainwestować."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ponad 560 mln odsłon w 24 godziny. Nowy zwiastun jednego z najbardziej oczekiwanych filmów roku bije rekordy Disneya",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-560-mln-odslon-w-24-godziny-nowy-zwiastun-jednego-z-najbard/z732477",
+      "publishedAt": "2026-11-25T16:18+01:00",
+      "summary": "Finałowy zwiastun Avengers: Doomsday zebrał ponad 560 mln wyświetleń w ciągu pierwszej doby. Tym samym zapowiedź grudniowego widowiska Marvela została drugim najchętniej oglądanym trailerem w historii oraz rekordzistą Disneya.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533311043.jpg",
+      "articleSlug": "3c22fa66451e",
+      "articleBody": "Finałowy zwiastun Avengers: Doomsday zebrał ponad 560 mln wyświetleń w ciągu pierwszej doby. Tym samym zapowiedź grudniowego widowiska Marvela została drugim najchętniej oglądanym trailerem w historii oraz rekordzistą Disneya."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka Xiaomi 67W HyperCharge 3A + kabel USB za 54,99 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-xiaomi-67w-hypercharge-3a-kabel-usb-za-5499-zl-na-allegro/",
+      "publishedAt": "2026-11-25T16:06+01:00",
+      "summary": "Zaprojektowana z myślą o smartfonach serii Mi, Redmi i POCO ładowarka Xiaomi HyperCharge, możliwa jest do kupienia taniej poprzez serwis Allegro. Model z dedykowanym kablem USB w zestawie, wspierający moc ładowania do 67W, kosztuje 54,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/xiaomi-hypercharge-67W-2b-224x224.jpg",
+      "articleSlug": "f3c4ffa6c0e4",
+      "articleBody": "Zaprojektowana z myślą o smartfonach serii Mi, Redmi i POCO ładowarka Xiaomi HyperCharge, możliwa jest do kupienia taniej poprzez serwis Allegro. Model z dedykowanym kablem USB w zestawie, wspierający moc ładowania do 67W, kosztuje 54,99 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola Nintendo Switch 2 z wymienną baterią za 2139 zł (210 zł taniej) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-z-wymienna-bateria-za-2139-zl-210-zl-taniej-w-x-kom/",
+      "publishedAt": "2026-11-25T16:03+01:00",
+      "summary": "Odświeżony model Nintendo Switch 2, w którym macie bezproblemowy dostęp do baterii celem jej wymiany w razie potrzeby, jest możliwy do kupienia w x-komie nieco taniej. Za najnowszy model konsoli giganta z Kioto, zapłacicie teraz 2139 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocje-na-Nintendo-Switch-2-w-x-kom.-Konsola-bez-dodatkow-dostepna-za-jedyne-1799-zl_miniaturka-224x224.jpg",
+      "articleSlug": "744dc034c83a",
+      "articleBody": "Odświeżony model Nintendo Switch 2, w którym macie bezproblemowy dostęp do baterii celem jej wymiany w razie potrzeby, jest możliwy do kupienia w x-komie nieco taniej. Za najnowszy model konsoli giganta z Kioto, zapłacicie teraz 2139 zł. Czytaj więcej »"
+    },
     {
       "sourceName": "PPE",
       "title": "Dead or Alive świętuje 30-lecie! Twórcy rozdają dodatki do „szóstki” i pokazują nową Kasumi",
@@ -177,171 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533309927.jpg",
       "articleSlug": "a7bcd8bc5ebc",
       "articleBody": "Przygotowaliśmy dla Was interaktywną mapę GTA 6, która ułatwi eksplorację ogromnego świata stworzonego przez Rockstar Games. To nie tylko zbiór znaczników, ale również źródło szczegółowych instrukcji, zdjęć i materiałów wideo, które pomogą Wam odkryć sekrety gry. Całość dostępna jest w języku polskim."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 uruchomione na PC! Nieoficjalne porty zrobiły ogromny postęp w mniej niż dobę",
-      "sourceUrl": "https://www.ppe.pl/news/434546/gta-6-uruchomione-na-pc-nieoficjalne-porty-zrobily-ogromny-postep-w-mniej-niz-dobe.html",
-      "publishedAt": "2026-11-25T14:45+01:00",
-      "summary": "Wyciek plików z wersji GTA 6 na Xboksa Series X szybko przyniósł nieoczekiwane rezultaty.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg",
-      "articleSlug": "ba1f39c4b7aa",
-      "articleBody": "Wyciek plików z wersji GTA 6 na Xboksa Series X szybko przyniósł nieoczekiwane rezultaty."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Wysyłali po kilka gier tygodniowo dzięki AI. Organizatorzy mieli dość i zawiesili konkurs retro",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/wysylali-po-kilka-gier-tygodniowo-dzieki-ai-organizatorzy-mieli-d/z532475",
-      "publishedAt": "2026-11-25T14:41+01:00",
-      "summary": "Zalew gier wygenerowanych przy pomocy AI spowodował zawieszenie działalności konkursu Atari Homebrew Awards poświęconego tworzeniu produkcji retro.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533310085.jpg",
-      "articleSlug": "bd722376d8a9",
-      "articleBody": "Zalew gier wygenerowanych przy pomocy AI spowodował zawieszenie działalności konkursu Atari Homebrew Awards poświęconego tworzeniu produkcji retro."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 przegrzewa i uszkadza konsole PS5. Gracze alarmują, że ich sprzęt nie nadaje się już do użytku",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-przegrzewa-i-uszkadza-konsole-ps5-gracze-alarmuja-ze-ich-sprzet-nie-nadaje-sie-juz-do-uzytku/",
-      "publishedAt": "2026-11-25T14:30+01:00",
-      "summary": "To pechowe wyjątki czy niebezpieczne zjawisko?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-13.jpg",
-      "articleSlug": "b392abcf7d2e",
-      "articleBody": "To pechowe wyjątki czy niebezpieczne zjawisko?"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pady Xbox Series taniej w Amazon PL. Storm Breaker Edycja Specjalna za 215 zł",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/pady-xbox-series-taniej-w-amazon-pl-storm-breaker-edycja-specjalna-za-215-zl/",
-      "publishedAt": "2026-11-25T14:30+01:00",
-      "summary": "Specjalna edycja kontrolera bezprzewodowego Xbox Series – Storm Breaker, pojawiła się w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Pad w akcentach czerni i bieli, kosztuje aktualnie 214,88 zł. Dodatkowo, zakup uprawnia Was do otrzymania bonu na kwotę 50 zł do wykorzystania przy kolejnych zakupach, jeśli wasz koszyk przekroczy 250 zł. To jeden z wielu kolorów, które zostały teraz przecenione w Amazonie. Znajdziecie je w rozwinięciu tego wpisu. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/storm-breaker-xbox-224x224.jpg",
-      "articleSlug": "77af914398ea",
-      "articleBody": "Specjalna edycja kontrolera bezprzewodowego Xbox Series – Storm Breaker, pojawiła się w bardzo dobrej cenie w polskim oddziale sklepu Amazon. Pad w akcentach czerni i bieli, kosztuje aktualnie 214,88 zł. Dodatkowo, zakup uprawnia Was do otrzymania bonu na kwotę 50 zł do wykorzystania przy kolejnych zakupach, jeśli wasz koszyk przekroczy 250 zł. To jeden z wielu kolorów, które zostały teraz przecenione w Amazonie. Znajdziecie je w rozwinięciu tego wpisu. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Prime Video nie powiedział ostatniego słowa! Mike Flanagan ujawnia ważne informacje o nowej produkcji",
-      "sourceUrl": "https://www.ppe.pl/news/434537/prime-video-nie-powiedzial-ostatniego-slowa-mike-flanagan-ujawnia-wazne-informacje-o-nowej-produkcji.html",
-      "publishedAt": "2026-11-25T14:25+01:00",
-      "summary": "Serial „Carrie” od Mike'a Flanagana doczeka się kontynuacji, a prace nad drugim sezonem są już na zaawansowanym etapie przygotowań.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c840dae283d7f8faeba4/c840dae283d7f8faeba4.png",
-      "articleSlug": "26de82e58e32",
-      "articleBody": "Serial „Carrie” od Mike'a Flanagana doczeka się kontynuacji, a prace nad drugim sezonem są już na zaawansowanym etapie przygotowań."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Jak działa policja i system gwiazdek w GTA 6? Te rzeczy powinniście wiedzieć, zanim złamiecie prawo jako Jason i Lucia",
-      "sourceUrl": "https://cdaction.pl/teksty/jak-dziala-policja-i-system-gwiazdek-w-gta-6-te-rzeczy-powinniscie-wiedziec-zanim-zlamiecie-prawo-jako-jason-i-lucia/",
-      "publishedAt": "2026-11-25T14:15+01:00",
-      "summary": "Policja i sposoby radzenia sobie z nią towarzyszą serii Grand Theft Auto od samego początku. Najnowsza odsłona kultowego cyklu wyraźnie rozbudowuje mechaniki pościgu i ucieczki, dlatego postanowiliśmy przyjrzeć im się z bliska.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-10.jpg",
-      "articleSlug": "a881534072c6",
-      "articleBody": "Policja i sposoby radzenia sobie z nią towarzyszą serii Grand Theft Auto od samego początku. Najnowsza odsłona kultowego cyklu wyraźnie rozbudowuje mechaniki pościgu i ucieczki, dlatego postanowiliśmy przyjrzeć im się z bliska."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Uważaj na ten sterownik NVIDIA! Test wykazał gorszą wydajność i spadek FPS-ów w grach",
-      "sourceUrl": "https://www.ppe.pl/news/434536/uwazaj-na-ten-sterownik-nvidia-test-wykazal-gorsza-wydajnosc-i-spadek-fps-ow-w-grach.html",
-      "publishedAt": "2026-11-25T14:07+01:00",
-      "summary": "Najnowsze sterowniki NVIDIA mogą negatywnie wpływać na wydajność Call of Duty: Modern Warfare 4.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/77bd31d739d201830fe8/77bd31d739d201830fe8.webp",
-      "articleSlug": "139208380504",
-      "articleBody": "Najnowsze sterowniki NVIDIA mogą negatywnie wpływać na wydajność Call of Duty: Modern Warfare 4."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Might and Magic The Card Game właśnie opuściło wczesny dostęp. Wersja premierowa dostała masę nowości",
-      "sourceUrl": "https://cdaction.pl/newsy/might-and-magic-the-card-game-wlasnie-opuscilo-wczesny-dostep-wersja-premierowa-dostala-mase-nowosci/",
-      "publishedAt": "2026-11-25T14:00+01:00",
-      "summary": "Czekaliście na to wydarzenie?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-25T125621.538-1260x709.jpg",
-      "articleSlug": "50db54976e89",
-      "articleBody": "Czekaliście na to wydarzenie?"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Pierwszy Mass Effect do dziś potrafi zszokować ilością wyciętej zawartości. Dużą część z niej można po latach ograć",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/pierwszy-mass-effect-do-dzis-potrafi-zszokowac-iloscia-wycietej-z/z132471",
-      "publishedAt": "2026-11-25T13:57+01:00",
-      "summary": "Gracz przywrócił wyciętą zawartość z poziomu Mass Effecta, który w oryginalnej grze trwa zaledwie pięć minut.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533307314.jpg",
-      "articleSlug": "dc6d47622fd9",
-      "articleBody": "Gracz przywrócił wyciętą zawartość z poziomu Mass Effecta, który w oryginalnej grze trwa zaledwie pięć minut."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO Batman Legacy of the Dark Knight Edycja Deluxe na Nintendo Switch 2 za 319 zł na Allegro Black Weeks",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/lego-batman-legacy-of-the-dark-knight-edycja-deluxe-na-nintendo-switch-2-za-319-zl-na-allegro-black-weeks/",
-      "publishedAt": "2026-11-25T13:55+01:00",
-      "summary": "Zbliżamy się do Black Friday, a zaraz po nim w zasadzie Mikołajki i Gwiazdka. Jeśli lubicie grać w gry z uniwersum duńskich klocków, oferta na LEGO Batman: Legacy of the Dark Knight – Edycja Deluxe, może być dla Was. Poprzez serwis Allegro możecie bowiem nabyć wydanie przeznaczone na konsole Nintendo Switch 2 za 319 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lego-batman-legacy-of-the-dark-knight-deluxe-edition-miniaturka-224x224.jpg",
-      "articleSlug": "94b7308db606",
-      "articleBody": "Zbliżamy się do Black Friday, a zaraz po nim w zasadzie Mikołajki i Gwiazdka. Jeśli lubicie grać w gry z uniwersum duńskich klocków, oferta na LEGO Batman: Legacy of the Dark Knight – Edycja Deluxe, może być dla Was. Poprzez serwis Allegro możecie bowiem nabyć wydanie przeznaczone na konsole Nintendo Switch 2 za 319 złotych. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Silent Hill dostał drugie życie! Kultowy horror oferuje ray tracing i ulepszone tekstury",
-      "sourceUrl": "https://www.ppe.pl/news/434535/silent-hill-dostal-drugie-zycie-kultowy-horror-oferuje-ray-tracing-i-ulepszone-tekstury.html",
-      "publishedAt": "2026-11-25T13:49+01:00",
-      "summary": "Kultowy Silent Hill z 1999 roku doczekał się fanowskiego portu na komputery z systemami Windows i Linux.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ad48b4c5e7fadc2a575b/ad48b4c5e7fadc2a575b.jpg",
-      "articleSlug": "c310a01e0665",
-      "articleBody": "Kultowy Silent Hill z 1999 roku doczekał się fanowskiego portu na komputery z systemami Windows i Linux."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "15-letnia Terraria wciąż zaskakuje. Twórcy niezależnego hitu wypuścili aktualizację 1.4.6 z pierwszą fazą crossplayu",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/15-letnia-terraria-wciaz-zaskakuje-tworcy-niezaleznego-hitu-wypus/z032470",
-      "publishedAt": "2026-11-25T13:44+01:00",
-      "summary": "Terraria otrzymała funkcję crossplay, aczkolwiek póki co w mocno ograniczonej formie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533306422.jpg",
-      "articleSlug": "aedda5d7c8d1",
-      "articleBody": "Terraria otrzymała funkcję crossplay, aczkolwiek póki co w mocno ograniczonej formie."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "The Lord of the Rings: War in the North Legacy Edition na PC za 33 zł w WinGameStore. Historycznie najniższa cena",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/the-lord-of-the-rings-war-in-the-north-legacy-edition-na-pc-za-33-zl-w-wingamestore-historycznie-najnizsza-cena/",
-      "publishedAt": "2026-11-25T13:39+01:00",
-      "summary": "Przystosowana do rozdzielczości 4K i 60 klatek na sekundę wersja The Lord of the Rings: War in the North – Legacy Edition, pojawiła się w bardzo dobrej cenie w sklepie WinGameStore. Trzecioosobowy RPG, który możecie ograć kooperacyjnie na podzielonym ekranie lub on-line, kosztuje około 33 złotych. Pamiętajcie tylko, że jest to oryginalna wersja gry dostosowana do nowych urządzeń, ale nie jest remasterem. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Prawie-jak-Powrot-Krola.-Gra-Wladca-Pierscieni_-Wojna-na-Polnocy-dostepna-na-PC-i-konsolach_miniaturka-224x224.jpg",
-      "articleSlug": "20ae966c9896",
-      "articleBody": "Przystosowana do rozdzielczości 4K i 60 klatek na sekundę wersja The Lord of the Rings: War in the North – Legacy Edition, pojawiła się w bardzo dobrej cenie w sklepie WinGameStore. Trzecioosobowy RPG, który możecie ograć kooperacyjnie na podzielonym ekranie lub on-line, kosztuje około 33 złotych. Pamiętajcie tylko, że jest to oryginalna wersja gry dostosowana do nowych urządzeń, ale nie jest remasterem. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Half-Life 3 bez ekranów ładowania? Nowe przecieki ujawniają ambitne rozwiązania Valve",
-      "sourceUrl": "https://www.ppe.pl/news/434533/half-life-3-bez-ekranow-ladowania-nowe-przecieki-ujawniaja-ambitne-rozwiazania-valve.html",
-      "publishedAt": "2026-11-25T13:33+01:00",
-      "summary": "Half-Life 3 może zaoferować rozwiązania technologiczne, które znacząco wpłyną na sposób eksplorowania świata i prowadzenia rozgrywki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/78914d8ba75a04433296/78914d8ba75a04433296.jpg",
-      "articleSlug": "d61425e70e8e",
-      "articleBody": "Half-Life 3 może zaoferować rozwiązania technologiczne, które znacząco wpłyną na sposób eksplorowania świata i prowadzenia rozgrywki."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Sieć klubów ze striptizem cieszy się wzrostem popularności dzięki GTA 6. Tancerki odtwarzają ruchy z gry w prawdziwym życiu",
-      "sourceUrl": "https://cdaction.pl/newsy/siec-klubow-ze-striptizem-cieszy-sie-wzrostem-popularnosci-dzieki-gta-6-tancerki-odtwarzaja-ruchy-z-gry-w-prawdziwym-zyciu/",
-      "publishedAt": "2026-11-25T13:30+01:00",
-      "summary": "Spearmint Rhino zatrudniło specjalnie choreografkę, by im w tym pomogła.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1-1260x709.jpg",
-      "articleSlug": "88955676c774",
-      "articleBody": "Spearmint Rhino zatrudniło specjalnie choreografkę, by im w tym pomogła."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
+  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
 }
