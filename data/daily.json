@@ -1,18 +1,29 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T07:53+01:00",
+  "updatedAt": "2026-11-25T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Nie będzie nieoficjalnej wersji GTA 6 na PC. Prawnicy rozpoczęli konkretne działania",
-    "summary": "Take-Two nie zamierza biernie patrzeć na działania graczy związane z nieoficjalnym portem GTA 6. Po rozpoczęciu działań przeciwko grupie odpowiedzialnej za projekt, przyszedł czas na usuwanie postów.",
-    "sourceUrl": "https://www.ppe.pl/news/434453/nie-bedzie-nieoficjalnej-wersji-gta-6-na-pc-prawnicy-rozpoczeli-konkretne-dzialania.html",
-    "articleSlug": "4d6cad55655a",
-    "imageUrl": "https://pliki.ppe.pl/storage/bbd2c313bf2a3bc14a76/bbd2c313bf2a3bc14a76.jpg"
+    "title": "Hokus: Królestwo magii (2026) - recenzja filmu [Disney]. Pokus sto, ale czy warto się na nie nabierać?",
+    "summary": "Billie Doe od zawsze czuła, że jest inna niż wszyscy. Pewnego dnia przekonuje się jednak, jak bardzo prawdziwe jest to stwierdzenie. Trochę przez przypadek, a trochę za sprawą nastoletniego buntu odkrywa, że jest czarownicą i trafia do innego w...",
+    "sourceUrl": "https://www.ppe.pl/recenzje/434452/hokus-krolestwo-magii-2026-recenzja-filmu-disney-pokus-sto-ale-czy-warto-sie-na-nie-nabierac.html",
+    "articleSlug": "5430d545e113",
+    "imageUrl": "https://pliki.ppe.pl/storage/37b73e7ea33ee0224f4d/37b73e7ea33ee0224f4d.webp"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Hokus: Królestwo magii (2026) - recenzja filmu [Disney]. Pokus sto, ale czy warto się na nie nabierać?",
+      "sourceUrl": "https://www.ppe.pl/recenzje/434452/hokus-krolestwo-magii-2026-recenzja-filmu-disney-pokus-sto-ale-czy-warto-sie-na-nie-nabierac.html",
+      "publishedAt": "2026-11-25T08:00+01:00",
+      "summary": "Billie Doe od zawsze czuła, że jest inna niż wszyscy. Pewnego dnia przekonuje się jednak, jak bardzo prawdziwe jest to stwierdzenie. Trochę przez przypadek, a trochę za sprawą nastoletniego buntu odkrywa, że jest czarownicą i trafia do innego w...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/37b73e7ea33ee0224f4d/37b73e7ea33ee0224f4d.webp",
+      "articleSlug": "5430d545e113",
+      "articleBody": "Billie Doe od zawsze czuła, że jest inna niż wszyscy. Pewnego dnia przekonuje się jednak, jak bardzo prawdziwe jest to stwierdzenie. Trochę przez przypadek, a trochę za sprawą nastoletniego buntu odkrywa, że jest czarownicą i trafia do innego w..."
+    },
     {
       "sourceName": "PPE",
       "title": "Nie będzie nieoficjalnej wersji GTA 6 na PC. Prawnicy rozpoczęli konkretne działania",
