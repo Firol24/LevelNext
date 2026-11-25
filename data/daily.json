@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T12:01+01:00",
+  "updatedAt": "2026-11-25T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 rozbija bank na YouTube z kosmicznym wynikiem, a gracze odkryli sposób na przeprowadzanie cichych napadów",
-    "summary": "Statystyki opublikowane przez YouTube dobrze obrazują, jak dużym zainteresowaniem cieszy się GTA 6. Już niedługo fani gry będą mogli zacząć kolekcjonować oficjalny zestaw kart.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-rozbija-bank-na-youtube-z-kosmicznym-wynikiem-a-gracze-odkr/z43246e",
-    "articleSlug": "223a4a22c221",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533303548.jpg"
+    "title": "15-letnia Terraria wciąż zaskakuje. Twórcy niezależnego hitu wypuścili aktualizację 1.4.6 z pierwszą fazą crossplayu",
+    "summary": "Terraria otrzymała funkcję crossplay, aczkolwiek póki co w mocno ograniczonej formie.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/15-letnia-terraria-wciaz-zaskakuje-tworcy-niezaleznego-hitu-wypus/z032470",
+    "articleSlug": "aedda5d7c8d1",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533306422.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "15-letnia Terraria wciąż zaskakuje. Twórcy niezależnego hitu wypuścili aktualizację 1.4.6 z pierwszą fazą crossplayu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/15-letnia-terraria-wciaz-zaskakuje-tworcy-niezaleznego-hitu-wypus/z032470",
+      "publishedAt": "2026-11-25T13:44+01:00",
+      "summary": "Terraria otrzymała funkcję crossplay, aczkolwiek póki co w mocno ograniczonej formie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533306422.jpg",
+      "articleSlug": "aedda5d7c8d1",
+      "articleBody": "Terraria otrzymała funkcję crossplay, aczkolwiek póki co w mocno ograniczonej formie."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 daje konsolom potężny wycisk. Streamerka twierdzi, że gra uszkodziła jej PS5, a testy Digital Foundry pokazują, że Xbox Series X radzi sobie lepiej",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-daje-konsolom-potezny-wycisk-streamerka-twierdzi-ze-gra-usz/z53246f",
+      "publishedAt": "2026-11-25T13:16+01:00",
+      "summary": "Testy ekspertów wykazały, że GTA 6 działa lepiej na Xboksie Series X niż na PlayStation 5. Internauci zaczęli krytykować kampanię marketingową Sony, w której przekonywano, że hit Rockstara „plays best on PS5”.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533304963.jpg",
+      "articleSlug": "228b0308b699",
+      "articleBody": "Testy ekspertów wykazały, że GTA 6 działa lepiej na Xboksie Series X niż na PlayStation 5. Internauci zaczęli krytykować kampanię marketingową Sony, w której przekonywano, że hit Rockstara „plays best on PS5”."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Ted Lasso nie złożył jeszcze wypowiedzenia. Apple TV zapowiedział 5. sezon",
+      "sourceUrl": "https://www.ppe.pl/news/434530/ted-lasso-nie-zlozyl-jeszcze-wypowiedzenia-apple-tv-zapowiedzial-5-sezon.html",
+      "publishedAt": "2026-11-25T13:00+01:00",
+      "summary": "Apple TV wie, że nie zabija się kury znoszącej złote jaja. Po kilku miesiącach niepewności serwis potwierdził, że zamierza wciąż inwestować w jeden ze swoich największych serialowych hitów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4469fcb3688d53727044/4469fcb3688d53727044.jpg",
+      "articleSlug": "5000e34b5f56",
+      "articleBody": "Apple TV wie, że nie zabija się kury znoszącej złote jaja. Po kilku miesiącach niepewności serwis potwierdził, że zamierza wciąż inwestować w jeden ze swoich największych serialowych hitów."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "GTA 6 rozbija bank na YouTube z kosmicznym wynikiem, a gracze odkryli sposób na przeprowadzanie cichych napadów",
@@ -25,6 +58,17 @@
       "articleBody": "Statystyki opublikowane przez YouTube dobrze obrazują, jak dużym zainteresowaniem cieszy się GTA 6. Już niedługo fani gry będą mogli zacząć kolekcjonować oficjalny zestaw kart."
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Wypróbuj Star Wars Galactic Racer za darmo na Xbox Series. Posiadacze PS5 potrzebują PlayStation Plus Premium!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/wyprobuj-star-wars-galactic-racer-za-darmo-na-xbox-series-posiadacze-ps5-potrzebuja-playstation-plus-premium/",
+      "publishedAt": "2026-11-25T12:54+01:00",
+      "summary": "Jeśli nie jesteście pewni co do zakupu gry wyścigowej z uniwersum Gwiezdnych Wojen, macie teraz najlepszą okazję do sprawdzenia tego tytułu. Posiadacze konsol Xbox Series X|S mogą bowiem zagrać w Star Wars: Galactic Racer za darmo, dzięki wersji demonstracyjnej. W nieco gorszej sytuacji są użytkownicy konsol japońskiego giganta. W tym przypadku wersja próbna gry jest dostępna jedynie z najwyższym progiem abonamentu PS+ Premium. Xbox Store: Star Wars: Galactic Racer Demo (Xbox Series X|S) za darmo PlayStation Store: Star Wars: Galactic Racer Wersja próbna gry PS5 graj 2 godziny jeśli posiadasz PS+ Premium Spodobało się Wam demo? Sprawdźcie, gdzie możecie kupić cyfrowe wydanie Star Wars: Galactic Racer najtaniej. STAR WARS: Galactic Racer PS5 Więcej ofert znajdziesz na GG.deals STAR WARS: Galactic Racer Xbox Series Więcej ofert znajdziesz na GG.deals Zobacz również: Pudełkowe Star Wars Gal",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/Star-Wars-Galactic-Racer-logo-224x224.jpg",
+      "articleSlug": "7ae3860b306d",
+      "articleBody": "Jeśli nie jesteście pewni co do zakupu gry wyścigowej z uniwersum Gwiezdnych Wojen, macie teraz najlepszą okazję do sprawdzenia tego tytułu. Posiadacze konsol Xbox Series X|S mogą bowiem zagrać w Star Wars: Galactic Racer za darmo, dzięki wersji demonstracyjnej. W nieco gorszej sytuacji są użytkownicy konsol japońskiego giganta. W tym przypadku wersja próbna gry jest dostępna jedynie z najwyższym progiem abonamentu PS+ Premium. Xbox Store: Star Wars: Galactic Racer Demo (Xbox Series X|S) za darmo PlayStation Store: Star Wars: Galactic Racer Wersja próbna gry PS5 graj 2 godziny jeśli posiadasz PS+ Premium Spodobało się Wam demo? Sprawdźcie, gdzie możecie kupić cyfrowe wydanie Star Wars: Galactic Racer najtaniej. STAR WARS: Galactic Racer PS5 Więcej ofert znajdziesz na GG.deals STAR WARS: Galactic Racer Xbox Series Więcej ofert znajdziesz na GG.deals Zobacz również: Pudełkowe Star Wars Gal"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Gracz policzył wszystkie budynki w GTA 6. Zaskakująco duża część z nich jest otwarta na zwiedzanie",
       "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-policzyl-wszystkie-budynki-w-gta-6-zaskakujaco-duza-czesc-z/z33246d",
@@ -34,6 +78,72 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533302997.jpg",
       "articleSlug": "1d2289294c02",
       "articleBody": "Jak wiele możliwości oferuje GTA 6, jeżeli chodzi o eksplorację? Gracz przeliczył, ile budynków znajdziemy w Leonidzie – i do ilu z nich możemy wejść."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Gothic 3 po 20 latach trafia na PS5 i Xbox Series X/S! Kultowe RPG otrzymało nową wersję",
+      "sourceUrl": "https://www.ppe.pl/news/434531/gothic-3-po-20-latach-trafia-na-ps5-i-xbox-series-x-s-kultowe-rpg-otrzymalo-nowa-wersje.html",
+      "publishedAt": "2026-11-25T12:45+01:00",
+      "summary": "Po niemal dwudziestu latach od pecetowego debiutu z 2006 roku gra Gothic 3 trafiła na współczesne konsole.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8823c0c59597b042561a/8823c0c59597b042561a.jpg",
+      "articleSlug": "50a538fa1686",
+      "articleBody": "Po niemal dwudziestu latach od pecetowego debiutu z 2006 roku gra Gothic 3 trafiła na współczesne konsole."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Star Wars Galactic Racer Deluxe Edition na PS5 za 189 zł w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-star-wars-galactic-racer-deluxe-edition-na-ps5-za-189-zl-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-25T12:44+01:00",
+      "summary": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie w RTV Euro AGD. Pudełko z grą wyścigową, za której stworzeniem stoją osoby pracujące przy serii Burnout, kosztuje 189 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/star-wars-galactic-racer-deluxe-edition-224x224.jpg",
+      "articleSlug": "8c87d341f394",
+      "articleBody": "Bogatsze o cyfrową zawartość wydanie Star Wars: Galactic Racer – Deluxe Edition, możecie nabyć w dobrej cenie w RTV Euro AGD. Pudełko z grą wyścigową, za której stworzeniem stoją osoby pracujące przy serii Burnout, kosztuje 189 złotych, w wersji na konsole Sony PlayStation 5. Czytaj więcej »"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe The Blood of Dawnwalker Launch Edition na PS5 + Steelbook za 174,11 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-the-blood-of-dawnwalker-launch-edition-na-ps5-steelbook-za-17411-zl-na-allegro/",
+      "publishedAt": "2026-11-25T12:38+01:00",
+      "summary": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 174,11 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Promocja-na-The-Blood-of-Dawnwalker-ps5_miniaturka-224x224.jpg",
+      "articleSlug": "73f4f083ed58",
+      "articleBody": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 174,11 zł! Czytaj więcej »"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Baldur’s Gate 3 na PC za 114,38 zł w Kinguinie",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/baldurs-gate-3-na-pc-za-11438-zl-w-kinguinie/",
+      "publishedAt": "2026-11-25T12:31+01:00",
+      "summary": "Jeśli lubicie RPG na setki godzin, Baldur’s Gate 3 na pewno was nie zawiedzie. W sklepie Kinguin macie możliwość teraz nabyć wielką grę Larian Studios trochę taniej. Pecetowe wydanie w formie gifta na Steam, dorwiecie aktualnie za nieco ponad 114 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Promocja-na-Baldurs-Gate-3_miniaturka-224x224.jpg",
+      "articleSlug": "10509d4c19e2",
+      "articleBody": "Jeśli lubicie RPG na setki godzin, Baldur’s Gate 3 na pewno was nie zawiedzie. W sklepie Kinguin macie możliwość teraz nabyć wielką grę Larian Studios trochę taniej. Pecetowe wydanie w formie gifta na Steam, dorwiecie aktualnie za nieco ponad 114 złotych. Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 i Red Dead Redemption 2 rozgrywają się w tym samym uniwersum? Gracze twierdzą, że to więcej niż zwykłe easter eggi",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-i-red-dead-redemption-2-rozgrywaja-sie-w-tym-samym-uniwersum-gracze-twierdza-ze-to-wiecej-niz-zwykle-easter-eggi/",
+      "publishedAt": "2026-11-25T12:30+01:00",
+      "summary": "I trzeba im chyba przyznać rację (tylko uważajcie na spoilery).",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-Red-Dead-Redemption-2.jpg",
+      "articleSlug": "d31b3c44c2a5",
+      "articleBody": "I trzeba im chyba przyznać rację (tylko uważajcie na spoilery)."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na akumulatorki AA i AAA Amazon Basics z okazji Black Friday 2026 24 sztuki AA już za 79 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-akumulatorki-aa-i-aaa-amazon-basics-z-okazji-black-friday-2026-24-sztuki-aa-juz-za-79-zl/",
+      "publishedAt": "2026-11-25T12:25+01:00",
+      "summary": "Pisaliśmy Wam już o bateriach, a teraz przyszła pora na akumulatorki. W trakcie Black Friday 2026 możecie zaopatrzyć się w kilka różnych typów, nadających się do ponownego ładowania, bateryjek. Oczywiście posegregowaliśmy wszystko według opłacalności. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/amazon-basics-12-aaa-2b-224x224.jpg",
+      "articleSlug": "cb84b98d6990",
+      "articleBody": "Pisaliśmy Wam już o bateriach, a teraz przyszła pora na akumulatorki. W trakcie Black Friday 2026 możecie zaopatrzyć się w kilka różnych typów, nadających się do ponownego ładowania, bateryjek. Oczywiście posegregowaliśmy wszystko według opłacalności. Czytaj więcej »"
     },
     {
       "sourceName": "GRY-Online",
@@ -56,6 +166,39 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533301107.jpg",
       "articleSlug": "6bd0fd71891c",
       "articleBody": "Rząd przygotował projekt ustawy zakładający cyfrową weryfikację wieku użytkowników mediów społecznościowych. Celem przepisów jest ograniczenie osobom nieletnim dostępu do treści nieodpowiednich dla ich wieku."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "System seller Nintendo Switch 2 właśnie stał się jeszcze lepszy",
+      "sourceUrl": "https://www.ppe.pl/news/434522/system-seller-nintendo-switch-2-wlasnie-stal-sie-jeszcze-lepszy.html",
+      "publishedAt": "2026-11-25T12:15+01:00",
+      "summary": "Jedna z najlepszych gier dostępnych na Switch 2, którą nasz recenzent nazwał \"system sellerem\" tej konsoli, właśnie otrzymała dużą aktualizację.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4538e5e6245bcf14ba1b/4538e5e6245bcf14ba1b.jpg",
+      "articleSlug": "d7c66ed31392",
+      "articleBody": "Jedna z najlepszych gier dostępnych na Switch 2, którą nasz recenzent nazwał \"system sellerem\" tej konsoli, właśnie otrzymała dużą aktualizację."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Mandy z GTA 6 nie może poradzić sobie z popularnością. Faceci ją uwielbiają",
+      "sourceUrl": "https://www.ppe.pl/news/434525/mandy-z-gta-6-nie-moze-poradzic-sobie-z-popularnoscia-faceci-ja-uwielbiaja.html",
+      "publishedAt": "2026-11-25T12:09+01:00",
+      "summary": "Grand Theft Auto 6 nie ma jeszcze nawet tygodnia, a internet już zdążył oszaleć na punkcie jednej z pierwszych postaci pobocznych w całej grze.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8feb5fde28f976fe3a11/8feb5fde28f976fe3a11.jpg",
+      "articleSlug": "3a312160a46a",
+      "articleBody": "Grand Theft Auto 6 nie ma jeszcze nawet tygodnia, a internet już zdążył oszaleć na punkcie jednej z pierwszych postaci pobocznych w całej grze."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Znamy nowe okno wydawnicze Lords of the Fallen 2. Dokładna data premiery pojawi się już wkrótce",
+      "sourceUrl": "https://cdaction.pl/newsy/znamy-nowe-okno-wydawnicze-lords-of-the-fallen-2-dokladna-data-premiery-pojawi-sie-juz-wkrotce/",
+      "publishedAt": "2026-11-25T12:00+01:00",
+      "summary": "Czekacie na tego soulslike’a?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-25T101601.956-1260x709.jpg",
+      "articleSlug": "6ffe386e1335",
+      "articleBody": "Czekacie na tego soulslike’a?"
     },
     {
       "sourceName": "GRY-Online",
@@ -199,149 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/6090263d06f5f3b9241b/6090263d06f5f3b9241b.jpg",
       "articleSlug": "7351649b6f04",
       "articleBody": "Pół świata od prawie tygodnia nie odchodzi od telewizorów, a konsole znikają ze sklepów jak świeże bułeczki, tymczasem pecetowcy sprawiają wrażenie, jakby premiera Grand Theft Auto 6 w ogóle ich nie ruszała."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Straszna wizja Google. Telewizja, w której oglądasz siebie",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/straszna-wizja-google-telewizja-w-ktorej-ogladasz-siebie/z432465",
-      "publishedAt": "2026-11-25T10:43+01:00",
-      "summary": "Włączasz telewizor, a tam ty. W komedii romantycznej, w kosmicznej przygodzie, w kryminale. Twoja twarz, twój głos, scenariusz napisany przez AI na podstawie tego, co oglądasz. A w środku reklamy. Tak wygląda „Mój kanał” z wniosku patentowego Google.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533295782.jpg",
-      "articleSlug": "dad82225ee3f",
-      "articleBody": "Włączasz telewizor, a tam ty. W komedii romantycznej, w kosmicznej przygodzie, w kryminale. Twoja twarz, twój głos, scenariusz napisany przez AI na podstawie tego, co oglądasz. A w środku reklamy. Tak wygląda „Mój kanał” z wniosku patentowego Google."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Najbardziej wyczekiwana strategia grudnia szykuje się do premiery. Dawn of War 4 dostało datę preloadu i tajemniczą zapowiedź piątego stronnictwa",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/najbardziej-wyczekiwana-strategia-grudnia-szykuje-sie-do-premiery/z332464",
-      "publishedAt": "2026-11-25T10:37+01:00",
-      "summary": "Nowy zwiastun Warhammer 40,000: Dawn of War 4 zdaje się potwierdzać piąte stronnictwo, które dołączy do walk na planecie Kronus.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533295305.jpg",
-      "articleSlug": "fcfab2dfde0d",
-      "articleBody": "Nowy zwiastun Warhammer 40,000: Dawn of War 4 zdaje się potwierdzać piąte stronnictwo, które dołączy do walk na planecie Kronus."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Najdroższy serial w historii będzie kontynuowany. Prime Video przedłuża fantasy, które pochłonęło ponad 1 mld dolarów",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/najdrozszy-serial-w-historii-bedzie-kontynuowany-prime-video-prze/z232463",
-      "publishedAt": "2026-11-25T10:36+01:00",
-      "summary": "Prime Video podjęło decyzję w sprawie przyszłości jednego ze swoich najgłośniejszych seriali. Platforma poinformowała, że rozpoczęto preprodukcję czwartego sezonu Pierścieni Władzy, a aktorzy wejdą na plan wiosną.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533294958.jpg",
-      "articleSlug": "733c0abcc05e",
-      "articleBody": "Prime Video podjęło decyzję w sprawie przyszłości jednego ze swoich najgłośniejszych seriali. Platforma poinformowała, że rozpoczęto preprodukcję czwartego sezonu Pierścieni Władzy, a aktorzy wejdą na plan wiosną."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Apple iPad mini 7 gen. A17 Pro 128GB za 1999 zł (750 zł taniej) w MediaMarkt",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/apple-ipad-mini-7-gen-a17-pro-128gb-za-1999-zl-750-zl-taniej-w-mediamarkt/",
-      "publishedAt": "2026-11-25T10:32+01:00",
-      "summary": "W ramach Black Friday 2026, możecie kupić taniej Apple iPad mini 7. generacji w sklepie MediaMarkt. Tablet z ekranem Liquid Retina o przekątnej 8.3″, wsparciem dla rysika Pencil i Pencil Pro oraz wbudowaną pamięcią 128GB, kosztuje 1999 zł. Oferta dotyczy modelu w kolorze gwiezdnej szarości. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/apple-ipad-mini-7-gen-a17-pro-2-224x224.jpg",
-      "articleSlug": "2a9959840fb3",
-      "articleBody": "W ramach Black Friday 2026, możecie kupić taniej Apple iPad mini 7. generacji w sklepie MediaMarkt. Tablet z ekranem Liquid Retina o przekątnej 8.3″, wsparciem dla rysika Pencil i Pencil Pro oraz wbudowaną pamięcią 128GB, kosztuje 1999 zł. Oferta dotyczy modelu w kolorze gwiezdnej szarości. Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "CD Projekt Red szykuje 2 niezapowiedziane projekty. Przeskok między Wiedźminem 3 a 4 ma być porównywalny do GTA 5 i 6",
-      "sourceUrl": "https://cdaction.pl/newsy/cd-projekt-red-szykuje-2-niezapowiedziane-projekty-przeskok-miedzy-wiedzminem-3-a-4-ma-byc-porownywalny-do-gta-5-i-6/",
-      "publishedAt": "2026-11-25T10:30+01:00",
-      "summary": "Polskie studio podchodzi ambitnie do nadchodzącego Wiedźmina 4.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/014_PL_Witcher_IV_CGI_screenshot_.jpeg",
-      "articleSlug": "63df69d42a04",
-      "articleBody": "Polskie studio podchodzi ambitnie do nadchodzącego Wiedźmina 4."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Te gry są nieśmiertelne. RDR 2 i GTA 5 zbliżają się do rekordów pomimo premiery GTA 6",
-      "sourceUrl": "https://www.ppe.pl/news/434521/te-gry-sa-niesmiertelne-rdr-2-i-gta-5-zblizaja-sie-do-rekordow-pomimo-premiery-gta-6.html",
-      "publishedAt": "2026-11-25T10:28+01:00",
-      "summary": "GTA 6 bije obecnie rekordy popularności, co nie znaczy jednak, że wszyscy są zadowoleni. Wręcz przeciwnie - produkcja podzieliła społeczność graczy, co znajduje wyraz w niskiej średniej na Metacritic.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/042aee5ca4b354f26c80/042aee5ca4b354f26c80.jpg",
-      "articleSlug": "de87e8e32c24",
-      "articleBody": "GTA 6 bije obecnie rekordy popularności, co nie znaczy jednak, że wszyscy są zadowoleni. Wręcz przeciwnie - produkcja podzieliła społeczność graczy, co znajduje wyraz w niskiej średniej na Metacritic."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "\"Boimy się\". Twórcy GTA 6 z ważnym apelem i konkretną zmianą w Rockstar Games",
-      "sourceUrl": "https://www.ppe.pl/news/434509/boimy-sie-tworcy-gta-6-z-waznym-apelem-i-konkretna-zmiana-w-rockstar-games.html",
-      "publishedAt": "2026-11-25T10:23+01:00",
-      "summary": "Mogłoby się wydawać, że zrobienie największej i najlepiej sprzedającej się gry w historii daje człowiekowi przynajmniej święty spokój o własny etat. Grand Theft Auto 6 zarobiło w sam dzień premiery blisko 3,8 miliarda dolarów i zgarnęło...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/9dda6cf74bf3b375eaf6/9dda6cf74bf3b375eaf6.jpg",
-      "articleSlug": "50297cc7506b",
-      "articleBody": "Mogłoby się wydawać, że zrobienie największej i najlepiej sprzedającej się gry w historii daje człowiekowi przynajmniej święty spokój o własny etat. Grand Theft Auto 6 zarobiło w sam dzień premiery blisko 3,8 miliarda dolarów i zgarnęło..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Oszczędź na zakupach w Amazon PL! Sprawdź obowiązujące rabaty Black Friday przed zakupami",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/oszczedz-na-zakupach-w-amazon-pl-sprawdz-obowiazujace-rabaty-black-friday-przed-zakupami/",
-      "publishedAt": "2026-11-25T10:20+01:00",
-      "summary": "Czarny Piątek już a kilka dni. Polski oddział Amazon wystartował ze swoimi promocjami nieco wcześniej, a dodatkowo nałożyło się kilka akcji, dzięki którym naprawdę sporo możecie zaoszczędzić. Postanowiliśmy dla Was wszystko zebrać w jednym miejscu dla lepszej przejrzystości. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-2026-amazon-miniaurka-224x224.jpg",
-      "articleSlug": "fab53804ccf5",
-      "articleBody": "Czarny Piątek już a kilka dni. Polski oddział Amazon wystartował ze swoimi promocjami nieco wcześniej, a dodatkowo nałożyło się kilka akcji, dzięki którym naprawdę sporo możecie zaoszczędzić. Postanowiliśmy dla Was wszystko zebrać w jednym miejscu dla lepszej przejrzystości. Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Uber Tristram i Diablo Clone zostaną na stałe w Diablo 4. Nowi przeciwnicy, ulepszony endgame, dodatkowe przedmioty i inne szczegóły 16. sezonu",
-      "sourceUrl": "https://cdaction.pl/newsy/uber-tristram-i-diablo-clone-zostana-na-stale-w-diablo-4-nowi-przeciwnicy-ulepszony-endgame-dodatkowe-przedmioty-i-inne-szczegoly-16-sezonu/",
-      "publishedAt": "2026-11-25T10:00+01:00",
-      "summary": "Już 1 grudnia rozpocznie się nowy sezon Diablo 4.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-25-o-09.10.11-1260x662.jpg",
-      "articleSlug": "e9acb640ef06",
-      "articleBody": "Już 1 grudnia rozpocznie się nowy sezon Diablo 4."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Koniec z gadaniem, pokażcie wreszcie grę! Twórca Path of Exile 2 ostro o transmisjach Blizzarda i stylu Steve'a Jobsa",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/koniec-z-gadaniem-pokazcie-wreszcie-gre-tworca-path-of-exile-2-os/z132462",
-      "publishedAt": "2026-11-25T09:57+01:00",
-      "summary": "Twórca Path of Exile 2 wyjaśnił, jak powinny wyglądać dobre transmisje na żywo zapowiadające gry. Przy okazji skrytykował Blizzarda za sposób ich prowadzenia.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533293019.jpg",
-      "articleSlug": "50c88ef08bbc",
-      "articleBody": "Twórca Path of Exile 2 wyjaśnił, jak powinny wyglądać dobre transmisje na żywo zapowiadające gry. Przy okazji skrytykował Blizzarda za sposób ich prowadzenia."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Avowed na PC taniej w Loaded. Klucz Steam dostępny już za 69,99 zł!",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/avowed-na-pc-taniej-w-loaded-klucz-steam-dostepny-juz-za-6999-zl/",
-      "publishedAt": "2026-11-25T09:56+01:00",
-      "summary": "Avowed, czyli action RPG studia Obsidian Entertainment, jest teraz dostępne w dobrej cenie w sklepie internetowym Loaded. Produkcja, w której traficie do krainy nazwanej Żywymi Ziemiami, by zbadać tajemniczą zarazę, kosztuje 69,99 zł. Warto zaznaczyć, że to wersja przeznaczona na Steam. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/06/Avowed-logo-224x224.jpg",
-      "articleSlug": "ec9b8674a9f2",
-      "articleBody": "Avowed, czyli action RPG studia Obsidian Entertainment, jest teraz dostępne w dobrej cenie w sklepie internetowym Loaded. Produkcja, w której traficie do krainy nazwanej Żywymi Ziemiami, by zbadać tajemniczą zarazę, kosztuje 69,99 zł. Warto zaznaczyć, że to wersja przeznaczona na Steam. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ależ to wygląda! Gracze nie mogą wyjść z podziwu efektów pogodowych po aktualizacji GTA 6",
-      "sourceUrl": "https://www.ppe.pl/news/434517/alez-to-wyglada-gracze-nie-moga-wyjsc-z-podziwu-efektow-pogodowych-po-aktualizacji-gta-6.html",
-      "publishedAt": "2026-11-25T09:53+01:00",
-      "summary": "Przez pierwsze dni po premierze Grand Theft Auto 6 na Reddicie i portalu X nie brakowało marudzenia, że w słonecznej Leonidzie w ogóle nie pada, a Rockstar po prostu naściemniał w swoich zapowiedziach.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6201c997579a67845dad/6201c997579a67845dad.png",
-      "articleSlug": "ea810ced5278",
-      "articleBody": "Przez pierwsze dni po premierze Grand Theft Auto 6 na Reddicie i portalu X nie brakowało marudzenia, że w słonecznej Leonidzie w ogóle nie pada, a Rockstar po prostu naściemniał w swoich zapowiedziach."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Black Friday z Canal+. Dwa miesiące seriali i filmów w cenie jednego! Zobacz 6. sezon The Office PL (i nie tylko) za 29 zł",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/black-friday-z-canal-dwa-miesiace-seriali-i-filmow-w-cenie-jednego-zobacz-6-sezon-the-office-pl-i-nie-tylko-za-29-zl/",
-      "publishedAt": "2026-11-25T09:47+01:00",
-      "summary": "Miłośnicy filmów także dostali coś dla siebie podczas tegorocznego Black Friday. Canal+ wystartował z promocją, w ramach której za 29 zł dostaniecie pakiet SERIALE I FILMY na dwa miesiące zamiast jednego. Po zakupie otrzymacie dostęp do kolekcji Canal+, Anime, BBC Player i Filmbox oraz 67 kanałów telewizyjnych. Przez 60 dni będziecie mogli oglądać bez ograniczeń na dwóch różnych urządzeniach tysiące materiałów, w tym najnowszy sezon The Office. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Canal-seriale-i-filmy-2-miesiace-logo-224x224.jpg",
-      "articleSlug": "55010b9a1d00",
-      "articleBody": "Miłośnicy filmów także dostali coś dla siebie podczas tegorocznego Black Friday. Canal+ wystartował z promocją, w ramach której za 29 zł dostaniecie pakiet SERIALE I FILMY na dwa miesiące zamiast jednego. Po zakupie otrzymacie dostęp do kolekcji Canal+, Anime, BBC Player i Filmbox oraz 67 kanałów telewizyjnych. Przez 60 dni będziecie mogli oglądać bez ograniczeń na dwóch różnych urządzeniach tysiące materiałów, w tym najnowszy sezon The Office. Czytaj więcej »"
     }
   ],
   "indie": [
