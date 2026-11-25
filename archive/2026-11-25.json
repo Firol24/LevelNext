@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T13:01+01:00",
+  "updatedAt": "2026-11-25T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "15-letnia Terraria wciąż zaskakuje. Twórcy niezależnego hitu wypuścili aktualizację 1.4.6 z pierwszą fazą crossplayu",
-    "summary": "Terraria otrzymała funkcję crossplay, aczkolwiek póki co w mocno ograniczonej formie.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/15-letnia-terraria-wciaz-zaskakuje-tworcy-niezaleznego-hitu-wypus/z032470",
-    "articleSlug": "aedda5d7c8d1",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533306422.jpg"
+    "title": "Pierwszy Mass Effect do dziś potrafi zszokować ilością wyciętej zawartości. Dużą część z niej można po latach ograć",
+    "summary": "Gracz przywrócił wyciętą zawartość z poziomu Mass Effecta, który w oryginalnej grze trwa zaledwie pięć minut.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/pierwszy-mass-effect-do-dzis-potrafi-zszokowac-iloscia-wycietej-z/z132471",
+    "articleSlug": "dc6d47622fd9",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533307314.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Pierwszy Mass Effect do dziś potrafi zszokować ilością wyciętej zawartości. Dużą część z niej można po latach ograć",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/pierwszy-mass-effect-do-dzis-potrafi-zszokowac-iloscia-wycietej-z/z132471",
+      "publishedAt": "2026-11-25T13:57+01:00",
+      "summary": "Gracz przywrócił wyciętą zawartość z poziomu Mass Effecta, który w oryginalnej grze trwa zaledwie pięć minut.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533307314.jpg",
+      "articleSlug": "dc6d47622fd9",
+      "articleBody": "Gracz przywrócił wyciętą zawartość z poziomu Mass Effecta, który w oryginalnej grze trwa zaledwie pięć minut."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Batman Legacy of the Dark Knight Edycja Deluxe na Nintendo Switch 2 za 319 zł na Allegro Black Weeks",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/lego-batman-legacy-of-the-dark-knight-edycja-deluxe-na-nintendo-switch-2-za-319-zl-na-allegro-black-weeks/",
+      "publishedAt": "2026-11-25T13:55+01:00",
+      "summary": "Zbliżamy się do Black Friday, a zaraz po nim w zasadzie Mikołajki i Gwiazdka. Jeśli lubicie grać w gry z uniwersum duńskich klocków, oferta na LEGO Batman: Legacy of the Dark Knight – Edycja Deluxe, może być dla Was. Poprzez serwis Allegro możecie bowiem nabyć wydanie przeznaczone na konsole Nintendo Switch 2 za 319 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lego-batman-legacy-of-the-dark-knight-deluxe-edition-miniaturka-224x224.jpg",
+      "articleSlug": "94b7308db606",
+      "articleBody": "Zbliżamy się do Black Friday, a zaraz po nim w zasadzie Mikołajki i Gwiazdka. Jeśli lubicie grać w gry z uniwersum duńskich klocków, oferta na LEGO Batman: Legacy of the Dark Knight – Edycja Deluxe, może być dla Was. Poprzez serwis Allegro możecie bowiem nabyć wydanie przeznaczone na konsole Nintendo Switch 2 za 319 złotych. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Silent Hill dostał drugie życie! Kultowy horror oferuje ray tracing i ulepszone tekstury",
+      "sourceUrl": "https://www.ppe.pl/news/434535/silent-hill-dostal-drugie-zycie-kultowy-horror-oferuje-ray-tracing-i-ulepszone-tekstury.html",
+      "publishedAt": "2026-11-25T13:49+01:00",
+      "summary": "Kultowy Silent Hill z 1999 roku doczekał się fanowskiego portu na komputery z systemami Windows i Linux.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ad48b4c5e7fadc2a575b/ad48b4c5e7fadc2a575b.jpg",
+      "articleSlug": "c310a01e0665",
+      "articleBody": "Kultowy Silent Hill z 1999 roku doczekał się fanowskiego portu na komputery z systemami Windows i Linux."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "15-letnia Terraria wciąż zaskakuje. Twórcy niezależnego hitu wypuścili aktualizację 1.4.6 z pierwszą fazą crossplayu",
@@ -23,6 +56,50 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533306422.jpg",
       "articleSlug": "aedda5d7c8d1",
       "articleBody": "Terraria otrzymała funkcję crossplay, aczkolwiek póki co w mocno ograniczonej formie."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "The Lord of the Rings: War in the North Legacy Edition na PC za 33 zł w WinGameStore. Historycznie najniższa cena",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/the-lord-of-the-rings-war-in-the-north-legacy-edition-na-pc-za-33-zl-w-wingamestore-historycznie-najnizsza-cena/",
+      "publishedAt": "2026-11-25T13:39+01:00",
+      "summary": "Przystosowana do rozdzielczości 4K i 60 klatek na sekundę wersja The Lord of the Rings: War in the North – Legacy Edition, pojawiła się w bardzo dobrej cenie w sklepie WinGameStore. Trzecioosobowy RPG, który możecie ograć kooperacyjnie na podzielonym ekranie lub on-line, kosztuje około 33 złotych. Pamiętajcie tylko, że jest to oryginalna wersja gry dostosowana do nowych urządzeń, ale nie jest remasterem. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/Prawie-jak-Powrot-Krola.-Gra-Wladca-Pierscieni_-Wojna-na-Polnocy-dostepna-na-PC-i-konsolach_miniaturka-224x224.jpg",
+      "articleSlug": "20ae966c9896",
+      "articleBody": "Przystosowana do rozdzielczości 4K i 60 klatek na sekundę wersja The Lord of the Rings: War in the North – Legacy Edition, pojawiła się w bardzo dobrej cenie w sklepie WinGameStore. Trzecioosobowy RPG, który możecie ograć kooperacyjnie na podzielonym ekranie lub on-line, kosztuje około 33 złotych. Pamiętajcie tylko, że jest to oryginalna wersja gry dostosowana do nowych urządzeń, ale nie jest remasterem. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Half-Life 3 bez ekranów ładowania? Nowe przecieki ujawniają ambitne rozwiązania Valve",
+      "sourceUrl": "https://www.ppe.pl/news/434533/half-life-3-bez-ekranow-ladowania-nowe-przecieki-ujawniaja-ambitne-rozwiazania-valve.html",
+      "publishedAt": "2026-11-25T13:33+01:00",
+      "summary": "Half-Life 3 może zaoferować rozwiązania technologiczne, które znacząco wpłyną na sposób eksplorowania świata i prowadzenia rozgrywki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/78914d8ba75a04433296/78914d8ba75a04433296.jpg",
+      "articleSlug": "d61425e70e8e",
+      "articleBody": "Half-Life 3 może zaoferować rozwiązania technologiczne, które znacząco wpłyną na sposób eksplorowania świata i prowadzenia rozgrywki."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Sieć klubów ze striptizem cieszy się wzrostem popularności dzięki GTA 6. Tancerki odtwarzają ruchy z gry w prawdziwym życiu",
+      "sourceUrl": "https://cdaction.pl/newsy/siec-klubow-ze-striptizem-cieszy-sie-wzrostem-popularnosci-dzieki-gta-6-tancerki-odtwarzaja-ruchy-z-gry-w-prawdziwym-zyciu/",
+      "publishedAt": "2026-11-25T13:30+01:00",
+      "summary": "Spearmint Rhino zatrudniło specjalnie choreografkę, by im w tym pomogła.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-2-1-1260x709.jpg",
+      "articleSlug": "88955676c774",
+      "articleBody": "Spearmint Rhino zatrudniło specjalnie choreografkę, by im w tym pomogła."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Metaphor ReFantazio na Nintendo Switch 2 za 146,71 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/metaphor-refantazio-na-nintendo-switch-2-za-14671-zl-na-allegro/",
+      "publishedAt": "2026-11-25T13:19+01:00",
+      "summary": "Premiera Metaphor: ReFantazio na Nintendo Switch 2 miała miejsce w zasadzie dwa tygodnie temu. Jeśli nie zaopatrzyliście się w swój egzemplarz do tej pory, w serwisie Allegro pojawiła się oferta, która może Was zainteresować. Pudełkowe wydanie jRPG studia Atlus, umieszczone na Game Key Card, dostępne jest za 146,71 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/metaphor-refantazio-ns2-miniaturka-224x224.jpg",
+      "articleSlug": "a7de526b80db",
+      "articleBody": "Premiera Metaphor: ReFantazio na Nintendo Switch 2 miała miejsce w zasadzie dwa tygodnie temu. Jeśli nie zaopatrzyliście się w swój egzemplarz do tej pory, w serwisie Allegro pojawiła się oferta, która może Was zainteresować. Pudełkowe wydanie jRPG studia Atlus, umieszczone na Game Key Card, dostępne jest za 146,71 zł. Czytaj więcej »"
     },
     {
       "sourceName": "GRY-Online",
@@ -37,6 +114,17 @@
     },
     {
       "sourceName": "PPE",
+      "title": "Twórca Undertale i Deltarune stworzył darmowe RPG! Można zagrać nawet w przeglądarce",
+      "sourceUrl": "https://www.ppe.pl/news/434532/tworca-undertale-i-deltarune-stworzyl-darmowe-rpg-mozna-zagrac-nawet-w-przegladarce.html",
+      "publishedAt": "2026-11-25T13:15+01:00",
+      "summary": "Temmie Chang, artystka znana z pracy przy Undertale i Deltarune, udostępniła za darmo swoją nową grę RPG zatytułowaną Of The World.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/93c1f4131d0e59c4a68f/93c1f4131d0e59c4a68f.jpg",
+      "articleSlug": "dc0f63d77713",
+      "articleBody": "Temmie Chang, artystka znana z pracy przy Undertale i Deltarune, udostępniła za darmo swoją nową grę RPG zatytułowaną Of The World."
+    },
+    {
+      "sourceName": "PPE",
       "title": "Ted Lasso nie złożył jeszcze wypowiedzenia. Apple TV zapowiedział 5. sezon",
       "sourceUrl": "https://www.ppe.pl/news/434530/ted-lasso-nie-zlozyl-jeszcze-wypowiedzenia-apple-tv-zapowiedzial-5-sezon.html",
       "publishedAt": "2026-11-25T13:00+01:00",
@@ -45,6 +133,17 @@
       "imageUrl": "https://pliki.ppe.pl/storage/4469fcb3688d53727044/4469fcb3688d53727044.jpg",
       "articleSlug": "5000e34b5f56",
       "articleBody": "Apple TV wie, że nie zabija się kury znoszącej złote jaja. Po kilku miesiącach niepewności serwis potwierdził, że zamierza wciąż inwestować w jeden ze swoich największych serialowych hitów."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Remedy chwali współpracę z Rockstarem przy Max Payne 1&2 Remake. „Jest naprawdę genialnym partnerem”",
+      "sourceUrl": "https://cdaction.pl/newsy/remedy-chwali-wspolprace-z-rockstarem-przy-max-payne-12-remake-jest-naprawde-genialnym-partnerem/",
+      "publishedAt": "2026-11-25T13:00+01:00",
+      "summary": "Fińskie studio nadal wzbrania się jednak przed zdradzeniem szczegółów na temat projektu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Max-Payne.jpg",
+      "articleSlug": "184ea1a86bcd",
+      "articleBody": "Fińskie studio nadal wzbrania się jednak przed zdradzeniem szczegółów na temat projektu."
     },
     {
       "sourceName": "GRY-Online",
@@ -243,105 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/690e97d4caa626e6a00d/690e97d4caa626e6a00d.webp",
       "articleSlug": "a68075740e47",
       "articleBody": "Skalperzy od lat psują krew zwykłym graczom i nic nie wskazuje na to, żeby ta plaga miała szybko zniknąć. Tym razem w sieci zrobiło się głośno o pewnym cwaniaku z Kanady, który potraktował premierę i zamieszanie wokół flagowych kart Nvidi..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na baterie Amazon Basics. 36 sztuk AA już za 40,62 zł podczas Black Friday 2026",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-baterie-amazon-basics-36-sztuk-aa-juz-za-4062-zl-podczas-black-friday-2026/",
-      "publishedAt": "2026-11-25T11:30+01:00",
-      "summary": "Potrzebujecie dodatkowej energii? Podczas wyprzedaży z okazji Black Friday 2026 przeceniono baterie AA i AAA z linii Amazon Basics. Wypisaliśmy dla Was dostępne oferty i posegregowaliśmy je pod kątem atrakcyjności – na szczycie znajdziecie opcje, w których za pojedynczą sztukę zapłacicie najmniej. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocja-baterie-Amazon-Basics-logo-224x224.jpg",
-      "articleSlug": "5f16eff4c159",
-      "articleBody": "Potrzebujecie dodatkowej energii? Podczas wyprzedaży z okazji Black Friday 2026 przeceniono baterie AA i AAA z linii Amazon Basics. Wypisaliśmy dla Was dostępne oferty i posegregowaliśmy je pod kątem atrakcyjności – na szczycie znajdziecie opcje, w których za pojedynczą sztukę zapłacicie najmniej. Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Legacy of Kain Defiance Remastered na Steam za 29 zł, Deluxe Edition za 35 zł w WinGameStore. Tak tanio nie było!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/legacy-of-kain-defiance-remastered-na-steam-za-29-zl-deluxe-edition-za-35-zl-w-wingamestore-tak-tanio-nie-bylo/",
-      "publishedAt": "2026-11-25T11:29+01:00",
-      "summary": "Odświeżone wydanie trzecioosobowej przygodówki studia Crystal Dynamics, czyli Legacy of Kain: Defiance Remastered, kupicie w rewelacyjnie niskiej cenie w sklepie WinGameStore. Pecetowe wydanie produkcji, w której pokierujecie poczynaniami Raziela i Kaina, kosztuje około 29 złotych. Dostępne jest także wydanie Deluxe Edition, zawierające między innymi demo Dark Prophecy oraz komiksy w wersji cyfrowej. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/02/legacy-of-kain-defiance-remastered-miniaturka-cyfra-224x224.jpg",
-      "articleSlug": "9a1b62d82040",
-      "articleBody": "Odświeżone wydanie trzecioosobowej przygodówki studia Crystal Dynamics, czyli Legacy of Kain: Defiance Remastered, kupicie w rewelacyjnie niskiej cenie w sklepie WinGameStore. Pecetowe wydanie produkcji, w której pokierujecie poczynaniami Raziela i Kaina, kosztuje około 29 złotych. Dostępne jest także wydanie Deluxe Edition, zawierające między innymi demo Dark Prophecy oraz komiksy w wersji cyfrowej. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "16. sezon Diablo 4 już 1 grudnia, a lista zmian robi wrażenie. Blizzard spełnił prośby fanów w sprawie zawartości z Diablo 2",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/16-sezon-diablo-4-juz-1-grudnia-a-lista-zmian-robi-wrazenie-blizz/z732468",
-      "publishedAt": "2026-11-25T11:23+01:00",
-      "summary": "Blizzard przedstawił zawartość szesnastego sezonu Diablo 4. Deweloperzy postanowili zachować na stałe część atrakcji, które wprowadzono w ramach poprzedniej serii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533298146.jpg",
-      "articleSlug": "60e920836546",
-      "articleBody": "Blizzard przedstawił zawartość szesnastego sezonu Diablo 4. Deweloperzy postanowili zachować na stałe część atrakcji, które wprowadzono w ramach poprzedniej serii."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tutaj możesz zdradzać swojego partnera na potęgę. Gracze żartują z Wiedźmina 3 przez GTA 6",
-      "sourceUrl": "https://www.ppe.pl/news/434518/tutaj-mozesz-zdradzac-swojego-partnera-na-potege-gracze-zartuja-z-wiedzmina-3-przez-gta-6.html",
-      "publishedAt": "2026-11-25T11:22+01:00",
-      "summary": "Grand Theft Auto 6 bije rekordy popularności i pozwala w swoim otwartym świecie na całe mnóstwo szaleństw, ale na jednym polu Rockstar Games niespodziewanie zaciągnęło hamulec ręczny. Po raz pierwszy w całej trójwymiarowej historii serii grac...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/444553cbe91f58eb3906/444553cbe91f58eb3906.avif",
-      "articleSlug": "cdcc2f5237a7",
-      "articleBody": "Grand Theft Auto 6 bije rekordy popularności i pozwala w swoim otwartym świecie na całe mnóstwo szaleństw, ale na jednym polu Rockstar Games niespodziewanie zaciągnęło hamulec ręczny. Po raz pierwszy w całej trójwymiarowej historii serii grac..."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Powrót do Śródziemia oficjalnie potwierdzony! Amazon zamówił 4. sezon „Pierścieni Władzy”",
-      "sourceUrl": "https://cdaction.pl/kultura/powrot-do-srodziemia-oficjalnie-potwierdzony-amazon-zamowil-4-sezon-pierscieni-wladzy/",
-      "publishedAt": "2026-11-25T11:15+01:00",
-      "summary": "To wciąż najchętniej oglądany serial w historii serwisu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Pierscienie-Wladzy.jpg",
-      "articleSlug": "d0fc8ebdda58",
-      "articleBody": "To wciąż najchętniej oglądany serial w historii serwisu."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PS5 przegrzewa się nawet popularnym streamerom. To nie wina GTA 6 i Rockstar, tylko Sony",
-      "sourceUrl": "https://www.ppe.pl/news/434523/ps5-przegrzewa-sie-nawet-popularnym-streamerom-to-nie-wina-gta-6-i-rockstar-tylko-sony.html",
-      "publishedAt": "2026-11-25T11:13+01:00",
-      "summary": "W sieci pojawiła się narracja, że problem zawieszania się i przegrzewania PS5 w GTA 6 to rezultat niekompetencji deweloperów z Rockstar. Rzeczywistość wygląda jednak inaczej.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c7c3a5d3886a0c6d0b26/c7c3a5d3886a0c6d0b26.png",
-      "articleSlug": "2a32e7baf8e1",
-      "articleBody": "W sieci pojawiła się narracja, że problem zawieszania się i przegrzewania PS5 w GTA 6 to rezultat niekompetencji deweloperów z Rockstar. Rzeczywistość wygląda jednak inaczej."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Nintendo Switch 2 Pro Controller za 264,99 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/nintendo-switch-2-pro-controller-za-26499-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-25T11:06+01:00",
-      "summary": "Z okazji trwającego w polskim Amazonie Black Friday Week, możecie zaoszczędzić na zakupie Nintendo Switch 2 Pro Controller. Pad bezprzewodowy, dedykowany najnowszej generacji konsoli giganta z Kioto, może być wasz za 264,99 zł, dzięki kodowi rabatowemu. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/04/Preorder-Nintendo-Switch-2-Pro-Controller-juz-dostepny.-Gdzie-kupic-pad-najtaniej__oferta-224x224.jpg",
-      "articleSlug": "5483d63f416a",
-      "articleBody": "Z okazji trwającego w polskim Amazonie Black Friday Week, możecie zaoszczędzić na zakupie Nintendo Switch 2 Pro Controller. Pad bezprzewodowy, dedykowany najnowszej generacji konsoli giganta z Kioto, może być wasz za 264,99 zł, dzięki kodowi rabatowemu. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Inżynier NVIDII zrezygnował z pracy, bo firma pozbyła się Jensena Huanga. Teraz przyznaje, że działał zbyt pochopnie",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/inzynier-nvidii-zrezygnowal-z-pracy-bo-firma-pozbyla-sie-jensena/z532466",
-      "publishedAt": "2026-11-25T10:55+01:00",
-      "summary": "Inżynier, który odszedł z NVIDII na znak protestu po rezygnacji Jensena Huanga, dziś nie wyklucza powrotu. Przyznał, że mógł podjąć tę decyzję zbyt pochopnie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533296479.jpg",
-      "articleSlug": "5cc2bac04038",
-      "articleBody": "Inżynier, który odszedł z NVIDII na znak protestu po rezygnacji Jensena Huanga, dziś nie wyklucza powrotu. Przyznał, że mógł podjąć tę decyzję zbyt pochopnie."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PC-towcy umieją świetnie udawać? Ponad połowa z nich olewa GTA 6",
-      "sourceUrl": "https://www.ppe.pl/news/434510/pc-towcy-umia-swietnie-udawac-ponad-polowa-z-nich-olewa-gta-6.html",
-      "publishedAt": "2026-11-25T10:48+01:00",
-      "summary": "Pół świata od prawie tygodnia nie odchodzi od telewizorów, a konsole znikają ze sklepów jak świeże bułeczki, tymczasem pecetowcy sprawiają wrażenie, jakby premiera Grand Theft Auto 6 w ogóle ich nie ruszała.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6090263d06f5f3b9241b/6090263d06f5f3b9241b.jpg",
-      "articleSlug": "7351649b6f04",
-      "articleBody": "Pół świata od prawie tygodnia nie odchodzi od telewizorów, a konsole znikają ze sklepów jak świeże bułeczki, tymczasem pecetowcy sprawiają wrażenie, jakby premiera Grand Theft Auto 6 w ogóle ich nie ruszała."
     }
   ],
   "indie": [
