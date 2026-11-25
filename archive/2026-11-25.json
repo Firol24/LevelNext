@@ -1,18 +1,128 @@
 {
   "status": "rss-only",
   "date": "2026-11-25",
-  "updatedAt": "2026-11-25T11:01+01:00",
+  "updatedAt": "2026-11-25T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "16. sezon Diablo 4 już 1 grudnia, a lista zmian robi wrażenie. Blizzard spełnił prośby fanów w sprawie zawartości z Diablo 2",
-    "summary": "Blizzard przedstawił zawartość szesnastego sezonu Diablo 4. Deweloperzy postanowili zachować na stałe część atrakcji, które wprowadzono w ramach poprzedniej serii.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/16-sezon-diablo-4-juz-1-grudnia-a-lista-zmian-robi-wrazenie-blizz/z732468",
-    "articleSlug": "60e920836546",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533298146.jpg"
+    "title": "GTA 6 rozbija bank na YouTube z kosmicznym wynikiem, a gracze odkryli sposób na przeprowadzanie cichych napadów",
+    "summary": "Statystyki opublikowane przez YouTube dobrze obrazują, jak dużym zainteresowaniem cieszy się GTA 6. Już niedługo fani gry będą mogli zacząć kolekcjonować oficjalny zestaw kart.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-rozbija-bank-na-youtube-z-kosmicznym-wynikiem-a-gracze-odkr/z43246e",
+    "articleSlug": "223a4a22c221",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533303548.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 rozbija bank na YouTube z kosmicznym wynikiem, a gracze odkryli sposób na przeprowadzanie cichych napadów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-rozbija-bank-na-youtube-z-kosmicznym-wynikiem-a-gracze-odkr/z43246e",
+      "publishedAt": "2026-11-25T12:54+01:00",
+      "summary": "Statystyki opublikowane przez YouTube dobrze obrazują, jak dużym zainteresowaniem cieszy się GTA 6. Już niedługo fani gry będą mogli zacząć kolekcjonować oficjalny zestaw kart.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533303548.jpg",
+      "articleSlug": "223a4a22c221",
+      "articleBody": "Statystyki opublikowane przez YouTube dobrze obrazują, jak dużym zainteresowaniem cieszy się GTA 6. Już niedługo fani gry będą mogli zacząć kolekcjonować oficjalny zestaw kart."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gracz policzył wszystkie budynki w GTA 6. Zaskakująco duża część z nich jest otwarta na zwiedzanie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gracz-policzyl-wszystkie-budynki-w-gta-6-zaskakujaco-duza-czesc-z/z33246d",
+      "publishedAt": "2026-11-25T12:45+01:00",
+      "summary": "Jak wiele możliwości oferuje GTA 6, jeżeli chodzi o eksplorację? Gracz przeliczył, ile budynków znajdziemy w Leonidzie – i do ilu z nich możemy wejść.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533302997.jpg",
+      "articleSlug": "1d2289294c02",
+      "articleBody": "Jak wiele możliwości oferuje GTA 6, jeżeli chodzi o eksplorację? Gracz przeliczył, ile budynków znajdziemy w Leonidzie – i do ilu z nich możemy wejść."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nowy polski serial podbija HBO Max. Oparta na faktach historia kryminalna jest już w światowym top 10",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nowy-polski-serial-podbija-hbo-max-oparta-na-faktach-historia-kry/z13246b",
+      "publishedAt": "2026-11-25T12:17+01:00",
+      "summary": "Na HBO Max zadebiutował oparty na prawdziwej historii serial Jana Holoubka z Łukaszem Simlatem. Widowisko zbiera bardzo dobre recenzje i cieszy się zainteresowaniem nie tylko w Polsce.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533300229.jpg",
+      "articleSlug": "6080729927ec",
+      "articleBody": "Na HBO Max zadebiutował oparty na prawdziwej historii serial Jana Holoubka z Łukaszem Simlatem. Widowisko zbiera bardzo dobre recenzje i cieszy się zainteresowaniem nie tylko w Polsce."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Do internetu z dowodem osobistym? Polska przygotowała przepisy obowiązkowej weryfikacji wieku. Internauci obawiają się, że obejmą nawet Steam",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/do-internetu-z-dowodem-osobistym-polska-przygotowala-przepisy-obo/z23246c",
+      "publishedAt": "2026-11-25T12:15+01:00",
+      "summary": "Rząd przygotował projekt ustawy zakładający cyfrową weryfikację wieku użytkowników mediów społecznościowych. Celem przepisów jest ograniczenie osobom nieletnim dostępu do treści nieodpowiednich dla ich wieku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533301107.jpg",
+      "articleSlug": "6bd0fd71891c",
+      "articleBody": "Rząd przygotował projekt ustawy zakładający cyfrową weryfikację wieku użytkowników mediów społecznościowych. Celem przepisów jest ograniczenie osobom nieletnim dostępu do treści nieodpowiednich dla ich wieku."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Cyberpunk 2 nabiera tempa, a CD Projekt RED zmienia zasady gry. Koniec z latami ciszy między wielkimi premierami",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/cyberpunk-2-nabiera-tempa-a-cd-projekt-red-zmienia-zasady-gry-kon/z03246a",
+      "publishedAt": "2026-11-25T11:56+01:00",
+      "summary": "Podczas omawiania wyników finansowych grupy CD Projekt RED dowiedzieliśmy się trochę nowego o postępach w pracach nad kontynuacją Cyberpunka 2077.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533300193.jpg",
+      "articleSlug": "a08644a3f893",
+      "articleBody": "Podczas omawiania wyników finansowych grupy CD Projekt RED dowiedzieliśmy się trochę nowego o postępach w pracach nad kontynuacją Cyberpunka 2077."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wszystkie cheat kody do GTA VI. Jak odblokować nielimitowaną gotówkę oraz bronie w Grand Theft Auto",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/wszystkie-cheat-kody-do-gta-vi-sposob-odblokowania-jak-je-aktywowac-i-co-daja/",
+      "publishedAt": "2026-11-25T11:53+01:00",
+      "summary": "Podobnie jak w poprzednich częściach, w GTA VI nie zabrakło kodów. Najnowsza gra Rockstar oferuje mnóstwo sekretów (na ten moment poznaliśmy ich 61), które pozwolą jeszcze lepiej bawić się w Vice City i okolicach. Nie skorzystacie z nich jednak od razu. Najpierw trzeba ukończyć główny wątek fabularny, a do tego spełnić, niekiedy bardzo wymagające, warunki odblokowania cheatów w GTA VI. Przygotowaliśmy dla Was listę zawierającą wszystkie znane na ten moment oszustwa wraz ze sposobem ich zdobycia i aktywacji. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Kody-GTA-VI-logo-224x224.jpg",
+      "articleSlug": "51d177150a1a",
+      "articleBody": "Podobnie jak w poprzednich częściach, w GTA VI nie zabrakło kodów. Najnowsza gra Rockstar oferuje mnóstwo sekretów (na ten moment poznaliśmy ich 61), które pozwolą jeszcze lepiej bawić się w Vice City i okolicach. Nie skorzystacie z nich jednak od razu. Najpierw trzeba ukończyć główny wątek fabularny, a do tego spełnić, niekiedy bardzo wymagające, warunki odblokowania cheatów w GTA VI. Przygotowaliśmy dla Was listę zawierającą wszystkie znane na ten moment oszustwa wraz ze sposobem ich zdobycia i aktywacji. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zainstalujcie to jak najszybciej. Nowe sterowniki naprawiają problem zużywania dysków SSD",
+      "sourceUrl": "https://www.ppe.pl/news/434526/zainstalujcie-to-jak-najszybciej-nowe-sterowniki-naprawiaja-problem-zuzywania-dyskow-ssd.html",
+      "publishedAt": "2026-11-25T11:50+01:00",
+      "summary": "Kilka dni temu w sieci zrobiło się głośno na temat rzekomo \"niszczenia\" dysków SSD przez sterowniki NVIDIA. Mamy już rozwiązanie tego problemu po pierwszej nieudanej próbie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/92e6d949b00b12c97bbd/92e6d949b00b12c97bbd.webp",
+      "articleSlug": "b869d7e6abd2",
+      "articleBody": "Kilka dni temu w sieci zrobiło się głośno na temat rzekomo \"niszczenia\" dysków SSD przez sterowniki NVIDIA. Mamy już rozwiązanie tego problemu po pierwszej nieudanej próbie."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Na RTX 5090 idzie zbić fortunę. Wielki biznesmen jednak się przeliczył?",
+      "sourceUrl": "https://www.ppe.pl/news/434524/na-rtx-5090-idzie-zbic-fortune-wielki-biznesmen-jednak-sie-przeliczyl.html",
+      "publishedAt": "2026-11-25T11:47+01:00",
+      "summary": "Skalperzy od lat psują krew zwykłym graczom i nic nie wskazuje na to, żeby ta plaga miała szybko zniknąć. Tym razem w sieci zrobiło się głośno o pewnym cwaniaku z Kanady, który potraktował premierę i zamieszanie wokół flagowych kart Nvidi...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/690e97d4caa626e6a00d/690e97d4caa626e6a00d.webp",
+      "articleSlug": "a68075740e47",
+      "articleBody": "Skalperzy od lat psują krew zwykłym graczom i nic nie wskazuje na to, żeby ta plaga miała szybko zniknąć. Tym razem w sieci zrobiło się głośno o pewnym cwaniaku z Kanady, który potraktował premierę i zamieszanie wokół flagowych kart Nvidi..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na baterie Amazon Basics. 36 sztuk AA już za 40,62 zł podczas Black Friday 2026",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-baterie-amazon-basics-36-sztuk-aa-juz-za-4062-zl-podczas-black-friday-2026/",
+      "publishedAt": "2026-11-25T11:30+01:00",
+      "summary": "Potrzebujecie dodatkowej energii? Podczas wyprzedaży z okazji Black Friday 2026 przeceniono baterie AA i AAA z linii Amazon Basics. Wypisaliśmy dla Was dostępne oferty i posegregowaliśmy je pod kątem atrakcyjności – na szczycie znajdziecie opcje, w których za pojedynczą sztukę zapłacicie najmniej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocja-baterie-Amazon-Basics-logo-224x224.jpg",
+      "articleSlug": "5f16eff4c159",
+      "articleBody": "Potrzebujecie dodatkowej energii? Podczas wyprzedaży z okazji Black Friday 2026 przeceniono baterie AA i AAA z linii Amazon Basics. Wypisaliśmy dla Was dostępne oferty i posegregowaliśmy je pod kątem atrakcyjności – na szczycie znajdziecie opcje, w których za pojedynczą sztukę zapłacicie najmniej. Czytaj więcej »"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Legacy of Kain Defiance Remastered na Steam za 29 zł, Deluxe Edition za 35 zł w WinGameStore. Tak tanio nie było!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/legacy-of-kain-defiance-remastered-na-steam-za-29-zl-deluxe-edition-za-35-zl-w-wingamestore-tak-tanio-nie-bylo/",
+      "publishedAt": "2026-11-25T11:29+01:00",
+      "summary": "Odświeżone wydanie trzecioosobowej przygodówki studia Crystal Dynamics, czyli Legacy of Kain: Defiance Remastered, kupicie w rewelacyjnie niskiej cenie w sklepie WinGameStore. Pecetowe wydanie produkcji, w której pokierujecie poczynaniami Raziela i Kaina, kosztuje około 29 złotych. Dostępne jest także wydanie Deluxe Edition, zawierające między innymi demo Dark Prophecy oraz komiksy w wersji cyfrowej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/02/legacy-of-kain-defiance-remastered-miniaturka-cyfra-224x224.jpg",
+      "articleSlug": "9a1b62d82040",
+      "articleBody": "Odświeżone wydanie trzecioosobowej przygodówki studia Crystal Dynamics, czyli Legacy of Kain: Defiance Remastered, kupicie w rewelacyjnie niskiej cenie w sklepie WinGameStore. Pecetowe wydanie produkcji, w której pokierujecie poczynaniami Raziela i Kaina, kosztuje około 29 złotych. Dostępne jest także wydanie Deluxe Edition, zawierające między innymi demo Dark Prophecy oraz komiksy w wersji cyfrowej. Czytaj więcej »"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "16. sezon Diablo 4 już 1 grudnia, a lista zmian robi wrażenie. Blizzard spełnił prośby fanów w sprawie zawartości z Diablo 2",
@@ -23,6 +133,50 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533298146.jpg",
       "articleSlug": "60e920836546",
       "articleBody": "Blizzard przedstawił zawartość szesnastego sezonu Diablo 4. Deweloperzy postanowili zachować na stałe część atrakcji, które wprowadzono w ramach poprzedniej serii."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tutaj możesz zdradzać swojego partnera na potęgę. Gracze żartują z Wiedźmina 3 przez GTA 6",
+      "sourceUrl": "https://www.ppe.pl/news/434518/tutaj-mozesz-zdradzac-swojego-partnera-na-potege-gracze-zartuja-z-wiedzmina-3-przez-gta-6.html",
+      "publishedAt": "2026-11-25T11:22+01:00",
+      "summary": "Grand Theft Auto 6 bije rekordy popularności i pozwala w swoim otwartym świecie na całe mnóstwo szaleństw, ale na jednym polu Rockstar Games niespodziewanie zaciągnęło hamulec ręczny. Po raz pierwszy w całej trójwymiarowej historii serii grac...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/444553cbe91f58eb3906/444553cbe91f58eb3906.avif",
+      "articleSlug": "cdcc2f5237a7",
+      "articleBody": "Grand Theft Auto 6 bije rekordy popularności i pozwala w swoim otwartym świecie na całe mnóstwo szaleństw, ale na jednym polu Rockstar Games niespodziewanie zaciągnęło hamulec ręczny. Po raz pierwszy w całej trójwymiarowej historii serii grac..."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Powrót do Śródziemia oficjalnie potwierdzony! Amazon zamówił 4. sezon „Pierścieni Władzy”",
+      "sourceUrl": "https://cdaction.pl/kultura/powrot-do-srodziemia-oficjalnie-potwierdzony-amazon-zamowil-4-sezon-pierscieni-wladzy/",
+      "publishedAt": "2026-11-25T11:15+01:00",
+      "summary": "To wciąż najchętniej oglądany serial w historii serwisu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Pierscienie-Wladzy.jpg",
+      "articleSlug": "d0fc8ebdda58",
+      "articleBody": "To wciąż najchętniej oglądany serial w historii serwisu."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS5 przegrzewa się nawet popularnym streamerom. To nie wina GTA 6 i Rockstar, tylko Sony",
+      "sourceUrl": "https://www.ppe.pl/news/434523/ps5-przegrzewa-sie-nawet-popularnym-streamerom-to-nie-wina-gta-6-i-rockstar-tylko-sony.html",
+      "publishedAt": "2026-11-25T11:13+01:00",
+      "summary": "W sieci pojawiła się narracja, że problem zawieszania się i przegrzewania PS5 w GTA 6 to rezultat niekompetencji deweloperów z Rockstar. Rzeczywistość wygląda jednak inaczej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c7c3a5d3886a0c6d0b26/c7c3a5d3886a0c6d0b26.png",
+      "articleSlug": "2a32e7baf8e1",
+      "articleBody": "W sieci pojawiła się narracja, że problem zawieszania się i przegrzewania PS5 w GTA 6 to rezultat niekompetencji deweloperów z Rockstar. Rzeczywistość wygląda jednak inaczej."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nintendo Switch 2 Pro Controller za 264,99 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/nintendo-switch-2-pro-controller-za-26499-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-25T11:06+01:00",
+      "summary": "Z okazji trwającego w polskim Amazonie Black Friday Week, możecie zaoszczędzić na zakupie Nintendo Switch 2 Pro Controller. Pad bezprzewodowy, dedykowany najnowszej generacji konsoli giganta z Kioto, może być wasz za 264,99 zł, dzięki kodowi rabatowemu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/04/Preorder-Nintendo-Switch-2-Pro-Controller-juz-dostepny.-Gdzie-kupic-pad-najtaniej__oferta-224x224.jpg",
+      "articleSlug": "5483d63f416a",
+      "articleBody": "Z okazji trwającego w polskim Amazonie Black Friday Week, możecie zaoszczędzić na zakupie Nintendo Switch 2 Pro Controller. Pad bezprzewodowy, dedykowany najnowszej generacji konsoli giganta z Kioto, może być wasz za 264,99 zł, dzięki kodowi rabatowemu. Czytaj więcej »"
     },
     {
       "sourceName": "GRY-Online",
@@ -188,160 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Canal-seriale-i-filmy-2-miesiace-logo-224x224.jpg",
       "articleSlug": "55010b9a1d00",
       "articleBody": "Miłośnicy filmów także dostali coś dla siebie podczas tegorocznego Black Friday. Canal+ wystartował z promocją, w ramach której za 29 zł dostaniecie pakiet SERIALE I FILMY na dwa miesiące zamiast jednego. Po zakupie otrzymacie dostęp do kolekcji Canal+, Anime, BBC Player i Filmbox oraz 67 kanałów telewizyjnych. Przez 60 dni będziecie mogli oglądać bez ograniczeń na dwóch różnych urządzeniach tysiące materiałów, w tym najnowszy sezon The Office. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "DLSS 5 w pierwszej oficjalnej implementacji, która ma sens. Ta gra będzie wzorem dla branży",
-      "sourceUrl": "https://www.ppe.pl/news/434516/dlls-5-w-pierwszej-oficjalnej-implementacji-ktora-ma-sens-ta-gra-bedzie-wzorem-dla-branzy.html",
-      "publishedAt": "2026-11-25T09:45+01:00",
-      "summary": "Dotychczas oficjalne implementacje NVIDIA DLSS 5 były wielkim rozczarowaniem. To się jednak zmienia.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8f72ac8b6de27d34c590/8f72ac8b6de27d34c590.png",
-      "articleSlug": "2a050402df84",
-      "articleBody": "Dotychczas oficjalne implementacje NVIDIA DLSS 5 były wielkim rozczarowaniem. To się jednak zmienia."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ile lat ma Lucia i Jason z GTA 6? Wiek bohaterów zszokuje wielu",
-      "sourceUrl": "https://www.ppe.pl/news/434508/ile-lat-ma-lucia-i-jason-z-gta-6-wiek-bohaterow-zszokuje-wielu.html",
-      "publishedAt": "2026-11-25T09:36+01:00",
-      "summary": "Odkąd gracze rzucili się na Grand Theft Auto 6, w sieci niemal codziennie wypływają coraz to ciekawsze drobiazgi wygrzebane z samej gry. Tym razem fani rozwikłali jedną z zagadek, która nurtowała sporo osób jeszcze od pierwszego zwiastuna - ile...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7823a0677c470f9f0670/7823a0677c470f9f0670.jpg",
-      "articleSlug": "2ebe0b84655a",
-      "articleBody": "Odkąd gracze rzucili się na Grand Theft Auto 6, w sieci niemal codziennie wypływają coraz to ciekawsze drobiazgi wygrzebane z samej gry. Tym razem fani rozwikłali jedną z zagadek, która nurtowała sporo osób jeszcze od pierwszego zwiastuna - ile..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Pracuj szybciej” i „nie popełniaj błędów”. Tak wyglądają polecenia dla AI od twórców nieoficjalnego portu GTA 6 na PC",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/pracuj-szybciej-i-nie-popelniaj-bledow-tak-wygladaja-polecenia-dl/z032461",
-      "publishedAt": "2026-11-25T09:33+01:00",
-      "summary": "Graczom marzy się własny port GTA 6 na PC. Tyle że narzędzia AI nie wystarczą do osiągnięcia tego celu przez osoby, które nic nie wiedzą nawet „promptach”.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533291420.jpg",
-      "articleSlug": "e220dc1019d0",
-      "articleBody": "Graczom marzy się własny port GTA 6 na PC. Tyle że narzędzia AI nie wystarczą do osiągnięcia tego celu przez osoby, które nic nie wiedzą nawet „promptach”."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Film lub serial na podstawie Red Dead Redemption powstanie? Rockstar stawia zaporową cenę za prawa do ekranizacji",
-      "sourceUrl": "https://cdaction.pl/newsy/film-lub-serial-na-podstawie-red-dead-redemption-powstanie-rockstar-stawia-zaporowa-cene-za-prawa-do-ekranizacji/",
-      "publishedAt": "2026-11-25T09:30+01:00",
-      "summary": "Stawka zawrotna, ale w Hollywood na pewno nie zabraknie chętnych.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/12/Zrzut-ekranu-2025-12-2-o-09.28.23-1260x630.jpg",
-      "articleSlug": "b44b12e5dc16",
-      "articleBody": "Stawka zawrotna, ale w Hollywood na pewno nie zabraknie chętnych."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Przepiękna, chwytające za serce opowieść Resonance A Plague Tale od 149 zł zamiast 209 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434515/przepiekna-chwytajace-za-serce-opowiesc-resonance-a-plague-tale-od-149-zl-zamiast-209-zl.html",
-      "publishedAt": "2026-11-25T09:28+01:00",
-      "summary": "W sklepie Media Expert tanio nabędziemy grę Resonance A Plague Tale Legacy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/db8a69bfe08d42914bbe/db8a69bfe08d42914bbe.jpg",
-      "articleSlug": "ace84a4295b1",
-      "articleBody": "W sklepie Media Expert tanio nabędziemy grę Resonance A Plague Tale Legacy."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wyśmienity tablet Lenovo Tab K11 Plus z 8/256 GB, 1200p 90 Hz czy baterią 8600 mAh za 849 zł zamiast 1299 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/410028/wysmienity-tablet-lenovo-tab-k11-plus-z-8-256-gb-1200p-90-hz-czy-bateria-8600-mah-za-899-zl-zamiast-1299-zl.html",
-      "publishedAt": "2026-11-25T09:25+01:00",
-      "summary": "Dzięki przecenom XXL w Media Expert taniej o równe 400 złotych nabędziemy tablet firmy Lenovo.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4e5a3b41419d3509ecb7/4e5a3b41419d3509ecb7.jpg",
-      "articleSlug": "1aee8b1cae04",
-      "articleBody": "Dzięki przecenom XXL w Media Expert taniej o równe 400 złotych nabędziemy tablet firmy Lenovo."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO Star Wars Piernikowa maszyna krocząca AT-AT za 171,99 zł (cena katalogowa 249,99 zł) w polskich sklepach",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-star-wars-piernikowa-maszyna-kroczaca-at-at-za-17199-zl-cena-katalogowa-24999-zl-w-polskich-sklepach/",
-      "publishedAt": "2026-11-25T09:22+01:00",
-      "summary": "Czy Święta i Gwiezdne Wojny mogą iść ze sobą w parze? Oczywiście, że tak! I to w bardzo świąteczny sposób. Możecie bowiem kupić zestaw LEGO Star Wars – Piernikowa maszyna krocząca AT-AT w wybranych sklepach internetowych nieco taniej. Z 697 elementów będziecie mogli zbudować ciasteczkową machinę, kryjącą wewnątrz minifigurkę korzennego Dartha Vadera. Wszystko to w cenie 171,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/lego-star-wars-piernikowa-maszyna-kroczaca-at-at-2b-224x224.jpg",
-      "articleSlug": "6aeee698c9ae",
-      "articleBody": "Czy Święta i Gwiezdne Wojny mogą iść ze sobą w parze? Oczywiście, że tak! I to w bardzo świąteczny sposób. Możecie bowiem kupić zestaw LEGO Star Wars – Piernikowa maszyna krocząca AT-AT w wybranych sklepach internetowych nieco taniej. Z 697 elementów będziecie mogli zbudować ciasteczkową machinę, kryjącą wewnątrz minifigurkę korzennego Dartha Vadera. Wszystko to w cenie 171,99 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Polacy przygotowali grunt pod premierę Lords of the Fallen 2. Szef studia nie ma wątpliwości: ta gra odniesie sukces [Aktualizacja: miesiąc premiery]",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/polacy-przygotowali-grunt-pod-premiere-lords-of-the-fallen-2-szef/z43218f",
-      "publishedAt": "2026-11-25T09:12+01:00",
-      "summary": "CI Games jest tak pewne sukcesu Lords of the Fallen 2, że zamiast polegać na wydawcy lub emisjach akcji, sfinansuje resztę prac nad grami zwykłą pożyczką w bankach. Poznaliśmy miesiąc premiery.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/531136206.jpg",
-      "articleSlug": "83443bc55702",
-      "articleBody": "CI Games jest tak pewne sukcesu Lords of the Fallen 2, że zamiast polegać na wydawcy lub emisjach akcji, sfinansuje resztę prac nad grami zwykłą pożyczką w bankach. Poznaliśmy miesiąc premiery."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pad Sony DualSense Galaktyczny Fiolet za 259,99 zł (39 zł taniej) w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/bez-kategorii/pad-sony-dualsense-galaktyczny-fiolet-za-25999-zl-39-zl-taniej-w-media-expert/",
-      "publishedAt": "2026-11-25T09:10+01:00",
-      "summary": "W sklepie Media Expert możecie z okazji Black Friday 2026 kupić taniej Sony DualSense w kolorze Galaktyczny Fiolet. Kontroler bezprzewodowy, dedykowany konsoli PlayStation 5 i kompatybilny z PC, kosztuje 259,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/05/DualSense-Galactic-Purple-logo-224x224.jpg",
-      "articleSlug": "0bcb32071aa2",
-      "articleBody": "W sklepie Media Expert możecie z okazji Black Friday 2026 kupić taniej Sony DualSense w kolorze Galaktyczny Fiolet. Kontroler bezprzewodowy, dedykowany konsoli PlayStation 5 i kompatybilny z PC, kosztuje 259,99 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 ma już działać na PC. Take-Two zamknęło najgłośniejszy piracki projekt",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-ma-juz-dzialac-na-pc-take-two-zamknelo-najglosniejszy-piracki-projekt/",
-      "publishedAt": "2026-11-25T09:02+01:00",
-      "summary": "Szybko poszło.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-7-2-1260x709.jpg",
-      "articleSlug": "0a7d87cb3af9",
-      "articleBody": "Szybko poszło."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe LEGO Batman Legacy of the Dark Knight na PS5 za 169 zł na Allegro Black Weeks",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-lego-batman-legacy-of-the-dark-knight-na-ps5-za-169-zl-na-allegro-black-weeks/",
-      "publishedAt": "2026-11-25T08:56+01:00",
-      "summary": "Świetna promocja na LEGO Batman: Legacy of the Dark Knight, pojawiła się w serwisie Allegro. Pudełko z grą opracowaną przez TT Games i wydaną przez Warner Bros. Games, w której wcielicie się w Mrocznego Rycerza z duńskich klocków, kosztuje 169 złotych. Oferta dotyczy wersji na konsole Sony PlayStation 5. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/lego-batman-legacy-of-the-dark-knight-miniaturka-224x224.jpg",
-      "articleSlug": "02fa9af0cdbe",
-      "articleBody": "Świetna promocja na LEGO Batman: Legacy of the Dark Knight, pojawiła się w serwisie Allegro. Pudełko z grą opracowaną przez TT Games i wydaną przez Warner Bros. Games, w której wcielicie się w Mrocznego Rycerza z duńskich klocków, kosztuje 169 złotych. Oferta dotyczy wersji na konsole Sony PlayStation 5. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Sony oficjalnie zabija jedną z największych porażek na PS5. Serwery wyłączone",
-      "sourceUrl": "https://www.ppe.pl/news/434506/sony-oficjalnie-zabija-jedna-z-najwiekszych-porazek-na-ps5-serwery-wylaczone.html",
-      "publishedAt": "2026-11-25T08:52+01:00",
-      "summary": "Sony ostatecznie zamyka jeden z najbardziej wstydliwych rozdziałów w historii PlayStation 5.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a6717be68f89cfb5d007/a6717be68f89cfb5d007-jpg-1600w.jpg",
-      "articleSlug": "ad5dc55a6e4c",
-      "articleBody": "Sony ostatecznie zamyka jeden z najbardziej wstydliwych rozdziałów w historii PlayStation 5."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 z wielką niespodzianką dla kolekcjonerów! Gra spotka rzeczywistość",
-      "sourceUrl": "https://www.ppe.pl/news/434454/gta-6-z-wielka-niespodzianka-dla-kolekcjonerow-gra-spotka-rzeczywistosc.html",
-      "publishedAt": "2026-11-25T08:40+01:00",
-      "summary": "Rockstar Games nie zamierza ograniczać GTA 6 wyłącznie do świata gier. Po rekordowej premierze najnowszej odsłony Grand Theft Auto firma coraz śmielej rozwija współpracę z zewnętrznymi partnerami, a najnowsza zapowiedź powinna szczególnie za...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/75f2a470a564c9488a01/75f2a470a564c9488a01.jpg",
-      "articleSlug": "4774d8810438",
-      "articleBody": "Rockstar Games nie zamierza ograniczać GTA 6 wyłącznie do świata gier. Po rekordowej premierze najnowszej odsłony Grand Theft Auto firma coraz śmielej rozwija współpracę z zewnętrznymi partnerami, a najnowsza zapowiedź powinna szczególnie za..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Neverwinter Nights 2: Enhanced Edition na PC już za 24 zł w WinGameStore!",
-      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/neverwinter-nights-2-enhanced-edition-na-pc-juz-za-24-zl-w-wingamestore/",
-      "publishedAt": "2026-11-25T08:37+01:00",
-      "summary": "Kultowa gra RPG, pierwotnie wydana w 2006 roku, jest teraz dostępna w promocji w oficjalnej dystrybucji. Sklep WinGameStore oferuje bowiem Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition za niecałe 24 zł w pecetowym wydaniu. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/06/neverwinter-nights-2-enhanced-edition-miniaturka-cyfra-224x224.jpg",
-      "articleSlug": "6f0d6d51ceb7",
-      "articleBody": "Kultowa gra RPG, pierwotnie wydana w 2006 roku, jest teraz dostępna w promocji w oficjalnej dystrybucji. Sklep WinGameStore oferuje bowiem Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition za niecałe 24 zł w pecetowym wydaniu. Czytaj więcej »"
     }
   ],
   "indie": [
