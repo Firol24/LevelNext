@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T12:01+01:00",
+  "updatedAt": "2026-11-26T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„Wiedźmin 3 stał się wyznacznikiem jakości”. Twórcy nowego Fable tłumaczą, dlaczego musieli podglądać konkurencję",
-    "summary": "Twórcy Fable inspirowali się nie tylko starszymi odsłonami serii, ale również produkcjami, które wyznaczyły nowe standardy w gatunku RPG. Reżyser gry wymienił Wiedźmina 3 i serię Assassin’s Creed.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-3-stal-sie-wyznacznikiem-jakosci-tworcy-nowego-fable-tlu/z432492",
-    "articleSlug": "23513b45ce40",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533390182.jpg"
+    "title": "Volkswagen Golf R oraz Golf GTI Edition 50 w realu i w Assetto Corsa EVO. Czy gra dobrze oddaje różnice między sportowymi autami?",
+    "summary": "333 KM i napęd na cztery koła kontra 325 KM tylko na przednią oś. Sprawdziłem jak Volkswagen Golf R wypada na tle Golfa GTI Edition 50 w rzeczywistości, także na torze, a później poszukałem tych różnic w grze Assetto Corsa EVO.",
+    "sourceUrl": "https://www.gry-online.pl/opinie/volkswagen-golf-r-oraz-golf-gti-edition-50-w-realu-i-w-assetto-co/z249e0",
+    "articleSlug": "bf83b023be99",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533391652.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Volkswagen Golf R oraz Golf GTI Edition 50 w realu i w Assetto Corsa EVO. Czy gra dobrze oddaje różnice między sportowymi autami?",
+      "sourceUrl": "https://www.gry-online.pl/opinie/volkswagen-golf-r-oraz-golf-gti-edition-50-w-realu-i-w-assetto-co/z249e0",
+      "publishedAt": "2026-11-26T13:36+01:00",
+      "summary": "333 KM i napęd na cztery koła kontra 325 KM tylko na przednią oś. Sprawdziłem jak Volkswagen Golf R wypada na tle Golfa GTI Edition 50 w rzeczywistości, także na torze, a później poszukałem tych różnic w grze Assetto Corsa EVO.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533391652.jpg",
+      "articleSlug": "bf83b023be99",
+      "articleBody": "333 KM i napęd na cztery koła kontra 325 KM tylko na przednią oś. Sprawdziłem jak Volkswagen Golf R wypada na tle Golfa GTI Edition 50 w rzeczywistości, także na torze, a później poszukałem tych różnic w grze Assetto Corsa EVO."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "30-letni Pentium Pro dzięki nowemu oprogramowaniu mógłby dziś rozgromić Kasparowa i Carlsena",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/30-letni-pentium-pro-dzieki-nowemu-oprogramowaniu-moglby-dzis-roz/z532493",
+      "publishedAt": "2026-11-26T13:20+01:00",
+      "summary": "Badacz Anthropica pokazał, że dla programów szachowych głównym ograniczeniem jest oprogramowanie. Na komputerze z 1995 roku uruchomił nowoczesny program szachowy, który pokonał starszą aplikację działającą na współczesnym pececie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533390934.jpg",
+      "articleSlug": "cbaafa4979fd",
+      "articleBody": "Badacz Anthropica pokazał, że dla programów szachowych głównym ograniczeniem jest oprogramowanie. Na komputerze z 1995 roku uruchomił nowoczesny program szachowy, który pokonał starszą aplikację działającą na współczesnym pececie."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zebrał 20 mln wyświetleń, dziś wraca na Netflix z 2. sezonem. 8 nowych odcinków thrillera z Brittany Snow już dostępne",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/zebral-20-mln-wyswietlen-dzis-wraca-na-netflix-z-2-sezonem-8-nowy/z73248f",
+      "publishedAt": "2026-11-26T13:00+01:00",
+      "summary": "Dziś na Netflix debiutuje drugi sezon osadzonego w Teksasie popularnego serialu opartego na bestsellerowej powieści. Nowa odsłona produkcji z Brittany Snow to jedna z propozycji serwisu na weekend.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533387126.jpg",
+      "articleSlug": "b697d3a2e9eb",
+      "articleBody": "Dziś na Netflix debiutuje drugi sezon osadzonego w Teksasie popularnego serialu opartego na bestsellerowej powieści. Nowa odsłona produkcji z Brittany Snow to jedna z propozycji serwisu na weekend."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„Wiedźmin 3 stał się wyznacznikiem jakości”. Twórcy nowego Fable tłumaczą, dlaczego musieli podglądać konkurencję",
@@ -23,6 +56,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533390182.jpg",
       "articleSlug": "23513b45ce40",
       "articleBody": "Twórcy Fable inspirowali się nie tylko starszymi odsłonami serii, ale również produkcjami, które wyznaczyły nowe standardy w gatunku RPG. Reżyser gry wymienił Wiedźmina 3 i serię Assassin’s Creed."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PlayStation i Xbox bez obniżek cen przez kolejne lata? Na tańsze konsole możemy długo poczekać",
+      "sourceUrl": "https://www.ppe.pl/news/434676/playstation-i-xbox-bez-obnizek-cen-przez-kolejne-lata-na-tansze-konsole-mozemy-dlugo-poczekac.html",
+      "publishedAt": "2026-11-26T12:55+01:00",
+      "summary": "Gracze liczący na tańsze konsole PlayStation i Xbox mogą długo poczekać na korzystniejsze ceny.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/413b019b862efe892d9e/413b019b862efe892d9e.png",
+      "articleSlug": "f8fb3b497636",
+      "articleBody": "Gracze liczący na tańsze konsole PlayStation i Xbox mogą długo poczekać na korzystniejsze ceny."
     },
     {
       "sourceName": "GRY-Online",
@@ -36,6 +80,39 @@
       "articleBody": "Ile czasu bylibyście w stanie spędzić na graniu bez przerwy? IShowSpeed pobija rekordy, byle jak najszybciej przejść GTA 6 na wizji."
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na klocki Mattel Brick Shop Masters of the Universe w Amazon PL. Eternia Powietrzna Bitwa za 122,84 zł",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocje-na-klocki-mattel-brick-shop-masters-of-the-universe-w-amazon-pl-eternia-powietrzna-bitwa-za-12284-zl/",
+      "publishedAt": "2026-11-26T12:51+01:00",
+      "summary": "Jeśli podobał się Wam film He-Man i Władcy Wszechświata, przygotowano kilka zestawów klocków Mattel Brick Shop, dzięki którym odtworzycie sceny, jakie mogliście zobaczyć w kinie bądź przed telewizorami. Na uwagę zasługuje pierwszy raz dostępny w Polsce zestaw Eternia – Powietrzna Bitwa, który może być wasz za 122,84 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/mattel-brick-shop-masters-of-the-universe-eternia-bitwa-powietrzna-2b-224x224.jpg",
+      "articleSlug": "f11ce9e17c41",
+      "articleBody": "Jeśli podobał się Wam film He-Man i Władcy Wszechświata, przygotowano kilka zestawów klocków Mattel Brick Shop, dzięki którym odtworzycie sceny, jakie mogliście zobaczyć w kinie bądź przed telewizorami. Na uwagę zasługuje pierwszy raz dostępny w Polsce zestaw Eternia – Powietrzna Bitwa, który może być wasz za 122,84 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Oficjalna ładowarka padów DualSense za 89 zł zamiast 139 zł do PS5 i PC",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434675/oficjalna-ladowarka-padow-dualsense-za-89-zl-zamiast-139-zl-do-ps5-i-pc.html",
+      "publishedAt": "2026-11-26T12:26+01:00",
+      "summary": "Choć pady DualSense kupicie już od 234 zł w RTV Euro AGD, ten sam elektromarket postanowił teraz dorzucić do oferty tanio oficjalną ładowarkę kontrolerów do PlayStation 5.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d20e7960ca0730267b3f/d20e7960ca0730267b3f.webp",
+      "articleSlug": "5110a32e2f74",
+      "articleBody": "Choć pady DualSense kupicie już od 234 zł w RTV Euro AGD, ten sam elektromarket postanowił teraz dorzucić do oferty tanio oficjalną ładowarkę kontrolerów do PlayStation 5."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dziewczyny anime cenzurowane w Forza Horizon 6, a gracze dostają bany. Twórcy komentują aferę",
+      "sourceUrl": "https://www.ppe.pl/news/434655/dziewczyny-anime-cenzurowane-w-forza-horizon-6-a-gracze-dostaja-bany-tworcy-komentuja-afere.html",
+      "publishedAt": "2026-11-26T12:23+01:00",
+      "summary": "Fora Horizon 6 miało celebrować kulturę japońskiej motoryzacji, której nieodłączonym elementem jest styl Itasha. Według części graczy cenzura właśnie na tym polu zaszła jednak za daleko.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/35d43a9a341f6554f60c/35d43a9a341f6554f60c.png",
+      "articleSlug": "b33d80bd7660",
+      "articleBody": "Fora Horizon 6 miało celebrować kulturę japońskiej motoryzacji, której nieodłączonym elementem jest styl Itasha. Według części graczy cenzura właśnie na tym polu zaszła jednak za daleko."
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Trzęsienie ziemi w polskim IT? Inspekcja Pracy uznała popularny kontrakt B2B za ukryty etat, a eksperci ostrzegają przed konsekwencjami",
       "sourceUrl": "https://www.gry-online.pl/newsroom/trzesienie-ziemi-w-polskim-it-inspekcja-pracy-uznala-popularny-ko/z232490",
@@ -45,6 +122,39 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533387373.jpg",
       "articleSlug": "73bd076c1496",
       "articleBody": "Nowa interpretacja Głównego Inspektora Pracy pokazuje, że umowy B2B mogą zniknąć z części sektorów branży IT. Wykazano, w jakich przypadkach pojawiają się znamiona standardowego etatu."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 zachęca do nagości. Panie i Panowie szukają erotycznych wrażeń",
+      "sourceUrl": "https://www.ppe.pl/news/434667/gta-6-zacheca-do-nagosci-panie-i-panowie-szukaja-erotycznych-wrazen.html",
+      "publishedAt": "2026-11-26T12:17+01:00",
+      "summary": "Grand Theft Auto 6 pobiło już chyba wszystkie możliwe rekordy - od zamówień przedpremierowych, przez kosmiczne oceny, aż po oglądalność na Twitchu. Okazuje się jednak, że hit Rockstara (dostępny do zamówienia tutaj) rozbił bank także na j...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8feb5fde28f976fe3a11/8feb5fde28f976fe3a11.jpg",
+      "articleSlug": "23975aaae942",
+      "articleBody": "Grand Theft Auto 6 pobiło już chyba wszystkie możliwe rekordy - od zamówień przedpremierowych, przez kosmiczne oceny, aż po oglądalność na Twitchu. Okazuje się jednak, że hit Rockstara (dostępny do zamówienia tutaj) rozbił bank także na j..."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Twórcy Hollow Knight: Silksong przerywają milczenie. Mają coś ważnego do powiedzenia o darmowym dodatku Sea of Sorrow",
+      "sourceUrl": "https://cdaction.pl/newsy/tworcy-hollow-knight-silksong-przerywaja-milczenie-maja-cos-waznego-do-powiedzenia-o-darmowym-dodatku-sea-of-sorrow/",
+      "publishedAt": "2026-11-26T12:15+01:00",
+      "summary": "Tylko jeszcze nie wiadomo co.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/silksong.webp",
+      "articleSlug": "a2795db620e5",
+      "articleBody": "Tylko jeszcze nie wiadomo co."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ładowarka GaN UGREEN Nexode 65W 4 portowa (3x USB-C, 1x USB-A) za 69,99 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-gan-ugreen-nexode-65w-4-portowa-3x-usb-c-1x-usb-a-za-6999-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-26T12:14+01:00",
+      "summary": "Kompaktowa ładowarka firmy UGREEN pojawiła się w dobrej cenie w polskim oddziale sklepu Amazon. Model o mocy 65W, wyposażony jest w 4 porty (3x USB-C i 1x USB-A), kosztuje 69,99 zł. Sprzęt powinien bezproblemowo naładować urządzenia firmy Apple, w tym MacBooka, czy też konsolę Nintendo Switch 2. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/06/ugreen-nexode-gan-65w-3b-224x224.jpg",
+      "articleSlug": "bf78707a14f6",
+      "articleBody": "Kompaktowa ładowarka firmy UGREEN pojawiła się w dobrej cenie w polskim oddziale sklepu Amazon. Model o mocy 65W, wyposażony jest w 4 porty (3x USB-C i 1x USB-A), kosztuje 69,99 zł. Sprzęt powinien bezproblemowo naładować urządzenia firmy Apple, w tym MacBooka, czy też konsolę Nintendo Switch 2. Czytaj więcej »"
     },
     {
       "sourceName": "GRY-Online",
@@ -232,116 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/LG-OLED55C51LA-miniatura-224x224.jpg",
       "articleSlug": "e0bb57e078b2",
       "articleBody": "Wyposażony w porty HDMI 2.1, 55-calowy LG OLED55C51LA, możliwy jest do kupienia taniej, korzystając z serwisu Allegro. Telewizor z matrycą OLED z częstotliwością odświeżania 120 Hz oraz wsparciem dla technologii AMD FreeSync i Nvidia G-Sync, może być wasz za 3369 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Nr 1 tygodnia na Netflix i 5,8 mln wyświetleń w ciągu 5 dni. Polski serial zdominował zestawienie top 10",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nr-1-tygodnia-na-netflix-i-58-mln-wyswietlen-w-ciagu-5-dni-polski/z832487",
-      "publishedAt": "2026-11-26T10:26+01:00",
-      "summary": "Polski serial z Agnieszką Grochowską i Agnieszką Żulewską podbija Netflixa nie tylko w kraju, ale i na świecie. Produkcja zainspirowana sprawą Mariusza Trynkiewicza zajęła 1. miejsce w globalnym zestawieniu najpopularniejszych seriali nieanglojęzycznych platformy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533380791.jpg",
-      "articleSlug": "0c689f55a377",
-      "articleBody": "Polski serial z Agnieszką Grochowską i Agnieszką Żulewską podbija Netflixa nie tylko w kraju, ale i na świecie. Produkcja zainspirowana sprawą Mariusza Trynkiewicza zajęła 1. miejsce w globalnym zestawieniu najpopularniejszych seriali nieanglojęzycznych platformy."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„To historyczna chwila”: to, co właśnie dzieje się wokół GTA 6, może na zawsze zmienić branżę gier",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/to-historyczna-chwila-to-co-wlasnie-dzieje-sie-wokol-gta-6-moze-n/z932488",
-      "publishedAt": "2026-11-26T10:22+01:00",
-      "summary": "W sieci przybywa nagrań pokazujących postępy prac nad nieoficjalnymi portami GTA 6 na PC. Wyciekły również ustawienia graficzne gry na konsolach.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533380931.jpg",
-      "articleSlug": "0c748996d931",
-      "articleBody": "W sieci przybywa nagrań pokazujących postępy prac nad nieoficjalnymi portami GTA 6 na PC. Wyciekły również ustawienia graficzne gry na konsolach."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pora ruszyć głową! Książka Murdoku 80 zabójczych łamigłówek za 23,81 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/pora-ruszyc-glowa-ksiazka-murdoku-80-zabojczych-lamiglowek-za-2381-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-26T10:22+01:00",
-      "summary": "Co jakiś czas warto poćwiczyć szare komórki. Teraz w polskim oddziale sklepu Amazon dorwiecie taniej książkę Murdoku 80 zabójczych łamigłówek. Na 208 stronach znajdziecie „śledztwa” łączące w sobie prostotę zagadek takich jak sudoku z klasycznymi zadaniami logicznymi, a wszystko to za jedyne 23,81 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Murdoku-80-zabojczych-lamiglowek-logo-224x224.jpg",
-      "articleSlug": "e830a28684e7",
-      "articleBody": "Co jakiś czas warto poćwiczyć szare komórki. Teraz w polskim oddziale sklepu Amazon dorwiecie taniej książkę Murdoku 80 zabójczych łamigłówek. Na 208 stronach znajdziecie „śledztwa” łączące w sobie prostotę zagadek takich jak sudoku z klasycznymi zadaniami logicznymi, a wszystko to za jedyne 23,81 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Dlaczego w GTA 6 nie można powtarzać misji? Mamy wyjaśnienie Rockstara",
-      "sourceUrl": "https://cdaction.pl/newsy/dlaczego-w-gta-6-nie-mozna-powtarzac-misji-mamy-wyjasnienie-rockstara/",
-      "publishedAt": "2026-11-26T10:15+01:00",
-      "summary": "Można być rozczarowanym, ale powód jest zrozumiały.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-8.jpg",
-      "articleSlug": "a670e119957e",
-      "articleBody": "Można być rozczarowanym, ale powód jest zrozumiały."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 jest wypchane po brzegi. Rockstar Games to mistrzowie",
-      "sourceUrl": "https://www.ppe.pl/news/434643/gta-6-jest-wypchane-po-brzegi-rockstar-games-to-mistrzowie.html",
-      "publishedAt": "2026-11-26T10:13+01:00",
-      "summary": "Nawet po kilkunastu latach od premiery gracze wciąż potrafią wygrzebać jakieś nowe, nieznane wcześniej ciekawostki w GTA 5. Wygląda jednak na to, że przy Grand Theft Auto 6 tamte poszukiwania to była zaledwie mała rozgrzewka.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6201c997579a67845dad/6201c997579a67845dad.png",
-      "articleSlug": "7e7192de2445",
-      "articleBody": "Nawet po kilkunastu latach od premiery gracze wciąż potrafią wygrzebać jakieś nowe, nieznane wcześniej ciekawostki w GTA 5. Wygląda jednak na to, że przy Grand Theft Auto 6 tamte poszukiwania to była zaledwie mała rozgrzewka."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na rok abonamentu Humble Choice! Za 12 miesięcy zapłacicie teraz 448 zł (26% taniej)",
-      "sourceUrl": "https://lowcygier.pl/subskrypcje/promocja-na-rok-abonamentu-humble-choice-za-12-miesiecy-zaplacicie-teraz-448-zl-26-taniej/",
-      "publishedAt": "2026-11-26T09:58+01:00",
-      "summary": "Humble Bundle na nadchodzące Święta postanowiło już oficjalnie uruchomić promocję na 12 miesięcy Choice. By podkreślić, że mamy 2026 rok, samej zniżki z kodem HOLIDAY26 również otrzymacie 26%! Finalnie, po przeliczeniu €100.15, będące ceną za roczny dostęp do abonamentu, zapłacicie około 448 złotych za spokój na ten okres. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/humble-choice-holiday26-1b-224x224.jpg",
-      "articleSlug": "c74519bf7da5",
-      "articleBody": "Humble Bundle na nadchodzące Święta postanowiło już oficjalnie uruchomić promocję na 12 miesięcy Choice. By podkreślić, że mamy 2026 rok, samej zniżki z kodem HOLIDAY26 również otrzymacie 26%! Finalnie, po przeliczeniu €100.15, będące ceną za roczny dostęp do abonamentu, zapłacicie około 448 złotych za spokój na ten okres. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Jak daleko sięga marketingowa ściema Sony w GTA 6? Faworyzowanie PS5 Pro kosztem Xbox Series X",
-      "sourceUrl": "https://www.ppe.pl/news/434653/jak-daleko-siega-marketingowa-sciema-sony-w-gta-6-faworyzowanie-ps5-pro-kosztem-xbox-series-x.html",
-      "publishedAt": "2026-11-26T09:56+01:00",
-      "summary": "W sieci pojawiają się głosy, że umowa marketingowa Sony z Take Two, dotycząca GTA 6, mogła dotyczyć nie tylko fałszywego sloganu \"Plays Best on PS5\", ale również osłabienia wydania gry na XSX, tak by forować PS5 Pro.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/68e0908cde8d82dbbe27/68e0908cde8d82dbbe27.png",
-      "articleSlug": "eb6d96f02937",
-      "articleBody": "W sieci pojawiają się głosy, że umowa marketingowa Sony z Take Two, dotycząca GTA 6, mogła dotyczyć nie tylko fałszywego sloganu \"Plays Best on PS5\", ale również osłabienia wydania gry na XSX, tak by forować PS5 Pro."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Dramat Rockstar Games! GTA 6 na PC działa już prawie w 30 FPS-ach",
-      "sourceUrl": "https://www.ppe.pl/news/434657/dramat-rockstar-games-gta-6-na-pc-dziala-juz-prawie-w-30-fps-ach.html",
-      "publishedAt": "2026-11-26T09:43+01:00",
-      "summary": "Prawnicy Take-Two i szefostwo Rockstar Games muszą przeżywać dzisiaj prawdziwy dramat. Zaledwie tydzień po konsolowej premierze Grand Theft Auto 6 firma robiła wszystko, by zdusić w zarodku wszelkie próby nieoficjalnego przeniesienia gry na kompu...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/578f51bab4d904de9688/578f51bab4d904de9688.avif",
-      "articleSlug": "e5dedf0530ed",
-      "articleBody": "Prawnicy Take-Two i szefostwo Rockstar Games muszą przeżywać dzisiaj prawdziwy dramat. Zaledwie tydzień po konsolowej premierze Grand Theft Auto 6 firma robiła wszystko, by zdusić w zarodku wszelkie próby nieoficjalnego przeniesienia gry na kompu..."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Disney idzie w zaparte. Wytwórnia potwierdziła daty premier „Avatara 4” i „Avatara 5”",
-      "sourceUrl": "https://cdaction.pl/kultura/disney-idzie-w-zaparte-wytwornia-potwierdzila-daty-premier-avatara-4-i-avatara-5/",
-      "publishedAt": "2026-11-26T09:30+01:00",
-      "summary": "Wrócimy na Pandorę jeszcze przynajmniej dwa razy!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Avatar.jpg",
-      "articleSlug": "31cd1eea8eb5",
-      "articleBody": "Wrócimy na Pandorę jeszcze przynajmniej dwa razy!"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Kolekcjonerka Elden Ring Nighteign na PS5 z 25 cm figurką Wilczana za 439 zł w Amazon DE",
-      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/kolekcjonerka-elden-ring-nighteign-na-ps5-z-25-cm-figurka-wilczana-za-439-zl-w-amazon-de/",
-      "publishedAt": "2026-11-26T09:23+01:00",
-      "summary": "W niemieckim oddziale sklepu Amazon macie możliwość kupienia Elden Ring Nightreign – Edycja Kolekcjonerska taniej. Limitowane wydanie gry FromSoftware, przeznaczone na konsole Sony PlayStation 5, może być wasze za około 439 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/02/elden-ring-nightreign-edycja-kolekcjonerska-pl-ps5-224x224.jpg",
-      "articleSlug": "d07b03837c82",
-      "articleBody": "W niemieckim oddziale sklepu Amazon macie możliwość kupienia Elden Ring Nightreign – Edycja Kolekcjonerska taniej. Limitowane wydanie gry FromSoftware, przeznaczone na konsole Sony PlayStation 5, może być wasze za około 439 złotych. Czytaj więcej »"
     }
   ],
   "indie": [
