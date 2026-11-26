@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T22:01+01:00",
+  "updatedAt": "2026-11-26T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Pudełkowa wersja GTA 6 bije rekordy sprzedaży w Europie, mimo że w środku nie ma płyty z grą",
-    "summary": "Wydanie fizyczne GTA 6 sprzedało się świetnie na premierę, mimo że w pudełku jest tylko kod na grę. W wielu krajach Europy ta wersja hit Rockstar Games zaliczyła najlepszy debiut w historii.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/pudelkowa-wersja-gta-6-bije-rekordy-sprzedazy-w-europie-mimo-ze-w/z3324a9",
-    "articleSlug": "6c400d96fcac",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533423177.jpg"
+    "title": "Koniec bezgłowego Wiedźmina w gaciach bez głowy. CD Projekt Red naprawia błędy w najnowszej aktualizacji",
+    "summary": "Moda daj wiedźminowi!",
+    "sourceUrl": "https://cdaction.pl/newsy/koniec-bezglowego-wiedzmina-w-gaciach-bez-glowy-cd-projekt-red-naprawia-bledy-w-najnowszej-aktualizacji/",
+    "articleSlug": "87b5e1b1427a",
+    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/wiedzmin3-1-1260x709.jpg"
   },
   "news": [
+    {
+      "sourceName": "CD-Action",
+      "title": "Koniec bezgłowego Wiedźmina w gaciach bez głowy. CD Projekt Red naprawia błędy w najnowszej aktualizacji",
+      "sourceUrl": "https://cdaction.pl/newsy/koniec-bezglowego-wiedzmina-w-gaciach-bez-glowy-cd-projekt-red-naprawia-bledy-w-najnowszej-aktualizacji/",
+      "publishedAt": "2026-11-26T22:32+01:00",
+      "summary": "Moda daj wiedźminowi!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/wiedzmin3-1-1260x709.jpg",
+      "articleSlug": "87b5e1b1427a",
+      "articleBody": "Moda daj wiedźminowi!"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday 2026 Vol. 2 na Steam. Gra Terminator: Resistance za rekordowe 31 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-black-friday-2026-vol-2-na-steam-gra-terminator-resistance-za-rekordowe-31-zl/",
+      "publishedAt": "2026-11-26T22:30+01:00",
+      "summary": "W promocyjnym kalendarzu platformy Valve zabrakło miejsca dla kompleksowej wyprzedaży Black Friday 2026 na Steam. Jednak wielu wydawców postanowiło dołączyć do poniedziałkowej odsłony ofert przygotowanych z myślą o Czarnym Piątku. W ramach drugiej tury okazji wybrane gry na PC w sklepie Gabe’a Newella oferowane są ze zniżkami sięgającymi nawet -92%. Na szczególną uwagę zasługuje tutaj gra Terminator: Resistance w historycznie najniższej cenie. Dzieło polskiego studia Teyon może być Wasza za rekordowe 31,20 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-2026-Vol.-2-na-Steam.-Gra-Terminator_-Resistance-za-rekordowe-31-zl_minaturka-224x224.jpg",
+      "articleSlug": "9cff4a7e9d52",
+      "articleBody": "W promocyjnym kalendarzu platformy Valve zabrakło miejsca dla kompleksowej wyprzedaży Black Friday 2026 na Steam. Jednak wielu wydawców postanowiło dołączyć do poniedziałkowej odsłony ofert przygotowanych z myślą o Czarnym Piątku. W ramach drugiej tury okazji wybrane gry na PC w sklepie Gabe’a Newella oferowane są ze zniżkami sięgającymi nawet -92%. Na szczególną uwagę zasługuje tutaj gra Terminator: Resistance w historycznie najniższej cenie. Dzieło polskiego studia Teyon może być Wasza za rekordowe 31,20 zł! Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Grał przez 40 godzin w GTA 6, a później... wygrał wyścig F1. Max Verstappen jest jednym z nas",
+      "sourceUrl": "https://www.ppe.pl/news/434718/gral-przez-40-godzin-w-gta-6-a-pozniej-wygral-wyscig-f1-max-verstappen-jest-jednym-z-nas.html",
+      "publishedAt": "2026-11-26T22:25+01:00",
+      "summary": "„Jeden z nas! Jeden z nas!” - mogą krzyczeć gracze, czytając najnowszą historię Maxa Verstappena. Czterokrotny mistrz świata Formuły 1 również dał się porwać szaleństwu związanemu z premierą GTA 6.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/3c4c375ae9d17dbed344/3c4c375ae9d17dbed344.webp",
+      "articleSlug": "8bbea575b556",
+      "articleBody": "„Jeden z nas! Jeden z nas!” - mogą krzyczeć gracze, czytając najnowszą historię Maxa Verstappena. Czterokrotny mistrz świata Formuły 1 również dał się porwać szaleństwu związanemu z premierą GTA 6."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Pudełkowa wersja GTA 6 bije rekordy sprzedaży w Europie, mimo że w środku nie ma płyty z grą",
@@ -23,6 +56,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533423177.jpg",
       "articleSlug": "6c400d96fcac",
       "articleBody": "Wydanie fizyczne GTA 6 sprzedało się świetnie na premierę, mimo że w pudełku jest tylko kod na grę. W wielu krajach Europy ta wersja hit Rockstar Games zaliczyła najlepszy debiut w historii."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Konsola Nintendo Switch 2 już za 1870 zł w AliExpress. Promocja startuje o północy!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/konsola-nintendo-switch-2-juz-za-1870-zl-w-aliexpress-promocja-startuje-o-polnocy/",
+      "publishedAt": "2026-11-26T22:03+01:00",
+      "summary": "Łowcy, właściwy Czarny Piątek już jutro! Z tej okazji rozpocznie się także wyprzedaż Black Friday 2026 w AliExpress. Wraz z promocją pojawiłą się nowe kody rabatowe, które podobnie jak w przypadku poprzednich edycji, dostępne będą do wyczerpania niewielkiej puli. Jeśli polujecie na konsolę Nintendo Switch 2, to mamy dla Was świetną okazję. Najnowszy sprzęt od giganta z Kioto może być Wasz za nieco ponad 1870 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/Promocje-na-Nintendo-Switch-2-w-x-kom.-Konsola-bez-dodatkow-dostepna-za-jedyne-1799-zl_miniaturka-224x224.jpg",
+      "articleSlug": "66ba9eb2084f",
+      "articleBody": "Łowcy, właściwy Czarny Piątek już jutro! Z tej okazji rozpocznie się także wyprzedaż Black Friday 2026 w AliExpress. Wraz z promocją pojawiłą się nowe kody rabatowe, które podobnie jak w przypadku poprzednich edycji, dostępne będą do wyczerpania niewielkiej puli. Jeśli polujecie na konsolę Nintendo Switch 2, to mamy dla Was świetną okazję. Najnowszy sprzęt od giganta z Kioto może być Wasz za nieco ponad 1870 zł. Czytaj więcej »"
     },
     {
       "sourceName": "PPE",
@@ -298,50 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/19617c66c78748e4a091/19617c66c78748e4a091.jpg",
       "articleSlug": "28664c402262",
       "articleBody": "Cronos: The New Dawn za chwilę otrzyma nie tylko dodatek, ale i nową wersję przygotowaną z myślą o świeżych odbiorcach, którzy dopiero zamierzają się przenieść do Polski lat 80. Dlatego studio Bloober Team nie zwlekało i już ujawniło szc..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "80. gra za darmo w 2026 roku w Epic Games Store [Aktualizacja]",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/80-gra-za-darmo-w-2026-roku-w-epic-games-store/z632485",
-      "publishedAt": "2026-11-26T18:08+01:00",
-      "summary": "Osiemdziesiąta tegoroczna darmówka w Epic Games Store to produkcja, która równie łatwo potrafi zachwycić, co sfrustrować. Bread & Fred meldują gotować do akcji!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533339995.jpg",
-      "articleSlug": "c0381280a1ba",
-      "articleBody": "Osiemdziesiąta tegoroczna darmówka w Epic Games Store to produkcja, która równie łatwo potrafi zachwycić, co sfrustrować. Bread & Fred meldują gotować do akcji!"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Phantom Blade Zero otrzyma dużą aktualizację. Twórcy zareagowali na zgłoszenia graczy",
-      "sourceUrl": "https://www.ppe.pl/news/434711/phantom-blade-zero-otrzyma-duza-aktualizacje-tworcy-zareagowali-na-zgloszenia-graczy.html",
-      "publishedAt": "2026-11-26T18:01+01:00",
-      "summary": "Twórcy Phantom Blade Zero przygotowują kolejną bezpłatną aktualizację. S-GAME zapowiedziało, że patch oznaczony numerem 1.0304629 zostanie udostępniony 27 listopada. Deweloperzy skupią się przede wszystkim na usunięciu błędów, które od p...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/890a601a619eb6176219/890a601a619eb6176219.jpg",
-      "articleSlug": "13bfaac89be0",
-      "articleBody": "Twórcy Phantom Blade Zero przygotowują kolejną bezpłatną aktualizację. S-GAME zapowiedziało, że patch oznaczony numerem 1.0304629 zostanie udostępniony 27 listopada. Deweloperzy skupią się przede wszystkim na usunięciu błędów, które od p..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Co przygotował GIGABYTE na Black Friday? Laptop z RTX-em 300 zł taniej, monitor OLED 240 Hz i podzespoły PC",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/co-przygotowal-gigabyte-na-black-friday-laptop-z-rtx-em-300-zl-ta/zc324a2",
-      "publishedAt": "2026-11-26T18:01+01:00",
-      "summary": "Wymiana sprzętu gamingowego nie musi oznaczać spustoszenia portfela. Pokazuje to przegląd urządzeń GIGABYTE, który zainteresuje zarówno miłośników mobilnego grania i ekranów OLED, jak i osoby planujące rozbudowę PC.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533408482.jpg",
-      "articleSlug": "f4ce62131369",
-      "articleBody": "Wymiana sprzętu gamingowego nie musi oznaczać spustoszenia portfela. Pokazuje to przegląd urządzeń GIGABYTE, który zainteresuje zarówno miłośników mobilnego grania i ekranów OLED, jak i osoby planujące rozbudowę PC."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Legenda doczeka się filmu aktorskiego! Kultowa seria trafi na wielki ekran",
-      "sourceUrl": "https://www.ppe.pl/news/434695/legenda-doczeka-sie-filmu-aktorskiego-kultowa-seria-trafi-na-wielki-ekran.html",
-      "publishedAt": "2026-11-26T17:46+01:00",
-      "summary": "Metal Slug będzie kolejną marką SNK, która otrzyma filmową adaptację. Twórcy zamierzają przenieść na ekran charakterystyczny świat kultowej serii zręcznościowych strzelanek.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/6176ff3cd8718c5c40cd/6176ff3cd8718c5c40cd.jpg",
-      "articleSlug": "4e63ea3dbe7e",
-      "articleBody": "Metal Slug będzie kolejną marką SNK, która otrzyma filmową adaptację. Twórcy zamierzają przenieść na ekran charakterystyczny świat kultowej serii zręcznościowych strzelanek."
     }
   ],
   "indie": [
