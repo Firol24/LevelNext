@@ -1,18 +1,106 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T11:01+01:00",
+  "updatedAt": "2026-11-26T11:25+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ostatnie godziny na zgarnięcie za darmo chwalonej gry z 2025 r. Dwie nowe gry gratis od dzisiaj",
-    "summary": "Jeśli jeszcze tego nie zrobiliście, to zachęcam do wybrania się do Epic Games Store, gdzie można odebrać chwaloną produkcję z 2025 roku.",
-    "sourceUrl": "https://www.ppe.pl/news/434663/ostatnie-godziny-na-zgarniecie-za-darmo-chwalonej-gry-z-2025-r-dwie-nowe-gry-gratis-od-dzisiaj.html",
-    "articleSlug": "859a1aae4280",
-    "imageUrl": "https://pliki.ppe.pl/storage/7ea4a2b394394fa9badb/7ea4a2b394394fa9badb.jpg"
+    "title": "Jeden z najlepszych współczesnych seriali HBO Max powróci za 6 tygodni. To hit polecany przez 96% krytyków",
+    "summary": "Dla fanów serial medycznych mamy dobre wieści. Platforma HBO Max ogłosiła, kiedy doceniony nagrodami Emmy i Złotymi Globami serial The Pitt powróci z trzecim sezonem. Wiadomo też, kogo zabraknie w obsadzie nowych odcinków.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najlepszych-wspolczesnych-seriali-hbo-max-powroci-za-6-ty/za32489",
+    "articleSlug": "c3d635172f15",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533383981.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jeden z najlepszych współczesnych seriali HBO Max powróci za 6 tygodni. To hit polecany przez 96% krytyków",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najlepszych-wspolczesnych-seriali-hbo-max-powroci-za-6-ty/za32489",
+      "publishedAt": "2026-11-26T12:00+01:00",
+      "summary": "Dla fanów serial medycznych mamy dobre wieści. Platforma HBO Max ogłosiła, kiedy doceniony nagrodami Emmy i Złotymi Globami serial The Pitt powróci z trzecim sezonem. Wiadomo też, kogo zabraknie w obsadzie nowych odcinków.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533383981.jpg",
+      "articleSlug": "c3d635172f15",
+      "articleBody": "Dla fanów serial medycznych mamy dobre wieści. Platforma HBO Max ogłosiła, kiedy doceniony nagrodami Emmy i Złotymi Globami serial The Pitt powróci z trzecim sezonem. Wiadomo też, kogo zabraknie w obsadzie nowych odcinków."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ubisoft stawia na AI, choć część twórców kręci nosem. Szefostwo twierdzi, że „to nieuniknione”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ubisoft-stawia-na-ai-choc-czesc-tworcow-kreci-nosem-szefostwo-twi/z43248c",
+      "publishedAt": "2026-11-26T11:37+01:00",
+      "summary": "Ubisoft coraz mocniej stawia na generatywną AI. Firma jeszcze nie wymusza korzystania z tej technologii na deweloperach, ale osoby, które tego nie robią, muszą tłumaczyć się szefostwu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533385425.jpg",
+      "articleSlug": "4f01b59feddb",
+      "articleBody": "Ubisoft coraz mocniej stawia na generatywną AI. Firma jeszcze nie wymusza korzystania z tej technologii na deweloperach, ale osoby, które tego nie robią, muszą tłumaczyć się szefostwu."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "NVIDIA traci miliardy mimo powrotu Jensena Huanga. Tymczasem w skandalu z udziałem szefa firmy pojawił się kolejny chiński trop",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-traci-miliardy-mimo-powrotu-jensena-huanga-tymczasem-w-ska/z33248b",
+      "publishedAt": "2026-11-26T11:20+01:00",
+      "summary": "Powrót Jensena Huanga tylko na chwilę uspokoił giełdę. Firma dalej traci, podobnie jak reszta branży AI. Równolegle ujawniono nowe informacje dotyczące rzekomego szpiegostwa Alice Huang.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533384296.jpg",
+      "articleSlug": "8616557fc432",
+      "articleBody": "Powrót Jensena Huanga tylko na chwilę uspokoił giełdę. Firma dalej traci, podobnie jak reszta branży AI. Równolegle ujawniono nowe informacje dotyczące rzekomego szpiegostwa Alice Huang."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na pady Sony DualSense w RTV Euro AGD. Wybrane kolory już od 234,99 zł na Black Friday 2026",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocje-na-pady-sony-dualsense-w-rtv-euro-agd-wybrane-kolory-juz-od-23499-zl-na-black-friday-2026/",
+      "publishedAt": "2026-11-26T11:18+01:00",
+      "summary": "Sklep RTV Euro AGD postanowił w ramach czarnopiątkowych promocji obniżyć ceny różnych modeli DualSense. Pady bezprzewodowe dedykowane konsoli Sony PlayStation 5 oraz kompatybilne z PC, mogą być wasze już za 234,99 zł. Jako bonus, dorzucamy też ofertę na podwójną ładowarkę, która kosztuje teraz 89,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/sony-dualsense-pad-ps5-3b-224x224.jpg",
+      "articleSlug": "d9ef06bf560d",
+      "articleBody": "Sklep RTV Euro AGD postanowił w ramach czarnopiątkowych promocji obniżyć ceny różnych modeli DualSense. Pady bezprzewodowe dedykowane konsoli Sony PlayStation 5 oraz kompatybilne z PC, mogą być wasze już za 234,99 zł. Jako bonus, dorzucamy też ofertę na podwójną ładowarkę, która kosztuje teraz 89,99 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Znamy ustawienia graficzne GTA 6 na konsolach. PS5 Pro mogłoby mieć więcej klatek, gdyby nie słaby procesor",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/znamy-ustawienia-graficzne-gta-6-na-konsolach-ps5-pro-mogloby-mie/z23248a",
+      "publishedAt": "2026-11-26T11:15+01:00",
+      "summary": "Dataminer wyciągnął z plików gry, czym właściwie różnią się wersje GTA 6 na PS5, PS5 Pro i Xboksy. Na PlayStation 5 Pro wygląda lepiej głównie dzięki cieniom liczonym ray tracingiem. Od razu pojawiło się pytanie: ile FPS-ów by przybyło, gdyby dało się je wyłączyć?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533384132.jpg",
+      "articleSlug": "7cb0ffe9036f",
+      "articleBody": "Dataminer wyciągnął z plików gry, czym właściwie różnią się wersje GTA 6 na PS5, PS5 Pro i Xboksy. Na PlayStation 5 Pro wygląda lepiej głównie dzięki cieniom liczonym ray tracingiem. Od razu pojawiło się pytanie: ile FPS-ów by przybyło, gdyby dało się je wyłączyć?"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Musisz to wiedzieć grając w GTA 6. Ta ciekawostka zmieni cały Twój styl gry",
+      "sourceUrl": "https://www.ppe.pl/news/434646/musisz-to-wiedziec-grajac-w-gta-6-ta-ciekawostka-zmieni-caly-twoj-styl-gry.html",
+      "publishedAt": "2026-11-26T11:02+01:00",
+      "summary": "Jedną z najbardziej niesamowitych rzeczy w Grand Theft Auto 6 jest to, do jak wielu budynków można tu po prostu wejść. Rockstar zaszalał pod tym względem na skalę niespotykaną wcześniej w grach z otwartym światem - niemal każde dostępne wn�...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5ebe075e306d39026b82/5ebe075e306d39026b82.jpg",
+      "articleSlug": "3275f0b81c68",
+      "articleBody": "Jedną z najbardziej niesamowitych rzeczy w Grand Theft Auto 6 jest to, do jak wielu budynków można tu po prostu wejść. Rockstar zaszalał pod tym względem na skalę niespotykaną wcześniej w grach z otwartym światem - niemal każde dostępne wn�..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tak wygląda horror nowej generacji na PC i konsolach. Twórcy chcą przebić Resident Evil",
+      "sourceUrl": "https://www.ppe.pl/news/434668/tak-wyglada-horror-nowej-generacji-na-pc-i-konsolach-tworcy-chca-przebic-resident-evil.html",
+      "publishedAt": "2026-11-26T11:01+01:00",
+      "summary": "GTA 6 zdominowało temat newsów o grach w takim stopniu, że łatwo było przeoczyć jedną z najbardziej obiecujących gier, w które zagramy już w 2027 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/3cd2d43ef1e61fd85244/3cd2d43ef1e61fd85244.png",
+      "articleSlug": "aa7799903120",
+      "articleBody": "GTA 6 zdominowało temat newsów o grach w takim stopniu, że łatwo było przeoczyć jedną z najbardziej obiecujących gier, w które zagramy już w 2027 roku."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Twórca Wardogs ostro o developerach Battlefielda 6. „Wpadli w pułapkę swoich graczy”",
+      "sourceUrl": "https://cdaction.pl/newsy/tworca-wardogs-ostro-o-developerach-battlefielda-6-wpadli-w-pulapke-swoich-graczy/",
+      "publishedAt": "2026-11-26T11:00+01:00",
+      "summary": "Mocne słowa, jak na twórcę gry z 3-miesięcznym stażem.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-26T101211.016-1260x709.jpg",
+      "articleSlug": "17165d7aa738",
+      "articleBody": "Mocne słowa, jak na twórcę gry z 3-miesięcznym stażem."
+    },
     {
       "sourceName": "PPE",
       "title": "Ostatnie godziny na zgarnięcie za darmo chwalonej gry z 2025 r. Dwie nowe gry gratis od dzisiaj",
@@ -45,6 +133,17 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/LG-OLED55C51LA-miniatura-224x224.jpg",
       "articleSlug": "e0bb57e078b2",
       "articleBody": "Wyposażony w porty HDMI 2.1, 55-calowy LG OLED55C51LA, możliwy jest do kupienia taniej, korzystając z serwisu Allegro. Telewizor z matrycą OLED z częstotliwością odświeżania 120 Hz oraz wsparciem dla technologii AMD FreeSync i Nvidia G-Sync, może być wasz za 3369 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Nr 1 tygodnia na Netflix i 5,8 mln wyświetleń w ciągu 5 dni. Polski serial zdominował zestawienie top 10",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/nr-1-tygodnia-na-netflix-i-58-mln-wyswietlen-w-ciagu-5-dni-polski/z832487",
+      "publishedAt": "2026-11-26T10:26+01:00",
+      "summary": "Polski serial z Agnieszką Grochowską i Agnieszką Żulewską podbija Netflixa nie tylko w kraju, ale i na świecie. Produkcja zainspirowana sprawą Mariusza Trynkiewicza zajęła 1. miejsce w globalnym zestawieniu najpopularniejszych seriali nieanglojęzycznych platformy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533380791.jpg",
+      "articleSlug": "0c689f55a377",
+      "articleBody": "Polski serial z Agnieszką Grochowską i Agnieszką Żulewską podbija Netflixa nie tylko w kraju, ale i na świecie. Produkcja zainspirowana sprawą Mariusza Trynkiewicza zajęła 1. miejsce w globalnym zestawieniu najpopularniejszych seriali nieanglojęzycznych platformy."
     },
     {
       "sourceName": "GRY-Online",
@@ -243,105 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/dc311edf8f1d67f0ff54/dc311edf8f1d67f0ff54.jpg",
       "articleSlug": "973232adeb21",
       "articleBody": "W sklepie Perfect Blue najtaniej obecnie na rynku nabędziemy edycję premierową gry Silent Hill Townfall."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Ktoś policzył, do ilu budynków można wejść w GTA 6. Okazuje się, że wcale nie ma ich tak dużo",
-      "sourceUrl": "https://cdaction.pl/newsy/ktos-policzyl-do-ilu-budynkow-w-gta-6-mozna-wejsc-okazuje-sie-ze-ich-liczba-nie-jest-zbyt-duza/",
-      "publishedAt": "2026-11-26T08:07+01:00",
-      "summary": "Skandal i niepoważne zachowanie Rockstara*.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta-6-8451.jpg",
-      "articleSlug": "9953c57214a4",
-      "articleBody": "Skandal i niepoważne zachowanie Rockstara*."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Mężczyzna wezwał policję na swoją byłą z powodu GTA 6. Kobieta odebrała mu dostęp do gry",
-      "sourceUrl": "https://www.ppe.pl/news/434568/mezczyzna-wezwal-policje-na-swoja-byla-z-powodu-gta-6-kobieta-odebrala-mu-dostep-do-gry.html",
-      "publishedAt": "2026-11-26T07:50+01:00",
-      "summary": "GTA 6 wywołuje gigantyczne emocje na całym świecie, ale trudno było przewidzieć, że najnowsza produkcja Rockstar Games stanie się powodem interwencji policji w sprawie… konta Xbox.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a222a6c6dde618d55a45/a222a6c6dde618d55a45.jpg",
-      "articleSlug": "02111a67722a",
-      "articleBody": "GTA 6 wywołuje gigantyczne emocje na całym świecie, ale trudno było przewidzieć, że najnowsza produkcja Rockstar Games stanie się powodem interwencji policji w sprawie… konta Xbox."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Jeden z największych hitów HBO Max wkrótce powróci. The Pitt 3 z datą premiery",
-      "sourceUrl": "https://www.ppe.pl/news/434572/jeden-z-najwiekszych-hitow-hbo-max-wkrotce-powroci-the-pitt-3-z-data-premiery.html",
-      "publishedAt": "2026-11-26T07:30+01:00",
-      "summary": "HBO Max ma w swojej bibliotece prawdziwą perełkę, która w zaledwie dwa lata stała się jednym z najważniejszych seriali współczesnej telewizji. Produkcja zachwyciła krytyków, zdobyła uznanie widzów i zgarnęła imponującą liczbę prestiżo...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/0557520fc273f4beea82/0557520fc273f4beea82.webp",
-      "articleSlug": "20f347d074ec",
-      "articleBody": "HBO Max ma w swojej bibliotece prawdziwą perełkę, która w zaledwie dwa lata stała się jednym z najważniejszych seriali współczesnej telewizji. Produkcja zachwyciła krytyków, zdobyła uznanie widzów i zgarnęła imponującą liczbę prestiżo..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 działa na „złamanym” PS5. PlayStation nie udało się zabezpieczyć sprzętu",
-      "sourceUrl": "https://www.ppe.pl/news/434594/gta-6-dziala-na-zlamanym-ps5-playstation-nie-udalo-sie-zabezpieczyc-sprzetu.html",
-      "publishedAt": "2026-11-26T07:05+01:00",
-      "summary": "Przez ostatnie tygodnie byliśmy świadkami interesującej sytuacji. Sony wydawało kolejne aktualizacje PlayStation 5, a jednym z celów miało być zabezpieczenie premiery GTA 6 przed uruchamianiem gry na konsolach ze złamanymi zabezpieczeniami. Najn...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/697d30ba9a1e62b5297e/697d30ba9a1e62b5297e.jpg",
-      "articleSlug": "b761d1c50997",
-      "articleBody": "Przez ostatnie tygodnie byliśmy świadkami interesującej sytuacji. Sony wydawało kolejne aktualizacje PlayStation 5, a jednym z celów miało być zabezpieczenie premiery GTA 6 przed uruchamianiem gry na konsolach ze złamanymi zabezpieczeniami. Najn..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Dziś na Netflix obejrzysz oparty na faktach holenderski thriller. Ma 6 odcinków i może być hitem tygodnia",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/dzis-na-netflix-obejrzysz-oparty-na-faktach-holenderski-thriller/z43247d",
-      "publishedAt": "2026-11-26T06:50+01:00",
-      "summary": "Netflix już dziś prezentuje widzom jedną ze swoich propozycji na weekend. Subskrybenci mogą pozwolić sobie na maraton serialu kryminalnego, który zabiera nas w podróż do lat 80.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533326326.jpg",
-      "articleSlug": "d4aad998d740",
-      "articleBody": "Netflix już dziś prezentuje widzom jedną ze swoich propozycji na weekend. Subskrybenci mogą pozwolić sobie na maraton serialu kryminalnego, który zabiera nas w podróż do lat 80."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Problemy PS5 po ogrywaniu GTA 6 nabierają tempa. Kolejni gracze zgłaszają awarie konsol",
-      "sourceUrl": "https://www.ppe.pl/news/434596/problemy-ps5-po-ogrywaniu-gta-6-nabieraja-tempa-kolejni-gracze-zglaszaja-awarie-konsol.html",
-      "publishedAt": "2026-11-26T06:40+01:00",
-      "summary": "GTA 6 miało być wielkim świętem dla posiadaczy PlayStation 5, ale część graczy zamiast cieszyć się najnowszą produkcją Rockstar Games, musi mierzyć się z poważnymi problemami technicznymi.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/18734f130a0d035d2ad6/18734f130a0d035d2ad6.jpg",
-      "articleSlug": "2e4cecc3ddee",
-      "articleBody": "GTA 6 miało być wielkim świętem dla posiadaczy PlayStation 5, ale część graczy zamiast cieszyć się najnowszą produkcją Rockstar Games, musi mierzyć się z poważnymi problemami technicznymi."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "80. gra za darmo w 2026 roku w Epic Games Store",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/80-gra-za-darmo-w-2026-roku-w-epic-games-store/z632485",
-      "publishedAt": "2026-11-26T06:30+01:00",
-      "summary": "Osiemdziesiąta tegoroczna darmówka w Epic Games Store to produkcja, która równie łatwo potrafi zachwycić, co sfrustrować. Bread & Fred meldują gotować do akcji!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533339995.jpg",
-      "articleSlug": "c0381280a1ba",
-      "articleBody": "Osiemdziesiąta tegoroczna darmówka w Epic Games Store to produkcja, która równie łatwo potrafi zachwycić, co sfrustrować. Bread & Fred meldują gotować do akcji!"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Scenarzystka GTA 6 jest nękana przez graczy. W tle oskarżenia o porady „jak manipulować mężczyznami”",
-      "sourceUrl": "https://www.ppe.pl/news/434595/scenarzystka-gta-6-jest-nekana-przez-graczy-w-tle-oskarzenia-o-porady-jak-manipulowac-mezczyznami.html",
-      "publishedAt": "2026-11-26T06:15+01:00",
-      "summary": "GTA 6 od premiery wzbudza gigantyczne emocje, ale nie wszystkie dyskusje dotyczą jakości najnowszej produkcji Rockstar Games. Część graczy postanowiła zaatakować jedną ze scenarzystek odpowiedzialnych za historię Lucii, zarzucając jej między ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp",
-      "articleSlug": "483779e6058f",
-      "articleBody": "GTA 6 od premiery wzbudza gigantyczne emocje, ale nie wszystkie dyskusje dotyczą jakości najnowszej produkcji Rockstar Games. Część graczy postanowiła zaatakować jedną ze scenarzystek odpowiedzialnych za historię Lucii, zarzucając jej między ..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Netflix z jednym z największych hitów ostatnich lat. Will Smith zdobył Oscara i wywołał gigantyczny skandal",
-      "sourceUrl": "https://www.ppe.pl/news/434587/netflix-z-jednym-z-najwiekszych-hitow-ostatnich-lat-will-smith-zdobyl-oscara-i-wywolal-gigantyczny-skandal.html",
-      "publishedAt": "2026-11-26T05:45+01:00",
-      "summary": "Netflix przygotował znakomitą niespodziankę dla widzów, którzy uwielbiają sportowe historie inspirowane prawdziwymi wydarzeniami.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ff7f83c9664c23716ba1/ff7f83c9664c23716ba1.jpg",
-      "articleSlug": "10d933d7e3e9",
-      "articleBody": "Netflix przygotował znakomitą niespodziankę dla widzów, którzy uwielbiają sportowe historie inspirowane prawdziwymi wydarzeniami."
     }
   ],
   "indie": [
