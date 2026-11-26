@@ -1,18 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T06:01+01:00",
+  "updatedAt": "2026-11-26T07:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Netflix z jednym z największych hitów ostatnich lat. Will Smith zdobył Oscara i wywołał gigantyczny skandal",
-    "summary": "Netflix przygotował znakomitą niespodziankę dla widzów, którzy uwielbiają sportowe historie inspirowane prawdziwymi wydarzeniami.",
-    "sourceUrl": "https://www.ppe.pl/news/434587/netflix-z-jednym-z-najwiekszych-hitow-ostatnich-lat-will-smith-zdobyl-oscara-i-wywolal-gigantyczny-skandal.html",
-    "articleSlug": "10d933d7e3e9",
-    "imageUrl": "https://pliki.ppe.pl/storage/ff7f83c9664c23716ba1/ff7f83c9664c23716ba1.jpg"
+    "title": "Problemy PS5 po ogrywaniu GTA 6 nabierają tempa. Kolejni gracze zgłaszają awarie konsol",
+    "summary": "GTA 6 miało być wielkim świętem dla posiadaczy PlayStation 5, ale część graczy zamiast cieszyć się najnowszą produkcją Rockstar Games, musi mierzyć się z poważnymi problemami technicznymi.",
+    "sourceUrl": "https://www.ppe.pl/news/434596/problemy-ps5-po-ogrywaniu-gta-6-nabieraja-tempa-kolejni-gracze-zglaszaja-awarie-konsol.html",
+    "articleSlug": "2e4cecc3ddee",
+    "imageUrl": "https://pliki.ppe.pl/storage/18734f130a0d035d2ad6/18734f130a0d035d2ad6.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Problemy PS5 po ogrywaniu GTA 6 nabierają tempa. Kolejni gracze zgłaszają awarie konsol",
+      "sourceUrl": "https://www.ppe.pl/news/434596/problemy-ps5-po-ogrywaniu-gta-6-nabieraja-tempa-kolejni-gracze-zglaszaja-awarie-konsol.html",
+      "publishedAt": "2026-11-26T06:40+01:00",
+      "summary": "GTA 6 miało być wielkim świętem dla posiadaczy PlayStation 5, ale część graczy zamiast cieszyć się najnowszą produkcją Rockstar Games, musi mierzyć się z poważnymi problemami technicznymi.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/18734f130a0d035d2ad6/18734f130a0d035d2ad6.jpg",
+      "articleSlug": "2e4cecc3ddee",
+      "articleBody": "GTA 6 miało być wielkim świętem dla posiadaczy PlayStation 5, ale część graczy zamiast cieszyć się najnowszą produkcją Rockstar Games, musi mierzyć się z poważnymi problemami technicznymi."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Scenarzystka GTA 6 jest nękana przez graczy. W tle oskarżenia o porady „jak manipulować mężczyznami”",
+      "sourceUrl": "https://www.ppe.pl/news/434595/scenarzystka-gta-6-jest-nekana-przez-graczy-w-tle-oskarzenia-o-porady-jak-manipulowac-mezczyznami.html",
+      "publishedAt": "2026-11-26T06:15+01:00",
+      "summary": "GTA 6 od premiery wzbudza gigantyczne emocje, ale nie wszystkie dyskusje dotyczą jakości najnowszej produkcji Rockstar Games. Część graczy postanowiła zaatakować jedną ze scenarzystek odpowiedzialnych za historię Lucii, zarzucając jej między ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp",
+      "articleSlug": "483779e6058f",
+      "articleBody": "GTA 6 od premiery wzbudza gigantyczne emocje, ale nie wszystkie dyskusje dotyczą jakości najnowszej produkcji Rockstar Games. Część graczy postanowiła zaatakować jedną ze scenarzystek odpowiedzialnych za historię Lucii, zarzucając jej między ..."
+    },
     {
       "sourceName": "PPE",
       "title": "Netflix z jednym z największych hitów ostatnich lat. Will Smith zdobył Oscara i wywołał gigantyczny skandal",
