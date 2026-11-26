@@ -1,18 +1,29 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T05:01+01:00",
+  "updatedAt": "2026-11-26T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Wyprzedaż Anti-Black Friday 2026 w Yuplay. Zrób zakupy za €20 i zgarnij dodatkową grę Steam!",
-    "summary": "Łowcy, do wyprzedażowego szaleństwa, w nieco przekorny sposób, postanowił dołączyć także cyfrowy sklep Yuplay. W ramach oferty Anti-Black Friday 2026 przeceniono setki produkcji na PC, a wybrane pozycje dostępne są w historycznie najniższych cenach. Na szczególne wyróżnieni zasługuje tutaj tegoroczny, dość niespodziewany hit firmy CAPCOM. Klucz Steam z grą Pragmata może być Wasz za rekordowe 133 zł. Warto dodać, że każdy zakup za min. €20 (ok. 90 zł) gwarantuje dodatkową grę Steam za darmo! Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/keyshopy/wyprzedaz-anti-black-friday-2026-w-yuplay-zrob-zakupy-za-e20-i-zgarnij-dodatkowa-gre-steam/",
-    "articleSlug": "d60a9a4095cb",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Anti-Black-Friday-2026-w-Yuplay.-Zrob-zakupy-za-E20-i-zgarnij-dodatkowa-gre-Steam_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Netflix z jednym z największych hitów ostatnich lat. Will Smith zdobył Oscara i wywołał gigantyczny skandal",
+    "summary": "Netflix przygotował znakomitą niespodziankę dla widzów, którzy uwielbiają sportowe historie inspirowane prawdziwymi wydarzeniami.",
+    "sourceUrl": "https://www.ppe.pl/news/434587/netflix-z-jednym-z-najwiekszych-hitow-ostatnich-lat-will-smith-zdobyl-oscara-i-wywolal-gigantyczny-skandal.html",
+    "articleSlug": "10d933d7e3e9",
+    "imageUrl": "https://pliki.ppe.pl/storage/ff7f83c9664c23716ba1/ff7f83c9664c23716ba1.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Netflix z jednym z największych hitów ostatnich lat. Will Smith zdobył Oscara i wywołał gigantyczny skandal",
+      "sourceUrl": "https://www.ppe.pl/news/434587/netflix-z-jednym-z-najwiekszych-hitow-ostatnich-lat-will-smith-zdobyl-oscara-i-wywolal-gigantyczny-skandal.html",
+      "publishedAt": "2026-11-26T05:45+01:00",
+      "summary": "Netflix przygotował znakomitą niespodziankę dla widzów, którzy uwielbiają sportowe historie inspirowane prawdziwymi wydarzeniami.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ff7f83c9664c23716ba1/ff7f83c9664c23716ba1.jpg",
+      "articleSlug": "10d933d7e3e9",
+      "articleBody": "Netflix przygotował znakomitą niespodziankę dla widzów, którzy uwielbiają sportowe historie inspirowane prawdziwymi wydarzeniami."
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Wyprzedaż Anti-Black Friday 2026 w Yuplay. Zrób zakupy za €20 i zgarnij dodatkową grę Steam!",
