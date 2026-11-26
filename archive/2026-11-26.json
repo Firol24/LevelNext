@@ -1,18 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T13:01+01:00",
+  "updatedAt": "2026-11-26T14:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Volkswagen Golf R oraz Golf GTI Edition 50 w realu i w Assetto Corsa EVO. Czy gra dobrze oddaje różnice między sportowymi autami?",
-    "summary": "333 KM i napęd na cztery koła kontra 325 KM tylko na przednią oś. Sprawdziłem jak Volkswagen Golf R wypada na tle Golfa GTI Edition 50 w rzeczywistości, także na torze, a później poszukałem tych różnic w grze Assetto Corsa EVO.",
-    "sourceUrl": "https://www.gry-online.pl/opinie/volkswagen-golf-r-oraz-golf-gti-edition-50-w-realu-i-w-assetto-co/z249e0",
-    "articleSlug": "bf83b023be99",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533391652.jpg"
+    "title": "Playground Games chce stworzyć nowoczesne RPG. Wiedźmin 3 i Assassin’s Creed były ważnymi inspiracjami",
+    "summary": "Playground Games nie ograniczyło się do analizowania poprzednich odsłon Fable podczas prac nad rebootem serii. Ralph Fulton, współzałożyciel studia i dyrektor generalny projektu, ujawnił, że zespół przyglądał się również takim produkcjom...",
+    "sourceUrl": "https://www.ppe.pl/news/434680/playground-games-chce-stworzyc-nowoczesne-rpg-wiedzmin-3-i-assassin-s-creed-byly-waznymi-inspiracjami.html",
+    "articleSlug": "cbd71e31e342",
+    "imageUrl": "https://pliki.ppe.pl/storage/368109a531ec95437b89/368109a531ec95437b89.webp"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Playground Games chce stworzyć nowoczesne RPG. Wiedźmin 3 i Assassin’s Creed były ważnymi inspiracjami",
+      "sourceUrl": "https://www.ppe.pl/news/434680/playground-games-chce-stworzyc-nowoczesne-rpg-wiedzmin-3-i-assassin-s-creed-byly-waznymi-inspiracjami.html",
+      "publishedAt": "2026-11-26T13:52+01:00",
+      "summary": "Playground Games nie ograniczyło się do analizowania poprzednich odsłon Fable podczas prac nad rebootem serii. Ralph Fulton, współzałożyciel studia i dyrektor generalny projektu, ujawnił, że zespół przyglądał się również takim produkcjom...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/368109a531ec95437b89/368109a531ec95437b89.webp",
+      "articleSlug": "cbd71e31e342",
+      "articleBody": "Playground Games nie ograniczyło się do analizowania poprzednich odsłon Fable podczas prac nad rebootem serii. Ralph Fulton, współzałożyciel studia i dyrektor generalny projektu, ujawnił, że zespół przyglądał się również takim produkcjom..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw LEGO ICONS Stranger Things: Dom Creelów za 839,99 zł (cena kat. 1199,99 zł) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-icons-stranger-things-dom-creelow-za-83999-zl-cena-kat-119999-zl-w-media-expert/",
+      "publishedAt": "2026-11-26T13:51+01:00",
+      "summary": "Liczący aż 2593 elementów, zestaw LEGO ICONS Stranger Things: Dom Creelów, dostępny jest aktualnie w historycznie najniższej cenie, korzystając z oferty dostępnej w Media Expert. Klocki pozwolą Wam na zbudowanie modelu gotyckiej rezydencji oraz samochodu Steve’a i furgonetki WSQK. Zestaw kupicie za 839,99 zł, a znajdziecie w nim również 13 minifigurek z postaciami z serialu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/LEGO-ICONS-Stranger-Things-Dom-Creelow_miniaturka-224x224.jpg",
+      "articleSlug": "a22d2a3b68d1",
+      "articleBody": "Liczący aż 2593 elementów, zestaw LEGO ICONS Stranger Things: Dom Creelów, dostępny jest aktualnie w historycznie najniższej cenie, korzystając z oferty dostępnej w Media Expert. Klocki pozwolą Wam na zbudowanie modelu gotyckiej rezydencji oraz samochodu Steve’a i furgonetki WSQK. Zestaw kupicie za 839,99 zł, a znajdziecie w nim również 13 minifigurek z postaciami z serialu. Czytaj więcej »"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Volkswagen Golf R oraz Golf GTI Edition 50 w realu i w Assetto Corsa EVO. Czy gra dobrze oddaje różnice między sportowymi autami?",
@@ -23,6 +45,39 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533391652.jpg",
       "articleSlug": "bf83b023be99",
       "articleBody": "333 KM i napęd na cztery koła kontra 325 KM tylko na przednią oś. Sprawdziłem jak Volkswagen Golf R wypada na tle Golfa GTI Edition 50 w rzeczywistości, także na torze, a później poszukałem tych różnic w grze Assetto Corsa EVO."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 z odblokowanym 60 FPS na PS5. Jest jednak pewien problem",
+      "sourceUrl": "https://www.ppe.pl/news/434677/gta-6-z-odblokowanym-60-fps-na-ps5-jest-jednak-pewien-problem.html",
+      "publishedAt": "2026-11-26T13:36+01:00",
+      "summary": "Gracze korzystający ze zmodyfikowanych konsol PlayStation 5 otrzymali nieoficjalną łatkę do GTA 6, która pozwala przekroczyć standardowy limit 30 klatek na sekundę. Modyfikacja nie gwarantuje jednak stabilnych 60 FPS.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg",
+      "articleSlug": "4d40bb0b7321",
+      "articleBody": "Gracze korzystający ze zmodyfikowanych konsol PlayStation 5 otrzymali nieoficjalną łatkę do GTA 6, która pozwala przekroczyć standardowy limit 30 klatek na sekundę. Modyfikacja nie gwarantuje jednak stabilnych 60 FPS."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "GTA 6 na PC ma już osiągać ponad 30 fps-ów. Piracki wyścig trwa w najlepsze",
+      "sourceUrl": "https://cdaction.pl/newsy/gta-6-na-pc-ma-juz-osiagac-ponad-30-fps-ow-piracki-wyscig-trwa-w-najlepsze/",
+      "publishedAt": "2026-11-26T13:30+01:00",
+      "summary": "Nawet GTA 6 na PC wyjdzie przed GTA 6 na PC.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-26T121207.862-1260x709.jpg",
+      "articleSlug": "271b73a1b5b9",
+      "articleBody": "Nawet GTA 6 na PC wyjdzie przed GTA 6 na PC."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gra planszowa Frosthaven (8.7 na BGG) – edycja polska za 678,93 zł na Allegro Black Weeks",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/gra-planszowa-frosthaven-8-7-na-bgg-edycja-polska-za-67893-zl-na-allegro-black-weeks/",
+      "publishedAt": "2026-11-26T13:26+01:00",
+      "summary": "Świetna i mocno rozbudowana planszówka fabularna Frosthaven, pojawiła się w dobrej cenie w serwisie Allegro. Gra przeznaczona dla 1 do 4 osób, w której czeka na was aż 100 scenariuszy kampanii do rozegrania, kosztuje 678,93 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/frosthaven-1b-224x224.jpg",
+      "articleSlug": "e48445c2364e",
+      "articleBody": "Świetna i mocno rozbudowana planszówka fabularna Frosthaven, pojawiła się w dobrej cenie w serwisie Allegro. Gra przeznaczona dla 1 do 4 osób, w której czeka na was aż 100 scenariuszy kampanii do rozegrania, kosztuje 678,93 zł. Czytaj więcej »"
     },
     {
       "sourceName": "GRY-Online",
@@ -36,6 +91,17 @@
       "articleBody": "Badacz Anthropica pokazał, że dla programów szachowych głównym ograniczeniem jest oprogramowanie. Na komputerze z 1995 roku uruchomił nowoczesny program szachowy, który pokonał starszą aplikację działającą na współczesnym pececie."
     },
     {
+      "sourceName": "PPE",
+      "title": "Nowy sterownik NVIDIA naprawia kłopot z dyskami SSD, ale powoduje kolejne problemy",
+      "sourceUrl": "https://www.ppe.pl/news/434678/nowy-sterownik-nvidia-naprawia-klopot-z-dyskami-ssd-ale-powoduje-kolejne-problemy.html",
+      "publishedAt": "2026-11-26T13:16+01:00",
+      "summary": "Najnowszy sterownik NVIDIA GeForce Game Ready 621.40 miał rozwiązać problem z nadmiernym zapisem danych na dyskach SSD, ale część użytkowników zgłasza kolejne kłopoty. Tym razem dotyczą one obrazu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/14d4ab165442a37c2543/14d4ab165442a37c2543.webp",
+      "articleSlug": "5782808f25a6",
+      "articleBody": "Najnowszy sterownik NVIDIA GeForce Game Ready 621.40 miał rozwiązać problem z nadmiernym zapisem danych na dyskach SSD, ale część użytkowników zgłasza kolejne kłopoty. Tym razem dotyczą one obrazu."
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Zebrał 20 mln wyświetleń, dziś wraca na Netflix z 2. sezonem. 8 nowych odcinków thrillera z Brittany Snow już dostępne",
       "sourceUrl": "https://www.gry-online.pl/newsroom/zebral-20-mln-wyswietlen-dzis-wraca-na-netflix-z-2-sezonem-8-nowy/z73248f",
@@ -45,6 +111,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533387126.jpg",
       "articleSlug": "b697d3a2e9eb",
       "articleBody": "Dziś na Netflix debiutuje drugi sezon osadzonego w Teksasie popularnego serialu opartego na bestsellerowej powieści. Nowa odsłona produkcji z Brittany Snow to jedna z propozycji serwisu na weekend."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Polscy fani tworzą film osadzony w świecie Cyberpunka 2077! Zobaczcie pierwszy zwiastun",
+      "sourceUrl": "https://cdaction.pl/newsy/polscy-fani-tworza-film-osadzony-w-swiecie-cyberpunka-2077-zobaczcie-pierwszy-zwiastun/",
+      "publishedAt": "2026-11-26T13:00+01:00",
+      "summary": "Warszawa spotyka Night City.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/cyberpunk-fanfilm-1260x669.jpg",
+      "articleSlug": "177d6699837e",
+      "articleBody": "Warszawa spotyka Night City."
     },
     {
       "sourceName": "GRY-Online",
@@ -265,83 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/sony-dualsense-pad-ps5-3b-224x224.jpg",
       "articleSlug": "d9ef06bf560d",
       "articleBody": "Sklep RTV Euro AGD postanowił w ramach czarnopiątkowych promocji obniżyć ceny różnych modeli DualSense. Pady bezprzewodowe dedykowane konsoli Sony PlayStation 5 oraz kompatybilne z PC, mogą być wasze już za 234,99 zł. Jako bonus, dorzucamy też ofertę na podwójną ładowarkę, która kosztuje teraz 89,99 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Znamy ustawienia graficzne GTA 6 na konsolach. PS5 Pro mogłoby mieć więcej klatek, gdyby nie słaby procesor",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/znamy-ustawienia-graficzne-gta-6-na-konsolach-ps5-pro-mogloby-mie/z23248a",
-      "publishedAt": "2026-11-26T11:15+01:00",
-      "summary": "Dataminer wyciągnął z plików gry, czym właściwie różnią się wersje GTA 6 na PS5, PS5 Pro i Xboksy. Na PlayStation 5 Pro wygląda lepiej głównie dzięki cieniom liczonym ray tracingiem. Od razu pojawiło się pytanie: ile FPS-ów by przybyło, gdyby dało się je wyłączyć?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533384132.jpg",
-      "articleSlug": "7cb0ffe9036f",
-      "articleBody": "Dataminer wyciągnął z plików gry, czym właściwie różnią się wersje GTA 6 na PS5, PS5 Pro i Xboksy. Na PlayStation 5 Pro wygląda lepiej głównie dzięki cieniom liczonym ray tracingiem. Od razu pojawiło się pytanie: ile FPS-ów by przybyło, gdyby dało się je wyłączyć?"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Musisz to wiedzieć grając w GTA 6. Ta ciekawostka zmieni cały Twój styl gry",
-      "sourceUrl": "https://www.ppe.pl/news/434646/musisz-to-wiedziec-grajac-w-gta-6-ta-ciekawostka-zmieni-caly-twoj-styl-gry.html",
-      "publishedAt": "2026-11-26T11:02+01:00",
-      "summary": "Jedną z najbardziej niesamowitych rzeczy w Grand Theft Auto 6 jest to, do jak wielu budynków można tu po prostu wejść. Rockstar zaszalał pod tym względem na skalę niespotykaną wcześniej w grach z otwartym światem - niemal każde dostępne wn�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5ebe075e306d39026b82/5ebe075e306d39026b82.jpg",
-      "articleSlug": "3275f0b81c68",
-      "articleBody": "Jedną z najbardziej niesamowitych rzeczy w Grand Theft Auto 6 jest to, do jak wielu budynków można tu po prostu wejść. Rockstar zaszalał pod tym względem na skalę niespotykaną wcześniej w grach z otwartym światem - niemal każde dostępne wn�..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tak wygląda horror nowej generacji na PC i konsolach. Twórcy chcą przebić Resident Evil",
-      "sourceUrl": "https://www.ppe.pl/news/434668/tak-wyglada-horror-nowej-generacji-na-pc-i-konsolach-tworcy-chca-przebic-resident-evil.html",
-      "publishedAt": "2026-11-26T11:01+01:00",
-      "summary": "GTA 6 zdominowało temat newsów o grach w takim stopniu, że łatwo było przeoczyć jedną z najbardziej obiecujących gier, w które zagramy już w 2027 roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/3cd2d43ef1e61fd85244/3cd2d43ef1e61fd85244.png",
-      "articleSlug": "aa7799903120",
-      "articleBody": "GTA 6 zdominowało temat newsów o grach w takim stopniu, że łatwo było przeoczyć jedną z najbardziej obiecujących gier, w które zagramy już w 2027 roku."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Twórca Wardogs ostro o developerach Battlefielda 6. „Wpadli w pułapkę swoich graczy”",
-      "sourceUrl": "https://cdaction.pl/newsy/tworca-wardogs-ostro-o-developerach-battlefielda-6-wpadli-w-pulapke-swoich-graczy/",
-      "publishedAt": "2026-11-26T11:00+01:00",
-      "summary": "Mocne słowa, jak na twórcę gry z 3-miesięcznym stażem.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-26T101211.016-1260x709.jpg",
-      "articleSlug": "17165d7aa738",
-      "articleBody": "Mocne słowa, jak na twórcę gry z 3-miesięcznym stażem."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ostatnie godziny na zgarnięcie za darmo chwalonej gry z 2025 r. Dwie nowe gry gratis od dzisiaj",
-      "sourceUrl": "https://www.ppe.pl/news/434663/ostatnie-godziny-na-zgarniecie-za-darmo-chwalonej-gry-z-2025-r-dwie-nowe-gry-gratis-od-dzisiaj.html",
-      "publishedAt": "2026-11-26T10:38+01:00",
-      "summary": "Jeśli jeszcze tego nie zrobiliście, to zachęcam do wybrania się do Epic Games Store, gdzie można odebrać chwaloną produkcję z 2025 roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7ea4a2b394394fa9badb/7ea4a2b394394fa9badb.jpg",
-      "articleSlug": "859a1aae4280",
-      "articleBody": "Jeśli jeszcze tego nie zrobiliście, to zachęcam do wybrania się do Epic Games Store, gdzie można odebrać chwaloną produkcję z 2025 roku."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Capcom nie jest święty. Właśnie oficjalnie skasowali swoją grę",
-      "sourceUrl": "https://www.ppe.pl/news/434644/capcom-nie-jest-swiety-nowa-gra-oficjalnie-skasowana.html",
-      "publishedAt": "2026-11-26T10:38+01:00",
-      "summary": "Patrząc na formę Capcomu w ostatnich latach, można odnieść wrażenie, że czego Japończycy się nie dotkną, to z miejsca zamienia się w złoto.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5a4e87bc857153896cf8/5a4e87bc857153896cf8.jpg",
-      "articleSlug": "856273ef4714",
-      "articleBody": "Patrząc na formę Capcomu w ostatnich latach, można odnieść wrażenie, że czego Japończycy się nie dotkną, to z miejsca zamienia się w złoto."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Telewizor LG OLED55C51LA 120 Hz Dolby Vision VRR od 3369 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/telewizor-lg-oled55c51la-120-hz-dolby-vision-vrr-od-3369-zl-na-allegro/",
-      "publishedAt": "2026-11-26T10:30+01:00",
-      "summary": "Wyposażony w porty HDMI 2.1, 55-calowy LG OLED55C51LA, możliwy jest do kupienia taniej, korzystając z serwisu Allegro. Telewizor z matrycą OLED z częstotliwością odświeżania 120 Hz oraz wsparciem dla technologii AMD FreeSync i Nvidia G-Sync, może być wasz za 3369 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/LG-OLED55C51LA-miniatura-224x224.jpg",
-      "articleSlug": "e0bb57e078b2",
-      "articleBody": "Wyposażony w porty HDMI 2.1, 55-calowy LG OLED55C51LA, możliwy jest do kupienia taniej, korzystając z serwisu Allegro. Telewizor z matrycą OLED z częstotliwością odświeżania 120 Hz oraz wsparciem dla technologii AMD FreeSync i Nvidia G-Sync, może być wasz za 3369 zł. Czytaj więcej »"
     }
   ],
   "indie": [
