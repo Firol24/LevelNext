@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T18:01+01:00",
+  "updatedAt": "2026-11-26T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Tydzień po premierze GTA 6 pracownicy Rockstar Games podjęli zaskakującą decyzję dotyczącą przyszłości",
-    "summary": "Głosowanie w sprawie oficjalnego uznania związku zawodowego w Rockstar Games przyniosło zaskakujące rozstrzygnięcie.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/tydzien-po-premierze-gta-6-pracownicy-rockstar-games-podjeli-zask/zd324a3",
-    "articleSlug": "551cfc6c988b",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533410570.jpg"
+    "title": "Na Steam trwa otwarta walka przeciwko grom AI. Specjalne wydarzenie promuje „ludzką kreatywność” nielicznych deweloperów",
+    "summary": "Na Steamie ruszyło wydarzenie, które promuje gry stworzone bez jakiejkolwiek pomocy sztucznej inteligencji. Organizatorzy Games Without AI celebrują „ludzką kreatywność”.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/na-steam-trwa-otwarta-walka-przeciwko-grom-ai-specjalne-wydarzeni/zf324a5",
+    "articleSlug": "4336fb7cb609",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533415209.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Na Steam trwa otwarta walka przeciwko grom AI. Specjalne wydarzenie promuje „ludzką kreatywność” nielicznych deweloperów",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/na-steam-trwa-otwarta-walka-przeciwko-grom-ai-specjalne-wydarzeni/zf324a5",
+      "publishedAt": "2026-11-26T19:54+01:00",
+      "summary": "Na Steamie ruszyło wydarzenie, które promuje gry stworzone bez jakiejkolwiek pomocy sztucznej inteligencji. Organizatorzy Games Without AI celebrują „ludzką kreatywność”.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533415209.jpg",
+      "articleSlug": "4336fb7cb609",
+      "articleBody": "Na Steamie ruszyło wydarzenie, które promuje gry stworzone bez jakiejkolwiek pomocy sztucznej inteligencji. Organizatorzy Games Without AI celebrują „ludzką kreatywność”."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nintendo Switch 2 w cenie, jakiej jeszcze nie było! Ta promocji szybko się nie powtórzy!",
+      "sourceUrl": "https://www.ppe.pl/news/434700/nintendo-switch-2-w-cenie-jakiej-jeszcze-nie-bylo-ta-promocji-szybko-sie-nie-powtorzy.html",
+      "publishedAt": "2026-11-26T19:00+01:00",
+      "summary": "Jeśli przymierzacie się do zakupu konsoli Nintendo Switch 2, na rynku pojawiły się trzy bardzo interesujące warianty w polskich sklepach oraz na platformie Allegro.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0e989a9dd1bd5409f1e2/0e989a9dd1bd5409f1e2.jpg",
+      "articleSlug": "9286abe257be",
+      "articleBody": "Jeśli przymierzacie się do zakupu konsoli Nintendo Switch 2, na rynku pojawiły się trzy bardzo interesujące warianty w polskich sklepach oraz na platformie Allegro."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To będzie idealny przeciwnik nowego Jamesa Bonda? Słynny reżyser nie ma wątpliwości",
+      "sourceUrl": "https://www.ppe.pl/news/434721/to-bedzie-idealny-przeciwnik-nowego-jamesa-bonda-slynny-rezyser-nie-ma-watpliwosci.html",
+      "publishedAt": "2026-11-26T18:38+01:00",
+      "summary": "Danny Boyle poparł pomysł obsadzenia Jacka O’Connella w roli przeciwnika Jamesa Bonda. Reżyser uważa jednak, że aktor sprawdziłby się również jako agent 007. W najnowszym wywiadzie pochwalił zarówno gwiazdę „Ink”, jak i Roberta Pattins...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f33585c4d480d21f6cef/f33585c4d480d21f6cef.webp",
+      "articleSlug": "edc8af188802",
+      "articleBody": "Danny Boyle poparł pomysł obsadzenia Jacka O’Connella w roli przeciwnika Jamesa Bonda. Reżyser uważa jednak, że aktor sprawdziłby się również jako agent 007. W najnowszym wywiadzie pochwalił zarówno gwiazdę „Ink”, jak i Roberta Pattins..."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Tydzień po premierze GTA 6 pracownicy Rockstar Games podjęli zaskakującą decyzję dotyczącą przyszłości",
@@ -23,6 +56,28 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533410570.jpg",
       "articleSlug": "551cfc6c988b",
       "articleBody": "Głosowanie w sprawie oficjalnego uznania związku zawodowego w Rockstar Games przyniosło zaskakujące rozstrzygnięcie."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Bardzo tanie klocki Bandai Nanoblock w RTV Euro AGD. Modele Pokémon po 14,99 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/bardzo-tanie-klocki-bandai-nanoblock-w-rtv-euro-agd-modele-pokemon-po-1499-zl/",
+      "publishedAt": "2026-11-26T18:18+01:00",
+      "summary": "Łowcy, jeśli możecie się pochwalić ogromnymi pokładami cierpliwości, to w internetowym sklepie RTV Euro AGD pojawiła się świetna promocja na Bandai Nanoblock. System japońskich klocków w wersji mini, gdzie pojedynczy element liczy sobie zaledwie 4x4x5 mm, pozwala na dokładne odwzorowanie detali budowanych obiektów. Ze względu na swoje rozmiary, zabawa przy ich pomocy wymaga dobrych zdolności manualnych. W ramach oferty wybrane modele Naruto oraz Pokémon dostępne są w rekordowo niskich cenach 14,99 zł, zamiast standardowych 54,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Bardzo-tanie-klocki-Bandai-Nanoblock-w-RTV-Euro-AGD.-Modele-Pokemon-po-1499-zl_miniaturka-224x224.jpg",
+      "articleSlug": "1f07fde7893d",
+      "articleBody": "Łowcy, jeśli możecie się pochwalić ogromnymi pokładami cierpliwości, to w internetowym sklepie RTV Euro AGD pojawiła się świetna promocja na Bandai Nanoblock. System japońskich klocków w wersji mini, gdzie pojedynczy element liczy sobie zaledwie 4x4x5 mm, pozwala na dokładne odwzorowanie detali budowanych obiektów. Ze względu na swoje rozmiary, zabawa przy ich pomocy wymaga dobrych zdolności manualnych. W ramach oferty wybrane modele Naruto oraz Pokémon dostępne są w rekordowo niskich cenach 14,99 zł, zamiast standardowych 54,99 zł! Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Cronos: The New Dawn – The Final Countdown bez tajemnic. Bloober Team podał datę premiery, cenę i szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/434716/cronos-the-new-dawn-the-final-countdown-bez-tajemnic-bloober-team-podal-date-premiery-cene-i-szczegoly.html",
+      "publishedAt": "2026-11-26T18:11+01:00",
+      "summary": "Cronos: The New Dawn za chwilę otrzyma nie tylko dodatek, ale i nową wersję przygotowaną z myślą o świeżych odbiorcach, którzy dopiero zamierzają się przenieść do Polski lat 80. Dlatego studio Bloober Team nie zwlekało i już ujawniło szc...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/19617c66c78748e4a091/19617c66c78748e4a091.jpg",
+      "articleSlug": "28664c402262",
+      "articleBody": "Cronos: The New Dawn za chwilę otrzyma nie tylko dodatek, ale i nową wersję przygotowaną z myślą o świeżych odbiorcach, którzy dopiero zamierzają się przenieść do Polski lat 80. Dlatego studio Bloober Team nie zwlekało i już ujawniło szc..."
     },
     {
       "sourceName": "GRY-Online",
@@ -287,61 +342,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Grand_Theft_Auto_VI_20261122000103_-1260x709.jpg",
       "articleSlug": "e791a115e47f",
       "articleBody": "Rockstar dokonał czegoś, co jeszcze kilka lat temu wydawało się niemożliwe. GTA 6 oferuje najbardziej realistyczny i szczegółowy otwarty świat, jaki widziałem w grach, a przy tym wygląda jak produkcja wyprzedzająca konkurencję o całą generację. Bardzo rozbudowany ray tracing, niesamowite animacje, fotorealistyczna grafika i ogromna liczba detali robią piorunujące wrażenie. Jest tylko jeden problem – nawet na PS5 Pro oglądamy wszystko w 30 fps."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nie żyje od trzech lat, a teraz wraca do EA Sports FC 27. Legenda piłki nożnej otrzyma głos dzięki AI",
-      "sourceUrl": "https://www.ppe.pl/news/434686/nie-zyje-od-trzech-lat-a-teraz-wraca-do-ea-sports-fc-27-legenda-pilki-noznej-otrzyma-glos-dzieki-ai.html",
-      "publishedAt": "2026-11-26T15:06+01:00",
-      "summary": "EA Sports FC 27 otrzyma wyjątkowy dodatek. Electronic Arts przywróci głos Johna Motsona, legendarnego komentatora piłkarskiego, który zmarł w 2023 roku w wieku 77 lat.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/e7b54dd0dc3302bd39d3/e7b54dd0dc3302bd39d3.jpg",
-      "articleSlug": "1aa87fb7e98b",
-      "articleBody": "EA Sports FC 27 otrzyma wyjątkowy dodatek. Electronic Arts przywróci głos Johna Motsona, legendarnego komentatora piłkarskiego, który zmarł w 2023 roku w wieku 77 lat."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Toocki kabel USB-C 240W, 2m, ekran LED za 18 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/toocki-kabel-usb-c-240w-2m-ekran-led-za-18-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-26T15:03+01:00",
-      "summary": "Niedrogi, pleciony kabel USB-C firmy toocki, pojawił się wśród Okazji Black Friday w polskim oddziale sklepu Amazon. Model o długości 2 metrów, oferujący ładowanie do 240W, kosztuje 18,04 zł. Sprzęt został wyposażony również w praktyczny ekran LED wskazujący moc i aktywną funkcję PD. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/toocki-240w-usb-c-kabel-3b-224x224.jpg",
-      "articleSlug": "ccf5f64daa53",
-      "articleBody": "Niedrogi, pleciony kabel USB-C firmy toocki, pojawił się wśród Okazji Black Friday w polskim oddziale sklepu Amazon. Model o długości 2 metrów, oferujący ładowanie do 240W, kosztuje 18,04 zł. Sprzęt został wyposażony również w praktyczny ekran LED wskazujący moc i aktywną funkcję PD. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "EA Sports FC 27 otrzymało nową aktualizację. Twórcy robią REWOLUCJĘ w gameplayu!",
-      "sourceUrl": "https://www.ppe.pl/news/434697/ea-sports-fc-27-otrzymalo-nowa-aktualizacje-tworcy-robia-rewolucje-w-gameplayu.html",
-      "publishedAt": "2026-11-26T15:01+01:00",
-      "summary": "EA Sports udostępniło aktualizację Title Update v1.3.0 do EA Sports FC 27. Patch z 26 listopada wprowadza szereg poprawek i zmian na PlayStation, Xboksach, PC oraz Nintendo Switch.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/afde68f604d6f7182394/afde68f604d6f7182394.webp",
-      "articleSlug": "14a3445edb3a",
-      "articleBody": "EA Sports udostępniło aktualizację Title Update v1.3.0 do EA Sports FC 27. Patch z 26 listopada wprowadza szereg poprawek i zmian na PlayStation, Xboksach, PC oraz Nintendo Switch."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Ubisoft odpowiada na pozew w sprawie kłamliwego marketingu Skull and Bones. Prawnicy bronią terminu „AAAA”",
-      "sourceUrl": "https://cdaction.pl/newsy/ubisoft-odpowiada-na-pozew-w-sprawie-klamliwego-marketingu-skull-and-bones-prawnicy-bronia-terminu-aaaa/",
-      "publishedAt": "2026-11-26T15:00+01:00",
-      "summary": "„AAAA” to krzyknął chyba Yves Guillemot po zobaczeniu strat finansowych, które przyniosła ta produkcja.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/skull-and-bones-1260x709.jpg",
-      "articleSlug": "f7de640cbeac",
-      "articleBody": "„AAAA” to krzyknął chyba Yves Guillemot po zobaczeniu strat finansowych, które przyniosła ta produkcja."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Najlepsza kampania Company of Heroes 3” czy „zbyt łatwe” misje? Nowy dodatek mocno podzielił graczy na Steamie",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/najlepsza-kampania-company-of-heroes-3-czy-zbyt-latwe-misje-nowy/z43249b",
-      "publishedAt": "2026-11-26T14:58+01:00",
-      "summary": "Twórcy Company of Heroes 3 podejmuje kolejną próbę przekonania graczy do tej drugowojennej strategii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533397314.jpg",
-      "articleSlug": "2747b01e7ae0",
-      "articleBody": "Twórcy Company of Heroes 3 podejmuje kolejną próbę przekonania graczy do tej drugowojennej strategii."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
+  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
 }
