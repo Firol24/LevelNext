@@ -1,18 +1,95 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T16:01+01:00",
+  "updatedAt": "2026-11-26T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Powerbank Baseus Energeek GP12 20800 mAh 145W PD za 99,99 zł (100 zł taniej) w Media Expert",
-    "summary": "Wyposażony w 4 porty USB, w tym dwa z nich typu C powerbank Baseus Energeek, jest dostępny taniej w Media Expert. Sklep oferuje urządzenie wspierające ładowanie o mocy do 145W oraz technologię power delivery, za 99,99 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/powerbank-baseus-energeek-gp12-20800-mah-145w-pd-za-9999-zl-100-zl-taniej-w-media-expert/",
-    "articleSlug": "2f9fbf77b39e",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/powerbank-baseus-energeek-1b-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Wiedźmin 3 Remaster dostał dużą aktualizację. CD Projekt Red wprowadził masę ważnych zmian, bo „potwory nie biorą wolnego”",
+    "summary": "Remaster Wiedźmina 3 otrzymał nową aktualizację poprawiającą błędy i ulepszającą tryb fotograficzny. W życiu wiedźmina „potwory nie biorą wolnego”.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-3-remaster-dostal-duza-aktualizacje-cd-projekt-red-wprow/zb324a1",
+    "articleSlug": "93c6e360e78c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533406475.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wiedźmin 3 Remaster dostał dużą aktualizację. CD Projekt Red wprowadził masę ważnych zmian, bo „potwory nie biorą wolnego”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-3-remaster-dostal-duza-aktualizacje-cd-projekt-red-wprow/zb324a1",
+      "publishedAt": "2026-11-26T17:29+01:00",
+      "summary": "Remaster Wiedźmina 3 otrzymał nową aktualizację poprawiającą błędy i ulepszającą tryb fotograficzny. W życiu wiedźmina „potwory nie biorą wolnego”.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533406475.jpg",
+      "articleSlug": "93c6e360e78c",
+      "articleBody": "Remaster Wiedźmina 3 otrzymał nową aktualizację poprawiającą błędy i ulepszającą tryb fotograficzny. W życiu wiedźmina „potwory nie biorą wolnego”."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Jazda po otwartym świecie GTA 6 jest tak realistyczna, bo Rockstar zatrudnił prawdziwego eksperta, by znaleźć złoty środek",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jazda-po-otwartym-swiecie-gta-6-jest-tak-realistyczna-bo-rockstar/za324a0",
+      "publishedAt": "2026-11-26T17:13+01:00",
+      "summary": "Okazuje się, że Rockstar Games przy tworzeniu modelu jazdy w GTA 6 skorzystało z doświadczenia zawodnika, który rywalizował z najlepszymi kierowcami wirtualnego motorsportu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533405503.jpg",
+      "articleSlug": "5b254fe44e6d",
+      "articleBody": "Okazuje się, że Rockstar Games przy tworzeniu modelu jazdy w GTA 6 skorzystało z doświadczenia zawodnika, który rywalizował z najlepszymi kierowcami wirtualnego motorsportu."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Legend of Zelda: Ocarina of Time Remake z PILNĄ aktualizacją! Naprawiono błąd blokujący postęp gry",
+      "sourceUrl": "https://www.ppe.pl/news/434691/the-legend-of-zelda-ocarina-of-time-remake-z-pilna-aktualizacja-naprawiono-blad-blokujacy-postep-gry.html",
+      "publishedAt": "2026-11-26T16:45+01:00",
+      "summary": "Nintendo udostępniło drugą aktualizację do The Legend of Zelda: Ocarina of Time na Switch 2.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/1e9990df929479c96f8f/1e9990df929479c96f8f.webp",
+      "articleSlug": "bbab361e6693",
+      "articleBody": "Nintendo udostępniło drugą aktualizację do The Legend of Zelda: Ocarina of Time na Switch 2."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Developerzy Ubisoftu, którzy nie chcą korzystać z AI, podobno muszą się z tego szczegółowo tłumaczyć. Niepokojące doniesienia anonimowych pracowników",
+      "sourceUrl": "https://cdaction.pl/newsy/developerzy-ubisoftu-ktorzy-nie-chca-korzystac-z-ai-podobno-musza-sie-z-tego-szczegolowo-tlumaczyc-niepokojace-doniesienia-anonimowych-pracownikow/",
+      "publishedAt": "2026-11-26T16:30+01:00",
+      "summary": "Ubisoft trzyma się swojej wizji na przyszłość gamedevu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/ubisoft-1260x945.webp",
+      "articleSlug": "9397205627dd",
+      "articleBody": "Ubisoft trzyma się swojej wizji na przyszłość gamedevu."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje w Nintendo eShop. Gry wydawnictw Atari i Thunderful Games z rabatami do -90%",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/promocje-w-nintendo-eshop-gry-wydawnictw-atari-i-thunderful-games-z-rabatami-do-90/",
+      "publishedAt": "2026-11-26T16:24+01:00",
+      "summary": "Wystartowała kolejna wyprzedaż w Nintendo eShop. Oprócz tej trwającej z okazji Black Friday 2026, otrzymaliśmy promocje na gry wydawnictw Atari oraz Thunderful Games (seria SteamWorld). Co zatem możemy kupić taniej? Remake System Shock, Atari 50: The Anniversary Celebration, czy też SteamWorld Dig. W niższej cenie dorwiecie także Laika: Aged Through Blood oraz Planet of Lana. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/10/Wyprzedaz-gier-Atari-w-Nintendo-eShop.-Turok-za-1056-zl-a-Mortal-Kombat_-Legacy-Kollection-za-98-zl_miniaturka-224x224.jpg",
+      "articleSlug": "87851f51d87a",
+      "articleBody": "Wystartowała kolejna wyprzedaż w Nintendo eShop. Oprócz tej trwającej z okazji Black Friday 2026, otrzymaliśmy promocje na gry wydawnictw Atari oraz Thunderful Games (seria SteamWorld). Co zatem możemy kupić taniej? Remake System Shock, Atari 50: The Anniversary Celebration, czy też SteamWorld Dig. W niższej cenie dorwiecie także Laika: Aged Through Blood oraz Planet of Lana. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 na PC zbliża się do 30 FPS! Grywalny projekt podobno wyciekł do sieci",
+      "sourceUrl": "https://www.ppe.pl/news/434696/gta-6-na-pc-zbliza-sie-do-30-fps-grywalny-projekt-podobno-wyciekl-do-sieci.html",
+      "publishedAt": "2026-11-26T16:15+01:00",
+      "summary": "Nieoficjalna wersja GTA 6 na PC rozwija się w zaskakująco szybkim tempie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/bcdf26eef85e3af8edcc/bcdf26eef85e3af8edcc.webp",
+      "articleSlug": "4d7a09161f53",
+      "articleBody": "Nieoficjalna wersja GTA 6 na PC rozwija się w zaskakująco szybkim tempie."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "IO Interactive przywraca gwiazdę 007 First Light. Gracze mają jednak ograniczony czas na ponowne spotkanie",
+      "sourceUrl": "https://www.ppe.pl/news/434699/io-interactive-przywraca-gwiazde-007-first-light-gracze-maja-jednak-ograniczony-czas-na-ponowne-spotkanie.html",
+      "publishedAt": "2026-11-26T16:05+01:00",
+      "summary": "Lenny Kravitz był jednym z jaśniejszych punktów najnowszej gry studia IO Interactive, mimo iż zaliczył w niej krótki epizod. Gracze jednak tak pokochali postać graną przez legendarnego rockmana, więc studio wyszło naprzeciw oczekiwaniom i pozw...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a66174814dccc2017061/a66174814dccc2017061.jpg",
+      "articleSlug": "6f48ed1f6554",
+      "articleBody": "Lenny Kravitz był jednym z jaśniejszych punktów najnowszej gry studia IO Interactive, mimo iż zaliczył w niej krótki epizod. Gracze jednak tak pokochali postać graną przez legendarnego rockmana, więc studio wyszło naprzeciw oczekiwaniom i pozw..."
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Powerbank Baseus Energeek GP12 20800 mAh 145W PD za 99,99 zł (100 zł taniej) w Media Expert",
@@ -265,83 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/f7fb76067b27695d95df/f7fb76067b27695d95df.jpg",
       "articleSlug": "6b54e4b63e52",
       "articleBody": "Na rynku gier niezależnych pojawiła się inicjatywa skierowana do osób zmęczonych zalewem produkcji wykorzystujących generatywną sztuczną inteligencję."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Grałem w pełną wersję Path of Exile 2. Ta gra może okazać się dla hack’n’slashy tym, czym GTA 6 dla mainstreamu",
-      "sourceUrl": "https://cdaction.pl/juz-gralismy/gralem-w-pelna-wersje-path-of-exile-2-ta-gra-moze-okazac-sie-dla-hacknslashy-tym-czym-gta-6-dla-mainstreamu/",
-      "publishedAt": "2026-11-26T13:56+01:00",
-      "summary": "Porównanie z tytułu ma więcej sensu niż może się wydawać. World Tour Grinding Gear Games i Jonathana Rogersa pokazało, że Path of Exile 2 zarządzi w segmencie hack’n’slashy, ale jednocześnie może zrazić odbiorców wychowanych na poprzedniku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Path-of-Exile-2-test-pelna-wersja-1.0-1260x709.jpg",
-      "articleSlug": "88b7c94febd8",
-      "articleBody": "Porównanie z tytułu ma więcej sensu niż może się wydawać. World Tour Grinding Gear Games i Jonathana Rogersa pokazało, że Path of Exile 2 zarządzi w segmencie hack’n’slashy, ale jednocześnie może zrazić odbiorców wychowanych na poprzedniku."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Playground Games chce stworzyć nowoczesne RPG. Wiedźmin 3 i Assassin’s Creed były ważnymi inspiracjami",
-      "sourceUrl": "https://www.ppe.pl/news/434680/playground-games-chce-stworzyc-nowoczesne-rpg-wiedzmin-3-i-assassin-s-creed-byly-waznymi-inspiracjami.html",
-      "publishedAt": "2026-11-26T13:52+01:00",
-      "summary": "Playground Games nie ograniczyło się do analizowania poprzednich odsłon Fable podczas prac nad rebootem serii. Ralph Fulton, współzałożyciel studia i dyrektor generalny projektu, ujawnił, że zespół przyglądał się również takim produkcjom...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/368109a531ec95437b89/368109a531ec95437b89.webp",
-      "articleSlug": "cbd71e31e342",
-      "articleBody": "Playground Games nie ograniczyło się do analizowania poprzednich odsłon Fable podczas prac nad rebootem serii. Ralph Fulton, współzałożyciel studia i dyrektor generalny projektu, ujawnił, że zespół przyglądał się również takim produkcjom..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Zestaw LEGO ICONS Stranger Things: Dom Creelów za 839,99 zł (cena kat. 1199,99 zł) w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-lego-icons-stranger-things-dom-creelow-za-83999-zl-cena-kat-119999-zl-w-media-expert/",
-      "publishedAt": "2026-11-26T13:51+01:00",
-      "summary": "Liczący aż 2593 elementów, zestaw LEGO ICONS Stranger Things: Dom Creelów, dostępny jest aktualnie w historycznie najniższej cenie, korzystając z oferty dostępnej w Media Expert. Klocki pozwolą Wam na zbudowanie modelu gotyckiej rezydencji oraz samochodu Steve’a i furgonetki WSQK. Zestaw kupicie za 839,99 zł, a znajdziecie w nim również 13 minifigurek z postaciami z serialu. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/01/LEGO-ICONS-Stranger-Things-Dom-Creelow_miniaturka-224x224.jpg",
-      "articleSlug": "a22d2a3b68d1",
-      "articleBody": "Liczący aż 2593 elementów, zestaw LEGO ICONS Stranger Things: Dom Creelów, dostępny jest aktualnie w historycznie najniższej cenie, korzystając z oferty dostępnej w Media Expert. Klocki pozwolą Wam na zbudowanie modelu gotyckiej rezydencji oraz samochodu Steve’a i furgonetki WSQK. Zestaw kupicie za 839,99 zł, a znajdziecie w nim również 13 minifigurek z postaciami z serialu. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Volkswagen Golf R oraz Golf GTI Edition 50 w realu i w Assetto Corsa EVO. Czy gra dobrze oddaje różnice między sportowymi autami?",
-      "sourceUrl": "https://www.gry-online.pl/opinie/volkswagen-golf-r-oraz-golf-gti-edition-50-w-realu-i-w-assetto-co/z249e0",
-      "publishedAt": "2026-11-26T13:36+01:00",
-      "summary": "333 KM i napęd na cztery koła kontra 325 KM tylko na przednią oś. Sprawdziłem jak Volkswagen Golf R wypada na tle Golfa GTI Edition 50 w rzeczywistości, także na torze, a później poszukałem tych różnic w grze Assetto Corsa EVO.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533391652.jpg",
-      "articleSlug": "bf83b023be99",
-      "articleBody": "333 KM i napęd na cztery koła kontra 325 KM tylko na przednią oś. Sprawdziłem jak Volkswagen Golf R wypada na tle Golfa GTI Edition 50 w rzeczywistości, także na torze, a później poszukałem tych różnic w grze Assetto Corsa EVO."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 z odblokowanym 60 FPS na PS5. Jest jednak pewien problem",
-      "sourceUrl": "https://www.ppe.pl/news/434677/gta-6-z-odblokowanym-60-fps-na-ps5-jest-jednak-pewien-problem.html",
-      "publishedAt": "2026-11-26T13:36+01:00",
-      "summary": "Gracze korzystający ze zmodyfikowanych konsol PlayStation 5 otrzymali nieoficjalną łatkę do GTA 6, która pozwala przekroczyć standardowy limit 30 klatek na sekundę. Modyfikacja nie gwarantuje jednak stabilnych 60 FPS.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg",
-      "articleSlug": "4d40bb0b7321",
-      "articleBody": "Gracze korzystający ze zmodyfikowanych konsol PlayStation 5 otrzymali nieoficjalną łatkę do GTA 6, która pozwala przekroczyć standardowy limit 30 klatek na sekundę. Modyfikacja nie gwarantuje jednak stabilnych 60 FPS."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "GTA 6 na PC ma już osiągać ponad 30 fps-ów. Piracki wyścig trwa w najlepsze",
-      "sourceUrl": "https://cdaction.pl/newsy/gta-6-na-pc-ma-juz-osiagac-ponad-30-fps-ow-piracki-wyscig-trwa-w-najlepsze/",
-      "publishedAt": "2026-11-26T13:30+01:00",
-      "summary": "Nawet GTA 6 na PC wyjdzie przed GTA 6 na PC.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-2026-11-26T121207.862-1260x709.jpg",
-      "articleSlug": "271b73a1b5b9",
-      "articleBody": "Nawet GTA 6 na PC wyjdzie przed GTA 6 na PC."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Gra planszowa Frosthaven (8.7 na BGG) – edycja polska za 678,93 zł na Allegro Black Weeks",
-      "sourceUrl": "https://lowcygier.pl/gry-planszowe/gra-planszowa-frosthaven-8-7-na-bgg-edycja-polska-za-67893-zl-na-allegro-black-weeks/",
-      "publishedAt": "2026-11-26T13:26+01:00",
-      "summary": "Świetna i mocno rozbudowana planszówka fabularna Frosthaven, pojawiła się w dobrej cenie w serwisie Allegro. Gra przeznaczona dla 1 do 4 osób, w której czeka na was aż 100 scenariuszy kampanii do rozegrania, kosztuje 678,93 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/frosthaven-1b-224x224.jpg",
-      "articleSlug": "e48445c2364e",
-      "articleBody": "Świetna i mocno rozbudowana planszówka fabularna Frosthaven, pojawiła się w dobrej cenie w serwisie Allegro. Gra przeznaczona dla 1 do 4 osób, w której czeka na was aż 100 scenariuszy kampanii do rozegrania, kosztuje 678,93 zł. Czytaj więcej »"
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
+  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
 }
