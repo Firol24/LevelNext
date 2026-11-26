@@ -1,18 +1,84 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T17:01+01:00",
+  "updatedAt": "2026-11-26T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Wiedźmin 3 Remaster dostał dużą aktualizację. CD Projekt Red wprowadził masę ważnych zmian, bo „potwory nie biorą wolnego”",
-    "summary": "Remaster Wiedźmina 3 otrzymał nową aktualizację poprawiającą błędy i ulepszającą tryb fotograficzny. W życiu wiedźmina „potwory nie biorą wolnego”.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-3-remaster-dostal-duza-aktualizacje-cd-projekt-red-wprow/zb324a1",
-    "articleSlug": "93c6e360e78c",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533406475.jpg"
+    "title": "Tydzień po premierze GTA 6 pracownicy Rockstar Games podjęli zaskakującą decyzję dotyczącą przyszłości",
+    "summary": "Głosowanie w sprawie oficjalnego uznania związku zawodowego w Rockstar Games przyniosło zaskakujące rozstrzygnięcie.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/tydzien-po-premierze-gta-6-pracownicy-rockstar-games-podjeli-zask/zd324a3",
+    "articleSlug": "551cfc6c988b",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533410570.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Tydzień po premierze GTA 6 pracownicy Rockstar Games podjęli zaskakującą decyzję dotyczącą przyszłości",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tydzien-po-premierze-gta-6-pracownicy-rockstar-games-podjeli-zask/zd324a3",
+      "publishedAt": "2026-11-26T18:37+01:00",
+      "summary": "Głosowanie w sprawie oficjalnego uznania związku zawodowego w Rockstar Games przyniosło zaskakujące rozstrzygnięcie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533410570.jpg",
+      "articleSlug": "551cfc6c988b",
+      "articleBody": "Głosowanie w sprawie oficjalnego uznania związku zawodowego w Rockstar Games przyniosło zaskakujące rozstrzygnięcie."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "80. gra za darmo w 2026 roku w Epic Games Store [Aktualizacja]",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/80-gra-za-darmo-w-2026-roku-w-epic-games-store/z632485",
+      "publishedAt": "2026-11-26T18:08+01:00",
+      "summary": "Osiemdziesiąta tegoroczna darmówka w Epic Games Store to produkcja, która równie łatwo potrafi zachwycić, co sfrustrować. Bread & Fred meldują gotować do akcji!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533339995.jpg",
+      "articleSlug": "c0381280a1ba",
+      "articleBody": "Osiemdziesiąta tegoroczna darmówka w Epic Games Store to produkcja, która równie łatwo potrafi zachwycić, co sfrustrować. Bread & Fred meldują gotować do akcji!"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Phantom Blade Zero otrzyma dużą aktualizację. Twórcy zareagowali na zgłoszenia graczy",
+      "sourceUrl": "https://www.ppe.pl/news/434711/phantom-blade-zero-otrzyma-duza-aktualizacje-tworcy-zareagowali-na-zgloszenia-graczy.html",
+      "publishedAt": "2026-11-26T18:01+01:00",
+      "summary": "Twórcy Phantom Blade Zero przygotowują kolejną bezpłatną aktualizację. S-GAME zapowiedziało, że patch oznaczony numerem 1.0304629 zostanie udostępniony 27 listopada. Deweloperzy skupią się przede wszystkim na usunięciu błędów, które od p...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/890a601a619eb6176219/890a601a619eb6176219.jpg",
+      "articleSlug": "13bfaac89be0",
+      "articleBody": "Twórcy Phantom Blade Zero przygotowują kolejną bezpłatną aktualizację. S-GAME zapowiedziało, że patch oznaczony numerem 1.0304629 zostanie udostępniony 27 listopada. Deweloperzy skupią się przede wszystkim na usunięciu błędów, które od p..."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Co przygotował GIGABYTE na Black Friday? Laptop z RTX-em 300 zł taniej, monitor OLED 240 Hz i podzespoły PC",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/co-przygotowal-gigabyte-na-black-friday-laptop-z-rtx-em-300-zl-ta/zc324a2",
+      "publishedAt": "2026-11-26T18:01+01:00",
+      "summary": "Wymiana sprzętu gamingowego nie musi oznaczać spustoszenia portfela. Pokazuje to przegląd urządzeń GIGABYTE, który zainteresuje zarówno miłośników mobilnego grania i ekranów OLED, jak i osoby planujące rozbudowę PC.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533408482.jpg",
+      "articleSlug": "f4ce62131369",
+      "articleBody": "Wymiana sprzętu gamingowego nie musi oznaczać spustoszenia portfela. Pokazuje to przegląd urządzeń GIGABYTE, który zainteresuje zarówno miłośników mobilnego grania i ekranów OLED, jak i osoby planujące rozbudowę PC."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Legenda doczeka się filmu aktorskiego! Kultowa seria trafi na wielki ekran",
+      "sourceUrl": "https://www.ppe.pl/news/434695/legenda-doczeka-sie-filmu-aktorskiego-kultowa-seria-trafi-na-wielki-ekran.html",
+      "publishedAt": "2026-11-26T17:46+01:00",
+      "summary": "Metal Slug będzie kolejną marką SNK, która otrzyma filmową adaptację. Twórcy zamierzają przenieść na ekran charakterystyczny świat kultowej serii zręcznościowych strzelanek.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6176ff3cd8718c5c40cd/6176ff3cd8718c5c40cd.jpg",
+      "articleSlug": "4e63ea3dbe7e",
+      "articleBody": "Metal Slug będzie kolejną marką SNK, która otrzyma filmową adaptację. Twórcy zamierzają przenieść na ekran charakterystyczny świat kultowej serii zręcznościowych strzelanek."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 miało zabić edycje fizyczne, a tymczasem je wskrzesza. Europa oszalała na punkcie pudełka z kodem",
+      "sourceUrl": "https://www.ppe.pl/news/434712/gta-6-mialo-zabic-edycje-fizyczne-a-tymczasem-je-wskrzesza-europa-oszalala-na-punkcie-pudelka-z-kodem.html",
+      "publishedAt": "2026-11-26T17:30+01:00",
+      "summary": "Grand Theft Auto VI kontynuuje odciskanie piętna na historii branży. Najnowsza produkcja Rockstar Games to pierwsza wysokobudżetowa gra, która nie została wydana na płycie. Mimo to gracze ochoczo kupują fizyczne wydanie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a40202273d9b98028772/a40202273d9b98028772.jpg",
+      "articleSlug": "723268cd7c4d",
+      "articleBody": "Grand Theft Auto VI kontynuuje odciskanie piętna na historii branży. Najnowsza produkcja Rockstar Games to pierwsza wysokobudżetowa gra, która nie została wydana na płycie. Mimo to gracze ochoczo kupują fizyczne wydanie."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Wiedźmin 3 Remaster dostał dużą aktualizację. CD Projekt Red wprowadził masę ważnych zmian, bo „potwory nie biorą wolnego”",
@@ -25,6 +91,28 @@
       "articleBody": "Remaster Wiedźmina 3 otrzymał nową aktualizację poprawiającą błędy i ulepszającą tryb fotograficzny. W życiu wiedźmina „potwory nie biorą wolnego”."
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Poprowadź własny „Sklepik z Marzeniami” dzięki Epic Games. Znamy tytuł nowej gry PC za darmo!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/poprowadz-wlasny-sklepik-z-marzeniami-dzieki-epic-games-znamy-tytul-nowej-gry-pc-za-darmo/",
+      "publishedAt": "2026-11-26T17:29+01:00",
+      "summary": "Na specjalnej stronie sklepu Epic Games pojawiła się oficjalna zapowiedź pierwszej w grudniu edycji rozdawnictwa. W następny czwartek do swoich bibliotek będziecie mogli dodać grę Strange Antiquities za darmo. Dzieło studia Bad Viking, czyli twórców wysoko ocenianej gry Strange Horticulture, pozwoli Wam poczuć się przez chwilę jak bohater powieści Stephena Kinga pod tytułem „Sklepik z Marzeniami” . Produkcja mogąca się pochwalić prawie 3500 recenzji, z czego aż 94% to opinie pozytywne, dostępna będzie zupełnie bezpłatnie od 3 do 10 grudnia 2026 roku. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Poprowadz-wlasny-_Sklepik-z-Marzeniami_-dzieki-Epic-Games.-Znamy-tytul-nowej-gry-PC-za-darmo_miniaturka-224x224.jpg",
+      "articleSlug": "d34e0bfbf740",
+      "articleBody": "Na specjalnej stronie sklepu Epic Games pojawiła się oficjalna zapowiedź pierwszej w grudniu edycji rozdawnictwa. W następny czwartek do swoich bibliotek będziecie mogli dodać grę Strange Antiquities za darmo. Dzieło studia Bad Viking, czyli twórców wysoko ocenianej gry Strange Horticulture, pozwoli Wam poczuć się przez chwilę jak bohater powieści Stephena Kinga pod tytułem „Sklepik z Marzeniami” . Produkcja mogąca się pochwalić prawie 3500 recenzji, z czego aż 94% to opinie pozytywne, dostępna będzie zupełnie bezpłatnie od 3 do 10 grudnia 2026 roku. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 bez ważnej funkcji! Rockstar wyjaśnia kontrowersyjną decyzję",
+      "sourceUrl": "https://www.ppe.pl/news/434692/gta-6-bez-waznej-funkcji-rockstar-wyjasnia-kontrowersyjna-decyzje.html",
+      "publishedAt": "2026-11-26T17:17+01:00",
+      "summary": "GTA 6 nie pozwoli swobodnie powtarzać ukończonych misji fabularnych. To spora zmiana względem GTA 5 i Red Dead Redemption 2, w których gracze mogli wracać do wybranych etapów kampanii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/588c18429cb6ebbdf4fb/588c18429cb6ebbdf4fb.webp",
+      "articleSlug": "7fa71a37acd5",
+      "articleBody": "GTA 6 nie pozwoli swobodnie powtarzać ukończonych misji fabularnych. To spora zmiana względem GTA 5 i Red Dead Redemption 2, w których gracze mogli wracać do wybranych etapów kampanii."
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Jazda po otwartym świecie GTA 6 jest tak realistyczna, bo Rockstar zatrudnił prawdziwego eksperta, by znaleźć złoty środek",
       "sourceUrl": "https://www.gry-online.pl/newsroom/jazda-po-otwartym-swiecie-gta-6-jest-tak-realistyczna-bo-rockstar/za324a0",
@@ -34,6 +122,28 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533405503.jpg",
       "articleSlug": "5b254fe44e6d",
       "articleBody": "Okazuje się, że Rockstar Games przy tworzeniu modelu jazdy w GTA 6 skorzystało z doświadczenia zawodnika, który rywalizował z najlepszymi kierowcami wirtualnego motorsportu."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Dwa pingwiny i lina, czyli zabawa dla dwojga. Odbierz Bread and Fred za darmo w Epic Games!",
+      "sourceUrl": "https://lowcygier.pl/darmowe/dwa-pingwiny-i-lina-czyli-zabawa-dla-dwojga-odbierz-bread-and-fred-za-darmo-w-epic-games/",
+      "publishedAt": "2026-11-26T17:03+01:00",
+      "summary": "Łowcy, w ramach ostatniej w tym miesiącu odsłony rozdawnictwa sponsorowanego przez Epic Games, do swoich kont możecie dodać grę Bread & Fred za darmo. Produkcja studia SandCastles to ciekawa wariacja na temat trybu kooperacji. Tytuł mogący się pochwalić prawie 4200 recenzji, z czego aż 78% to oceny pozytywne, dostępny będzie zupełnie bezpłatnie do 3 grudnia 2026 roku. Bez żadnych dodatkowych kosztów odbierzecie także specjalny pakiet o wartości $100 do darmowej gry Firestone Online Idle RPG . Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Urocza-gra-kooperacyjna-za-darmo-od-Epic-Games.-Poznalismy-tytul-kolejnej-darmowki_miniaturka-224x224.jpg",
+      "articleSlug": "efc507aedaf0",
+      "articleBody": "Łowcy, w ramach ostatniej w tym miesiącu odsłony rozdawnictwa sponsorowanego przez Epic Games, do swoich kont możecie dodać grę Bread & Fred za darmo. Produkcja studia SandCastles to ciekawa wariacja na temat trybu kooperacji. Tytuł mogący się pochwalić prawie 4200 recenzji, z czego aż 78% to oceny pozytywne, dostępny będzie zupełnie bezpłatnie do 3 grudnia 2026 roku. Bez żadnych dodatkowych kosztów odbierzecie także specjalny pakiet o wartości $100 do darmowej gry Firestone Online Idle RPG . Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Z pozoru sympatyczna gra kooperacyjna za darmo w Epic Games Storze. To wymagająca przygoda z oryginalnymi mechanikami",
+      "sourceUrl": "https://cdaction.pl/newsy/z-pozoru-sympatyczna-gra-kooperacyjna-za-darmo-w-epic-games-storze-to-wymagajaca-przygoda-z-oryginalnymi-mechanikami/",
+      "publishedAt": "2026-11-26T17:00+01:00",
+      "summary": "Jak to ujął jeden z graczy: to najbardziej uroczy sposób na zniszczenie przyjaźni.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/epic-games-store-4506.jpg",
+      "articleSlug": "aa87e5f3ec43",
+      "articleBody": "Jak to ujął jeden z graczy: to najbardziej uroczy sposób na zniszczenie przyjaźni."
     },
     {
       "sourceName": "PPE",
@@ -232,116 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533397314.jpg",
       "articleSlug": "2747b01e7ae0",
       "articleBody": "Twórcy Company of Heroes 3 podejmuje kolejną próbę przekonania graczy do tej drugowojennej strategii."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "5 pomysłów, które nie załapały się do GTA 6. Rockstar wyjaśnia, dlaczego z nich zrezygnował",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/5-pomyslow-ktore-nie-zalapaly-sie-do-gta-6-rockstar-wyjasnia-dlac/z33249a",
-      "publishedAt": "2026-11-26T14:55+01:00",
-      "summary": "Nawet szalenie długi cykl deweloperski GTA 6 nie wystarczył, aby twórcy mogli zrealizować wszystkie swoje pomysły. W wywiadzie ujawnili, jakie elementy wycięto z gry.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533396746.jpg",
-      "articleSlug": "1b07f8614344",
-      "articleBody": "Nawet szalenie długi cykl deweloperski GTA 6 nie wystarczył, aby twórcy mogli zrealizować wszystkie swoje pomysły. W wywiadzie ujawnili, jakie elementy wycięto z gry."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 może zaoferować więcej FPS na PS5 Pro. Gracze analizują możliwości graficzne gry",
-      "sourceUrl": "https://www.ppe.pl/news/434683/gta-6-moze-zaoferowac-wiecej-fps-na-ps5-pro-gracze-analizuja-mozliwosci-graficzne-gry.html",
-      "publishedAt": "2026-11-26T14:43+01:00",
-      "summary": "Możliwości techniczne GTA 6 ponownie stały się tematem dyskusji wśród graczy. Na forach pojawiła się wymiana opinii dotycząca zmian względem GTA 5, a jednym z poruszonych wątków są zaawansowane rozwiązania graficzne, które mogą wpłyną�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp",
-      "articleSlug": "926558b4a7f2",
-      "articleBody": "Możliwości techniczne GTA 6 ponownie stały się tematem dyskusji wśród graczy. Na forach pojawiła się wymiana opinii dotycząca zmian względem GTA 5, a jednym z poruszonych wątków są zaawansowane rozwiązania graficzne, które mogą wpłyną�..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "CD Projekt RED nie zwalnia ani na moment. Wiedźmin 3: Dziki Gon Remaster otrzymał konkretny zestaw poprawek",
-      "sourceUrl": "https://www.ppe.pl/news/434690/cd-projekt-red-nie-zwalnia-ani-na-moment-wiedzmin-3-dziki-gon-remaster-otrzymal-konkretny-zestaw-poprawek.html",
-      "publishedAt": "2026-11-26T14:31+01:00",
-      "summary": "Chociaż od premiery remastera Wiedźmina 3 minęło już trochę czasu, CD Projekt RED nie odłożył gry na półkę. Właśnie poznaliśmy szczegóły nowej aktualizacji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/2f4aa24bcb94370d0dce/2f4aa24bcb94370d0dce.avif",
-      "articleSlug": "3fd923ca6158",
-      "articleBody": "Chociaż od premiery remastera Wiedźmina 3 minęło już trochę czasu, CD Projekt RED nie odłożył gry na półkę. Właśnie poznaliśmy szczegóły nowej aktualizacji."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Twórcy świetnej kosmicznej strzelanki wciąż rozpieszczają fanów. Patch 16.0 do Space Marine 2 odświeża klasę Vanguard i dodaje peleryny",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-swietnej-kosmicznej-strzelanki-wciaz-rozpieszczaja-fanow-p/z932497",
-      "publishedAt": "2026-11-26T14:30+01:00",
-      "summary": "Warhammer 40,000: Space Marine 2 otrzymało aktualizację 16.0, która przede wszystkim rozbudowuje klasę Vanguard. Wprowadzono także nowy sektor do trybu Chaos Siege.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533394532.jpg",
-      "articleSlug": "0b3e7a273e83",
-      "articleBody": "Warhammer 40,000: Space Marine 2 otrzymało aktualizację 16.0, która przede wszystkim rozbudowuje klasę Vanguard. Wprowadzono także nowy sektor do trybu Chaos Siege."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Oficjalna stacja ładująca Sony DualSense na 2 pady za 89,99 zł (50 zł taniej) w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/oficjalna-stacja-ladujaca-sony-dualsense-na-2-pady-za-8999-zl-50-zl-taniej-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-26T14:28+01:00",
-      "summary": "Oficjalne akcesorium do konsoli Sony PlayStation 5, które pozwoli Wam w wygodny sposób ładować kontrolery, kupicie w dobrej cenie w sklepie RTV Euro AGD. Podwójna stacja ładująca do padów Sony DualSense, bo właśnie o tym sprzęcie mowa, jest dostępne za 89,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/08/sony-dualsense-charging-station-3b-224x224.jpg",
-      "articleSlug": "19c11e332262",
-      "articleBody": "Oficjalne akcesorium do konsoli Sony PlayStation 5, które pozwoli Wam w wygodny sposób ładować kontrolery, kupicie w dobrej cenie w sklepie RTV Euro AGD. Podwójna stacja ładująca do padów Sony DualSense, bo właśnie o tym sprzęcie mowa, jest dostępne za 89,99 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Najnowszy God of War działa na PC w 4K i 240 FPS. Sony traci kolejny ekskluzywny tytuł",
-      "sourceUrl": "https://www.ppe.pl/news/434679/najnowszy-god-of-war-dziala-na-pc-w-4k-i-240-fps-sony-traci-kolejny-ekskluzywny-tytul.html",
-      "publishedAt": "2026-11-26T14:21+01:00",
-      "summary": "Fani God of War: Sons of Sparta przygotowali nieoficjalny port gry na komputery osobiste. Projekt autorstwa moddera posługującego się pseudonimem saulob pozwala uruchomić wersję z PS4 bezpośrednio w systemie Windows x64.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c403e2c93b61b0986213/c403e2c93b61b0986213.jpg",
-      "articleSlug": "04917a63588f",
-      "articleBody": "Fani God of War: Sons of Sparta przygotowali nieoficjalny port gry na komputery osobiste. Projekt autorstwa moddera posługującego się pseudonimem saulob pozwala uruchomić wersję z PS4 bezpośrednio w systemie Windows x64."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Jaki jest sens gwarancji?”. Gracz kupił Xboksa dla GTA 6, konsola mu padła, a w jego kraju Xbox nie ma usługi napraw gwarancyjnych",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/jaki-jest-sens-gwarancji-gracz-kupil-xboksa-dla-gta-6-konsola-mu/za32498",
-      "publishedAt": "2026-11-26T14:20+01:00",
-      "summary": "Internauta kupił Xboksa Series X specjalnie z myślą o GTA 6. Po ponad dwóch tygodniach konsola się zepsuła, a naprawa gwarancyjna okazała się trudniejsza, niż mogłoby się wydawać.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533395188.jpg",
-      "articleSlug": "d9c7d587a183",
-      "articleBody": "Internauta kupił Xboksa Series X specjalnie z myślą o GTA 6. Po ponad dwóch tygodniach konsola się zepsuła, a naprawa gwarancyjna okazała się trudniejsza, niż mogłoby się wydawać."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Gothic 3 Classic z problemami, ale twórcy błyskawicznie reagują. Wyjątkowy port otrzymał już aż 4 patche",
-      "sourceUrl": "https://cdaction.pl/newsy/gothic-3-classic-z-problemami-ale-tworcy-blyskawicznie-reaguja-wyjatkowy-port-otrzymal-juz-az-4-patche/",
-      "publishedAt": "2026-11-26T14:15+01:00",
-      "summary": "Wiele zgłaszanych błędów zostało już naprawionych.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Gothic-3-1.jpg",
-      "articleSlug": "a8dba09d0d4b",
-      "articleBody": "Wiele zgłaszanych błędów zostało już naprawionych."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Polski kandydat do The Game Awards 2026 zostanie rozbudowany. Twórcy na dniach pokażą pierwszy dodatek",
-      "sourceUrl": "https://www.ppe.pl/news/434684/polski-kandydat-do-the-game-awards-2026-zostanie-rozbudowany-tworcy-na-dniach-pokaza-pierwszy-dodatek.html",
-      "publishedAt": "2026-11-26T14:14+01:00",
-      "summary": "Rodzime Fumi Games przynosi dobre wieści dla wszystkich fanów Mouse: P.I. For Hire. Za kilka dni zostanie zaprezentowany pierwszy dodatek fabularny do polskiego hitu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/96f474e0e9bc09859d78/96f474e0e9bc09859d78.webp",
-      "articleSlug": "defe9322c9e0",
-      "articleBody": "Rodzime Fumi Games przynosi dobre wieści dla wszystkich fanów Mouse: P.I. For Hire. Za kilka dni zostanie zaprezentowany pierwszy dodatek fabularny do polskiego hitu."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Steam Next Fest wywołał kontrowersje. Teraz powstał festiwal dla gier bez AI",
-      "sourceUrl": "https://www.ppe.pl/news/434685/steam-next-fest-wywolal-kontrowersje-teraz-powstal-festiwal-dla-gier-bez-ai.html",
-      "publishedAt": "2026-11-26T14:06+01:00",
-      "summary": "Na rynku gier niezależnych pojawiła się inicjatywa skierowana do osób zmęczonych zalewem produkcji wykorzystujących generatywną sztuczną inteligencję.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f7fb76067b27695d95df/f7fb76067b27695d95df.jpg",
-      "articleSlug": "6b54e4b63e52",
-      "articleBody": "Na rynku gier niezależnych pojawiła się inicjatywa skierowana do osób zmęczonych zalewem produkcji wykorzystujących generatywną sztuczną inteligencję."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
+  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
 }
