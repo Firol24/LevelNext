@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T10:01+01:00",
+  "updatedAt": "2026-11-26T11:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„To historyczna chwila”: to, co właśnie dzieje się wokół GTA 6, może na zawsze zmienić branżę gier",
-    "summary": "W sieci przybywa nagrań pokazujących postępy prac nad nieoficjalnymi portami GTA 6 na PC. Wyciekły również ustawienia graficzne gry na konsolach.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/to-historyczna-chwila-to-co-wlasnie-dzieje-sie-wokol-gta-6-moze-n/z932488",
-    "articleSlug": "0c748996d931",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533380931.jpg"
+    "title": "Ostatnie godziny na zgarnięcie za darmo chwalonej gry z 2025 r. Dwie nowe gry gratis od dzisiaj",
+    "summary": "Jeśli jeszcze tego nie zrobiliście, to zachęcam do wybrania się do Epic Games Store, gdzie można odebrać chwaloną produkcję z 2025 roku.",
+    "sourceUrl": "https://www.ppe.pl/news/434663/ostatnie-godziny-na-zgarniecie-za-darmo-chwalonej-gry-z-2025-r-dwie-nowe-gry-gratis-od-dzisiaj.html",
+    "articleSlug": "859a1aae4280",
+    "imageUrl": "https://pliki.ppe.pl/storage/7ea4a2b394394fa9badb/7ea4a2b394394fa9badb.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Ostatnie godziny na zgarnięcie za darmo chwalonej gry z 2025 r. Dwie nowe gry gratis od dzisiaj",
+      "sourceUrl": "https://www.ppe.pl/news/434663/ostatnie-godziny-na-zgarniecie-za-darmo-chwalonej-gry-z-2025-r-dwie-nowe-gry-gratis-od-dzisiaj.html",
+      "publishedAt": "2026-11-26T10:38+01:00",
+      "summary": "Jeśli jeszcze tego nie zrobiliście, to zachęcam do wybrania się do Epic Games Store, gdzie można odebrać chwaloną produkcję z 2025 roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/7ea4a2b394394fa9badb/7ea4a2b394394fa9badb.jpg",
+      "articleSlug": "859a1aae4280",
+      "articleBody": "Jeśli jeszcze tego nie zrobiliście, to zachęcam do wybrania się do Epic Games Store, gdzie można odebrać chwaloną produkcję z 2025 roku."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Capcom nie jest święty. Właśnie oficjalnie skasowali swoją grę",
+      "sourceUrl": "https://www.ppe.pl/news/434644/capcom-nie-jest-swiety-nowa-gra-oficjalnie-skasowana.html",
+      "publishedAt": "2026-11-26T10:38+01:00",
+      "summary": "Patrząc na formę Capcomu w ostatnich latach, można odnieść wrażenie, że czego Japończycy się nie dotkną, to z miejsca zamienia się w złoto.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5a4e87bc857153896cf8/5a4e87bc857153896cf8.jpg",
+      "articleSlug": "856273ef4714",
+      "articleBody": "Patrząc na formę Capcomu w ostatnich latach, można odnieść wrażenie, że czego Japończycy się nie dotkną, to z miejsca zamienia się w złoto."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Telewizor LG OLED55C51LA 120 Hz Dolby Vision VRR od 3369 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/telewizor-lg-oled55c51la-120-hz-dolby-vision-vrr-od-3369-zl-na-allegro/",
+      "publishedAt": "2026-11-26T10:30+01:00",
+      "summary": "Wyposażony w porty HDMI 2.1, 55-calowy LG OLED55C51LA, możliwy jest do kupienia taniej, korzystając z serwisu Allegro. Telewizor z matrycą OLED z częstotliwością odświeżania 120 Hz oraz wsparciem dla technologii AMD FreeSync i Nvidia G-Sync, może być wasz za 3369 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/09/LG-OLED55C51LA-miniatura-224x224.jpg",
+      "articleSlug": "e0bb57e078b2",
+      "articleBody": "Wyposażony w porty HDMI 2.1, 55-calowy LG OLED55C51LA, możliwy jest do kupienia taniej, korzystając z serwisu Allegro. Telewizor z matrycą OLED z częstotliwością odświeżania 120 Hz oraz wsparciem dla technologii AMD FreeSync i Nvidia G-Sync, może być wasz za 3369 zł. Czytaj więcej »"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„To historyczna chwila”: to, co właśnie dzieje się wokół GTA 6, może na zawsze zmienić branżę gier",
@@ -23,6 +56,39 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533380931.jpg",
       "articleSlug": "0c748996d931",
       "articleBody": "W sieci przybywa nagrań pokazujących postępy prac nad nieoficjalnymi portami GTA 6 na PC. Wyciekły również ustawienia graficzne gry na konsolach."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pora ruszyć głową! Książka Murdoku 80 zabójczych łamigłówek za 23,81 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/pora-ruszyc-glowa-ksiazka-murdoku-80-zabojczych-lamiglowek-za-2381-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-26T10:22+01:00",
+      "summary": "Co jakiś czas warto poćwiczyć szare komórki. Teraz w polskim oddziale sklepu Amazon dorwiecie taniej książkę Murdoku 80 zabójczych łamigłówek. Na 208 stronach znajdziecie „śledztwa” łączące w sobie prostotę zagadek takich jak sudoku z klasycznymi zadaniami logicznymi, a wszystko to za jedyne 23,81 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Murdoku-80-zabojczych-lamiglowek-logo-224x224.jpg",
+      "articleSlug": "e830a28684e7",
+      "articleBody": "Co jakiś czas warto poćwiczyć szare komórki. Teraz w polskim oddziale sklepu Amazon dorwiecie taniej książkę Murdoku 80 zabójczych łamigłówek. Na 208 stronach znajdziecie „śledztwa” łączące w sobie prostotę zagadek takich jak sudoku z klasycznymi zadaniami logicznymi, a wszystko to za jedyne 23,81 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Dlaczego w GTA 6 nie można powtarzać misji? Mamy wyjaśnienie Rockstara",
+      "sourceUrl": "https://cdaction.pl/newsy/dlaczego-w-gta-6-nie-mozna-powtarzac-misji-mamy-wyjasnienie-rockstara/",
+      "publishedAt": "2026-11-26T10:15+01:00",
+      "summary": "Można być rozczarowanym, ale powód jest zrozumiały.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-8.jpg",
+      "articleSlug": "a670e119957e",
+      "articleBody": "Można być rozczarowanym, ale powód jest zrozumiały."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 jest wypchane po brzegi. Rockstar Games to mistrzowie",
+      "sourceUrl": "https://www.ppe.pl/news/434643/gta-6-jest-wypchane-po-brzegi-rockstar-games-to-mistrzowie.html",
+      "publishedAt": "2026-11-26T10:13+01:00",
+      "summary": "Nawet po kilkunastu latach od premiery gracze wciąż potrafią wygrzebać jakieś nowe, nieznane wcześniej ciekawostki w GTA 5. Wygląda jednak na to, że przy Grand Theft Auto 6 tamte poszukiwania to była zaledwie mała rozgrzewka.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/6201c997579a67845dad/6201c997579a67845dad.png",
+      "articleSlug": "7e7192de2445",
+      "articleBody": "Nawet po kilkunastu latach od premiery gracze wciąż potrafią wygrzebać jakieś nowe, nieznane wcześniej ciekawostki w GTA 5. Wygląda jednak na to, że przy Grand Theft Auto 6 tamte poszukiwania to była zaledwie mała rozgrzewka."
     },
     {
       "sourceName": "Łowcy Gier",
@@ -276,72 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/ff7f83c9664c23716ba1/ff7f83c9664c23716ba1.jpg",
       "articleSlug": "10d933d7e3e9",
       "articleBody": "Netflix przygotował znakomitą niespodziankę dla widzów, którzy uwielbiają sportowe historie inspirowane prawdziwymi wydarzeniami."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Anti-Black Friday 2026 w Yuplay. Zrób zakupy za €20 i zgarnij dodatkową grę Steam!",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/wyprzedaz-anti-black-friday-2026-w-yuplay-zrob-zakupy-za-e20-i-zgarnij-dodatkowa-gre-steam/",
-      "publishedAt": "2026-11-26T00:22+01:00",
-      "summary": "Łowcy, do wyprzedażowego szaleństwa, w nieco przekorny sposób, postanowił dołączyć także cyfrowy sklep Yuplay. W ramach oferty Anti-Black Friday 2026 przeceniono setki produkcji na PC, a wybrane pozycje dostępne są w historycznie najniższych cenach. Na szczególne wyróżnieni zasługuje tutaj tegoroczny, dość niespodziewany hit firmy CAPCOM. Klucz Steam z grą Pragmata może być Wasz za rekordowe 133 zł. Warto dodać, że każdy zakup za min. €20 (ok. 90 zł) gwarantuje dodatkową grę Steam za darmo! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Anti-Black-Friday-2026-w-Yuplay.-Zrob-zakupy-za-E20-i-zgarnij-dodatkowa-gre-Steam_miniaturka-224x224.jpg",
-      "articleSlug": "d60a9a4095cb",
-      "articleBody": "Łowcy, do wyprzedażowego szaleństwa, w nieco przekorny sposób, postanowił dołączyć także cyfrowy sklep Yuplay. W ramach oferty Anti-Black Friday 2026 przeceniono setki produkcji na PC, a wybrane pozycje dostępne są w historycznie najniższych cenach. Na szczególne wyróżnieni zasługuje tutaj tegoroczny, dość niespodziewany hit firmy CAPCOM. Klucz Steam z grą Pragmata może być Wasz za rekordowe 133 zł. Warto dodać, że każdy zakup za min. €20 (ok. 90 zł) gwarantuje dodatkową grę Steam za darmo! Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PlayStation kontra Xbox – wyciek ujawnia różnice między konsolami w GTA 6. Nie brakuje zaskoczeń!",
-      "sourceUrl": "https://www.ppe.pl/news/434559/playstation-kontra-xbox-wyciek-ujawnia-roznice-miedzy-konsolami-w-gta-6-nie-brakuje-zaskoczen.html",
-      "publishedAt": "2026-11-25T18:05+01:00",
-      "summary": "Do sieci trafiły szczegółowe informacje na temat ustawień graficznych GTA 6 na konsolach PlayStation 5, PlayStation 5 Pro oraz Xbox Series X|S. Dane opublikowane przez dataminera Text2, na które powołuje się serwis MP1st, mają ujawniać różnic...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg",
-      "articleSlug": "34b8f99f1bc1",
-      "articleBody": "Do sieci trafiły szczegółowe informacje na temat ustawień graficznych GTA 6 na konsolach PlayStation 5, PlayStation 5 Pro oraz Xbox Series X|S. Dane opublikowane przez dataminera Text2, na które powołuje się serwis MP1st, mają ujawniać różnic..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Nadchodzi darmowy dodatek do jednego z największych hitów 2025 roku. Twórcy Hollow Knight: Silksong mogą zapowiedzieć nową grę",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nadchodzi-darmowy-dodatek-do-jednego-z-najwiekszych-hitow-2025-ro/z23247b",
-      "publishedAt": "2026-11-25T17:53+01:00",
-      "summary": "Dodatek Sea of Sorrow do Hollow Knight: Silksong najwyraźniej zbliża się wielkimi krokami. Team Cherry zaprasza na niespodziewany pokaz, który może przynieść również zapowiedź nowej gry australijskiego studia.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533321626.jpg",
-      "articleSlug": "72adb35baacd",
-      "articleBody": "Dodatek Sea of Sorrow do Hollow Knight: Silksong najwyraźniej zbliża się wielkimi krokami. Team Cherry zaprasza na niespodziewany pokaz, który może przynieść również zapowiedź nowej gry australijskiego studia."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 zaskoczy skalą eksploracji. Gracze doliczyli się ponad 1500 budynków do zwiedzania",
-      "sourceUrl": "https://www.ppe.pl/news/434552/gta-6-zaskoczy-skala-eksploracji-gracze-doliczyli-sie-ponad-1500-budynkow-do-zwiedzania.html",
-      "publishedAt": "2026-11-25T17:45+01:00",
-      "summary": "Świat Grand Theft Auto 6 może zaoferować znacznie więcej dostępnych wnętrz, niż wcześniej przypuszczano.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/59d72d07f5bd0795dd7f/59d72d07f5bd0795dd7f.webp",
-      "articleSlug": "98595d09b12a",
-      "articleBody": "Świat Grand Theft Auto 6 może zaoferować znacznie więcej dostępnych wnętrz, niż wcześniej przypuszczano."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyjątkowo tanie puzzle Good Loot w RTV Euro AGD. Warianty Thorgal (1000 el.) po 5,50 zł!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyjatkowo-tanie-puzzle-good-loot-w-rtv-euro-agd-warianty-thorgal-1000-el-po-550-zl/",
-      "publishedAt": "2026-11-25T17:42+01:00",
-      "summary": "W internetowym sklepie RTV Euro AGD, wykorzystując specjalny kod zniżkowy, możecie zakupić tanio puzzle Good Loot. Modele przygotowane z myślą o fanach serii komiksów Thorgal dostępne są w historycznie niskich cenach. W ramach oferty za warianty składające się z 1000 elementów zapłacicie jedynie 5,50 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyjatkowo-tanie-puzzle-Good-Loot-w-RTV-Euro-AGD.-Warianty-Thorgal-1000-el.-po-550-zl_miniaturka-224x224.jpg",
-      "articleSlug": "c72f63b312b5",
-      "articleBody": "W internetowym sklepie RTV Euro AGD, wykorzystując specjalny kod zniżkowy, możecie zakupić tanio puzzle Good Loot. Modele przygotowane z myślą o fanach serii komiksów Thorgal dostępne są w historycznie niskich cenach. W ramach oferty za warianty składające się z 1000 elementów zapłacicie jedynie 5,50 zł! Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "PS Plus na grudzień OFICJALNIE. Sony rozpoczyna ostatni miesiąc roku od mocnego uderzenia nostalgii",
-      "sourceUrl": "https://www.ppe.pl/news/434561/ps-plus-na-grudzien-oficjalnie-sony-rozpoczyna-ostatni-miesiac-roku-od-mocnego-uderzenia-nostalgii.html",
-      "publishedAt": "2026-11-25T17:38+01:00",
-      "summary": "Listopad dobiega końca, a to oznacza, że zbliża się czas odświeżenia zestawu gier dostępnych w ramach PlayStation Plus Essential.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/96976eed717bc5eda703/96976eed717bc5eda703.webp",
-      "articleSlug": "db92eb3d9516",
-      "articleBody": "Listopad dobiega końca, a to oznacza, że zbliża się czas odświeżenia zestawu gier dostępnych w ramach PlayStation Plus Essential."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795309203"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "1d7ba98e44b39ff78e27d0224d5c1a2d31471b432dac3378c4c086c7c03b5ff6"
+  "editorialHash": "757b560d9daba881d92ec895df7d5cf096e2615fcf8099b1bc7b613f22be85a8"
 }
