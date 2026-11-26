@@ -1,18 +1,161 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T14:01+01:00",
+  "updatedAt": "2026-11-26T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Playground Games chce stworzyć nowoczesne RPG. Wiedźmin 3 i Assassin’s Creed były ważnymi inspiracjami",
-    "summary": "Playground Games nie ograniczyło się do analizowania poprzednich odsłon Fable podczas prac nad rebootem serii. Ralph Fulton, współzałożyciel studia i dyrektor generalny projektu, ujawnił, że zespół przyglądał się również takim produkcjom...",
-    "sourceUrl": "https://www.ppe.pl/news/434680/playground-games-chce-stworzyc-nowoczesne-rpg-wiedzmin-3-i-assassin-s-creed-byly-waznymi-inspiracjami.html",
-    "articleSlug": "cbd71e31e342",
-    "imageUrl": "https://pliki.ppe.pl/storage/368109a531ec95437b89/368109a531ec95437b89.webp"
+    "title": "Kanibale i wegetarianie w jednym plemieniu? Nowa wielka strategia od Paradoxu zapowiada się na niezłą jazdę",
+    "summary": "Studio Paradox ujawniło informacje na temat mechanik zarządzania plemieniem w postapokaliptycznej wielkiej strategii Afterworld.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/kanibale-i-wegetarianie-w-jednym-plemieniu-nowa-wielka-strategia/z63249d",
+    "articleSlug": "6059ca6bab24",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533400655.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kanibale i wegetarianie w jednym plemieniu? Nowa wielka strategia od Paradoxu zapowiada się na niezłą jazdę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kanibale-i-wegetarianie-w-jednym-plemieniu-nowa-wielka-strategia/z63249d",
+      "publishedAt": "2026-11-26T15:51+01:00",
+      "summary": "Studio Paradox ujawniło informacje na temat mechanik zarządzania plemieniem w postapokaliptycznej wielkiej strategii Afterworld.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533400655.jpg",
+      "articleSlug": "6059ca6bab24",
+      "articleBody": "Studio Paradox ujawniło informacje na temat mechanik zarządzania plemieniem w postapokaliptycznej wielkiej strategii Afterworld."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Najlepsza kampania Company of Heroes 3” czy „zbyt łatwe” misje? Nowy dodatek mocno podzielił graczy na Steamie",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/najlepsza-kampania-company-of-heroes-3-czy-zbyt-latwe-misje-nowy/z43249b",
+      "publishedAt": "2026-11-26T14:58+01:00",
+      "summary": "Twórcy Company of Heroes 3 podejmuje kolejną próbę przekonania graczy do tej drugowojennej strategii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533397314.jpg",
+      "articleSlug": "2747b01e7ae0",
+      "articleBody": "Twórcy Company of Heroes 3 podejmuje kolejną próbę przekonania graczy do tej drugowojennej strategii."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "5 pomysłów, które nie załapały się do GTA 6. Rockstar wyjaśnia, dlaczego z nich zrezygnował",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/5-pomyslow-ktore-nie-zalapaly-sie-do-gta-6-rockstar-wyjasnia-dlac/z33249a",
+      "publishedAt": "2026-11-26T14:55+01:00",
+      "summary": "Nawet szalenie długi cykl deweloperski GTA 6 nie wystarczył, aby twórcy mogli zrealizować wszystkie swoje pomysły. W wywiadzie ujawnili, jakie elementy wycięto z gry.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533396746.jpg",
+      "articleSlug": "1b07f8614344",
+      "articleBody": "Nawet szalenie długi cykl deweloperski GTA 6 nie wystarczył, aby twórcy mogli zrealizować wszystkie swoje pomysły. W wywiadzie ujawnili, jakie elementy wycięto z gry."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 może zaoferować więcej FPS na PS5 Pro. Gracze analizują możliwości graficzne gry",
+      "sourceUrl": "https://www.ppe.pl/news/434683/gta-6-moze-zaoferowac-wiecej-fps-na-ps5-pro-gracze-analizuja-mozliwosci-graficzne-gry.html",
+      "publishedAt": "2026-11-26T14:43+01:00",
+      "summary": "Możliwości techniczne GTA 6 ponownie stały się tematem dyskusji wśród graczy. Na forach pojawiła się wymiana opinii dotycząca zmian względem GTA 5, a jednym z poruszonych wątków są zaawansowane rozwiązania graficzne, które mogą wpłyną�...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/87d8033d3c16ad7b53bb/87d8033d3c16ad7b53bb.webp",
+      "articleSlug": "926558b4a7f2",
+      "articleBody": "Możliwości techniczne GTA 6 ponownie stały się tematem dyskusji wśród graczy. Na forach pojawiła się wymiana opinii dotycząca zmian względem GTA 5, a jednym z poruszonych wątków są zaawansowane rozwiązania graficzne, które mogą wpłyną�..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "CD Projekt RED nie zwalnia ani na moment. Wiedźmin 3: Dziki Gon Remaster otrzymał konkretny zestaw poprawek",
+      "sourceUrl": "https://www.ppe.pl/news/434690/cd-projekt-red-nie-zwalnia-ani-na-moment-wiedzmin-3-dziki-gon-remaster-otrzymal-konkretny-zestaw-poprawek.html",
+      "publishedAt": "2026-11-26T14:31+01:00",
+      "summary": "Chociaż od premiery remastera Wiedźmina 3 minęło już trochę czasu, CD Projekt RED nie odłożył gry na półkę. Właśnie poznaliśmy szczegóły nowej aktualizacji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/2f4aa24bcb94370d0dce/2f4aa24bcb94370d0dce.avif",
+      "articleSlug": "3fd923ca6158",
+      "articleBody": "Chociaż od premiery remastera Wiedźmina 3 minęło już trochę czasu, CD Projekt RED nie odłożył gry na półkę. Właśnie poznaliśmy szczegóły nowej aktualizacji."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy świetnej kosmicznej strzelanki wciąż rozpieszczają fanów. Patch 16.0 do Space Marine 2 odświeża klasę Vanguard i dodaje peleryny",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-swietnej-kosmicznej-strzelanki-wciaz-rozpieszczaja-fanow-p/z932497",
+      "publishedAt": "2026-11-26T14:30+01:00",
+      "summary": "Warhammer 40,000: Space Marine 2 otrzymało aktualizację 16.0, która przede wszystkim rozbudowuje klasę Vanguard. Wprowadzono także nowy sektor do trybu Chaos Siege.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533394532.jpg",
+      "articleSlug": "0b3e7a273e83",
+      "articleBody": "Warhammer 40,000: Space Marine 2 otrzymało aktualizację 16.0, która przede wszystkim rozbudowuje klasę Vanguard. Wprowadzono także nowy sektor do trybu Chaos Siege."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Oficjalna stacja ładująca Sony DualSense na 2 pady za 89,99 zł (50 zł taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/oficjalna-stacja-ladujaca-sony-dualsense-na-2-pady-za-8999-zl-50-zl-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-26T14:28+01:00",
+      "summary": "Oficjalne akcesorium do konsoli Sony PlayStation 5, które pozwoli Wam w wygodny sposób ładować kontrolery, kupicie w dobrej cenie w sklepie RTV Euro AGD. Podwójna stacja ładująca do padów Sony DualSense, bo właśnie o tym sprzęcie mowa, jest dostępne za 89,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/08/sony-dualsense-charging-station-3b-224x224.jpg",
+      "articleSlug": "19c11e332262",
+      "articleBody": "Oficjalne akcesorium do konsoli Sony PlayStation 5, które pozwoli Wam w wygodny sposób ładować kontrolery, kupicie w dobrej cenie w sklepie RTV Euro AGD. Podwójna stacja ładująca do padów Sony DualSense, bo właśnie o tym sprzęcie mowa, jest dostępne za 89,99 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najnowszy God of War działa na PC w 4K i 240 FPS. Sony traci kolejny ekskluzywny tytuł",
+      "sourceUrl": "https://www.ppe.pl/news/434679/najnowszy-god-of-war-dziala-na-pc-w-4k-i-240-fps-sony-traci-kolejny-ekskluzywny-tytul.html",
+      "publishedAt": "2026-11-26T14:21+01:00",
+      "summary": "Fani God of War: Sons of Sparta przygotowali nieoficjalny port gry na komputery osobiste. Projekt autorstwa moddera posługującego się pseudonimem saulob pozwala uruchomić wersję z PS4 bezpośrednio w systemie Windows x64.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c403e2c93b61b0986213/c403e2c93b61b0986213.jpg",
+      "articleSlug": "04917a63588f",
+      "articleBody": "Fani God of War: Sons of Sparta przygotowali nieoficjalny port gry na komputery osobiste. Projekt autorstwa moddera posługującego się pseudonimem saulob pozwala uruchomić wersję z PS4 bezpośrednio w systemie Windows x64."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Jaki jest sens gwarancji?”. Gracz kupił Xboksa dla GTA 6, konsola mu padła, a w jego kraju Xbox nie ma usługi napraw gwarancyjnych",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/jaki-jest-sens-gwarancji-gracz-kupil-xboksa-dla-gta-6-konsola-mu/za32498",
+      "publishedAt": "2026-11-26T14:20+01:00",
+      "summary": "Internauta kupił Xboksa Series X specjalnie z myślą o GTA 6. Po ponad dwóch tygodniach konsola się zepsuła, a naprawa gwarancyjna okazała się trudniejsza, niż mogłoby się wydawać.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533395188.jpg",
+      "articleSlug": "d9c7d587a183",
+      "articleBody": "Internauta kupił Xboksa Series X specjalnie z myślą o GTA 6. Po ponad dwóch tygodniach konsola się zepsuła, a naprawa gwarancyjna okazała się trudniejsza, niż mogłoby się wydawać."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Gothic 3 Classic z problemami, ale twórcy błyskawicznie reagują. Wyjątkowy port otrzymał już aż 4 patche",
+      "sourceUrl": "https://cdaction.pl/newsy/gothic-3-classic-z-problemami-ale-tworcy-blyskawicznie-reaguja-wyjatkowy-port-otrzymal-juz-az-4-patche/",
+      "publishedAt": "2026-11-26T14:15+01:00",
+      "summary": "Wiele zgłaszanych błędów zostało już naprawionych.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Gothic-3-1.jpg",
+      "articleSlug": "a8dba09d0d4b",
+      "articleBody": "Wiele zgłaszanych błędów zostało już naprawionych."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Polski kandydat do The Game Awards 2026 zostanie rozbudowany. Twórcy na dniach pokażą pierwszy dodatek",
+      "sourceUrl": "https://www.ppe.pl/news/434684/polski-kandydat-do-the-game-awards-2026-zostanie-rozbudowany-tworcy-na-dniach-pokaza-pierwszy-dodatek.html",
+      "publishedAt": "2026-11-26T14:14+01:00",
+      "summary": "Rodzime Fumi Games przynosi dobre wieści dla wszystkich fanów Mouse: P.I. For Hire. Za kilka dni zostanie zaprezentowany pierwszy dodatek fabularny do polskiego hitu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/96f474e0e9bc09859d78/96f474e0e9bc09859d78.webp",
+      "articleSlug": "defe9322c9e0",
+      "articleBody": "Rodzime Fumi Games przynosi dobre wieści dla wszystkich fanów Mouse: P.I. For Hire. Za kilka dni zostanie zaprezentowany pierwszy dodatek fabularny do polskiego hitu."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Steam Next Fest wywołał kontrowersje. Teraz powstał festiwal dla gier bez AI",
+      "sourceUrl": "https://www.ppe.pl/news/434685/steam-next-fest-wywolal-kontrowersje-teraz-powstal-festiwal-dla-gier-bez-ai.html",
+      "publishedAt": "2026-11-26T14:06+01:00",
+      "summary": "Na rynku gier niezależnych pojawiła się inicjatywa skierowana do osób zmęczonych zalewem produkcji wykorzystujących generatywną sztuczną inteligencję.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f7fb76067b27695d95df/f7fb76067b27695d95df.jpg",
+      "articleSlug": "6b54e4b63e52",
+      "articleBody": "Na rynku gier niezależnych pojawiła się inicjatywa skierowana do osób zmęczonych zalewem produkcji wykorzystujących generatywną sztuczną inteligencję."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Grałem w pełną wersję Path of Exile 2. Ta gra może okazać się dla hack’n’slashy tym, czym GTA 6 dla mainstreamu",
+      "sourceUrl": "https://cdaction.pl/juz-gralismy/gralem-w-pelna-wersje-path-of-exile-2-ta-gra-moze-okazac-sie-dla-hacknslashy-tym-czym-gta-6-dla-mainstreamu/",
+      "publishedAt": "2026-11-26T13:56+01:00",
+      "summary": "Porównanie z tytułu ma więcej sensu niż może się wydawać. World Tour Grinding Gear Games i Jonathana Rogersa pokazało, że Path of Exile 2 zarządzi w segmencie hack’n’slashy, ale jednocześnie może zrazić odbiorców wychowanych na poprzedniku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Path-of-Exile-2-test-pelna-wersja-1.0-1260x709.jpg",
+      "articleSlug": "88b7c94febd8",
+      "articleBody": "Porównanie z tytułu ma więcej sensu niż może się wydawać. World Tour Grinding Gear Games i Jonathana Rogersa pokazało, że Path of Exile 2 zarządzi w segmencie hack’n’slashy, ale jednocześnie może zrazić odbiorców wychowanych na poprzedniku."
+    },
     {
       "sourceName": "PPE",
       "title": "Playground Games chce stworzyć nowoczesne RPG. Wiedźmin 3 i Assassin’s Creed były ważnymi inspiracjami",
@@ -199,149 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533387373.jpg",
       "articleSlug": "73bd076c1496",
       "articleBody": "Nowa interpretacja Głównego Inspektora Pracy pokazuje, że umowy B2B mogą zniknąć z części sektorów branży IT. Wykazano, w jakich przypadkach pojawiają się znamiona standardowego etatu."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 zachęca do nagości. Panie i Panowie szukają erotycznych wrażeń",
-      "sourceUrl": "https://www.ppe.pl/news/434667/gta-6-zacheca-do-nagosci-panie-i-panowie-szukaja-erotycznych-wrazen.html",
-      "publishedAt": "2026-11-26T12:17+01:00",
-      "summary": "Grand Theft Auto 6 pobiło już chyba wszystkie możliwe rekordy - od zamówień przedpremierowych, przez kosmiczne oceny, aż po oglądalność na Twitchu. Okazuje się jednak, że hit Rockstara (dostępny do zamówienia tutaj) rozbił bank także na j...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8feb5fde28f976fe3a11/8feb5fde28f976fe3a11.jpg",
-      "articleSlug": "23975aaae942",
-      "articleBody": "Grand Theft Auto 6 pobiło już chyba wszystkie możliwe rekordy - od zamówień przedpremierowych, przez kosmiczne oceny, aż po oglądalność na Twitchu. Okazuje się jednak, że hit Rockstara (dostępny do zamówienia tutaj) rozbił bank także na j..."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Twórcy Hollow Knight: Silksong przerywają milczenie. Mają coś ważnego do powiedzenia o darmowym dodatku Sea of Sorrow",
-      "sourceUrl": "https://cdaction.pl/newsy/tworcy-hollow-knight-silksong-przerywaja-milczenie-maja-cos-waznego-do-powiedzenia-o-darmowym-dodatku-sea-of-sorrow/",
-      "publishedAt": "2026-11-26T12:15+01:00",
-      "summary": "Tylko jeszcze nie wiadomo co.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/silksong.webp",
-      "articleSlug": "a2795db620e5",
-      "articleBody": "Tylko jeszcze nie wiadomo co."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Ładowarka GaN UGREEN Nexode 65W 4 portowa (3x USB-C, 1x USB-A) za 69,99 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/ladowarka-gan-ugreen-nexode-65w-4-portowa-3x-usb-c-1x-usb-a-za-6999-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-26T12:14+01:00",
-      "summary": "Kompaktowa ładowarka firmy UGREEN pojawiła się w dobrej cenie w polskim oddziale sklepu Amazon. Model o mocy 65W, wyposażony jest w 4 porty (3x USB-C i 1x USB-A), kosztuje 69,99 zł. Sprzęt powinien bezproblemowo naładować urządzenia firmy Apple, w tym MacBooka, czy też konsolę Nintendo Switch 2. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/06/ugreen-nexode-gan-65w-3b-224x224.jpg",
-      "articleSlug": "bf78707a14f6",
-      "articleBody": "Kompaktowa ładowarka firmy UGREEN pojawiła się w dobrej cenie w polskim oddziale sklepu Amazon. Model o mocy 65W, wyposażony jest w 4 porty (3x USB-C i 1x USB-A), kosztuje 69,99 zł. Sprzęt powinien bezproblemowo naładować urządzenia firmy Apple, w tym MacBooka, czy też konsolę Nintendo Switch 2. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Skyrim ma już 15 lat, a wciąż przyciąga nowych graczy. Fani próbują wyjaśnić fenomen RPG-a Bethesdy, którego magia nie przemija",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/skyrim-ma-juz-15-lat-a-wciaz-przyciaga-nowych-graczy-fani-probuja/z63248e",
-      "publishedAt": "2026-11-26T12:03+01:00",
-      "summary": "Co nas tak przyciąga do Skyrima? Gracze dyskutują o najlepszych cechach RPG-a Bethesdy, który przyciąga nowych fanów nawet po 15 latach.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533386872.jpg",
-      "articleSlug": "852d9e2d43f0",
-      "articleBody": "Co nas tak przyciąga do Skyrima? Gracze dyskutują o najlepszych cechach RPG-a Bethesdy, który przyciąga nowych fanów nawet po 15 latach."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Jeden z najlepszych współczesnych seriali HBO Max powróci za 6 tygodni. To hit polecany przez 96% krytyków",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najlepszych-wspolczesnych-seriali-hbo-max-powroci-za-6-ty/za32489",
-      "publishedAt": "2026-11-26T12:00+01:00",
-      "summary": "Dla fanów serial medycznych mamy dobre wieści. Platforma HBO Max ogłosiła, kiedy doceniony nagrodami Emmy i Złotymi Globami serial The Pitt powróci z trzecim sezonem. Wiadomo też, kogo zabraknie w obsadzie nowych odcinków.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533383981.jpg",
-      "articleSlug": "c3d635172f15",
-      "articleBody": "Dla fanów serial medycznych mamy dobre wieści. Platforma HBO Max ogłosiła, kiedy doceniony nagrodami Emmy i Złotymi Globami serial The Pitt powróci z trzecim sezonem. Wiadomo też, kogo zabraknie w obsadzie nowych odcinków."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ubisoft przyzna się do oszustwa? AAAA było \"kłamstwem\" i manipulacją",
-      "sourceUrl": "https://www.ppe.pl/news/434666/ubisoft-przyzna-sie-do-oszustwa-aaaa-bylo-klamstwem-i-manipulacja.html",
-      "publishedAt": "2026-11-26T11:52+01:00",
-      "summary": "Pamiętacie jeszcze, jak szef Ubisoftu z pełną powagą opowiadał przed premierą, że Skull and Bones to pierwsza na świecie gra „AAAA”? Wtedy sporo osób pukało się w czoło, a kiedy piracka produkcja w końcu trafiła na rynek po ponad dekad...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/23e6577f617635c0c0f7/23e6577f617635c0c0f7-jpg-1600w.jpg",
-      "articleSlug": "c74fb13b5526",
-      "articleBody": "Pamiętacie jeszcze, jak szef Ubisoftu z pełną powagą opowiadał przed premierą, że Skull and Bones to pierwsza na świecie gra „AAAA”? Wtedy sporo osób pukało się w czoło, a kiedy piracka produkcja w końcu trafiła na rynek po ponad dekad..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Zachwycające grafiką The CUBE trafi również na konsole! Twórcy Atomic Heart idą jak burza",
-      "sourceUrl": "https://www.ppe.pl/news/434669/zachwycajace-grafika-the-cube-trafi-rowniez-na-konsole-tworcy-atomic-heart-ida-jak-burza.html",
-      "publishedAt": "2026-11-26T11:47+01:00",
-      "summary": "Wszystko wskazuje na to, że nowa gra twórców Atomic Heart otrzyma dokładny termin premiery już podczas imprezy The Game Awards 2026.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ba20f005194c79c460ac/ba20f005194c79c460ac.png",
-      "articleSlug": "92ab78ef1da6",
-      "articleBody": "Wszystko wskazuje na to, że nowa gra twórców Atomic Heart otrzyma dokładny termin premiery już podczas imprezy The Game Awards 2026."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Słuchawki bezprzewodowe Apple AirPods 5. generacji z ANC za 499 zł (wcześniej 545 zł) w x-kom",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/sluchawki-bezprzewodowe-apple-airpods-5-generacji-z-anc-za-499-zl-wczesniej-545-zl-w-x-kom/",
-      "publishedAt": "2026-11-26T11:46+01:00",
-      "summary": "W ramach Gorącego Strzału w sklepie x-kom, kupicie teraz taniej Apple AirPods 5. geneneracji. Model ze stopniem odporności IP57 na pył i wodę, wyposażony w etui ładujące z wejściem USB-C, kosztuje aktualnie 499 złotych. Słuchawki zapewniają do 4 godzin na jednym ładowaniu. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/airpods-5-gen-anc-2b-224x224.jpg",
-      "articleSlug": "27eeaaec4923",
-      "articleBody": "W ramach Gorącego Strzału w sklepie x-kom, kupicie teraz taniej Apple AirPods 5. geneneracji. Model ze stopniem odporności IP57 na pył i wodę, wyposażony w etui ładujące z wejściem USB-C, kosztuje aktualnie 499 złotych. Słuchawki zapewniają do 4 godzin na jednym ładowaniu. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Ubisoft stawia na AI, choć część twórców kręci nosem. Szefostwo twierdzi, że „to nieuniknione”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ubisoft-stawia-na-ai-choc-czesc-tworcow-kreci-nosem-szefostwo-twi/z43248c",
-      "publishedAt": "2026-11-26T11:37+01:00",
-      "summary": "Ubisoft coraz mocniej stawia na generatywną AI. Firma jeszcze nie wymusza korzystania z tej technologii na deweloperach, ale osoby, które tego nie robią, muszą tłumaczyć się szefostwu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533385425.jpg",
-      "articleSlug": "4f01b59feddb",
-      "articleBody": "Ubisoft coraz mocniej stawia na generatywną AI. Firma jeszcze nie wymusza korzystania z tej technologii na deweloperach, ale osoby, które tego nie robią, muszą tłumaczyć się szefostwu."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Zdjęcia do nowego „Władcy pierścieni” oficjalnie zakończone! Zobaczcie, jak Gollum świętuje koniec prac",
-      "sourceUrl": "https://cdaction.pl/kultura/zdjecia-do-nowego-wladcy-pierscieni-oficjalnie-zakonczone-zobaczcie-jak-gollum-swietuje-koniec-prac/",
-      "publishedAt": "2026-11-26T11:30+01:00",
-      "summary": "Do kinowego Śródziemia wrócimy pod koniec przyszłego roku.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Wladca-pierscieni-Gollum.jpg",
-      "articleSlug": "5980e1f766d8",
-      "articleBody": "Do kinowego Śródziemia wrócimy pod koniec przyszłego roku."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Polscy mistrzowie horrorów zapowiadają gry na 2027 rok. Będzie grubo!",
-      "sourceUrl": "https://www.ppe.pl/news/434642/polscy-mistrzowie-horrorow-zapowiadaja-gry-na-2027-rok-bedzie-grubo.html",
-      "publishedAt": "2026-11-26T11:28+01:00",
-      "summary": "Polskie studio Bloober Team ma za sobą świetny czas i nie zamierza zwalniać tempa. Krakowski zespół właśnie potwierdził swoje plany wydawnicze na 2027 rok, a lista szykowanych tytułów pokazuje, że fani mrocznych klimatów na pewno nie będą ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c2738079f8407ab57fc0/c2738079f8407ab57fc0.jpg",
-      "articleSlug": "fa4151e9780b",
-      "articleBody": "Polskie studio Bloober Team ma za sobą świetny czas i nie zamierza zwalniać tempa. Krakowski zespół właśnie potwierdził swoje plany wydawnicze na 2027 rok, a lista szykowanych tytułów pokazuje, że fani mrocznych klimatów na pewno nie będą ..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "NVIDIA traci miliardy mimo powrotu Jensena Huanga. Tymczasem w skandalu z udziałem szefa firmy pojawił się kolejny chiński trop",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nvidia-traci-miliardy-mimo-powrotu-jensena-huanga-tymczasem-w-ska/z33248b",
-      "publishedAt": "2026-11-26T11:20+01:00",
-      "summary": "Powrót Jensena Huanga tylko na chwilę uspokoił giełdę. Firma dalej traci, podobnie jak reszta branży AI. Równolegle ujawniono nowe informacje dotyczące rzekomego szpiegostwa Alice Huang.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533384296.jpg",
-      "articleSlug": "8616557fc432",
-      "articleBody": "Powrót Jensena Huanga tylko na chwilę uspokoił giełdę. Firma dalej traci, podobnie jak reszta branży AI. Równolegle ujawniono nowe informacje dotyczące rzekomego szpiegostwa Alice Huang."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na pady Sony DualSense w RTV Euro AGD. Wybrane kolory już od 234,99 zł na Black Friday 2026",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocje-na-pady-sony-dualsense-w-rtv-euro-agd-wybrane-kolory-juz-od-23499-zl-na-black-friday-2026/",
-      "publishedAt": "2026-11-26T11:18+01:00",
-      "summary": "Sklep RTV Euro AGD postanowił w ramach czarnopiątkowych promocji obniżyć ceny różnych modeli DualSense. Pady bezprzewodowe dedykowane konsoli Sony PlayStation 5 oraz kompatybilne z PC, mogą być wasze już za 234,99 zł. Jako bonus, dorzucamy też ofertę na podwójną ładowarkę, która kosztuje teraz 89,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/sony-dualsense-pad-ps5-3b-224x224.jpg",
-      "articleSlug": "d9ef06bf560d",
-      "articleBody": "Sklep RTV Euro AGD postanowił w ramach czarnopiątkowych promocji obniżyć ceny różnych modeli DualSense. Pady bezprzewodowe dedykowane konsoli Sony PlayStation 5 oraz kompatybilne z PC, mogą być wasze już za 234,99 zł. Jako bonus, dorzucamy też ofertę na podwójną ładowarkę, która kosztuje teraz 89,99 zł. Czytaj więcej »"
     }
   ],
   "indie": [
