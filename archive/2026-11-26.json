@@ -1,18 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T11:25+01:00",
+  "updatedAt": "2026-11-26T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Jeden z najlepszych współczesnych seriali HBO Max powróci za 6 tygodni. To hit polecany przez 96% krytyków",
-    "summary": "Dla fanów serial medycznych mamy dobre wieści. Platforma HBO Max ogłosiła, kiedy doceniony nagrodami Emmy i Złotymi Globami serial The Pitt powróci z trzecim sezonem. Wiadomo też, kogo zabraknie w obsadzie nowych odcinków.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/jeden-z-najlepszych-wspolczesnych-seriali-hbo-max-powroci-za-6-ty/za32489",
-    "articleSlug": "c3d635172f15",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533383981.jpg"
+    "title": "„Wiedźmin 3 stał się wyznacznikiem jakości”. Twórcy nowego Fable tłumaczą, dlaczego musieli podglądać konkurencję",
+    "summary": "Twórcy Fable inspirowali się nie tylko starszymi odsłonami serii, ale również produkcjami, które wyznaczyły nowe standardy w gatunku RPG. Reżyser gry wymienił Wiedźmina 3 i serię Assassin’s Creed.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-3-stal-sie-wyznacznikiem-jakosci-tworcy-nowego-fable-tlu/z432492",
+    "articleSlug": "23513b45ce40",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533390182.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Wiedźmin 3 stał się wyznacznikiem jakości”. Twórcy nowego Fable tłumaczą, dlaczego musieli podglądać konkurencję",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/wiedzmin-3-stal-sie-wyznacznikiem-jakosci-tworcy-nowego-fable-tlu/z432492",
+      "publishedAt": "2026-11-26T12:57+01:00",
+      "summary": "Twórcy Fable inspirowali się nie tylko starszymi odsłonami serii, ale również produkcjami, które wyznaczyły nowe standardy w gatunku RPG. Reżyser gry wymienił Wiedźmina 3 i serię Assassin’s Creed.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533390182.jpg",
+      "articleSlug": "23513b45ce40",
+      "articleBody": "Twórcy Fable inspirowali się nie tylko starszymi odsłonami serii, ale również produkcjami, które wyznaczyły nowe standardy w gatunku RPG. Reżyser gry wymienił Wiedźmina 3 i serię Assassin’s Creed."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "54 godziny z GTA 6 bez ani minuty snu. IShowSpeed posunął się do ekstremum, by nie przerywać transmisji",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/54-godziny-z-gta-6-bez-ani-minuty-snu-ishowspeed-posunal-sie-do-e/z332491",
+      "publishedAt": "2026-11-26T12:51+01:00",
+      "summary": "Ile czasu bylibyście w stanie spędzić na graniu bez przerwy? IShowSpeed pobija rekordy, byle jak najszybciej przejść GTA 6 na wizji.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533389777.jpg",
+      "articleSlug": "8fe6928887a1",
+      "articleBody": "Ile czasu bylibyście w stanie spędzić na graniu bez przerwy? IShowSpeed pobija rekordy, byle jak najszybciej przejść GTA 6 na wizji."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Trzęsienie ziemi w polskim IT? Inspekcja Pracy uznała popularny kontrakt B2B za ukryty etat, a eksperci ostrzegają przed konsekwencjami",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/trzesienie-ziemi-w-polskim-it-inspekcja-pracy-uznala-popularny-ko/z232490",
+      "publishedAt": "2026-11-26T12:20+01:00",
+      "summary": "Nowa interpretacja Głównego Inspektora Pracy pokazuje, że umowy B2B mogą zniknąć z części sektorów branży IT. Wykazano, w jakich przypadkach pojawiają się znamiona standardowego etatu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533387373.jpg",
+      "articleSlug": "73bd076c1496",
+      "articleBody": "Nowa interpretacja Głównego Inspektora Pracy pokazuje, że umowy B2B mogą zniknąć z części sektorów branży IT. Wykazano, w jakich przypadkach pojawiają się znamiona standardowego etatu."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Skyrim ma już 15 lat, a wciąż przyciąga nowych graczy. Fani próbują wyjaśnić fenomen RPG-a Bethesdy, którego magia nie przemija",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/skyrim-ma-juz-15-lat-a-wciaz-przyciaga-nowych-graczy-fani-probuja/z63248e",
+      "publishedAt": "2026-11-26T12:03+01:00",
+      "summary": "Co nas tak przyciąga do Skyrima? Gracze dyskutują o najlepszych cechach RPG-a Bethesdy, który przyciąga nowych fanów nawet po 15 latach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533386872.jpg",
+      "articleSlug": "852d9e2d43f0",
+      "articleBody": "Co nas tak przyciąga do Skyrima? Gracze dyskutują o najlepszych cechach RPG-a Bethesdy, który przyciąga nowych fanów nawet po 15 latach."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Jeden z najlepszych współczesnych seriali HBO Max powróci za 6 tygodni. To hit polecany przez 96% krytyków",
@@ -25,6 +69,39 @@
       "articleBody": "Dla fanów serial medycznych mamy dobre wieści. Platforma HBO Max ogłosiła, kiedy doceniony nagrodami Emmy i Złotymi Globami serial The Pitt powróci z trzecim sezonem. Wiadomo też, kogo zabraknie w obsadzie nowych odcinków."
     },
     {
+      "sourceName": "PPE",
+      "title": "Ubisoft przyzna się do oszustwa? AAAA było \"kłamstwem\" i manipulacją",
+      "sourceUrl": "https://www.ppe.pl/news/434666/ubisoft-przyzna-sie-do-oszustwa-aaaa-bylo-klamstwem-i-manipulacja.html",
+      "publishedAt": "2026-11-26T11:52+01:00",
+      "summary": "Pamiętacie jeszcze, jak szef Ubisoftu z pełną powagą opowiadał przed premierą, że Skull and Bones to pierwsza na świecie gra „AAAA”? Wtedy sporo osób pukało się w czoło, a kiedy piracka produkcja w końcu trafiła na rynek po ponad dekad...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/23e6577f617635c0c0f7/23e6577f617635c0c0f7-jpg-1600w.jpg",
+      "articleSlug": "c74fb13b5526",
+      "articleBody": "Pamiętacie jeszcze, jak szef Ubisoftu z pełną powagą opowiadał przed premierą, że Skull and Bones to pierwsza na świecie gra „AAAA”? Wtedy sporo osób pukało się w czoło, a kiedy piracka produkcja w końcu trafiła na rynek po ponad dekad..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zachwycające grafiką The CUBE trafi również na konsole! Twórcy Atomic Heart idą jak burza",
+      "sourceUrl": "https://www.ppe.pl/news/434669/zachwycajace-grafika-the-cube-trafi-rowniez-na-konsole-tworcy-atomic-heart-ida-jak-burza.html",
+      "publishedAt": "2026-11-26T11:47+01:00",
+      "summary": "Wszystko wskazuje na to, że nowa gra twórców Atomic Heart otrzyma dokładny termin premiery już podczas imprezy The Game Awards 2026.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/ba20f005194c79c460ac/ba20f005194c79c460ac.png",
+      "articleSlug": "92ab78ef1da6",
+      "articleBody": "Wszystko wskazuje na to, że nowa gra twórców Atomic Heart otrzyma dokładny termin premiery już podczas imprezy The Game Awards 2026."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Słuchawki bezprzewodowe Apple AirPods 5. generacji z ANC za 499 zł (wcześniej 545 zł) w x-kom",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/sluchawki-bezprzewodowe-apple-airpods-5-generacji-z-anc-za-499-zl-wczesniej-545-zl-w-x-kom/",
+      "publishedAt": "2026-11-26T11:46+01:00",
+      "summary": "W ramach Gorącego Strzału w sklepie x-kom, kupicie teraz taniej Apple AirPods 5. geneneracji. Model ze stopniem odporności IP57 na pył i wodę, wyposażony w etui ładujące z wejściem USB-C, kosztuje aktualnie 499 złotych. Słuchawki zapewniają do 4 godzin na jednym ładowaniu. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/airpods-5-gen-anc-2b-224x224.jpg",
+      "articleSlug": "27eeaaec4923",
+      "articleBody": "W ramach Gorącego Strzału w sklepie x-kom, kupicie teraz taniej Apple AirPods 5. geneneracji. Model ze stopniem odporności IP57 na pył i wodę, wyposażony w etui ładujące z wejściem USB-C, kosztuje aktualnie 499 złotych. Słuchawki zapewniają do 4 godzin na jednym ładowaniu. Czytaj więcej »"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Ubisoft stawia na AI, choć część twórców kręci nosem. Szefostwo twierdzi, że „to nieuniknione”",
       "sourceUrl": "https://www.gry-online.pl/newsroom/ubisoft-stawia-na-ai-choc-czesc-tworcow-kreci-nosem-szefostwo-twi/z43248c",
@@ -34,6 +111,28 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533385425.jpg",
       "articleSlug": "4f01b59feddb",
       "articleBody": "Ubisoft coraz mocniej stawia na generatywną AI. Firma jeszcze nie wymusza korzystania z tej technologii na deweloperach, ale osoby, które tego nie robią, muszą tłumaczyć się szefostwu."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Zdjęcia do nowego „Władcy pierścieni” oficjalnie zakończone! Zobaczcie, jak Gollum świętuje koniec prac",
+      "sourceUrl": "https://cdaction.pl/kultura/zdjecia-do-nowego-wladcy-pierscieni-oficjalnie-zakonczone-zobaczcie-jak-gollum-swietuje-koniec-prac/",
+      "publishedAt": "2026-11-26T11:30+01:00",
+      "summary": "Do kinowego Śródziemia wrócimy pod koniec przyszłego roku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Wladca-pierscieni-Gollum.jpg",
+      "articleSlug": "5980e1f766d8",
+      "articleBody": "Do kinowego Śródziemia wrócimy pod koniec przyszłego roku."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Polscy mistrzowie horrorów zapowiadają gry na 2027 rok. Będzie grubo!",
+      "sourceUrl": "https://www.ppe.pl/news/434642/polscy-mistrzowie-horrorow-zapowiadaja-gry-na-2027-rok-bedzie-grubo.html",
+      "publishedAt": "2026-11-26T11:28+01:00",
+      "summary": "Polskie studio Bloober Team ma za sobą świetny czas i nie zamierza zwalniać tempa. Krakowski zespół właśnie potwierdził swoje plany wydawnicze na 2027 rok, a lista szykowanych tytułów pokazuje, że fani mrocznych klimatów na pewno nie będą ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c2738079f8407ab57fc0/c2738079f8407ab57fc0.jpg",
+      "articleSlug": "fa4151e9780b",
+      "articleBody": "Polskie studio Bloober Team ma za sobą świetny czas i nie zamierza zwalniać tempa. Krakowski zespół właśnie potwierdził swoje plany wydawnicze na 2027 rok, a lista szykowanych tytułów pokazuje, że fani mrocznych klimatów na pewno nie będą ..."
     },
     {
       "sourceName": "GRY-Online",
@@ -243,105 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/02/elden-ring-nightreign-edycja-kolekcjonerska-pl-ps5-224x224.jpg",
       "articleSlug": "d07b03837c82",
       "articleBody": "W niemieckim oddziale sklepu Amazon macie możliwość kupienia Elden Ring Nightreign – Edycja Kolekcjonerska taniej. Limitowane wydanie gry FromSoftware, przeznaczone na konsole Sony PlayStation 5, może być wasze za około 439 złotych. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Były szef Xboxa nie udawał swojej pasji? Phil Spencer daje o sobie znać",
-      "sourceUrl": "https://www.ppe.pl/news/434641/byly-szef-xboxa-nie-udawal-swojej-pasji-phil-spencer-daje-o-sobie-znac.html",
-      "publishedAt": "2026-11-26T09:21+01:00",
-      "summary": "Odkąd Phil Spencer ogłosił na początku tego roku przejście na emeryturę, w mediach zrobiło się o nim zupełnie cicho. Ktoś mógłby pomyśleć, że po tylu latach stresu i zarządzania wielką korporacją w końcu odłoży pada na półkę i od...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/dfa1b7b06cf8e0c6685d/dfa1b7b06cf8e0c6685d.jpg",
-      "articleSlug": "40c3cc8eb122",
-      "articleBody": "Odkąd Phil Spencer ogłosił na początku tego roku przejście na emeryturę, w mediach zrobiło się o nim zupełnie cicho. Ktoś mógłby pomyśleć, że po tylu latach stresu i zarządzania wielką korporacją w końcu odłoży pada na półkę i od..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6: „sztuczka z Nową Zelandią” miała haczyk na PS5. Niecierpliwi gracze nadziali się na cenzurę",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-sztuczka-z-nowa-zelandia-miala-haczyk-na-ps5-niecierpliwi-g/z732486",
-      "publishedAt": "2026-11-26T09:06+01:00",
-      "summary": "Chęć wcześniejszego zagrania w Grand Theft Auto VI miała dla części posiadaczy PlayStation 5 zaskakujące konsekwencje.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533376388.jpg",
-      "articleSlug": "84a15e164bb9",
-      "articleBody": "Chęć wcześniejszego zagrania w Grand Theft Auto VI miała dla części posiadaczy PlayStation 5 zaskakujące konsekwencje."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Rockstar wie, że lubicie siać chaos w GTA 6. Szef produkcji wyjaśnia, dlaczego przemoc w grze ma konsekwencje",
-      "sourceUrl": "https://cdaction.pl/newsy/rockstar-wie-ze-lubicie-siac-chaos-w-gta-6-szef-produkcji-wyjasnia-dlaczego-przemoc-w-grze-ma-konsekwencje/",
-      "publishedAt": "2026-11-26T09:06+01:00",
-      "summary": "Jeśli czegoś nie wolno, ale bardzo się chce, to można.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/gta6-7-3-1260x709.jpg",
-      "articleSlug": "e49d7419e0ca",
-      "articleBody": "Jeśli czegoś nie wolno, ale bardzo się chce, to można."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Szkoda nie brać. Telewizor LG OLED 55\" z serii C i VRR do PS5 i XSX za 3369 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/telewizory/434651/szkoda-nie-brac-telewizor-lg-oled-55-z-serii-c-i-vrr-do-ps5-i-xsx-za-3369-zl.html",
-      "publishedAt": "2026-11-26T08:59+01:00",
-      "summary": "W zaufanym sklepie internetowym Allegro możemy nabyć po lepszej cenie telewizor firmy LG.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/9b437e4139e2c5087ded/9b437e4139e2c5087ded-jpg-800w.jpg",
-      "articleSlug": "5b886d5591b1",
-      "articleBody": "W zaufanym sklepie internetowym Allegro możemy nabyć po lepszej cenie telewizor firmy LG."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Pierwszy raz w historii The Blood of Dawnwalker + dodatki na PS5 poniżej 175 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/429727/pierwszy-raz-w-historii-the-blood-of-dawnwalker-dodatki-na-ps5-ponizej-200-zl.html",
-      "publishedAt": "2026-11-26T08:57+01:00",
-      "summary": "The Blood of Dawnwalker okazało się totalnym hitem! Polska gra zebrała świetne oceny od dziennikarzy i recenzentów, a teraz po raz pierwszy w historii nabędziemy ją za mniej niż 175 złotych.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/ff64c2053c36fb6cfa0e/ff64c2053c36fb6cfa0e.jpg",
-      "articleSlug": "b2160ec84d12",
-      "articleBody": "The Blood of Dawnwalker okazało się totalnym hitem! Polska gra zebrała świetne oceny od dziennikarzy i recenzentów, a teraz po raz pierwszy w historii nabędziemy ją za mniej niż 175 złotych."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO Disney Doniczka Sally za 109 zł (cena katalogowa 209,99 zł) w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-disney-doniczka-sally-za-109-zl-cena-katalogowa-20999-zl-w-media-expert/",
-      "publishedAt": "2026-11-26T08:56+01:00",
-      "summary": "Hit Dnia w Media Expert to dziś okazja na LEGO Disney Doniczka Sally w historycznie najniższej cenie. Zestaw składający się z 346 elementów, z których zbudujecie kuchnię do warzenia eliksirów zamkniętą w doniczce z kwiatami, kosztuje 109 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/lego-disney-doniczka-sally-3b-224x224.jpg",
-      "articleSlug": "bd9d2754cab5",
-      "articleBody": "Hit Dnia w Media Expert to dziś okazja na LEGO Disney Doniczka Sally w historycznie najniższej cenie. Zestaw składający się z 346 elementów, z których zbudujecie kuchnię do warzenia eliksirów zamkniętą w doniczce z kwiatami, kosztuje 109 złotych. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Powerbank Baseus Energeek z 20 800 mAh i 145W za 99 zł zamiast 199 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434650/powerbank-baseus-energeek-z-20-800-mah-i-145w-za-99-zl-zamiast-199-zl.html",
-      "publishedAt": "2026-11-26T08:55+01:00",
-      "summary": "W sklepie Media Expert skorzystamy ze znakomitej oferty na powerbank firmy Baseus.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/2ba00eb95d15997bfe26/2ba00eb95d15997bfe26.jpg",
-      "articleSlug": "4bcc892447e1",
-      "articleBody": "W sklepie Media Expert skorzystamy ze znakomitej oferty na powerbank firmy Baseus."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nawet mistrz świata gra w GTA 6: \"wygrał i od razu poszedł odpalić PS5\"",
-      "sourceUrl": "https://www.ppe.pl/news/434640/nawet-mistrz-swiata-gra-w-gta-6-wygral-i-od-razu-poszedl-odpalic-ps5.html",
-      "publishedAt": "2026-11-26T08:54+01:00",
-      "summary": "Gorączka wokół Grand Theft Auto 6 dopadła już chyba każdego, nie omijając nawet największych gwiazd światowego sportu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/63d38bbdd231589ddea1/63d38bbdd231589ddea1.jpg",
-      "articleSlug": "54a76ce88c93",
-      "articleBody": "Gorączka wokół Grand Theft Auto 6 dopadła już chyba każdego, nie omijając nawet największych gwiazd światowego sportu."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Silent Hill Townfall w wersji Day One PS5 w REKORDOWEJ cenie - za 159 zł zamiast 229 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434649/silent-hill-townfall-w-wersji-day-one-ps5-w-rekordowej-cenie-za-159-zl-zamiast-229-zl.html",
-      "publishedAt": "2026-11-26T08:53+01:00",
-      "summary": "W sklepie Perfect Blue najtaniej obecnie na rynku nabędziemy edycję premierową gry Silent Hill Townfall.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/dc311edf8f1d67f0ff54/dc311edf8f1d67f0ff54.jpg",
-      "articleSlug": "973232adeb21",
-      "articleBody": "W sklepie Perfect Blue najtaniej obecnie na rynku nabędziemy edycję premierową gry Silent Hill Townfall."
     }
   ],
   "indie": [
