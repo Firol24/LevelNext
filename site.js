@@ -206,7 +206,7 @@
       // ponawiamy ja przy pierwszej interakcji odwiedzajacego ze strona.
       var autoplayStarted = false;
       function tryAutoplay() {
-        if (autoplayStarted || !audio.paused) return;
+        if (player.hidden || autoplayStarted || !audio.paused) return;
         var attempt = audio.play();
         if (attempt && typeof attempt.then === "function") {
           attempt.then(function () {
@@ -224,8 +224,27 @@
       document.addEventListener("pointerdown", retryAutoplay, true);
       document.addEventListener("keydown", retryAutoplay, true);
 
-      closePlayer.addEventListener("click", function () { audio.pause(); player.hidden = true; launcher.hidden = false; });
-      launcher.addEventListener("click", function () { player.hidden = false; launcher.hidden = true; });
+      var winampVisibilityKey = "levelNextWinampVisible";
+      var winampVisible = true;
+      try {
+        var savedWinampVisibility = window.localStorage.getItem(winampVisibilityKey);
+        if (savedWinampVisibility === "0") winampVisible = false;
+      } catch (error) {}
+      player.hidden = !winampVisible;
+      launcher.hidden = winampVisible;
+      if (!winampVisible) audio.pause();
+
+      closePlayer.addEventListener("click", function () {
+        audio.pause();
+        player.hidden = true;
+        launcher.hidden = false;
+        try { window.localStorage.setItem(winampVisibilityKey, "0"); } catch (error) {}
+      });
+      launcher.addEventListener("click", function () {
+        player.hidden = false;
+        launcher.hidden = true;
+        try { window.localStorage.setItem(winampVisibilityKey, "1"); } catch (error) {}
+      });
 
       // Okno jest przypiete do body, wiec zapisane wspolrzedne sa wspolrzednymi dokumentu.
       var positionKey = "levelNextWinampPosition";
