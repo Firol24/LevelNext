@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T00:01+01:00",
+  "updatedAt": "2026-11-27T01:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Black Friday 2026 z Media Expert. Sprawdź najlepsze promocje na monitory, laptopy, telewizory i nie tylko!",
-    "summary": "Promocje z okazji Black Friday 2026 na dobre rozgościły się w Media Expert. W nadchodzących dniach macie szansę zakupić dziesiątki przedmiotów w atrakcyjnych cenach. Obniżek doczekały się zarówno bliski naszemu sercu sprzęt komputerowy oraz telewizory, jak i urządzenia AGD, aparaty fotograficzne bądź też hulajnogi. Dajcie się zaprosić do świata promocji! Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/black-friday-2026-z-media-expert-sprawdz-najlepsze-promocje-na-monitory-laptopy-telewizory-i-nie-tylko/",
-    "articleSlug": "a9dbb4997a22",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Black-Friday-Media-Expert-logo-2-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Ten laptop nie był tańszy. Gigabyte Gaming z i7-13650H, RTX 5060 i 165 Hz IPS za 4444 zł",
+    "summary": "W sklepach X-Kom i RTV Euro AGD za lekko ponad 4400 złotych nabędziemy bardzo dobrego laptopa firmy Gigabyte.",
+    "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/434741/ten-laptop-nie-byl-tanszy-gigabyte-gaming-z-i7-13650h-rtx-5060-i-165-hz-ips-za-4444-zl.html",
+    "articleSlug": "f9057b1aba70",
+    "imageUrl": "https://pliki.ppe.pl/storage/0bbd236e123b2821035f/0bbd236e123b2821035f.webp"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Ten laptop nie był tańszy. Gigabyte Gaming z i7-13650H, RTX 5060 i 165 Hz IPS za 4444 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/434741/ten-laptop-nie-byl-tanszy-gigabyte-gaming-z-i7-13650h-rtx-5060-i-165-hz-ips-za-4444-zl.html",
+      "publishedAt": "2026-11-27T00:12+01:00",
+      "summary": "W sklepach X-Kom i RTV Euro AGD za lekko ponad 4400 złotych nabędziemy bardzo dobrego laptopa firmy Gigabyte.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0bbd236e123b2821035f/0bbd236e123b2821035f.webp",
+      "articleSlug": "f9057b1aba70",
+      "articleBody": "W sklepach X-Kom i RTV Euro AGD za lekko ponad 4400 złotych nabędziemy bardzo dobrego laptopa firmy Gigabyte."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Hit sprzedażowy! Słuchawki HyperX w wersji PlayStation do PS5/PS4/PC za 139 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/434740/hit-sprzedazowy-sluchawki-hyperx-w-wersji-playstation-do-ps5-ps4-pc-za-139-zl.html",
+      "publishedAt": "2026-11-27T00:07+01:00",
+      "summary": "W X-Komie taniej o ponad 100 złotych nabędziemy totalny hit sprzedażowy, jakim są słuchawki firmy HyperX stworzone z myślą o graczach z PlayStation.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/981fd14e689678e9a6eb/981fd14e689678e9a6eb.webp",
+      "articleSlug": "79b5d9234d7d",
+      "articleBody": "W X-Komie taniej o ponad 100 złotych nabędziemy totalny hit sprzedażowy, jakim są słuchawki firmy HyperX stworzone z myślą o graczach z PlayStation."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Zestaw pad DualSense + ładowarka Sony do PS5 i PC z rabatem 150 zł! Poniżej 270 zł",
+      "sourceUrl": "https://www.ppe.pl/promocje/tech/pady-kontrolery/434739/zestaw-pad-dualsense-ladowarka-sony-do-ps5-i-pc-z-rabatem-150-zl-ponizej-270-zl.html",
+      "publishedAt": "2026-11-27T00:03+01:00",
+      "summary": "Sklep Media Markt przygotował fantastyczną ofertę dla osób szukających pada i chcących dołożyć niemalże za darmo oficjalną ładowarkę do kontrolerów DualSense od firmy Sony.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4d2b81e88ca64f132638/4d2b81e88ca64f132638.png",
+      "articleSlug": "d93883850d4b",
+      "articleBody": "Sklep Media Markt przygotował fantastyczną ofertę dla osób szukających pada i chcących dołożyć niemalże za darmo oficjalną ładowarkę do kontrolerów DualSense od firmy Sony."
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Black Friday 2026 z Media Expert. Sprawdź najlepsze promocje na monitory, laptopy, telewizory i nie tylko!",
