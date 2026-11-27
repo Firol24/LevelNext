@@ -12,50 +12,7 @@
 <meta name="twitter:title" content="LEVEL NEXT">
 <meta name="twitter:description" content="Prywatna strona o grach, starym sprzęcie i wszystkim, co kręci się wokół grania.">
 <meta name="twitter:image" content="https://firol24.github.io/LevelNext/logo.png">
-<style id="ln-live-chat-styles">
-#lnChatDock{position:fixed;right:18px;bottom:18px;width:min(390px,calc(100vw - 28px));height:min(570px,calc(100vh - 36px));z-index:999;background:#171020;border:3px ridge #9876ad;box-shadow:0 12px 45px #000b;display:flex;flex-direction:column;transition:height .2s ease;color:#eee8f7;font:12px/1.5 Verdana,Arial,sans-serif}
-#lnChatDock *{box-sizing:border-box}#lnChatDock.minimized{height:49px}#lnChatDock .ln-chat-head{display:flex;align-items:center;gap:9px;padding:8px 10px;background:linear-gradient(90deg,#49305f,#30203f);border-bottom:2px ridge #9876ad;min-height:46px}
-#lnChatDock .ln-mark{width:27px;height:27px;display:grid;place-items:center;background:#21172c;border:1px solid #b99bd0;color:#ffdc55;font:20px Georgia;flex:none}
-#lnChatDock .ln-headtext{min-width:0;flex:1}#lnChatDock .ln-headtitle{font:bold 11px monospace;color:#fff0bd;letter-spacing:.6px}#lnChatDock .ln-headsub{font:9px monospace;color:#d2c0df}
-#lnChatDock .ln-headbtn{width:25px;height:25px;border:1px outset #a98cbb;background:#30203f;color:#fff;font-weight:bold;cursor:pointer}
-#lnChatDock .ln-channelbar{display:flex;justify-content:space-between;align-items:center;padding:7px 10px;background:#21172c;border-bottom:1px solid #5e4772;color:#e9dff0;font:10px monospace}
-#lnChatDock .ln-channelbar strong{color:#ffdc55}#lnChatDock .ln-live{font-size:8px;color:#75db8b;border:1px solid #54785c;padding:2px 5px}
-#lnChatDock .ln-messages{padding:12px 10px;overflow:auto;flex:1;background:linear-gradient(#171020,#1d1428);scrollbar-color:#76588d #171020}
-#lnChatDock .ln-msg{display:grid;grid-template-columns:30px 1fr;gap:8px;margin:0 0 14px}
-#lnChatDock .ln-avatar{width:29px;height:29px;display:grid;place-items:center;border:1px solid #8b6aa2;background:#3c2b50;color:#fff0bd;font:bold 12px monospace;overflow:hidden}
-#lnChatDock .ln-avatar img{width:100%;height:100%;object-fit:cover}#lnChatDock .ln-msgmeta{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
-#lnChatDock .ln-name{font:bold 11px monospace;color:#f0dfff}#lnChatDock .ln-time{font:9px monospace;color:#95859f}
-#lnChatDock .ln-msgtext{font:11px/1.55 Verdana,Arial;color:#e7deed;overflow-wrap:anywhere;white-space:pre-wrap}
-#lnChatDock .ln-system{padding:10px;color:#bcaecb;text-align:center;font:10px monospace}
-#lnChatDock .ln-composer{padding:9px;background:#21172c;border-top:2px ridge #76588d}
-#lnChatDock .ln-composebox{display:flex;gap:6px}#lnChatDock .ln-composebox input{min-width:0;flex:1;padding:10px 9px;background:#100b17;border:1px inset #76588d;color:#fff;font:11px Verdana;outline:none}
-#lnChatDock .ln-send{padding:0 12px;background:#49305f;border:2px outset #a98cbb;color:#ffdc55;font:bold 10px monospace;cursor:pointer}
-#lnChatDock .ln-hint{font:8px monospace;color:#93839e;margin-top:6px}#lnChatDock .ln-login{color:#ffdc55}
-#lnChatDock.minimized .ln-channelbar,#lnChatDock.minimized .ln-messages,#lnChatDock.minimized .ln-composer{display:none}
-#lnChatDock.minimized .ln-chat-head{border:0}#lnChatDock.minimized .ln-headsub{display:none}
-@media(max-width:620px){#lnChatDock{right:8px;bottom:8px;width:min(370px,calc(100vw - 16px));height:min(520px,calc(100vh - 16px))}#lnChatDock.minimized{height:47px}}
 
-#lnChatDock .ln-msgbody{min-width:0}
-#lnChatDock .ln-msgtext a.ln-chat-link,#lnChatDock .ln-chat-link{color:#ffdc55;text-decoration:underline;overflow-wrap:anywhere}
-#lnChatDock .ln-inline-image{display:block;max-width:min(100%,260px);max-height:230px;width:auto;height:auto;object-fit:contain;margin:7px 0;border:1px solid #76588d;background:#100b17}
-#lnChatDock .ln-custom-emoji{display:inline-block;width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 1px}
-#lnChatDock .ln-attachment-link{display:inline-block;margin-top:5px}
-
-#lnChatDock .ln-image-link{display:block;width:max-content;max-width:100%;margin:7px 0;text-decoration:none}
-#lnChatDock .ln-image-fallback{display:inline-block;padding:6px 9px;border:1px solid #9876ad;background:#30203f;color:#ffdc55;font:9px monospace}
-#lnChatDock .ln-inline-image{max-width:min(100%,300px);max-height:260px}
-
-/* LIVE CHAT: OKNO PŁYWAJĄCE W STYLU WINAMPA */
-#lnChatDock{resize:both;min-width:280px;min-height:220px;max-width:calc(100vw - 16px);max-height:calc(100vh - 16px);overflow:hidden;transition:height .16s ease,box-shadow .16s ease}
-#lnChatDock .ln-chat-head{cursor:move;touch-action:none;user-select:none;-webkit-user-select:none}
-#lnChatDock .ln-chat-head button{cursor:pointer;touch-action:manipulation}
-#lnChatDock.minimized{width:min(310px,calc(100vw - 16px))!important;height:49px!important;min-height:49px!important;resize:none;box-shadow:0 5px 22px #000c}
-#lnChatDock.minimized .ln-chat-head{cursor:move}
-.ln-chat-launcher{position:fixed;right:18px;bottom:70px;z-index:1002;padding:9px 13px;background:linear-gradient(180deg,#49305f,#21172c);border:2px outset #b99bd0;box-shadow:3px 3px 0 #09050d;color:#ffdc55;font:bold 10px monospace;letter-spacing:.04em;cursor:pointer}
-.ln-chat-launcher:hover{filter:brightness(1.2)}
-.ln-chat-launcher[hidden]{display:none!important}
-@media(max-width:620px){#lnChatDock{resize:none;min-width:0;width:min(370px,calc(100vw - 16px));height:min(520px,calc(100vh - 16px));max-width:calc(100vw - 16px);max-height:calc(100vh - 16px)}#lnChatDock.minimized{width:min(310px,calc(100vw - 16px))!important}.ln-chat-launcher{right:8px;bottom:8px}}
-</style>
 </head><body><div class="site"><header class="masthead"><div class="logo-stage"><img class="logo" src="logo.png" alt="LEVEL NEXT"></div></header><nav class="nav" aria-label="Główna nawigacja">
 <a href="index.html" data-nav="index.html">START</a>
 <a href="o-nas.html" data-nav="o-nas.html">O NAS</a>
