@@ -12,6 +12,29 @@
 <meta name="twitter:title" content="LEVEL NEXT">
 <meta name="twitter:description" content="Prywatna strona o grach, starym sprzęcie i wszystkim, co kręci się wokół grania.">
 <meta name="twitter:image" content="https://firol24.github.io/LevelNext/logo.png">
+<style id="ln-live-chat-styles">
+#lnChatDock{position:fixed;right:18px;bottom:18px;width:min(390px,calc(100vw - 28px));height:min(570px,calc(100vh - 36px));z-index:999;background:#171020;border:3px ridge #9876ad;box-shadow:0 12px 45px #000b;display:flex;flex-direction:column;transition:height .2s ease;color:#eee8f7;font:12px/1.5 Verdana,Arial,sans-serif}
+#lnChatDock *{box-sizing:border-box}#lnChatDock.minimized{height:49px}#lnChatDock .ln-chat-head{display:flex;align-items:center;gap:9px;padding:8px 10px;background:linear-gradient(90deg,#49305f,#30203f);border-bottom:2px ridge #9876ad;min-height:46px}
+#lnChatDock .ln-mark{width:27px;height:27px;display:grid;place-items:center;background:#21172c;border:1px solid #b99bd0;color:#ffdc55;font:20px Georgia;flex:none}
+#lnChatDock .ln-headtext{min-width:0;flex:1}#lnChatDock .ln-headtitle{font:bold 11px monospace;color:#fff0bd;letter-spacing:.6px}#lnChatDock .ln-headsub{font:9px monospace;color:#d2c0df}
+#lnChatDock .ln-headbtn{width:25px;height:25px;border:1px outset #a98cbb;background:#30203f;color:#fff;font-weight:bold;cursor:pointer}
+#lnChatDock .ln-channelbar{display:flex;justify-content:space-between;align-items:center;padding:7px 10px;background:#21172c;border-bottom:1px solid #5e4772;color:#e9dff0;font:10px monospace}
+#lnChatDock .ln-channelbar strong{color:#ffdc55}#lnChatDock .ln-live{font-size:8px;color:#75db8b;border:1px solid #54785c;padding:2px 5px}
+#lnChatDock .ln-messages{padding:12px 10px;overflow:auto;flex:1;background:linear-gradient(#171020,#1d1428);scrollbar-color:#76588d #171020}
+#lnChatDock .ln-msg{display:grid;grid-template-columns:30px 1fr;gap:8px;margin:0 0 14px}
+#lnChatDock .ln-avatar{width:29px;height:29px;display:grid;place-items:center;border:1px solid #8b6aa2;background:#3c2b50;color:#fff0bd;font:bold 12px monospace;overflow:hidden}
+#lnChatDock .ln-avatar img{width:100%;height:100%;object-fit:cover}#lnChatDock .ln-msgmeta{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
+#lnChatDock .ln-name{font:bold 11px monospace;color:#f0dfff}#lnChatDock .ln-time{font:9px monospace;color:#95859f}
+#lnChatDock .ln-msgtext{font:11px/1.55 Verdana,Arial;color:#e7deed;overflow-wrap:anywhere;white-space:pre-wrap}
+#lnChatDock .ln-system{padding:10px;color:#bcaecb;text-align:center;font:10px monospace}
+#lnChatDock .ln-composer{padding:9px;background:#21172c;border-top:2px ridge #76588d}
+#lnChatDock .ln-composebox{display:flex;gap:6px}#lnChatDock .ln-composebox input{min-width:0;flex:1;padding:10px 9px;background:#100b17;border:1px inset #76588d;color:#fff;font:11px Verdana;outline:none}
+#lnChatDock .ln-send{padding:0 12px;background:#49305f;border:2px outset #a98cbb;color:#ffdc55;font:bold 10px monospace;cursor:pointer}
+#lnChatDock .ln-hint{font:8px monospace;color:#93839e;margin-top:6px}#lnChatDock .ln-login{color:#ffdc55}
+#lnChatDock.minimized .ln-channelbar,#lnChatDock.minimized .ln-messages,#lnChatDock.minimized .ln-composer{display:none}
+#lnChatDock.minimized .ln-chat-head{border:0}#lnChatDock.minimized .ln-headsub{display:none}
+@media(max-width:620px){#lnChatDock{right:8px;bottom:8px;width:min(370px,calc(100vw - 16px));height:min(520px,calc(100vh - 16px))}#lnChatDock.minimized{height:47px}}
+</style>
 </head><body><div class="site"><header class="masthead"><div class="logo-stage"><img class="logo" src="logo.png" alt="LEVEL NEXT"></div></header><nav class="nav" aria-label="Główna nawigacja">
 <a href="index.html" data-nav="index.html">START</a>
 <a href="o-nas.html" data-nav="o-nas.html">O NAS</a>
@@ -66,7 +89,13 @@
 <img src="https://lostmedia.cc/gify/made_with_windows.gif?v=2" width="88" height="31" alt="Made with Windows">
 <img class="footer-y2k" src="https://media.thuvien.org/photo/56320/image/f9405433063f20de50ca5a5007f5e826.gif" width="88" height="31" alt="Y2K Kid">
 <img src="https://lostmedia.cc/gify/best_viewed.gif?v=2" width="88" height="31" alt="Best viewed">
-</div><span class="badge-caption">POZDROWIENIA DLA WSZYSTKICH, KTÓRZY TU ZAJRZELI</span></div></footer></div><div class="modalback" id="welcomeModal"><div class="modal"><div class="modalbar">LEVEL NEXT // KOMUNIKAT SYSTEMOWY <span style="float:right">LN-0001</span></div><div class="modalbody"><div class="welcome-y2k"><img src="https://media.thuvien.org/photo/59198/image/8d1b9b2e8fc65f8f889acb83cb35cffc.gif" width="88" height="31" alt="Animowany przycisk retro"></div><h2>Witaj w sieci.</h2><p>Połączenie z LEVEL NEXT zostało nawiązane. Rozejrzyj się po stronie i zostań na dłużej.</p><p class="smallprint">Zalecana rozdzielczość: 1024 × 768 lub wyższa.</p><button class="button" id="closeModal" type="button" onclick="var welcome=document.getElementById('welcomeModal');if(welcome){welcome.remove();}">OK, WCHODZĘ</button></div></div></div>
+</div><span class="badge-caption">POZDROWIENIA DLA WSZYSTKICH, KTÓRZY TU ZAJRZELI</span></div></footer></div><aside id="lnChatDock" aria-label="Czat na żywo LEVEL NEXT">
+<div class="ln-chat-head"><div class="ln-mark">LN</div><div class="ln-headtext"><div class="ln-headtitle">LEVEL NEXT // LIVE CHAT</div><div class="ln-headsub"><span style="color:#75db8b">●</span> COMMUNITY CHANNEL</div></div><button class="ln-headbtn" id="lnChatMin" type="button" aria-label="Zwiń czat">−</button><button class="ln-headbtn" id="lnChatClose" type="button" aria-label="Ukryj czat">×</button></div>
+<div class="ln-channelbar"><span><strong>#</strong> level-next</span><span class="ln-live">LIVE / DISCORD</span></div>
+<div class="ln-messages" id="lnChatMessages" aria-live="polite"><div class="ln-system">ŁĄCZENIE Z KANAŁEM...</div></div>
+<form class="ln-composer" id="lnChatForm"><div class="ln-composebox"><input id="lnChatInput" maxlength="300" autocomplete="off" placeholder="Napisz wiadomość..." aria-label="Wiadomość"><button class="ln-send" id="lnChatSend" type="submit">WYŚLIJ</button></div><div class="ln-hint" id="lnChatHint">ŁADOWANIE STATUSU LOGOWANIA...</div></form>
+</aside>
+<div class="modalback" id="welcomeModal"><div class="modal"><div class="modalbar">LEVEL NEXT // KOMUNIKAT SYSTEMOWY <span style="float:right">LN-0001</span></div><div class="modalbody"><div class="welcome-y2k"><img src="https://media.thuvien.org/photo/59198/image/8d1b9b2e8fc65f8f889acb83cb35cffc.gif" width="88" height="31" alt="Animowany przycisk retro"></div><h2>Witaj w sieci.</h2><p>Połączenie z LEVEL NEXT zostało nawiązane. Rozejrzyj się po stronie i zostań na dłużej.</p><p class="smallprint">Zalecana rozdzielczość: 1024 × 768 lub wyższa.</p><button class="button" id="closeModal" type="button" onclick="var welcome=document.getElementById('welcomeModal');if(welcome){welcome.remove();}">OK, WCHODZĘ</button></div></div></div>
 <script src="site.js?v=18"></script><script>
 (function(){
 "use strict";
@@ -81,4 +110,43 @@ async function loadAccount(){try{var d=await request("/api/me");account(d.authen
 function init(){var field=$("guestbook-message"),form=$("guestbook-form");field.addEventListener("input",function(){$("guestbook-count").textContent=field.value.length+" / 500";});form.addEventListener("submit",async function(ev){ev.preventDefault();var content=field.value.trim();if(!currentUser){$("guestbook-form-message").textContent="Najpierw zaloguj się przez Discord.";return;}if(content.length<3||content.length>500){$("guestbook-form-message").textContent="Wpis musi mieć od 3 do 500 znaków.";return;}var b=$("guestbook-submit");b.disabled=true;b.textContent="PUBLIKOWANIE...";try{await request("/api/guestbook",{method:"POST",body:JSON.stringify({content:content})});field.value="";$("guestbook-count").textContent="0 / 500";$("guestbook-form-message").textContent="Wpis dodany. Dzięki za pozdrowienia!";await entries();}catch(e){$("guestbook-form-message").textContent="Nie udało się dodać wpisu: "+e.message;}finally{b.disabled=false;b.textContent="WPISZ SIĘ »";}});$("guestbook-refresh").addEventListener("click",entries);loadAccount();entries();document.addEventListener("levelnext:authchange",loadAccount);}
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init,{once:true});else init();
 })();
-</script></body></html>
+</script><script id="ln-live-chat-script">
+(function(){
+"use strict";
+var API="https://levelnext-forum-api.filipiakr245.workers.dev",CHANNEL="1133716701381415037",dock=document.getElementById("lnChatDock"),list=document.getElementById("lnChatMessages"),field=document.getElementById("lnChatInput"),form=document.getElementById("lnChatForm"),hint=document.getElementById("lnChatHint"),send=document.getElementById("lnChatSend"),user=null,lastNewest=null,busy=false;
+if(!dock)return;
+function token(){try{return localStorage.getItem("ln_session")||""}catch(e){return""}}
+function headers(json){var h={Accept:"application/json"};if(json)h["Content-Type"]="application/json";var t=token();if(t)h.Authorization="Bearer "+t;return h}
+async function api(path,opts){opts=opts||{};var r=await fetch(API+path,Object.assign({credentials:"omit",headers:headers(!!opts.body)},opts));var d={};try{d=await r.json()}catch(e){}if(!r.ok||d.success===false)throw Error(d.error||("HTTP "+r.status));return d}
+function node(tag,cls,txt){var e=document.createElement(tag);if(cls)e.className=cls;if(txt!==undefined)e.textContent=txt;return e}
+function render(messages){
+ var wasBottom=list.scrollHeight-list.scrollTop-list.clientHeight<70;
+ list.replaceChildren();
+ if(!messages.length){list.append(node("div","ln-system","NA RAZIE CISZA. NAPISZ PIERWSZY!"));return}
+ messages.forEach(function(m){
+  var row=node("article","ln-msg"),av=node("div","ln-avatar"),body=node("div"),meta=node("div","ln-msgmeta"),name=node("span","ln-name",m.author&&m.author.global_name||m.author&&m.author.username||"Discord user"),time=node("span","ln-time");
+  if(m.author&&m.author.avatar){var im=document.createElement("img");im.src="https://cdn.discordapp.com/avatars/"+m.author.id+"/"+m.author.avatar+".png?size=64";im.alt="";av.append(im)}else av.textContent=(name.textContent||"U").charAt(0).toUpperCase();
+  var dt=new Date(m.timestamp);time.textContent=Number.isNaN(dt.getTime())?"":dt.toLocaleTimeString("pl-PL",{hour:"2-digit",minute:"2-digit"});
+  var content=node("div","ln-msgtext",m.content||"");meta.append(name,time);body.append(meta,content);row.append(av,body);list.append(row);
+ });
+ if(wasBottom)list.scrollTop=list.scrollHeight;
+}
+async function load(){
+ if(busy)return;busy=true;
+ try{var d=await api("/api/chat?limit=50");var msgs=Array.isArray(d.messages)?d.messages:[];render(msgs);if(msgs.length)lastNewest=msgs[msgs.length-1].id}
+ catch(e){if(!list.children.length||list.querySelector(".ln-system"))list.replaceChildren(node("div","ln-system","CZAT NIEDOSTĘPNY: "+e.message))}
+ finally{busy=false}
+}
+async function account(){
+ try{var d=await api("/api/me");user=d.authenticated?d.user:null}
+ catch(e){user=null}
+ if(user){field.disabled=false;send.disabled=false;hint.textContent="ZALOGOWANO JAKO "+(user.username||"DISCORD USER").toUpperCase()+" • ENTER = WYŚLIJ"}
+ else{field.disabled=true;send.disabled=true;hint.replaceChildren();hint.append(document.createTextNode("PISANIE DOSTĘPNE PO "));var a=document.createElement("a");a.href=API+"/auth/discord";a.className="ln-login";a.textContent="ZALOGOWANIU PRZEZ DISCORD";hint.append(a)}
+}
+form.addEventListener("submit",async function(e){e.preventDefault();var content=field.value.trim();if(!content||!user)return;if(content.length>300)return;send.disabled=true;try{await api("/api/chat",{method:"POST",body:JSON.stringify({content:content})});field.value="";await load()}catch(err){hint.textContent=err.message}finally{send.disabled=!user}});
+document.getElementById("lnChatMin").addEventListener("click",function(){dock.classList.toggle("minimized");this.textContent=dock.classList.contains("minimized")?"+":"−"});
+document.getElementById("lnChatClose").addEventListener("click",function(){dock.style.display="none"});
+account();load();window.setInterval(load,5000);document.addEventListener("levelnext:authchange",account);
+})();
+</script>
+</body></html>
