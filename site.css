@@ -135,7 +135,7 @@ h1,h2,h3{line-height:1.25}
 .winamp-seek{display:block;width:100%;height:13px;margin:7px 0 2px;accent-color:#315ca0;cursor:pointer}
 .winamp-foot{color:#333;font:9px "Courier New",monospace}
 .winamp-bottom{display:flex;justify-content:space-between;padding:4px 8px;background:#aaa;border-top:1px solid #eee;color:#333;font:bold 8px Tahoma;letter-spacing:.04em}
-.winamp-launcher{position:fixed;right:380px;bottom:16px;z-index:1001;padding:8px 12px;background:linear-gradient(#315ca0,#14274e);border:2px outset #c6c6c6;color:#fff;font:bold 11px Tahoma;cursor:pointer;box-shadow:2px 2px 5px #0008}
+.winamp-launcher{position:fixed;right:155px;bottom:16px;z-index:1001;padding:8px 12px;background:linear-gradient(#315ca0,#14274e);border:2px outset #c6c6c6;color:#fff;font:bold 11px Tahoma;cursor:pointer;box-shadow:2px 2px 5px #0008}
 @media(max-width:620px){.winamp-window{width:min(310px,calc(100vw - 16px))}.winamp-launcher{right:8px;bottom:76px}}
 @media(prefers-reduced-motion:reduce){.winamp-window.is-playing .winamp-spectrum i{animation:none}}
 
