@@ -151,26 +151,22 @@ function headers(json){
  if(json)h["Content-Type"]="application/json";
  var t=token();if(t)h.Authorization="Bearer "+t;
  return h;
-}
 async function api(path,opts){
  opts=opts||{};
  var r=await fetch(API+path,Object.assign({credentials:"omit",headers:headers(!!opts.body)},opts));
  var d={};try{d=await r.json()}catch(e){}
  if(!r.ok||d.success===false)throw Error(d.error||("HTTP "+r.status));
  return d;
-}
 function node(tag,cls,txt){
  var e=document.createElement(tag);
  if(cls)e.className=cls;
  if(txt!==undefined)e.textContent=txt;
  return e;
-}
 function safeUrl(value){
  try{
   var u=new URL(value);
   return (u.protocol==="https:"||u.protocol==="http:")?u:null;
  }catch(e){return null}
-}
 function isImageUrl(value){
  var u=safeUrl(value);if(!u)return false;
  var host=u.hostname.toLowerCase();
@@ -178,7 +174,6 @@ function isImageUrl(value){
   host==="media.tenor.com"||host==="i.giphy.com"||host==="media.giphy.com"||
   host==="giphy.com"||host==="tenor.com";
  return trusted||/\.(?:png|jpe?g|gif|webp|avif)(?:$|\?)/i.test(u.href);
-}
 function appendImage(parent,url,alt,extraClass){
  var u=safeUrl(url);if(!u||!isImageUrl(url))return false;
  var wrap=document.createElement("a");
@@ -198,20 +193,17 @@ function appendImage(parent,url,alt,extraClass){
    if(!proxy.searchParams.has("width"))proxy.searchParams.set("width","900");
    img.src=proxy.href;
    return;
-  }
   img.remove();
   if(!wrap.querySelector(".ln-image-fallback")){
    var fallback=document.createElement("span");
    fallback.className="ln-image-fallback";
    fallback.textContent="OTWÓRZ OBRAZ / GIF ↗";
    wrap.append(fallback);
-  }
  },false);
  img.src=u.href;
  wrap.append(img);
  parent.append(wrap);
  return true;
-}
 function appendText(parent,text){if(text)parent.append(document.createTextNode(text))}
 function renderContent(parent,content){
  // Render Discord custom emoji and URLs as DOM nodes; never inject HTML.
@@ -238,26 +230,19 @@ function renderContent(parent,content){
     if(isImageUrl(urlText)){
      if(!appendImage(parent,urlText,"Obraz z czatu")) {
       var fallback=document.createElement("a");fallback.href=parsed.href;fallback.target="_blank";fallback.rel="noopener noreferrer";fallback.textContent=urlText;parent.append(fallback);
-     }
     }else{
      var a=document.createElement("a");a.href=parsed.href;a.target="_blank";a.rel="noopener noreferrer";a.textContent=urlText;a.className="ln-chat-link";parent.append(a);
-    }
    }else appendText(parent,urlText);
    appendText(parent,trailing);
-  }
   cursor=pattern.lastIndex;
- }
  appendText(parent,source.slice(cursor));
-}
 function avatarUrl(author){
  if(!author)return "";
  if(typeof author.avatar_url==="string"&&author.avatar_url.startsWith("https://cdn.discordapp.com/avatars/"))return author.avatar_url;
  if(author.id&&author.avatar){
   var ext=String(author.avatar).startsWith("a_")?"gif":"png";
   return "https://cdn.discordapp.com/avatars/"+encodeURIComponent(author.id)+"/"+encodeURIComponent(author.avatar)+"."+ext+"?size=64";
- }
  return "";
-}
 function render(messages){
  var wasBottom=list.scrollHeight-list.scrollTop-list.clientHeight<70;
  list.replaceChildren();
@@ -290,12 +275,8 @@ function render(messages){
    }else{
     var link=safeUrl(file.url);
     if(link){var a=document.createElement("a");a.href=link.href;a.target="_blank";a.rel="noopener noreferrer";a.className="ln-chat-link ln-attachment-link";a.textContent="📎 "+(file.filename||"Załącznik");body.append(a)}
-   }
-  });
   row.append(av,body);list.append(row);
- });
  if(wasBottom)list.scrollTop=list.scrollHeight;
-}
 async function load(){
  if(busy)return;busy=true;
  try{
@@ -305,7 +286,6 @@ async function load(){
   if(!list.children.length||list.querySelector(".ln-system"))
    list.replaceChildren(node("div","ln-system","CZAT NIEDOSTĘPNY: "+e.message));
  }finally{busy=false}
-}
 async function account(){
  try{var d=await api("/api/me");user=d.authenticated?d.user:null}
  catch(e){user=null}
@@ -317,8 +297,6 @@ async function account(){
   hint.append(document.createTextNode("PISANIE DOSTĘPNE PO "));
   var a=document.createElement("a");a.href=API+"/auth/discord";a.className="ln-login";
   a.textContent="ZALOGOWANIU PRZEZ DISCORD";hint.append(a);
- }
-}
 form.addEventListener("submit",async function(e){
  e.preventDefault();
  var content=field.value.trim();
@@ -327,8 +305,6 @@ form.addEventListener("submit",async function(e){
  try{await api("/api/chat",{method:"POST",body:JSON.stringify({content:content})});field.value="";await load()}
  catch(err){hint.textContent=err.message}
  finally{send.disabled=!user}
-});
-var minButton=document.getElementById("lnChatMin");
 var closeButton=document.getElementById("lnChatClose");
 var launcher=document.getElementById("lnChatLauncher");
 var dragBar=dock.querySelector(".ln-chat-head");
@@ -337,29 +313,12 @@ function snapChatToCorner(){
  dock.style.top="auto";
  dock.style.right="18px";
  dock.style.bottom="18px";
-}
-function setChatMinimized(value){
- dock.classList.toggle("minimized",!!value);
- if(minButton){
-  minButton.textContent=value?"+":"−";
-  minButton.setAttribute("aria-label",value?"Przywróć czat":"Minimalizuj czat");
- }
- if(value)snapChatToCorner();
-}
-if(minButton)minButton.addEventListener("click",function(e){
- e.stopPropagation();
- setChatMinimized(!dock.classList.contains("minimized"));
-});
 if(closeButton)closeButton.addEventListener("click",function(e){
- e.stopPropagation();
  dock.style.display="none";
  if(launcher)launcher.hidden=false;
-});
 if(launcher)launcher.addEventListener("click",function(){
  dock.style.display="flex";
  launcher.hidden=true;
- setChatMinimized(false);
-});
 if(dragBar){
  var drag=null;
  dragBar.addEventListener("pointerdown",function(e){
@@ -373,7 +332,6 @@ if(dragBar){
   dock.style.bottom="auto";
   try{dragBar.setPointerCapture(e.pointerId)}catch(err){}
   e.preventDefault();
- });
  dragBar.addEventListener("pointermove",function(e){
   if(!drag)return;
   var width=dock.offsetWidth,height=dock.offsetHeight;
@@ -383,11 +341,9 @@ if(dragBar){
   top=Math.max(0,Math.min(window.innerHeight-height,top));
   dock.style.left=left+"px";
   dock.style.top=top+"px";
- });
  function stopChatDrag(){drag=null}
  dragBar.addEventListener("pointerup",stopChatDrag);
  dragBar.addEventListener("pointercancel",stopChatDrag);
-}
 window.addEventListener("resize",function(){
  if(dock.style.display!=="none"&&dock.style.left){
   var rect=dock.getBoundingClientRect();
@@ -395,8 +351,6 @@ window.addEventListener("resize",function(){
   var top=Math.max(0,Math.min(window.innerHeight-rect.height,rect.top));
   dock.style.left=left+"px";
   dock.style.top=top+"px";
- }
-});
 account();load();window.setInterval(load,5000);
 document.addEventListener("levelnext:authchange",account);
 })();
@@ -421,19 +375,15 @@ function visitorId(){
    if(window.crypto&&crypto.getRandomValues)crypto.getRandomValues(bytes);
    else for(var i=0;i<bytes.length;i++)bytes[i]=Math.floor(Math.random()*256);
    id=Array.from(bytes).map(function(x){return x.toString(16).padStart(2,"0")}).join("");
-  }
   localStorage.setItem("ln_visitor_id",id);
   return id;
  }catch(e){
   return "session-"+Math.random().toString(36).slice(2)+Date.now().toString(36);
- }
-}
 var id=visitorId();
 function format(value,width){
  var n=Number(value);
  if(!Number.isFinite(n)||n<0)n=0;
  return Math.floor(n).toString().padStart(width,"0");
-}
 async function refresh(){
  try{
   var url=API+"/api/visitors?visitor_id="+encodeURIComponent(id);
@@ -446,8 +396,6 @@ async function refresh(){
   status.textContent="UNIKALNI ODWIEDZAJĄCY • AKTUALIZACJA CO 60 SEK.";
  }catch(error){
   status.textContent="LICZNIK CHWILOWO NIEDOSTĘPNY";
- }
-}
 refresh();
 window.setInterval(refresh,60000);
 })();
