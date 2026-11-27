@@ -1,18 +1,150 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T16:01+01:00",
+  "updatedAt": "2026-11-27T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Apple MacBook Air 13,6″ M5 16GB/1TB za 6099 zł na Allegro Black Weeks",
-    "summary": "Pracujący w oparciu o czip Apple M5 MacBook Air, możliwy jest do kupienia taniej poprzez serwis Allegro. Model z matrycą o przekątnej 13,6 cala, wyposażony w 16GB oraz potężny dysk o pojemności 1TB, kosztuje 6099 złotych. Oferta dotyczy wariantu w kolorze srebrnym. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/apple-macbook-air-136-m5-16gb-1tb-za-6099-zl-na-allegro-black-weeks/",
-    "articleSlug": "a4c541a077bd",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/macbook-air-apple-m5-srebrny-silver-2b-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Znów to zrobili! Za 2 tygodnie premiera mocno wyczekiwanego darmowego dodatku do hitowego Hollow Knight: Silksong",
+    "summary": "Darmowe rozszerzenie Sea of Sorrow do Hollow Knight: Silksong zadebiutuje już za niespełna dwa tygodnie, a jego premierę zapowiada świeżutki zwiastun rozgrywki.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/znow-to-zrobili-za-2-tygodnie-premiera-mocno-wyczekiwanego-darmow/z5324c9",
+    "articleSlug": "d2d047813c35",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533492449.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Znów to zrobili! Za 2 tygodnie premiera mocno wyczekiwanego darmowego dodatku do hitowego Hollow Knight: Silksong",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/znow-to-zrobili-za-2-tygodnie-premiera-mocno-wyczekiwanego-darmow/z5324c9",
+      "publishedAt": "2026-11-27T17:20+01:00",
+      "summary": "Darmowe rozszerzenie Sea of Sorrow do Hollow Knight: Silksong zadebiutuje już za niespełna dwa tygodnie, a jego premierę zapowiada świeżutki zwiastun rozgrywki.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533492449.jpg",
+      "articleSlug": "d2d047813c35",
+      "articleBody": "Darmowe rozszerzenie Sea of Sorrow do Hollow Knight: Silksong zadebiutuje już za niespełna dwa tygodnie, a jego premierę zapowiada świeżutki zwiastun rozgrywki."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Hollow Knight: Silksong za chwilę dostanie darmowe DLC. Team Cherry pokazało zwiastun z datą premiery",
+      "sourceUrl": "https://www.ppe.pl/news/434828/hollow-knight-silksong-za-chwile-dostanie-darmowe-dlc-team-cherry-pokazalo-zwiastun-z-data-premiery.html",
+      "publishedAt": "2026-11-27T16:59+01:00",
+      "summary": "Team Cherry dopełniło formalności. Na dodatek do Hollow Knight: Silksong nie trzeba będzie czekać tak długo, jak na samą grę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/2e5b3a4d63bfc9439e03/2e5b3a4d63bfc9439e03.png",
+      "articleSlug": "6cb0d1e930af",
+      "articleBody": "Team Cherry dopełniło formalności. Na dodatek do Hollow Knight: Silksong nie trzeba będzie czekać tak długo, jak na samą grę."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Poznaliśmy datę premiery Hollow Knight Silksong Sea of Sorrow. Darmowy dodatek zadebiutuje w grudniu",
+      "sourceUrl": "https://lowcygier.pl/aktualnosci/poznalismy-date-premiery-hollow-knight-silksong-sea-of-sorrow-darmowy-dodatek-zadebiutuje-w-grudniu/",
+      "publishedAt": "2026-11-27T16:56+01:00",
+      "summary": "Tym razem studio Team Cherry dotrzymało obietnicy! Premiera dodatku Sea of Sorrow do Hollow Knight Silksong odbędzie się jeszcze w tym roku, a dokładnie to w piątek 11 grudnia. Zagramy więc w tym samym dniu, w którym obejrzymy też transmisję The Game Awards 2026. Co więcej, rozszerzenie trafi w ręce wszystkich posiadaczy gry całkowicie za darmo. Możecie więc już szykować się na nową przygodę, tym razem rozgrywającą się głównie w odmętach zapomnianego oceanu okalającego krainę Pharloom. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Silksong-Sea-of-Sorrow-logo-224x224.jpg",
+      "articleSlug": "fd425e96f671",
+      "articleBody": "Tym razem studio Team Cherry dotrzymało obietnicy! Premiera dodatku Sea of Sorrow do Hollow Knight Silksong odbędzie się jeszcze w tym roku, a dokładnie to w piątek 11 grudnia. Zagramy więc w tym samym dniu, w którym obejrzymy też transmisję The Game Awards 2026. Co więcej, rozszerzenie trafi w ręce wszystkich posiadaczy gry całkowicie za darmo. Możecie więc już szykować się na nową przygodę, tym razem rozgrywającą się głównie w odmętach zapomnianego oceanu okalającego krainę Pharloom. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Crimson Desert otrzymało dużą aktualizację. Lista zmian jest naprawdę długa",
+      "sourceUrl": "https://www.ppe.pl/news/434817/crimson-desert-otrzymalo-duza-aktualizacje-lista-zmian-jest-naprawde-dluga.html",
+      "publishedAt": "2026-11-27T16:45+01:00",
+      "summary": "Pearl Abyss udostępniło kolejną aktualizację do Crimson Desert. Patch 2.06.00 wprowadza istotne usprawnienia systemu przechowywania przedmiotów, budowania i dekorowania posiadłości.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d92c466bea298b636837/d92c466bea298b636837.webp",
+      "articleSlug": "d880f7e966d4",
+      "articleBody": "Pearl Abyss udostępniło kolejną aktualizację do Crimson Desert. Patch 2.06.00 wprowadza istotne usprawnienia systemu przechowywania przedmiotów, budowania i dekorowania posiadłości."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Hollow Knight Silksong – Sea of Sorrow z datą premiery. Darmowy dodatek ukaże się jeszcze w tym roku",
+      "sourceUrl": "https://cdaction.pl/newsy/hollow-knight-silksong-sea-of-sorrow-z-data-premiery-darmowy-dodatek-ukaze-sie-jeszcze-w-tym-roku/",
+      "publishedAt": "2026-11-27T16:28+01:00",
+      "summary": "I nie jest to silkpost.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/hollow-knight-silksong-sea-of-sorrow7767.jpg",
+      "articleSlug": "e137afcfdb71",
+      "articleBody": "I nie jest to silkpost."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestaw 2 kabli USB C na USB C INIU (2 m, 100W, PD) za 34,20 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-2-kabli-usb-c-na-usb-c-iniu-2-m-100w-pd-za-3420-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-27T16:28+01:00",
+      "summary": "Na stronie polskiego oddziału Amazona znajdziecie teraz w niższej cenie kabel USB C na USB C marki INIU o długości 2 m, obsługujący moc do 100W oraz technologię Power Delivery. Najbardziej korzystny będzie dwupak, który może być wasz za 34,20 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/02/Kabel-USB-C-na-USB-C-INIU-2-m-100W-PD-za-1398-zl-w-Amazon-PL_miniaturka-224x224.jpg",
+      "articleSlug": "614d4864bf15",
+      "articleBody": "Na stronie polskiego oddziału Amazona znajdziecie teraz w niższej cenie kabel USB C na USB C marki INIU o długości 2 m, obsługujący moc do 100W oraz technologię Power Delivery. Najbardziej korzystny będzie dwupak, który może być wasz za 34,20 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Blizzard zmusił graczy WoW-a do walki w trybie PvP. Brzmi absurdalnie, ale część społeczności jest wściekła, bo straciła sposób na łatwe nagrody",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/blizzard-zmusil-graczy-wow-a-do-walki-w-trybie-pvp-brzmi-absurdal/z4324c8",
+      "publishedAt": "2026-11-27T16:17+01:00",
+      "summary": "Blizzard wprowadził szereg zmian, które mogą nie spodobać się min-makserom. Gracze chcący wziąć udział w jednym z trybów rywalizacji muszą teraz skupić się na realizacji celów pobocznych, zamiast polegać na jednej, powtarzanej do znudzenia taktyce.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533487875.jpg",
+      "articleSlug": "599e4df9f4c3",
+      "articleBody": "Blizzard wprowadził szereg zmian, które mogą nie spodobać się min-makserom. Gracze chcący wziąć udział w jednym z trybów rywalizacji muszą teraz skupić się na realizacji celów pobocznych, zamiast polegać na jednej, powtarzanej do znudzenia taktyce."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Szef Path of Exile 2 uderza w Blizzarda. „Naprawdę fatalny” sposób zapowiadania gier",
+      "sourceUrl": "https://www.ppe.pl/news/434815/szef-path-of-exile-2-uderza-w-blizzarda-naprawde-fatalny-sposob-zapowiadania-gier.html",
+      "publishedAt": "2026-11-27T16:16+01:00",
+      "summary": "Jonathan Rogers, współreżyser Path of Exile 2, skrytykował sposób, w jaki niektóre studia prezentują swoje nadchodzące produkcje.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/004bd37dc5e27aefc8d0/004bd37dc5e27aefc8d0.jpg",
+      "articleSlug": "a117a24d6dd4",
+      "articleBody": "Jonathan Rogers, współreżyser Path of Exile 2, skrytykował sposób, w jaki niektóre studia prezentują swoje nadchodzące produkcje."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "2. sezon „Rycerzy Doliny Rozdupy” Walaszka jest średni, czyli super [RECENZJA]",
+      "sourceUrl": "https://cdaction.pl/kultura/2-sezon-rycerzy-doliny-rozdupy-walaszka-jest-sredni-czyli-super-recenzja/",
+      "publishedAt": "2026-11-27T16:15+01:00",
+      "summary": "Robocizna jak u obcego – na odpi***ol. Bartosz Walaszek w dalszym ciągu daje z siebie 30%, a rachunek wystawia na pełną kwotę. Co tam rachunek… FAKTURĘ! A z fakturą, wiadomo, drożej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/1.jpg",
+      "articleSlug": "f3bd65907c04",
+      "articleBody": "Robocizna jak u obcego – na odpi***ol. Bartosz Walaszek w dalszym ciągu daje z siebie 30%, a rachunek wystawia na pełną kwotę. Co tam rachunek… FAKTURĘ! A z fakturą, wiadomo, drożej."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Stellar Blade na PS5 za 149 zł (170 zł taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-stellar-blade-na-ps5-za-149-zl-170-zl-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-27T16:11+01:00",
+      "summary": "Stellar Blade, czyli slasher studia SHIFT UP, który w bliżej nieokreślonym czasie ma doczekać się kontynuacji, jest teraz dostępny w dobrej cenie w RTV Euro AGD. Pudełkową wersję gry na PlayStation 5 kupicie za 149 zł dzięki promocjom z okazji Black Friday 2026. W produkcji pokierujecie losami Eve, która trafia na zrujnowaną Ziemię, by pomóc ocalałym z Xion i zmierzyć się z tajemniczymi Naytiba. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/02/Preorder-Stellar-Blade-na-konsole-PlayStation-5_miniaturka-224x224.jpg",
+      "articleSlug": "031ade94be3e",
+      "articleBody": "Stellar Blade, czyli slasher studia SHIFT UP, który w bliżej nieokreślonym czasie ma doczekać się kontynuacji, jest teraz dostępny w dobrej cenie w RTV Euro AGD. Pudełkową wersję gry na PlayStation 5 kupicie za 149 zł dzięki promocjom z okazji Black Friday 2026. W produkcji pokierujecie losami Eve, która trafia na zrujnowaną Ziemię, by pomóc ocalałym z Xion i zmierzyć się z tajemniczymi Naytiba. Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Współtwórca Path of Exile ostrzega, że branża gier zmierza w kierunku katastrofy. „Kiedyś granie było lepszym doświadczeniem”",
+      "sourceUrl": "https://cdaction.pl/newsy/wspoltworca-path-of-exile-ostrzega-ze-branza-gier-zmierza-w-kierunku-katastrofy-kiedys-granie-bylo-lepszym-doswiadczeniem/",
+      "publishedAt": "2026-11-27T16:10+01:00",
+      "summary": "Chris Wilson nie owija w bawełnę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Path-of-Exile.jpg",
+      "articleSlug": "6f370d857bec",
+      "articleBody": "Chris Wilson nie owija w bawełnę."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Rekordowo niska cena za Invincible VS w Instant Gaming. Klucz Steam za jedyne 44,74 zł",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/rekordowo-niska-cena-za-invincible-vs-w-instant-gaming-klucz-steam-za-jedyne-4474-zl/",
+      "publishedAt": "2026-11-27T16:04+01:00",
+      "summary": "Świetna oferta na Invincible VS, pojawiła się w ramach Black Friday 2026 w Instant Gaming. Sklep oferuje pecetowe wydanie bijatyki osadzonej w uniwersum znanego z serialu i komiksów, za 44,74 zł. Możecie liczyć na brutalne starcia 3v3 i odegrać najciekawsze pojedynki, łącząc ciosy w serię kombosów. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/invincible-vs-kwadrat-224x224.jpg",
+      "articleSlug": "d507f32043c3",
+      "articleBody": "Świetna oferta na Invincible VS, pojawiła się w ramach Black Friday 2026 w Instant Gaming. Sklep oferuje pecetowe wydanie bijatyki osadzonej w uniwersum znanego z serialu i komiksów, za 44,74 zł. Możecie liczyć na brutalne starcia 3v3 i odegrać najciekawsze pojedynki, łącząc ciosy w serię kombosów. Czytaj więcej »"
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Apple MacBook Air 13,6″ M5 16GB/1TB za 6099 zł na Allegro Black Weeks",
@@ -210,138 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533481743.jpg",
       "articleSlug": "7238d955bf5c",
       "articleBody": "Klinika w Stanach Zjednoczonych musi wypłacić blisko 3,7 miliona złotych zaległych wynagrodzeń. Chodzi o nieuwzględnianie w czasie pracy czynności, takich jak uruchamianie komputerów i aplikacji."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "EXODUS ma wysokie wymagania sprzętowe! Do 4K i 60 FPS potrzebna będzie RTX 5080",
-      "sourceUrl": "https://www.ppe.pl/news/434810/exodus-ma-wysokie-wymagania-sprzetowe-do-4k-i-60-fps-potrzebna-bedzie-rtx-5080.html",
-      "publishedAt": "2026-11-27T14:14+01:00",
-      "summary": "Twórcy EXODUS, kosmicznego RPG określanego jako duchowy następca Mass Effect, ujawnili wymagania sprzętowe wersji PC.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/138185e71287b7639cfc/138185e71287b7639cfc.webp",
-      "articleSlug": "fb579dec98e5",
-      "articleBody": "Twórcy EXODUS, kosmicznego RPG określanego jako duchowy następca Mass Effect, ujawnili wymagania sprzętowe wersji PC."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO Icons Wehikuł czasu z Powrotu do Przyszłości za 629 zł (cena katalogowa 869,99 zł) w Media Expert",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-icons-wehikul-czasu-z-powrotu-do-przyszlosci-za-629-zl-cena-katalogowa-86999-zl-w-media-expert/",
-      "publishedAt": "2026-11-27T14:13+01:00",
-      "summary": "Składający się z 1872 elementów zestaw LEGO Icons Wehikuł czasu z Powrotu do Przyszłości, kupicie taniej w Media Expert. Sklep oferuje klocki, dzięki którym będziecie mogli zbudować jeden z trzech wariantów DeLoreana DMC-12, za 629 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/01/lego-icons-powrot-do-przyszlosci-3b-224x224.jpg",
-      "articleSlug": "14cdb161b29a",
-      "articleBody": "Składający się z 1872 elementów zestaw LEGO Icons Wehikuł czasu z Powrotu do Przyszłości, kupicie taniej w Media Expert. Sklep oferuje klocki, dzięki którym będziecie mogli zbudować jeden z trzech wariantów DeLoreana DMC-12, za 629 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Ponad 100 nowości na Netflix w grudniu: polski serial z Borysem Szycem oraz kontynuacja hitu Quentina Tarantino z Bradem Pittem",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-100-nowosci-na-netflix-w-grudniu-polski-serial-z-borysem-sz/zb324b0",
-      "publishedAt": "2026-11-27T14:00+01:00",
-      "summary": "Co obejrzymy na Netflixie w grudniu? Do biblioteki trafi m.in. Bunt z Borysem Szycem oraz Dalsze perypetie Cliffa Bootha. Przedstawiamy listę premier na nadchodzący miesiąc.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533470618.jpg",
-      "articleSlug": "7e3d210ac200",
-      "articleBody": "Co obejrzymy na Netflixie w grudniu? Do biblioteki trafi m.in. Bunt z Borysem Szycem oraz Dalsze perypetie Cliffa Bootha. Przedstawiamy listę premier na nadchodzący miesiąc."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Warhammer 40,000: Dawn of War 4 ma zaskoczyć podejściem do wyborów gracza. „Będziecie mieć zupełnie różne doświadczenia”",
-      "sourceUrl": "https://cdaction.pl/newsy/warhammer-40000-dawn-of-war-4-ma-zaskoczyc-podejsciem-do-wyborow-gracza-bedziecie-miec-zupelnie-rozne-doswiadczenia/",
-      "publishedAt": "2026-11-27T14:00+01:00",
-      "summary": "Sympatyczna obietnica – pytanie tylko, czy to rzeczywiście spełni nasze oczekiwania.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Dawn-of-War-4.jpg",
-      "articleSlug": "ac03a55cbc10",
-      "articleBody": "Sympatyczna obietnica – pytanie tylko, czy to rzeczywiście spełni nasze oczekiwania."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Głupie garniturki z arkuszami kalkulacyjnymi” - zwolniony twórca nie gryzie się w język. Skasowana gra mogła być wyczekiwaną od 20 lat kontynuacją hitu",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/glupie-garniturki-z-arkuszami-kalkulacyjnymi-zwolniony-tworca-nie/z1324bf",
-      "publishedAt": "2026-11-27T13:59+01:00",
-      "summary": "Studio New Radical Games skasowało niezapowiedziany projekt. Wielu fanów obawia się, że może chodzić o kontynuację gier z Simpsonami, na którą gracze czekają od ponad dwóch dekad.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533480345.jpg",
-      "articleSlug": "1bc6860a1dd0",
-      "articleBody": "Studio New Radical Games skasowało niezapowiedziany projekt. Wielu fanów obawia się, że może chodzić o kontynuację gier z Simpsonami, na którą gracze czekają od ponad dwóch dekad."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Steam rozdaje kolejne gry za darmo! Cztery świetne tytuły zgarniesz za całe 0 zł",
-      "sourceUrl": "https://www.ppe.pl/news/434809/steam-rozdaje-kolejne-gry-za-darmo-cztery-swietne-tytuly-zgarniesz-za-cale-0-zl.html",
-      "publishedAt": "2026-11-27T13:45+01:00",
-      "summary": "Steam wzbogacił się o cztery kolejne darmowe produkcje. Gracze mogą już bez wydawania pieniędzy dodać do swoich bibliotek fantasy RPG, horror z zagadkami, powieść wizualną oraz klimatyczną przygodówkę FPP.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/51475a0a2117bb4ca046/51475a0a2117bb4ca046.webp",
-      "articleSlug": "d3356c378baf",
-      "articleBody": "Steam wzbogacił się o cztery kolejne darmowe produkcje. Gracze mogą już bez wydawania pieniędzy dodać do swoich bibliotek fantasy RPG, horror z zagadkami, powieść wizualną oraz klimatyczną przygodówkę FPP."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Black Friday 2026 w Perfect Blue! Pudełkowe gry na konsole już od 9,99 zł",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/wyprzedaz-black-friday-2026-w-perfect-blue-pudelkowe-gry-na-konsole-juz-od-999-zl/",
-      "publishedAt": "2026-11-27T13:37+01:00",
-      "summary": "Również sklep Perfect Blue dołączył do serii wyprzedaży związanych z Black Friday. Przyjrzeliśmy się ofercie i przygotowaliśmy dla Was krótki wpis z pudełkowymi grami przeznaczonymi na konsole Sony PlayStation, Xbox oraz Nintendo Switch. Ceny są atrakcyjne i rozpoczynają się od 9,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/black-friday-2026-perfect-blue-2b-224x224.jpg",
-      "articleSlug": "22a2c1ce32ff",
-      "articleBody": "Również sklep Perfect Blue dołączył do serii wyprzedaży związanych z Black Friday. Przyjrzeliśmy się ofercie i przygotowaliśmy dla Was krótki wpis z pudełkowymi grami przeznaczonymi na konsole Sony PlayStation, Xbox oraz Nintendo Switch. Ceny są atrakcyjne i rozpoczynają się od 9,99 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocje na dodatki do gry Zombicide na Allegro. Ceny zaczynają się od 39,95 zł",
-      "sourceUrl": "https://lowcygier.pl/gry-planszowe/promocje-na-dodatki-do-gry-zombicide-na-allegro-ceny-zaczynaja-sie-od-3995-zl/",
-      "publishedAt": "2026-11-27T13:33+01:00",
-      "summary": "Podczas tegorocznych Black Weeks na Allegro taniej zakupicie dodatki do gry planszowej Zombicide. Najtańsze z nich kosztują mniej niż 50 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Zombicide-dodatki-promocja-logo-224x224.jpg",
-      "articleSlug": "d2505fe58572",
-      "articleBody": "Podczas tegorocznych Black Weeks na Allegro taniej zakupicie dodatki do gry planszowej Zombicide. Najtańsze z nich kosztują mniej niż 50 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 może działać w 40 FPS na PS5. Wyniki są obiecujące, ale jest haczyk",
-      "sourceUrl": "https://www.ppe.pl/news/434808/gta-6-moze-dzialac-w-40-fps-na-ps5-wyniki-sa-obiecujace-ale-jest-haczyk.html",
-      "publishedAt": "2026-11-27T13:20+01:00",
-      "summary": "GTA 6 może osiągać stabilne 40 klatek na sekundę na podstawowym PlayStation 5. Tak wynika z eksperymentu przeprowadzonego przez użytkownika konsoli z jailbreakiem, który wykorzystał nieoficjalną modyfikację odblokowującą limit FPS. Jest jedna...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg",
-      "articleSlug": "45fc32c90d7f",
-      "articleBody": "GTA 6 może osiągać stabilne 40 klatek na sekundę na podstawowym PlayStation 5. Tak wynika z eksperymentu przeprowadzonego przez użytkownika konsoli z jailbreakiem, który wykorzystał nieoficjalną modyfikację odblokowującą limit FPS. Jest jedna..."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Uwielbiany serial medyczny widzów wraca na HBO Max. Znamy datę premiery 3. sezonu „The Pitt”",
-      "sourceUrl": "https://cdaction.pl/kultura/uwielbiany-serial-medyczny-widzow-wraca-na-hbo-max-znamy-date-premiery-3-sezonu-the-pitt/",
-      "publishedAt": "2026-11-27T13:15+01:00",
-      "summary": "Koniec urlopu na ostrym dyżurze.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/01/The-Pitt.jpg",
-      "articleSlug": "c5d6f72a2f2e",
-      "articleBody": "Koniec urlopu na ostrym dyżurze."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Steam pomógł Denuvo w polowaniu na słynnego hakera. Reddit odmówił ujawnienia danych, a gracze krytykują Valve",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/steam-pomogl-denuvo-w-polowaniu-na-slynnego-hakera-reddit-odmowil/zf324bd",
-      "publishedAt": "2026-11-27T13:11+01:00",
-      "summary": "Valve spotkało się z krytyką graczy, ponieważ firma udostępniła informacje związane z kontami, które spółka Denuvo wskazała jako powiązane ze znanym crackerem voices38.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533477476.jpg",
-      "articleSlug": "918b7325f7a0",
-      "articleBody": "Valve spotkało się z krytyką graczy, ponieważ firma udostępniła informacje związane z kontami, które spółka Denuvo wskazała jako powiązane ze znanym crackerem voices38."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Odbierz Vertical Drop Heroes HD za darmo w Fanatical na Black Friday. Wystarczy być zapisanym do newslettera",
-      "sourceUrl": "https://lowcygier.pl/darmowe/odbierz-vertical-drop-heroes-hd-za-darmo-w-fanatical-na-black-friday-wystarczy-byc-zapisanym-do-newslettera/",
-      "publishedAt": "2026-11-27T13:08+01:00",
-      "summary": "Sklep Fanatical co rusz przygotowuje dla swoich użytkowników rozdawnictwo gier. Jeśli więc jesteście zapisani do newslettera i posiadacie konto we wspomnianym sklepie, możecie teraz zgarnąć Vertical Drop Heroes HD za darmo. To platformówkowy roguelike, który czeka na przypisanie do konta do 29 listopada. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/vertical-drop-heroes-hd-miniaturka-224x224.jpg",
-      "articleSlug": "2e0218a5338a",
-      "articleBody": "Sklep Fanatical co rusz przygotowuje dla swoich użytkowników rozdawnictwo gier. Jeśli więc jesteście zapisani do newslettera i posiadacie konto we wspomnianym sklepie, możecie teraz zgarnąć Vertical Drop Heroes HD za darmo. To platformówkowy roguelike, który czeka na przypisanie do konta do 29 listopada. Czytaj więcej »"
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795780349"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795780349"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "768122c45a6129ec805607a814535d523ab19ad31779a771a4d7be8ae0d1567c"
+  "editorialHash": "8c4e0fab5d066c80665a91c9b7d293164e8a0a9c453a3d6f3145d01ea2922726"
 }
