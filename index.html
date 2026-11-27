@@ -44,6 +44,17 @@
 #lnChatDock .ln-image-link{display:block;width:max-content;max-width:100%;margin:7px 0;text-decoration:none}
 #lnChatDock .ln-image-fallback{display:inline-block;padding:6px 9px;border:1px solid #9876ad;background:#30203f;color:#ffdc55;font:9px monospace}
 #lnChatDock .ln-inline-image{max-width:min(100%,300px);max-height:260px}
+
+/* LIVE CHAT: OKNO PŁYWAJĄCE W STYLU WINAMPA */
+#lnChatDock{resize:both;min-width:280px;min-height:220px;max-width:calc(100vw - 16px);max-height:calc(100vh - 16px);overflow:hidden;transition:height .16s ease,box-shadow .16s ease}
+#lnChatDock .ln-chat-head{cursor:move;touch-action:none;user-select:none;-webkit-user-select:none}
+#lnChatDock .ln-chat-head button{cursor:pointer;touch-action:manipulation}
+#lnChatDock.minimized{width:min(310px,calc(100vw - 16px))!important;height:49px!important;min-height:49px!important;resize:none;box-shadow:0 5px 22px #000c}
+#lnChatDock.minimized .ln-chat-head{cursor:move}
+.ln-chat-launcher{position:fixed;right:18px;bottom:18px;z-index:1002;padding:9px 13px;background:linear-gradient(180deg,#49305f,#21172c);border:2px outset #b99bd0;box-shadow:3px 3px 0 #09050d;color:#ffdc55;font:bold 10px monospace;letter-spacing:.04em;cursor:pointer}
+.ln-chat-launcher:hover{filter:brightness(1.2)}
+.ln-chat-launcher[hidden]{display:none!important}
+@media(max-width:620px){#lnChatDock{resize:none;min-width:0;width:min(370px,calc(100vw - 16px));height:min(520px,calc(100vh - 16px));max-width:calc(100vw - 16px);max-height:calc(100vh - 16px)}#lnChatDock.minimized{width:min(310px,calc(100vw - 16px))!important}.ln-chat-launcher{right:8px;bottom:8px}}
 </style>
 </head><body><div class="site"><header class="masthead"><div class="logo-stage"><img class="logo" src="logo.png" alt="LEVEL NEXT"></div></header><nav class="nav" aria-label="Główna nawigacja">
 <a href="index.html" data-nav="index.html">START</a>
@@ -105,6 +116,7 @@
 <div class="ln-messages" id="lnChatMessages" aria-live="polite"><div class="ln-system">ŁĄCZENIE Z KANAŁEM...</div></div>
 <form class="ln-composer" id="lnChatForm"><div class="ln-composebox"><input id="lnChatInput" maxlength="300" autocomplete="off" placeholder="Napisz wiadomość..." aria-label="Wiadomość"><button class="ln-send" id="lnChatSend" type="submit">WYŚLIJ</button></div><div class="ln-hint" id="lnChatHint">ŁADOWANIE STATUSU LOGOWANIA...</div></form>
 </aside>
+<button type="button" id="lnChatLauncher" class="ln-chat-launcher" hidden>▣ LEVEL NEXT CHAT</button>
 <div class="modalback" id="welcomeModal"><div class="modal"><div class="modalbar">LEVEL NEXT // KOMUNIKAT SYSTEMOWY <span style="float:right">LN-0001</span></div><div class="modalbody"><div class="welcome-y2k"><img src="https://media.thuvien.org/photo/59198/image/8d1b9b2e8fc65f8f889acb83cb35cffc.gif" width="88" height="31" alt="Animowany przycisk retro"></div><h2>Witaj w sieci.</h2><p>Połączenie z LEVEL NEXT zostało nawiązane. Rozejrzyj się po stronie i zostań na dłużej.</p><p class="smallprint">Zalecana rozdzielczość: 1024 × 768 lub wyższa.</p><button class="button" id="closeModal" type="button" onclick="var welcome=document.getElementById('welcomeModal');if(welcome){welcome.remove();}">OK, WCHODZĘ</button></div></div></div>
 <script src="site.js?v=18"></script><script>
 (function(){
@@ -318,8 +330,73 @@ form.addEventListener("submit",async function(e){
 });
 var minButton=document.getElementById("lnChatMin");
 var closeButton=document.getElementById("lnChatClose");
-if(minButton)minButton.addEventListener("click",function(){dock.classList.toggle("minimized");this.textContent=dock.classList.contains("minimized")?"+":"−"});
-if(closeButton)closeButton.addEventListener("click",function(){dock.style.display="none"});
+var launcher=document.getElementById("lnChatLauncher");
+var dragBar=dock.querySelector(".ln-chat-head");
+function snapChatToCorner(){
+ dock.style.left="auto";
+ dock.style.top="auto";
+ dock.style.right="18px";
+ dock.style.bottom="18px";
+}
+function setChatMinimized(value){
+ dock.classList.toggle("minimized",!!value);
+ if(minButton){
+  minButton.textContent=value?"+":"−";
+  minButton.setAttribute("aria-label",value?"Przywróć czat":"Minimalizuj czat");
+ }
+ if(value)snapChatToCorner();
+}
+if(minButton)minButton.addEventListener("click",function(e){
+ e.stopPropagation();
+ setChatMinimized(!dock.classList.contains("minimized"));
+});
+if(closeButton)closeButton.addEventListener("click",function(e){
+ e.stopPropagation();
+ dock.style.display="none";
+ if(launcher)launcher.hidden=false;
+});
+if(launcher)launcher.addEventListener("click",function(){
+ dock.style.display="flex";
+ launcher.hidden=true;
+ setChatMinimized(false);
+});
+if(dragBar){
+ var drag=null;
+ dragBar.addEventListener("pointerdown",function(e){
+  if(e.target.closest("button"))return;
+  if(e.button!==undefined&&e.button!==0)return;
+  var rect=dock.getBoundingClientRect();
+  drag={x:e.clientX,y:e.clientY,left:rect.left,top:rect.top};
+  dock.style.left=rect.left+"px";
+  dock.style.top=rect.top+"px";
+  dock.style.right="auto";
+  dock.style.bottom="auto";
+  try{dragBar.setPointerCapture(e.pointerId)}catch(err){}
+  e.preventDefault();
+ });
+ dragBar.addEventListener("pointermove",function(e){
+  if(!drag)return;
+  var width=dock.offsetWidth,height=dock.offsetHeight;
+  var left=drag.left+(e.clientX-drag.x);
+  var top=drag.top+(e.clientY-drag.y);
+  left=Math.max(0,Math.min(window.innerWidth-width,left));
+  top=Math.max(0,Math.min(window.innerHeight-height,top));
+  dock.style.left=left+"px";
+  dock.style.top=top+"px";
+ });
+ function stopChatDrag(){drag=null}
+ dragBar.addEventListener("pointerup",stopChatDrag);
+ dragBar.addEventListener("pointercancel",stopChatDrag);
+}
+window.addEventListener("resize",function(){
+ if(dock.style.display!=="none"&&dock.style.left){
+  var rect=dock.getBoundingClientRect();
+  var left=Math.max(0,Math.min(window.innerWidth-rect.width,rect.left));
+  var top=Math.max(0,Math.min(window.innerHeight-rect.height,rect.top));
+  dock.style.left=left+"px";
+  dock.style.top=top+"px";
+ }
+});
 account();load();window.setInterval(load,5000);
 document.addEventListener("levelnext:authchange",account);
 })();
