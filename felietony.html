@@ -5,7 +5,7 @@
 <meta name="description" content="Felietony o grach, sprzęcie i graniu. Wpisy LEVEL NEXT.">
 <title>Felietony — LEVEL NEXT</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="site.css?v=20"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="site.css?v=21"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{--ink:#100b17;--night:#08040e;--purple:#6a0dad;--deep:#260044;--yellow:#fff200;--paper:#f1eedf;--muted:#655d69;--line:#c9c0a9;--mono:'IBM Plex Mono',monospace;--sans:'Space Grotesk',sans-serif;--serif:'DM Serif Display',Georgia,serif}
@@ -45,5 +45,5 @@ footer{max-width:1180px;margin:-45px auto 30px;text-align:center;color:#9b89a8;f
 <script>
 (()=>{const root=document.getElementById('articles');const el=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n};const safeUrl=v=>{try{const u=new URL(v);return ['https:','http:'].includes(u.protocol)?u.href:''}catch{return ''}};
 async function load(){try{const r=await fetch('data/manual-news.json?ts='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('Nie udało się pobrać archiwum.');const data=await r.json();const all=[];for(const [date,items] of Object.entries(data)){if(!Array.isArray(items))continue;for(const item of items){if(item.articleSlug&&item.articleBody)all.push({...item,editionDate:date});}}all.sort((a,b)=>(b.publishedAt||b.editionDate||'').localeCompare(a.publishedAt||a.editionDate||''));root.replaceChildren();if(!all.length){root.append(el('div','empty','Nie opublikowano jeszcze żadnych felietonów. Pierwszy tekst czeka na Ciebie w panelu redakcyjnym.'));return;}for(const item of all){const card=el('article','card');const imageUrl=safeUrl(item.imageUrl||'');if(imageUrl){const img=el('img','');img.src=imageUrl;img.alt='';img.loading='lazy';img.onerror=()=>img.remove();card.append(img);}card.append(el('span','tag','FELIETON'));const h=el('h2','');const a=el('a','',item.title||'Bez tytułu');a.href='article.html?id='+encodeURIComponent(item.articleSlug);h.append(a);card.append(h);card.append(el('p','',item.summary||''));const dt=item.publishedAt?new Date(item.publishedAt):new Date(item.editionDate+'T12:00:00');card.append(el('div','meta',(Number.isNaN(dt.getTime())?item.editionDate:dt.toLocaleDateString('pl-PL',{day:'2-digit',month:'long',year:'numeric'}))+' · '+(item.sourceName||'LEVEL NEXT / REDAKCJA')));const read=el('a','read','Czytaj felieton ↗');read.href='article.html?id='+encodeURIComponent(item.articleSlug);card.append(read);root.append(card);}}catch(e){root.replaceChildren(el('div','empty',e.message));}}load();})();
-</script><script src="site.js?v=19"></script>
-<script src="chat.js?v=2"></script></body></html>
+</script><script src="site.js?v=20"></script>
+<script src="chat.js?v=3"></script></body></html>
