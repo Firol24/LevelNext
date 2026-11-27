@@ -4,7 +4,8 @@ if(document.getElementById("lnChatDock"))return;
 var markup="<aside id=\"lnChatDock\" aria-label=\"Czat na żywo LEVEL NEXT\">\n<div class=\"ln-chat-head\"><div class=\"ln-mark\">LN</div><div class=\"ln-headtext\"><div class=\"ln-headtitle\">LEVEL NEXT // LIVE CHAT</div><div class=\"ln-headsub\"><span style=\"color:#75db8b\">●</span> COMMUNITY CHANNEL</div></div><button class=\"ln-headbtn\" id=\"lnChatClose\" type=\"button\" aria-label=\"Ukryj czat\">×</button></div>\n<div class=\"ln-channelbar\"><span><strong>#</strong> level-next</span><span class=\"ln-live\">LIVE / DISCORD</span></div>\n<div class=\"ln-messages\" id=\"lnChatMessages\" aria-live=\"polite\"><div class=\"ln-system\">ŁĄCZENIE Z KANAŁEM...</div></div>\n<form class=\"ln-composer\" id=\"lnChatForm\"><div class=\"ln-composebox\"><input id=\"lnChatInput\" maxlength=\"300\" autocomplete=\"off\" placeholder=\"Napisz wiadomość...\" aria-label=\"Wiadomość\"><button class=\"ln-send\" id=\"lnChatSend\" type=\"submit\">WYŚLIJ</button></div><div class=\"ln-hint\" id=\"lnChatHint\">ŁADOWANIE STATUSU LOGOWANIA...</div></form>\n</aside>\n<button type=\"button\" id=\"lnChatLauncher\" class=\"ln-chat-launcher\" hidden>▣ LEVEL NEXT CHAT</button>";
 var holder=document.createElement("div");holder.innerHTML=markup;
 while(holder.firstChild)document.body.appendChild(holder.firstChild);
-</script><script id="ln-live-chat-script">
+
+
 (function(){
 "use strict";
 var API="https://levelnext-forum-api.filipiakr245.workers.dev";
