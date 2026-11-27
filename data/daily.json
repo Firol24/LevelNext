@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T20:01+01:00",
+  "updatedAt": "2026-11-27T21:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Kosmiczne RPG Exodus pozytywnie zaskakuje graczy PC wymaganiami sprzętowymi. Jego pełne piękno zobaczą jednak nieliczni",
-    "summary": "Poznaliśmy wymagania sprzętowe wyczekiwanego RPG science fiction określanego mianem duchowego następcy serii Mass Effect. Exodus nie potrzebuje bardzo mocnego komputera, o ile nie zależy nam na graniu w 4K.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/kosmiczne-rpg-exodus-pozytywnie-zaskakuje-graczy-pc-wymaganiami-s/z0324cd",
-    "articleSlug": "325cc04f66c7",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533503758.jpg"
+    "title": "Eksperci mówią wprost: GTA 6 z nawiązką przebiło to, co obiecywało przed premierą. Rockstar mydlił oczy tylko w jednej kwestii",
+    "summary": "Specjaliści z Digital Foundry porównali oprawę graficzną GTA 6 z przedpremierowymi materiałami. Ich zdaniem Rockstar Games pod wieloma względami przewyższyło oczekiwania, choć nie obyło się bez pewnych zastrzeżeń.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/eksperci-mowia-wprost-gta-6-z-nawiazka-przebilo-to-co-obiecywalo/z1324ce",
+    "articleSlug": "f16fa41b095e",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533504480.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Eksperci mówią wprost: GTA 6 z nawiązką przebiło to, co obiecywało przed premierą. Rockstar mydlił oczy tylko w jednej kwestii",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/eksperci-mowia-wprost-gta-6-z-nawiazka-przebilo-to-co-obiecywalo/z1324ce",
+      "publishedAt": "2026-11-27T21:13+01:00",
+      "summary": "Specjaliści z Digital Foundry porównali oprawę graficzną GTA 6 z przedpremierowymi materiałami. Ich zdaniem Rockstar Games pod wieloma względami przewyższyło oczekiwania, choć nie obyło się bez pewnych zastrzeżeń.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533504480.jpg",
+      "articleSlug": "f16fa41b095e",
+      "articleBody": "Specjaliści z Digital Foundry porównali oprawę graficzną GTA 6 z przedpremierowymi materiałami. Ich zdaniem Rockstar Games pod wieloma względami przewyższyło oczekiwania, choć nie obyło się bez pewnych zastrzeżeń."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Weekendowe Łowy: BLACK FRIDAY 2026! Okazje, promocje i wyprzedaże sięgające -96%",
+      "sourceUrl": "https://lowcygier.pl/filmy/weekendowe-lowy-black-friday-2026-okazje-promocje-i-wyprzedaze-siegajace-96/",
+      "publishedAt": "2026-11-27T20:59+01:00",
+      "summary": "Łowcy, czas na ostatnie w listopadzie podsumowanie minionego tygodnia z cyklu Weekendowe Łowy. Filmowe zestawienie, pozwalające zobaczyć w pigułce najciekawsze okazje minionego tygodnia, pojawiła się właśnie na platformie YouTube. W naszym materiale zobaczycie najgorętsze promocje, zbliżające się premiery, najciekawsze zestawy z tanimi grami Steam oraz mnóstwo wyprzedaży Black Friday 2026 . Znajdziecie w nim także omówienie wszystkich dostępnych aktualnie darmówek, czyli najbardziej popularny segment naszych poprzednich filmów. Życzymy udanego weekendu! 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Weekendowe-Lowy_-BLACK-FRIDAY-2026-Okazje-promocje-i-wyprzedaze-siegajace-96_minaturka-224x224.jpg",
+      "articleSlug": "93d477e1d106",
+      "articleBody": "Łowcy, czas na ostatnie w listopadzie podsumowanie minionego tygodnia z cyklu Weekendowe Łowy. Filmowe zestawienie, pozwalające zobaczyć w pigułce najciekawsze okazje minionego tygodnia, pojawiła się właśnie na platformie YouTube. W naszym materiale zobaczycie najgorętsze promocje, zbliżające się premiery, najciekawsze zestawy z tanimi grami Steam oraz mnóstwo wyprzedaży Black Friday 2026 . Znajdziecie w nim także omówienie wszystkich dostępnych aktualnie darmówek, czyli najbardziej popularny segment naszych poprzednich filmów. Życzymy udanego weekendu! 🙂 Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Apple TV z nowym filmem na weekend! Widzowie zachwyceni, ale krytycy nie mają litości",
+      "sourceUrl": "https://www.ppe.pl/news/434833/apple-tv-z-nowym-filmem-na-weekend-widzowie-zachwyceni-ale-krytycy-nie-maja-litosci.html",
+      "publishedAt": "2026-11-27T20:45+01:00",
+      "summary": "Szukacie ciekawego filmu na weekend? Na Apple TV pojawiła się nowość, która może zainteresować widzów lubiących inspirujące historie, rodzinne emocje i odrobinę humoru. W głównej roli występuje Chris Pratt, a sama produkcja opowiada o niet...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/90390426a2e069790dc0/90390426a2e069790dc0.jpg",
+      "articleSlug": "cc0b1c4ec4f9",
+      "articleBody": "Szukacie ciekawego filmu na weekend? Na Apple TV pojawiła się nowość, która może zainteresować widzów lubiących inspirujące historie, rodzinne emocje i odrobinę humoru. W głównej roli występuje Chris Pratt, a sama produkcja opowiada o niet..."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Kosmiczne RPG Exodus pozytywnie zaskakuje graczy PC wymaganiami sprzętowymi. Jego pełne piękno zobaczą jednak nieliczni",
@@ -23,6 +56,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533503758.jpg",
       "articleSlug": "325cc04f66c7",
       "articleBody": "Poznaliśmy wymagania sprzętowe wyczekiwanego RPG science fiction określanego mianem duchowego następcy serii Mass Effect. Exodus nie potrzebuje bardzo mocnego komputera, o ile nie zależy nam na graniu w 4K."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nowa odsłona A Very Humble Holiday. Zestaw 5 kluczy Steam już za 19 zł w Humble Bundle!",
+      "sourceUrl": "https://lowcygier.pl/bundle/nowa-odslona-a-very-humble-holiday-zestaw-5-kluczy-steam-juz-za-19-zl-w-humble-bundle/",
+      "publishedAt": "2026-11-27T20:05+01:00",
+      "summary": "W cyfrowym sklepie Humble Bundle wystartowała nowa edycja wydarzenia A Very Humble Holiday 2026. Przez najbliższe dwa tygodnie, w ramach cyklu Humble Holiday Encore, w sprzedaży pojawiać się będą kolejne zestawy z grami, które mogły się pochwalić największą popularnością w ciągu minionego roku. Na pierwszy ogień idzie paczka Humble Arc System Works Evo Collection Bundle, w skład której wchodzi aż 10 tytułów na Steam. Całość oferowana jest w trzech progach cenowych, a najdroższy z nich został wyceniony na 76,99 zł, co daje nam świetny przelicznik ok. 7,70 zł za jeden tytuł na PC! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nowa-odslona-A-Very-Humble-Holiday.-Zestaw-5-kluczy-Steam-juz-za-19-zl-w-Humble-Bundle_miniaturka-224x224.jpg",
+      "articleSlug": "c1db1cbe27f7",
+      "articleBody": "W cyfrowym sklepie Humble Bundle wystartowała nowa edycja wydarzenia A Very Humble Holiday 2026. Przez najbliższe dwa tygodnie, w ramach cyklu Humble Holiday Encore, w sprzedaży pojawiać się będą kolejne zestawy z grami, które mogły się pochwalić największą popularnością w ciągu minionego roku. Na pierwszy ogień idzie paczka Humble Arc System Works Evo Collection Bundle, w skład której wchodzi aż 10 tytułów na Steam. Całość oferowana jest w trzech progach cenowych, a najdroższy z nich został wyceniony na 76,99 zł, co daje nam świetny przelicznik ok. 7,70 zł za jeden tytuł na PC! Czytaj więcej »"
     },
     {
       "sourceName": "GRY-Online",
@@ -298,50 +342,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Path-of-Exile.jpg",
       "articleSlug": "6f370d857bec",
       "articleBody": "Chris Wilson nie owija w bawełnę."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Rekordowo niska cena za Invincible VS w Instant Gaming. Klucz Steam za jedyne 44,74 zł",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/rekordowo-niska-cena-za-invincible-vs-w-instant-gaming-klucz-steam-za-jedyne-4474-zl/",
-      "publishedAt": "2026-11-27T16:04+01:00",
-      "summary": "Świetna oferta na Invincible VS, pojawiła się w ramach Black Friday 2026 w Instant Gaming. Sklep oferuje pecetowe wydanie bijatyki osadzonej w uniwersum znanego z serialu i komiksów, za 44,74 zł. Możecie liczyć na brutalne starcia 3v3 i odegrać najciekawsze pojedynki, łącząc ciosy w serię kombosów. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/invincible-vs-kwadrat-224x224.jpg",
-      "articleSlug": "d507f32043c3",
-      "articleBody": "Świetna oferta na Invincible VS, pojawiła się w ramach Black Friday 2026 w Instant Gaming. Sklep oferuje pecetowe wydanie bijatyki osadzonej w uniwersum znanego z serialu i komiksów, za 44,74 zł. Możecie liczyć na brutalne starcia 3v3 i odegrać najciekawsze pojedynki, łącząc ciosy w serię kombosów. Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Apple MacBook Air 13,6″ M5 16GB/1TB za 6099 zł na Allegro Black Weeks",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/apple-macbook-air-136-m5-16gb-1tb-za-6099-zl-na-allegro-black-weeks/",
-      "publishedAt": "2026-11-27T15:53+01:00",
-      "summary": "Pracujący w oparciu o czip Apple M5 MacBook Air, możliwy jest do kupienia taniej poprzez serwis Allegro. Model z matrycą o przekątnej 13,6 cala, wyposażony w 16GB oraz potężny dysk o pojemności 1TB, kosztuje 6099 złotych. Oferta dotyczy wariantu w kolorze srebrnym. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/macbook-air-apple-m5-srebrny-silver-2b-224x224.jpg",
-      "articleSlug": "a4c541a077bd",
-      "articleBody": "Pracujący w oparciu o czip Apple M5 MacBook Air, możliwy jest do kupienia taniej poprzez serwis Allegro. Model z matrycą o przekątnej 13,6 cala, wyposażony w 16GB oraz potężny dysk o pojemności 1TB, kosztuje 6099 złotych. Oferta dotyczy wariantu w kolorze srebrnym. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "BioWare odrzuciło stworzenie KOTOR 2. Powód zaskakuje",
-      "sourceUrl": "https://www.ppe.pl/news/434814/bioware-odrzucilo-stworzenie-kotor-2-powod-zaskakuje.html",
-      "publishedAt": "2026-11-27T15:44+01:00",
-      "summary": "Star Wars: Knights of the Old Republic 2 - The Sith Lords mogło powstać w zupełnie innym studiu. BioWare, odpowiedzialne za pierwszą część kultowego RPG, otrzymało propozycję przygotowania kontynuacji, ale odmówiło. Powód?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/279953e039a234e0f25d/279953e039a234e0f25d.jpg",
-      "articleSlug": "b41db00b284c",
-      "articleBody": "Star Wars: Knights of the Old Republic 2 - The Sith Lords mogło powstać w zupełnie innym studiu. BioWare, odpowiedzialne za pierwszą część kultowego RPG, otrzymało propozycję przygotowania kontynuacji, ale odmówiło. Powód?"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Odbierz Dead Age II za darmo w GOG! Nowa darmówka z okazji Black Friday",
-      "sourceUrl": "https://lowcygier.pl/darmowe/odbierz-dead-age-ii-za-darmo-w-gog-nowa-darmowka-z-okazji-black-friday/",
-      "publishedAt": "2026-11-27T15:34+01:00",
-      "summary": "Sklep GOG.com przygotował dla Was Dead Age II za darmo w ramach Black Friday i trwającej wyprzedaży. To mieszanka gatunkowa, łącząca w sobie cechy roguelike, survivalu i turowego RPG, w którym traficie do postapokaliptycznego świata opanowanego przez zombie. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/dead-age-2-miniaturka-224x224.jpg",
-      "articleSlug": "c9b725695448",
-      "articleBody": "Sklep GOG.com przygotował dla Was Dead Age II za darmo w ramach Black Friday i trwającej wyprzedaży. To mieszanka gatunkowa, łącząca w sobie cechy roguelike, survivalu i turowego RPG, w którym traficie do postapokaliptycznego świata opanowanego przez zombie. Czytaj więcej »"
     }
   ],
   "indie": [
