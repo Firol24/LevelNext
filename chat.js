@@ -204,15 +204,24 @@ form.addEventListener("submit",async function(e){
  catch(err){hint.textContent=err.message}
  finally{send.disabled=!user}
 });
+var chatVisibilityKey="levelNextChatVisible";
+var chatVisible=true;
+try{if(localStorage.getItem(chatVisibilityKey)==="0")chatVisible=false}catch(e){}
+dock.style.display=chatVisible?"flex":"none";
+if(launcher)launcher.hidden=chatVisible;
+function setChatVisible(visible){
+ chatVisible=visible;
+ dock.style.display=visible?"flex":"none";
+ if(launcher)launcher.hidden=visible;
+ try{localStorage.setItem(chatVisibilityKey,visible?"1":"0")}catch(e){}
+}
 if(closeButton)closeButton.addEventListener("click",function(e){
+ e.preventDefault();
  e.stopPropagation();
- dock.style.display="none";
- if(launcher)launcher.hidden=false;
+ setChatVisible(false);
 });
 if(launcher)launcher.addEventListener("click",function(){
- dock.style.display="flex";
- launcher.hidden=true;
-
+ setChatVisible(true);
 });
 if(dragBar){
  var drag=null;
