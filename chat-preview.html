@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#100b17">
+<title>LEVEL NEXT // LIVE CHAT PREVIEW</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=VT323&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#100b17;--panel:#21172c;--panel2:#2a1d38;--purple:#a77be0;--purple2:#49305f;--yellow:#ffdc55;--text:#eee8f7;--muted:#bcaecb;--line:#76588d}
+*{box-sizing:border-box}html{min-height:100%;background:var(--bg)}body{margin:0;min-height:100vh;padding:18px;color:var(--text);font:12px/1.5 Verdana,Arial,sans-serif;background:radial-gradient(ellipse at 50% 0%,#2b1b3a 0,#100b17 58%)}
+a{color:var(--yellow)}button,input{font:inherit}.demo-wrap{max-width:1080px;margin:0 auto}.top{border:3px ridge var(--line);background:var(--panel);padding:15px;text-align:center}.logo{font:54px/1 'VT323',monospace;letter-spacing:4px;color:var(--yellow);text-shadow:3px 3px #56366f}.sub{font:10px 'IBM Plex Mono',monospace;color:var(--muted);letter-spacing:2px;margin-top:7px}.nav{display:flex;justify-content:center;gap:5px;flex-wrap:wrap;padding:8px;background:#39264c;border:2px ridge #9474a9;border-top:0}.nav span{padding:6px 12px;background:#2b1d39;border:2px outset #9474a9;color:#fff0bd;font-weight:bold}.nav .active{background:var(--yellow);color:#24152f;border-style:inset}.hero{margin-top:12px;padding:20px;border:2px groove var(--line);background:linear-gradient(120deg,#2a1d38,#1c1426)}.tag{font:10px 'IBM Plex Mono';color:var(--yellow)}h1{font:32px Georgia,serif;color:var(--yellow);margin:8px 0}.hero p{max-width:650px;color:#ded2e8;font-size:13px}.fake-panels{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:10px}.fake{background:var(--panel);border:2px groove var(--line);min-height:120px}.fake h3{margin:0;padding:7px 9px;background:var(--purple2);color:var(--yellow);font-size:11px}.fake p{padding:0 10px;color:var(--muted)}
+/* docked chat preview */
+.chat-dock{position:fixed;right:22px;bottom:18px;width:min(390px,calc(100vw - 28px));height:min(570px,calc(100vh - 36px));z-index:20;background:#171020;border:3px ridge #9876ad;box-shadow:0 12px 45px #000b;display:flex;flex-direction:column;transition:height .2s ease}
+.chat-dock.minimized{height:49px}.chat-head{display:flex;align-items:center;gap:9px;padding:8px 10px;background:linear-gradient(90deg,#49305f,#30203f);border-bottom:2px ridge #9876ad;min-height:46px}.mark{width:27px;height:27px;display:grid;place-items:center;background:#21172c;border:1px solid #b99bd0;color:var(--yellow);font:20px 'VT323';flex:none}.headtext{min-width:0;flex:1}.headtitle{font:bold 11px 'IBM Plex Mono';color:#fff0bd;letter-spacing:.6px}.headsub{font:9px 'IBM Plex Mono';color:#d2c0df}.online{width:7px;height:7px;border-radius:50%;background:#75db8b;display:inline-block;margin-right:4px;box-shadow:0 0 7px #75db8b}.headbtn{width:25px;height:25px;border:1px outset #a98cbb;background:#30203f;color:#fff;font-weight:bold;cursor:pointer}.channelbar{display:flex;justify-content:space-between;align-items:center;padding:7px 10px;background:#21172c;border-bottom:1px solid #5e4772;color:#e9dff0;font:10px 'IBM Plex Mono'}.channelbar strong{color:var(--yellow)}.demo-label{font-size:8px;color:#ffdc55;border:1px solid #9876ad;padding:2px 5px}.messages{padding:12px 10px;overflow:auto;flex:1;background:linear-gradient(#171020,#1d1428);scrollbar-color:#76588d #171020}.day{font:9px 'IBM Plex Mono';color:#9e8aaa;text-align:center;margin:2px 0 13px}.msg{display:grid;grid-template-columns:30px 1fr;gap:8px;margin:0 0 14px}.avatar{width:29px;height:29px;display:grid;place-items:center;border:1px solid #8b6aa2;background:#3c2b50;color:#fff0bd;font:bold 12px 'IBM Plex Mono'}.avatar.gold{background:#59451f;border-color:#a88b49}.avatar.blue{background:#244450;border-color:#528091}.msgmeta{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}.name{font:bold 11px 'IBM Plex Mono';color:#f0dfff}.name.admin{color:#ffdc55}.time{font:9px 'IBM Plex Mono';color:#95859f}.msgtext{font:11px/1.55 Verdana,Arial;color:#e7deed;overflow-wrap:anywhere}.mention{color:#e4bdff;background:#49305f;padding:1px 3px}.system{margin:9px 0 14px;padding:7px;border:1px dashed #604a73;color:#ae9bbc;text-align:center;font:9px 'IBM Plex Mono'}.composer{padding:9px;background:#21172c;border-top:2px ridge #76588d}.composebox{display:flex;gap:6px}.composebox input{min-width:0;flex:1;padding:10px 9px;background:#100b17;border:1px inset #76588d;color:#fff;font:11px Verdana;outline:none}.composebox input:focus{border-color:var(--yellow)}.send{padding:0 12px;background:#49305f;border:2px outset #a98cbb;color:var(--yellow);font:bold 10px 'IBM Plex Mono';cursor:pointer}.send:hover,.headbtn:hover{background:#604078}.composehint{font:8px 'IBM Plex Mono';color:#93839e;margin-top:6px}.closed-note{display:none;padding:18px;text-align:center;color:var(--muted)}.minimized .channelbar,.minimized .messages,.minimized .composer{display:none}.minimized .chat-head{border:0}.minimized .headsub{display:none}
+@media(max-width:620px){body{padding:8px}.logo{font-size:42px}.fake-panels{grid-template-columns:1fr}.chat-dock{right:8px;bottom:8px;width:min(370px,calc(100vw - 16px));height:min(520px,calc(100vh - 16px))}.chat-dock.minimized{height:47px}.hero{padding:14px}h1{font-size:25px}}
+</style>
+</head>
+<body>
+<div class="demo-wrap">
+  <header class="top"><div class="logo">LEVEL NEXT</div><div class="sub">INTERNET • GAMES • COMMUNITY // EST. 2024</div></header>
+  <nav class="nav"><span class="active">START</span><span>O NAS</span><span>ODKRYWAJ</span><span>RETRO ZONE</span><span>SPRZĘT</span><span>DAILY</span><span>FORUM</span></nav>
+  <section class="hero"><div class="tag">COMMUNITY SYSTEM // PREVIEW BUILD 0.1</div><h1>MOJA STRONA. MOJE ZASADY.</h1><p>Gry, stare komputery, konsole i ludzie, którzy nadal lubią internet z charakterem. Po prawej stronie podgląd nowego, dokowanego czatu LEVEL NEXT.</p><div class="tag">↓ CHAT WINDOW IS DOCKED TO THE PAGE</div></section>
+  <div class="fake-panels"><section class="fake"><h3>LEVEL NEXT COMMUNITY</h3><p>Własny kąt w sieci. Bez korporacyjnego zadęcia.</p></section><section class="fake"><h3>WHAT'S GOING ON?</h3><p>Wbij na czat, przywitaj się i zgarnij ekipę do wspólnego grania.</p></section></div>
+</div>
+<aside class="chat-dock" id="chatDock" aria-label="Podgląd czatu LEVEL NEXT">
+  <div class="chat-head">
+    <div class="mark">LN</div>
+    <div class="headtext"><div class="headtitle">LEVEL NEXT // LIVE CHAT</div><div class="headsub"><span class="online"></span>COMMUNITY CHANNEL</div></div>
+    <button class="headbtn" id="minBtn" aria-label="Zwiń czat" title="Zwiń">−</button>
+    <button class="headbtn" id="closeBtn" aria-label="Ukryj czat" title="Ukryj">×</button>
+  </div>
+  <div class="channelbar"><span><strong>#</strong> level-next</span><span class="demo-label">MOCKUP / DEMO</span></div>
+  <div class="messages" id="messages">
+    <div class="day">— DZISIAJ —</div>
+    <article class="msg"><div class="avatar gold">F</div><div><div class="msgmeta"><span class="name admin">firol</span><span class="time">16:32</span></div><div class="msgtext">Siema ekipa, testujemy nowy czat na stronie 👾</div></div></article>
+    <article class="msg"><div class="avatar blue">X</div><div><div class="msgmeta"><span class="name">xmatek</span><span class="time">16:34</span></div><div class="msgtext">O kurde, wygląda jak stary komunikator. Jest klimat.</div></div></article>
+    <article class="msg"><div class="avatar">R</div><div><div class="msgmeta"><span class="name">retrofan</span><span class="time">16:36</span></div><div class="msgtext">Ktoś odpala dzisiaj coś na PS2?</div></div></article>
+    <div class="system">firol przypiął temat: WSPÓLNE GRANIE / ORGANIZACJA</div>
+    <article class="msg"><div class="avatar gold">F</div><div><div class="msgmeta"><span class="name admin">firol</span><span class="time">16:39</span></div><div class="msgtext">Jak będzie więcej osób, robimy wieczór retro. <span class="mention">@everyone</span></div></div></article>
+  </div>
+  <form class="composer" id="chatForm">
+    <div class="composebox"><input id="chatInput" maxlength="300" autocomplete="off" placeholder="Napisz wiadomość..." aria-label="Wiadomość"><button class="send" type="submit">WYŚLIJ</button></div>
+    <div class="composehint">ENTER = WYŚLIJ • PODGLĄD LOKALNY, BEZ POŁĄCZENIA Z DISCORDEM</div>
+  </form>
+</aside>
+<script>
+const dock=document.getElementById('chatDock');
+document.getElementById('minBtn').addEventListener('click',()=>{dock.classList.toggle('minimized');document.getElementById('minBtn').textContent=dock.classList.contains('minimized')?'+':'−';});
+document.getElementById('closeBtn').addEventListener('click',()=>{dock.style.display='none';});
+document.getElementById('chatForm').addEventListener('submit',e=>{e.preventDefault();const input=document.getElementById('chatInput');const value=input.value.trim();if(!value)return;const article=document.createElement('article');article.className='msg';const avatar=document.createElement('div');avatar.className='avatar gold';avatar.textContent='Y';const body=document.createElement('div');const meta=document.createElement('div');meta.className='msgmeta';const name=document.createElement('span');name.className='name admin';name.textContent='Ty (podgląd)';const time=document.createElement('span');time.className='time';time.textContent=new Date().toLocaleTimeString('pl-PL',{hour:'2-digit',minute:'2-digit'});meta.append(name,time);const message=document.createElement('div');message.className='msgtext';message.textContent=value;body.append(meta,message);article.append(avatar,body);document.getElementById('messages').append(article);input.value='';document.getElementById('messages').scrollTop=document.getElementById('messages').scrollHeight;});
+</script>
+</body>
+</html>
