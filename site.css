@@ -362,3 +362,12 @@ h1,h2,h3{line-height:1.25}
 .guestbook-sidebar .guestbook-refresh{margin:0;padding:2px 6px;font-size:9px}
 .guestbook-sidebar [hidden]{display:none!important}
 @media(max-width:620px){.guestbook-sidebar .guestbook-current-user{grid-template-columns:26px minmax(0,1fr) auto}.guestbook-sidebar .guestbook-entry-head{display:flex}}
+
+
+/* LICZNIK ODWIEDZIN: ALL TIME / TODAY / ONLINE NOW */
+.visitor-counter{display:grid;grid-template-columns:1fr;gap:5px;margin:8px 0}
+.visitor-counter-item{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:5px 7px;background:#100b17;border:1px inset #76588d}
+.visitor-counter-item>span{color:#bcaecb;font:bold 9px "Courier New",monospace;letter-spacing:.08em}
+.visitor-counter-item>strong{min-width:6ch;color:#ffdf69;text-align:right;font:bold 17px "Courier New",monospace;letter-spacing:.06em;font-variant-numeric:tabular-nums}
+.visitor-counter-item:last-child>strong{color:#9fe28a}
+.visitor-counter-status{display:block;min-height:13px;margin:6px 0 0;text-align:center;font:8px/1.4 "Courier New",monospace;letter-spacing:.03em}
