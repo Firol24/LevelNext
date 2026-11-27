@@ -1,18 +1,150 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T11:01+01:00",
+  "updatedAt": "2026-11-27T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ludzkość może stracić kontrolę nad tym, co sama stworzy. Człowiek Marka Zuckerberga ostrzega przed technologią, którą sam pomaga rozwijać",
-    "summary": "Szef AI w Mecie uważa, że doszło do punktu zwrotnego w rozwoju sztucznej inteligencji. Modele AI będą wkrótce same się doskonalić i mamy ostatni moment, żeby nie oddać kontroli nad światem maszynom.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/ludzkosc-moze-stracic-kontrole-nad-tym-co-sama-stworzy-czlowiek-m/z0324af",
-    "articleSlug": "a7d68b26750a",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533469891.jpg"
+    "title": "„GTA 6 codziennie zaskakuje mnie czymś nowym”. Gracz znalazł wrak na poboczu i zrobił z niego cacko",
+    "summary": "GTA 6 po raz kolejny zaskakuje możliwościami. Jeden z graczy znalazł na poboczu zniszczony samochód, zabrał go do warsztatu i przywrócił mu dawny blask.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-codziennie-zaskakuje-mnie-czyms-nowym-gracz-znalazl-wrak-na/z1324b6",
+    "articleSlug": "37dddf02dc77",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533473471.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "„GTA 6 codziennie zaskakuje mnie czymś nowym”. Gracz znalazł wrak na poboczu i zrobił z niego cacko",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-codziennie-zaskakuje-mnie-czyms-nowym-gracz-znalazl-wrak-na/z1324b6",
+      "publishedAt": "2026-11-27T12:15+01:00",
+      "summary": "GTA 6 po raz kolejny zaskakuje możliwościami. Jeden z graczy znalazł na poboczu zniszczony samochód, zabrał go do warsztatu i przywrócił mu dawny blask.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533473471.jpg",
+      "articleSlug": "37dddf02dc77",
+      "articleBody": "GTA 6 po raz kolejny zaskakuje możliwościami. Jeden z graczy znalazł na poboczu zniszczony samochód, zabrał go do warsztatu i przywrócił mu dawny blask."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ponad 23 000 Polaków nadal chce studiować informatykę, mimo kryzysu na rynku IT i rozwoju AI. Internauci spierają się, czy to jeszcze ma sens",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-23-000-polakow-nadal-chce-studiowac-informatyke-mimo-kryzys/z2324b7",
+      "publishedAt": "2026-11-27T12:10+01:00",
+      "summary": "W tegorocznej rekrutacji na stacjonarną informatykę złożono ponad 23 tysiące zgłoszeń. Dla części internautów to niezrozumiałe, dlaczego tak wielu maturzystów wybiera kierunek, po którym start na rynku pracy utrudnia dziś AI.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533473689.jpg",
+      "articleSlug": "eb09ac4da919",
+      "articleBody": "W tegorocznej rekrutacji na stacjonarną informatykę złożono ponad 23 tysiące zgłoszeń. Dla części internautów to niezrozumiałe, dlaczego tak wielu maturzystów wybiera kierunek, po którym start na rynku pracy utrudnia dziś AI."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Forza Motorsport na Xbox Series X za 49 zł (150 zł taniej) w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-forza-motorsport-na-xbox-series-x-za-49-zl-150-zl-taniej-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-27T12:00+01:00",
+      "summary": "Symulator jazdy samochodem opracowany przez Turn 10 Studios, czyli Forza Motorsport, dostępne jest taniej w RTV Euro AGD. Pudełkowe wydanie przeznaczone na konsolę Xbox Series X, może być wasze za 49 zł, dzięki promocji na Black Friday 2026. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/04/Forza_Motorsport_Xbox_Series_X_miniatura-224x224.jpg",
+      "articleSlug": "f54cd81031b2",
+      "articleBody": "Symulator jazdy samochodem opracowany przez Turn 10 Studios, czyli Forza Motorsport, dostępne jest taniej w RTV Euro AGD. Pudełkowe wydanie przeznaczone na konsolę Xbox Series X, może być wasze za 49 zł, dzięki promocji na Black Friday 2026. Czytaj więcej »"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Projekty nie muszą używać AI” - zapewnia Ubisoft, a w środku wrze. Pracownicy mówią o zwolnieniach i wciskaniu narzędzi gdzie się da",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/projekty-nie-musza-uzywac-ai-zapewnia-ubisoft-a-w-srodku-wrze-pra/zf324b4",
+      "publishedAt": "2026-11-27T11:50+01:00",
+      "summary": "Ubisoft podjął próbę sprostowania wczorajszych doniesień o naciskach na deweloperów w kwestii wykorzystywania generatywnej sztucznej inteligencji, ale firmie nie za bardzo się to udało.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533472616.jpg",
+      "articleSlug": "f0e1fcf3dac8",
+      "articleBody": "Ubisoft podjął próbę sprostowania wczorajszych doniesień o naciskach na deweloperów w kwestii wykorzystywania generatywnej sztucznej inteligencji, ale firmie nie za bardzo się to udało."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pazerność EA nie zna granic? To przeciwieństwo Xboxa",
+      "sourceUrl": "https://www.ppe.pl/news/434799/pazernosc-ea-nie-zna-granic-to-przeciwienstwo-xboxa.html",
+      "publishedAt": "2026-11-27T11:46+01:00",
+      "summary": "W branży gier mało co potrafi wkurzyć tak mocno, jak zwykła korporacyjna pazerność w stylu „sam nie zjem, ale drugiemu też nie dam”. Electronic Arts od lat jest w tym absolutnym mistrzem i właśnie pokazuje to w najbardziej bolesny sposób p...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/59114181972dfdbc2a56/59114181972dfdbc2a56.jpg",
+      "articleSlug": "d17697ce0cc3",
+      "articleBody": "W branży gier mało co potrafi wkurzyć tak mocno, jak zwykła korporacyjna pazerność w stylu „sam nie zjem, ale drugiemu też nie dam”. Electronic Arts od lat jest w tym absolutnym mistrzem i właśnie pokazuje to w najbardziej bolesny sposób p..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Forza Motorsport za 49 zł, Silent Hill Townfall za 99 zł. Nowe oferty na Black Friday + darmowa dostawa",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434805/forza-motorsport-za-49-zl-silent-hill-townfall-za-99-zl-nowe-oferty-na-black-friday-darmowa-dostawa.html",
+      "publishedAt": "2026-11-27T11:41+01:00",
+      "summary": "Sklep RTV Euro AGD odpalił drugą turę przecen na gry, dzięki czemu sporo hitów dorwiemy w rekordowych cenach.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/dc311edf8f1d67f0ff54/dc311edf8f1d67f0ff54.jpg",
+      "articleSlug": "5b45349e625e",
+      "articleBody": "Sklep RTV Euro AGD odpalił drugą turę przecen na gry, dzięki czemu sporo hitów dorwiemy w rekordowych cenach."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Celebracja GTA 6 na PC wymknęła się spod kontroli. Pomysłowi gracze zawstydzają Rockstar Games",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/celebracja-gta-6-na-pc-wymknela-sie-spod-kontroli-pomyslowi-gracz/zd324b2",
+      "publishedAt": "2026-11-27T11:41+01:00",
+      "summary": "Moderzy nie zrażają się pozornym anulowaniem pecetowego portu Grand Theft Auto 6 i już testują tryb wieloosobowy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533472009.jpg",
+      "articleSlug": "f64f3a456c38",
+      "articleBody": "Moderzy nie zrażają się pozornym anulowaniem pecetowego portu Grand Theft Auto 6 i już testują tryb wieloosobowy."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wypalanie OLED to nie jedyny problem. Znana redakcja pokazuje kolejną wadę tych TV i monitorów",
+      "sourceUrl": "https://www.ppe.pl/news/434804/wypalanie-paneli-oled-to-nie-jedyny-problem-znana-redakcja-pokazuje-kolejna-wade-tv-i-monitorow.html",
+      "publishedAt": "2026-11-27T11:31+01:00",
+      "summary": "Wiele się mówi od lat o wypalaniu matryc OLED-owych, a to nie jedyny problem tej technologii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/2523650485dfa8cf97b7/2523650485dfa8cf97b7.png",
+      "articleSlug": "270e5461c5a6",
+      "articleBody": "Wiele się mówi od lat o wypalaniu matryc OLED-owych, a to nie jedyny problem tej technologii."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "World of Tanks - rozmawiamy ze Stevem Buscemim, gwiazdą Armagedonu i Wściekłych Psów",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434681/world-of-tanks-rozmawiamy-ze-stevem-buscemim-gwiazda-armagedonu-i-wscieklych-psow.html",
+      "publishedAt": "2026-11-27T11:30+01:00",
+      "summary": "W tegorocznych Operacjach świątecznych World of Tanks do grona gwiazd wcielających się w rolę specjalnych dowódców dołączył kolejny aktor - Steve Buscemi - znany z takich produkcji jak \"Armageddon\" czy \"Wściekłe Psy\". Tym razem gracze będą...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8d1e1839f541e1c431f4/8d1e1839f541e1c431f4.png",
+      "articleSlug": "406869d522f2",
+      "articleBody": "W tegorocznych Operacjach świątecznych World of Tanks do grona gwiazd wcielających się w rolę specjalnych dowódców dołączył kolejny aktor - Steve Buscemi - znany z takich produkcji jak \"Armageddon\" czy \"Wściekłe Psy\". Tym razem gracze będą..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "DOOM The Dark Ages Premium Edition PC, Xbox Series za 111,93 zł w Instant Gaming. Tak tanio jeszcze nie było",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/doom-the-dark-ages-premium-edition-pc-xbox-series-za-11193-zl-w-instant-gaming-tak-tanio-jeszcze-nie-bylo/",
+      "publishedAt": "2026-11-27T11:25+01:00",
+      "summary": "Zawierające dostęp do fabularnego DLC oraz dodatków cyfrowych DOOM: The Dark Ages – Premium Edition, kupiicie teraz w rekordowo niskiej cenie w Instant Gaming. Sklep oferuje wydanie przeznaczone na PC oraz konsole Xbox Series za 111,93 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/05/doom-the-dark-ages-miniaturka-cyfra-1-224x224.jpg",
+      "articleSlug": "0b75678416e6",
+      "articleBody": "Zawierające dostęp do fabularnego DLC oraz dodatków cyfrowych DOOM: The Dark Ages – Premium Edition, kupiicie teraz w rekordowo niskiej cenie w Instant Gaming. Sklep oferuje wydanie przeznaczone na PC oraz konsole Xbox Series za 111,93 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Black Friday już wystartował! Zobacz najlepsze promocje na gry [NEWS AKTUALIZOWANY]",
+      "sourceUrl": "https://cdaction.pl/newsy/black-friday-juz-wystartowal-zobacz-najlepsze-promocje-na-gry-news-aktualizowany/",
+      "publishedAt": "2026-11-27T11:24+01:00",
+      "summary": "Po co kupić drożej, jak można kupić taniej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/pexels-jeshoots-com-147458-442576-1260x840.jpg",
+      "articleSlug": "e6c6de9ebd7c",
+      "articleBody": "Po co kupić drożej, jak można kupić taniej."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy GTA 6 bali się sytuacji z The Last of Us 2: \"jakimś cudem udało się tego uniknąć\"",
+      "sourceUrl": "https://www.ppe.pl/news/434798/tworcy-gta-6-bali-sie-sytuacji-z-the-last-of-us-2-jakims-cudem-udalo-sie-tego-uniknac.html",
+      "publishedAt": "2026-11-27T11:22+01:00",
+      "summary": "Każdy gracz pewnie do dziś pamięta, jaki dramat spotkał kiedyś The Last of Us Part II, gdy wielki wyciek tuż przed premierą zepsuł ludziom najważniejszy zwrot akcji na samym początku historii. W Rockstar Games najwidoczniej doskonale odrobili ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/b6af1930638159dec3f8/b6af1930638159dec3f8.webp",
+      "articleSlug": "ef1c5081eb1c",
+      "articleBody": "Każdy gracz pewnie do dziś pamięta, jaki dramat spotkał kiedyś The Last of Us Part II, gdy wielki wyciek tuż przed premierą zepsuł ludziom najważniejszy zwrot akcji na samym początku historii. W Rockstar Games najwidoczniej doskonale odrobili ..."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Ludzkość może stracić kontrolę nad tym, co sama stworzy. Człowiek Marka Zuckerberga ostrzega przed technologią, którą sam pomaga rozwijać",
@@ -45,6 +177,17 @@
       "imageUrl": "https://pliki.ppe.pl/storage/a31750acfcda7588da6f/a31750acfcda7588da6f.png",
       "articleSlug": "2f7490e8d156",
       "articleBody": "Wargaming ujawnił szczegóły Operacji świątecznych 2027 w grach z serii World of Tanks."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Gwiazdor „Wściekłych psów” w World of Tanks. Poznaliśmy szczegóły Operacji świątecznych 2027",
+      "sourceUrl": "https://cdaction.pl/newsy/gwiazdor-wscieklych-psow-w-world-of-tanks-poznalismy-szczegoly-operacji-swiatecznych-2027/",
+      "publishedAt": "2026-11-27T11:00+01:00",
+      "summary": "Wargaming właśnie ogłosił kolejnego ambasadora Operacji świątecznych.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Key_Art_Hops_2027-1260x709.png",
+      "articleSlug": "96e7fcee1c79",
+      "articleBody": "Wargaming właśnie ogłosił kolejnego ambasadora Operacji świątecznych."
     },
     {
       "sourceName": "PPE",
@@ -199,149 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/07/the-outer-worlds-2-miniaturka-224x224.jpg",
       "articleSlug": "8db69b0dffd6",
       "articleBody": "The Outer Worlds 2, czyli druga odsłona pierwszoosobowego kosmicznego RPG studia Obsidian Entertainment, jest teraz dostępna taniej w sklepie RTV Euro AGD. Cena za pudełko z grą w wersji na konsole Sony PlayStation 5 to 69,99 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ubisoft strzela sobie w kolano. Nowa zasada firmy brzmi tragicznie",
-      "sourceUrl": "https://www.ppe.pl/news/434789/ubisoft-strzela-sobie-w-kolano-nowa-zasada-firmy-brzmi-tragicznie.html",
-      "publishedAt": "2026-11-27T09:49+01:00",
-      "summary": "W Ubisofcie znów zrobiło się gorąco, a wszystko przez doniesienia o nowej, dość chorej zasadzie, jaka ma teraz obowiązywać wewnątrz firmy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/a5ddd8978b10d3c67727/a5ddd8978b10d3c67727.jpg",
-      "articleSlug": "cd2c688950b4",
-      "articleBody": "W Ubisofcie znów zrobiło się gorąco, a wszystko przez doniesienia o nowej, dość chorej zasadzie, jaka ma teraz obowiązywać wewnątrz firmy."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Czas zejść na ziemię. Nieoficjalny port GTA 6 na PC jest wciąż niegrywalny",
-      "sourceUrl": "https://www.ppe.pl/news/434796/czas-zejsc-na-ziemie-nieoficjalny-port-gta-6-na-pc-jest-wciaz-niegrywalny.html",
-      "publishedAt": "2026-11-27T09:49+01:00",
-      "summary": "W sieci zaroiło się od doniesień na temat tego, że modderzy osiągnęli już w nieoficjalnym porcie GTA 6 na PC ponad 30 fps. Teoretycznie tak się stało, ale tylko w najprostszych scenach gry.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/89a2d82c374df7390bcc/89a2d82c374df7390bcc.png",
-      "articleSlug": "8b28fe14f4a8",
-      "articleBody": "W sieci zaroiło się od doniesień na temat tego, że modderzy osiągnęli już w nieoficjalnym porcie GTA 6 na PC ponad 30 fps. Teoretycznie tak się stało, ale tylko w najprostszych scenach gry."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "LEGO ICONS Rezydencja burmistrzyni za 319 zł (cena katalogowa 469,99 zł) na Allegro",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-icons-rezydencja-burmistrzyni-za-319-zl-cena-katalogowa-46999-zl-na-allegro/",
-      "publishedAt": "2026-11-27T09:42+01:00",
-      "summary": "Liczący 1420 elementów zestaw LEGO Icons Rezydencja burmistrzyni, pojawił się w dobrej cenie w serwisie Allegro. Klocki, które pozwolą Wam na zbudowanie mrocznej posiadłości (w sam raz na nadchodzące Halloween!), wyceniono na 319 zł. W zestawie otrzymacie również trzy unikatowe minifigurki. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/08/lego-icons-rezydencja-burmistrzyni-1b-224x224.jpg",
-      "articleSlug": "5d250c03a162",
-      "articleBody": "Liczący 1420 elementów zestaw LEGO Icons Rezydencja burmistrzyni, pojawił się w dobrej cenie w serwisie Allegro. Klocki, które pozwolą Wam na zbudowanie mrocznej posiadłości (w sam raz na nadchodzące Halloween!), wyceniono na 319 zł. W zestawie otrzymacie również trzy unikatowe minifigurki. Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Black Friday 2026 z GIGABYTE. Sięgnij po gamingowy laptop w świetnej cenie",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/black-friday-2026-z-gigabyte-siegnij-po-gamingowy-laptop-w-swietnej-cenie/",
-      "publishedAt": "2026-11-27T09:40+01:00",
-      "summary": "Black Friday to jeden z najlepszych momentów na to, by odświeżyć swoje stanowisko gracza. W tegorocznej ofercie promocyjnej GIGABYTE czekają na Was propozycje dopasowane do różnych potrzeb i portfeli – od przystępnego laptopa na start, przez wydajną maszynę z mocnym procesorem i kartą graficzną, aż po monitor, dzięki któremu każdy obraz stanie się jeszcze bardziej wyrazisty. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Black-Friday-2026-z-GIGABYTE.-Siegnij-po-gamingowy-laptop-w-swietnej-cenie_miniaturka-224x224.jpg",
-      "articleSlug": "199f56b4831d",
-      "articleBody": "Black Friday to jeden z najlepszych momentów na to, by odświeżyć swoje stanowisko gracza. W tegorocznej ofercie promocyjnej GIGABYTE czekają na Was propozycje dopasowane do różnych potrzeb i portfeli – od przystępnego laptopa na start, przez wydajną maszynę z mocnym procesorem i kartą graficzną, aż po monitor, dzięki któremu każdy obraz stanie się jeszcze bardziej wyrazisty. Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "2. sezon „Ahsoki” nie zakończy MandoVerse. Wielki crossover z Thrawnem nadal w planach",
-      "sourceUrl": "https://cdaction.pl/kultura/2-sezon-ahsoki-nie-zakonczy-mandoverse-wielki-crossover-z-thrawnem-nadal-w-planach/",
-      "publishedAt": "2026-11-27T09:30+01:00",
-      "summary": "Horror w odległej galaktyce?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Star-Wars-Thrawn.jpg",
-      "articleSlug": "477db72490c7",
-      "articleBody": "Horror w odległej galaktyce?"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nowe Fable ośmieszy gigantów RPG? Ten szczegół rozwala głowę",
-      "sourceUrl": "https://www.ppe.pl/news/434788/nowe-fable-osmieszy-gigantow-rpg-ten-szczegol-rozwala-glowe.html",
-      "publishedAt": "2026-11-27T09:24+01:00",
-      "summary": "Kiedy gracze zaczynają licytować się na najbardziej rozgadane i potężne gry RPG, w rozmowie niemal od razu padają dwa tytuły: Wiedźmin 3 oraz Baldur's Gate 3.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/cfd8f9a543b0b89a8b46/cfd8f9a543b0b89a8b46.png",
-      "articleSlug": "16118a6a42ae",
-      "articleBody": "Kiedy gracze zaczynają licytować się na najbardziej rozgadane i potężne gry RPG, w rozmowie niemal od razu padają dwa tytuły: Wiedźmin 3 oraz Baldur's Gate 3."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Edycja kolekcjonerska Fire Emblem Fortune’s Weave na NS2 dostępna za 499 zł w Empiku",
-      "sourceUrl": "https://lowcygier.pl/edycje-kolekcjonerskie/edycja-kolekcjonerska-fire-emblem-fortunes-weave-na-ns2-dostepna-za-499-zl-w-empiku/",
-      "publishedAt": "2026-11-27T09:18+01:00",
-      "summary": "Premiera gry Fire Emblem: Fortune’s Weave miała miejsce 17 września 2026 roku, a kolekcjonerka Dagdan Collection powróciła do sprzedaży w sklepie internetowym Empik.com. Ekskluzywna dla konsoli Nintendo Switch 2 gra z gatunku strategii i taktycznych RPG turowych, kosztuje aktualnie 499 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/Fire-Emblem-Fortune-Weave-Kolekcjonerka-logo-224x224.jpg",
-      "articleSlug": "f00df23dc115",
-      "articleBody": "Premiera gry Fire Emblem: Fortune’s Weave miała miejsce 17 września 2026 roku, a kolekcjonerka Dagdan Collection powróciła do sprzedaży w sklepie internetowym Empik.com. Ekskluzywna dla konsoli Nintendo Switch 2 gra z gatunku strategii i taktycznych RPG turowych, kosztuje aktualnie 499 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Ładowarka Ugreen Nexode Air z 65W, 3-portami, QC, PD, AFC, PPS czy GaNInfinity za 69 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/428207/ladowarka-ugreen-nexode-air-z-65w-3-portami-qc-pd-afc-pps-czy-ganinfinity-za-74-zl.html",
-      "publishedAt": "2026-11-27T09:10+01:00",
-      "summary": "W polskim oddziale sklepu Amazon nabędziemy taniej o równe 30% względem standardowej ceny ładowarkę firmy Ugreen.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/560613a5a7f168b3241d/560613a5a7f168b3241d.jpg",
-      "articleSlug": "69dd41f2bfa2",
-      "articleBody": "W polskim oddziale sklepu Amazon nabędziemy taniej o równe 30% względem standardowej ceny ładowarkę firmy Ugreen."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Słuchawki bezprzewodowe Apple AirPods Pro 3 z ANC za 786 zł w Amazon DE",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/sluchawki-bezprzewodowe-apple-airpods-pro-3-z-anc-za-786-zl-w-amazon-de/",
-      "publishedAt": "2026-11-27T09:09+01:00",
-      "summary": "W ofercie niemieckiego oddziału sklepu Amazon znajdziecie Apple AirPods Pro 3 w dobrej cenie. Prawdziwie bezprzewodowy model słuchawek z funkcją aktywnej redukcji szumów, możliwością pomiaru tętna oraz czasem pracy do 10 godzin na jednym ładowaniu, kosztuje około 786 złotych. Etui ładujące jest wyposażone w złącze USB-C. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/11/AirPods-Pro-3-ANC_miniaturka-224x224.jpg",
-      "articleSlug": "c12cc934bbeb",
-      "articleBody": "W ofercie niemieckiego oddziału sklepu Amazon znajdziecie Apple AirPods Pro 3 w dobrej cenie. Prawdziwie bezprzewodowy model słuchawek z funkcją aktywnej redukcji szumów, możliwością pomiaru tętna oraz czasem pracy do 10 godzin na jednym ładowaniu, kosztuje około 786 złotych. Etui ładujące jest wyposażone w złącze USB-C. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Bardzo tani lokalizator Silver Monkey TAG do Androidów i iPhone'ów - za 22 zł zamiast 69 zł",
-      "sourceUrl": "https://www.ppe.pl/promocje/tech/technologie-1/376817/bardzo-tani-lokalizator-silver-monkey-tag-do-androidow-samsunga-oppo-motorola-huawei-i-wiecej.html",
-      "publishedAt": "2026-11-27T09:08+01:00",
-      "summary": "W ramach Black Friday w sklepie internetowym X-Kom nabędziemy po bardzo dobrej cenie lokalizator firmy Silver Monkey.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/947731283308459db445/947731283308459db445.png",
-      "articleSlug": "3d8192595681",
-      "articleBody": "W ramach Black Friday w sklepie internetowym X-Kom nabędziemy po bardzo dobrej cenie lokalizator firmy Silver Monkey."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gracze nie mogą wyjść z podziwu tej mechaniki w GTA 6. Wrogowie zmieniają mapę gry na naszych oczach",
-      "sourceUrl": "https://www.ppe.pl/news/434787/gracze-nie-moga-wyjsc-z-podziwu-tej-mechaniki-w-gta-6-wrogowie-zmieniaja-mape-gry-na-naszych-oczach.html",
-      "publishedAt": "2026-11-27T08:56+01:00",
-      "summary": "Odkąd Grand Theft Auto 6 trafiło w ręce graczy, internet pęka w szwach od kolejnych odkryć, które potrafią zaimponować nawet osobom wcześniej kręcącym nosem na tę serię.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/62c9715055931e72935a/62c9715055931e72935a.jpg",
-      "articleSlug": "f50a967376d2",
-      "articleBody": "Odkąd Grand Theft Auto 6 trafiło w ręce graczy, internet pęka w szwach od kolejnych odkryć, które potrafią zaimponować nawet osobom wcześniej kręcącym nosem na tę serię."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Marvel’s Wolverine na PS5 za 159,89 zł w Empiku",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-marvels-wolverine-na-ps5-za-15989-zl-w-empiku/",
-      "publishedAt": "2026-11-27T08:49+01:00",
-      "summary": "Ekskluzywna dla konsoli Sony PlayStation 5 przygodówka akcji na licencji, czyli Marvel’s Wolverine, pojawiła się w rewelacyjnej cenie w sklepie internetowym Empik.com. Pudełko z grą studia Insomniac Games, kosztuje 159,89 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/Cena-Marvels-Wolverine-na-PS5-spadla-ponizej-289-zl.-Preorder-dostepny-w-Perfect-Blue_miniaturka-224x224.jpg",
-      "articleSlug": "3f3293ef0bf4",
-      "articleBody": "Ekskluzywna dla konsoli Sony PlayStation 5 przygodówka akcji na licencji, czyli Marvel’s Wolverine, pojawiła się w rewelacyjnej cenie w sklepie internetowym Empik.com. Pudełko z grą studia Insomniac Games, kosztuje 159,89 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Piękne wydanie Fire Emblem: Fortune's Weave za 499 zł zamiast 745 zł zł na NS2. W nim 4 fizyczne dodatki",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/427627/piekne-wydanie-fire-emblem-fortunes-weave-za-558-zl-na-nintendo-switch-2-w-nim-4-fizyczne-dodatki.html",
-      "publishedAt": "2026-11-27T08:48+01:00",
-      "summary": "W sklepie Empik taniej nabędziemy nową grę ekskluzywną na platformę Nintendo Switch 2.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/3b7df2a0e5aed89cbbe8/3b7df2a0e5aed89cbbe8.jpg",
-      "articleSlug": "dab0d456a9e5",
-      "articleBody": "W sklepie Empik taniej nabędziemy nową grę ekskluzywną na platformę Nintendo Switch 2."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795725483"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795725483"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "cb476933c322ce1880cda846d51fcd1cfe44cf5b4d18f5e2ee2a054ca1d44f0e"
+  "editorialHash": "d0000b785bb99bd63bbca54ef4b508e3a2293bf2b0e12f88bcea621c4da879d5"
 }
