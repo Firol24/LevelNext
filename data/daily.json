@@ -1,18 +1,95 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T08:01+01:00",
+  "updatedAt": "2026-11-27T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "GTA 6 na Xbox One to „niezwykłe osiągnięcie”. Eksperci zachwyceni możliwościami starej konsoli",
-    "summary": "GTA 6 na konsoli z 2013 roku? Jeszcze niedawno taki scenariusz wydawał się niemożliwy, ale Microsoft znalazł sposób, by udostępnić najnowszą produkcję Rockstar Games również posiadaczom Xbox One.",
-    "sourceUrl": "https://www.ppe.pl/news/434719/gta-6-na-xbox-one-to-niezwykle-osiagniecie-eksperci-zachwyceni-mozliwosciami-starej-konsoli.html",
-    "articleSlug": "9da06b2af7e5",
-    "imageUrl": "https://pliki.ppe.pl/storage/f6f5d5597f6a63856697/f6f5d5597f6a63856697.png"
+    "title": "Gracze nie mogą wyjść z podziwu tej mechaniki w GTA 6. Wrogowie zmieniają mapę gry na naszych oczach",
+    "summary": "Odkąd Grand Theft Auto 6 trafiło w ręce graczy, internet pęka w szwach od kolejnych odkryć, które potrafią zaimponować nawet osobom wcześniej kręcącym nosem na tę serię.",
+    "sourceUrl": "https://www.ppe.pl/news/434787/gracze-nie-moga-wyjsc-z-podziwu-tej-mechaniki-w-gta-6-wrogowie-zmieniaja-mape-gry-na-naszych-oczach.html",
+    "articleSlug": "f50a967376d2",
+    "imageUrl": "https://pliki.ppe.pl/storage/62c9715055931e72935a/62c9715055931e72935a.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Gracze nie mogą wyjść z podziwu tej mechaniki w GTA 6. Wrogowie zmieniają mapę gry na naszych oczach",
+      "sourceUrl": "https://www.ppe.pl/news/434787/gracze-nie-moga-wyjsc-z-podziwu-tej-mechaniki-w-gta-6-wrogowie-zmieniaja-mape-gry-na-naszych-oczach.html",
+      "publishedAt": "2026-11-27T08:56+01:00",
+      "summary": "Odkąd Grand Theft Auto 6 trafiło w ręce graczy, internet pęka w szwach od kolejnych odkryć, które potrafią zaimponować nawet osobom wcześniej kręcącym nosem na tę serię.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/62c9715055931e72935a/62c9715055931e72935a.jpg",
+      "articleSlug": "f50a967376d2",
+      "articleBody": "Odkąd Grand Theft Auto 6 trafiło w ręce graczy, internet pęka w szwach od kolejnych odkryć, które potrafią zaimponować nawet osobom wcześniej kręcącym nosem na tę serię."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Marvel’s Wolverine na PS5 za 159,89 zł w Empiku",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-marvels-wolverine-na-ps5-za-15989-zl-w-empiku/",
+      "publishedAt": "2026-11-27T08:49+01:00",
+      "summary": "Ekskluzywna dla konsoli Sony PlayStation 5 przygodówka akcji na licencji, czyli Marvel’s Wolverine, pojawiła się w rewelacyjnej cenie w sklepie internetowym Empik.com. Pudełko z grą studia Insomniac Games, kosztuje 159,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/06/Cena-Marvels-Wolverine-na-PS5-spadla-ponizej-289-zl.-Preorder-dostepny-w-Perfect-Blue_miniaturka-224x224.jpg",
+      "articleSlug": "3f3293ef0bf4",
+      "articleBody": "Ekskluzywna dla konsoli Sony PlayStation 5 przygodówka akcji na licencji, czyli Marvel’s Wolverine, pojawiła się w rewelacyjnej cenie w sklepie internetowym Empik.com. Pudełko z grą studia Insomniac Games, kosztuje 159,89 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Piękne wydanie Fire Emblem: Fortune's Weave za 499 zł zamiast 745 zł zł na NS2. W nim 4 fizyczne dodatki",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/427627/piekne-wydanie-fire-emblem-fortunes-weave-za-558-zl-na-nintendo-switch-2-w-nim-4-fizyczne-dodatki.html",
+      "publishedAt": "2026-11-27T08:48+01:00",
+      "summary": "W sklepie Empik taniej nabędziemy nową grę ekskluzywną na platformę Nintendo Switch 2.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/3b7df2a0e5aed89cbbe8/3b7df2a0e5aed89cbbe8.jpg",
+      "articleSlug": "dab0d456a9e5",
+      "articleBody": "W sklepie Empik taniej nabędziemy nową grę ekskluzywną na platformę Nintendo Switch 2."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Hideo Kojima odwiedził CD Projekt Red. Twórca Death Stranding pochwalił się zdjęciami z Warszawy",
+      "sourceUrl": "https://cdaction.pl/newsy/hideo-kojima-odwiedzil-cd-projekt-red-tworca-death-stranding-pochwalil-sie-zdjeciami-z-warszawy/",
+      "publishedAt": "2026-11-27T08:46+01:00",
+      "summary": "W Death Stranding 3 główny bohater będzie niósł butelkę wódki i nawet jej nie stłucze.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/kojima.jpg",
+      "articleSlug": "450d181b2cdc",
+      "articleBody": "W Death Stranding 3 główny bohater będzie niósł butelkę wódki i nawet jej nie stłucze."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Dwa miesiące po premierze Marvel's Wolverine na PS5 taniej o 50%!",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434790/dwa-miesiace-po-premierze-marvel-s-wolverine-na-ps5-taniej-o-50.html",
+      "publishedAt": "2026-11-27T08:46+01:00",
+      "summary": "W sklepie Empik w ramach Black Friday nabędziemy taniej grę Marvel's Wolverine.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/012303b5f48a5714a8fd/012303b5f48a5714a8fd.webp",
+      "articleSlug": "53faa46ead98",
+      "articleBody": "W sklepie Empik w ramach Black Friday nabędziemy taniej grę Marvel's Wolverine."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Najbardziej oczekiwana gra EA na The Game Awards? Możemy się doczekać wielkiej prezentacji",
+      "sourceUrl": "https://www.ppe.pl/news/434744/najbardziej-oczekiwana-gra-ea-na-the-game-awards-mozemy-sie-doczekac-wielkiej-prezentacji.html",
+      "publishedAt": "2026-11-27T08:45+01:00",
+      "summary": "Electronic Arts od kilku lat pracuje nad grą, która może spełnić marzenia fanów Marvela. O Marvel’s Iron Man słyszeliśmy już wielokrotnie, ale wciąż czekamy na pierwszą pełnoprawną prezentację produkcji. Czy w końcu nadszedł odpowiedn...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/96f474e0e9bc09859d78/96f474e0e9bc09859d78.webp",
+      "articleSlug": "531f5b59e898",
+      "articleBody": "Electronic Arts od kilku lat pracuje nad grą, która może spełnić marzenia fanów Marvela. O Marvel’s Iron Man słyszeliśmy już wielokrotnie, ale wciąż czekamy na pierwszą pełnoprawną prezentację produkcji. Czy w końcu nadszedł odpowiedn..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 po nowej aktualizacji nie rozwiązało tego błędu. Rockstar Games ma problem",
+      "sourceUrl": "https://www.ppe.pl/news/434786/gta-6-po-nowej-aktualizacji-nie-rozwiazalo-tego-bledu-rockstar-games-ma-problem.html",
+      "publishedAt": "2026-11-27T08:29+01:00",
+      "summary": "Kiedy kilka dni temu pojawiła się pierwsza duża aktualizacja do Grand Theft Auto 6, wielu graczy odetchnęło z ulgą.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/578f51bab4d904de9688/578f51bab4d904de9688.avif",
+      "articleSlug": "10ef85106bae",
+      "articleBody": "Kiedy kilka dni temu pojawiła się pierwsza duża aktualizacja do Grand Theft Auto 6, wielu graczy odetchnęło z ulgą."
+    },
     {
       "sourceName": "PPE",
       "title": "GTA 6 na Xbox One to „niezwykłe osiągnięcie”. Eksperci zachwyceni możliwościami starej konsoli",
@@ -265,83 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533406475.jpg",
       "articleSlug": "93c6e360e78c",
       "articleBody": "Remaster Wiedźmina 3 otrzymał nową aktualizację poprawiającą błędy i ulepszającą tryb fotograficzny. W życiu wiedźmina „potwory nie biorą wolnego”."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Poprowadź własny „Sklepik z Marzeniami” dzięki Epic Games. Znamy tytuł nowej gry PC za darmo!",
-      "sourceUrl": "https://lowcygier.pl/darmowe/poprowadz-wlasny-sklepik-z-marzeniami-dzieki-epic-games-znamy-tytul-nowej-gry-pc-za-darmo/",
-      "publishedAt": "2026-11-26T17:29+01:00",
-      "summary": "Na specjalnej stronie sklepu Epic Games pojawiła się oficjalna zapowiedź pierwszej w grudniu edycji rozdawnictwa. W następny czwartek do swoich bibliotek będziecie mogli dodać grę Strange Antiquities za darmo. Dzieło studia Bad Viking, czyli twórców wysoko ocenianej gry Strange Horticulture, pozwoli Wam poczuć się przez chwilę jak bohater powieści Stephena Kinga pod tytułem „Sklepik z Marzeniami” . Produkcja mogąca się pochwalić prawie 3500 recenzji, z czego aż 94% to opinie pozytywne, dostępna będzie zupełnie bezpłatnie od 3 do 10 grudnia 2026 roku. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Poprowadz-wlasny-_Sklepik-z-Marzeniami_-dzieki-Epic-Games.-Znamy-tytul-nowej-gry-PC-za-darmo_miniaturka-224x224.jpg",
-      "articleSlug": "d34e0bfbf740",
-      "articleBody": "Na specjalnej stronie sklepu Epic Games pojawiła się oficjalna zapowiedź pierwszej w grudniu edycji rozdawnictwa. W następny czwartek do swoich bibliotek będziecie mogli dodać grę Strange Antiquities za darmo. Dzieło studia Bad Viking, czyli twórców wysoko ocenianej gry Strange Horticulture, pozwoli Wam poczuć się przez chwilę jak bohater powieści Stephena Kinga pod tytułem „Sklepik z Marzeniami” . Produkcja mogąca się pochwalić prawie 3500 recenzji, z czego aż 94% to opinie pozytywne, dostępna będzie zupełnie bezpłatnie od 3 do 10 grudnia 2026 roku. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Jazda po otwartym świecie GTA 6 jest tak realistyczna, bo Rockstar zatrudnił prawdziwego eksperta, by znaleźć złoty środek",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/jazda-po-otwartym-swiecie-gta-6-jest-tak-realistyczna-bo-rockstar/za324a0",
-      "publishedAt": "2026-11-26T17:13+01:00",
-      "summary": "Okazuje się, że Rockstar Games przy tworzeniu modelu jazdy w GTA 6 skorzystało z doświadczenia zawodnika, który rywalizował z najlepszymi kierowcami wirtualnego motorsportu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533405503.jpg",
-      "articleSlug": "5b254fe44e6d",
-      "articleBody": "Okazuje się, że Rockstar Games przy tworzeniu modelu jazdy w GTA 6 skorzystało z doświadczenia zawodnika, który rywalizował z najlepszymi kierowcami wirtualnego motorsportu."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Dwa pingwiny i lina, czyli zabawa dla dwojga. Odbierz Bread and Fred za darmo w Epic Games!",
-      "sourceUrl": "https://lowcygier.pl/darmowe/dwa-pingwiny-i-lina-czyli-zabawa-dla-dwojga-odbierz-bread-and-fred-za-darmo-w-epic-games/",
-      "publishedAt": "2026-11-26T17:03+01:00",
-      "summary": "Łowcy, w ramach ostatniej w tym miesiącu odsłony rozdawnictwa sponsorowanego przez Epic Games, do swoich kont możecie dodać grę Bread & Fred za darmo. Produkcja studia SandCastles to ciekawa wariacja na temat trybu kooperacji. Tytuł mogący się pochwalić prawie 4200 recenzji, z czego aż 78% to oceny pozytywne, dostępny będzie zupełnie bezpłatnie do 3 grudnia 2026 roku. Bez żadnych dodatkowych kosztów odbierzecie także specjalny pakiet o wartości $100 do darmowej gry Firestone Online Idle RPG . Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Urocza-gra-kooperacyjna-za-darmo-od-Epic-Games.-Poznalismy-tytul-kolejnej-darmowki_miniaturka-224x224.jpg",
-      "articleSlug": "efc507aedaf0",
-      "articleBody": "Łowcy, w ramach ostatniej w tym miesiącu odsłony rozdawnictwa sponsorowanego przez Epic Games, do swoich kont możecie dodać grę Bread & Fred za darmo. Produkcja studia SandCastles to ciekawa wariacja na temat trybu kooperacji. Tytuł mogący się pochwalić prawie 4200 recenzji, z czego aż 78% to oceny pozytywne, dostępny będzie zupełnie bezpłatnie do 3 grudnia 2026 roku. Bez żadnych dodatkowych kosztów odbierzecie także specjalny pakiet o wartości $100 do darmowej gry Firestone Online Idle RPG . Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Z pozoru sympatyczna gra kooperacyjna za darmo w Epic Games Storze. To wymagająca przygoda z oryginalnymi mechanikami",
-      "sourceUrl": "https://cdaction.pl/newsy/z-pozoru-sympatyczna-gra-kooperacyjna-za-darmo-w-epic-games-storze-to-wymagajaca-przygoda-z-oryginalnymi-mechanikami/",
-      "publishedAt": "2026-11-26T17:00+01:00",
-      "summary": "Jak to ujął jeden z graczy: to najbardziej uroczy sposób na zniszczenie przyjaźni.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/epic-games-store-4506.jpg",
-      "articleSlug": "aa87e5f3ec43",
-      "articleBody": "Jak to ujął jeden z graczy: to najbardziej uroczy sposób na zniszczenie przyjaźni."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Developerzy Ubisoftu, którzy nie chcą korzystać z AI, podobno muszą się z tego szczegółowo tłumaczyć. Niepokojące doniesienia anonimowych pracowników",
-      "sourceUrl": "https://cdaction.pl/newsy/developerzy-ubisoftu-ktorzy-nie-chca-korzystac-z-ai-podobno-musza-sie-z-tego-szczegolowo-tlumaczyc-niepokojace-doniesienia-anonimowych-pracownikow/",
-      "publishedAt": "2026-11-26T16:30+01:00",
-      "summary": "Ubisoft trzyma się swojej wizji na przyszłość gamedevu.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/05/ubisoft-1260x945.webp",
-      "articleSlug": "9397205627dd",
-      "articleBody": "Ubisoft trzyma się swojej wizji na przyszłość gamedevu."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "David Fincher wykorzystał AI przy nowym filmie o Cliffie Boothu. Teraz tłumaczy się przed fanami",
-      "sourceUrl": "https://cdaction.pl/kultura/david-fincher-wykorzystal-ai-przy-nowym-filmie-o-cliffie-boothu-teraz-tlumaczy-sie-przed-fanami/",
-      "publishedAt": "2026-11-26T15:51+01:00",
-      "summary": "Perfekcjonista z Hollywood uległ modzie na AI?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Dalsze-perypetie-Cliffa-Bootha.jpg",
-      "articleSlug": "c0af087e0f52",
-      "articleBody": "Perfekcjonista z Hollywood uległ modzie na AI?"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Kanibale i wegetarianie w jednym plemieniu? Nowa wielka strategia od Paradoxu zapowiada się na niezłą jazdę",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/kanibale-i-wegetarianie-w-jednym-plemieniu-nowa-wielka-strategia/z63249d",
-      "publishedAt": "2026-11-26T15:51+01:00",
-      "summary": "Studio Paradox ujawniło informacje na temat mechanik zarządzania plemieniem w postapokaliptycznej wielkiej strategii Afterworld.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533400655.jpg",
-      "articleSlug": "6059ca6bab24",
-      "articleBody": "Studio Paradox ujawniło informacje na temat mechanik zarządzania plemieniem w postapokaliptycznej wielkiej strategii Afterworld."
     }
   ],
   "indie": [
