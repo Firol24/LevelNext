@@ -1,18 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T21:38+01:00",
+  "updatedAt": "2026-11-27T22:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Czy Black Friday ma dziś sens, czy stał się \"marketingową papką\"?",
-    "summary": "Jeszcze kilka lat temu Black Friday miał w sobie coś z małego święta łowców okazji. Człowiek potrafił przez tydzień odkładać zakup, sprawdzać ceny, ustawiać przypomnienia i czekać, aż w piątek faktycznie wydarzy się coś konkretnego. B...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/434278/czy-black-friday-ma-dzis-sens-czy-stal-sie-marketingowa-papka.html",
-    "articleSlug": "c77dcdc8f130",
-    "imageUrl": "https://pliki.ppe.pl/storage/a488f05176cf441a27d3/a488f05176cf441a27d3-jpg-1600w.jpg"
+    "title": "Where Winds Meet - analiza techniczna implementacji DLSS 5. Jak wypada i co zmienia?",
+    "summary": "Implementacja DLSS 5 w Where Winds Meet całkowicie zmienia cieniowanie architektury, kamieni, gzymsów czy posadzek. Dostajemy naturalny wygląd tkanin, skóry i włosów oraz tonację oświetlenia. Nowy Neural Rendering przetwarza obraz przygotowany p...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/434838/where-winds-meet-analiza-techniczna-implementacji-dlss-5-jak-wypada-i-co-zmienia.html",
+    "articleSlug": "2d6eb99751d9",
+    "imageUrl": "https://pliki.ppe.pl/storage/c48aab96e42318b281cf/c48aab96e42318b281cf.webp"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Where Winds Meet - analiza techniczna implementacji DLSS 5. Jak wypada i co zmienia?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434838/where-winds-meet-analiza-techniczna-implementacji-dlss-5-jak-wypada-i-co-zmienia.html",
+      "publishedAt": "2026-11-27T22:00+01:00",
+      "summary": "Implementacja DLSS 5 w Where Winds Meet całkowicie zmienia cieniowanie architektury, kamieni, gzymsów czy posadzek. Dostajemy naturalny wygląd tkanin, skóry i włosów oraz tonację oświetlenia. Nowy Neural Rendering przetwarza obraz przygotowany p...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c48aab96e42318b281cf/c48aab96e42318b281cf.webp",
+      "articleSlug": "2d6eb99751d9",
+      "articleBody": "Implementacja DLSS 5 w Where Winds Meet całkowicie zmienia cieniowanie architektury, kamieni, gzymsów czy posadzek. Dostajemy naturalny wygląd tkanin, skóry i włosów oraz tonację oświetlenia. Nowy Neural Rendering przetwarza obraz przygotowany p..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe gry na konsolę PlayStation 5 tanio w Amazon DE. Ghost of Yotei już za 115 zł!",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-gry-na-konsole-playstation-5-tanio-w-amazon-de-ghost-of-yotei-juz-za-115-zl/",
+      "publishedAt": "2026-11-27T21:53+01:00",
+      "summary": "Z okazji Black Friday 2026, w niemieckim oddziale sklepu Amazon, pojawiło się kilka świetny ofert na tanie gry pudełkowe na konsolę PlayStation 5. Jeśli posiadacie model PS5 z napędem optycznym oraz niestraszne są Wam oznaczenia wiekowe USK na okładce, to fizyczna edycja Ghost of Yotei może być Wasza za nieco ponad 115 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Pudelkowe-gry-na-konsole-PlayStation-5-tanio-w-Amazond-DE.-Ghost-of-Yotei-juz-za-115-zl_miniaturka-224x224.jpg",
+      "articleSlug": "b4ae175b90eb",
+      "articleBody": "Z okazji Black Friday 2026, w niemieckim oddziale sklepu Amazon, pojawiło się kilka świetny ofert na tanie gry pudełkowe na konsolę PlayStation 5. Jeśli posiadacie model PS5 z napędem optycznym oraz niestraszne są Wam oznaczenia wiekowe USK na okładce, to fizyczna edycja Ghost of Yotei może być Wasza za nieco ponad 115 zł! Czytaj więcej »"
+    },
     {
       "sourceName": "PPE",
       "title": "Czy Black Friday ma dziś sens, czy stał się \"marketingową papką\"?",
@@ -320,28 +342,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/hollow-knight-silksong-sea-of-sorrow7767.jpg",
       "articleSlug": "e137afcfdb71",
       "articleBody": "I nie jest to silkpost."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Zestaw 2 kabli USB C na USB C INIU (2 m, 100W, PD) za 34,20 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/zestaw-2-kabli-usb-c-na-usb-c-iniu-2-m-100w-pd-za-3420-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-27T16:28+01:00",
-      "summary": "Na stronie polskiego oddziału Amazona znajdziecie teraz w niższej cenie kabel USB C na USB C marki INIU o długości 2 m, obsługujący moc do 100W oraz technologię Power Delivery. Najbardziej korzystny będzie dwupak, który może być wasz za 34,20 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/02/Kabel-USB-C-na-USB-C-INIU-2-m-100W-PD-za-1398-zl-w-Amazon-PL_miniaturka-224x224.jpg",
-      "articleSlug": "614d4864bf15",
-      "articleBody": "Na stronie polskiego oddziału Amazona znajdziecie teraz w niższej cenie kabel USB C na USB C marki INIU o długości 2 m, obsługujący moc do 100W oraz technologię Power Delivery. Najbardziej korzystny będzie dwupak, który może być wasz za 34,20 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Blizzard zmusił graczy WoW-a do walki w trybie PvP. Brzmi absurdalnie, ale część społeczności jest wściekła, bo straciła sposób na łatwe nagrody",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/blizzard-zmusil-graczy-wow-a-do-walki-w-trybie-pvp-brzmi-absurdal/z4324c8",
-      "publishedAt": "2026-11-27T16:17+01:00",
-      "summary": "Blizzard wprowadził szereg zmian, które mogą nie spodobać się min-makserom. Gracze chcący wziąć udział w jednym z trybów rywalizacji muszą teraz skupić się na realizacji celów pobocznych, zamiast polegać na jednej, powtarzanej do znudzenia taktyce.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533487875.jpg",
-      "articleSlug": "599e4df9f4c3",
-      "articleBody": "Blizzard wprowadził szereg zmian, które mogą nie spodobać się min-makserom. Gracze chcący wziąć udział w jednym z trybów rywalizacji muszą teraz skupić się na realizacji celów pobocznych, zamiast polegać na jednej, powtarzanej do znudzenia taktyce."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "16cbcb38e3d5882601872bb087d0eaaed24c06892eac5048a5e4291291c66eea"
+  "editorialHash": "1291a2ef5e567713f26fcfa05061f971d00afa0941bc73e3337c26a3d015cc8d"
 }
