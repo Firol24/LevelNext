@@ -1,18 +1,95 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T12:01+01:00",
+  "updatedAt": "2026-11-27T12:44+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„GTA 6 codziennie zaskakuje mnie czymś nowym”. Gracz znalazł wrak na poboczu i zrobił z niego cacko",
-    "summary": "GTA 6 po raz kolejny zaskakuje możliwościami. Jeden z graczy znalazł na poboczu zniszczony samochód, zabrał go do warsztatu i przywrócił mu dawny blask.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-codziennie-zaskakuje-mnie-czyms-nowym-gracz-znalazl-wrak-na/z1324b6",
-    "articleSlug": "37dddf02dc77",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533473471.jpg"
+    "title": "Heilung wraca do naszego kraju w glorii i chwale! Unikatowy folkowy kolektyw wystąpi w katowickim Spodku 18 listopada",
+    "summary": "Rytuał grupy wesprze Lilith Max.",
+    "sourceUrl": "https://cdaction.pl/newsy/heilung-wraca-do-naszego-kraju-w-glorii-i-chwale-unikatowy-folkowy-kolektyw-wystapi-w-katowickim-spodku-18-listopada/",
+    "articleSlug": "ad6020abc159",
+    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/heilung-event_copy-1260x660.jpg"
   },
   "news": [
+    {
+      "sourceName": "CD-Action",
+      "title": "Heilung wraca do naszego kraju w glorii i chwale! Unikatowy folkowy kolektyw wystąpi w katowickim Spodku 18 listopada",
+      "sourceUrl": "https://cdaction.pl/newsy/heilung-wraca-do-naszego-kraju-w-glorii-i-chwale-unikatowy-folkowy-kolektyw-wystapi-w-katowickim-spodku-18-listopada/",
+      "publishedAt": "2026-11-27T12:36+01:00",
+      "summary": "Rytuał grupy wesprze Lilith Max.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/heilung-event_copy-1260x660.jpg",
+      "articleSlug": "ad6020abc159",
+      "articleBody": "Rytuał grupy wesprze Lilith Max."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wiedźmin 4 ominie jedną z platform. CD Projekt RED daje znak",
+      "sourceUrl": "https://www.ppe.pl/news/434803/wiedzmin-4-ominie-jedna-z-platform-cd-projekt-red-daje-znak.html",
+      "publishedAt": "2026-11-27T12:34+01:00",
+      "summary": "Po tym, jak wyszło na jaw, że Wiedźmin 4 doczekał się umowy marketingowej z Sony, wśród graczy od razu zapaliła się lampka ostrzegawcza. Nic dziwnego - patrząc na świeżą sytuację z GTA 6, gdzie pecetowcy wciąż muszą obejść się smakie...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/69b99f3cd51a83eb4954/69b99f3cd51a83eb4954.jpg",
+      "articleSlug": "e0ef02dcfe4d",
+      "articleBody": "Po tym, jak wyszło na jaw, że Wiedźmin 4 doczekał się umowy marketingowej z Sony, wśród graczy od razu zapaliła się lampka ostrzegawcza. Nic dziwnego - patrząc na świeżą sytuację z GTA 6, gdzie pecetowcy wciąż muszą obejść się smakie..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na Apple iPhone 18 Pro na Allegro. Model 256GB już za 6053,42 zł!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-apple-iphone-18-pro-na-allegro-model-256gb-juz-za-605342-zl/",
+      "publishedAt": "2026-11-27T12:34+01:00",
+      "summary": "Bezpośrednio na Allegro pojawiła się promocja na najnowszy smartfon z logo Apple. W ramach oferty cena iPhone 18 Pro z 256GB pamięci, w wersji kolorystycznej Burgund, została obniżona do 6079,48 zł. Urządzenie zostało wyposażone w aparat główny Fusion 48 MP, 6‑rdzeniowy procesor A20 Pro oraz wyświetlacz Super Retina XDR o przekątnej 6.3″. Pojawił się także model w kolorze czarnym, kosztujący 6053,42 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Apple-iPhone-18-Pro-na-Allegro.-Model-256GB-Burgund-juz-za-607948-zl_miniaturka-224x224.jpg",
+      "articleSlug": "c4191af94ef4",
+      "articleBody": "Bezpośrednio na Allegro pojawiła się promocja na najnowszy smartfon z logo Apple. W ramach oferty cena iPhone 18 Pro z 256GB pamięci, w wersji kolorystycznej Burgund, została obniżona do 6079,48 zł. Urządzenie zostało wyposażone w aparat główny Fusion 48 MP, 6‑rdzeniowy procesor A20 Pro oraz wyświetlacz Super Retina XDR o przekątnej 6.3″. Pojawił się także model w kolorze czarnym, kosztujący 6053,42 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Tym razem Sony nie zablokuje multiplayera w The Last of Us 2. Gracze zagrali na nosie producenta PS5",
+      "sourceUrl": "https://www.ppe.pl/news/434806/tym-razem-sony-nie-zablokuje-multiplayera-w-the-last-of-us-2-gracze-zagrali-na-nosie-producenta-ps5.html",
+      "publishedAt": "2026-11-27T12:33+01:00",
+      "summary": "W pecetowej wersji Last of Us Part II Remastered korzystać można od kilku dni z darmowego trybu multiplayer. A PlayStation jest w tej sytuacji bezsilne.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/dc59a444b4ae1a4a835b/dc59a444b4ae1a4a835b.jpg",
+      "articleSlug": "0d46c49c2260",
+      "articleBody": "W pecetowej wersji Last of Us Part II Remastered korzystać można od kilku dni z darmowego trybu multiplayer. A PlayStation jest w tej sytuacji bezsilne."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Pudełkowe wydanie GTA 6 bije rekordy popularności mimo braku płyty. Gracze i tak rzucili się na „fizyczną” wersję gry",
+      "sourceUrl": "https://cdaction.pl/newsy/pudelkowe-wydanie-gta-6-bije-rekordy-popularnosci-mimo-braku-plyty-gracze-i-tak-rzucili-sie-na-fizyczna-wersje-gry/",
+      "publishedAt": "2026-11-27T12:30+01:00",
+      "summary": "Ach ci gracze, znów będą oburzeni.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-20-o-09.46.05-1260x662.jpg",
+      "articleSlug": "a2c66541eae7",
+      "articleBody": "Ach ci gracze, znów będą oburzeni."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Komputery stacjonarne taniej w x-kom na Black Friday 2026. Seria SMX Battlestation z 32GB RAM już za 4889 zł!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/komputery-stacjonarne-taniej-w-x-kom-na-black-friday-2026-seria-smx-battlestation-z-32gb-ram-juz-za-4889-zl/",
+      "publishedAt": "2026-11-27T12:28+01:00",
+      "summary": "Jeśli poszukujecie gotowego komputera, przygotowanego do pracy i w sensownej konfiguracji, możecie skorzystać z oferty sklepu x-kom i wybrać spośród wielu modeli G4M3R i SMX Battlestation. Przygotowaliśmy dla Was krótki wpis, w którym znajdziecie najciekawsze opcje. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/02/silver-monkey-x-battlestation-argb-2b-224x224.jpg",
+      "articleSlug": "efff8ee80bcb",
+      "articleBody": "Jeśli poszukujecie gotowego komputera, przygotowanego do pracy i w sensownej konfiguracji, możecie skorzystać z oferty sklepu x-kom i wybrać spośród wielu modeli G4M3R i SMX Battlestation. Przygotowaliśmy dla Was krótki wpis, w którym znajdziecie najciekawsze opcje. Czytaj więcej »"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Figurka God of War Atreus za 99,99 zł (79 zł taniej) w Media Expert. Pomysł na prezent dla fana gier",
+      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/figurka-god-of-war-atreus-za-9999-zl-79-zl-taniej-w-media-expert-pomysl-na-prezent-dla-fana-gier/",
+      "publishedAt": "2026-11-27T12:23+01:00",
+      "summary": "Black Friday trwa w najlepsze. W Media Expert możecie teraz dostać figurkę przedstawiającą Atreusa z gry God of War w znacznie niższej cenie. Jej wysokość to 16 cm. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Figurka-Atreus-God-of-War-logo-224x224.jpg",
+      "articleSlug": "ea22412be038",
+      "articleBody": "Black Friday trwa w najlepsze. W Media Expert możecie teraz dostać figurkę przedstawiającą Atreusa z gry God of War w znacznie niższej cenie. Jej wysokość to 16 cm. Czytaj więcej »"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„GTA 6 codziennie zaskakuje mnie czymś nowym”. Gracz znalazł wrak na poboczu i zrobił z niego cacko",
@@ -25,6 +102,17 @@
       "articleBody": "GTA 6 po raz kolejny zaskakuje możliwościami. Jeden z graczy znalazł na poboczu zniszczony samochód, zabrał go do warsztatu i przywrócił mu dawny blask."
     },
     {
+      "sourceName": "PPE",
+      "title": "Aktorka Lucii z GTA 6 dziękuje za wszystko. Gracze mieli rację",
+      "sourceUrl": "https://www.ppe.pl/news/434802/aktorka-lucii-z-gta-6-dziekuje-za-wszystko-gracze-mieli-racje.html",
+      "publishedAt": "2026-11-27T12:12+01:00",
+      "summary": "Wyobrażacie sobie pracować nad największą grą na świecie i przez prawie dziesięć lat nie móc nikomu pisnąć o tym ani słowa? Dokładnie przez takie piekło - choć zakończone pięknym finałem - przeszła Manni L. Perez, czyli aktorka wciela...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4f9c6b7284f116094bbe/4f9c6b7284f116094bbe.webp",
+      "articleSlug": "15333e3ef590",
+      "articleBody": "Wyobrażacie sobie pracować nad największą grą na świecie i przez prawie dziesięć lat nie móc nikomu pisnąć o tym ani słowa? Dokładnie przez takie piekło - choć zakończone pięknym finałem - przeszła Manni L. Perez, czyli aktorka wciela..."
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Ponad 23 000 Polaków nadal chce studiować informatykę, mimo kryzysu na rynku IT i rozwoju AI. Internauci spierają się, czy to jeszcze ma sens",
       "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-23-000-polakow-nadal-chce-studiowac-informatyke-mimo-kryzys/z2324b7",
@@ -34,6 +122,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533473689.jpg",
       "articleSlug": "eb09ac4da919",
       "articleBody": "W tegorocznej rekrutacji na stacjonarną informatykę złożono ponad 23 tysiące zgłoszeń. Dla części internautów to niezrozumiałe, dlaczego tak wielu maturzystów wybiera kierunek, po którym start na rynku pracy utrudnia dziś AI."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Wydawca najlepszych realistycznych strzelanek z poważnymi problemami. Nowe mapy i opóźnienia",
+      "sourceUrl": "https://www.ppe.pl/news/434797/wydawca-najlepszych-realistycznych-strzelanek-z-powaznymi-problemami-nowe-mapy-i-opoznienia.html",
+      "publishedAt": "2026-11-27T12:04+01:00",
+      "summary": "Hell Let Loose to według wielu osób najlepsza realistyczna strzelanka sieciowa w dziejach gier. Niestety jej wydawca ma ostatnie spore problemy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/3dfccce28375f88c6f62/3dfccce28375f88c6f62.jpg",
+      "articleSlug": "c03d98ed5706",
+      "articleBody": "Hell Let Loose to według wielu osób najlepsza realistyczna strzelanka sieciowa w dziejach gier. Niestety jej wydawca ma ostatnie spore problemy."
     },
     {
       "sourceName": "Łowcy Gier",
@@ -243,105 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Borderlands-4-Ripper-Set-taniej-w-Empiku.-Gra-na-PS5-puzzle-maska-Rippera-za-359-zl_miniaturka-224x224.jpg",
       "articleSlug": "76340b163367",
       "articleBody": "Z okazji Black Friday 2026 w Empiku przeceniono zestaw Borderlands 4 Ripper Set. Posiadacze konsol Sony PlayStation 5 mogą nabyć zawierający maskę i puzzle zestaw z grą za 146,89 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Marvel’s Wolverine na PS5 o połowę taniej już 2 miesiące po premierze. Niesamowita promocja na Black Friday",
-      "sourceUrl": "https://cdaction.pl/newsy/marvels-wolverine-na-ps5-o-polowe-taniej-juz-2-miesiace-po-premierze-niesamowita-promocja-na-black-friday/",
-      "publishedAt": "2026-11-27T10:34+01:00",
-      "summary": "Mamy kolejną interesującą promocję dla fanów PlayStation, ale standardowo trzeba się pospieszyć.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/wolverine1-1260x636.jpg",
-      "articleSlug": "cec527818167",
-      "articleBody": "Mamy kolejną interesującą promocję dla fanów PlayStation, ale standardowo trzeba się pospieszyć."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "CD Projekt RED poprawił największy problem Wiedźmin 3 Remaster. Duży wzrost wydajności z patchem 5.02",
-      "sourceUrl": "https://www.ppe.pl/news/434800/cd-projekt-red-poprawil-najwiekszy-problem-wiedzmin-3-remaster-duzy-wzrost-wydajnosci-z-patchem-5-02.html",
-      "publishedAt": "2026-11-27T10:33+01:00",
-      "summary": "Wczoraj CD Projekt RED opublikował ważny patch dla remastera Wiedźmina 3. Okazuje się, że duża aktualizacja wniosła konkretne optymalizacje.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/38aaa8ef86a1ab015bfe/38aaa8ef86a1ab015bfe.jpg",
-      "articleSlug": "4e590ab18603",
-      "articleBody": "Wczoraj CD Projekt RED opublikował ważny patch dla remastera Wiedźmina 3. Okazuje się, że duża aktualizacja wniosła konkretne optymalizacje."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Za dużo marketingu, za mało konkretów. Twórca Path of Exile 2 wbija szpilę Blizzardowi",
-      "sourceUrl": "https://cdaction.pl/newsy/za-duzo-marketingu-za-malo-konkretow-tworca-path-of-exile-2-wbija-szpile-blizzardowi/",
-      "publishedAt": "2026-11-27T10:30+01:00",
-      "summary": "Jonathan Rogers z Grinding Gear Games skrytykował sposób, w jaki Blizzard prezentuje swoje nadchodzące gry.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/08/Zrzut-ekranu-2026-08-26-o-00.13.13-1260x662.jpg",
-      "articleSlug": "174dbf68567b",
-      "articleBody": "Jonathan Rogers z Grinding Gear Games skrytykował sposób, w jaki Blizzard prezentuje swoje nadchodzące gry."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Gran Turismo w GTA 6. Tak Sony z Rockstar Games zapewniło NIESAMOWITĄ mechanikę gry",
-      "sourceUrl": "https://www.ppe.pl/news/434791/gran-turismo-w-gta-6-tak-sony-z-rockstar-games-zapewnilo-niesamowita-mechanike-gry.html",
-      "publishedAt": "2026-11-27T10:15+01:00",
-      "summary": "Jeśli jeździliście już trochę po ulicach Leonidy i zastanawialiście się, skąd w Grand Theft Auto 6 wziął się aż tak przyjemny model jazdy, to właśnie poznaliśmy sekret.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/7823a0677c470f9f0670/7823a0677c470f9f0670.jpg",
-      "articleSlug": "c5bad69ca280",
-      "articleBody": "Jeśli jeździliście już trochę po ulicach Leonidy i zastanawialiście się, skąd w Grand Theft Auto 6 wziął się aż tak przyjemny model jazdy, to właśnie poznaliśmy sekret."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Głośniki Edifier Airpulse A60 z Bluetooth 5.1 APTX za 1314,99 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/glosniki-edifier-airpulse-a60-z-bluetooth-5-1-aptx-za-131499-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-27T10:12+01:00",
-      "summary": "Zestaw dwóch głośników Edifier Airpulse A60, możecie teraz kupić w dobrej cenie w polskim oddziale sklepu Amazon. Sprzęt oferujący łączną moc 80W, połączenie przez Bluetooth i wiele różnego rodzaju wejść, zapewniając wszechstronność (SUB OUT, USB, optical, RCA), kosztuje 1314,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/edifier-a60-airpulse-3b-224x224.jpg",
-      "articleSlug": "69b72b8c9bad",
-      "articleBody": "Zestaw dwóch głośników Edifier Airpulse A60, możecie teraz kupić w dobrej cenie w polskim oddziale sklepu Amazon. Sprzęt oferujący łączną moc 80W, połączenie przez Bluetooth i wiele różnego rodzaju wejść, zapewniając wszechstronność (SUB OUT, USB, optical, RCA), kosztuje 1314,99 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Nie wszystko musi być grą-usługą”. Współtwórca PoE stawia Baldur’s Gate 3 za wzór dla całej branży",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nie-wszystko-musi-byc-gra-usluga-wspoltworca-poe-stawia-baldurs-g/zf324ae",
-      "publishedAt": "2026-11-27T10:02+01:00",
-      "summary": "Współtwórca Path of Exile uważa, że branża gier skorzystałaby na powrocie do tworzenia produkcji w stylu Baldur’s Gate 3. Jego zdaniem obecnie ma miejsce zbyt duży nacisk na gry-usługi.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533466092.jpg",
-      "articleSlug": "93e4b4eb3abc",
-      "articleBody": "Współtwórca Path of Exile uważa, że branża gier skorzystałaby na powrocie do tworzenia produkcji w stylu Baldur’s Gate 3. Jego zdaniem obecnie ma miejsce zbyt duży nacisk na gry-usługi."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Nadchodzi nowy serial twórców Dark. Mroczny 6-odcinkowy thriller kryminalny HBO Max ma zwiastun",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/nadchodzi-nowy-serial-tworcow-dark-mroczny-6-odcinkowy-thriller-k/zd324ac",
-      "publishedAt": "2026-11-27T10:00+01:00",
-      "summary": "Twórcy Dark w przyszłym roku zaprezentują widzom kolejną mroczną produkcję. Tym razem filmowcy przybliżą historię zbrodni mającej związek z niepokojącą książką dla dzieci. Jest już pierwszy zwiastun.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533463512.jpg",
-      "articleSlug": "db8a187635c9",
-      "articleBody": "Twórcy Dark w przyszłym roku zaprezentują widzom kolejną mroczną produkcję. Tym razem filmowcy przybliżą historię zbrodni mającej związek z niepokojącą książką dla dzieci. Jest już pierwszy zwiastun."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Serwis należący do Microsoftu napisał przychylnie o emulacji GTA 6 na PC. Użytkownicy przecierają oczy",
-      "sourceUrl": "https://cdaction.pl/newsy/serwis-nalezacy-do-microsoftu-napisal-przychylnie-o-emulacji-gta-6-na-pc-uzytkownicy-przecieraja-oczy/",
-      "publishedAt": "2026-11-27T10:00+01:00",
-      "summary": "Posta już nie ma, ale afera wciąż trwa.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/GTA-6-screen-1-1260x709.jpg",
-      "articleSlug": "bde48867ad30",
-      "articleBody": "Posta już nie ma, ale afera wciąż trwa."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe The Outer Worlds 2 na PS5 za 69,99 zł w RTV Euro AGD z okazji Black Friday 2026",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-the-outer-worlds-2-na-ps5-za-6999-zl-w-rtv-euro-agd-z-okazji-black-friday-2026/",
-      "publishedAt": "2026-11-27T09:59+01:00",
-      "summary": "The Outer Worlds 2, czyli druga odsłona pierwszoosobowego kosmicznego RPG studia Obsidian Entertainment, jest teraz dostępna taniej w sklepie RTV Euro AGD. Cena za pudełko z grą w wersji na konsole Sony PlayStation 5 to 69,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/07/the-outer-worlds-2-miniaturka-224x224.jpg",
-      "articleSlug": "8db69b0dffd6",
-      "articleBody": "The Outer Worlds 2, czyli druga odsłona pierwszoosobowego kosmicznego RPG studia Obsidian Entertainment, jest teraz dostępna taniej w sklepie RTV Euro AGD. Cena za pudełko z grą w wersji na konsole Sony PlayStation 5 to 69,99 zł. Czytaj więcej »"
     }
   ],
   "indie": [
