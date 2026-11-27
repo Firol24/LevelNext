@@ -1,18 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T12:44+01:00",
+  "updatedAt": "2026-11-27T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Heilung wraca do naszego kraju w glorii i chwale! Unikatowy folkowy kolektyw wystąpi w katowickim Spodku 18 listopada",
-    "summary": "Rytuał grupy wesprze Lilith Max.",
-    "sourceUrl": "https://cdaction.pl/newsy/heilung-wraca-do-naszego-kraju-w-glorii-i-chwale-unikatowy-folkowy-kolektyw-wystapi-w-katowickim-spodku-18-listopada/",
-    "articleSlug": "ad6020abc159",
-    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/heilung-event_copy-1260x660.jpg"
+    "title": "Steam pomógł Denuvo w polowaniu na słynnego hakera. Reddit odmówił ujawnienia danych, a gracze krytykują Valve",
+    "summary": "Valve spotkało się z krytyką graczy, ponieważ firma udostępniła informacje związane z kontami, które spółka Denuvo wskazała jako powiązane ze znanym crackerem voices38.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/steam-pomogl-denuvo-w-polowaniu-na-slynnego-hakera-reddit-odmowil/zf324bd",
+    "articleSlug": "918b7325f7a0",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533477476.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Steam pomógł Denuvo w polowaniu na słynnego hakera. Reddit odmówił ujawnienia danych, a gracze krytykują Valve",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/steam-pomogl-denuvo-w-polowaniu-na-slynnego-hakera-reddit-odmowil/zf324bd",
+      "publishedAt": "2026-11-27T13:11+01:00",
+      "summary": "Valve spotkało się z krytyką graczy, ponieważ firma udostępniła informacje związane z kontami, które spółka Denuvo wskazała jako powiązane ze znanym crackerem voices38.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533477476.jpg",
+      "articleSlug": "918b7325f7a0",
+      "articleBody": "Valve spotkało się z krytyką graczy, ponieważ firma udostępniła informacje związane z kontami, które spółka Denuvo wskazała jako powiązane ze znanym crackerem voices38."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Twórcy wyczekiwanej strategii Dawn of War 4 mają jasny plan: chcą zatrzymać graczy na długie tygodnie. Oto, jak zamierzają tego dokonać",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-wyczekiwanej-strategii-dawn-of-war-4-maja-jasny-plan-chca/ze324bc",
+      "publishedAt": "2026-11-27T13:07+01:00",
+      "summary": "Warhammer 40,000: Dawn of War oferuje najbardziej rozbudowany edytor armii w historii, a gracze będą mieli istotny wpływ na przebieg kampanii.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533476845.jpg",
+      "articleSlug": "865a5217a5eb",
+      "articleBody": "Warhammer 40,000: Dawn of War oferuje najbardziej rozbudowany edytor armii w historii, a gracze będą mieli istotny wpływ na przebieg kampanii."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Hisense rozdaje nawet 5000 zł na święta! Ruszyła promocja na telewizory i projektory",
+      "sourceUrl": "https://www.ppe.pl/news/434813/hisense-rozdaje-nawet-5000-zl-na-swieta-ruszyla-promocja-na-telewizory-i-projektory.html",
+      "publishedAt": "2026-11-27T12:57+01:00",
+      "summary": "Hisense przygotował świąteczną promocję dla osób planujących zakup nowego telewizora lub projektora.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/eaa018710d9945acfd56/eaa018710d9945acfd56.png",
+      "articleSlug": "841aba9a0ff8",
+      "articleBody": "Hisense przygotował świąteczną promocję dla osób planujących zakup nowego telewizora lub projektora."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Steve Buscemi gwiazdą Operacji świątecznych 2027 w World of Tanks",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/steve-buscemi-gwiazda-operacji-swiatecznych-2027-w-world-of-tanks/zc324ba",
+      "publishedAt": "2026-11-27T12:40+01:00",
+      "summary": "Studio Wargaming kontynuuje tradycję zapraszania gwiazd kina do zimowego wydarzenia w swojej flagowej grze pancernej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533475635.jpg",
+      "articleSlug": "c0479b0c6073",
+      "articleBody": "Studio Wargaming kontynuuje tradycję zapraszania gwiazd kina do zimowego wydarzenia w swojej flagowej grze pancernej."
+    },
     {
       "sourceName": "CD-Action",
       "title": "Heilung wraca do naszego kraju w glorii i chwale! Unikatowy folkowy kolektyw wystąpi w katowickim Spodku 18 listopada",
@@ -58,6 +102,17 @@
       "articleBody": "W pecetowej wersji Last of Us Part II Remastered korzystać można od kilku dni z darmowego trybu multiplayer. A PlayStation jest w tej sytuacji bezsilne."
     },
     {
+      "sourceName": "GRY-Online",
+      "title": "Hideo Kojima przyjechał do Polski, a internauci od razu zwrócili uwagę na Żubrówkę. Zdjęcia ze spotkania z CD Projekt RED robią furorę",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/hideo-kojima-przyjechal-do-polski-a-internauci-od-razu-zwrocili-u/z3324b8",
+      "publishedAt": "2026-11-27T12:31+01:00",
+      "summary": "Na profilu społecznościowym Hideo Kojimy pojawiły się wpisy z wizyty w Polsce, ale największą furorę robią udostępniane przez niego zdjęcia. Tak deweloper poznaje naszą kulturę.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533474030.jpg",
+      "articleSlug": "915e43af22c7",
+      "articleBody": "Na profilu społecznościowym Hideo Kojimy pojawiły się wpisy z wizyty w Polsce, ale największą furorę robią udostępniane przez niego zdjęcia. Tak deweloper poznaje naszą kulturę."
+    },
+    {
       "sourceName": "CD-Action",
       "title": "Pudełkowe wydanie GTA 6 bije rekordy popularności mimo braku płyty. Gracze i tak rzucili się na „fizyczną” wersję gry",
       "sourceUrl": "https://cdaction.pl/newsy/pudelkowe-wydanie-gta-6-bije-rekordy-popularnosci-mimo-braku-plyty-gracze-i-tak-rzucili-sie-na-fizyczna-wersje-gry/",
@@ -67,6 +122,17 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-20-o-09.46.05-1260x662.jpg",
       "articleSlug": "a2c66541eae7",
       "articleBody": "Ach ci gracze, znów będą oburzeni."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Wczoraj wjechał na Netflix, a już dziś jest w top 3. Norweski 7-odcinkowy serial medyczny zainteresował widzów z Polski",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/izba-przyjec-wczoraj-wjechala-na-netflix-a-juz-dzis-podbija-platf/ze324ad",
+      "publishedAt": "2026-11-27T12:30+01:00",
+      "summary": "Jednym z najpopularniejszych obecnie seriali na Netflixie jest norweska produkcja, której akcja rozgrywa się na izbie przyjęć w Oslo. Nowość potrzebowała tylko jednej doby, by znaleźć się w polskim top 10.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533466090.jpg",
+      "articleSlug": "f7d0c8c1a945",
+      "articleBody": "Jednym z najpopularniejszych obecnie seriali na Netflixie jest norweska produkcja, której akcja rozgrywa się na izbie przyjęć w Oslo. Nowość potrzebowała tylko jednej doby, by znaleźć się w polskim top 10."
     },
     {
       "sourceName": "Łowcy Gier",
@@ -276,72 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/a31750acfcda7588da6f/a31750acfcda7588da6f.png",
       "articleSlug": "2f7490e8d156",
       "articleBody": "Wargaming ujawnił szczegóły Operacji świątecznych 2027 w grach z serii World of Tanks."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Gwiazdor „Wściekłych psów” w World of Tanks. Poznaliśmy szczegóły Operacji świątecznych 2027",
-      "sourceUrl": "https://cdaction.pl/newsy/gwiazdor-wscieklych-psow-w-world-of-tanks-poznalismy-szczegoly-operacji-swiatecznych-2027/",
-      "publishedAt": "2026-11-27T11:00+01:00",
-      "summary": "Wargaming właśnie ogłosił kolejnego ambasadora Operacji świątecznych.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Key_Art_Hops_2027-1260x709.png",
-      "articleSlug": "96e7fcee1c79",
-      "articleBody": "Wargaming właśnie ogłosił kolejnego ambasadora Operacji świątecznych."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "To będzie next-genowy game changer! Nowy pad DualSense do PS6 z tą funkcją rozgromi konkurencję",
-      "sourceUrl": "https://www.ppe.pl/news/434793/to-bedzie-next-genowy-game-changer-nowy-pad-dualsense-do-ps6-z-ta-funkcja-rozgromi-konkurencje.html",
-      "publishedAt": "2026-11-27T10:59+01:00",
-      "summary": "Przy PlayStation 5 Sony postawiło w padzie DualSense na czyste wczucie się w rozgrywkę - adaptacyjne spusty i świetne wibracje zrobiły na graczach ogromne wrażenie. Wygląda jednak na to, że przy PlayStation 6 Japończycy chcą pójść krok dale...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4d2b81e88ca64f132638/4d2b81e88ca64f132638.png",
-      "articleSlug": "4df155774b8f",
-      "articleBody": "Przy PlayStation 5 Sony postawiło w padzie DualSense na czyste wczucie się w rozgrywkę - adaptacyjne spusty i świetne wibracje zrobiły na graczach ogromne wrażenie. Wygląda jednak na to, że przy PlayStation 6 Japończycy chcą pójść krok dale..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Silent Hill Townfall za połowę ceny dwa miesiące po premierze! Gra na PS5 za 99 zł w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/silent-hill-townfall-za-polowe-ceny-dwa-miesiace-po-premierze-gra-na-ps5-za-99-zl-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-27T10:54+01:00",
-      "summary": "I takie promocje na Black Friday to rozumiemy! Dwa miesiące po premierze macie okazję zakupić pudełkowe wydanie PS5 za pół ceny w RTV Euro AGD. Gra kosztuje obecnie niecałą stówkę! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Silent-Hill-Townfall-PS5-promocja-logo-224x224.jpg",
-      "articleSlug": "a79a882e51ea",
-      "articleBody": "I takie promocje na Black Friday to rozumiemy! Dwa miesiące po premierze macie okazję zakupić pudełkowe wydanie PS5 za pół ceny w RTV Euro AGD. Gra kosztuje obecnie niecałą stówkę! Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Cronos: The New Dawn na PS5 za 99 zł w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-cronos-the-new-dawn-na-ps5-za-99-zl-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-27T10:41+01:00",
-      "summary": "Cronos: The New Dawn, czyli survival horror studia Bloober Team, jest teraz dostępny w dobrej cenie w RTV Euro AGD. Sklep internetowy oferuje polską grę, w której wcielicie się w Podróżniczkę, skaczącą po wyrwach czasoprzestrzennych, gdzie będzie walczyć z wynaturzeniami, za 99 zł. Oferta dotyczy pudełkowego wydania na konsole Sony PlayStation 5. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/02/Rekordowa-promocja-na-Cronos_-The-New-Dawn-w-Perfect-Blue.-Pudelko-na-PS5-za-14999-zl_miniaturka-224x224.jpg",
-      "articleSlug": "717035a1cf7a",
-      "articleBody": "Cronos: The New Dawn, czyli survival horror studia Bloober Team, jest teraz dostępny w dobrej cenie w RTV Euro AGD. Sklep internetowy oferuje polską grę, w której wcielicie się w Podróżniczkę, skaczącą po wyrwach czasoprzestrzennych, gdzie będzie walczyć z wynaturzeniami, za 99 zł. Oferta dotyczy pudełkowego wydania na konsole Sony PlayStation 5. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nie będzie przełomu w Rockstar Games. Pracownicy zagłosowali",
-      "sourceUrl": "https://www.ppe.pl/news/434792/nie-bedzie-przelomu-w-rockstar-games-pracownicy-zaglosowali.html",
-      "publishedAt": "2026-11-27T10:37+01:00",
-      "summary": "Wielkie emocje po premierze Grand Theft Auto 6 jeszcze nie zdążyły opaść - gra w sam pierwszy dzień rozeszła się w ponad 30 milionach egzemplarzy - a w brytyjskich biurach Rockstar Games właśnie zapadła bardzo ważna decyzja dla przyszłości...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/38bf64288c3a3dfa16f1/38bf64288c3a3dfa16f1.webp",
-      "articleSlug": "852e026e33c4",
-      "articleBody": "Wielkie emocje po premierze Grand Theft Auto 6 jeszcze nie zdążyły opaść - gra w sam pierwszy dzień rozeszła się w ponad 30 milionach egzemplarzy - a w brytyjskich biurach Rockstar Games właśnie zapadła bardzo ważna decyzja dla przyszłości..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Borderlands 4 Ripper Set na PS5 z grą i maską za 146,89 zł w Empiku",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/borderlands-4-ripper-set-na-ps5-z-gra-i-maska-za-14689-zl-w-empiku/",
-      "publishedAt": "2026-11-27T10:35+01:00",
-      "summary": "Z okazji Black Friday 2026 w Empiku przeceniono zestaw Borderlands 4 Ripper Set. Posiadacze konsol Sony PlayStation 5 mogą nabyć zawierający maskę i puzzle zestaw z grą za 146,89 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/08/Borderlands-4-Ripper-Set-taniej-w-Empiku.-Gra-na-PS5-puzzle-maska-Rippera-za-359-zl_miniaturka-224x224.jpg",
-      "articleSlug": "76340b163367",
-      "articleBody": "Z okazji Black Friday 2026 w Empiku przeceniono zestaw Borderlands 4 Ripper Set. Posiadacze konsol Sony PlayStation 5 mogą nabyć zawierający maskę i puzzle zestaw z grą za 146,89 zł. Czytaj więcej »"
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795725483"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795780349"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "d0000b785bb99bd63bbca54ef4b508e3a2293bf2b0e12f88bcea621c4da879d5"
+  "editorialHash": "768122c45a6129ec805607a814535d523ab19ad31779a771a4d7be8ae0d1567c"
 }
