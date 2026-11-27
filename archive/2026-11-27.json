@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T05:01+01:00",
+  "updatedAt": "2026-11-27T06:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ten laptop nie był tańszy. Gigabyte Gaming z i7-13650H, RTX 5060 i 165 Hz IPS za 4444 zł",
-    "summary": "W sklepach X-Kom i RTV Euro AGD za lekko ponad 4400 złotych nabędziemy bardzo dobrego laptopa firmy Gigabyte.",
-    "sourceUrl": "https://www.ppe.pl/promocje/tech/laptopy/434741/ten-laptop-nie-byl-tanszy-gigabyte-gaming-z-i7-13650h-rtx-5060-i-165-hz-ips-za-4444-zl.html",
-    "articleSlug": "f9057b1aba70",
-    "imageUrl": "https://pliki.ppe.pl/storage/0bbd236e123b2821035f/0bbd236e123b2821035f.webp"
+    "title": "Ponad 27 mln wyświetleń w 5 dni i nr 1 Netflixa. Film z Jaredem Padaleckim to największy hit serwisu minionego tygodnia",
+    "summary": "Netflix ujawnił, jaki film cieszył się największą popularnością w ubiegłym tygodniu. Wygląda na to, że Jared Padalecki w świątecznej produkcji przyciągnął przed małe ekrany nie tylko fanów Supernatural.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-27-mln-wyswietlen-w-5-dni-i-nr-1-netflixa-film-z-jaredem-pa/zb32499",
+    "articleSlug": "96c09160e92c",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533395332.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Ponad 27 mln wyświetleń w 5 dni i nr 1 Netflixa. Film z Jaredem Padaleckim to największy hit serwisu minionego tygodnia",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-27-mln-wyswietlen-w-5-dni-i-nr-1-netflixa-film-z-jaredem-pa/zb32499",
+      "publishedAt": "2026-11-27T06:50+01:00",
+      "summary": "Netflix ujawnił, jaki film cieszył się największą popularnością w ubiegłym tygodniu. Wygląda na to, że Jared Padalecki w świątecznej produkcji przyciągnął przed małe ekrany nie tylko fanów Supernatural.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533395332.jpg",
+      "articleSlug": "96c09160e92c",
+      "articleBody": "Netflix ujawnił, jaki film cieszył się największą popularnością w ubiegłym tygodniu. Wygląda na to, że Jared Padalecki w świątecznej produkcji przyciągnął przed małe ekrany nie tylko fanów Supernatural."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "„Eksperci” wzięli pod lupę pozornie realistyczną czynność z GTA 6. Werdykt po „poważnej ekspertyzie\" to 0/10",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/eksperci-wzieli-pod-lupe-pozornie-realistyczna-czynnosc-z-gta-6-w/zb324aa",
+      "publishedAt": "2026-11-27T06:30+01:00",
+      "summary": "Twórcy serii PowerWash Simulator wzięli pod lupę mycie ciśnieniowe w GTA 6. Jak się okazuje, zarówno Rockstar Games, jak i sam Jason mają w tej dziedzinie jeszcze sporo do nadrobienia.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533423353.jpg",
+      "articleSlug": "d340b03a3d9d",
+      "articleBody": "Twórcy serii PowerWash Simulator wzięli pod lupę mycie ciśnieniowe w GTA 6. Jak się okazuje, zarówno Rockstar Games, jak i sam Jason mają w tej dziedzinie jeszcze sporo do nadrobienia."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Netflix z mocną premierą na weekend! Mroczna historia legendarnej postaci w zupełnie nowym wydaniu",
+      "sourceUrl": "https://www.ppe.pl/news/434728/netflix-z-mocna-premiera-na-weekend-mroczna-historia-legendarnej-postaci-w-zupelnie-nowym-wydaniu.html",
+      "publishedAt": "2026-11-27T05:45+01:00",
+      "summary": "Netflix przygotował kolejną interesującą propozycję na weekend, tym razem zapraszając widzów do XIX-wiecznego Paryża. Najnowsza produkcja zabiera nas do miasta pogrążonego w strachu, w którym narastające napięcia społeczne i śmiertelna ep...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/19ffa6b3358be9a3f72b/19ffa6b3358be9a3f72b.jpg",
+      "articleSlug": "c8660576795d",
+      "articleBody": "Netflix przygotował kolejną interesującą propozycję na weekend, tym razem zapraszając widzów do XIX-wiecznego Paryża. Najnowsza produkcja zabiera nas do miasta pogrążonego w strachu, w którym narastające napięcia społeczne i śmiertelna ep..."
+    },
     {
       "sourceName": "PPE",
       "title": "Ten laptop nie był tańszy. Gigabyte Gaming z i7-13650H, RTX 5060 i 165 Hz IPS za 4444 zł",
