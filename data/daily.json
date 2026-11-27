@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T19:01+01:00",
+  "updatedAt": "2026-11-27T19:08+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -23,6 +23,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533501767.jpg",
       "articleSlug": "fc01b2c499c7",
       "articleBody": "Najnowsze szacunki sprzedaży GTA 6 są jeszcze bardziej imponujące, niż dotychczas sądzono. Powody do świętowania ma nie tylko Rockstar Games, ale również Sony."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Diuna: Część trzecia przepadnie? Denis Villeneuve rozczarowany decyzją Disneya",
+      "sourceUrl": "https://www.ppe.pl/news/434839/diuna-czesc-trzecia-przepadnie-denis-villeneuve-rozczarowany-decyzja-disneya.html",
+      "publishedAt": "2026-11-27T19:08+01:00",
+      "summary": "Denis Villeneuve nie ukrywa rozczarowania faktem, że Disney wyznaczył premierę filmu „Avengers: Doomsday” na ten sam dzień co „Diuna: Część trzecia”. Oba widowiska mają trafić do kin 18 grudnia 2026 roku, co może doprowadzić do jedneg...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8a803e36cfba94482826/8a803e36cfba94482826.webp",
+      "articleSlug": "cfa7b5c9bd35",
+      "articleBody": "Denis Villeneuve nie ukrywa rozczarowania faktem, że Disney wyznaczył premierę filmu „Avengers: Doomsday” na ten sam dzień co „Diuna: Część trzecia”. Oba widowiska mają trafić do kin 18 grudnia 2026 roku, co może doprowadzić do jedneg..."
     },
     {
       "sourceName": "GRY-Online",
@@ -331,17 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/gravitrax-pro-drop-n-roll-starter-2b-224x224.jpg",
       "articleSlug": "a2bfbe28c145",
       "articleBody": "Zestawy Gravitrax, do tworzenia torów z przeszkodami, pojawiły się w nieco niższych cenach w polskim oddziale sklepu Amazon. Jeśli lubicie kreatywną zabawę, za startowy PRO set Drop’n’roll zapłacicie obecnie 331,46 zł. Dostępny jest także starter XXL, który kosztuje nieco ponad 391 złotych. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 działa zaskakująco dobrze na 13-letniej konsoli. Eksperci rozwiązali „największą zagadkę” cloud gamingu na XOne",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-dziala-zaskakujaco-dobrze-na-13-letniej-konsoli-eksperci-ro/z1324c5",
-      "publishedAt": "2026-11-27T15:26+01:00",
-      "summary": "GTA 6 na Xboxie One brzmi jak żart, ale zdaniem Digital Foundry to nie taka zła opcja do grania w hit Rockstar Games.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533485441.jpg",
-      "articleSlug": "46f70c74d78c",
-      "articleBody": "GTA 6 na Xboxie One brzmi jak żart, ale zdaniem Digital Foundry to nie taka zła opcja do grania w hit Rockstar Games."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "16cbcb38e3d5882601872bb087d0eaaed24c06892eac5048a5e4291291c66eea"
+  "editorialHash": "1291a2ef5e567713f26fcfa05061f971d00afa0941bc73e3337c26a3d015cc8d"
 }
