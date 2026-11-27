@@ -416,3 +416,12 @@ h1,h2,h3{line-height:1.25}
 .ln-chat-launcher:hover{filter:brightness(1.2)}
 .ln-chat-launcher[hidden]{display:none!important}
 @media(max-width:620px){#lnChatDock{resize:none;min-width:0;width:min(370px,calc(100vw - 16px));height:min(520px,calc(100vh - 16px));max-width:calc(100vw - 16px);max-height:calc(100vh - 16px)}#lnChatDock.minimized{width:min(310px,calc(100vw - 16px))!important}.ln-chat-launcher{right:8px;bottom:8px}}
+
+
+/* LAUNCHERY: WSPOLNA KOLUMNA PRZY PRAWEJ KRAWEDZI */
+.winamp-launcher{position:fixed!important;right:16px!important;bottom:62px!important;z-index:1003!important}
+.ln-chat-launcher{position:fixed!important;right:16px!important;bottom:16px!important;z-index:1004!important}
+@media(max-width:620px){
+ .winamp-launcher{right:8px!important;bottom:62px!important}
+ .ln-chat-launcher{right:8px!important;bottom:8px!important}
+}
