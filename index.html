@@ -175,11 +175,12 @@ function appendImage(parent,url,alt,extraClass){
  var img=document.createElement("img");
  img.className="ln-inline-image"+(extraClass?" "+extraClass:"");
  img.alt=alt||"";
- img.loading="lazy";img.referrerPolicy="no-referrer";
+ // Load chat media immediately and preserve the original signed Discord CDN URL.
+ img.loading="eager";img.decoding="async";
  var triedProxy=false;
  img.addEventListener("error",function(){
-  // Discord attachment CDN can fail on the direct host; retry through its media proxy.
-  if(!triedProxy&&u.hostname==="cdn.discordapp.com"&&u.pathname.indexOf("/attachments/")===0){
+  // Only retry unsigned Discord URLs: signed attachment URLs are host-specific.
+  if(!triedProxy&&u.hostname==="cdn.discordapp.com"&&u.pathname.indexOf("/attachments/")===0&&!u.searchParams.has("ex")&&!u.searchParams.has("hm")){
    triedProxy=true;
    var proxy=new URL(u.href);proxy.hostname="media.discordapp.net";
    if(!proxy.searchParams.has("width"))proxy.searchParams.set("width","900");
@@ -203,7 +204,7 @@ function appendText(parent,text){if(text)parent.append(document.createTextNode(t
 function renderContent(parent,content){
  // Render Discord custom emoji and URLs as DOM nodes; never inject HTML.
  var source=String(content||"");
- var pattern=/<(a?):([a-zA-Z0-9_]{2,32}):(\d{17,20})>|https?:\/\/[^\s<>]+/g;
+ var pattern=/<(a?):([a-zA-Z0-9_]{2,32}):(\d{17,20})>|https?:\/\/[^\s<>\])]+/g;
  var cursor=0,match;
  while((match=pattern.exec(source))){
   appendText(parent,source.slice(cursor,match.index));
