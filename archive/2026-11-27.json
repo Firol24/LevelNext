@@ -1,18 +1,29 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T19:27+01:00",
+  "updatedAt": "2026-11-27T19:30+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "W 8 dni po premierze GTA 6 miało stać się 13. najlepiej sprzedającą się grą w historii. Sony mogło zrobić interes życia",
-    "summary": "Najnowsze szacunki sprzedaży GTA 6 są jeszcze bardziej imponujące, niż dotychczas sądzono. Powody do świętowania ma nie tylko Rockstar Games, ale również Sony.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/w-8-dni-po-premierze-gta-6-mialo-stac-sie-13-najlepiej-sprzedajac/ze324cb",
-    "articleSlug": "fc01b2c499c7",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533501767.jpg"
+    "title": "Kosmiczne RPG Exodus pozytywnie zaskakuje graczy PC wymaganiami sprzętowymi. Jego pełne piękno zobaczą jednak nieliczni",
+    "summary": "Poznaliśmy wymagania sprzętowe wyczekiwanego RPG science fiction określanego mianem duchowego następcy serii Mass Effect. Exodus nie potrzebuje bardzo mocnego komputera, o ile nie zależy nam na graniu w 4K.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/kosmiczne-rpg-exodus-pozytywnie-zaskakuje-graczy-pc-wymaganiami-s/z0324cd",
+    "articleSlug": "325cc04f66c7",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533503758.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Kosmiczne RPG Exodus pozytywnie zaskakuje graczy PC wymaganiami sprzętowymi. Jego pełne piękno zobaczą jednak nieliczni",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/kosmiczne-rpg-exodus-pozytywnie-zaskakuje-graczy-pc-wymaganiami-s/z0324cd",
+      "publishedAt": "2026-11-27T20:29+01:00",
+      "summary": "Poznaliśmy wymagania sprzętowe wyczekiwanego RPG science fiction określanego mianem duchowego następcy serii Mass Effect. Exodus nie potrzebuje bardzo mocnego komputera, o ile nie zależy nam na graniu w 4K.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533503758.jpg",
+      "articleSlug": "325cc04f66c7",
+      "articleBody": "Poznaliśmy wymagania sprzętowe wyczekiwanego RPG science fiction określanego mianem duchowego następcy serii Mass Effect. Exodus nie potrzebuje bardzo mocnego komputera, o ile nie zależy nam na graniu w 4K."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "W 8 dni po premierze GTA 6 miało stać się 13. najlepiej sprzedającą się grą w historii. Sony mogło zrobić interes życia",
@@ -331,17 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533485997.jpg",
       "articleSlug": "9ec8f5b8f0d6",
       "articleBody": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Zestawy Gravitrax taniej z okazji Black Friday w Amazon PL. Zestaw Startowy Drop’n’roll za 331,46 zł",
-      "sourceUrl": "https://lowcygier.pl/gry-planszowe/zestawy-gravitrax-taniej-z-okazji-black-friday-w-amazon-pl-zestaw-startowy-dropnroll-za-33146-zl/",
-      "publishedAt": "2026-11-27T15:32+01:00",
-      "summary": "Zestawy Gravitrax, do tworzenia torów z przeszkodami, pojawiły się w nieco niższych cenach w polskim oddziale sklepu Amazon. Jeśli lubicie kreatywną zabawę, za startowy PRO set Drop’n’roll zapłacicie obecnie 331,46 zł. Dostępny jest także starter XXL, który kosztuje nieco ponad 391 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/gravitrax-pro-drop-n-roll-starter-2b-224x224.jpg",
-      "articleSlug": "a2bfbe28c145",
-      "articleBody": "Zestawy Gravitrax, do tworzenia torów z przeszkodami, pojawiły się w nieco niższych cenach w polskim oddziale sklepu Amazon. Jeśli lubicie kreatywną zabawę, za startowy PRO set Drop’n’roll zapłacicie obecnie 331,46 zł. Dostępny jest także starter XXL, który kosztuje nieco ponad 391 złotych. Czytaj więcej »"
     }
   ],
   "indie": [
