@@ -1,7 +1,7 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T19:30+01:00",
+  "updatedAt": "2026-11-27T20:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
@@ -34,6 +34,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533501767.jpg",
       "articleSlug": "fc01b2c499c7",
       "articleBody": "Najnowsze szacunki sprzedaży GTA 6 są jeszcze bardziej imponujące, niż dotychczas sądzono. Powody do świętowania ma nie tylko Rockstar Games, ale również Sony."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Widzowie w szoku! Nagranie z planu The Batman 2 wywołało spekulacje o śmierci ważnej postaci",
+      "sourceUrl": "https://www.ppe.pl/news/434841/widzowie-w-szoku-nagranie-z-planu-the-batman-2-wywolalo-spekulacje-o-smierci-waznej-postaci.html",
+      "publishedAt": "2026-11-27T19:42+01:00",
+      "summary": "Nowe nagranie z planu The Batman 2 wywołało dyskusję wśród fanów. Widać na nim przygotowania do sceny pogrzebu, ale nie wiadomo, kto zostanie pochowany. Materiał opublikowany w sieci rozpalił spekulacje dotyczące losu kilku ważnych bohaterów...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8c06e3e11348a6c76f6f/8c06e3e11348a6c76f6f.jpg",
+      "articleSlug": "92b61bf7c100",
+      "articleBody": "Nowe nagranie z planu The Batman 2 wywołało dyskusję wśród fanów. Widać na nim przygotowania do sceny pogrzebu, ale nie wiadomo, kto zostanie pochowany. Materiał opublikowany w sieci rozpalił spekulacje dotyczące losu kilku ważnych bohaterów..."
     },
     {
       "sourceName": "PPE",
@@ -331,17 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/dead-age-2-miniaturka-224x224.jpg",
       "articleSlug": "c9b725695448",
       "articleBody": "Sklep GOG.com przygotował dla Was Dead Age II za darmo w ramach Black Friday i trwającej wyprzedaży. To mieszanka gatunkowa, łącząca w sobie cechy roguelike, survivalu i turowego RPG, w którym traficie do postapokaliptycznego świata opanowanego przez zombie. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Dożywotnia gwarancja na RAM? Ten mały ślad na płytce wystarczył G.Skillowi, żeby powiedzieć „nie”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/dozywotnia-gwarancja-na-ram-ten-maly-slad-na-plytce-wystarczyl-gs/z2324c6",
-      "publishedAt": "2026-11-27T15:33+01:00",
-      "summary": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533485997.jpg",
-      "articleSlug": "9ec8f5b8f0d6",
-      "articleBody": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana."
     }
   ],
   "indie": [
