@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T21:01+01:00",
+  "updatedAt": "2026-11-27T21:38+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Eksperci mówią wprost: GTA 6 z nawiązką przebiło to, co obiecywało przed premierą. Rockstar mydlił oczy tylko w jednej kwestii",
-    "summary": "Specjaliści z Digital Foundry porównali oprawę graficzną GTA 6 z przedpremierowymi materiałami. Ich zdaniem Rockstar Games pod wieloma względami przewyższyło oczekiwania, choć nie obyło się bez pewnych zastrzeżeń.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/eksperci-mowia-wprost-gta-6-z-nawiazka-przebilo-to-co-obiecywalo/z1324ce",
-    "articleSlug": "f16fa41b095e",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533504480.jpg"
+    "title": "Czy Black Friday ma dziś sens, czy stał się \"marketingową papką\"?",
+    "summary": "Jeszcze kilka lat temu Black Friday miał w sobie coś z małego święta łowców okazji. Człowiek potrafił przez tydzień odkładać zakup, sprawdzać ceny, ustawiać przypomnienia i czekać, aż w piątek faktycznie wydarzy się coś konkretnego. B...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/434278/czy-black-friday-ma-dzis-sens-czy-stal-sie-marketingowa-papka.html",
+    "articleSlug": "c77dcdc8f130",
+    "imageUrl": "https://pliki.ppe.pl/storage/a488f05176cf441a27d3/a488f05176cf441a27d3-jpg-1600w.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Czy Black Friday ma dziś sens, czy stał się \"marketingową papką\"?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434278/czy-black-friday-ma-dzis-sens-czy-stal-sie-marketingowa-papka.html",
+      "publishedAt": "2026-11-27T21:30+01:00",
+      "summary": "Jeszcze kilka lat temu Black Friday miał w sobie coś z małego święta łowców okazji. Człowiek potrafił przez tydzień odkładać zakup, sprawdzać ceny, ustawiać przypomnienia i czekać, aż w piątek faktycznie wydarzy się coś konkretnego. B...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a488f05176cf441a27d3/a488f05176cf441a27d3-jpg-1600w.jpg",
+      "articleSlug": "c77dcdc8f130",
+      "articleBody": "Jeszcze kilka lat temu Black Friday miał w sobie coś z małego święta łowców okazji. Człowiek potrafił przez tydzień odkładać zakup, sprawdzać ceny, ustawiać przypomnienia i czekać, aż w piątek faktycznie wydarzy się coś konkretnego. B..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 bez downgrade'u! Digital Foundry wzięło pod lupę hit Rockstara",
+      "sourceUrl": "https://www.ppe.pl/news/434843/gta-6-bez-downgrade-u-digital-foundry-wzielo-pod-lupe-hit-rockstara.html",
+      "publishedAt": "2026-11-27T21:25+01:00",
+      "summary": "Grand Theft Auto VI jest już dostępne, więc można nie tylko rzucić się w wir nowej przygody, ale też sprawdzić, czy Rockstar Games faktycznie dostarczyło graczom nową jakość zarówno pod kątem gameplayowym, jak i technicznym. I o ile w przy...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/b6af1930638159dec3f8/b6af1930638159dec3f8.webp",
+      "articleSlug": "c2f0e2c4d0b8",
+      "articleBody": "Grand Theft Auto VI jest już dostępne, więc można nie tylko rzucić się w wir nowej przygody, ale też sprawdzić, czy Rockstar Games faktycznie dostarczyło graczom nową jakość zarówno pod kątem gameplayowym, jak i technicznym. I o ile w przy..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "To najbardziej wzruszająca historia związana z GTA 6. Twórca ujawnił sekret",
+      "sourceUrl": "https://www.ppe.pl/news/434842/to-najbardziej-wzruszajaca-historia-zwiazana-z-gta-6-tworca-ujawnil-sekret.html",
+      "publishedAt": "2026-11-27T21:14+01:00",
+      "summary": "GTA 6 zachwyca rozmachem, ogromnym światem i dbałością o najmniejsze szczegóły, ale nie wszystkie sekrety przygotowane przez Rockstar Games mają zapewniać graczom rozrywkę. Jedno z pozornie niepozornych miejsc w Leonidzie skrywa wyjątkowo poru...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f56ea550d4d8a7a05d67/f56ea550d4d8a7a05d67.jpg",
+      "articleSlug": "1df9ece74ac1",
+      "articleBody": "GTA 6 zachwyca rozmachem, ogromnym światem i dbałością o najmniejsze szczegóły, ale nie wszystkie sekrety przygotowane przez Rockstar Games mają zapewniać graczom rozrywkę. Jedno z pozornie niepozornych miejsc w Leonidzie skrywa wyjątkowo poru..."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Eksperci mówią wprost: GTA 6 z nawiązką przebiło to, co obiecywało przed premierą. Rockstar mydlił oczy tylko w jednej kwestii",
@@ -23,6 +56,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533504480.jpg",
       "articleSlug": "f16fa41b095e",
       "articleBody": "Specjaliści z Digital Foundry porównali oprawę graficzną GTA 6 z przedpremierowymi materiałami. Ich zdaniem Rockstar Games pod wieloma względami przewyższyło oczekiwania, choć nie obyło się bez pewnych zastrzeżeń."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Rekordowa promocja na Talking Flower. Gadająca figurka dla fanów Mario dostępna od 69,89 zł!",
+      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/rekordowa-promocja-na-talking-flower-gadajaca-figurka-dla-fanow-mario-dostepna-od-6989-zl/",
+      "publishedAt": "2026-11-27T21:07+01:00",
+      "summary": "Łowcy, na początku 2026 roku, z okazji premiery Super Mario Bros. Wonder na Nintendo Switch 2, gigant z Kioto przygotował dla najwierniejszych fanów wąsatego hydraulika specjalny gadżet… gadający kwiatek dodający otuchy! W ramach wyprzedaży Black Friday 2026 Nintendo Super Mario Bros. Wonder Talking Flower dostępny jest w polskich sklepach w promocyjnych cenach zaczynających się od 69,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/03/Preorder-Nintendo-Talking-Flower-w-Empiku.-Gadajaca-figurka-umilajaca-dzien-za-123-zl_miniaturka-224x224.jpg",
+      "articleSlug": "a201fa7865c3",
+      "articleBody": "Łowcy, na początku 2026 roku, z okazji premiery Super Mario Bros. Wonder na Nintendo Switch 2, gigant z Kioto przygotował dla najwierniejszych fanów wąsatego hydraulika specjalny gadżet… gadający kwiatek dodający otuchy! W ramach wyprzedaży Black Friday 2026 Nintendo Super Mario Bros. Wonder Talking Flower dostępny jest w polskich sklepach w promocyjnych cenach zaczynających się od 69,89 zł. Czytaj więcej »"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -298,50 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533487875.jpg",
       "articleSlug": "599e4df9f4c3",
       "articleBody": "Blizzard wprowadził szereg zmian, które mogą nie spodobać się min-makserom. Gracze chcący wziąć udział w jednym z trybów rywalizacji muszą teraz skupić się na realizacji celów pobocznych, zamiast polegać na jednej, powtarzanej do znudzenia taktyce."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Szef Path of Exile 2 uderza w Blizzarda. „Naprawdę fatalny” sposób zapowiadania gier",
-      "sourceUrl": "https://www.ppe.pl/news/434815/szef-path-of-exile-2-uderza-w-blizzarda-naprawde-fatalny-sposob-zapowiadania-gier.html",
-      "publishedAt": "2026-11-27T16:16+01:00",
-      "summary": "Jonathan Rogers, współreżyser Path of Exile 2, skrytykował sposób, w jaki niektóre studia prezentują swoje nadchodzące produkcje.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/004bd37dc5e27aefc8d0/004bd37dc5e27aefc8d0.jpg",
-      "articleSlug": "a117a24d6dd4",
-      "articleBody": "Jonathan Rogers, współreżyser Path of Exile 2, skrytykował sposób, w jaki niektóre studia prezentują swoje nadchodzące produkcje."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "2. sezon „Rycerzy Doliny Rozdupy” Walaszka jest średni, czyli super [RECENZJA]",
-      "sourceUrl": "https://cdaction.pl/kultura/2-sezon-rycerzy-doliny-rozdupy-walaszka-jest-sredni-czyli-super-recenzja/",
-      "publishedAt": "2026-11-27T16:15+01:00",
-      "summary": "Robocizna jak u obcego – na odpi***ol. Bartosz Walaszek w dalszym ciągu daje z siebie 30%, a rachunek wystawia na pełną kwotę. Co tam rachunek… FAKTURĘ! A z fakturą, wiadomo, drożej.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/1.jpg",
-      "articleSlug": "f3bd65907c04",
-      "articleBody": "Robocizna jak u obcego – na odpi***ol. Bartosz Walaszek w dalszym ciągu daje z siebie 30%, a rachunek wystawia na pełną kwotę. Co tam rachunek… FAKTURĘ! A z fakturą, wiadomo, drożej."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Stellar Blade na PS5 za 149 zł (170 zł taniej) w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-stellar-blade-na-ps5-za-149-zl-170-zl-taniej-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-27T16:11+01:00",
-      "summary": "Stellar Blade, czyli slasher studia SHIFT UP, który w bliżej nieokreślonym czasie ma doczekać się kontynuacji, jest teraz dostępny w dobrej cenie w RTV Euro AGD. Pudełkową wersję gry na PlayStation 5 kupicie za 149 zł dzięki promocjom z okazji Black Friday 2026. W produkcji pokierujecie losami Eve, która trafia na zrujnowaną Ziemię, by pomóc ocalałym z Xion i zmierzyć się z tajemniczymi Naytiba. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/02/Preorder-Stellar-Blade-na-konsole-PlayStation-5_miniaturka-224x224.jpg",
-      "articleSlug": "031ade94be3e",
-      "articleBody": "Stellar Blade, czyli slasher studia SHIFT UP, który w bliżej nieokreślonym czasie ma doczekać się kontynuacji, jest teraz dostępny w dobrej cenie w RTV Euro AGD. Pudełkową wersję gry na PlayStation 5 kupicie za 149 zł dzięki promocjom z okazji Black Friday 2026. W produkcji pokierujecie losami Eve, która trafia na zrujnowaną Ziemię, by pomóc ocalałym z Xion i zmierzyć się z tajemniczymi Naytiba. Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Współtwórca Path of Exile ostrzega, że branża gier zmierza w kierunku katastrofy. „Kiedyś granie było lepszym doświadczeniem”",
-      "sourceUrl": "https://cdaction.pl/newsy/wspoltworca-path-of-exile-ostrzega-ze-branza-gier-zmierza-w-kierunku-katastrofy-kiedys-granie-bylo-lepszym-doswiadczeniem/",
-      "publishedAt": "2026-11-27T16:10+01:00",
-      "summary": "Chris Wilson nie owija w bawełnę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Path-of-Exile.jpg",
-      "articleSlug": "6f370d857bec",
-      "articleBody": "Chris Wilson nie owija w bawełnę."
     }
   ],
   "indie": [
