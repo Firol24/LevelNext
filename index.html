@@ -40,6 +40,10 @@
 #lnChatDock .ln-inline-image{display:block;max-width:min(100%,260px);max-height:230px;width:auto;height:auto;object-fit:contain;margin:7px 0;border:1px solid #76588d;background:#100b17}
 #lnChatDock .ln-custom-emoji{display:inline-block;width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 1px}
 #lnChatDock .ln-attachment-link{display:inline-block;margin-top:5px}
+
+#lnChatDock .ln-image-link{display:block;width:max-content;max-width:100%;margin:7px 0;text-decoration:none}
+#lnChatDock .ln-image-fallback{display:inline-block;padding:6px 9px;border:1px solid #9876ad;background:#30203f;color:#ffdc55;font:9px monospace}
+#lnChatDock .ln-inline-image{max-width:min(100%,300px);max-height:260px}
 </style>
 </head><body><div class="site"><header class="masthead"><div class="logo-stage"><img class="logo" src="logo.png" alt="LEVEL NEXT"></div></header><nav class="nav" aria-label="Główna nawigacja">
 <a href="index.html" data-nav="index.html">START</a>
@@ -165,12 +169,34 @@ function isImageUrl(value){
 }
 function appendImage(parent,url,alt,extraClass){
  var u=safeUrl(url);if(!u||!isImageUrl(url))return false;
+ var wrap=document.createElement("a");
+ wrap.className="ln-image-link";
+ wrap.href=u.href;wrap.target="_blank";wrap.rel="noopener noreferrer";
  var img=document.createElement("img");
  img.className="ln-inline-image"+(extraClass?" "+extraClass:"");
- img.src=u.href;img.alt=alt||"";
+ img.alt=alt||"";
  img.loading="lazy";img.referrerPolicy="no-referrer";
- img.addEventListener("error",function(){img.remove()},{once:true});
- parent.append(img);
+ var triedProxy=false;
+ img.addEventListener("error",function(){
+  // Discord attachment CDN can fail on the direct host; retry through its media proxy.
+  if(!triedProxy&&u.hostname==="cdn.discordapp.com"&&u.pathname.indexOf("/attachments/")===0){
+   triedProxy=true;
+   var proxy=new URL(u.href);proxy.hostname="media.discordapp.net";
+   if(!proxy.searchParams.has("width"))proxy.searchParams.set("width","900");
+   img.src=proxy.href;
+   return;
+  }
+  img.remove();
+  if(!wrap.querySelector(".ln-image-fallback")){
+   var fallback=document.createElement("span");
+   fallback.className="ln-image-fallback";
+   fallback.textContent="OTWÓRZ OBRAZ / GIF ↗";
+   wrap.append(fallback);
+  }
+ },false);
+ img.src=u.href;
+ wrap.append(img);
+ parent.append(wrap);
  return true;
 }
 function appendText(parent,text){if(text)parent.append(document.createTextNode(text))}
