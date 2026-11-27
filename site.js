@@ -246,26 +246,56 @@
         try { window.localStorage.setItem(winampVisibilityKey, "1"); } catch (error) {}
       });
 
-      // Okno jest przypiete do body, wiec zapisane wspolrzedne sa wspolrzednymi dokumentu.
+      // Winamp jest pływającym oknem przypiętym do ekranu, tak jak live chat.
       var positionKey = "levelNextWinampPosition";
+      var sizeKey = "levelNextWinampSize";
       var savedPosition = null;
-      try { savedPosition = JSON.parse(window.localStorage.getItem(positionKey) || "null"); } catch (error) {}
+      var savedSize = null;
+      try {
+        savedPosition = JSON.parse(window.localStorage.getItem(positionKey) || "null");
+        savedSize = JSON.parse(window.localStorage.getItem(sizeKey) || "null");
+      } catch (error) {}
+
+      if (savedSize && Number.isFinite(savedSize.width) && Number.isFinite(savedSize.height)) {
+        player.style.width = Math.max(250, Math.min(window.innerWidth - 16, savedSize.width)) + "px";
+        player.style.height = Math.max(120, Math.min(window.innerHeight - 16, savedSize.height)) + "px";
+      }
+
       function clampPlayerPosition(left, top) {
-        var pageWidth = Math.max(window.innerWidth, document.body.offsetWidth, document.documentElement.clientWidth);
-        var pageHeight = Math.max(window.innerHeight, document.body.offsetHeight, document.documentElement.clientHeight);
-        var maxLeft = Math.max(0, pageWidth - player.offsetWidth);
-        var maxTop = Math.max(0, pageHeight - player.offsetHeight);
+        var maxLeft = Math.max(0, window.innerWidth - player.offsetWidth);
+        var maxTop = Math.max(0, window.innerHeight - player.offsetHeight);
         return {
           left: Math.max(0, Math.min(maxLeft, left)),
           top: Math.max(0, Math.min(maxTop, top))
         };
       }
+
       var initialRect = player.getBoundingClientRect();
       var initialPosition = savedPosition && Number.isFinite(savedPosition.left) && Number.isFinite(savedPosition.top)
         ? clampPlayerPosition(savedPosition.left, savedPosition.top)
-        : clampPlayerPosition(window.scrollX + window.innerWidth - initialRect.width - 24, window.scrollY + window.innerHeight - initialRect.height - 24);
+        : clampPlayerPosition(window.innerWidth - initialRect.width - 24, window.innerHeight - initialRect.height - 24);
       player.style.left = initialPosition.left + "px";
       player.style.top = initialPosition.top + "px";
+      player.style.right = "auto";
+      player.style.bottom = "auto";
+
+      function savePlayerPosition() {
+        try {
+          window.localStorage.setItem(positionKey, JSON.stringify({
+            left: parseFloat(player.style.left) || 0,
+            top: parseFloat(player.style.top) || 0
+          }));
+        } catch (error) {}
+      }
+
+      function savePlayerSize() {
+        try {
+          window.localStorage.setItem(sizeKey, JSON.stringify({
+            width: Math.round(player.getBoundingClientRect().width),
+            height: Math.round(player.getBoundingClientRect().height)
+          }));
+        } catch (error) {}
+      }
 
       var dragState = null;
       drag.addEventListener("pointerdown", function (event) {
@@ -274,37 +304,51 @@
         var rect = player.getBoundingClientRect();
         dragState = {
           pointerId: event.pointerId,
-          startX: event.pageX,
-          startY: event.pageY,
-          left: rect.left + window.scrollX,
-          top: rect.top + window.scrollY
+          startX: event.clientX,
+          startY: event.clientY,
+          left: rect.left,
+          top: rect.top
         };
         drag.classList.add("dragging");
       });
       document.addEventListener("pointermove", function (event) {
         if (!dragState || event.pointerId !== dragState.pointerId) return;
-        var pageWidth = Math.max(window.innerWidth, document.body.offsetWidth, document.documentElement.clientWidth);
-        var pageHeight = Math.max(window.innerHeight, document.body.offsetHeight, document.documentElement.clientHeight);
-        var maxLeft = Math.max(0, pageWidth - player.offsetWidth);
-        var maxTop = Math.max(0, pageHeight - player.offsetHeight);
-        var left = Math.max(0, Math.min(maxLeft, dragState.left + event.pageX - dragState.startX));
-        var top = Math.max(0, Math.min(maxTop, dragState.top + event.pageY - dragState.startY));
-        player.style.left = left + "px";
-        player.style.top = top + "px";
+        var position = clampPlayerPosition(
+          dragState.left + event.clientX - dragState.startX,
+          dragState.top + event.clientY - dragState.startY
+        );
+        player.style.left = position.left + "px";
+        player.style.top = position.top + "px";
       });
       function endDrag(event) {
         if (!dragState || (event && event.pointerId !== dragState.pointerId)) return;
         dragState = null;
         drag.classList.remove("dragging");
-        try {
-          window.localStorage.setItem(positionKey, JSON.stringify({
-            left: parseFloat(player.style.left) || 0,
-            top: parseFloat(player.style.top) || 0
-          }));
-        } catch (error) {}
+        savePlayerPosition();
       }
       document.addEventListener("pointerup", endDrag);
       document.addEventListener("pointercancel", endDrag);
+
+      if (typeof ResizeObserver !== "undefined") {
+        var playerResizeObserver = new ResizeObserver(function () {
+          savePlayerSize();
+          var rect = player.getBoundingClientRect();
+          var position = clampPlayerPosition(rect.left, rect.top);
+          if (position.left !== rect.left || position.top !== rect.top) {
+            player.style.left = position.left + "px";
+            player.style.top = position.top + "px";
+            savePlayerPosition();
+          }
+        });
+        playerResizeObserver.observe(player);
+      }
+      window.addEventListener("resize", function () {
+        var rect = player.getBoundingClientRect();
+        var position = clampPlayerPosition(rect.left, rect.top);
+        player.style.left = position.left + "px";
+        player.style.top = position.top + "px";
+        savePlayerPosition();
+      });
     }
 
     // Wspolny generator misji dla strony glownej i osobnej podstrony.
