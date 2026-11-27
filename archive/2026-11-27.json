@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T07:01+01:00",
+  "updatedAt": "2026-11-27T08:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Ponad 27 mln wyświetleń w 5 dni i nr 1 Netflixa. Film z Jaredem Padaleckim to największy hit serwisu minionego tygodnia",
-    "summary": "Netflix ujawnił, jaki film cieszył się największą popularnością w ubiegłym tygodniu. Wygląda na to, że Jared Padalecki w świątecznej produkcji przyciągnął przed małe ekrany nie tylko fanów Supernatural.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-27-mln-wyswietlen-w-5-dni-i-nr-1-netflixa-film-z-jaredem-pa/zb32499",
-    "articleSlug": "96c09160e92c",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533395332.jpg"
+    "title": "GTA 6 na Xbox One to „niezwykłe osiągnięcie”. Eksperci zachwyceni możliwościami starej konsoli",
+    "summary": "GTA 6 na konsoli z 2013 roku? Jeszcze niedawno taki scenariusz wydawał się niemożliwy, ale Microsoft znalazł sposób, by udostępnić najnowszą produkcję Rockstar Games również posiadaczom Xbox One.",
+    "sourceUrl": "https://www.ppe.pl/news/434719/gta-6-na-xbox-one-to-niezwykle-osiagniecie-eksperci-zachwyceni-mozliwosciami-starej-konsoli.html",
+    "articleSlug": "9da06b2af7e5",
+    "imageUrl": "https://pliki.ppe.pl/storage/f6f5d5597f6a63856697/f6f5d5597f6a63856697.png"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 na Xbox One to „niezwykłe osiągnięcie”. Eksperci zachwyceni możliwościami starej konsoli",
+      "sourceUrl": "https://www.ppe.pl/news/434719/gta-6-na-xbox-one-to-niezwykle-osiagniecie-eksperci-zachwyceni-mozliwosciami-starej-konsoli.html",
+      "publishedAt": "2026-11-27T07:55+01:00",
+      "summary": "GTA 6 na konsoli z 2013 roku? Jeszcze niedawno taki scenariusz wydawał się niemożliwy, ale Microsoft znalazł sposób, by udostępnić najnowszą produkcję Rockstar Games również posiadaczom Xbox One.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f6f5d5597f6a63856697/f6f5d5597f6a63856697.png",
+      "articleSlug": "9da06b2af7e5",
+      "articleBody": "GTA 6 na konsoli z 2013 roku? Jeszcze niedawno taki scenariusz wydawał się niemożliwy, ale Microsoft znalazł sposób, by udostępnić najnowszą produkcję Rockstar Games również posiadaczom Xbox One."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "PS Plus w grudniu z lepszą ofertą… ale tylko dla wybrańców",
+      "sourceUrl": "https://www.ppe.pl/news/434725/ps-plus-w-grudniu-z-lepsza-oferta-ale-tylko-dla-wybrancow.html",
+      "publishedAt": "2026-11-27T07:30+01:00",
+      "summary": "Sony ujawniło już grudniową ofertę PS Plus Essential, ale okazuje się, że nie wszyscy abonenci otrzymają identyczny zestaw gier. Japońscy gracze mogą liczyć na nieco inną propozycję, która przynajmniej pod względem wartości wygląda znacz...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/22f154ed4e9769491a05/22f154ed4e9769491a05.jpg",
+      "articleSlug": "0f52c642c5a0",
+      "articleBody": "Sony ujawniło już grudniową ofertę PS Plus Essential, ale okazuje się, że nie wszyscy abonenci otrzymają identyczny zestaw gier. Japońscy gracze mogą liczyć na nieco inną propozycję, która przynajmniej pod względem wartości wygląda znacz..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Pracownik Microsoftu pochwalił twórców nieoficjalnego portu GTA 6 na PC! Ktoś będzie miał problem",
+      "sourceUrl": "https://www.ppe.pl/news/434745/pracownik-microsoftu-pochwalil-tworcow-nieoficjalnego-portu-gta-6-na-pc-ktos-bedzie-mial-problem.html",
+      "publishedAt": "2026-11-27T07:05+01:00",
+      "summary": "Sytuacja związana z GTA 6 na PC staje się coraz bardziej absurdalna. Gracze od kilku dni próbują uruchomić najnowszą produkcję Rockstar Games na komputerach, wykorzystując nieoficjalne narzędzia, a teraz do całego zamieszania niespodziewanie d...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/4585c5d37040c9dfb484/4585c5d37040c9dfb484.jpg",
+      "articleSlug": "68786e634d78",
+      "articleBody": "Sytuacja związana z GTA 6 na PC staje się coraz bardziej absurdalna. Gracze od kilku dni próbują uruchomić najnowszą produkcję Rockstar Games na komputerach, wykorzystując nieoficjalne narzędzia, a teraz do całego zamieszania niespodziewanie d..."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Ponad 27 mln wyświetleń w 5 dni i nr 1 Netflixa. Film z Jaredem Padaleckim to największy hit serwisu minionego tygodnia",
@@ -168,6 +201,17 @@
       "articleBody": "Łowcy, z okazji Black Friday 2026, zespół Fanatical przygotował coś dla fanów uwielbianego przez graczy gatunku Boomer Shooterów. W ramach zestawu Build Your Own Boomer Shooter Bundle możecie wybrać maksymalnie 20 produkcji w stylu retro w wersjach na Steam. Całość dostępna jest w czterech progach cenowych, a najdroższy z nich został wyceniony na 134,33 zł, co daje nam dobry przelicznik na poziomie ok. 6,72 zł za jedną pozycję ! Czytaj więcej »"
     },
     {
+      "sourceName": "CD-Action",
+      "title": "Koniec bezgłowego Wiedźmina w gaciach. CD Projekt Red naprawia błędy w najnowszej aktualizacji",
+      "sourceUrl": "https://cdaction.pl/newsy/koniec-bezglowego-wiedzmina-w-gaciach-cd-projekt-red-naprawia-bledy-w-najnowszej-aktualizacji/",
+      "publishedAt": "2026-11-26T22:32+01:00",
+      "summary": "Moda daj wiedźminowi!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/wiedzmin3-1-1260x709.jpg",
+      "articleSlug": "e63d804b8cc7",
+      "articleBody": "Moda daj wiedźminowi!"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "80. gra za darmo w 2026 roku w Epic Games Store [Aktualizacja]",
       "sourceUrl": "https://www.gry-online.pl/newsroom/80-gra-za-darmo-w-2026-roku-w-epic-games-store/z632485",
@@ -298,50 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533400655.jpg",
       "articleSlug": "6059ca6bab24",
       "articleBody": "Studio Paradox ujawniło informacje na temat mechanik zarządzania plemieniem w postapokaliptycznej wielkiej strategii Afterworld."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Ojciec PlayStation przewiduje koniec konsol przez wzrost cen i AI. „To realne niebezpieczeństwo”",
-      "sourceUrl": "https://cdaction.pl/newsy/ojciec-playstation-przewiduje-koniec-konsol-przez-wzrost-cen-i-ai-to-realne-niebezpieczenstwo/",
-      "publishedAt": "2026-11-26T15:30+01:00",
-      "summary": "Wydaje się jednak, że tego typu wypowiedzi są mu na rękę…",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/01/Playstation-6.jpg",
-      "articleSlug": "15f8ffdd7dab",
-      "articleBody": "Wydaje się jednak, że tego typu wypowiedzi są mu na rękę…"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Czy GTA 6 to gra rodem z PS6? To najładniejszy tytuł tej generacji, który pokazuje, że z PS5 już więcej nie wyciśniemy [RECENZJA TECHNICZNA]",
-      "sourceUrl": "https://cdaction.pl/technologie/czy-gta-6-to-gra-rodem-z-ps6-to-najladniejszy-tytul-tej-generacji-ktory-pokazuje-ze-z-ps5-juz-wiecej-nie-wycisniemy-recenzja-techniczna/",
-      "publishedAt": "2026-11-26T15:23+01:00",
-      "summary": "Rockstar dokonał czegoś, co jeszcze kilka lat temu wydawało się niemożliwe. GTA 6 oferuje najbardziej realistyczny i szczegółowy otwarty świat, jaki widziałem w grach, a przy tym wygląda jak produkcja wyprzedzająca konkurencję o całą generację. Bardzo rozbudowany ray tracing, niesamowite animacje, fotorealistyczna grafika i ogromna liczba detali robią piorunujące wrażenie. Jest tylko jeden problem – nawet na PS5 Pro oglądamy wszystko w 30 fps.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Grand_Theft_Auto_VI_20261122000103_-1260x709.jpg",
-      "articleSlug": "e791a115e47f",
-      "articleBody": "Rockstar dokonał czegoś, co jeszcze kilka lat temu wydawało się niemożliwe. GTA 6 oferuje najbardziej realistyczny i szczegółowy otwarty świat, jaki widziałem w grach, a przy tym wygląda jak produkcja wyprzedzająca konkurencję o całą generację. Bardzo rozbudowany ray tracing, niesamowite animacje, fotorealistyczna grafika i ogromna liczba detali robią piorunujące wrażenie. Jest tylko jeden problem – nawet na PS5 Pro oglądamy wszystko w 30 fps."
-    },
-    {
-      "sourceName": "GRY-Online / Publicystyka",
-      "title": "Sprawdziłem GTA 6 na PS5 i PS5 Pro. Droższa konsola oferuje lepszą grafikę, ale zdecydowanie odradzam przesiadkę",
-      "sourceUrl": "https://www.gry-online.pl/opinie/chcesz-wydac-kilka-tysiecy-zlotych-by-gta-6-wygladalo-lepiej-spra/z749df",
-      "publishedAt": "2026-11-25T16:30+01:00",
-      "summary": "GTA 6 zachwyca grafiką już na podstawowym PS5, ale wersja na PS5 Pro potrafi dorzucić kilka wizualnych usprawnień. Czy różnice są warte dopłaty do mocniejszej konsoli? Sprawdziłem obie wersje i wiem, w co lepiej zainwestować. Sprawdziłem GTA 6 na PS5 i PS5 Pro. Droższa konsola oferuje lepszą grafikę, ale zdecydowanie odradzam przesiadkę został opublikowany przez gry-online.pl 25 listopada 2026. Zobacz zasady korzystania z naszych treści .",
-      "category": "PUBLICYSTYKA",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533393707.jpg",
-      "articleSlug": "7b780d789f46",
-      "articleBody": "GTA 6 zachwyca grafiką już na podstawowym PS5, ale wersja na PS5 Pro potrafi dorzucić kilka wizualnych usprawnień. Czy różnice są warte dopłaty do mocniejszej konsoli? Sprawdziłem obie wersje i wiem, w co lepiej zainwestować. Sprawdziłem GTA 6 na PS5 i PS5 Pro. Droższa konsola oferuje lepszą grafikę, ale zdecydowanie odradzam przesiadkę został opublikowany przez gry-online.pl 25 listopada 2026. Zobacz zasady korzystania z naszych treści ."
-    },
-    {
-      "sourceName": "GRY-Online / Publicystyka",
-      "title": "15 lat temu Wiedźmin 2 uratował CD Projekt RED przed upadkiem. Wróciłem do gry, bez której moglibyśmy nigdy nie zobaczyć Wiedźmina 3 i 4",
-      "sourceUrl": "https://www.gry-online.pl/opinie/wiedzmin-2-ma-15-lat-i-wciaz-zyje-w-cieniu-trojki-a-przeciez-to-w/z649de",
-      "publishedAt": "2026-11-24T16:20+01:00",
-      "summary": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie. 15 lat temu Wiedźmin 2 uratował CD Projekt RED przed upadkiem. Wróciłem do gry, bez której moglibyśmy nigdy nie zobaczyć Wiedźmina 3 i 4 został opublikowany przez gry-online.pl 24 listopada 2026. Zobacz zasady korzystania z naszych treści .",
-      "category": "PUBLICYSTYKA",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533228048.jpg",
-      "articleSlug": "d98c9ef97495",
-      "articleBody": "Zanim CDP RED podbił świat trzecim Wiedźminem, studio stało na krawędzi bankructwa, a kontynuację przygód Geralta ratowano z udziałem firmy Optimus. Odpaliłem ten zapomniany klasyk po latach i sprawdziłem, jak broni się dziś - i to na nietypowym sprzęcie. 15 lat temu Wiedźmin 2 uratował CD Projekt RED przed upadkiem. Wróciłem do gry, bez której moglibyśmy nigdy nie zobaczyć Wiedźmina 3 i 4 został opublikowany przez gry-online.pl 24 listopada 2026. Zobacz zasady korzystania z naszych treści ."
     }
   ],
   "indie": [
