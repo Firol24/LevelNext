@@ -84,7 +84,7 @@
 <div class="winamp-window" id="winampWindow" aria-label="Odtwarzacz LEVEL NEXT">
   <div class="winamp-titlebar" id="winampDrag">
     <span class="winamp-app-icon">▰</span><strong>WINAMP 2.9x</strong><span class="winamp-title-spacer"></span>
-    <button type="button" class="winamp-window-btn" id="winampMinimize" aria-label="Minimalizuj">_</button>
+
     <button type="button" class="winamp-window-btn winamp-close" id="winampClose" aria-label="Zamknij">×</button>
   </div>
   <div class="winamp-inner">
@@ -336,7 +336,7 @@ if(closeButton)closeButton.addEventListener("click",function(e){
 if(launcher)launcher.addEventListener("click",function(){
  dock.style.display="flex";
  launcher.hidden=true;
- setChatMinimized(false);
+
 });
 if(dragBar){
  var drag=null;
