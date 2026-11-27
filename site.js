@@ -149,7 +149,7 @@
     if (!player) {
       document.body.insertAdjacentHTML("beforeend",
         '<div class="winamp-window" id="winampWindow" aria-label="Odtwarzacz LEVEL NEXT">' +
-          '<div class="winamp-titlebar" id="winampDrag"><span class="winamp-app-icon">▰</span><strong>WINAMP 2.9x</strong><span class="winamp-title-spacer"></span><button type="button" class="winamp-window-btn" id="winampMinimize" aria-label="Minimalizuj">_</button><button type="button" class="winamp-window-btn winamp-close" id="winampClose" aria-label="Zamknij">×</button></div>' +
+          '<div class="winamp-titlebar" id="winampDrag"><span class="winamp-app-icon">▰</span><strong>WINAMP 2.9x</strong><span class="winamp-title-spacer"></span><button type="button" class="winamp-window-btn winamp-close" id="winampClose" aria-label="Zamknij">×</button></div>' +
           '<div class="winamp-inner"><div class="winamp-display"><div class="winamp-display-top"><span id="winampState">STARTING</span><span id="winampTime">00:00</span></div><div class="winamp-track"><span id="winampTrackName">untitled.mp3</span></div><div class="winamp-spectrum" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></div>' +
           '<div class="winamp-controls"><button type="button" id="winampPlay" aria-label="Odtwórz">▶</button><button type="button" id="winampPause" aria-label="Pauza">Ⅱ</button><span class="winamp-volume-label">VOL</span><input id="winampVolume" type="range" min="0" max="1" step="0.01" value="0.75" aria-label="Głośność"></div><audio id="winampAudio" preload="auto" autoplay loop><source src="assets/audio/untitled.mp3" type="audio/mpeg"></audio></div>' +
           '<div class="winamp-bottom"><span>STEREO</span><span>44 KHZ</span><span>LEVEL NEXT RADIO</span></div></div>' +
@@ -167,7 +167,6 @@
       var state = document.getElementById("winampState");
       var time = document.getElementById("winampTime");
       var drag = document.getElementById("winampDrag");
-      var minimize = document.getElementById("winampMinimize");
       var closePlayer = document.getElementById("winampClose");
       var launcher = document.getElementById("winampLauncher");
 
@@ -225,7 +224,6 @@
       document.addEventListener("pointerdown", retryAutoplay, true);
       document.addEventListener("keydown", retryAutoplay, true);
 
-      minimize.addEventListener("click", function () { player.hidden = true; launcher.hidden = false; });
       closePlayer.addEventListener("click", function () { audio.pause(); player.hidden = true; launcher.hidden = false; });
       launcher.addEventListener("click", function () { player.hidden = false; launcher.hidden = true; });
 
