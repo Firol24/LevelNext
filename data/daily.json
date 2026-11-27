@@ -1,18 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T22:01+01:00",
+  "updatedAt": "2026-11-27T23:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Where Winds Meet - analiza techniczna implementacji DLSS 5. Jak wypada i co zmienia?",
-    "summary": "Implementacja DLSS 5 w Where Winds Meet całkowicie zmienia cieniowanie architektury, kamieni, gzymsów czy posadzek. Dostajemy naturalny wygląd tkanin, skóry i włosów oraz tonację oświetlenia. Nowy Neural Rendering przetwarza obraz przygotowany p...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/434838/where-winds-meet-analiza-techniczna-implementacji-dlss-5-jak-wypada-i-co-zmienia.html",
-    "articleSlug": "2d6eb99751d9",
-    "imageUrl": "https://pliki.ppe.pl/storage/c48aab96e42318b281cf/c48aab96e42318b281cf.webp"
+    "category": "PROMOCJE",
+    "title": "Promocja na podkładki KRUX w Empiku. Kultowy model Mapa Miasta XXL dostępny za 37,89 zł!",
+    "summary": "W internetowym sklepie Empik, z okazji Black Friday 2026, ponownie dostępna jest promocja na podkładki pod myszki. W ramach oferty możecie zakupić tanio wybrane modele firmy Krux z serii Space XXL (97 x 40 cm). Wśród przecenionych wariantów znajdziecie takie klasyki jak „perski dywan” oraz „mapa miasta” , które mogą być Wasz już od 37,89 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/promocja-na-podkladki-krux-w-empiku-kultowy-model-mapa-miasta-xxl-dostepny-za-3789-zl/",
+    "articleSlug": "8dcc0c2b7969",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Promocja-na-podkladki-KRUX-w-Empiku.-Kultowy-model-Mapa-Miasta-XXL-juz-za-3989-zl_minaiturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocja na podkładki KRUX w Empiku. Kultowy model Mapa Miasta XXL dostępny za 37,89 zł!",
+      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/promocja-na-podkladki-krux-w-empiku-kultowy-model-mapa-miasta-xxl-dostepny-za-3789-zl/",
+      "publishedAt": "2026-11-27T22:33+01:00",
+      "summary": "W internetowym sklepie Empik, z okazji Black Friday 2026, ponownie dostępna jest promocja na podkładki pod myszki. W ramach oferty możecie zakupić tanio wybrane modele firmy Krux z serii Space XXL (97 x 40 cm). Wśród przecenionych wariantów znajdziecie takie klasyki jak „perski dywan” oraz „mapa miasta” , które mogą być Wasz już od 37,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Promocja-na-podkladki-KRUX-w-Empiku.-Kultowy-model-Mapa-Miasta-XXL-juz-za-3989-zl_minaiturka-224x224.jpg",
+      "articleSlug": "8dcc0c2b7969",
+      "articleBody": "W internetowym sklepie Empik, z okazji Black Friday 2026, ponownie dostępna jest promocja na podkładki pod myszki. W ramach oferty możecie zakupić tanio wybrane modele firmy Krux z serii Space XXL (97 x 40 cm). Wśród przecenionych wariantów znajdziecie takie klasyki jak „perski dywan” oraz „mapa miasta” , które mogą być Wasz już od 37,89 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jason zdradził Lucię w GTA 6? Gracze odkryli dialog, który może wyjaśniać wielką tajemnicę",
+      "sourceUrl": "https://www.ppe.pl/news/434834/jason-zdradzil-lucie-w-gta-6-gracze-odkryli-dialog-ktory-moze-wyjasniac-wielka-tajemnice.html",
+      "publishedAt": "2026-11-27T22:26+01:00",
+      "summary": "GTA 6 od premiery nie przestaje zaskakiwać graczy, którzy każdego dnia odkrywają kolejne sekrety ukryte przez Rockstar Games. Społeczność tym razem zainteresowała się relacją Jasona z Mandy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c32c585f317f04362591/c32c585f317f04362591.avif",
+      "articleSlug": "652411e36c85",
+      "articleBody": "GTA 6 od premiery nie przestaje zaskakiwać graczy, którzy każdego dnia odkrywają kolejne sekrety ukryte przez Rockstar Games. Społeczność tym razem zainteresowała się relacją Jasona z Mandy."
+    },
     {
       "sourceName": "PPE",
       "title": "Where Winds Meet - analiza techniczna implementacji DLSS 5. Jak wypada i co zmienia?",
@@ -320,28 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Silksong-Sea-of-Sorrow-logo-224x224.jpg",
       "articleSlug": "fd425e96f671",
       "articleBody": "Tym razem studio Team Cherry dotrzymało obietnicy! Premiera dodatku Sea of Sorrow do Hollow Knight Silksong odbędzie się jeszcze w tym roku, a dokładnie to w piątek 11 grudnia. Zagramy więc w tym samym dniu, w którym obejrzymy też transmisję The Game Awards 2026. Co więcej, rozszerzenie trafi w ręce wszystkich posiadaczy gry całkowicie za darmo. Możecie więc już szykować się na nową przygodę, tym razem rozgrywającą się głównie w odmętach zapomnianego oceanu okalającego krainę Pharloom. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Crimson Desert otrzymało dużą aktualizację. Lista zmian jest naprawdę długa",
-      "sourceUrl": "https://www.ppe.pl/news/434817/crimson-desert-otrzymalo-duza-aktualizacje-lista-zmian-jest-naprawde-dluga.html",
-      "publishedAt": "2026-11-27T16:45+01:00",
-      "summary": "Pearl Abyss udostępniło kolejną aktualizację do Crimson Desert. Patch 2.06.00 wprowadza istotne usprawnienia systemu przechowywania przedmiotów, budowania i dekorowania posiadłości.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d92c466bea298b636837/d92c466bea298b636837.webp",
-      "articleSlug": "d880f7e966d4",
-      "articleBody": "Pearl Abyss udostępniło kolejną aktualizację do Crimson Desert. Patch 2.06.00 wprowadza istotne usprawnienia systemu przechowywania przedmiotów, budowania i dekorowania posiadłości."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Hollow Knight Silksong – Sea of Sorrow z datą premiery. Darmowy dodatek ukaże się jeszcze w tym roku",
-      "sourceUrl": "https://cdaction.pl/newsy/hollow-knight-silksong-sea-of-sorrow-z-data-premiery-darmowy-dodatek-ukaze-sie-jeszcze-w-tym-roku/",
-      "publishedAt": "2026-11-27T16:28+01:00",
-      "summary": "I nie jest to silkpost.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/hollow-knight-silksong-sea-of-sorrow7767.jpg",
-      "articleSlug": "e137afcfdb71",
-      "articleBody": "I nie jest to silkpost."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "1291a2ef5e567713f26fcfa05061f971d00afa0941bc73e3337c26a3d015cc8d"
+  "editorialHash": "16cbcb38e3d5882601872bb087d0eaaed24c06892eac5048a5e4291291c66eea"
 }
