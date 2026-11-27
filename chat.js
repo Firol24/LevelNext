@@ -243,7 +243,7 @@ function saveChatPosition(){
 }
 function saveChatSize(){
  if(dock.style.display==="none"||window.innerWidth<=620||dock.classList.contains("minimized"))return;
- try{localStorage.setItem(chatSizeKey,JSON.stringify({width:Math.round(dock.getBoundingClientRect().width),height:Math.round(dock.getBoundingClientRect().height)}))}catch(e){}
+ savedChatSize={width:Math.round(dock.getBoundingClientRect().width),height:Math.round(dock.getBoundingClientRect().height)};\n try{localStorage.setItem(chatSizeKey,JSON.stringify(savedChatSize))}catch(e){}
 }
 if(window.innerWidth>620&&savedChatSize&&Number.isFinite(savedChatSize.width)&&Number.isFinite(savedChatSize.height)){
  var maxWidth=Math.max(280,window.innerWidth-16),maxHeight=Math.max(220,window.innerHeight-16);
