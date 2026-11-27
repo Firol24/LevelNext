@@ -1,18 +1,117 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T14:01+01:00",
+  "updatedAt": "2026-11-27T15:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "„Odpowiedziałem tylko jednym słowem: NIE”. Tak ojciec PlayStation celowo wciągnął Microsoft na rynek konsol",
-    "summary": "Ojciec PlayStation przyznał, że stworzenie Xboxa przez Microsoft było jego marzeniem. Zaprzeczył też historiom twierdzącym, że Sony chciało zemścić się na Nintendo.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/odpowiedzialem-tylko-jednym-slowem-nie-tak-ojciec-playstation-cel/ze324c2",
-    "articleSlug": "8b8bd78d1dbc",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533481439.jpg"
+    "title": "Dożywotnia gwarancja na RAM? Ten mały ślad na płytce wystarczył G.Skillowi, żeby powiedzieć „nie”",
+    "summary": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/dozywotnia-gwarancja-na-ram-ten-maly-slad-na-plytce-wystarczyl-gs/z2324c6",
+    "articleSlug": "9ec8f5b8f0d6",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533485997.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Dożywotnia gwarancja na RAM? Ten mały ślad na płytce wystarczył G.Skillowi, żeby powiedzieć „nie”",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/dozywotnia-gwarancja-na-ram-ten-maly-slad-na-plytce-wystarczyl-gs/z2324c6",
+      "publishedAt": "2026-11-27T15:33+01:00",
+      "summary": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533485997.jpg",
+      "articleSlug": "9ec8f5b8f0d6",
+      "articleBody": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 działa zaskakująco dobrze na 13-letniej konsoli. Eksperci rozwiązali „największą zagadkę” cloud gamingu na XOne",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-dziala-zaskakujaco-dobrze-na-13-letniej-konsoli-eksperci-ro/z1324c5",
+      "publishedAt": "2026-11-27T15:26+01:00",
+      "summary": "GTA 6 na Xboxie One brzmi jak żart, ale zdaniem Digital Foundry to nie taka zła opcja do grania w hit Rockstar Games.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533485441.jpg",
+      "articleSlug": "46f70c74d78c",
+      "articleBody": "GTA 6 na Xboxie One brzmi jak żart, ale zdaniem Digital Foundry to nie taka zła opcja do grania w hit Rockstar Games."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Premiera Rayman Legends Retold na dniach! Gdzie kupić pudełka na PS5 i Switcha 2 najtaniej?",
+      "sourceUrl": "https://lowcygier.pl/preordery/premiera-rayman-legends-retold-na-dniach-gdzie-kupic-pudelka-na-ps5-i-switcha-2-najtaniej/",
+      "publishedAt": "2026-11-27T14:54+01:00",
+      "summary": "Na 3 grudnia zaplanowana została premiera Rayman Legends Retold. Gruntownie odświeżona wersja gry wydanej pierwotnie w 2013 roku zmierza na PC, PS5, Xbox Series oraz Nintendo Switch 2. Niestety, fizyczne wydanie, któremu poświęcamy ten wpis, pojawi się tylko w wersjach na dwie platformy. Warto natomiast nadmienić, że tak właściwie mamy tu do czynienia z zestawem, gdyż w pudełkach, obok płyty z Rayman Legends, znajdzie się też kod na remaster Rayman Origins. Jeśli macie ochotę powrócić do baśniowego świata od Ubisoftu, podpowiadamy, gdzie dorwiecie grę najtaniej. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gdzie-kupic-Rayman-Legends-Retold-logo-224x224.jpg",
+      "articleSlug": "7e91f208bfc5",
+      "articleBody": "Na 3 grudnia zaplanowana została premiera Rayman Legends Retold. Gruntownie odświeżona wersja gry wydanej pierwotnie w 2013 roku zmierza na PC, PS5, Xbox Series oraz Nintendo Switch 2. Niestety, fizyczne wydanie, któremu poświęcamy ten wpis, pojawi się tylko w wersjach na dwie platformy. Warto natomiast nadmienić, że tak właściwie mamy tu do czynienia z zestawem, gdyż w pudełkach, obok płyty z Rayman Legends, znajdzie się też kod na remaster Rayman Origins. Jeśli macie ochotę powrócić do baśniowego świata od Ubisoftu, podpowiadamy, gdzie dorwiecie grę najtaniej. Czytaj więcej »"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "HOTUT Gablotka akrylowa na minifigurki (18 x 10 x 9 cm) za 15,39 zł w Amazon PL",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/hotut-gablotka-akrylowa-na-minifigurki-18-x-10-x-9-cm-za-1539-zl-w-amazon-pl/",
+      "publishedAt": "2026-11-27T14:52+01:00",
+      "summary": "Macie dużo minifigurek LEGO i zastanawiacie się, jak w ładny sposób je zaprezentować w swojej kolekcji? Z pomocą może przyjść oferta na gablotkę z akrylowym kloszem, dostępna w polskim oddziale sklepu Amazon. Akcesorium firmy HOTUT, które ma wygodną bazę do ustawienia postaci z duńskich klocków, kosztuje 15,39 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/hotut-gablotka-minifigurki-3b-224x224.jpg",
+      "articleSlug": "27bb79d3c87d",
+      "articleBody": "Macie dużo minifigurek LEGO i zastanawiacie się, jak w ładny sposób je zaprezentować w swojej kolekcji? Z pomocą może przyjść oferta na gablotkę z akrylowym kloszem, dostępna w polskim oddziale sklepu Amazon. Akcesorium firmy HOTUT, które ma wygodną bazę do ustawienia postaci z duńskich klocków, kosztuje 15,39 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Zawsze kradłem samochody w GTA bez zastanowienia. W GTA 6 Rockstar dał mi kilka powodów, by wreszcie traktować auto jak swoje",
+      "sourceUrl": "https://www.gry-online.pl/opinie/w-gta-6-zaczalem-zachowywac-sie-jak-odpowiedzialny-kierowca-wszys/z349e1",
+      "publishedAt": "2026-11-27T14:46+01:00",
+      "summary": "Kradzieże samochodów to wizytówka serii GTA, jednak szósta część sprawiła, że musiałem zmienić nawyki. „Pożyczanie” cudzych fur stało się biznesem, a do jazdy zacząłem używać swoich własnych – bo w końcu mogę je naprawdę mieć!",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533482725.jpg",
+      "articleSlug": "af31f8ca1b67",
+      "articleBody": "Kradzieże samochodów to wizytówka serii GTA, jednak szósta część sprawiła, że musiałem zmienić nawyki. „Pożyczanie” cudzych fur stało się biznesem, a do jazdy zacząłem używać swoich własnych – bo w końcu mogę je naprawdę mieć!"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xbox przyznaje się do błędu. Gracze zwracali na to uwagę od dawna",
+      "sourceUrl": "https://www.ppe.pl/news/434811/xbox-przyznaje-sie-do-bledu-gracze-zwracali-na-to-uwage-od-dawna.html",
+      "publishedAt": "2026-11-27T14:44+01:00",
+      "summary": "Xbox zamierza zmienić sposób promowania swoich gier. Matthew Ball, dyrektor ds. strategii marki, potwierdził, że od 2027 roku Microsoft zacznie wyraźniej łączyć zapowiadane produkcje z ekosystemem Xbox.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c666c39450bce662be50/c666c39450bce662be50.webp",
+      "articleSlug": "9c8c376ef63e",
+      "articleBody": "Xbox zamierza zmienić sposób promowania swoich gier. Matthew Ball, dyrektor ds. strategii marki, potwierdził, że od 2027 roku Microsoft zacznie wyraźniej łączyć zapowiadane produkcje z ekosystemem Xbox."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Onimusha Way of the Sword w wersji specjalnej z dodatkami fizycznymi od 239 zł zamiast 379 zł!",
+      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434822/onimusha-way-of-the-sword-w-wersji-specjalnej-z-dodatkami-fizycznymi-od-239-zl-zamiast-379-zl.html",
+      "publishedAt": "2026-11-27T14:31+01:00",
+      "summary": "Onimusha: Way of the Sword doczekała się konkretnej, wielkiej obniżki - tym razem w sklepie Perfect Blue.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8548775e0f9499f1ac34/8548775e0f9499f1ac34.webp",
+      "articleSlug": "8b13bb10cbac",
+      "articleBody": "Onimusha: Way of the Sword doczekała się konkretnej, wielkiej obniżki - tym razem w sklepie Perfect Blue."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "GTA 6 zdradza, co stało się z Michaelem i Jimmym po wydarzeniach z GTA 5",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-zdradza-co-stalo-sie-z-michaelem-i-jimmym-po-wydarzeniach-z/zc324c0",
+      "publishedAt": "2026-11-27T14:28+01:00",
+      "summary": "W sieci pojawił się wpis jednego spostrzegawczego gracza, który wyjaśnia, co stało się z dwójką bohaterów GTA 5 po finale gry. Mało kto spodziewałby się takiej współpracy.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533480868.jpg",
+      "articleSlug": "77430d9e8210",
+      "articleBody": "W sieci pojawił się wpis jednego spostrzegawczego gracza, który wyjaśnia, co stało się z dwójką bohaterów GTA 5 po finale gry. Mało kto spodziewałby się takiej współpracy."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Onimusha: Way of the Sword Premium Deluxe na Nintendo Switch 2 i PS5 od 219,99 zł (+ wysyłka) w Perfect Blue",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/onimusha-way-of-the-sword-premium-deluxe-na-nintendo-switch-2-i-ps5-od-21999-zl-wysylka-w-perfect-blue/",
+      "publishedAt": "2026-11-27T14:27+01:00",
+      "summary": "Ciepło przyjęte przez recenzentów i graczy Onimusha: Way of the Sword studia Capcom, jest dostępne w Perfect Blue w dobrej cenie. Sklep oferuje pudełko wersji Premium Deluxe z Game Key Card na Nintendo Switch 2 za 219,99 zł. Za wydanie na konsole Sony PlayStation 5, zapłacicie 239,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Onimusha_-Way-of-the-Sword-Steelbook-Premium-Deluxe-Edition-PS5_miniaturka-224x224.jpg",
+      "articleSlug": "b638529e6988",
+      "articleBody": "Ciepło przyjęte przez recenzentów i graczy Onimusha: Way of the Sword studia Capcom, jest dostępne w Perfect Blue w dobrej cenie. Sklep oferuje pudełko wersji Premium Deluxe z Game Key Card na Nintendo Switch 2 za 219,99 zł. Za wydanie na konsole Sony PlayStation 5, zapłacicie 239,99 zł. Czytaj więcej »"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "„Odpowiedziałem tylko jednym słowem: NIE”. Tak ojciec PlayStation celowo wciągnął Microsoft na rynek konsol",
@@ -36,6 +135,28 @@
       "articleBody": "Klinika w Stanach Zjednoczonych musi wypłacić blisko 3,7 miliona złotych zaległych wynagrodzeń. Chodzi o nieuwzględnianie w czasie pracy czynności, takich jak uruchamianie komputerów i aplikacji."
     },
     {
+      "sourceName": "PPE",
+      "title": "EXODUS ma wysokie wymagania sprzętowe! Do 4K i 60 FPS potrzebna będzie RTX 5080",
+      "sourceUrl": "https://www.ppe.pl/news/434810/exodus-ma-wysokie-wymagania-sprzetowe-do-4k-i-60-fps-potrzebna-bedzie-rtx-5080.html",
+      "publishedAt": "2026-11-27T14:14+01:00",
+      "summary": "Twórcy EXODUS, kosmicznego RPG określanego jako duchowy następca Mass Effect, ujawnili wymagania sprzętowe wersji PC.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/138185e71287b7639cfc/138185e71287b7639cfc.webp",
+      "articleSlug": "fb579dec98e5",
+      "articleBody": "Twórcy EXODUS, kosmicznego RPG określanego jako duchowy następca Mass Effect, ujawnili wymagania sprzętowe wersji PC."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "LEGO Icons Wehikuł czasu z Powrotu do Przyszłości za 629 zł (cena katalogowa 869,99 zł) w Media Expert",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/lego-icons-wehikul-czasu-z-powrotu-do-przyszlosci-za-629-zl-cena-katalogowa-86999-zl-w-media-expert/",
+      "publishedAt": "2026-11-27T14:13+01:00",
+      "summary": "Składający się z 1872 elementów zestaw LEGO Icons Wehikuł czasu z Powrotu do Przyszłości, kupicie taniej w Media Expert. Sklep oferuje klocki, dzięki którym będziecie mogli zbudować jeden z trzech wariantów DeLoreana DMC-12, za 629 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/01/lego-icons-powrot-do-przyszlosci-3b-224x224.jpg",
+      "articleSlug": "14cdb161b29a",
+      "articleBody": "Składający się z 1872 elementów zestaw LEGO Icons Wehikuł czasu z Powrotu do Przyszłości, kupicie taniej w Media Expert. Sklep oferuje klocki, dzięki którym będziecie mogli zbudować jeden z trzech wariantów DeLoreana DMC-12, za 629 zł. Czytaj więcej »"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "Ponad 100 nowości na Netflix w grudniu: polski serial z Borysem Szycem oraz kontynuacja hitu Quentina Tarantino z Bradem Pittem",
       "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-100-nowosci-na-netflix-w-grudniu-polski-serial-z-borysem-sz/zb324b0",
@@ -45,6 +166,17 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533470618.jpg",
       "articleSlug": "7e3d210ac200",
       "articleBody": "Co obejrzymy na Netflixie w grudniu? Do biblioteki trafi m.in. Bunt z Borysem Szycem oraz Dalsze perypetie Cliffa Bootha. Przedstawiamy listę premier na nadchodzący miesiąc."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Warhammer 40,000: Dawn of War 4 ma zaskoczyć podejściem do wyborów gracza. „Będziecie mieć zupełnie różne doświadczenia”",
+      "sourceUrl": "https://cdaction.pl/newsy/warhammer-40000-dawn-of-war-4-ma-zaskoczyc-podejsciem-do-wyborow-gracza-bedziecie-miec-zupelnie-rozne-doswiadczenia/",
+      "publishedAt": "2026-11-27T14:00+01:00",
+      "summary": "Sympatyczna obietnica – pytanie tylko, czy to rzeczywiście spełni nasze oczekiwania.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Dawn-of-War-4.jpg",
+      "articleSlug": "ac03a55cbc10",
+      "articleBody": "Sympatyczna obietnica – pytanie tylko, czy to rzeczywiście spełni nasze oczekiwania."
     },
     {
       "sourceName": "GRY-Online",
@@ -210,138 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/dc59a444b4ae1a4a835b/dc59a444b4ae1a4a835b.jpg",
       "articleSlug": "0d46c49c2260",
       "articleBody": "W pecetowej wersji Last of Us Part II Remastered korzystać można od kilku dni z darmowego trybu multiplayer. A PlayStation jest w tej sytuacji bezsilne."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Hideo Kojima przyjechał do Polski, a internauci od razu zwrócili uwagę na Żubrówkę. Zdjęcia ze spotkania z CD Projekt RED robią furorę",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/hideo-kojima-przyjechal-do-polski-a-internauci-od-razu-zwrocili-u/z3324b8",
-      "publishedAt": "2026-11-27T12:31+01:00",
-      "summary": "Na profilu społecznościowym Hideo Kojimy pojawiły się wpisy z wizyty w Polsce, ale największą furorę robią udostępniane przez niego zdjęcia. Tak deweloper poznaje naszą kulturę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533474030.jpg",
-      "articleSlug": "915e43af22c7",
-      "articleBody": "Na profilu społecznościowym Hideo Kojimy pojawiły się wpisy z wizyty w Polsce, ale największą furorę robią udostępniane przez niego zdjęcia. Tak deweloper poznaje naszą kulturę."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Pudełkowe wydanie GTA 6 bije rekordy popularności mimo braku płyty. Gracze i tak rzucili się na „fizyczną” wersję gry",
-      "sourceUrl": "https://cdaction.pl/newsy/pudelkowe-wydanie-gta-6-bije-rekordy-popularnosci-mimo-braku-plyty-gracze-i-tak-rzucili-sie-na-fizyczna-wersje-gry/",
-      "publishedAt": "2026-11-27T12:30+01:00",
-      "summary": "Ach ci gracze, znów będą oburzeni.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Zrzut-ekranu-2026-11-20-o-09.46.05-1260x662.jpg",
-      "articleSlug": "a2c66541eae7",
-      "articleBody": "Ach ci gracze, znów będą oburzeni."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Wczoraj wjechał na Netflix, a już dziś jest w top 3. Norweski 7-odcinkowy serial medyczny zainteresował widzów z Polski",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/izba-przyjec-wczoraj-wjechala-na-netflix-a-juz-dzis-podbija-platf/ze324ad",
-      "publishedAt": "2026-11-27T12:30+01:00",
-      "summary": "Jednym z najpopularniejszych obecnie seriali na Netflixie jest norweska produkcja, której akcja rozgrywa się na izbie przyjęć w Oslo. Nowość potrzebowała tylko jednej doby, by znaleźć się w polskim top 10.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533466090.jpg",
-      "articleSlug": "f7d0c8c1a945",
-      "articleBody": "Jednym z najpopularniejszych obecnie seriali na Netflixie jest norweska produkcja, której akcja rozgrywa się na izbie przyjęć w Oslo. Nowość potrzebowała tylko jednej doby, by znaleźć się w polskim top 10."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Komputery stacjonarne taniej w x-kom na Black Friday 2026. Seria SMX Battlestation z 32GB RAM już za 4889 zł!",
-      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/komputery-stacjonarne-taniej-w-x-kom-na-black-friday-2026-seria-smx-battlestation-z-32gb-ram-juz-za-4889-zl/",
-      "publishedAt": "2026-11-27T12:28+01:00",
-      "summary": "Jeśli poszukujecie gotowego komputera, przygotowanego do pracy i w sensownej konfiguracji, możecie skorzystać z oferty sklepu x-kom i wybrać spośród wielu modeli G4M3R i SMX Battlestation. Przygotowaliśmy dla Was krótki wpis, w którym znajdziecie najciekawsze opcje. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/02/silver-monkey-x-battlestation-argb-2b-224x224.jpg",
-      "articleSlug": "efff8ee80bcb",
-      "articleBody": "Jeśli poszukujecie gotowego komputera, przygotowanego do pracy i w sensownej konfiguracji, możecie skorzystać z oferty sklepu x-kom i wybrać spośród wielu modeli G4M3R i SMX Battlestation. Przygotowaliśmy dla Was krótki wpis, w którym znajdziecie najciekawsze opcje. Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Figurka God of War Atreus za 99,99 zł (79 zł taniej) w Media Expert. Pomysł na prezent dla fana gier",
-      "sourceUrl": "https://lowcygier.pl/gadzety-dla-graczy/figurka-god-of-war-atreus-za-9999-zl-79-zl-taniej-w-media-expert-pomysl-na-prezent-dla-fana-gier/",
-      "publishedAt": "2026-11-27T12:23+01:00",
-      "summary": "Black Friday trwa w najlepsze. W Media Expert możecie teraz dostać figurkę przedstawiającą Atreusa z gry God of War w znacznie niższej cenie. Jej wysokość to 16 cm. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Figurka-Atreus-God-of-War-logo-224x224.jpg",
-      "articleSlug": "ea22412be038",
-      "articleBody": "Black Friday trwa w najlepsze. W Media Expert możecie teraz dostać figurkę przedstawiającą Atreusa z gry God of War w znacznie niższej cenie. Jej wysokość to 16 cm. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„GTA 6 codziennie zaskakuje mnie czymś nowym”. Gracz znalazł wrak na poboczu i zrobił z niego cacko",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-codziennie-zaskakuje-mnie-czyms-nowym-gracz-znalazl-wrak-na/z1324b6",
-      "publishedAt": "2026-11-27T12:15+01:00",
-      "summary": "GTA 6 po raz kolejny zaskakuje możliwościami. Jeden z graczy znalazł na poboczu zniszczony samochód, zabrał go do warsztatu i przywrócił mu dawny blask.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533473471.jpg",
-      "articleSlug": "37dddf02dc77",
-      "articleBody": "GTA 6 po raz kolejny zaskakuje możliwościami. Jeden z graczy znalazł na poboczu zniszczony samochód, zabrał go do warsztatu i przywrócił mu dawny blask."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Aktorka Lucii z GTA 6 dziękuje za wszystko. Gracze mieli rację",
-      "sourceUrl": "https://www.ppe.pl/news/434802/aktorka-lucii-z-gta-6-dziekuje-za-wszystko-gracze-mieli-racje.html",
-      "publishedAt": "2026-11-27T12:12+01:00",
-      "summary": "Wyobrażacie sobie pracować nad największą grą na świecie i przez prawie dziesięć lat nie móc nikomu pisnąć o tym ani słowa? Dokładnie przez takie piekło - choć zakończone pięknym finałem - przeszła Manni L. Perez, czyli aktorka wciela...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/4f9c6b7284f116094bbe/4f9c6b7284f116094bbe.webp",
-      "articleSlug": "15333e3ef590",
-      "articleBody": "Wyobrażacie sobie pracować nad największą grą na świecie i przez prawie dziesięć lat nie móc nikomu pisnąć o tym ani słowa? Dokładnie przez takie piekło - choć zakończone pięknym finałem - przeszła Manni L. Perez, czyli aktorka wciela..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Ponad 23 000 Polaków nadal chce studiować informatykę, mimo kryzysu na rynku IT i rozwoju AI. Internauci spierają się, czy to jeszcze ma sens",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/ponad-23-000-polakow-nadal-chce-studiowac-informatyke-mimo-kryzys/z2324b7",
-      "publishedAt": "2026-11-27T12:10+01:00",
-      "summary": "W tegorocznej rekrutacji na stacjonarną informatykę złożono ponad 23 tysiące zgłoszeń. Dla części internautów to niezrozumiałe, dlaczego tak wielu maturzystów wybiera kierunek, po którym start na rynku pracy utrudnia dziś AI.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533473689.jpg",
-      "articleSlug": "eb09ac4da919",
-      "articleBody": "W tegorocznej rekrutacji na stacjonarną informatykę złożono ponad 23 tysiące zgłoszeń. Dla części internautów to niezrozumiałe, dlaczego tak wielu maturzystów wybiera kierunek, po którym start na rynku pracy utrudnia dziś AI."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wydawca najlepszych realistycznych strzelanek z poważnymi problemami. Nowe mapy i opóźnienia",
-      "sourceUrl": "https://www.ppe.pl/news/434797/wydawca-najlepszych-realistycznych-strzelanek-z-powaznymi-problemami-nowe-mapy-i-opoznienia.html",
-      "publishedAt": "2026-11-27T12:04+01:00",
-      "summary": "Hell Let Loose to według wielu osób najlepsza realistyczna strzelanka sieciowa w dziejach gier. Niestety jej wydawca ma ostatnie spore problemy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/3dfccce28375f88c6f62/3dfccce28375f88c6f62.jpg",
-      "articleSlug": "c03d98ed5706",
-      "articleBody": "Hell Let Loose to według wielu osób najlepsza realistyczna strzelanka sieciowa w dziejach gier. Niestety jej wydawca ma ostatnie spore problemy."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Forza Motorsport na Xbox Series X za 49 zł (150 zł taniej) w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-forza-motorsport-na-xbox-series-x-za-49-zl-150-zl-taniej-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-27T12:00+01:00",
-      "summary": "Symulator jazdy samochodem opracowany przez Turn 10 Studios, czyli Forza Motorsport, dostępne jest taniej w RTV Euro AGD. Pudełkowe wydanie przeznaczone na konsolę Xbox Series X, może być wasze za 49 zł, dzięki promocji na Black Friday 2026. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/04/Forza_Motorsport_Xbox_Series_X_miniatura-224x224.jpg",
-      "articleSlug": "f54cd81031b2",
-      "articleBody": "Symulator jazdy samochodem opracowany przez Turn 10 Studios, czyli Forza Motorsport, dostępne jest taniej w RTV Euro AGD. Pudełkowe wydanie przeznaczone na konsolę Xbox Series X, może być wasze za 49 zł, dzięki promocji na Black Friday 2026. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Projekty nie muszą używać AI” - zapewnia Ubisoft, a w środku wrze. Pracownicy mówią o zwolnieniach i wciskaniu narzędzi gdzie się da",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/projekty-nie-musza-uzywac-ai-zapewnia-ubisoft-a-w-srodku-wrze-pra/zf324b4",
-      "publishedAt": "2026-11-27T11:50+01:00",
-      "summary": "Ubisoft podjął próbę sprostowania wczorajszych doniesień o naciskach na deweloperów w kwestii wykorzystywania generatywnej sztucznej inteligencji, ale firmie nie za bardzo się to udało.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533472616.jpg",
-      "articleSlug": "f0e1fcf3dac8",
-      "articleBody": "Ubisoft podjął próbę sprostowania wczorajszych doniesień o naciskach na deweloperów w kwestii wykorzystywania generatywnej sztucznej inteligencji, ale firmie nie za bardzo się to udało."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Pazerność EA nie zna granic? To przeciwieństwo Xboxa",
-      "sourceUrl": "https://www.ppe.pl/news/434799/pazernosc-ea-nie-zna-granic-to-przeciwienstwo-xboxa.html",
-      "publishedAt": "2026-11-27T11:46+01:00",
-      "summary": "W branży gier mało co potrafi wkurzyć tak mocno, jak zwykła korporacyjna pazerność w stylu „sam nie zjem, ale drugiemu też nie dam”. Electronic Arts od lat jest w tym absolutnym mistrzem i właśnie pokazuje to w najbardziej bolesny sposób p...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/59114181972dfdbc2a56/59114181972dfdbc2a56.jpg",
-      "articleSlug": "d17697ce0cc3",
-      "articleBody": "W branży gier mało co potrafi wkurzyć tak mocno, jak zwykła korporacyjna pazerność w stylu „sam nie zjem, ale drugiemu też nie dam”. Electronic Arts od lat jest w tym absolutnym mistrzem i właśnie pokazuje to w najbardziej bolesny sposób p..."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795780349"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795780349"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "8c4e0fab5d066c80665a91c9b7d293164e8a0a9c453a3d6f3145d01ea2922726"
+  "editorialHash": "768122c45a6129ec805607a814535d523ab19ad31779a771a4d7be8ae0d1567c"
 }
