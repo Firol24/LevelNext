@@ -1,18 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T17:01+01:00",
+  "updatedAt": "2026-11-27T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Znów to zrobili! Za 2 tygodnie premiera mocno wyczekiwanego darmowego dodatku do hitowego Hollow Knight: Silksong",
-    "summary": "Darmowe rozszerzenie Sea of Sorrow do Hollow Knight: Silksong zadebiutuje już za niespełna dwa tygodnie, a jego premierę zapowiada świeżutki zwiastun rozgrywki.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/znow-to-zrobili-za-2-tygodnie-premiera-mocno-wyczekiwanego-darmow/z5324c9",
-    "articleSlug": "d2d047813c35",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533492449.jpg"
+    "title": "Gra za darmo na GOG z okazji Black Friday. To postapokaliptyczne RPG z otwartym światem z elementami survivalu",
+    "summary": "Jeśli nie macie jeszcze planów na weekend, z okazji Black Friday GOG proponuje Wam walkę o przetrwanie w świecie opanowanym przez zombie.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/gra-za-darmo-na-gog-z-okazji-black-friday-to-postapokaliptyczne-r/zd324ca",
+    "articleSlug": "4bf50af9a6a6",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533498161.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Gra za darmo na GOG z okazji Black Friday. To postapokaliptyczne RPG z otwartym światem z elementami survivalu",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/gra-za-darmo-na-gog-z-okazji-black-friday-to-postapokaliptyczne-r/zd324ca",
+      "publishedAt": "2026-11-27T18:59+01:00",
+      "summary": "Jeśli nie macie jeszcze planów na weekend, z okazji Black Friday GOG proponuje Wam walkę o przetrwanie w świecie opanowanym przez zombie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533498161.jpg",
+      "articleSlug": "4bf50af9a6a6",
+      "articleBody": "Jeśli nie macie jeszcze planów na weekend, z okazji Black Friday GOG proponuje Wam walkę o przetrwanie w świecie opanowanym przez zombie."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Remake The Simpsons: Hit & Run anulowany? Fani kultowej gry mają kolejny powód do obaw",
+      "sourceUrl": "https://www.ppe.pl/news/434826/remake-the-simpsons-hit-run-anulowany-fani-kultowej-gry-maja-kolejny-powod-do-obaw.html",
+      "publishedAt": "2026-11-27T18:01+01:00",
+      "summary": "Fani The Simpsons: Hit & Run od lat czekają na odświeżoną wersję kultowej produkcji. Wydawało się, że nadzieje na powrót gry nabrały realnych kształtów, gdy studio odpowiedzialne za oryginał zmieniło nazwę na New Radical Games. Teraz jedn...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0cf6caf32507c89a6d8c/0cf6caf32507c89a6d8c.avif",
+      "articleSlug": "259f227c67f2",
+      "articleBody": "Fani The Simpsons: Hit & Run od lat czekają na odświeżoną wersję kultowej produkcji. Wydawało się, że nadzieje na powrót gry nabrały realnych kształtów, gdy studio odpowiedzialne za oryginał zmieniło nazwę na New Radical Games. Teraz jedn..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Taka cena za głośnik 30 W?! Action kusi sprzętem z długim czasem pracy w różnych kolorach",
+      "sourceUrl": "https://www.ppe.pl/news/434819/taka-cena-za-glosnik-30-w-action-kusi-sprzetem-z-dlugim-czasem-pracy-w-roznych-kolorach.html",
+      "publishedAt": "2026-11-27T17:45+01:00",
+      "summary": "Action ma w swojej ofercie ciekawą propozycję dla osób szukających niedrogiego sprzętu audio.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e4e844b9a894d076ad32/e4e844b9a894d076ad32.jpg",
+      "articleSlug": "fbb2c808f3e1",
+      "articleBody": "Action ma w swojej ofercie ciekawą propozycję dla osób szukających niedrogiego sprzętu audio."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "FENOMEN! GTA 6 sprzedaje się w kolejnych milionach i śrubuje rekord",
+      "sourceUrl": "https://www.ppe.pl/news/434832/fenomen-gta-6-sprzedaje-sie-w-kolejnych-milionach-i-srubuje-rekord.html",
+      "publishedAt": "2026-11-27T17:23+01:00",
+      "summary": "Według szacunków Rhysa Elliotta z firmy analitycznej Alinea Analytics, Grand Theft Auto 6 sprzedało się na całym świecie w liczbie 53 milionów egzemplarzy. Oznaczałoby to około 8 milionów dodatkowych kopii od końca minionego weekendu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/a40202273d9b98028772/a40202273d9b98028772.jpg",
+      "articleSlug": "429cd423f713",
+      "articleBody": "Według szacunków Rhysa Elliotta z firmy analitycznej Alinea Analytics, Grand Theft Auto 6 sprzedało się na całym świecie w liczbie 53 milionów egzemplarzy. Oznaczałoby to około 8 milionów dodatkowych kopii od końca minionego weekendu."
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Znów to zrobili! Za 2 tygodnie premiera mocno wyczekiwanego darmowego dodatku do hitowego Hollow Knight: Silksong",
@@ -23,6 +67,50 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533492449.jpg",
       "articleSlug": "d2d047813c35",
       "articleBody": "Darmowe rozszerzenie Sea of Sorrow do Hollow Knight: Silksong zadebiutuje już za niespełna dwa tygodnie, a jego premierę zapowiada świeżutki zwiastun rozgrywki."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Ranking 100 najlepszych ofert na tanie gry PC z wyprzedaży z okazji Black Friday 2026 na Steam!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/ranking-100-najlepszych-ofert-na-tanie-gry-pc-z-wyprzedazy-z-okazji-black-friday-2026-na-steam/",
+      "publishedAt": "2026-11-27T17:17+01:00",
+      "summary": "Łowcy, w ciągu ostatniego tygodnia na platformie Steam pojawiły się setki promocji na gry PC. Wybrani wydawcy przygotowali dla graczy kilka niezwykle atrakcyjnych ofert z okazji Black Friday 2026. W związku z tym przygotowaliśmy dla Was specjalne zestawienie zawierające 100 najlepszych okazji, na które warto rzucić okiem. Życzymy udanych zakupów 🙂 Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Ranking-100-najlepszych-ofert-na-tanie-gry-PC-z-wyprzedazy-z-okazji-Black-Friday-2026-na-Steam_miniaturka-224x224.jpg",
+      "articleSlug": "6e0334a33299",
+      "articleBody": "Łowcy, w ciągu ostatniego tygodnia na platformie Steam pojawiły się setki promocji na gry PC. Wybrani wydawcy przygotowali dla graczy kilka niezwykle atrakcyjnych ofert z okazji Black Friday 2026. W związku z tym przygotowaliśmy dla Was specjalne zestawienie zawierające 100 najlepszych okazji, na które warto rzucić okiem. Życzymy udanych zakupów 🙂 Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Szpile: GTA 6, GTA VI, Grand Theft Auto 6, Grand Theft Auto VI",
+      "sourceUrl": "https://cdaction.pl/szpile/szpile-gta-6-gta-vi-grand-theft-auto-6-grand-theft-auto-vi/",
+      "publishedAt": "2026-11-27T17:16+01:00",
+      "summary": "Twoja cotygodniowa dawka przekąsu.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2025/09/81fc73e9-c2ec-4dfe-9dfc-841092262678.jpg",
+      "articleSlug": "b002a58b3518",
+      "articleBody": "Twoja cotygodniowa dawka przekąsu."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jason Statham znów podbija streaming! Jego szalony film sprzed 18 lat stał się wielkim hitem",
+      "sourceUrl": "https://www.ppe.pl/news/434818/jason-statham-znow-podbija-streaming-jego-szalony-film-sprzed-18-lat-stal-sie-wielkim-hitem.html",
+      "publishedAt": "2026-11-27T17:15+01:00",
+      "summary": "Jason Statham ponownie znalazł się na szczycie streamingowych zestawień, choć tym razem nie za sprawą nowej produkcji. Niespodziewaną popularność zdobywa „Adrenalina 2. Pod napięciem” (Crank: High Voltage), czyli zwariowana komedia akcji z ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/208d053285688bb635de/208d053285688bb635de.webp",
+      "articleSlug": "c22a144327df",
+      "articleBody": "Jason Statham ponownie znalazł się na szczycie streamingowych zestawień, choć tym razem nie za sprawą nowej produkcji. Niespodziewaną popularność zdobywa „Adrenalina 2. Pod napięciem” (Crank: High Voltage), czyli zwariowana komedia akcji z ..."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Jak 30 lat temu pisałem w CD-Action o grze, którą współtworzyłem. Sprawdzamy CD-Action 06/1996",
+      "sourceUrl": "https://cdaction.pl/retro/jak-30-lat-temu-pisalem-w-cd-action-o-grze-ktora-wspoltworzylem-sprawdzamy-cd-action-06-1996/",
+      "publishedAt": "2026-11-27T17:04+01:00",
+      "summary": "W tym dziale przypominamy sobie zawartość CDA dokładnie sprzed 30 lat, czyli w tym wypadku z listopada 1996.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Projekt-bez-nazwy-50-1260x709.jpg",
+      "articleSlug": "f47100893f46",
+      "articleBody": "W tym dziale przypominamy sobie zawartość CDA dokładnie sprzed 30 lat, czyli w tym wypadku z listopada 1996."
     },
     {
       "sourceName": "PPE",
@@ -254,94 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Gdzie-kupic-Rayman-Legends-Retold-logo-224x224.jpg",
       "articleSlug": "7e91f208bfc5",
       "articleBody": "Na 3 grudnia zaplanowana została premiera Rayman Legends Retold. Gruntownie odświeżona wersja gry wydanej pierwotnie w 2013 roku zmierza na PC, PS5, Xbox Series oraz Nintendo Switch 2. Niestety, fizyczne wydanie, któremu poświęcamy ten wpis, pojawi się tylko w wersjach na dwie platformy. Warto natomiast nadmienić, że tak właściwie mamy tu do czynienia z zestawem, gdyż w pudełkach, obok płyty z Rayman Legends, znajdzie się też kod na remaster Rayman Origins. Jeśli macie ochotę powrócić do baśniowego świata od Ubisoftu, podpowiadamy, gdzie dorwiecie grę najtaniej. Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "HOTUT Gablotka akrylowa na minifigurki (18 x 10 x 9 cm) za 15,39 zł w Amazon PL",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/hotut-gablotka-akrylowa-na-minifigurki-18-x-10-x-9-cm-za-1539-zl-w-amazon-pl/",
-      "publishedAt": "2026-11-27T14:52+01:00",
-      "summary": "Macie dużo minifigurek LEGO i zastanawiacie się, jak w ładny sposób je zaprezentować w swojej kolekcji? Z pomocą może przyjść oferta na gablotkę z akrylowym kloszem, dostępna w polskim oddziale sklepu Amazon. Akcesorium firmy HOTUT, które ma wygodną bazę do ustawienia postaci z duńskich klocków, kosztuje 15,39 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/hotut-gablotka-minifigurki-3b-224x224.jpg",
-      "articleSlug": "27bb79d3c87d",
-      "articleBody": "Macie dużo minifigurek LEGO i zastanawiacie się, jak w ładny sposób je zaprezentować w swojej kolekcji? Z pomocą może przyjść oferta na gablotkę z akrylowym kloszem, dostępna w polskim oddziale sklepu Amazon. Akcesorium firmy HOTUT, które ma wygodną bazę do ustawienia postaci z duńskich klocków, kosztuje 15,39 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Zawsze kradłem samochody w GTA bez zastanowienia. W GTA 6 Rockstar dał mi kilka powodów, by wreszcie traktować auto jak swoje",
-      "sourceUrl": "https://www.gry-online.pl/opinie/w-gta-6-zaczalem-zachowywac-sie-jak-odpowiedzialny-kierowca-wszys/z349e1",
-      "publishedAt": "2026-11-27T14:46+01:00",
-      "summary": "Kradzieże samochodów to wizytówka serii GTA, jednak szósta część sprawiła, że musiałem zmienić nawyki. „Pożyczanie” cudzych fur stało się biznesem, a do jazdy zacząłem używać swoich własnych – bo w końcu mogę je naprawdę mieć!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533482725.jpg",
-      "articleSlug": "af31f8ca1b67",
-      "articleBody": "Kradzieże samochodów to wizytówka serii GTA, jednak szósta część sprawiła, że musiałem zmienić nawyki. „Pożyczanie” cudzych fur stało się biznesem, a do jazdy zacząłem używać swoich własnych – bo w końcu mogę je naprawdę mieć!"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Xbox przyznaje się do błędu. Gracze zwracali na to uwagę od dawna",
-      "sourceUrl": "https://www.ppe.pl/news/434811/xbox-przyznaje-sie-do-bledu-gracze-zwracali-na-to-uwage-od-dawna.html",
-      "publishedAt": "2026-11-27T14:44+01:00",
-      "summary": "Xbox zamierza zmienić sposób promowania swoich gier. Matthew Ball, dyrektor ds. strategii marki, potwierdził, że od 2027 roku Microsoft zacznie wyraźniej łączyć zapowiadane produkcje z ekosystemem Xbox.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c666c39450bce662be50/c666c39450bce662be50.webp",
-      "articleSlug": "9c8c376ef63e",
-      "articleBody": "Xbox zamierza zmienić sposób promowania swoich gier. Matthew Ball, dyrektor ds. strategii marki, potwierdził, że od 2027 roku Microsoft zacznie wyraźniej łączyć zapowiadane produkcje z ekosystemem Xbox."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Onimusha Way of the Sword w wersji specjalnej z dodatkami fizycznymi od 239 zł zamiast 379 zł!",
-      "sourceUrl": "https://www.ppe.pl/promocje/gry/promocje/434822/onimusha-way-of-the-sword-w-wersji-specjalnej-z-dodatkami-fizycznymi-od-239-zl-zamiast-379-zl.html",
-      "publishedAt": "2026-11-27T14:31+01:00",
-      "summary": "Onimusha: Way of the Sword doczekała się konkretnej, wielkiej obniżki - tym razem w sklepie Perfect Blue.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8548775e0f9499f1ac34/8548775e0f9499f1ac34.webp",
-      "articleSlug": "8b13bb10cbac",
-      "articleBody": "Onimusha: Way of the Sword doczekała się konkretnej, wielkiej obniżki - tym razem w sklepie Perfect Blue."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 zdradza, co stało się z Michaelem i Jimmym po wydarzeniach z GTA 5",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-zdradza-co-stalo-sie-z-michaelem-i-jimmym-po-wydarzeniach-z/zc324c0",
-      "publishedAt": "2026-11-27T14:28+01:00",
-      "summary": "W sieci pojawił się wpis jednego spostrzegawczego gracza, który wyjaśnia, co stało się z dwójką bohaterów GTA 5 po finale gry. Mało kto spodziewałby się takiej współpracy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533480868.jpg",
-      "articleSlug": "77430d9e8210",
-      "articleBody": "W sieci pojawił się wpis jednego spostrzegawczego gracza, który wyjaśnia, co stało się z dwójką bohaterów GTA 5 po finale gry. Mało kto spodziewałby się takiej współpracy."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Onimusha: Way of the Sword Premium Deluxe na Nintendo Switch 2 i PS5 od 219,99 zł (+ wysyłka) w Perfect Blue",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/onimusha-way-of-the-sword-premium-deluxe-na-nintendo-switch-2-i-ps5-od-21999-zl-wysylka-w-perfect-blue/",
-      "publishedAt": "2026-11-27T14:27+01:00",
-      "summary": "Ciepło przyjęte przez recenzentów i graczy Onimusha: Way of the Sword studia Capcom, jest dostępne w Perfect Blue w dobrej cenie. Sklep oferuje pudełko wersji Premium Deluxe z Game Key Card na Nintendo Switch 2 za 219,99 zł. Za wydanie na konsole Sony PlayStation 5, zapłacicie 239,99 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/09/Onimusha_-Way-of-the-Sword-Steelbook-Premium-Deluxe-Edition-PS5_miniaturka-224x224.jpg",
-      "articleSlug": "b638529e6988",
-      "articleBody": "Ciepło przyjęte przez recenzentów i graczy Onimusha: Way of the Sword studia Capcom, jest dostępne w Perfect Blue w dobrej cenie. Sklep oferuje pudełko wersji Premium Deluxe z Game Key Card na Nintendo Switch 2 za 219,99 zł. Za wydanie na konsole Sony PlayStation 5, zapłacicie 239,99 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "„Odpowiedziałem tylko jednym słowem: NIE”. Tak ojciec PlayStation celowo wciągnął Microsoft na rynek konsol",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/odpowiedzialem-tylko-jednym-slowem-nie-tak-ojciec-playstation-cel/ze324c2",
-      "publishedAt": "2026-11-27T14:25+01:00",
-      "summary": "Ojciec PlayStation przyznał, że stworzenie Xboxa przez Microsoft było jego marzeniem. Zaprzeczył też historiom twierdzącym, że Sony chciało zemścić się na Nintendo.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533481439.jpg",
-      "articleSlug": "8b8bd78d1dbc",
-      "articleBody": "Ojciec PlayStation przyznał, że stworzenie Xboxa przez Microsoft było jego marzeniem. Zaprzeczył też historiom twierdzącym, że Sony chciało zemścić się na Nintendo."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Pracownicy nie dostawali pieniędzy za uruchamianie komputerów. Teraz firma musi wypłacić im ponad 900 tys. dolarów zaległego wynagrodzenia",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/pracownicy-nie-dostawali-pieniedzy-za-uruchamianie-komputerow-ter/zf324c3",
-      "publishedAt": "2026-11-27T14:22+01:00",
-      "summary": "Klinika w Stanach Zjednoczonych musi wypłacić blisko 3,7 miliona złotych zaległych wynagrodzeń. Chodzi o nieuwzględnianie w czasie pracy czynności, takich jak uruchamianie komputerów i aplikacji.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533481743.jpg",
-      "articleSlug": "7238d955bf5c",
-      "articleBody": "Klinika w Stanach Zjednoczonych musi wypłacić blisko 3,7 miliona złotych zaległych wynagrodzeń. Chodzi o nieuwzględnianie w czasie pracy czynności, takich jak uruchamianie komputerów i aplikacji."
     }
   ],
   "indie": [
