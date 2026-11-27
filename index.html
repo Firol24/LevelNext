@@ -56,7 +56,7 @@
 </nav><div class="ticker"><b>WIADOMOŚĆ DNIA</b><div class="ticker-window"><span class="ticker-track">LEVEL NEXT ONLINE&nbsp; • &nbsp;NOWE WPISY OD CZASU DO CZASU&nbsp; • &nbsp;POZDROWIENIA DLA ODWIEDZAJĄCYCH&nbsp; • &nbsp;WITAJ NA STRONIE&nbsp; • &nbsp;</span></div></div><main class="layout" id="start">
 <aside class="col leftcol">
 <section class="panel"><div class="panelhead"><h3>MOJE MIEJSCA W SIECI</h3><small>LINKI</small></div><div class="panelbody"><div class="socials"><a href="https://discord.gg/vtQ72NDNZb" target="_blank" rel="noopener"><img src="assets/images/discord.png" alt="">Discord</a><a href="https://www.twitch.tv/xfirol" target="_blank" rel="noopener"><img src="assets/images/twitch.png" alt="">Twitch</a><a href="https://www.youtube.com/@tufirol9695" target="_blank" rel="noopener"><img src="assets/images/youtube.png" alt="">YouTube</a><a href="https://www.tiktok.com/@tu_firol" target="_blank" rel="noopener"><img src="assets/images/tiktok.png" alt="">TikTok</a><a href="https://www.instagram.com/_firol_" target="_blank" rel="noopener"><img src="assets/images/instagram.png" alt="">Instagram</a></div></div></section>
-<section class="panel"><div class="panelhead"><h3>LICZNIK ODWIEDZIN</h3><small>ODWIEDZINY</small></div><div class="panelbody"><div class="counter"><span>0</span><span>1</span><span>2</span><span>4</span><span>8</span></div><p class="smallprint">LICZNIK NA RAZIE TYLKO DO OZDOBY. PRAWDZIWY KIEDYŚ TU TRAFI.</p></div></section>
+<section class="panel"><div class="panelhead"><h3>LICZNIK ODWIEDZIN</h3><small>ODWIEDZINY</small></div><div class="panelbody"><div class="visitor-counter" id="lnVisitorCounter" aria-live="polite"><div class="visitor-counter-item"><span>ALL TIME</span><strong id="lnVisitorsAllTime">------</strong></div><div class="visitor-counter-item"><span>TODAY</span><strong id="lnVisitorsToday">------</strong></div><div class="visitor-counter-item"><span>ONLINE NOW</span><strong id="lnVisitorsOnline">--</strong></div></div><p class="smallprint visitor-counter-status" id="lnVisitorStatus">ŁĄCZENIE Z LICZNIKIEM...</p></div></section>
 <section class="panel"><div class="panelhead"><h3>SKRÓTY</h3><small>SKRÓTY</small></div><div class="panelbody"><ul class="linklist"><li><a href="materialy.html">Materiały i publikacje »</a></li><li><a href="archiwum.html">Archiwum witryny »</a></li><li><a href="retro-misja.html">Losuj retro misję »</a></li><li><a href="daily.html">LEVEL NEXT DAILY »</a></li></ul></div></section>
 </aside>
 <div class="col maincol">
@@ -324,4 +324,56 @@ account();load();window.setInterval(load,5000);
 document.addEventListener("levelnext:authchange",account);
 })();
 </script>
+
+<script id="ln-visitor-counter-script">
+(function(){
+"use strict";
+var API="https://levelnext-forum-api.filipiakr245.workers.dev";
+var all=document.getElementById("lnVisitorsAllTime");
+var today=document.getElementById("lnVisitorsToday");
+var online=document.getElementById("lnVisitorsOnline");
+var status=document.getElementById("lnVisitorStatus");
+if(!all||!today||!online||!status)return;
+function visitorId(){
+ try{
+  var id=localStorage.getItem("ln_visitor_id");
+  if(id&&/^[a-f0-9-]{36}$/i.test(id))return id;
+  if(window.crypto&&typeof crypto.randomUUID==="function")id=crypto.randomUUID();
+  else{
+   var bytes=new Uint8Array(16);
+   if(window.crypto&&crypto.getRandomValues)crypto.getRandomValues(bytes);
+   else for(var i=0;i<bytes.length;i++)bytes[i]=Math.floor(Math.random()*256);
+   id=Array.from(bytes).map(function(x){return x.toString(16).padStart(2,"0")}).join("");
+  }
+  localStorage.setItem("ln_visitor_id",id);
+  return id;
+ }catch(e){
+  return "session-"+Math.random().toString(36).slice(2)+Date.now().toString(36);
+ }
+}
+var id=visitorId();
+function format(value,width){
+ var n=Number(value);
+ if(!Number.isFinite(n)||n<0)n=0;
+ return Math.floor(n).toString().padStart(width,"0");
+}
+async function refresh(){
+ try{
+  var url=API+"/api/visitors?visitor_id="+encodeURIComponent(id);
+  var response=await fetch(url,{method:"GET",mode:"cors",credentials:"omit",cache:"no-store",headers:{Accept:"application/json"}});
+  var data=await response.json();
+  if(!response.ok||data.success===false)throw new Error(data.error||("HTTP "+response.status));
+  all.textContent=format(data.all_time,6);
+  today.textContent=format(data.today,5);
+  online.textContent=format(data.online_now,3);
+  status.textContent="UNIKALNI ODWIEDZAJĄCY • AKTUALIZACJA CO 60 SEK.";
+ }catch(error){
+  status.textContent="LICZNIK CHWILOWO NIEDOSTĘPNY";
+ }
+}
+refresh();
+window.setInterval(refresh,60000);
+})();
+</script>
+
 </body></html>
