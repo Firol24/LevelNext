@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-27",
-  "updatedAt": "2026-11-27T15:01+01:00",
+  "updatedAt": "2026-11-27T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Dożywotnia gwarancja na RAM? Ten mały ślad na płytce wystarczył G.Skillowi, żeby powiedzieć „nie”",
-    "summary": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana.",
-    "sourceUrl": "https://www.gry-online.pl/newsroom/dozywotnia-gwarancja-na-ram-ten-maly-slad-na-plytce-wystarczyl-gs/z2324c6",
-    "articleSlug": "9ec8f5b8f0d6",
-    "imageUrl": "https://www.gry-online.pl/i/h/22/533485997.jpg"
+    "category": "PROMOCJE",
+    "title": "Apple MacBook Air 13,6″ M5 16GB/1TB za 6099 zł na Allegro Black Weeks",
+    "summary": "Pracujący w oparciu o czip Apple M5 MacBook Air, możliwy jest do kupienia taniej poprzez serwis Allegro. Model z matrycą o przekątnej 13,6 cala, wyposażony w 16GB oraz potężny dysk o pojemności 1TB, kosztuje 6099 złotych. Oferta dotyczy wariantu w kolorze srebrnym. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/apple-macbook-air-136-m5-16gb-1tb-za-6099-zl-na-allegro-black-weeks/",
+    "articleSlug": "a4c541a077bd",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/macbook-air-apple-m5-srebrny-silver-2b-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Apple MacBook Air 13,6″ M5 16GB/1TB za 6099 zł na Allegro Black Weeks",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/apple-macbook-air-136-m5-16gb-1tb-za-6099-zl-na-allegro-black-weeks/",
+      "publishedAt": "2026-11-27T15:53+01:00",
+      "summary": "Pracujący w oparciu o czip Apple M5 MacBook Air, możliwy jest do kupienia taniej poprzez serwis Allegro. Model z matrycą o przekątnej 13,6 cala, wyposażony w 16GB oraz potężny dysk o pojemności 1TB, kosztuje 6099 złotych. Oferta dotyczy wariantu w kolorze srebrnym. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/macbook-air-apple-m5-srebrny-silver-2b-224x224.jpg",
+      "articleSlug": "a4c541a077bd",
+      "articleBody": "Pracujący w oparciu o czip Apple M5 MacBook Air, możliwy jest do kupienia taniej poprzez serwis Allegro. Model z matrycą o przekątnej 13,6 cala, wyposażony w 16GB oraz potężny dysk o pojemności 1TB, kosztuje 6099 złotych. Oferta dotyczy wariantu w kolorze srebrnym. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "BioWare odrzuciło stworzenie KOTOR 2. Powód zaskakuje",
+      "sourceUrl": "https://www.ppe.pl/news/434814/bioware-odrzucilo-stworzenie-kotor-2-powod-zaskakuje.html",
+      "publishedAt": "2026-11-27T15:44+01:00",
+      "summary": "Star Wars: Knights of the Old Republic 2 - The Sith Lords mogło powstać w zupełnie innym studiu. BioWare, odpowiedzialne za pierwszą część kultowego RPG, otrzymało propozycję przygotowania kontynuacji, ale odmówiło. Powód?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/279953e039a234e0f25d/279953e039a234e0f25d.jpg",
+      "articleSlug": "b41db00b284c",
+      "articleBody": "Star Wars: Knights of the Old Republic 2 - The Sith Lords mogło powstać w zupełnie innym studiu. BioWare, odpowiedzialne za pierwszą część kultowego RPG, otrzymało propozycję przygotowania kontynuacji, ale odmówiło. Powód?"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Odbierz Dead Age II za darmo w GOG! Nowa darmówka z okazji Black Friday",
+      "sourceUrl": "https://lowcygier.pl/darmowe/odbierz-dead-age-ii-za-darmo-w-gog-nowa-darmowka-z-okazji-black-friday/",
+      "publishedAt": "2026-11-27T15:34+01:00",
+      "summary": "Sklep GOG.com przygotował dla Was Dead Age II za darmo w ramach Black Friday i trwającej wyprzedaży. To mieszanka gatunkowa, łącząca w sobie cechy roguelike, survivalu i turowego RPG, w którym traficie do postapokaliptycznego świata opanowanego przez zombie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/dead-age-2-miniaturka-224x224.jpg",
+      "articleSlug": "c9b725695448",
+      "articleBody": "Sklep GOG.com przygotował dla Was Dead Age II za darmo w ramach Black Friday i trwającej wyprzedaży. To mieszanka gatunkowa, łącząca w sobie cechy roguelike, survivalu i turowego RPG, w którym traficie do postapokaliptycznego świata opanowanego przez zombie. Czytaj więcej »"
+    },
     {
       "sourceName": "GRY-Online",
       "title": "Dożywotnia gwarancja na RAM? Ten mały ślad na płytce wystarczył G.Skillowi, żeby powiedzieć „nie”",
@@ -25,6 +58,17 @@
       "articleBody": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana."
     },
     {
+      "sourceName": "Łowcy Gier",
+      "title": "Zestawy Gravitrax taniej z okazji Black Friday w Amazon PL. Zestaw Startowy Drop’n’roll za 331,46 zł",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/zestawy-gravitrax-taniej-z-okazji-black-friday-w-amazon-pl-zestaw-startowy-dropnroll-za-33146-zl/",
+      "publishedAt": "2026-11-27T15:32+01:00",
+      "summary": "Zestawy Gravitrax, do tworzenia torów z przeszkodami, pojawiły się w nieco niższych cenach w polskim oddziale sklepu Amazon. Jeśli lubicie kreatywną zabawę, za startowy PRO set Drop’n’roll zapłacicie obecnie 331,46 zł. Dostępny jest także starter XXL, który kosztuje nieco ponad 391 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/gravitrax-pro-drop-n-roll-starter-2b-224x224.jpg",
+      "articleSlug": "a2bfbe28c145",
+      "articleBody": "Zestawy Gravitrax, do tworzenia torów z przeszkodami, pojawiły się w nieco niższych cenach w polskim oddziale sklepu Amazon. Jeśli lubicie kreatywną zabawę, za startowy PRO set Drop’n’roll zapłacicie obecnie 331,46 zł. Dostępny jest także starter XXL, który kosztuje nieco ponad 391 złotych. Czytaj więcej »"
+    },
+    {
       "sourceName": "GRY-Online",
       "title": "GTA 6 działa zaskakująco dobrze na 13-letniej konsoli. Eksperci rozwiązali „największą zagadkę” cloud gamingu na XOne",
       "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-dziala-zaskakujaco-dobrze-na-13-letniej-konsoli-eksperci-ro/z1324c5",
@@ -34,6 +78,39 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533485441.jpg",
       "articleSlug": "46f70c74d78c",
       "articleBody": "GTA 6 na Xboxie One brzmi jak żart, ale zdaniem Digital Foundry to nie taka zła opcja do grania w hit Rockstar Games."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Alien: Isolation 2 pokaże zupełnie nowe oblicze horroru! Twórcy zdradzili nowe szczegóły",
+      "sourceUrl": "https://www.ppe.pl/news/434812/alien-isolation-2-pokaze-zupelnie-nowe-oblicze-horroru-tworcy-zdradzili-nowe-szczegoly.html",
+      "publishedAt": "2026-11-27T15:16+01:00",
+      "summary": "Alien: Isolation 2 ma zachować charakterystyczny klimat oryginalnego filmu, ale nie ograniczy się do ciasnych korytarzy i zamkniętych pomieszczeń.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/d7d9d79950d027a23989/d7d9d79950d027a23989.jpg",
+      "articleSlug": "5c3d052b02ef",
+      "articleBody": "Alien: Isolation 2 ma zachować charakterystyczny klimat oryginalnego filmu, ale nie ograniczy się do ciasnych korytarzy i zamkniętych pomieszczeń."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe Splatoon 2 na Nintendo Switch za 112 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-splatoon-2-na-nintendo-switch-za-112-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-27T15:15+01:00",
+      "summary": "Promocja na Splatoon 2 pojawiła się w wybranych sklepach internetowych. Jeśli interesuje Was pudełkowe wydanie ekskluzywnego dla Nintendo Switch trzecioosobowego, kolorowego shootera, kartridż może być wasz za 119,89 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2023/09/Splatoon_2_miniatura-224x224.jpg",
+      "articleSlug": "9fc1fe72ba82",
+      "articleBody": "Promocja na Splatoon 2 pojawiła się w wybranych sklepach internetowych. Jeśli interesuje Was pudełkowe wydanie ekskluzywnego dla Nintendo Switch trzecioosobowego, kolorowego shootera, kartridż może być wasz za 119,89 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Pracownicy Rockstara zagłosowali przeciwko utworzeniu związku zawodowego. „To nie jest sygnał do wycofania się”",
+      "sourceUrl": "https://cdaction.pl/newsy/pracownicy-rockstara-zaglosowali-przeciwko-utworzeniu-zwiazku-zawodowego-to-nie-jest-sygnal-do-wycofania-sie/",
+      "publishedAt": "2026-11-27T15:05+01:00",
+      "summary": "Mimo to jeszcze nie zgasła cała nadzieja?",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/lucia-gta-1260x709.jpg",
+      "articleSlug": "a088a804564a",
+      "articleBody": "Mimo to jeszcze nie zgasła cała nadzieja?"
     },
     {
       "sourceName": "Łowcy Gier",
@@ -265,83 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/vertical-drop-heroes-hd-miniaturka-224x224.jpg",
       "articleSlug": "2e0218a5338a",
       "articleBody": "Sklep Fanatical co rusz przygotowuje dla swoich użytkowników rozdawnictwo gier. Jeśli więc jesteście zapisani do newslettera i posiadacie konto we wspomnianym sklepie, możecie teraz zgarnąć Vertical Drop Heroes HD za darmo. To platformówkowy roguelike, który czeka na przypisanie do konta do 29 listopada. Czytaj więcej »"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Twórcy wyczekiwanej strategii Dawn of War 4 mają jasny plan: chcą zatrzymać graczy na długie tygodnie. Oto, jak zamierzają tego dokonać",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/tworcy-wyczekiwanej-strategii-dawn-of-war-4-maja-jasny-plan-chca/ze324bc",
-      "publishedAt": "2026-11-27T13:07+01:00",
-      "summary": "Warhammer 40,000: Dawn of War oferuje najbardziej rozbudowany edytor armii w historii, a gracze będą mieli istotny wpływ na przebieg kampanii.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533476845.jpg",
-      "articleSlug": "865a5217a5eb",
-      "articleBody": "Warhammer 40,000: Dawn of War oferuje najbardziej rozbudowany edytor armii w historii, a gracze będą mieli istotny wpływ na przebieg kampanii."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Hisense rozdaje nawet 5000 zł na święta! Ruszyła promocja na telewizory i projektory",
-      "sourceUrl": "https://www.ppe.pl/news/434813/hisense-rozdaje-nawet-5000-zl-na-swieta-ruszyla-promocja-na-telewizory-i-projektory.html",
-      "publishedAt": "2026-11-27T12:57+01:00",
-      "summary": "Hisense przygotował świąteczną promocję dla osób planujących zakup nowego telewizora lub projektora.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/eaa018710d9945acfd56/eaa018710d9945acfd56.png",
-      "articleSlug": "841aba9a0ff8",
-      "articleBody": "Hisense przygotował świąteczną promocję dla osób planujących zakup nowego telewizora lub projektora."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Steve Buscemi gwiazdą Operacji świątecznych 2027 w World of Tanks",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/steve-buscemi-gwiazda-operacji-swiatecznych-2027-w-world-of-tanks/zc324ba",
-      "publishedAt": "2026-11-27T12:40+01:00",
-      "summary": "Studio Wargaming kontynuuje tradycję zapraszania gwiazd kina do zimowego wydarzenia w swojej flagowej grze pancernej.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533475635.jpg",
-      "articleSlug": "c0479b0c6073",
-      "articleBody": "Studio Wargaming kontynuuje tradycję zapraszania gwiazd kina do zimowego wydarzenia w swojej flagowej grze pancernej."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Heilung wraca do naszego kraju w glorii i chwale! Unikatowy folkowy kolektyw wystąpi w katowickim Spodku 18 listopada",
-      "sourceUrl": "https://cdaction.pl/newsy/heilung-wraca-do-naszego-kraju-w-glorii-i-chwale-unikatowy-folkowy-kolektyw-wystapi-w-katowickim-spodku-18-listopada/",
-      "publishedAt": "2026-11-27T12:36+01:00",
-      "summary": "Rytuał grupy wesprze Lilith Max.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/heilung-event_copy-1260x660.jpg",
-      "articleSlug": "ad6020abc159",
-      "articleBody": "Rytuał grupy wesprze Lilith Max."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Wiedźmin 4 ominie jedną z platform. CD Projekt RED daje znak",
-      "sourceUrl": "https://www.ppe.pl/news/434803/wiedzmin-4-ominie-jedna-z-platform-cd-projekt-red-daje-znak.html",
-      "publishedAt": "2026-11-27T12:34+01:00",
-      "summary": "Po tym, jak wyszło na jaw, że Wiedźmin 4 doczekał się umowy marketingowej z Sony, wśród graczy od razu zapaliła się lampka ostrzegawcza. Nic dziwnego - patrząc na świeżą sytuację z GTA 6, gdzie pecetowcy wciąż muszą obejść się smakie...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/69b99f3cd51a83eb4954/69b99f3cd51a83eb4954.jpg",
-      "articleSlug": "e0ef02dcfe4d",
-      "articleBody": "Po tym, jak wyszło na jaw, że Wiedźmin 4 doczekał się umowy marketingowej z Sony, wśród graczy od razu zapaliła się lampka ostrzegawcza. Nic dziwnego - patrząc na świeżą sytuację z GTA 6, gdzie pecetowcy wciąż muszą obejść się smakie..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Promocja na Apple iPhone 18 Pro na Allegro. Model 256GB już za 6053,42 zł!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/promocja-na-apple-iphone-18-pro-na-allegro-model-256gb-juz-za-605342-zl/",
-      "publishedAt": "2026-11-27T12:34+01:00",
-      "summary": "Bezpośrednio na Allegro pojawiła się promocja na najnowszy smartfon z logo Apple. W ramach oferty cena iPhone 18 Pro z 256GB pamięci, w wersji kolorystycznej Burgund, została obniżona do 6079,48 zł. Urządzenie zostało wyposażone w aparat główny Fusion 48 MP, 6‑rdzeniowy procesor A20 Pro oraz wyświetlacz Super Retina XDR o przekątnej 6.3″. Pojawił się także model w kolorze czarnym, kosztujący 6053,42 zł. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocja-na-Apple-iPhone-18-Pro-na-Allegro.-Model-256GB-Burgund-juz-za-607948-zl_miniaturka-224x224.jpg",
-      "articleSlug": "c4191af94ef4",
-      "articleBody": "Bezpośrednio na Allegro pojawiła się promocja na najnowszy smartfon z logo Apple. W ramach oferty cena iPhone 18 Pro z 256GB pamięci, w wersji kolorystycznej Burgund, została obniżona do 6079,48 zł. Urządzenie zostało wyposażone w aparat główny Fusion 48 MP, 6‑rdzeniowy procesor A20 Pro oraz wyświetlacz Super Retina XDR o przekątnej 6.3″. Pojawił się także model w kolorze czarnym, kosztujący 6053,42 zł. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Tym razem Sony nie zablokuje multiplayera w The Last of Us 2. Gracze zagrali na nosie producenta PS5",
-      "sourceUrl": "https://www.ppe.pl/news/434806/tym-razem-sony-nie-zablokuje-multiplayera-w-the-last-of-us-2-gracze-zagrali-na-nosie-producenta-ps5.html",
-      "publishedAt": "2026-11-27T12:33+01:00",
-      "summary": "W pecetowej wersji Last of Us Part II Remastered korzystać można od kilku dni z darmowego trybu multiplayer. A PlayStation jest w tej sytuacji bezsilne.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/dc59a444b4ae1a4a835b/dc59a444b4ae1a4a835b.jpg",
-      "articleSlug": "0d46c49c2260",
-      "articleBody": "W pecetowej wersji Last of Us Part II Remastered korzystać można od kilku dni z darmowego trybu multiplayer. A PlayStation jest w tej sytuacji bezsilne."
     }
   ],
   "indie": [
