@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T08:01+01:00",
+  "updatedAt": "2026-11-28T09:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Listwa zasilająca Brennenstuhl Super Solid Line z 8 gniazdami dostępna już za 77 zł w Amazon PL",
-    "summary": "Bardzo dobra oferta na listwę zasilającą Brennenstuhl Super Solid Line pojawiła się, z okazji Black Friday 2026, w polskim oddziale sklepu Amazon. Model posiadający aż osiem gniazd do podłączenia sprzętów może być Wasz za nieco ponad 77 zł. Urządzenie wyposażone jest w kabel zasilający o długości 2,5 m, ochronę przeciwprzepięciową do 13 500 A oraz dodatkowy bezpiecznik 16 A. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/listwa-zasilajaca-brennenstuhl-super-solid-line-z-8-gniazdami-dostepna-juz-za-77-zl-w-amazon-pl/",
-    "articleSlug": "1aa582f4cbc2",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Listwa-zasilajaca-Brennenstuhl-Super-Solid-Line-z-8-gniazdami-dostepna-juz-za-77-zl-w-Amazon-PL_miniaturka-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Dzisiejszy \"gracz\" jest z definicji bardzo smutną osobą. Żal mi tego",
+    "summary": "Kiedy patrzę ostatnio na to, co dzieje się w growym internecie, coraz częściej łapię się za głowę. Naprawdę. Mam wrażenie, że dzisiejszy „gracz” - ten najgłośniejszy, z komentarzy pod każdym filmem i z portalu X - stał się z definic...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/434652/dzisiejszy-gracz-jest-z-definicji-bardzo-smutna-osoba-zal-mi-tego.html",
+    "articleSlug": "e3b1040ddbdc",
+    "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Dzisiejszy \"gracz\" jest z definicji bardzo smutną osobą. Żal mi tego",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434652/dzisiejszy-gracz-jest-z-definicji-bardzo-smutna-osoba-zal-mi-tego.html",
+      "publishedAt": "2026-11-28T09:00+01:00",
+      "summary": "Kiedy patrzę ostatnio na to, co dzieje się w growym internecie, coraz częściej łapię się za głowę. Naprawdę. Mam wrażenie, że dzisiejszy „gracz” - ten najgłośniejszy, z komentarzy pod każdym filmem i z portalu X - stał się z definic...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg",
+      "articleSlug": "e3b1040ddbdc",
+      "articleBody": "Kiedy patrzę ostatnio na to, co dzieje się w growym internecie, coraz częściej łapię się za głowę. Naprawdę. Mam wrażenie, że dzisiejszy „gracz” - ten najgłośniejszy, z komentarzy pod każdym filmem i z portalu X - stał się z definic..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Michael broni Lucii! Aktor głosowy z GTA V odpowiada krytykującym GTA VI...",
+      "sourceUrl": "https://www.ppe.pl/news/434844/michael-broni-lucii-aktor-glosowy-z-gta-v-odpowiada-krytykujacym-gta-vi.html",
+      "publishedAt": "2026-11-28T08:30+01:00",
+      "summary": "Obecność Lucii w GTA 6 od początku wywołuje sporo emocji, choć nie wszystkie dyskusje dotyczą jej historii czy roli w fabule. Część graczy nazywa produkcję „woke” wyłącznie dlatego, że jedną z dwóch głównych postaci jest kobieta. Ta...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/bbd2c313bf2a3bc14a76/bbd2c313bf2a3bc14a76.jpg",
+      "articleSlug": "b6eae90398b5",
+      "articleBody": "Obecność Lucii w GTA 6 od początku wywołuje sporo emocji, choć nie wszystkie dyskusje dotyczą jej historii czy roli w fabule. Część graczy nazywa produkcję „woke” wyłącznie dlatego, że jedną z dwóch głównych postaci jest kobieta. Ta..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 wygląda gorzej po ostatniej aktualizacji? Gracze oskarżają i pokazują dowody",
+      "sourceUrl": "https://www.ppe.pl/news/434857/gta-6-wyglada-gorzej-po-ostatniej-aktualizacji-gracze-oskarzaja-i-pokazuja-dowody.html",
+      "publishedAt": "2026-11-28T08:28+01:00",
+      "summary": "Rockstar Games mogło zdecydować się na kontrowersyjny krok, by poprawić działanie GTA 6 na konsolach. W ostatnich dniach coraz częściej informowaliśmy o problemach posiadaczy PlayStation 5, których urządzenia miały przegrzewać się lub niesp...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/c22ce92dba1a5dd8a2fc/c22ce92dba1a5dd8a2fc.png",
+      "articleSlug": "29ca61bc6bca",
+      "articleBody": "Rockstar Games mogło zdecydować się na kontrowersyjny krok, by poprawić działanie GTA 6 na konsolach. W ostatnich dniach coraz częściej informowaliśmy o problemach posiadaczy PlayStation 5, których urządzenia miały przegrzewać się lub niesp..."
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Listwa zasilająca Brennenstuhl Super Solid Line z 8 gniazdami dostępna już za 77 zł w Amazon PL",
