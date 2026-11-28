@@ -1,18 +1,73 @@
 {
   "status": "rss-only",
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T16:01+01:00",
+  "updatedAt": "2026-11-28T17:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "PROMOCJE",
-    "title": "Mysz gamingowa SteelSeries Aerox 5 za 199 zł, a bezprzewodowa za 249 zł w polskich sklepach",
-    "summary": "Solidna okazja na SteelSeries Aerox 5 jest teraz do dorwania dzięki ofercie polskich sklepów internetowych. Mysz wyposażona w sensor optyczny TrueMove Air z rozdzielczością do 18000 dpi, ważąca 74 gramy oraz posiadająca 9 programowalnych przycisków, kosztuje aktualnie już 199 złotych. Wariant bezprzeowodowy z kolei może być Wasz już za 249 zł. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/mysz-gamingowa-steelseries-aerox-5-za-199-zl-a-bezprzewodowa-za-249-zl-w-polskich-sklepach/",
-    "articleSlug": "3a278cddc5b5",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/steelseries-aerox-5-wireless-1b-224x224.jpg"
+    "category": "WIADOMOŚCI",
+    "title": "Takie obsuwy nikt się nie spodziewał! Co z kolejnym Resident Evil?",
+    "summary": "Klasyczne Resident Evil Code: Veronica, choć nie było pierwszą, całkowicie trójwymiarową odsłoną serii (trzy miesiące wcześniej dokonał tego spin-off, Resident Evil: Survivor z PlayStation), zapewniło zdecydowanie najciekawszą fabułę. Opo...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/434863/takie-obsuwy-nikt-sie-nie-spodziewal-co-z-kolejnym-resident-evil.html",
+    "articleSlug": "c0a9e24aa357",
+    "imageUrl": "https://pliki.ppe.pl/storage/95188c623bf4540fe009/95188c623bf4540fe009.webp"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Takie obsuwy nikt się nie spodziewał! Co z kolejnym Resident Evil?",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434863/takie-obsuwy-nikt-sie-nie-spodziewal-co-z-kolejnym-resident-evil.html",
+      "publishedAt": "2026-11-28T17:00+01:00",
+      "summary": "Klasyczne Resident Evil Code: Veronica, choć nie było pierwszą, całkowicie trójwymiarową odsłoną serii (trzy miesiące wcześniej dokonał tego spin-off, Resident Evil: Survivor z PlayStation), zapewniło zdecydowanie najciekawszą fabułę. Opo...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/95188c623bf4540fe009/95188c623bf4540fe009.webp",
+      "articleSlug": "c0a9e24aa357",
+      "articleBody": "Klasyczne Resident Evil Code: Veronica, choć nie było pierwszą, całkowicie trójwymiarową odsłoną serii (trzy miesiące wcześniej dokonał tego spin-off, Resident Evil: Survivor z PlayStation), zapewniło zdecydowanie najciekawszą fabułę. Opo..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Gra planszowa Monopoly Edycja Wiedźmin za 119,99 zł w Empiku",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/gra-planszowa-monopoly-edycja-wiedzmin-za-11999-zl-w-empiku/",
+      "publishedAt": "2026-11-28T16:59+01:00",
+      "summary": "Wyjątkowe wydanie popularnej planszówki Monopoly – Edycja Wiedźmin kupicie teraz taniej w sklepie internetowym Empik. Waszym celem będzie zgromadzenie jak największej fortuny i doprowadzenie rywali do bankructwa, a klasyczną rozgrywkę wzbogacają nawiązania do uniwersum Białego Wilka. Na planszy znajdziecie m.in. Kaer Morhen i Akademię Aretuzy, natomiast karty Szansy i Kasy Społecznej zastąpiono Nagrodami i Prawem Niespodzianki. Całość uzupełnia dedykowana oprawa graficzna oraz sześć kolekcjonerskich pionków, wśród których znalazły się kryształowa czaszka i płonąca księga. Wspomniana produkcja może być Wasza już za 119,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/03/monopoly-wiedzmin-2b-224x224.jpg",
+      "articleSlug": "1d29dd48cca4",
+      "articleBody": "Wyjątkowe wydanie popularnej planszówki Monopoly – Edycja Wiedźmin kupicie teraz taniej w sklepie internetowym Empik. Waszym celem będzie zgromadzenie jak największej fortuny i doprowadzenie rywali do bankructwa, a klasyczną rozgrywkę wzbogacają nawiązania do uniwersum Białego Wilka. Na planszy znajdziecie m.in. Kaer Morhen i Akademię Aretuzy, natomiast karty Szansy i Kasy Społecznej zastąpiono Nagrodami i Prawem Niespodzianki. Całość uzupełnia dedykowana oprawa graficzna oraz sześć kolekcjonerskich pionków, wśród których znalazły się kryształowa czaszka i płonąca księga. Wspomniana produkcja może być Wasza już za 119,99 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje Black Friday 2026 na pady dla graczy w x-komie! Ceny od 79 zł, a DualSense za 249 zł",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocje-black-friday-2026-na-pady-dla-graczy-w-x-komie-ceny-od-79-zl-a-dualsense-za-249-zl/",
+      "publishedAt": "2026-11-28T16:30+01:00",
+      "summary": "Na stronie sklepu internetowego x-kom znajdziecie teraz kilka dobrych obniżek z okazji Black Friday 2026 na pady do PC, konsol i smartfonów. Wśród ofert czekają MOJHON Bigbig Won Choco Gray za 79 zł, 8BitDo Ultimate 2 Wireless za 198 zł, Sony DualSense Chrome Teal za 249 zł oraz jubileuszowy kontroler Xbox X25 za 349 zł. Promocyjne ceny wybranych modeli uzyskacie po wpisaniu w koszyku odpowiedniego kodu rabatowego, wskazanego przy danej ofercie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Promocje-Black-Friday-2026-na-pady-dla-graczy-w-x-komie-Ceny-od-79-zl-a-DualSense-za-249-zl_miniaturka-224x224.jpg",
+      "articleSlug": "455031d4606c",
+      "articleBody": "Na stronie sklepu internetowego x-kom znajdziecie teraz kilka dobrych obniżek z okazji Black Friday 2026 na pady do PC, konsol i smartfonów. Wśród ofert czekają MOJHON Bigbig Won Choco Gray za 79 zł, 8BitDo Ultimate 2 Wireless za 198 zł, Sony DualSense Chrome Teal za 249 zł oraz jubileuszowy kontroler Xbox X25 za 349 zł. Promocyjne ceny wybranych modeli uzyskacie po wpisaniu w koszyku odpowiedniego kodu rabatowego, wskazanego przy danej ofercie. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowe Yooka-Laylee SPECJALNIE omija Xboksa, bo wydawanie na niego gier się nie opłaca",
+      "sourceUrl": "https://www.ppe.pl/news/434880/nowe-yooka-laylee-specjalnie-omija-xboksa-bo-wydawanie-na-niego-gier-sie-nie-oplaca.html",
+      "publishedAt": "2026-11-28T16:23+01:00",
+      "summary": "Yooka-Laylee jest jedną z najciekawszych nowych marek platformówek z ostatniej dekady, dzięki czemu ekipa Playtonic naprawdę może cieszyć się z tego, że może kontynuować pracę nad jej rozwojem i dawać radość kolejnym fanom gatunku.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/117dcc083ec03af35501/117dcc083ec03af35501.webp",
+      "articleSlug": "aff29ab25dc9",
+      "articleBody": "Yooka-Laylee jest jedną z najciekawszych nowych marek platformówek z ostatniej dekady, dzięki czemu ekipa Playtonic naprawdę może cieszyć się z tego, że może kontynuować pracę nad jej rozwojem i dawać radość kolejnym fanom gatunku."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "The Elder Scrolls IV: Oblivion kontra Gothic 3. Wielkie starcie otwartych światów i prawdziwej wolności",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434875/the-elder-scrolls-iv-oblivion-kontra-gothic-3-wielkie-starcie-otwartych-swiatow-i-prawdziwej-wolnosci.html",
+      "publishedAt": "2026-11-28T16:01+01:00",
+      "summary": "Bethesda jest stawiana jako wzór studia, które zrewolucjonizowało gry RPG z otwartym światem, ale czy aby na pewno to prawda? Są przecież inne gry RPG z otwartym światem, które były bardzo ciekawe. Na przykład Gothic.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/3984f3377bfe2673d41b/3984f3377bfe2673d41b.png",
+      "articleSlug": "8360c5703de3",
+      "articleBody": "Bethesda jest stawiana jako wzór studia, które zrewolucjonizowało gry RPG z otwartym światem, ale czy aby na pewno to prawda? Są przecież inne gry RPG z otwartym światem, które były bardzo ciekawe. Na przykład Gothic."
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Mysz gamingowa SteelSeries Aerox 5 za 199 zł, a bezprzewodowa za 249 zł w polskich sklepach",
@@ -287,61 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg",
       "articleSlug": "c7d2215cf834",
       "articleBody": "Uwaga na istotne spoilery dotyczące fabuły GTA 6. Jedna z największych niespodzianek gry - fakt, że Jason i Lucia mają dziecko - długo nie była przesądzona. Rob Nelson z Rockstar Games ujawnił, że część zespołu dość wyraźnie kwestionowa..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "W co warto zagrać w grudniu? Święta to czas na granie, więc sprawdźcie Kalendarz Gracza",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/434597/w-co-warto-zagrac-w-grudniu-swieta-to-czas-na-granie-wiec-sprawdzcie-kalendarz-gracza.html",
-      "publishedAt": "2026-11-28T12:00+01:00",
-      "summary": "Grudzień to pierniczki, świąteczne smakołyki i prezenty pod choinką… ale czy znajdziecie jeszcze czas na granie? Choć najgorętszy okres premier mamy już za sobą, wydawcy nie zamierzają kończyć roku bez mocnych akcentów. Od wielkich powrot...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/5deb6b24355bdd014c41/5deb6b24355bdd014c41.png",
-      "articleSlug": "09c657013f8b",
-      "articleBody": "Grudzień to pierniczki, świąteczne smakołyki i prezenty pod choinką… ale czy znajdziecie jeszcze czas na granie? Choć najgorętszy okres premier mamy już za sobą, wydawcy nie zamierzają kończyć roku bez mocnych akcentów. Od wielkich powrot..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Największy sukces w karierze Nicolasa Cage’a wreszcie jest w streamingu. Film z 92% na Rotten Tomatoes przyniósł mu Oscara",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/po-latach-najwiekszy-sukces-w-karierze-nicolasa-cagea-ktory-przyn/zd324bb",
-      "publishedAt": "2026-11-28T12:00+01:00",
-      "summary": "Jeden z najważniejszych filmów Nicolasa Cage&apos;a od niedawna wreszcie dostępny jest w streamingu. Widzowie mogą przypomnieć sobie znakomitą rolę, która ponad 30 lat temu przyniosła artyście Oscara.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533475948.jpg",
-      "articleSlug": "c00d3e1c3a4e",
-      "articleBody": "Jeden z najważniejszych filmów Nicolasa Cage&apos;a od niedawna wreszcie dostępny jest w streamingu. Widzowie mogą przypomnieć sobie znakomitą rolę, która ponad 30 lat temu przyniosła artyście Oscara."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "BioWare było bez grosza przed przejęciem przez EA. Wydawca szybko znienawidził własnego rywala WoW-a w świecie Star Wars",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/bioware-bylo-bez-grosza-przed-przejeciem-przez-ea-wydawca-szybko/ze324d1",
-      "publishedAt": "2026-11-28T11:42+01:00",
-      "summary": "Ojciec serii Dragon Age twierdzi, że firma Electronic Arts nigdy nie wybaczyła studiu BioWare rozczarowujących wyników Star Wars: The Old Republic.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533558531.jpg",
-      "articleSlug": "aba3ace08a7c",
-      "articleBody": "Ojciec serii Dragon Age twierdzi, że firma Electronic Arts nigdy nie wybaczyła studiu BioWare rozczarowujących wyników Star Wars: The Old Republic."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Baldur’s Gate 3 na PC za 114,38 zł w Kinguinie",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/baldurs-gate-3-na-pc-za-11438-zl-w-kinguinie/",
-      "publishedAt": "2026-11-28T11:38+01:00",
-      "summary": "Jeśli lubicie RPG na setki godzin, Baldur’s Gate 3 na pewno was nie zawiedzie. W sklepie Kinguin macie możliwość teraz nabyć wielką grę Larian Studios trochę taniej. Pecetowe wydanie w formie gifta na Steam, dorwiecie aktualnie za nieco ponad 114 złotych. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Promocja-na-Baldurs-Gate-3_miniaturka-224x224.jpg",
-      "articleSlug": "10509d4c19e2",
-      "articleBody": "Jeśli lubicie RPG na setki godzin, Baldur’s Gate 3 na pewno was nie zawiedzie. W sklepie Kinguin macie możliwość teraz nabyć wielką grę Larian Studios trochę taniej. Pecetowe wydanie w formie gifta na Steam, dorwiecie aktualnie za nieco ponad 114 złotych. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nowy Jork walczy z AI? Seria korzystająca ze sztucznej inteligencji zbanowana...",
-      "sourceUrl": "https://www.ppe.pl/news/434846/nowy-jork-walczy-z-ai-seria-korzystajaca-ze-sztucznej-inteligencji-zbanowana.html",
-      "publishedAt": "2026-11-28T11:30+01:00",
-      "summary": "Sztuczna inteligencja coraz śmielej wkracza do produktów przeznaczonych dla najmłodszych, ale Nowy Jork postanowił wyznaczyć wyraźną granicę. Stan oficjalnie wprowadził pięcioletni zakaz obejmujący zabawki wyposażone w chatboty AI. Nowe prze...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/83a15c4df8c9eec2e25b/83a15c4df8c9eec2e25b.png",
-      "articleSlug": "8b206535df64",
-      "articleBody": "Sztuczna inteligencja coraz śmielej wkracza do produktów przeznaczonych dla najmłodszych, ale Nowy Jork postanowił wyznaczyć wyraźną granicę. Stan oficjalnie wprowadził pięcioletni zakaz obejmujący zabawki wyposażone w chatboty AI. Nowe prze..."
     }
   ],
   "indie": [
