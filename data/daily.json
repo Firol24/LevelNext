@@ -1,18 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T13:01+01:00",
+  "updatedAt": "2026-11-28T13:40+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Quiz o hitowym serialu Carrie",
-    "summary": "Witajcie w quizie jednego z najważniejszych seriali tego roku od Amazona. Sprawdźcie, ile pamiętacie z Carrie.",
-    "sourceUrl": "https://www.ppe.pl/quizy/434656/quiz-o-hitowym-serialu-carrie.html",
-    "articleSlug": "59d10169aa9d",
-    "imageUrl": "https://pliki.ppe.pl/storage/dc304e43a9f8512fc7ac/dc304e43a9f8512fc7ac.jpg"
+    "title": "Uruchomili pociąg o długości 7,6 kilometra, składający się z 696 wagonów, i twierdzą, że pobili tym samym światowy rekord długości",
+    "summary": "W Afryce pobito rekord najdłuższego składu kolejowego na świecie. Skład liczący prawie 700 wagonów wraz z lokomotywami mierzył ponad 7,5 kilometra.",
+    "sourceUrl": "https://www.gry-online.pl/newsroom/uruchomili-pociag-o-dlugosci-76-kilometra-skladajacy-sie-z-696-wa/z53249c",
+    "articleSlug": "10e15e3ce78d",
+    "imageUrl": "https://www.gry-online.pl/i/h/22/533399176.jpg"
   },
   "news": [
+    {
+      "sourceName": "GRY-Online",
+      "title": "Uruchomili pociąg o długości 7,6 kilometra, składający się z 696 wagonów, i twierdzą, że pobili tym samym światowy rekord długości",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/uruchomili-pociag-o-dlugosci-76-kilometra-skladajacy-sie-z-696-wa/z53249c",
+      "publishedAt": "2026-11-28T14:00+01:00",
+      "summary": "W Afryce pobito rekord najdłuższego składu kolejowego na świecie. Skład liczący prawie 700 wagonów wraz z lokomotywami mierzył ponad 7,5 kilometra.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533399176.jpg",
+      "articleSlug": "10e15e3ce78d",
+      "articleBody": "W Afryce pobito rekord najdłuższego składu kolejowego na świecie. Skład liczący prawie 700 wagonów wraz z lokomotywami mierzył ponad 7,5 kilometra."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Szef Epic Games broni kontrowersyjnego planu Ubisoftu. „Mogą znów stać się potęgą”",
+      "sourceUrl": "https://www.ppe.pl/news/434860/szef-epic-games-broni-kontrowersyjnego-planu-ubisoftu-moga-znow-stac-sie-potega.html",
+      "publishedAt": "2026-11-28T13:30+01:00",
+      "summary": "Doniesienia o coraz większej roli generatywnej sztucznej inteligencji w Ubisofcie wywołały sporo kontrowersji, lecz Tim Sweeney widzi w tym ogromną szansę. Dyrektor generalny Epic Games poparł podejście Yves’a Guillemota i stwierdził, że nowe...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f40c8bab7c856e57141d/f40c8bab7c856e57141d.jpg",
+      "articleSlug": "b37ea4bb54b7",
+      "articleBody": "Doniesienia o coraz większej roli generatywnej sztucznej inteligencji w Ubisofcie wywołały sporo kontrowersji, lecz Tim Sweeney widzi w tym ogromną szansę. Dyrektor generalny Epic Games poparł podejście Yves’a Guillemota i stwierdził, że nowe..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Pudełkowe The Blood of Dawnwalker Launch Edition na PS5 + Steelbook za 174,11 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-the-blood-of-dawnwalker-launch-edition-na-ps5-steelbook-za-17411-zl-na-allegro/",
+      "publishedAt": "2026-11-28T13:24+01:00",
+      "summary": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 174,11 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Promocja-na-The-Blood-of-Dawnwalker-ps5_miniaturka-224x224.jpg",
+      "articleSlug": "73f4f083ed58",
+      "articleBody": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 174,11 zł! Czytaj więcej »"
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Black Friday 2026 w Sklepie LEGO. Gigantyczny zestaw Titanic w rekordowej cenie!",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-black-friday-2026-w-sklepie-lego-gigantyczny-zestaw-titanic-w-rekordowej-cenie/",
+      "publishedAt": "2026-11-28T13:18+01:00",
+      "summary": "W oficjalnym Sklepie LEGO trwa wyprzedaż Black Friday 2026. W ramach promocji przygotowano wyjątkowe zniżki sięgające nawet 500 zł. To jednak nie koniec atrakcji – zamówienie za odpowiednią kwotę pozwala odebrać do dwóch upominków LEGO za darmo ! Akcja potrwa jedynie do 29 listopada, więc nie zwlekajcie z potencjalnymi zakupami, które mogą idealnie nadać się jako prezent dla fanów duńskich klocków. Na szczególną uwagę zasługuje tutaj gargantuicznych rozmiarów model LEGO Icons – Titanic. Składający się z imponującej liczby 9090 elementów zestaw dostepny jest w historycznie najniższej cenie 2464,99 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-2026-w-Sklepie-LEGO.-Gigantyczny-zestaw-Titanic-w-rekordowej-cenie_miniaturka-224x224.jpg",
+      "articleSlug": "b813931be8eb",
+      "articleBody": "W oficjalnym Sklepie LEGO trwa wyprzedaż Black Friday 2026. W ramach promocji przygotowano wyjątkowe zniżki sięgające nawet 500 zł. To jednak nie koniec atrakcji – zamówienie za odpowiednią kwotę pozwala odebrać do dwóch upominków LEGO za darmo ! Akcja potrwa jedynie do 29 listopada, więc nie zwlekajcie z potencjalnymi zakupami, które mogą idealnie nadać się jako prezent dla fanów duńskich klocków. Na szczególną uwagę zasługuje tutaj gargantuicznych rozmiarów model LEGO Icons – Titanic. Składający się z imponującej liczby 9090 elementów zestaw dostepny jest w historycznie najniższej cenie 2464,99 zł! Czytaj więcej »"
+    },
     {
       "sourceName": "PPE",
       "title": "Quiz o hitowym serialu Carrie",
@@ -23,6 +67,17 @@
       "imageUrl": "https://pliki.ppe.pl/storage/dc304e43a9f8512fc7ac/dc304e43a9f8512fc7ac.jpg",
       "articleSlug": "59d10169aa9d",
       "articleBody": "Witajcie w quizie jednego z najważniejszych seriali tego roku od Amazona. Sprawdźcie, ile pamiętacie z Carrie."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Grafika GTA 6 jest „prawie doskonała”. Jedna rzecz bardziej zachwycała byłego pracownika Rockstara w RDR2",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/grafika-gta-6-jest-prawie-doskonala-jedna-rzecz-bardziej-zachwyca/zf324d2",
+      "publishedAt": "2026-11-28T12:46+01:00",
+      "summary": "Artysta, który pracował zarówno przy Red Dead Redemption 2, jak i przy Grand Theft Auto VI, pokazał, jakie elementy były wykonane lepiej w starszej grze Rockstara.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533562367.jpg",
+      "articleSlug": "548ec857e8e0",
+      "articleBody": "Artysta, który pracował zarówno przy Red Dead Redemption 2, jak i przy Grand Theft Auto VI, pokazał, jakie elementy były wykonane lepiej w starszej grze Rockstara."
     },
     {
       "sourceName": "PPE",
@@ -45,6 +100,28 @@
       "imageUrl": "https://pliki.ppe.pl/storage/5deb6b24355bdd014c41/5deb6b24355bdd014c41.png",
       "articleSlug": "09c657013f8b",
       "articleBody": "Grudzień to pierniczki, świąteczne smakołyki i prezenty pod choinką… ale czy znajdziecie jeszcze czas na granie? Choć najgorętszy okres premier mamy już za sobą, wydawcy nie zamierzają kończyć roku bez mocnych akcentów. Od wielkich powrot..."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Największy sukces w karierze Nicolasa Cage’a wreszcie jest w streamingu. Film z 92% na Rotten Tomatoes przyniósł mu Oscara",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/po-latach-najwiekszy-sukces-w-karierze-nicolasa-cagea-ktory-przyn/zd324bb",
+      "publishedAt": "2026-11-28T12:00+01:00",
+      "summary": "Jeden z najważniejszych filmów Nicolasa Cage&apos;a od niedawna wreszcie dostępny jest w streamingu. Widzowie mogą przypomnieć sobie znakomitą rolę, która ponad 30 lat temu przyniosła artyście Oscara.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533475948.jpg",
+      "articleSlug": "c00d3e1c3a4e",
+      "articleBody": "Jeden z najważniejszych filmów Nicolasa Cage&apos;a od niedawna wreszcie dostępny jest w streamingu. Widzowie mogą przypomnieć sobie znakomitą rolę, która ponad 30 lat temu przyniosła artyście Oscara."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "BioWare było bez grosza przed przejęciem przez EA. Wydawca szybko znienawidził własnego rywala WoW-a w świecie Star Wars",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/bioware-bylo-bez-grosza-przed-przejeciem-przez-ea-wydawca-szybko/ze324d1",
+      "publishedAt": "2026-11-28T11:42+01:00",
+      "summary": "Ojciec serii Dragon Age twierdzi, że firma Electronic Arts nigdy nie wybaczyła studiu BioWare rozczarowujących wyników Star Wars: The Old Republic.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533558531.jpg",
+      "articleSlug": "aba3ace08a7c",
+      "articleBody": "Ojciec serii Dragon Age twierdzi, że firma Electronic Arts nigdy nie wybaczyła studiu BioWare rozczarowujących wyników Star Wars: The Old Republic."
     },
     {
       "sourceName": "Łowcy Gier",
@@ -100,6 +177,17 @@
       "imageUrl": "https://pliki.ppe.pl/storage/c014a8137bbfd2f042b6/c014a8137bbfd2f042b6.jpg",
       "articleSlug": "fb11d9deb792",
       "articleBody": "Miniony rok w serialowej rozrywce upłynął jak zwykle pod znakiem kasowania seriali, które z początku zdawały się mieć ogromny potencjał do rozwijania snutych w nich opowieści. Przypadek głośnej produkcji z Nicolasem Cage'em w roli głównej ..."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "W 1919 roku w Nowym Jorku wzniesiono dwie piramidy z 12 tysięcy niemieckich hełmów. Ktoś musiał zapłacić rachunek za I wojnę światową",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/w-1919-roku-w-nowym-jorku-wzniesiono-dwie-piramidy-z-12-tysiecy-n/z232454",
+      "publishedAt": "2026-11-28T11:00+01:00",
+      "summary": "Po zakończeniu I wojny światowej rząd Stanów Zjednoczonych potrzebował sfinansować powrót wojsk do kraju. Wymyślono monumentalny pokaz zwycięstwa w postaci dwóch piramid zbudowanych z niemieckich hełmów.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533226442.jpg",
+      "articleSlug": "f58126a3f661",
+      "articleBody": "Po zakończeniu I wojny światowej rząd Stanów Zjednoczonych potrzebował sfinansować powrót wojsk do kraju. Wymyślono monumentalny pokaz zwycięstwa w postaci dwóch piramid zbudowanych z niemieckich hełmów."
     },
     {
       "sourceName": "PPE",
@@ -254,94 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/004bd37dc5e27aefc8d0/004bd37dc5e27aefc8d0.jpg",
       "articleSlug": "a117a24d6dd4",
       "articleBody": "Jonathan Rogers, współreżyser Path of Exile 2, skrytykował sposób, w jaki niektóre studia prezentują swoje nadchodzące produkcje."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "2. sezon „Rycerzy Doliny Rozdupy” Walaszka jest średni, czyli super [RECENZJA]",
-      "sourceUrl": "https://cdaction.pl/kultura/2-sezon-rycerzy-doliny-rozdupy-walaszka-jest-sredni-czyli-super-recenzja/",
-      "publishedAt": "2026-11-27T16:15+01:00",
-      "summary": "Robocizna jak u obcego – na odpi***ol. Bartosz Walaszek w dalszym ciągu daje z siebie 30%, a rachunek wystawia na pełną kwotę. Co tam rachunek… FAKTURĘ! A z fakturą, wiadomo, drożej.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/1.jpg",
-      "articleSlug": "f3bd65907c04",
-      "articleBody": "Robocizna jak u obcego – na odpi***ol. Bartosz Walaszek w dalszym ciągu daje z siebie 30%, a rachunek wystawia na pełną kwotę. Co tam rachunek… FAKTURĘ! A z fakturą, wiadomo, drożej."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe Stellar Blade na PS5 za 149 zł (170 zł taniej) w RTV Euro AGD",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-stellar-blade-na-ps5-za-149-zl-170-zl-taniej-w-rtv-euro-agd/",
-      "publishedAt": "2026-11-27T16:11+01:00",
-      "summary": "Stellar Blade, czyli slasher studia SHIFT UP, który w bliżej nieokreślonym czasie ma doczekać się kontynuacji, jest teraz dostępny w dobrej cenie w RTV Euro AGD. Pudełkową wersję gry na PlayStation 5 kupicie za 149 zł dzięki promocjom z okazji Black Friday 2026. W produkcji pokierujecie losami Eve, która trafia na zrujnowaną Ziemię, by pomóc ocalałym z Xion i zmierzyć się z tajemniczymi Naytiba. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/02/Preorder-Stellar-Blade-na-konsole-PlayStation-5_miniaturka-224x224.jpg",
-      "articleSlug": "031ade94be3e",
-      "articleBody": "Stellar Blade, czyli slasher studia SHIFT UP, który w bliżej nieokreślonym czasie ma doczekać się kontynuacji, jest teraz dostępny w dobrej cenie w RTV Euro AGD. Pudełkową wersję gry na PlayStation 5 kupicie za 149 zł dzięki promocjom z okazji Black Friday 2026. W produkcji pokierujecie losami Eve, która trafia na zrujnowaną Ziemię, by pomóc ocalałym z Xion i zmierzyć się z tajemniczymi Naytiba. Czytaj więcej »"
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Współtwórca Path of Exile ostrzega, że branża gier zmierza w kierunku katastrofy. „Kiedyś granie było lepszym doświadczeniem”",
-      "sourceUrl": "https://cdaction.pl/newsy/wspoltworca-path-of-exile-ostrzega-ze-branza-gier-zmierza-w-kierunku-katastrofy-kiedys-granie-bylo-lepszym-doswiadczeniem/",
-      "publishedAt": "2026-11-27T16:10+01:00",
-      "summary": "Chris Wilson nie owija w bawełnę.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Path-of-Exile.jpg",
-      "articleSlug": "6f370d857bec",
-      "articleBody": "Chris Wilson nie owija w bawełnę."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Rekordowo niska cena za Invincible VS w Instant Gaming. Klucz Steam za jedyne 44,74 zł",
-      "sourceUrl": "https://lowcygier.pl/keyshopy/rekordowo-niska-cena-za-invincible-vs-w-instant-gaming-klucz-steam-za-jedyne-4474-zl/",
-      "publishedAt": "2026-11-27T16:04+01:00",
-      "summary": "Świetna oferta na Invincible VS, pojawiła się w ramach Black Friday 2026 w Instant Gaming. Sklep oferuje pecetowe wydanie bijatyki osadzonej w uniwersum znanego z serialu i komiksów, za 44,74 zł. Możecie liczyć na brutalne starcia 3v3 i odegrać najciekawsze pojedynki, łącząc ciosy w serię kombosów. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/invincible-vs-kwadrat-224x224.jpg",
-      "articleSlug": "d507f32043c3",
-      "articleBody": "Świetna oferta na Invincible VS, pojawiła się w ramach Black Friday 2026 w Instant Gaming. Sklep oferuje pecetowe wydanie bijatyki osadzonej w uniwersum znanego z serialu i komiksów, za 44,74 zł. Możecie liczyć na brutalne starcia 3v3 i odegrać najciekawsze pojedynki, łącząc ciosy w serię kombosów. Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Apple MacBook Air 13,6″ M5 16GB/1TB za 6099 zł na Allegro Black Weeks",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/apple-macbook-air-136-m5-16gb-1tb-za-6099-zl-na-allegro-black-weeks/",
-      "publishedAt": "2026-11-27T15:53+01:00",
-      "summary": "Pracujący w oparciu o czip Apple M5 MacBook Air, możliwy jest do kupienia taniej poprzez serwis Allegro. Model z matrycą o przekątnej 13,6 cala, wyposażony w 16GB oraz potężny dysk o pojemności 1TB, kosztuje 6099 złotych. Oferta dotyczy wariantu w kolorze srebrnym. Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/macbook-air-apple-m5-srebrny-silver-2b-224x224.jpg",
-      "articleSlug": "a4c541a077bd",
-      "articleBody": "Pracujący w oparciu o czip Apple M5 MacBook Air, możliwy jest do kupienia taniej poprzez serwis Allegro. Model z matrycą o przekątnej 13,6 cala, wyposażony w 16GB oraz potężny dysk o pojemności 1TB, kosztuje 6099 złotych. Oferta dotyczy wariantu w kolorze srebrnym. Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "BioWare odrzuciło stworzenie KOTOR 2. Powód zaskakuje",
-      "sourceUrl": "https://www.ppe.pl/news/434814/bioware-odrzucilo-stworzenie-kotor-2-powod-zaskakuje.html",
-      "publishedAt": "2026-11-27T15:44+01:00",
-      "summary": "Star Wars: Knights of the Old Republic 2 - The Sith Lords mogło powstać w zupełnie innym studiu. BioWare, odpowiedzialne za pierwszą część kultowego RPG, otrzymało propozycję przygotowania kontynuacji, ale odmówiło. Powód?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/279953e039a234e0f25d/279953e039a234e0f25d.jpg",
-      "articleSlug": "b41db00b284c",
-      "articleBody": "Star Wars: Knights of the Old Republic 2 - The Sith Lords mogło powstać w zupełnie innym studiu. BioWare, odpowiedzialne za pierwszą część kultowego RPG, otrzymało propozycję przygotowania kontynuacji, ale odmówiło. Powód?"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Dożywotnia gwarancja na RAM? Ten mały ślad na płytce wystarczył G.Skillowi, żeby powiedzieć „nie”",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/dozywotnia-gwarancja-na-ram-ten-maly-slad-na-plytce-wystarczyl-gs/z2324c6",
-      "publishedAt": "2026-11-27T15:33+01:00",
-      "summary": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533485997.jpg",
-      "articleSlug": "9ec8f5b8f0d6",
-      "articleBody": "G.Skill odrzucił reklamację gracza, który wysłał pamięć RAM z wyszczerbionym rogiem. Za uszkodzenie może odpowiadać użytkownik, ale tłumaczenie firmy sugeruje, że weryfikacja mogła nie zostać wykonana."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 działa zaskakująco dobrze na 13-letniej konsoli. Eksperci rozwiązali „największą zagadkę” cloud gamingu na XOne",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-dziala-zaskakujaco-dobrze-na-13-letniej-konsoli-eksperci-ro/z1324c5",
-      "publishedAt": "2026-11-27T15:26+01:00",
-      "summary": "GTA 6 na Xboxie One brzmi jak żart, ale zdaniem Digital Foundry to nie taka zła opcja do grania w hit Rockstar Games.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533485441.jpg",
-      "articleSlug": "46f70c74d78c",
-      "articleBody": "GTA 6 na Xboxie One brzmi jak żart, ale zdaniem Digital Foundry to nie taka zła opcja do grania w hit Rockstar Games."
     }
   ],
   "indie": [
