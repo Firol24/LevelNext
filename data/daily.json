@@ -1,18 +1,51 @@
 {
   "status": "rss-only",
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T09:01+01:00",
+  "updatedAt": "2026-11-28T10:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "Dzisiejszy \"gracz\" jest z definicji bardzo smutną osobą. Żal mi tego",
-    "summary": "Kiedy patrzę ostatnio na to, co dzieje się w growym internecie, coraz częściej łapię się za głowę. Naprawdę. Mam wrażenie, że dzisiejszy „gracz” - ten najgłośniejszy, z komentarzy pod każdym filmem i z portalu X - stał się z definic...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/434652/dzisiejszy-gracz-jest-z-definicji-bardzo-smutna-osoba-zal-mi-tego.html",
-    "articleSlug": "e3b1040ddbdc",
-    "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg"
+    "title": "Chcesz cementować związek? Unikaj GTA VI!",
+    "summary": "Trudno o banger większy niż (prawie) trzydziestoletnia seria Grand Theft Auto, zapoczątkowana przez DMA Design (późniejsze Rockstar Games). Gdy jej popularność drastycznie wzrosła, stała się ulubionym workiem treningowym w debatach przeciwko g...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/434732/chcesz-cementowac-zwiazek-unikaj-gta-vi.html",
+    "articleSlug": "d42608fd973a",
+    "imageUrl": "https://pliki.ppe.pl/storage/8682d614ab7e84d5cdea/8682d614ab7e84d5cdea.webp"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Chcesz cementować związek? Unikaj GTA VI!",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434732/chcesz-cementowac-zwiazek-unikaj-gta-vi.html",
+      "publishedAt": "2026-11-28T10:00+01:00",
+      "summary": "Trudno o banger większy niż (prawie) trzydziestoletnia seria Grand Theft Auto, zapoczątkowana przez DMA Design (późniejsze Rockstar Games). Gdy jej popularność drastycznie wzrosła, stała się ulubionym workiem treningowym w debatach przeciwko g...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8682d614ab7e84d5cdea/8682d614ab7e84d5cdea.webp",
+      "articleSlug": "d42608fd973a",
+      "articleBody": "Trudno o banger większy niż (prawie) trzydziestoletnia seria Grand Theft Auto, zapoczątkowana przez DMA Design (późniejsze Rockstar Games). Gdy jej popularność drastycznie wzrosła, stała się ulubionym workiem treningowym w debatach przeciwko g..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż Wspomnień Dzieciństwa w sklepie GOG.com. Kultowe klasyki na PC do 90% taniej!",
+      "sourceUrl": "https://lowcygier.pl/promocje-cyfrowe/wyprzedaz-wspomnien-dziecinstwa-w-sklepie-gog-com-kultowe-klasyki-na-pc-do-90-taniej/",
+      "publishedAt": "2026-11-28T09:51+01:00",
+      "summary": "Łowcy, szaleństwa związane z Black Friday 2026 warto zwieńczyć nostalgiczną promocją przygotowaną przez cyfrowy sklep GOG.com. Jeśli tęsknicie za grami z czasów dzieciństwa, to wyprzedaż Childhood Memories Promo powinna przypaść Wam do gustu. W ramach oferty zakupicie tanio kultowe gry PC, które zostały wydane do 2016 rokiem. Wybrane produkcje dostępne są w cenach niższych o nawet 90%. Wszystkie wybrane przez nas pozycje dostępne są w wersjach DRM-Free. Szczególną uwagę warto zwrócić tutaj na niedostępne w innych sklepach cyfrowej dystrybucji Total Overdose: A Gunslinger’s Tale in Mexico. Tytuł może być Wasz za jedyne 4,39 zł! Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2024/04/Wyprzedaz-kultowych-klasykow-w-GOG.com_.-Wybrane-gry-na-DRM-Free-do-az-90-taniej_miniaturka11-224x224.jpg",
+      "articleSlug": "8a7903df1231",
+      "articleBody": "Łowcy, szaleństwa związane z Black Friday 2026 warto zwieńczyć nostalgiczną promocją przygotowaną przez cyfrowy sklep GOG.com. Jeśli tęsknicie za grami z czasów dzieciństwa, to wyprzedaż Childhood Memories Promo powinna przypaść Wam do gustu. W ramach oferty zakupicie tanio kultowe gry PC, które zostały wydane do 2016 rokiem. Wybrane produkcje dostępne są w cenach niższych o nawet 90%. Wszystkie wybrane przez nas pozycje dostępne są w wersjach DRM-Free. Szczególną uwagę warto zwrócić tutaj na niedostępne w innych sklepach cyfrowej dystrybucji Total Overdose: A Gunslinger’s Tale in Mexico. Tytuł może być Wasz za jedyne 4,39 zł! Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "James Bond pozostanie Jamesem Bondem. Twórca nowego filmu zdradza swój plan",
+      "sourceUrl": "https://www.ppe.pl/news/434845/james-bond-pozostanie-jamesem-bondem-tworca-nowego-filmu-zdradza-swoj-plan.html",
+      "publishedAt": "2026-11-28T09:30+01:00",
+      "summary": "Denis Villeneuve nie zamierza rozmontowywać Jamesa Bonda i składać go ponownie według całkowicie nowych zasad. Reżyser zapowiedział, że jego film będzie tradycyjnym podejściem do słynnego agenta 007. Twórca chce zachować pewność siebie, s...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f33585c4d480d21f6cef/f33585c4d480d21f6cef.webp",
+      "articleSlug": "ddcf72de8de2",
+      "articleBody": "Denis Villeneuve nie zamierza rozmontowywać Jamesa Bonda i składać go ponownie według całkowicie nowych zasad. Reżyser zapowiedział, że jego film będzie tradycyjnym podejściem do słynnego agenta 007. Twórca chce zachować pewność siebie, s..."
+    },
     {
       "sourceName": "PPE",
       "title": "Dzisiejszy \"gracz\" jest z definicji bardzo smutną osobą. Żal mi tego",
@@ -23,6 +56,17 @@
       "imageUrl": "https://pliki.ppe.pl/storage/2cea28ebf38bc7fd15a2/2cea28ebf38bc7fd15a2.jpg",
       "articleSlug": "e3b1040ddbdc",
       "articleBody": "Kiedy patrzę ostatnio na to, co dzieje się w growym internecie, coraz częściej łapię się za głowę. Naprawdę. Mam wrażenie, że dzisiejszy „gracz” - ten najgłośniejszy, z komentarzy pod każdym filmem i z portalu X - stał się z definic..."
+    },
+    {
+      "sourceName": "CD-Action",
+      "title": "Następca Mass Effecta otrzymał wymagania sprzętowe. Karta graficzna za 10 tysięcy potrzebna do grania w 4K",
+      "sourceUrl": "https://cdaction.pl/newsy/nastepca-mass-effecta-otrzymal-wymagania-sprzetowe-karta-graficzna-za-10-tysiecy-potrzebna-do-grania-w-4k/",
+      "publishedAt": "2026-11-28T09:00+01:00",
+      "summary": "Za to wymagania minimalne wyglądają nieco lepiej.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/exodus-5501.jpg",
+      "articleSlug": "4ff1c005327a",
+      "articleBody": "Za to wymagania minimalne wyglądają nieco lepiej."
     },
     {
       "sourceName": "PPE",
@@ -298,17 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533141593.jpg",
       "articleSlug": "2edcc80bb270",
       "articleBody": "Otwarte PvP sprawia, że świat MMO żyje własnym życiem, a inni gracze przestają być jedynie uczestnikami podróży, tylko stają się częścią nieprzewidywalnej przygody. Dlatego warto dać szansę takiej rywalizacji! Wielu graczy nienawidzi otwartego PvP w World of Warcraft. Ja uważam, że bez niego tracimy jedną z najlepszych rzeczy, jakie oferują gry MMO został opublikowany przez gry-online.pl 23 listopada 2026. Zobacz zasady korzystania z naszych treści ."
-    },
-    {
-      "sourceName": "GRY-Online / Publicystyka",
-      "title": "Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku",
-      "sourceUrl": "https://www.gry-online.pl/recenzje/recenzja-gta-6-po-120-godzinach-to-znacznie-wiecej-niz-tylko-gra/z449dc",
-      "publishedAt": "2026-11-18T13:00+01:00",
-      "summary": "Gra roku? Pff, nie ma o czym mówić, po ten tytuł GTA 6 sięgnie bez głosu sprzeciwu. Zastanowiłbym się raczej, czy nie mamy przed sobą również mocnego kandydata do tytułu gry generacji i gry dekady. Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku został opublikowany przez gry-online.pl 18 listopada 2026. Zobacz zasady korzystania z naszych treści .",
-      "category": "PUBLICYSTYKA",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/532619018.jpg",
-      "articleSlug": "11b657691f95",
-      "articleBody": "Gra roku? Pff, nie ma o czym mówić, po ten tytuł GTA 6 sięgnie bez głosu sprzeciwu. Zastanowiłbym się raczej, czy nie mamy przed sobą również mocnego kandydata do tytułu gry generacji i gry dekady. Recenzja GTA 6 po 120 godzinach. To znacznie więcej niż tylko gra roku został opublikowany przez gry-online.pl 18 listopada 2026. Zobacz zasady korzystania z naszych treści ."
     }
   ],
   "indie": [
