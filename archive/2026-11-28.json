@@ -1,18 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T11:01+01:00",
+  "updatedAt": "2026-11-28T12:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "The Simpsons: Hit & Run jednak nie wróci? Developerzy z New Radical Games anulowali jeden ze swoich projektów",
-    "summary": "Radykalne cięcie.",
-    "sourceUrl": "https://cdaction.pl/newsy/the-simpsons-hit-run-jednak-nie-wroci-developerzy-z-new-radical-games-anulowali-jeden-ze-swoich-projektow/",
-    "articleSlug": "8b9eccfcb3c6",
-    "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/simpsons-hit-and-run-6593.jpg"
+    "title": "W co warto zagrać w grudniu? Święta to czas na granie, więc sprawdźcie Kalendarz Gracza",
+    "summary": "Grudzień to pierniczki, świąteczne smakołyki i prezenty pod choinką… ale czy znajdziecie jeszcze czas na granie? Choć najgorętszy okres premier mamy już za sobą, wydawcy nie zamierzają kończyć roku bez mocnych akcentów. Od wielkich powrot...",
+    "sourceUrl": "https://www.ppe.pl/publicystyka/434597/w-co-warto-zagrac-w-grudniu-swieta-to-czas-na-granie-wiec-sprawdzcie-kalendarz-gracza.html",
+    "articleSlug": "09c657013f8b",
+    "imageUrl": "https://pliki.ppe.pl/storage/5deb6b24355bdd014c41/5deb6b24355bdd014c41.png"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "W co warto zagrać w grudniu? Święta to czas na granie, więc sprawdźcie Kalendarz Gracza",
+      "sourceUrl": "https://www.ppe.pl/publicystyka/434597/w-co-warto-zagrac-w-grudniu-swieta-to-czas-na-granie-wiec-sprawdzcie-kalendarz-gracza.html",
+      "publishedAt": "2026-11-28T12:00+01:00",
+      "summary": "Grudzień to pierniczki, świąteczne smakołyki i prezenty pod choinką… ale czy znajdziecie jeszcze czas na granie? Choć najgorętszy okres premier mamy już za sobą, wydawcy nie zamierzają kończyć roku bez mocnych akcentów. Od wielkich powrot...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/5deb6b24355bdd014c41/5deb6b24355bdd014c41.png",
+      "articleSlug": "09c657013f8b",
+      "articleBody": "Grudzień to pierniczki, świąteczne smakołyki i prezenty pod choinką… ale czy znajdziecie jeszcze czas na granie? Choć najgorętszy okres premier mamy już za sobą, wydawcy nie zamierzają kończyć roku bez mocnych akcentów. Od wielkich powrot..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Baldur’s Gate 3 na PC za 114,38 zł w Kinguinie",
+      "sourceUrl": "https://lowcygier.pl/keyshopy/baldurs-gate-3-na-pc-za-11438-zl-w-kinguinie/",
+      "publishedAt": "2026-11-28T11:38+01:00",
+      "summary": "Jeśli lubicie RPG na setki godzin, Baldur’s Gate 3 na pewno was nie zawiedzie. W sklepie Kinguin macie możliwość teraz nabyć wielką grę Larian Studios trochę taniej. Pecetowe wydanie w formie gifta na Steam, dorwiecie aktualnie za nieco ponad 114 złotych. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Promocja-na-Baldurs-Gate-3_miniaturka-224x224.jpg",
+      "articleSlug": "10509d4c19e2",
+      "articleBody": "Jeśli lubicie RPG na setki godzin, Baldur’s Gate 3 na pewno was nie zawiedzie. W sklepie Kinguin macie możliwość teraz nabyć wielką grę Larian Studios trochę taniej. Pecetowe wydanie w formie gifta na Steam, dorwiecie aktualnie za nieco ponad 114 złotych. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy Jork walczy z AI? Seria korzystająca ze sztucznej inteligencji zbanowana...",
+      "sourceUrl": "https://www.ppe.pl/news/434846/nowy-jork-walczy-z-ai-seria-korzystajaca-ze-sztucznej-inteligencji-zbanowana.html",
+      "publishedAt": "2026-11-28T11:30+01:00",
+      "summary": "Sztuczna inteligencja coraz śmielej wkracza do produktów przeznaczonych dla najmłodszych, ale Nowy Jork postanowił wyznaczyć wyraźną granicę. Stan oficjalnie wprowadził pięcioletni zakaz obejmujący zabawki wyposażone w chatboty AI. Nowe prze...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/83a15c4df8c9eec2e25b/83a15c4df8c9eec2e25b.png",
+      "articleSlug": "8b206535df64",
+      "articleBody": "Sztuczna inteligencja coraz śmielej wkracza do produktów przeznaczonych dla najmłodszych, ale Nowy Jork postanowił wyznaczyć wyraźną granicę. Stan oficjalnie wprowadził pięcioletni zakaz obejmujący zabawki wyposażone w chatboty AI. Nowe prze..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Nowy BioShock coraz bliżej? Ten szczegół mocno rozpalił wyobraźnię fanów",
+      "sourceUrl": "https://www.ppe.pl/news/434858/nowy-bioshock-coraz-blizej-ten-szczegol-mocno-rozpalil-wyobraznie-fanow.html",
+      "publishedAt": "2026-11-28T11:30+01:00",
+      "summary": "Wokół marki BioShock ponownie zrobiło się gorąco, a wszystko przez pozornie niewielką zmianę w Microsoft Store. Karta pierwszej części została zaktualizowana i teraz przedstawia grę jako BioShock (Xbox 360), choć jeszcze we wrześniu widnia�...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/fda61f634b883dc66123/fda61f634b883dc66123.jpg",
+      "articleSlug": "1f52fcd7e9b2",
+      "articleBody": "Wokół marki BioShock ponownie zrobiło się gorąco, a wszystko przez pozornie niewielką zmianę w Microsoft Store. Karta pierwszej części została zaktualizowana i teraz przedstawia grę jako BioShock (Xbox 360), choć jeszcze we wrześniu widnia�..."
+    },
     {
       "sourceName": "CD-Action",
       "title": "The Simpsons: Hit & Run jednak nie wróci? Developerzy z New Radical Games anulowali jeden ze swoich projektów",
@@ -298,50 +342,6 @@
       "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/lucia-gta-1260x709.jpg",
       "articleSlug": "a088a804564a",
       "articleBody": "Mimo to jeszcze nie zgasła cała nadzieja?"
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Zawsze kradłem samochody w GTA bez zastanowienia. W GTA 6 Rockstar dał mi kilka powodów, by wreszcie traktować auto jak swoje",
-      "sourceUrl": "https://www.gry-online.pl/opinie/w-gta-6-zaczalem-zachowywac-sie-jak-odpowiedzialny-kierowca-wszys/z349e1",
-      "publishedAt": "2026-11-27T14:46+01:00",
-      "summary": "Kradzieże samochodów to wizytówka serii GTA, jednak szósta część sprawiła, że musiałem zmienić nawyki. „Pożyczanie” cudzych fur stało się biznesem, a do jazdy zacząłem używać swoich własnych – bo w końcu mogę je naprawdę mieć!",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533482725.jpg",
-      "articleSlug": "af31f8ca1b67",
-      "articleBody": "Kradzieże samochodów to wizytówka serii GTA, jednak szósta część sprawiła, że musiałem zmienić nawyki. „Pożyczanie” cudzych fur stało się biznesem, a do jazdy zacząłem używać swoich własnych – bo w końcu mogę je naprawdę mieć!"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Xbox przyznaje się do błędu. Gracze zwracali na to uwagę od dawna",
-      "sourceUrl": "https://www.ppe.pl/news/434811/xbox-przyznaje-sie-do-bledu-gracze-zwracali-na-to-uwage-od-dawna.html",
-      "publishedAt": "2026-11-27T14:44+01:00",
-      "summary": "Xbox zamierza zmienić sposób promowania swoich gier. Matthew Ball, dyrektor ds. strategii marki, potwierdził, że od 2027 roku Microsoft zacznie wyraźniej łączyć zapowiadane produkcje z ekosystemem Xbox.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c666c39450bce662be50/c666c39450bce662be50.webp",
-      "articleSlug": "9c8c376ef63e",
-      "articleBody": "Xbox zamierza zmienić sposób promowania swoich gier. Matthew Ball, dyrektor ds. strategii marki, potwierdził, że od 2027 roku Microsoft zacznie wyraźniej łączyć zapowiadane produkcje z ekosystemem Xbox."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "GTA 6 zdradza, co stało się z Michaelem i Jimmym po wydarzeniach z GTA 5",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/gta-6-zdradza-co-stalo-sie-z-michaelem-i-jimmym-po-wydarzeniach-z/zc324c0",
-      "publishedAt": "2026-11-27T14:28+01:00",
-      "summary": "W sieci pojawił się wpis jednego spostrzegawczego gracza, który wyjaśnia, co stało się z dwójką bohaterów GTA 5 po finale gry. Mało kto spodziewałby się takiej współpracy.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533480868.jpg",
-      "articleSlug": "77430d9e8210",
-      "articleBody": "W sieci pojawił się wpis jednego spostrzegawczego gracza, który wyjaśnia, co stało się z dwójką bohaterów GTA 5 po finale gry. Mało kto spodziewałby się takiej współpracy."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Warhammer 40,000: Dawn of War 4 ma zaskoczyć podejściem do wyborów gracza. „Będziecie mieć zupełnie różne doświadczenia”",
-      "sourceUrl": "https://cdaction.pl/newsy/warhammer-40000-dawn-of-war-4-ma-zaskoczyc-podejsciem-do-wyborow-gracza-bedziecie-miec-zupelnie-rozne-doswiadczenia/",
-      "publishedAt": "2026-11-27T14:00+01:00",
-      "summary": "Sympatyczna obietnica – pytanie tylko, czy to rzeczywiście spełni nasze oczekiwania.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/Dawn-of-War-4.jpg",
-      "articleSlug": "ac03a55cbc10",
-      "articleBody": "Sympatyczna obietnica – pytanie tylko, czy to rzeczywiście spełni nasze oczekiwania."
     }
   ],
   "indie": [
