@@ -1,18 +1,40 @@
 {
   "status": "rss-only",
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T12:01+01:00",
+  "updatedAt": "2026-11-28T13:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "WIADOMOŚCI",
-    "title": "W co warto zagrać w grudniu? Święta to czas na granie, więc sprawdźcie Kalendarz Gracza",
-    "summary": "Grudzień to pierniczki, świąteczne smakołyki i prezenty pod choinką… ale czy znajdziecie jeszcze czas na granie? Choć najgorętszy okres premier mamy już za sobą, wydawcy nie zamierzają kończyć roku bez mocnych akcentów. Od wielkich powrot...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/434597/w-co-warto-zagrac-w-grudniu-swieta-to-czas-na-granie-wiec-sprawdzcie-kalendarz-gracza.html",
-    "articleSlug": "09c657013f8b",
-    "imageUrl": "https://pliki.ppe.pl/storage/5deb6b24355bdd014c41/5deb6b24355bdd014c41.png"
+    "title": "Quiz o hitowym serialu Carrie",
+    "summary": "Witajcie w quizie jednego z najważniejszych seriali tego roku od Amazona. Sprawdźcie, ile pamiętacie z Carrie.",
+    "sourceUrl": "https://www.ppe.pl/quizy/434656/quiz-o-hitowym-serialu-carrie.html",
+    "articleSlug": "59d10169aa9d",
+    "imageUrl": "https://pliki.ppe.pl/storage/dc304e43a9f8512fc7ac/dc304e43a9f8512fc7ac.jpg"
   },
   "news": [
+    {
+      "sourceName": "PPE",
+      "title": "Quiz o hitowym serialu Carrie",
+      "sourceUrl": "https://www.ppe.pl/quizy/434656/quiz-o-hitowym-serialu-carrie.html",
+      "publishedAt": "2026-11-28T13:00+01:00",
+      "summary": "Witajcie w quizie jednego z najważniejszych seriali tego roku od Amazona. Sprawdźcie, ile pamiętacie z Carrie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/dc304e43a9f8512fc7ac/dc304e43a9f8512fc7ac.jpg",
+      "articleSlug": "59d10169aa9d",
+      "articleBody": "Witajcie w quizie jednego z najważniejszych seriali tego roku od Amazona. Sprawdźcie, ile pamiętacie z Carrie."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "GTA 6 mogło opowiedzieć inną historię. Twórcy niemal usunęli kluczowy element opowieści",
+      "sourceUrl": "https://www.ppe.pl/news/434859/gta-6-moglo-opowiedziec-inna-historie-tworcy-niemal-usuneli-kluczowy-element-opowiesci.html",
+      "publishedAt": "2026-11-28T12:30+01:00",
+      "summary": "Uwaga na istotne spoilery dotyczące fabuły GTA 6. Jedna z największych niespodzianek gry - fakt, że Jason i Lucia mają dziecko - długo nie była przesądzona. Rob Nelson z Rockstar Games ujawnił, że część zespołu dość wyraźnie kwestionowa...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg",
+      "articleSlug": "c7d2215cf834",
+      "articleBody": "Uwaga na istotne spoilery dotyczące fabuły GTA 6. Jedna z największych niespodzianek gry - fakt, że Jason i Lucia mają dziecko - długo nie była przesądzona. Rob Nelson z Rockstar Games ujawnił, że część zespołu dość wyraźnie kwestionowa..."
+    },
     {
       "sourceName": "PPE",
       "title": "W co warto zagrać w grudniu? Święta to czas na granie, więc sprawdźcie Kalendarz Gracza",
@@ -320,28 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533485441.jpg",
       "articleSlug": "46f70c74d78c",
       "articleBody": "GTA 6 na Xboxie One brzmi jak żart, ale zdaniem Digital Foundry to nie taka zła opcja do grania w hit Rockstar Games."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Alien: Isolation 2 pokaże zupełnie nowe oblicze horroru! Twórcy zdradzili nowe szczegóły",
-      "sourceUrl": "https://www.ppe.pl/news/434812/alien-isolation-2-pokaze-zupelnie-nowe-oblicze-horroru-tworcy-zdradzili-nowe-szczegoly.html",
-      "publishedAt": "2026-11-27T15:16+01:00",
-      "summary": "Alien: Isolation 2 ma zachować charakterystyczny klimat oryginalnego filmu, ale nie ograniczy się do ciasnych korytarzy i zamkniętych pomieszczeń.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/d7d9d79950d027a23989/d7d9d79950d027a23989.jpg",
-      "articleSlug": "5c3d052b02ef",
-      "articleBody": "Alien: Isolation 2 ma zachować charakterystyczny klimat oryginalnego filmu, ale nie ograniczy się do ciasnych korytarzy i zamkniętych pomieszczeń."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Pracownicy Rockstara zagłosowali przeciwko utworzeniu związku zawodowego. „To nie jest sygnał do wycofania się”",
-      "sourceUrl": "https://cdaction.pl/newsy/pracownicy-rockstara-zaglosowali-przeciwko-utworzeniu-zwiazku-zawodowego-to-nie-jest-sygnal-do-wycofania-sie/",
-      "publishedAt": "2026-11-27T15:05+01:00",
-      "summary": "Mimo to jeszcze nie zgasła cała nadzieja?",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/lucia-gta-1260x709.jpg",
-      "articleSlug": "a088a804564a",
-      "articleBody": "Mimo to jeszcze nie zgasła cała nadzieja?"
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "1291a2ef5e567713f26fcfa05061f971d00afa0941bc73e3337c26a3d015cc8d"
+  "editorialHash": "16cbcb38e3d5882601872bb087d0eaaed24c06892eac5048a5e4291291c66eea"
 }
