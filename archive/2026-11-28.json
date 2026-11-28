@@ -1,18 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T17:01+01:00",
+  "updatedAt": "2026-11-28T18:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Takie obsuwy nikt się nie spodziewał! Co z kolejnym Resident Evil?",
-    "summary": "Klasyczne Resident Evil Code: Veronica, choć nie było pierwszą, całkowicie trójwymiarową odsłoną serii (trzy miesiące wcześniej dokonał tego spin-off, Resident Evil: Survivor z PlayStation), zapewniło zdecydowanie najciekawszą fabułę. Opo...",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/434863/takie-obsuwy-nikt-sie-nie-spodziewal-co-z-kolejnym-resident-evil.html",
-    "articleSlug": "c0a9e24aa357",
-    "imageUrl": "https://pliki.ppe.pl/storage/95188c623bf4540fe009/95188c623bf4540fe009.webp"
+    "category": "PROMOCJE",
+    "title": "Wyprzedaż gier planszowych i imprezowych w Empiku! Ceny już od 16,99 zł na Black Friday 2026",
+    "summary": "Przy okazji Black Friday 2026 w Empiku taniej kupicie wybrane gry planszowe, karciane i imprezowe. Ceny w naszym zestawieniu zaczynają się od 16,99 zł za Chińczyka z Rodziną Treflików, a wśród pozostałych propozycji znajdziecie Hitster Summer Party za 68,99 zł, Splendor: Pojedynek za 73,49 zł oraz Wiedźmin: Stary Świat za 258,99 zł. Nie brakuje też innych znanych tytułów, takich jak Dixit czy Everdell, które mogą sprawdzić się jako prezent pod choinkę. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/gry-planszowe/wyprzedaz-gier-planszowych-i-imprezowych-w-empiku-ceny-juz-od-1699-zl-na-black-friday-2026/",
+    "articleSlug": "eca2e6e2a92d",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-gier-planszowych-i-imprezowych-w-Empiku-Ceny-juz-od-1699-zl-na-Black-Friday-2026_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Wyprzedaż gier planszowych i imprezowych w Empiku! Ceny już od 16,99 zł na Black Friday 2026",
+      "sourceUrl": "https://lowcygier.pl/gry-planszowe/wyprzedaz-gier-planszowych-i-imprezowych-w-empiku-ceny-juz-od-1699-zl-na-black-friday-2026/",
+      "publishedAt": "2026-11-28T17:59+01:00",
+      "summary": "Przy okazji Black Friday 2026 w Empiku taniej kupicie wybrane gry planszowe, karciane i imprezowe. Ceny w naszym zestawieniu zaczynają się od 16,99 zł za Chińczyka z Rodziną Treflików, a wśród pozostałych propozycji znajdziecie Hitster Summer Party za 68,99 zł, Splendor: Pojedynek za 73,49 zł oraz Wiedźmin: Stary Świat za 258,99 zł. Nie brakuje też innych znanych tytułów, takich jak Dixit czy Everdell, które mogą sprawdzić się jako prezent pod choinkę. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-gier-planszowych-i-imprezowych-w-Empiku-Ceny-juz-od-1699-zl-na-Black-Friday-2026_miniaturka-224x224.jpg",
+      "articleSlug": "eca2e6e2a92d",
+      "articleBody": "Przy okazji Black Friday 2026 w Empiku taniej kupicie wybrane gry planszowe, karciane i imprezowe. Ceny w naszym zestawieniu zaczynają się od 16,99 zł za Chińczyka z Rodziną Treflików, a wśród pozostałych propozycji znajdziecie Hitster Summer Party za 68,99 zł, Splendor: Pojedynek za 73,49 zł oraz Wiedźmin: Stary Świat za 258,99 zł. Nie brakuje też innych znanych tytułów, takich jak Dixit czy Everdell, które mogą sprawdzić się jako prezent pod choinkę. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Mortal Kombat x Street Fighter nadchodzi? Ed Boon oficjalnie o wyczekiwanym crossoverze",
+      "sourceUrl": "https://www.ppe.pl/news/434891/mortal-kombat-x-street-fighter-nadchodzi-ed-boon-oficjalnie-o-wyczekiwanym-crossoverze.html",
+      "publishedAt": "2026-11-28T17:31+01:00",
+      "summary": "Rynek bijatyk jest naprawdę ogromny i jest na nim wiele świetnych IP, które zasługują na to, aby zostać połączone i celebrowane w taki sam sposób, jak kiedyś połączono marki Street Fighter i Tekken. Teraz na świecznik wychodzi crossover Mor...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/e6b11d31f30b8f9d6032/e6b11d31f30b8f9d6032.png",
+      "articleSlug": "1b7ef62676cc",
+      "articleBody": "Rynek bijatyk jest naprawdę ogromny i jest na nim wiele świetnych IP, które zasługują na to, aby zostać połączone i celebrowane w taki sam sposób, jak kiedyś połączono marki Street Fighter i Tekken. Teraz na świecznik wychodzi crossover Mor..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Rekordowo tanie LEGO Technic Motocykl Ducati Desmo450 MX Factory już za 136,99 zł na Allegro",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/rekordowo-tanie-lego-technic-motocykl-ducati-desmo450-mx-factory-juz-za-13699-zl-na-allegro/",
+      "publishedAt": "2026-11-28T17:30+01:00",
+      "summary": "Dzięki ofercie Oficjalnego Sklepu Allegro możecie nabyć teraz w historycznie najniższej cenie zestaw LEGO Technic Motocykl Ducati Desmo450 MX Factory. Model ten składa się z 457 duńskich klocków,z których zbudujecie replikę wymienionego wcześniej pojazdu. Za set zapłacicie obecnie już 136,99 zł, podczas gdy jego cena katalogowa wynosi 209,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Rekordowo-tanie-LEGO-Technic-Motocykl-Ducati-Desmo450-MX-Factory-juz-za-13699-zl-na-Allegro_miniaturka-224x224.jpg",
+      "articleSlug": "1166d97a28ad",
+      "articleBody": "Dzięki ofercie Oficjalnego Sklepu Allegro możecie nabyć teraz w historycznie najniższej cenie zestaw LEGO Technic Motocykl Ducati Desmo450 MX Factory. Model ten składa się z 457 duńskich klocków,z których zbudujecie replikę wymienionego wcześniej pojazdu. Za set zapłacicie obecnie już 136,99 zł, podczas gdy jego cena katalogowa wynosi 209,99 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Słuchawki z mikrofonem do grania za mniej niż 65 złotych! Taka oferta nie zdarza się często",
+      "sourceUrl": "https://www.ppe.pl/news/434876/sluchawki-z-mikrofonem-do-grania-za-mniej-niz-65-zlotych-taka-oferta-nie-zdarza-sie-czesto.html",
+      "publishedAt": "2026-11-28T17:06+01:00",
+      "summary": "Jeśli szukacie niedrogich słuchawek bezprzewodowych, które nie opustoszą waszych kieszeni, dobrze trafiliście, bo w Action pojawiła się bardzo atrakcyjna oferta. Te tanie słuchawki pomogą wam bawić się online w niskiej cenie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/21ca0ac8e29d379a4958/21ca0ac8e29d379a4958.jpg",
+      "articleSlug": "1bb95d52e31c",
+      "articleBody": "Jeśli szukacie niedrogich słuchawek bezprzewodowych, które nie opustoszą waszych kieszeni, dobrze trafiliście, bo w Action pojawiła się bardzo atrakcyjna oferta. Te tanie słuchawki pomogą wam bawić się online w niskiej cenie."
+    },
     {
       "sourceName": "PPE",
       "title": "Takie obsuwy nikt się nie spodziewał! Co z kolejnym Resident Evil?",
@@ -298,50 +342,6 @@
       "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Promocja-na-The-Blood-of-Dawnwalker-ps5_miniaturka-224x224.jpg",
       "articleSlug": "73f4f083ed58",
       "articleBody": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 174,11 zł! Czytaj więcej »"
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Wyprzedaż Black Friday 2026 w Sklepie LEGO. Gigantyczny zestaw Titanic w rekordowej cenie!",
-      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/wyprzedaz-black-friday-2026-w-sklepie-lego-gigantyczny-zestaw-titanic-w-rekordowej-cenie/",
-      "publishedAt": "2026-11-28T13:18+01:00",
-      "summary": "W oficjalnym Sklepie LEGO trwa wyprzedaż Black Friday 2026. W ramach promocji przygotowano wyjątkowe zniżki sięgające nawet 500 zł. To jednak nie koniec atrakcji – zamówienie za odpowiednią kwotę pozwala odebrać do dwóch upominków LEGO za darmo ! Akcja potrwa jedynie do 29 listopada, więc nie zwlekajcie z potencjalnymi zakupami, które mogą idealnie nadać się jako prezent dla fanów duńskich klocków. Na szczególną uwagę zasługuje tutaj gargantuicznych rozmiarów model LEGO Icons – Titanic. Składający się z imponującej liczby 9090 elementów zestaw dostepny jest w historycznie najniższej cenie 2464,99 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-Black-Friday-2026-w-Sklepie-LEGO.-Gigantyczny-zestaw-Titanic-w-rekordowej-cenie_miniaturka-224x224.jpg",
-      "articleSlug": "b813931be8eb",
-      "articleBody": "W oficjalnym Sklepie LEGO trwa wyprzedaż Black Friday 2026. W ramach promocji przygotowano wyjątkowe zniżki sięgające nawet 500 zł. To jednak nie koniec atrakcji – zamówienie za odpowiednią kwotę pozwala odebrać do dwóch upominków LEGO za darmo ! Akcja potrwa jedynie do 29 listopada, więc nie zwlekajcie z potencjalnymi zakupami, które mogą idealnie nadać się jako prezent dla fanów duńskich klocków. Na szczególną uwagę zasługuje tutaj gargantuicznych rozmiarów model LEGO Icons – Titanic. Składający się z imponującej liczby 9090 elementów zestaw dostepny jest w historycznie najniższej cenie 2464,99 zł! Czytaj więcej »"
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Quiz o hitowym serialu Carrie",
-      "sourceUrl": "https://www.ppe.pl/quizy/434656/quiz-o-hitowym-serialu-carrie.html",
-      "publishedAt": "2026-11-28T13:00+01:00",
-      "summary": "Witajcie w quizie jednego z najważniejszych seriali tego roku od Amazona. Sprawdźcie, ile pamiętacie z Carrie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/dc304e43a9f8512fc7ac/dc304e43a9f8512fc7ac.jpg",
-      "articleSlug": "59d10169aa9d",
-      "articleBody": "Witajcie w quizie jednego z najważniejszych seriali tego roku od Amazona. Sprawdźcie, ile pamiętacie z Carrie."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "Grafika GTA 6 jest „prawie doskonała”. Jedna rzecz bardziej zachwycała byłego pracownika Rockstara w RDR2",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/grafika-gta-6-jest-prawie-doskonala-jedna-rzecz-bardziej-zachwyca/zf324d2",
-      "publishedAt": "2026-11-28T12:46+01:00",
-      "summary": "Artysta, który pracował zarówno przy Red Dead Redemption 2, jak i przy Grand Theft Auto VI, pokazał, jakie elementy były wykonane lepiej w starszej grze Rockstara.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533562367.jpg",
-      "articleSlug": "548ec857e8e0",
-      "articleBody": "Artysta, który pracował zarówno przy Red Dead Redemption 2, jak i przy Grand Theft Auto VI, pokazał, jakie elementy były wykonane lepiej w starszej grze Rockstara."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA 6 mogło opowiedzieć inną historię. Twórcy niemal usunęli kluczowy element opowieści",
-      "sourceUrl": "https://www.ppe.pl/news/434859/gta-6-moglo-opowiedziec-inna-historie-tworcy-niemal-usuneli-kluczowy-element-opowiesci.html",
-      "publishedAt": "2026-11-28T12:30+01:00",
-      "summary": "Uwaga na istotne spoilery dotyczące fabuły GTA 6. Jedna z największych niespodzianek gry - fakt, że Jason i Lucia mają dziecko - długo nie była przesądzona. Rob Nelson z Rockstar Games ujawnił, że część zespołu dość wyraźnie kwestionowa...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f5abbc7116dfc4f415e0/f5abbc7116dfc4f415e0.jpg",
-      "articleSlug": "c7d2215cf834",
-      "articleBody": "Uwaga na istotne spoilery dotyczące fabuły GTA 6. Jedna z największych niespodzianek gry - fakt, że Jason i Lucia mają dziecko - długo nie była przesądzona. Rob Nelson z Rockstar Games ujawnił, że część zespołu dość wyraźnie kwestionowa..."
     }
   ],
   "indie": [
