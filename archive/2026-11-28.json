@@ -1,18 +1,73 @@
 {
   "status": "rss-only",
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T15:01+01:00",
+  "updatedAt": "2026-11-28T16:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
-    "category": "WIADOMOŚCI",
-    "title": "Xbox chce połączyć konsole i PC. Microsoft ma asa w rękawie, którego Sony nigdy nie będzie miało",
-    "summary": "Microsoft od miesięcy zapowiada, że następny Xbox zatrze granicę między konsolą a komputerem. Project Helix ma uruchamiać gry z czterech generacji Xboksa i do tego tytuły z peceta.",
-    "sourceUrl": "https://www.ppe.pl/publicystyka/434823/xbox-chce-polaczyc-konsole-i-pc-microsoft-ma-asa-w-rekawie-ktorego-sony-nigdy-nie-bedzie-mialo.html",
-    "articleSlug": "50240b3d36fd",
-    "imageUrl": "https://pliki.ppe.pl/storage/5cd450b2ca8edf0d3553/5cd450b2ca8edf0d3553.jpg"
+    "category": "PROMOCJE",
+    "title": "Mysz gamingowa SteelSeries Aerox 5 za 199 zł, a bezprzewodowa za 249 zł w polskich sklepach",
+    "summary": "Solidna okazja na SteelSeries Aerox 5 jest teraz do dorwania dzięki ofercie polskich sklepów internetowych. Mysz wyposażona w sensor optyczny TrueMove Air z rozdzielczością do 18000 dpi, ważąca 74 gramy oraz posiadająca 9 programowalnych przycisków, kosztuje aktualnie już 199 złotych. Wariant bezprzeowodowy z kolei może być Wasz już za 249 zł. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/mysz-gamingowa-steelseries-aerox-5-za-199-zl-a-bezprzewodowa-za-249-zl-w-polskich-sklepach/",
+    "articleSlug": "3a278cddc5b5",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/steelseries-aerox-5-wireless-1b-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Mysz gamingowa SteelSeries Aerox 5 za 199 zł, a bezprzewodowa za 249 zł w polskich sklepach",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/mysz-gamingowa-steelseries-aerox-5-za-199-zl-a-bezprzewodowa-za-249-zl-w-polskich-sklepach/",
+      "publishedAt": "2026-11-28T15:58+01:00",
+      "summary": "Solidna okazja na SteelSeries Aerox 5 jest teraz do dorwania dzięki ofercie polskich sklepów internetowych. Mysz wyposażona w sensor optyczny TrueMove Air z rozdzielczością do 18000 dpi, ważąca 74 gramy oraz posiadająca 9 programowalnych przycisków, kosztuje aktualnie już 199 złotych. Wariant bezprzeowodowy z kolei może być Wasz już za 249 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/steelseries-aerox-5-wireless-1b-224x224.jpg",
+      "articleSlug": "3a278cddc5b5",
+      "articleBody": "Solidna okazja na SteelSeries Aerox 5 jest teraz do dorwania dzięki ofercie polskich sklepów internetowych. Mysz wyposażona w sensor optyczny TrueMove Air z rozdzielczością do 18000 dpi, ważąca 74 gramy oraz posiadająca 9 programowalnych przycisków, kosztuje aktualnie już 199 złotych. Wariant bezprzeowodowy z kolei może być Wasz już za 249 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Twórcy GTA 6 będą spać na pieniądzach. GTA Online 2 rozwali głowy",
+      "sourceUrl": "https://www.ppe.pl/news/434872/tworcy-gta-6-beda-spac-na-pieniadzach-gta-online-2-rozwali-glowy.html",
+      "publishedAt": "2026-11-28T15:43+01:00",
+      "summary": "Szaleństwo wokół premiery Grand Theft Auto 6 wciąż nie słabnie - gra zebrała ponad 30 milionów zamówień przedpremierowych, w sam pierwszy dzień zarobiła kosmiczne 3,79 miliarda dolarów, a na samym PlayStation na starcie odpaliło ją 39 mil...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/578f51bab4d904de9688/578f51bab4d904de9688.avif",
+      "articleSlug": "7b2917333f56",
+      "articleBody": "Szaleństwo wokół premiery Grand Theft Auto 6 wciąż nie słabnie - gra zebrała ponad 30 milionów zamówień przedpremierowych, w sam pierwszy dzień zarobiła kosmiczne 3,79 miliarda dolarów, a na samym PlayStation na starcie odpaliło ją 39 mil..."
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Jedna z ciekawszych mechanik Cyberpunka 2077 nie powstała przypadkiem. Twórcy inspirowali się Personą 5",
+      "sourceUrl": "https://www.ppe.pl/news/434862/jedna-z-ciekawszych-mechanik-cyberpunka-2077-nie-powstala-przypadkiem-tworcy-inspirowali-sie-persona-5.html",
+      "publishedAt": "2026-11-28T15:30+01:00",
+      "summary": "Wiadomości tekstowe w Cyberpunk 2077 mogły wydawać się jedynie drobnym dodatkiem do rozmów prowadzonych twarzą w twarz, ale pełniły znacznie ważniejszą funkcję. Paweł Sasko, były główny projektant zadań, ujawnił, że system ten został ...",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/35601299a192e2ece075/35601299a192e2ece075.jpg",
+      "articleSlug": "d09a587bed65",
+      "articleBody": "Wiadomości tekstowe w Cyberpunk 2077 mogły wydawać się jedynie drobnym dodatkiem do rozmów prowadzonych twarzą w twarz, ale pełniły znacznie ważniejszą funkcję. Paweł Sasko, były główny projektant zadań, ujawnił, że system ten został ..."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Promocje na pady Xbox Series w polskim Amazonie! Kolor czarny za 184 zł, a Storm Breaker za 215 zł!",
+      "sourceUrl": "https://lowcygier.pl/sprzet-gamingowy/promocje-na-pady-xbox-series-w-polskim-amazonie-kolor-czarny-za-184-zl-a-storm-breaker-za-215-zl/",
+      "publishedAt": "2026-11-28T15:30+01:00",
+      "summary": "W cenach promocyjnych kupicie teraz pady bezprzewodowe Xbox Series kompatybilne z najnowszymi konsolami Microsoftu oraz z PC-tami. Ceny zaczynają się już od 184,67 zł za wariant w kolorze czarnym. Taniej kupicie również kontrolery z edycji specjalnej, jak np. Storm Breaker, które dostępne są od 214,88 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2025/12/Promocje-na-pady-bezprzewodowe-Xbox-w-Amazon-PL-Ceny-juz-od-19590-zl_miniaturka-224x224.jpg",
+      "articleSlug": "72df2e87176a",
+      "articleBody": "W cenach promocyjnych kupicie teraz pady bezprzewodowe Xbox Series kompatybilne z najnowszymi konsolami Microsoftu oraz z PC-tami. Ceny zaczynają się już od 184,67 zł za wariant w kolorze czarnym. Taniej kupicie również kontrolery z edycji specjalnej, jak np. Storm Breaker, które dostępne są od 214,88 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Red Dead Redemption 2 w 4K, 60 FPS i DLSS 5 niszczy GTA 6. Ależ to jest piękne!",
+      "sourceUrl": "https://www.ppe.pl/news/434867/red-dead-redemption-2-w-4k-60-fps-i-dlss-5-niszczy-gta-6-alez-to-jest-piekne.html",
+      "publishedAt": "2026-11-28T15:14+01:00",
+      "summary": "Red Dead Redemption 2 mimo upływu lat nadal potrafi zawstydzić wiele nowych produkcji, ale to, co właśnie zrobiła z nim technologia NVIDIA DLSS 5, przechodzi ludzkie pojęcie.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/0c02b57dd1b0e865d52b/0c02b57dd1b0e865d52b.webp",
+      "articleSlug": "172c06768ad5",
+      "articleBody": "Red Dead Redemption 2 mimo upływu lat nadal potrafi zawstydzić wiele nowych produkcji, ale to, co właśnie zrobiła z nim technologia NVIDIA DLSS 5, przechodzi ludzkie pojęcie."
+    },
     {
       "sourceName": "PPE",
       "title": "Xbox chce połączyć konsole i PC. Microsoft ma asa w rękawie, którego Sony nigdy nie będzie miało",
@@ -287,61 +342,6 @@
       "imageUrl": "https://pliki.ppe.pl/storage/83a15c4df8c9eec2e25b/83a15c4df8c9eec2e25b.png",
       "articleSlug": "8b206535df64",
       "articleBody": "Sztuczna inteligencja coraz śmielej wkracza do produktów przeznaczonych dla najmłodszych, ale Nowy Jork postanowił wyznaczyć wyraźną granicę. Stan oficjalnie wprowadził pięcioletni zakaz obejmujący zabawki wyposażone w chatboty AI. Nowe prze..."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nowy BioShock coraz bliżej? Ten szczegół mocno rozpalił wyobraźnię fanów",
-      "sourceUrl": "https://www.ppe.pl/news/434858/nowy-bioshock-coraz-blizej-ten-szczegol-mocno-rozpalil-wyobraznie-fanow.html",
-      "publishedAt": "2026-11-28T11:30+01:00",
-      "summary": "Wokół marki BioShock ponownie zrobiło się gorąco, a wszystko przez pozornie niewielką zmianę w Microsoft Store. Karta pierwszej części została zaktualizowana i teraz przedstawia grę jako BioShock (Xbox 360), choć jeszcze we wrześniu widnia�...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/fda61f634b883dc66123/fda61f634b883dc66123.jpg",
-      "articleSlug": "1f52fcd7e9b2",
-      "articleBody": "Wokół marki BioShock ponownie zrobiło się gorąco, a wszystko przez pozornie niewielką zmianę w Microsoft Store. Karta pierwszej części została zaktualizowana i teraz przedstawia grę jako BioShock (Xbox 360), choć jeszcze we wrześniu widnia�..."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "The Simpsons: Hit & Run jednak nie wróci? Developerzy z New Radical Games anulowali jeden ze swoich projektów",
-      "sourceUrl": "https://cdaction.pl/newsy/the-simpsons-hit-run-jednak-nie-wroci-developerzy-z-new-radical-games-anulowali-jeden-ze-swoich-projektow/",
-      "publishedAt": "2026-11-28T11:00+01:00",
-      "summary": "Radykalne cięcie.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/11/simpsons-hit-and-run-6593.jpg",
-      "articleSlug": "8b9eccfcb3c6",
-      "articleBody": "Radykalne cięcie."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Nie tylko Spider-Noir. Dziesięć najciekawszych seriali skasowanych w 2026 roku",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/434645/nie-tylko-spider-noir-dziesiec-najciekawszych-seriali-skasowanych-w-2026-roku.html",
-      "publishedAt": "2026-11-28T11:00+01:00",
-      "summary": "Miniony rok w serialowej rozrywce upłynął jak zwykle pod znakiem kasowania seriali, które z początku zdawały się mieć ogromny potencjał do rozwijania snutych w nich opowieści. Przypadek głośnej produkcji z Nicolasem Cage'em w roli głównej ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/c014a8137bbfd2f042b6/c014a8137bbfd2f042b6.jpg",
-      "articleSlug": "fb11d9deb792",
-      "articleBody": "Miniony rok w serialowej rozrywce upłynął jak zwykle pod znakiem kasowania seriali, które z początku zdawały się mieć ogromny potencjał do rozwijania snutych w nich opowieści. Przypadek głośnej produkcji z Nicolasem Cage'em w roli głównej ..."
-    },
-    {
-      "sourceName": "GRY-Online",
-      "title": "W 1919 roku w Nowym Jorku wzniesiono dwie piramidy z 12 tysięcy niemieckich hełmów. Ktoś musiał zapłacić rachunek za I wojnę światową",
-      "sourceUrl": "https://www.gry-online.pl/newsroom/w-1919-roku-w-nowym-jorku-wzniesiono-dwie-piramidy-z-12-tysiecy-n/z232454",
-      "publishedAt": "2026-11-28T11:00+01:00",
-      "summary": "Po zakończeniu I wojny światowej rząd Stanów Zjednoczonych potrzebował sfinansować powrót wojsk do kraju. Wymyślono monumentalny pokaz zwycięstwa w postaci dwóch piramid zbudowanych z niemieckich hełmów.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://www.gry-online.pl/i/h/22/533226442.jpg",
-      "articleSlug": "f58126a3f661",
-      "articleBody": "Po zakończeniu I wojny światowej rząd Stanów Zjednoczonych potrzebował sfinansować powrót wojsk do kraju. Wymyślono monumentalny pokaz zwycięstwa w postaci dwóch piramid zbudowanych z niemieckich hełmów."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Chcesz cementować związek? Unikaj GTA VI!",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/434732/chcesz-cementowac-zwiazek-unikaj-gta-vi.html",
-      "publishedAt": "2026-11-28T10:00+01:00",
-      "summary": "Trudno o banger większy niż (prawie) trzydziestoletnia seria Grand Theft Auto, zapoczątkowana przez DMA Design (późniejsze Rockstar Games). Gdy jej popularność drastycznie wzrosła, stała się ulubionym workiem treningowym w debatach przeciwko g...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/8682d614ab7e84d5cdea/8682d614ab7e84d5cdea.webp",
-      "articleSlug": "d42608fd973a",
-      "articleBody": "Trudno o banger większy niż (prawie) trzydziestoletnia seria Grand Theft Auto, zapoczątkowana przez DMA Design (późniejsze Rockstar Games). Gdy jej popularność drastycznie wzrosła, stała się ulubionym workiem treningowym w debatach przeciwko g..."
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "16cbcb38e3d5882601872bb087d0eaaed24c06892eac5048a5e4291291c66eea"
+  "editorialHash": "1291a2ef5e567713f26fcfa05061f971d00afa0941bc73e3337c26a3d015cc8d"
 }
