@@ -1,18 +1,62 @@
 {
   "status": "rss-only",
   "date": "2026-11-28",
-  "updatedAt": "2026-11-28T18:01+01:00",
+  "updatedAt": "2026-11-28T19:01+01:00",
   "headline": "Wiadomości ze świata gier",
   "editorNote": "Zbieramy wiadomości z różnych stron i opisujemy je własnymi słowami. Pełny tekst przeczytasz u autora - link znajdziesz pod każdym wpisem.",
   "lead": {
     "category": "PROMOCJE",
-    "title": "Wyprzedaż gier planszowych i imprezowych w Empiku! Ceny już od 16,99 zł na Black Friday 2026",
-    "summary": "Przy okazji Black Friday 2026 w Empiku taniej kupicie wybrane gry planszowe, karciane i imprezowe. Ceny w naszym zestawieniu zaczynają się od 16,99 zł za Chińczyka z Rodziną Treflików, a wśród pozostałych propozycji znajdziecie Hitster Summer Party za 68,99 zł, Splendor: Pojedynek za 73,49 zł oraz Wiedźmin: Stary Świat za 258,99 zł. Nie brakuje też innych znanych tytułów, takich jak Dixit czy Everdell, które mogą sprawdzić się jako prezent pod choinkę. Czytaj więcej »",
-    "sourceUrl": "https://lowcygier.pl/gry-planszowe/wyprzedaz-gier-planszowych-i-imprezowych-w-empiku-ceny-juz-od-1699-zl-na-black-friday-2026/",
-    "articleSlug": "eca2e6e2a92d",
-    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Wyprzedaz-gier-planszowych-i-imprezowych-w-Empiku-Ceny-juz-od-1699-zl-na-Black-Friday-2026_miniaturka-224x224.jpg"
+    "title": "Nowa odsłona A Very Humble Holiday. 9 dodatków do Destiny 2 na Steama za 69 zł w Humble Bundle!",
+    "summary": "W Humble Bundle macie teraz okazję na zakup niższym kosztem rozszerzeń fabularnych do popularnej produkcji studia Bungie. W ramach wydarzenia A Very Humble Holiday 2026 wrócił zestaw Destiny 2: Expansions Bundle 2026, obejmujący 9 dodatków, w tym Renegades, The Edge of Fate, The Final Shape oraz The Witch Queen. Całość wraz z pakietem dostępu do lochów kupicie za 15,52 euro (69,40 zł) i aktywujecie na Steamie. Czytaj więcej »",
+    "sourceUrl": "https://lowcygier.pl/bundle/nowa-odslona-a-very-humble-holiday-9-dodatkow-do-destiny-2-na-steama-za-69-zl-w-humble-bundle/",
+    "articleSlug": "0371d3efaa34",
+    "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nowe-A-Very-Humble-Holiday.-9-dodatkow-do-Destiny-2-na-Steama-za-69-zl-w-Humble-Bundle_miniaturka-224x224.jpg"
   },
   "news": [
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Nowa odsłona A Very Humble Holiday. 9 dodatków do Destiny 2 na Steama za 69 zł w Humble Bundle!",
+      "sourceUrl": "https://lowcygier.pl/bundle/nowa-odslona-a-very-humble-holiday-9-dodatkow-do-destiny-2-na-steama-za-69-zl-w-humble-bundle/",
+      "publishedAt": "2026-11-28T18:59+01:00",
+      "summary": "W Humble Bundle macie teraz okazję na zakup niższym kosztem rozszerzeń fabularnych do popularnej produkcji studia Bungie. W ramach wydarzenia A Very Humble Holiday 2026 wrócił zestaw Destiny 2: Expansions Bundle 2026, obejmujący 9 dodatków, w tym Renegades, The Edge of Fate, The Final Shape oraz The Witch Queen. Całość wraz z pakietem dostępu do lochów kupicie za 15,52 euro (69,40 zł) i aktywujecie na Steamie. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/11/Nowe-A-Very-Humble-Holiday.-9-dodatkow-do-Destiny-2-na-Steama-za-69-zl-w-Humble-Bundle_miniaturka-224x224.jpg",
+      "articleSlug": "0371d3efaa34",
+      "articleBody": "W Humble Bundle macie teraz okazję na zakup niższym kosztem rozszerzeń fabularnych do popularnej produkcji studia Bungie. W ramach wydarzenia A Very Humble Holiday 2026 wrócił zestaw Destiny 2: Expansions Bundle 2026, obejmujący 9 dodatków, w tym Renegades, The Edge of Fate, The Final Shape oraz The Witch Queen. Całość wraz z pakietem dostępu do lochów kupicie za 15,52 euro (69,40 zł) i aktywujecie na Steamie. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Xenoblade Chronicles 3 zachwyca na Nintendo Switch 2. Zobaczcie nowy zwiastun nowej edycji wielkiego RPG",
+      "sourceUrl": "https://www.ppe.pl/news/434887/xenoblade-chronicles-3-zachwyca-na-nintendo-switch-2-zobaczcie-nowy-zwiastun-nowej-edycji-wielkiego-rpg.html",
+      "publishedAt": "2026-11-28T18:45+01:00",
+      "summary": "Nintendo ma w swoim rękawie naprawdę mnóstwo asów, które pozwalają firmie co chwilę wypuszczać na rynek bardzo ciekawe produkcje, wśród których są rozszerzone edycje hitów z Nintendo Switch.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/9d440d1b864ed93d4415/9d440d1b864ed93d4415.webp",
+      "articleSlug": "b3dd8db3696c",
+      "articleBody": "Nintendo ma w swoim rękawie naprawdę mnóstwo asów, które pozwalają firmie co chwilę wypuszczać na rynek bardzo ciekawe produkcje, wśród których są rozszerzone edycje hitów z Nintendo Switch."
+    },
+    {
+      "sourceName": "Łowcy Gier",
+      "title": "Okazja na powerbank Baseus Star-Lord 20000mAh 22,5W za 69,99 zł w RTV Euro AGD",
+      "sourceUrl": "https://lowcygier.pl/nie-tylko-gramy/okazja-na-powerbank-baseus-star-lord-20000mah-225w-za-6999-zl-w-rtv-euro-agd/",
+      "publishedAt": "2026-11-28T18:29+01:00",
+      "summary": "W sklepie internetowym RTV Euro AGD znajdziecie teraz dobrą okazję na zakup solidnego powerbanka od firmy Baseus. Model Star-Lord oferuje pojemność 20000mAh oraz moc ładowania 22,5W. Za wspomniany sprzęt w białej wersji kolorystycznej zapłacicie obecnie 69,99 zł. Czytaj więcej »",
+      "category": "PROMOCJE",
+      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/04/Promocja-na-Powerbank-Baseus-P10022905213-00-Star-Lord-30000mAh-30W-Bialy_miniaturka1-224x224.jpg",
+      "articleSlug": "6c888f32a07a",
+      "articleBody": "W sklepie internetowym RTV Euro AGD znajdziecie teraz dobrą okazję na zakup solidnego powerbanka od firmy Baseus. Model Star-Lord oferuje pojemność 20000mAh oraz moc ładowania 22,5W. Za wspomniany sprzęt w białej wersji kolorystycznej zapłacicie obecnie 69,99 zł. Czytaj więcej »"
+    },
+    {
+      "sourceName": "PPE",
+      "title": "Były prezes Blizzarda uważa, że ten jeden element trzeba USUNĄĆ z Grand Theft Auto VI, by bawić się lepiej",
+      "sourceUrl": "https://www.ppe.pl/news/434886/byly-prezes-blizzarda-uwaza-ze-ten-jeden-element-trzeba-usunac-z-grand-theft-auto-vi-by-bawic-sie-lepiej.html",
+      "publishedAt": "2026-11-28T18:15+01:00",
+      "summary": "Grand Theft Auto VI jest największą i najważniejszą grą nie tylko tego roku, ale praktycznie w całej naszej branży, dlatego tak wielkie zainteresowanie budzi też sporo różnych opinii, które nierzadko bywają kontrowersyjne.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://pliki.ppe.pl/storage/8682d614ab7e84d5cdea/8682d614ab7e84d5cdea.webp",
+      "articleSlug": "d6177007df90",
+      "articleBody": "Grand Theft Auto VI jest największą i najważniejszą grą nie tylko tego roku, ale praktycznie w całej naszej branży, dlatego tak wielkie zainteresowanie budzi też sporo różnych opinii, które nierzadko bywają kontrowersyjne."
+    },
     {
       "sourceName": "Łowcy Gier",
       "title": "Wyprzedaż gier planszowych i imprezowych w Empiku! Ceny już od 16,99 zł na Black Friday 2026",
@@ -100,6 +144,17 @@
       "imageUrl": "https://pliki.ppe.pl/storage/117dcc083ec03af35501/117dcc083ec03af35501.webp",
       "articleSlug": "aff29ab25dc9",
       "articleBody": "Yooka-Laylee jest jedną z najciekawszych nowych marek platformówek z ostatniej dekady, dzięki czemu ekipa Playtonic naprawdę może cieszyć się z tego, że może kontynuować pracę nad jej rozwojem i dawać radość kolejnym fanom gatunku."
+    },
+    {
+      "sourceName": "GRY-Online",
+      "title": "Obejrzałem polskiego „Wiedźmina” w kinie po 25 latach. Reżyser zdradził, co po premierze powiedział mu Sapkowski",
+      "sourceUrl": "https://www.gry-online.pl/newsroom/obejrzalem-polskiego-wiedzmina-w-kinie-po-25-latach-rezyser-zdrad/z1324d4",
+      "publishedAt": "2026-11-28T16:20+01:00",
+      "summary": "Seans filmu Wiedźmin po 25 latach jest przeżyciem, którego ani się nie spodziewałem, ani nie chciałem, a jednak okazało się, że ćwierć wieku wystarczyło, aby popioły opadły, złość zelżała, a to, co zostało, to radość i zabawa.",
+      "category": "WIADOMOŚCI",
+      "imageUrl": "https://www.gry-online.pl/i/h/22/533575249.jpg",
+      "articleSlug": "f5459acda930",
+      "articleBody": "Seans filmu Wiedźmin po 25 latach jest przeżyciem, którego ani się nie spodziewałem, ani nie chciałem, a jednak okazało się, że ćwierć wieku wystarczyło, aby popioły opadły, złość zelżała, a to, co zostało, to radość i zabawa."
     },
     {
       "sourceName": "PPE",
@@ -287,61 +342,6 @@
       "imageUrl": "https://www.gry-online.pl/i/h/22/533399176.jpg",
       "articleSlug": "10e15e3ce78d",
       "articleBody": "W Afryce pobito rekord najdłuższego składu kolejowego na świecie. Skład liczący prawie 700 wagonów wraz z lokomotywami mierzył ponad 7,5 kilometra."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "GTA VI sprawia, że chce mi się GRAĆ, a nie tylko przechodzić grę",
-      "sourceUrl": "https://www.ppe.pl/publicystyka/434279/gta-vi-sprawia-ze-chce-mi-sie-grac-a-nie-tylko-przechodzic-gre.html",
-      "publishedAt": "2026-11-28T14:00+01:00",
-      "summary": "Mam ostatnio coraz częściej problem z dużymi grami. Odpalam mapę, patrzę na listę zadań, widzę procent ukończenia i gdzieś z tyłu głowy uruchamia się mały kierownik projektu. Dzisiaj zrobię trzy misje fabularne, po drodze wyczyszczę dwa ...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/29d65f90297770ddccc8/29d65f90297770ddccc8.jpg",
-      "articleSlug": "220fe57d0b69",
-      "articleBody": "Mam ostatnio coraz częściej problem z dużymi grami. Odpalam mapę, patrzę na listę zadań, widzę procent ukończenia i gdzieś z tyłu głowy uruchamia się mały kierownik projektu. Dzisiaj zrobię trzy misje fabularne, po drodze wyczyszczę dwa ..."
-    },
-    {
-      "sourceName": "CD-Action",
-      "title": "Aktor głosowy Michaela z GTA 5 odpowiada graczom narzekającym na Lucię. „Czym w ogóle jest woke?”",
-      "sourceUrl": "https://cdaction.pl/newsy/aktor-glosowy-michaela-z-gta-5-odpowiada-graczom-narzekajacym-na-lucie-czym-w-ogole-jest-woke/",
-      "publishedAt": "2026-11-28T13:58+01:00",
-      "summary": "Wydaje się jednak, że krytyka graczy dotyczy czegoś innego.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://cdaction.pl/wp-content/uploads/2026/09/Zrzut-ekranu-2026-09-4-o-12.21.46-1260x662.jpg",
-      "articleSlug": "3c2e4d546f42",
-      "articleBody": "Wydaje się jednak, że krytyka graczy dotyczy czegoś innego."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Rockstar Games odpowiada na krytykę GTA 6! To jeden z najbardziej krytykowanych, \"ugrzecznionych\" elementów",
-      "sourceUrl": "https://www.ppe.pl/news/434864/rockstar-games-odpowiada-na-krytyke-gta-6-to-jeden-z-najbardziej-krytykowanych-ugrzecznionych-elementow.html",
-      "publishedAt": "2026-11-28T13:54+01:00",
-      "summary": "Grand Theft Auto 6 wprowadziło do serii całą masę świeżych pomysłów - od zmiennej pogody po rozbudowane relacje - ale jedna z nowych mechanik od samej premiery mocno podzieliła graczy i zbiera sporo krytyki.",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/bcdf26eef85e3af8edcc/bcdf26eef85e3af8edcc.webp",
-      "articleSlug": "cbce273de9fa",
-      "articleBody": "Grand Theft Auto 6 wprowadziło do serii całą masę świeżych pomysłów - od zmiennej pogody po rozbudowane relacje - ale jedna z nowych mechanik od samej premiery mocno podzieliła graczy i zbiera sporo krytyki."
-    },
-    {
-      "sourceName": "PPE",
-      "title": "Szef Epic Games broni kontrowersyjnego planu Ubisoftu. „Mogą znów stać się potęgą”",
-      "sourceUrl": "https://www.ppe.pl/news/434860/szef-epic-games-broni-kontrowersyjnego-planu-ubisoftu-moga-znow-stac-sie-potega.html",
-      "publishedAt": "2026-11-28T13:30+01:00",
-      "summary": "Doniesienia o coraz większej roli generatywnej sztucznej inteligencji w Ubisofcie wywołały sporo kontrowersji, lecz Tim Sweeney widzi w tym ogromną szansę. Dyrektor generalny Epic Games poparł podejście Yves’a Guillemota i stwierdził, że nowe...",
-      "category": "WIADOMOŚCI",
-      "imageUrl": "https://pliki.ppe.pl/storage/f40c8bab7c856e57141d/f40c8bab7c856e57141d.jpg",
-      "articleSlug": "b37ea4bb54b7",
-      "articleBody": "Doniesienia o coraz większej roli generatywnej sztucznej inteligencji w Ubisofcie wywołały sporo kontrowersji, lecz Tim Sweeney widzi w tym ogromną szansę. Dyrektor generalny Epic Games poparł podejście Yves’a Guillemota i stwierdził, że nowe..."
-    },
-    {
-      "sourceName": "Łowcy Gier",
-      "title": "Pudełkowe The Blood of Dawnwalker Launch Edition na PS5 + Steelbook za 174,11 zł na Allegro",
-      "sourceUrl": "https://lowcygier.pl/promocje-pudelkowe/pudelkowe-the-blood-of-dawnwalker-launch-edition-na-ps5-steelbook-za-17411-zl-na-allegro/",
-      "publishedAt": "2026-11-28T13:24+01:00",
-      "summary": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 174,11 zł! Czytaj więcej »",
-      "category": "PROMOCJE",
-      "imageUrl": "https://lowcygier.pl/wp-content/uploads/2026/05/Promocja-na-The-Blood-of-Dawnwalker-ps5_miniaturka-224x224.jpg",
-      "articleSlug": "73f4f083ed58",
-      "articleBody": "Premiera The Blood of Dawnwalker miała miejsce już jakiś czas temu. Produkcja od studia Rebel Wolves, czyli zespołu założonego przez twórców Wiedźmina 3 i Cyberpunk 2077, pojawiła się na rynku 3 września. Jeśli recenzje, prezentacje oraz gameplaye was przekonały do chęci zakupu, to za pośrednictwem serwisu Allegro możecie zakupić tanio wydanie fizyczne na konsolę PlayStation 5 w wersji z limitowanym steelbookiem. Cena The Blood of Dawnwalker Launch Edition wynosi aktualnie 174,11 zł! Czytaj więcej »"
     }
   ],
   "indie": [
@@ -351,7 +351,7 @@
       "platform": "PC (Steam)",
       "summary": "You wake up as a House. Your bones are pipes and tunnels. Your organs are a labyrinth of caves. The House Before is a narrative body horror adventure where you play as a monstrous structure filled with strange creatures.",
       "sourceUrl": "https://store.steampowered.com/app/1779750/The_House_Before/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1779750/2f6d7b71d3147ba57762fbc3f7368ccd6f2448dc/capsule_616x353.jpg?t=1793707714"
     },
     {
       "title": "ANOMALITH",
@@ -359,7 +359,7 @@
       "platform": "PC (Steam)",
       "summary": "Survival horror z perspektywą trzeciej osoby, osadzony w Japonii i zanurzony w estetyce lat 80. oraz liminalnych przestrzeniach. Bohaterka wyrusza szukać zaginionej przyjaciółki w strefach pełnych anomalii.",
       "sourceUrl": "https://store.steampowered.com/app/4017880/ANOMALITH/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4017880/c3b8c4a0e37e27a688d460293630ba264554f674/capsule_616x353.jpg?t=1793353788"
     },
     {
       "title": "Nocturnal 2",
@@ -367,7 +367,7 @@
       "platform": "PC (Steam)",
       "summary": "Nastrojowa, ręcznie rysowana przygodowa metroidvania. Z płonącym mieczem przemierzamy mroczne, połączone ze sobą dzielnice zapomnianego miasta Ytash i odkrywamy jego sekrety.",
       "sourceUrl": "https://store.steampowered.com/app/2847780/Nocturnal_2/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2847780/0934c87190001ea1d2db39b3ac462a0822a8899f/capsule_616x353.jpg?t=1795114177"
     },
     {
       "title": "Nowhere",
@@ -375,7 +375,7 @@
       "platform": "PC (Steam)",
       "summary": "Detektywistyczny horror inspirowany nordyckim folklorem. Poszukiwanie czworga zaginionych turystów prowadzi przez zamgloną norweską dolinę, opuszczone gospodarstwa i miejsca dawnych rytuałów. Steam nie podaje obecnie daty premiery.",
       "sourceUrl": "https://store.steampowered.com/app/2743260/Nowhere/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2743260/b7fdb3d908b78c992fe7332c7c84e73d3473f615/capsule_616x353.jpg?t=1793628578"
     },
     {
       "title": "The Road of Dust and Sorrow",
@@ -394,7 +394,7 @@
       "status": "confirmed",
       "note": "Deweloper Visuwyg i wydawca Hyperstrange zapowiedzieli premierę na 13 listopada. Retro FPS w klaustrofobicznym horrorze science fiction, z estetyką późnej ery PS1.",
       "sourceUrl": "https://store.steampowered.com/app/3810510/DERELIKT/",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3810510/ecd586ce4f242e46d4febaf9209c3d09d5f9d4c8/capsule_616x353.jpg?t=1794855109"
     },
     {
       "date": "2026-11-16",
@@ -404,7 +404,7 @@
       "note": "Surrealistyczna, komediowa gra o wyprawie przez las pełen pułapek i złośliwych drzew. Steam pokazuje 16 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/4171850/Trees_Hate_You/",
       "summary": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4171850/e91e9662ad67f01a965b1ea764629bd63cba7c32/capsule_616x353.jpg?t=1794837394"
     },
     {
       "date": "2026-11-19",
@@ -442,7 +442,7 @@
       "note": "Psychologiczny horror, w którym bohaterka musi przekonać matkę, że naprawdę jest jej córką. Steam wyświetla 27 listopada jako planowaną datę premiery.",
       "sourceUrl": "https://store.steampowered.com/app/3224600/Am_I_Nima/",
       "summary": "is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3224600/ea66a13c0190bd352a594e958dfdde2fd4a6f3dc/capsule_616x353.jpg?t=1795801195"
     },
     {
       "date": "2026-12-01",
@@ -529,5 +529,5 @@
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI2MjA2NmMtMTg4Mi00YTllLThjNDMtMzJlZWE1Y2Q1ODk5XkEyXkFqcGc%40._V1_.jpg"
   },
   "editorialUpdatedAt": "2026-11-13",
-  "editorialHash": "1291a2ef5e567713f26fcfa05061f971d00afa0941bc73e3337c26a3d015cc8d"
+  "editorialHash": "16cbcb38e3d5882601872bb087d0eaaed24c06892eac5048a5e4291291c66eea"
 }
